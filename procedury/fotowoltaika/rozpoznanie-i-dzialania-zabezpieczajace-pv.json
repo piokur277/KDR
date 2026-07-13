@@ -1,0 +1,36 @@
+{
+  "id": "KARTA-PV-ROZPOZNANIE-I-ZABEZPIECZENIE",
+  "kategoria": "dzialania",
+  "zrodlo": "Standardowe zasady postepowania podczas zdarzen w obrebie instalacji fotowoltaicznych, KG PSP",
+  "data_aktualizacji": "2022-03",
+  "slowo_kluczowe": "rozpoznanie fotowoltaika",
+  "keywords": [
+    "instalacja pv",
+    "rozpoznanie pv",
+    "zabezpieczenie pv",
+    "falownik pv",
+    "magazyn energii pv",
+    "moduly fotowoltaiczne"
+  ],
+  "prefix": "Rozpoznanie i dzialania zabezpieczajace przy zdarzeniach w obrebie instalacji fotowoltaicznych.",
+  "content": "1. KOD / NAZWA: instalacja fotowoltaiczna PV - rozpoznanie i dzialania zabezpieczajace.\n2. ROZPOZNANIE: ustaw pojazdy od strony nawietrznej, zachowujac bezpieczna odleglosc. Pozyskaj od wlasciciela, zarzadcy, personelu lub swiadkow jak najwiecej informacji o instalacji. Sprawdz, czy obiekt jest oznakowany znakiem bezpieczenstwa informujacym o obecnosci instalacji PV.\n3. USTALENIA KLUCZOWE: ustal lokalizacje modulow PV, pozostalych elementow instalacji, skrzynki przylaczeniowej sieci, magazynow energii oraz planu instalacji dla ekip ratowniczych. O ile to mozliwe ustal, w jakie zabezpieczenia wyposazona jest instalacja.\n4. TRASY I TYP INSTALACJI: ustal przebieg tras kablowych pradu stalego DC od modulow do falownika oraz od falownika do rozdzielni. Zweryfikuj, czy na obiekcie jest instalacja PV, a nie instalacja cieczowych kolektorow termicznych.\n5. OCENA USZKODZEN: ocen stan instalacji na podstawie oznak zewnetrznych. Okopcenie modulow, pekniecia, przebarwienia, uszkodzenia termiczne zlacz i przewodow moga swiadczyc o uszkodzeniu i wystepowaniu niebezpiecznego napiecia na metalowych elementach instalacji i budynku.\n6. SOI: podczas rozpoznania i dzialan stosuj srodki ochrony indywidualnej, w tym sprzet elektroizolacyjny, odpowiednio do rodzaju zdarzenia.\n7. DZIALANIA KRYTYCZNE: podejmij probe rozlaczenia doplywu energii elektrycznej do obiektu, uwzgledniajac mozliwosc wystepowania zasilania zapasowego. Jezeli instalacja wyposazona jest w magazyn energii, podejmij probe ustawienia wylacznika glownego falownika w pozycji zero lub Off. Jezeli obiekt ma przeciwpozarowy wylacznik pradu, wykorzystaj go.\n8. PROCEDURA SZCZEGOLOWA: w instalacjach ze stacja transformatorowa podejmij probe kontaktu z dyspozytorem operatora sieci dystrybucyjnej i popros o zdalne odlaczenie zasilania stacji. Co do zasady nie ingeruj w instalacje PV po stronie pradu stalego DC. Jezeli konieczny jest demontaz modulow, stosuj szczegolne srodki ostroznosci, w tym sprzet elektroizolacyjny, dedykowane klucze do rozpinania zlacz oraz zabezpieczaj luzne zlacza i przewody.\n9. CO MOZE POJSC NIE TAK: po odlaczeniu zasilania po stronie AC nadal moze wystepowac wysokie napiecie po stronie DC pomiedzy modulami a rozlacznikiem lub bezpiecznikami. Zaslanianie modulow plandekami albo pokrywanie piana sprezona nie daje gwarancji zabezpieczenia przed porazeniem pradem.\n10. UWAGI OPERACYJNE: nie dotykaj elementow instalacji PV, jezeli nie jest to konieczne. Jezeli jakikolwiek element budynku lub instalacji wykonany jest z materialow przewodzacych prad, zawsze zakladaj, ze moze byc pod napieciem. Detektor typu Hot Stick nie wykrywa pradu stalego generowanego przez moduly fotowoltaiczne.",
+  "tagi_wspolne": [
+    "fotowoltaika",
+    "pv",
+    "instalacja fotowoltaiczna",
+    "rozpoznanie"
+  ],
+  "aliasy": [
+    "instalacja pv",
+    "rozpoznanie pv",
+    "zabezpieczenie pv",
+    "falownik pv",
+    "magazyn energii pv",
+    "moduly fotowoltaiczne"
+  ],
+  "pelna_procedura": {
+    "tytul": "Standardowe zasady postepowania podczas zdarzen w obrebie instalacji fotowoltaicznych, KG PSP",
+    "plik": "",
+    "strona": null
+  }
+}

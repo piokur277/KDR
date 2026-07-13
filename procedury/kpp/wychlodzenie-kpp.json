@@ -1,0 +1,29 @@
+{
+  "id": "KARTA-KPP-WYCHLODZENIE",
+  "kategoria": "dzialania",
+  "zrodlo": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 17",
+  "data_aktualizacji": "",
+  "slowo_kluczowe": "wychlodzenie kpp",
+  "keywords": [
+    "procedura 17 kpp",
+    "termoizolacja kpp",
+    "ocena oddechu 60 sekund"
+  ],
+  "prefix": "KPP - wychlodzenie.",
+  "content": "1. KOD / NAZWA: Procedura 17 - wychlodzenie.\n2. START: wykonaj rozpoznanie miejsca zdarzenia i sekwencje medycznych dzialan ratowniczych, uwzgledniajac ocene oddechu i tetna przez 60 sekund.\n3. EWAKUACJA: ewakuuj poszkodowanego.\n4. MOKRA ODZIEZ: usun mokre elementy odziezy przez rozciecie oraz osusz skore, nie narazajac dodatkowo poszkodowanego na wychlodzenie i ruch.\n5. TERMOIZOLACJA: zastosuj termoizolacje.\n6. POZYCJA: uloz poszkodowanego w pozycji poziomej.\n7. UWAGI OPERACYJNE: w procedurze podkreslono ostrozne obchodzenie sie z poszkodowanym i wydluzona ocene funkcji zyciowych.",
+  "tagi_wspolne": [
+    "kpp",
+    "medyczne dzialania ratownicze",
+    "wychlodzenie"
+  ],
+  "aliasy": [
+    "procedura 17 kpp",
+    "termoizolacja kpp",
+    "ocena oddechu 60 sekund"
+  ],
+  "pelna_procedura": {
+    "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 17",
+    "plik": "",
+    "strona": null
+  }
+}

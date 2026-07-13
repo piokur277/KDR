@@ -1,0 +1,51 @@
+{
+  "id": "KARTA-ORG-AMONIAK-NH3-WARTOSCI-GRANICZNE",
+  "kategoria": "substancja",
+  "zrodlo": "CIOP-PIB, Baza niebezpiecznych substancji chemicznych, Amoniak",
+  "data_aktualizacji": "",
+  "slowo_kluczowe": "amoniak",
+  "keywords": [
+    "nh3",
+    "amoniak nh3",
+    "wartosci graniczne amoniak",
+    "ppm amoniak",
+    "nds amoniak",
+    "ndsch amoniak",
+    "wyciek amoniaku",
+    "ciekly amoniak",
+    "toksycznosc amoniaku",
+    "cas 7664-41-7",
+    "h221",
+    "h331 amoniak",
+    "h314 amoniak",
+    "h400"
+  ],
+  "prefix": "NH3 / Amoniak - karta zagrozenia operacyjnego.",
+  "content": "1. KOD / NAZWA: NH3 - amoniak; CAS 7664-41-7.\n2. ROZPOZNANIE: bezbarwny gaz o ostrym, charakterystycznym zapachu. Gestosc par wzgledem powietrza wynosi 0,597, czyli gaz jest lzejszy od powietrza. Prog wyczuwalnosci zapachu wedlug CIOP wynosi 0,4-40 mg/m3.\n3. STREFA: brak jednej liczbowej strefy w materiale CIOP; przyjmij natychmiastowe odsuniecie osob z narazenia, eliminacje zrodel zaplonu i dobra wentylacje miejsca zdarzenia. W przypadku plynacego wycieku gazu nie gasic plomienia, jezeli nie mozna bezpiecznie zahamowac wycieku.\n4. SOI: zgodnie z informacja CLP stosowac rekawice ochronne, odziez ochronna, ochrone oczu i twarzy. Ze wzgledu na toksycznosc inhalacyjna i dzialanie zarace nalezy traktowac ekspozycje jako zagrozenie ciezkim urazem.\n5. DZIALANIA KRYTYCZNE: wyprowadzic lub wyniesc poszkodowanego na swieze powietrze i zapewnic mu warunki do swobodnego oddychania. Podawac tlen. Przy narazeniu inhalacyjnym zapewnic spokoj i bezruch, bo wysilek zwieksza ryzyko obrzeku pluc. Przy wycieku wyeliminowac wszystkie zrodla zaplonu.\n6. PROCEDURA SZCZEGOLOWA: klasyfikacja CLP obejmuje H221, H331, H314 i H400. W razie kontaktu ze skora natychmiast zdjac zanieczyszczona odziez i splukiwac skore pod strumieniem wody. W razie dostania sie do oczu plukac ostroznie woda przez kilka minut i natychmiast skierowac do lekarza. Przy zatruciu inhalacyjnym CIOP wskazuje tlen, a przy swiszczacym oddechu Atrovent do inhalacji; przy utrzymujacych sie objawach obrzeku krtani mozliwa jest intubacja i pilny transport do szpitala. Nie stosowac srodkow zobojetniajacych na skore.\n7. WARTOSCI GRANICZNE I PARAMETRY: NDS 14 mg/m3; NDSCh 28 mg/m3; NDSP nie ustalono. Temperatura wrzenia -33,35 C. Temperatura samozaplonu 630 C. Granice wybuchowosci w powietrzu 15-28% obj. Masa czasteczkowa 17,031.\n8. GLOWNE ZAGROZENIA: substancja toksyczna, drazniaca i zaraca. Powoduje oparzenia skory oraz uszkodzenia oczu. W postaci gazu i par moze wywolac bol i lzawienie oczu, kaszel, bol gardla, chrypke, mdlosci, wymioty, dusznosc, obrzek krtani, skurcz oskrzeli, zatrzymanie oddechu i obrzek pluc. Ciekly amoniak powoduje odmrozenia skory.\n9. CO MOZE POJSC NIE TAK: opoznienie ewakuacji ze strefy narazenia, niedoszacowanie ryzyka obrzeku pluc po inhalacji, gaszenie plonacego wycieku bez mozliwosci zatrzymania uwolnienia, oraz stosowanie srodkow zobojetniajacych na skazona skore.\n10. UWAGI OPERACYJNE: z materialu CIOP wynika, ze amoniak wchlania sie przez drogi oddechowe i z przewodu pokarmowego. LC50 dla szczura podano jako 7600 mg/m3 (2 h), a LCL0 jako 1420 mg/m3 (4 h). Odtrutki nie sa znane.",
+  "tagi_wspolne": [
+    "amoniak",
+    "nh3",
+    "substancja chemiczna"
+  ],
+  "aliasy": [
+    "nh3",
+    "amoniak nh3",
+    "wartosci graniczne amoniak",
+    "ppm amoniak",
+    "nds amoniak",
+    "ndsch amoniak",
+    "wyciek amoniaku",
+    "ciekly amoniak",
+    "toksycznosc amoniaku",
+    "cas 7664-41-7",
+    "h221",
+    "h331 amoniak",
+    "h314 amoniak",
+    "h400"
+  ],
+  "pelna_procedura": {
+    "tytul": "CIOP-PIB, Baza niebezpiecznych substancji chemicznych, Amoniak",
+    "plik": "",
+    "strona": null
+  }
+}

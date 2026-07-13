@@ -1,0 +1,33 @@
+{
+  "id": "KARTA-ACETYLEN-ROZPOZNANIE",
+  "kategoria": "rozpoznanie",
+  "zrodlo": "Standardowe zasady postepowania podczas zdarzen z udzialem butli z acetylenem, KG PSP",
+  "data_aktualizacji": "2020-03-13",
+  "slowo_kluczowe": "rozpoznanie butli acetylen",
+  "keywords": [
+    "jak rozpoznac butle z acetylenem",
+    "czy butla acetylen jest szczelna",
+    "ocena butli acetylen",
+    "podejrzenie rozkladu acetylenu",
+    "rozpoznanie acetylen"
+  ],
+  "prefix": "Rozpoznanie - butle z acetylenem.",
+  "content": "1. KOD / NAZWA: rozpoznanie butli z acetylenem.\n2. ROZPOZNANIE WSTEPNE: pozyskaj od personelu, uczestnikow i swiadkow jak najwiecej informacji o okolicznosciach zdarzenia. Nie zblizaj sie do butli i jej nie przemieszczaj.\n3. OZNAKI ZAGROZENIA: ocen stan butli po oznakach zewnetrznych i otoczeniu; oznaki ogrzania, uszkodzen, plomienia, odglosu wyplywu gazu lub kopcacego plomienia wskazuja na zagrozenie i potrzebe rozpoczecia chlodzenia.\n4. DZIALANIA KRYTYCZNE: gdy nie jestes pewien stanu butli, podaj jak najszybciej rozproszony prad wody na cala powierzchnie i obserwuj parowanie; jesli wystepuje para nad plaszczem, kontynuuj chlodzenie.\n5. KWALIFIKACJA: ocen, czy butla jest szczelna. Butle poddane dzialaniu ognia, ciepla lub wielokrotnym uderzeniom kwalifikuj do Z1. Butle niepoddane tym oddzialywaniom, ale nieszczelne wewnatrz obiektu kwalifikuj do Z2. Butle niepoddane tym oddzialywaniom, ale nieszczelne na zewnatrz obiektu kwalifikuj do Z3. Butle niepoddane tym oddzialywaniom i szczelne kwalifikuj do Z4.\n6. UWAGI OPERACYJNE: przy braku pewnej informacji o stanie butli przyjmij najbardziej niebezpieczny przypadek i prowadz dzialania jak dla karty Z1.",
+  "tagi_wspolne": [
+    "acetylen",
+    "butla acetylenowa",
+    "rozpoznanie"
+  ],
+  "aliasy": [
+    "jak rozpoznac butle z acetylenem",
+    "czy butla acetylen jest szczelna",
+    "ocena butli acetylen",
+    "podejrzenie rozkladu acetylenu",
+    "rozpoznanie acetylen"
+  ],
+  "pelna_procedura": {
+    "tytul": "Standardowe zasady postepowania podczas zdarzen z udzialem butli z acetylenem, KG PSP",
+    "plik": "",
+    "strona": null
+  }
+}

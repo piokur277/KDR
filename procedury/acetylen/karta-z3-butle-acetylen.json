@@ -1,0 +1,29 @@
+{
+  "id": "KARTA-ACETYLEN-Z3",
+  "kategoria": "dzialania",
+  "zrodlo": "Standardowe zasady postepowania podczas zdarzen z udzialem butli z acetylenem, KG PSP",
+  "data_aktualizacji": "2020-03-13",
+  "slowo_kluczowe": "nieszczelna butla acetylen na zewnatrz",
+  "keywords": [
+    "wyciek acetylenu na zewnatrz",
+    "acetylen poza budynkiem",
+    "karta z3 acetylen"
+  ],
+  "prefix": "Karta Z3 - Butle niepoddane dzialaniu ognia/ciepla lub wielokrotnym uderzeniom - nieszczelne, znajdujace sie na zewnatrz obiektu.",
+  "content": "1. KOD / NAZWA: Z3 - butle z acetylenem niepoddane dzialaniu ognia, ciepla lub wielokrotnym uderzeniom, nieszczelne, znajdujace sie na zewnatrz obiektu.\n2. ROZPOZNANIE: potwierdz, ze butla jest nieszczelna i znajduje sie na zewnatrz obiektu. Monitoruj obszar wystepowania mieszaniny wybuchowej.\n3. STREFA: wyznacz promien strefy zagrozenia na podstawie wskazan urzadzen pomiarowych, lecz nie mniejszy niz 30 m, i przeprowadz ewakuacje osob ze strefy.\n4. SOI: ogranicz liczbe ratownikow w strefie do minimum i stosuj ochrone drog oddechowych oraz oczu.\n5. DZIALANIA KRYTYCZNE: wyeliminuj potencjalne zrodla zaplonu, ratownikow przebywajacych w strefie zabezpiecz rozproszonym pradem wody, korzystaj z narzedzi nieiskrzacych i urzadzen w wykonaniu przeciwwybuchowym.\n6. PROCEDURA SZCZEGOLOWA: gdy nie wystepuje zagrozenie wybuchem, podejmij probe zakrecenia zaworu na butli w celu zatrzymania wycieku gazu. Po zakreceniu zaworu sprawdz, czy cala powierzchnia butli pozostaje zimna; jesli nie, przejdz do dzialan z karty Z1, a jesli pozostaje zimna, dopuszcza sie jej przeniesienie w inne bezpieczniejsze miejsce.\n7. CO MOZE POJSC NIE TAK: najwiekszym bledem jest niedoszacowanie strefy, pozostawienie aktywnych zrodel zaplonu oraz przenoszenie butli bez potwierdzenia, ze cala powierzchnia pozostaje zimna.\n8. UWAGI OPERACYJNE: karta dotyczy butli nieszczelnych na zewnatrz obiektu, ale tylko wtedy, gdy nie byly poddane dzialaniu ognia, ciepla lub wielokrotnym uderzeniom.",
+  "tagi_wspolne": [
+    "acetylen",
+    "butla acetylenowa",
+    "wyciek"
+  ],
+  "aliasy": [
+    "wyciek acetylenu na zewnatrz",
+    "acetylen poza budynkiem",
+    "karta z3 acetylen"
+  ],
+  "pelna_procedura": {
+    "tytul": "Standardowe zasady postepowania podczas zdarzen z udzialem butli z acetylenem, KG PSP",
+    "plik": "",
+    "strona": null
+  }
+}

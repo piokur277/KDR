@@ -1,0 +1,30 @@
+{
+  "id": "KARTA-KPP-OBRAZENIA-GLOWY",
+  "kategoria": "dzialania",
+  "zrodlo": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 7",
+  "data_aktualizacji": "",
+  "slowo_kluczowe": "obrazenia glowy kpp",
+  "keywords": [
+    "podejrzenie obrazen glowy kpp",
+    "procedura 7 kpp",
+    "stabilizacja szyjnego kpp"
+  ],
+  "prefix": "KPP - obrazenia i podejrzenie obrazen glowy.",
+  "content": "1. KOD / NAZWA: Procedura 7 - obrazenia i podejrzenie obrazen glowy.\n2. START: wykonaj rozpoznanie miejsca zdarzenia i sekwencje medycznych dzialan ratowniczych z procedury 2.\n3. STABILIZACJA: zastosuj stabilizacje odcinka szyjnego kregoslupa.\n4. RANA GLOWY: jezeli wystepuje rana glowy, zaloz opatrunek oslaniajacy.\n5. EWAKUACJA: w razie koniecznosci ewakuacji unieruchom poszkodowanego na noszach.\n6. USTAWIENIE NOSZY: podczas ewakuacji nosze nalezy uniesc od strony glowy.\n7. UWAGI OPERACYJNE: karta laczy postepowanie z rana glowy z podejrzeniem obrazen odcinka szyjnego kregoslupa.",
+  "tagi_wspolne": [
+    "kpp",
+    "medyczne dzialania ratownicze",
+    "obrazenia",
+    "uraz"
+  ],
+  "aliasy": [
+    "podejrzenie obrazen glowy kpp",
+    "procedura 7 kpp",
+    "stabilizacja szyjnego kpp"
+  ],
+  "pelna_procedura": {
+    "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 7",
+    "plik": "",
+    "strona": null
+  }
+}

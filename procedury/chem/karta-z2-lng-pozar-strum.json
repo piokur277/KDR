@@ -1,0 +1,36 @@
+{
+  "id": "KARTA-CHEM-Z2-LNG-POZAR-STRUM",
+  "kategoria": "dzialania",
+  "zrodlo": "Zasady postepowania podczas zdarzen z LNG, KG PSP",
+  "data_aktualizacji": "2025-12",
+  "slowo_kluczowe": "pozar strumieniowy lng",
+  "keywords": [
+    "jet fire",
+    "wyciek i pozar lng",
+    "pozar zaworu lng",
+    "pali sie wyciek lng",
+    "ogien z cysterny lng",
+    "palnik lng"
+  ],
+  "prefix": "Karta Z2 - Pozar strumieniowy z wycieku cysterny LNG (Jet Fire).",
+  "content": "1. KOD / NAZWA: LNG Z2 - pozar strumieniowy z wycieku cysterny LNG (Jet Fire).\n2. ROZPOZNANIE: dokonaj rozpoznania zza oslony balistycznej i uwzglednij bardzo silne promieniowanie cieplne, znacznie wyzsze niz przy pozarach benzyny.\n3. STREFA: wyznacz strefe zagrozenia dla ratownikow 300 m.\n4. SOI: stosuj pelne ubranie specjalne z kapturem, ODO i rekawice kriogeniczne.\n5. DZIALANIA KRYTYCZNE: rozstaw kurtyny i prady rozproszone do ograniczenia promieniowania cieplnego oraz prowadz bezobslugowe chlodzenie zbiornika woda z wydajnoscia 10 l/min/m2.\n6. PROCEDURA SZCZEGOLOWA: nie ugaszaj pozaru strumieniowego, jesli nie masz pewnosci, ze odetniesz wyplyw gazu. Nie podawaj wody na zawory bezpieczenstwa ani do wnetrza rozszczelnienia. Prowadz kontrolowane wypalanie ulatniajacego sie gazu i stale kontroluj temperature pozostalej czesci plaszcza.\n7. CO MOZE POJSC NIE TAK: ugaszenie plomienia bez odciecia wyplywu grozi wybuchem chmury. Nieprawidlowe podawanie wody moze podwyzszyc temperature miejsc, ktore same schladzaja sie przez rozprezajacy sie gaz.\n8. UWAGI OPERACYJNE: zwracaj uwage, aby pradem wody nie ogrzewac powierzchni cysterny schladzanej przez wyplywajacy gaz.",
+  "tagi_wspolne": [
+    "lng",
+    "gaz skroplony",
+    "cysterna lng",
+    "pozar"
+  ],
+  "aliasy": [
+    "jet fire",
+    "wyciek i pozar lng",
+    "pozar zaworu lng",
+    "pali sie wyciek lng",
+    "ogien z cysterny lng",
+    "palnik lng"
+  ],
+  "pelna_procedura": {
+    "tytul": "Zasady postepowania podczas zdarzen z LNG, KG PSP",
+    "plik": "",
+    "strona": null
+  }
+}

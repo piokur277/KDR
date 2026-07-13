@@ -1,0 +1,38 @@
+{
+  "id": "KARTA-CHEM-B22-PODEJRZANA-PRZESYLKA-CBR",
+  "kategoria": "dzialania",
+  "zrodlo": "Zalacznik nr B.2.2. Algorytm postepowania i wspoldzialania w przypadku otrzymania niezidentyfikowanej przesylki, mogacej stanowic zagrozenie chemiczne, biologiczne lub radiacyjne",
+  "data_aktualizacji": "",
+  "slowo_kluczowe": "podejrzana przesylka",
+  "keywords": [
+    "niezidentyfikowana przesylka",
+    "przesylka chemiczna",
+    "przesylka biologiczna",
+    "przesylka radiacyjna",
+    "brudna bomba",
+    "material niezidentyfikowany",
+    "algorytm b22",
+    "podejrzana paczka"
+  ],
+  "prefix": "Zalacznik B2.2 - Algorytm postepowania przy otrzymaniu niezidentyfikowanej przesylki mogacej stanowic zagrozenie chemiczne, biologiczne lub radiacyjne.",
+  "content": "1. KOD / NAZWA: B2.2 - postepowanie przy otrzymaniu niezidentyfikowanej przesylki mogacej stanowic zagrozenie chemiczne, biologiczne lub radiacyjne.\n2. ROZPOZNANIE: rozpoznanie przesylki prowadzi Policja lub PSP wedlug wlasciwosci i rownoczesnie powiadamia pozostale sluzby i instytucje zgodnie z potrzebami.\n3. MATERIAL WYBUCHOWY: dzialania prowadzi Policja, transport realizuje Policja, a dalsze postepowanie obejmuje dzialania minersko-pirotechniczne, zniszczenie albo przekazanie probki do CLKP lub LK KWP.\n4. MATERIAL PROMIENIOTWORCZY: dzialania prowadza PSP i Ekipa Dozymetryczna Prezesa PAA, transport realizuje Ekipa Dozymetryczna Prezesa PAA lub ZUOP, a probke przekazuje sie do Ekipy Dozymetrycznej Prezesa PAA.\n5. MATERIAL CHEMICZNY: dzialania prowadza PSP i Policja, transport realizuje PSP lub Policja, a probke przekazuje sie do wlasciwego laboratorium CLKP, LK KWP lub BBK ABW.\n6. MATERIAL BIOLOGICZNY: dzialania prowadza PIS i PSP, transport realizuje PIS albo PSP, a probke przekazuje sie do laboratorium.\n7. BRUDNA BOMBA I MATERIAL NIEZIDENTYFIKOWANY: brudna bombe traktuje sie jako polaczenie urzadzenia wybuchowego z materialem chemicznym, biologicznym lub promieniotworczym i wlacza odpowiednie sluzby. Jezeli material pozostaje niezidentyfikowany, ale wykluczono urzadzenie wybuchowe i material promieniotworczy, dzialania prowadza PSP, PIS oraz wlasciwe laboratorium, a transport probki realizuje PSP.\n8. UWAGI OPERACYJNE: w razie potrzeby do pilotowania pojazdow przewozacych przesylke mozna wykorzystac Policje. Do wyboru laboratorium i organizacji wsparcia wykorzystuje sie zasoby CLKP, LK KWP oraz BBK ABW zgodnie z algorytmem.",
+  "tagi_wspolne": [
+    "cbrne",
+    "podejrzana przesylka"
+  ],
+  "aliasy": [
+    "niezidentyfikowana przesylka",
+    "przesylka chemiczna",
+    "przesylka biologiczna",
+    "przesylka radiacyjna",
+    "brudna bomba",
+    "material niezidentyfikowany",
+    "algorytm b22",
+    "podejrzana paczka"
+  ],
+  "pelna_procedura": {
+    "tytul": "Zalacznik nr B.2.2. Algorytm postepowania i wspoldzialania w przypadku otrzymania niezidentyfikowanej przesylki, mogacej stanowic zagrozenie chemiczne, biologiczne lub radiacyjne",
+    "plik": "",
+    "strona": null
+  }
+}

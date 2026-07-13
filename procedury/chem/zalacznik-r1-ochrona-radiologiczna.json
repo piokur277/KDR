@@ -1,0 +1,41 @@
+{
+  "id": "KARTA-CHEM-R1-OCHRONA-RADIOLOGICZNA",
+  "kategoria": "informacja",
+  "zrodlo": "Zalacznik nr R.1. Ochrona radiologiczna oraz dzialania podczas zdarzen radiacyjnych - podstawowe informacje",
+  "data_aktualizacji": "",
+  "slowo_kluczowe": "zasady ochrony radiologicznej",
+  "keywords": [
+    "ochrona radiologiczna",
+    "informacje o zdarzeniu radiacyjnym",
+    "strefa goraca promieniowanie",
+    "promieniowanie alfa beta gamma neutronowe",
+    "transport materialow promieniotworczych",
+    "wskaznik transportowy ti",
+    "wzorcowanie dozymetrow",
+    "skazenie promieniotworcze",
+    "moc dawki"
+  ],
+  "prefix": "Zalacznik R1 - Ochrona radiologiczna oraz podstawowe informacje o dzialaniach podczas zdarzen radiacyjnych.",
+  "content": "1. KOD / NAZWA: R1 - ochrona radiologiczna oraz podstawowe informacje o dzialaniach podczas zdarzen radiacyjnych.\n2. ROZPOZNANIE ZAGROZENIA: zdarzenie radiacyjne to nietypowa sytuacja zwiazana ze zrodlem promieniowania jonizujacego, wymagajaca pilnych dzialan interwencyjnych w celu ograniczenia skutkow dla ludzi, mienia lub srodowiska.\n3. STREFA: strefa I (goraca) obejmuje teren, na ktorym moze wystepowac skazenie promieniotworcze i/lub moc dawki przekracza 100 uSv/h. Przy skazeniu 1000 Bq/cm2 dla izotopow gamma i beta, 100 Bq/cm2 dla izotopow alfa lub mocy dawki powyzej 100 uSv/h nalezy niezwlocznie usunac osoby poszkodowane i postronne.\n4. RODZAJE PROMIENIOWANIA: promieniowanie alfa jest slabo przenikliwe i stanowi glownie zagrozenie wewnetrzne; beta jest zagrozeniem zewnetrznym i wewnetrznym; gamma jest bardzo przenikliwe i stanowi zagrozenie zewnetrzne i wewnetrzne; neutronowe jest bardzo przenikliwe i stanowi zagrozenie zewnetrzne.\n5. SOI I OCHRONA: podstawowe zasady zmniejszenia narazenia to skrocenie czasu przebywania w poblizu zrodla, zwiekszenie odleglosci i stosowanie odpowiednich oslon. Przy promieniowaniu alfa, beta i gamma nalezy bezwzglednie stosowac filtrujacy sprzet ochrony ukladu oddechowego oraz minimum ubranie specjalne spelniajace PN-EN 469; przy neutronowym minimum ubranie specjalne spelniajace PN-EN 469.\n6. LIMITY NARAZENIA: dawka pochlonieta przez funkcjonariusza podczas dzialan ratowniczych nie moze przekroczyc 1 mSv rocznie; dopuszcza sie przekroczenie do 5 mSv pod warunkiem zachowania sredniej 1 mSv/rok w kolejnych 5 latach.\n7. TRANSPORT I OZNAKOWANIE: w transporcie materialow promieniotworczych pojazd oznakowuje sie tablicami barwy pomaranczowej oraz nalepkami ostrzegawczymi klasy 7D. Sztuki przesylki klasyfikuje sie do kategorii I-BIALA, II-ZOLTA lub III-ZOLTA w zaleznosci od mocy dawki na powierzchni i wskaznika transportowego.\n8. SPRZET I POMIARY: wskaznik transportowy TI to najwyzszy poziom promieniowania zmierzony w odleglosci 1 metra od zewnetrznych powierzchni sztuki przesylki. Sprzet dozymetryczny musi byc wzorcowany przez akredytowane laboratorium co 12 miesiecy bez kontrolnego zrodla albo co 24 miesiace przy kontrolnym zrodle promieniotworczym.\n9. UWAGI OPERACYJNE: karta ma charakter podstawowej informacji ochronnej i sluzy do szybkiego przypomnienia zasad ograniczania narazenia oraz podstaw oznakowania i pomiarow.",
+  "tagi_wspolne": [
+    "cbrne",
+    "radiacja",
+    "zdarzenie radiacyjne"
+  ],
+  "aliasy": [
+    "ochrona radiologiczna",
+    "informacje o zdarzeniu radiacyjnym",
+    "strefa goraca promieniowanie",
+    "promieniowanie alfa beta gamma neutronowe",
+    "transport materialow promieniotworczych",
+    "wskaznik transportowy ti",
+    "wzorcowanie dozymetrow",
+    "skazenie promieniotworcze",
+    "moc dawki"
+  ],
+  "pelna_procedura": {
+    "tytul": "Zalacznik nr R.1. Ochrona radiologiczna oraz dzialania podczas zdarzen radiacyjnych - podstawowe informacje",
+    "plik": "",
+    "strona": null
+  }
+}

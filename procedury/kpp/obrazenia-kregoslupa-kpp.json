@@ -1,0 +1,30 @@
+{
+  "id": "KARTA-KPP-OBRAZENIA-KREGOSLUPA",
+  "kategoria": "dzialania",
+  "zrodlo": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 8",
+  "data_aktualizacji": "",
+  "slowo_kluczowe": "obrazenia kregoslupa kpp",
+  "keywords": [
+    "podejrzenie obrazen kregoslupa",
+    "procedura 8 kpp",
+    "stabilizacja kregoslupa kpp"
+  ],
+  "prefix": "KPP - obrazenia i podejrzenie obrazen kregoslupa.",
+  "content": "1. KOD / NAZWA: Procedura 8 - obrazenia i podejrzenie obrazen kregoslupa.\n2. START: wykonaj rozpoznanie miejsca zdarzenia oraz sekwencje medycznych dzialan ratowniczych z procedury 2.\n3. STABILIZACJA: zastosuj stabilizacje odcinka szyjnego kregoslupa.\n4. BEZ KONIECZNOSCI EWAKUACJI: utrzymuj stabilizacje w pozycji zastanej.\n5. KONIECZNOSC EWAKUACJI: w miare mozliwosci unieruchom poszkodowanego na noszach.\n6. PONOWNA OCENA: po ewakuacji ponownie przeprowadz sekwencje medycznych dzialan ratowniczych.\n7. UWAGI OPERACYJNE: karta rozroznia postepowanie bez koniecznosci ewakuacji i z koniecznoscia ewakuacji.",
+  "tagi_wspolne": [
+    "kpp",
+    "medyczne dzialania ratownicze",
+    "obrazenia",
+    "uraz"
+  ],
+  "aliasy": [
+    "podejrzenie obrazen kregoslupa",
+    "procedura 8 kpp",
+    "stabilizacja kregoslupa kpp"
+  ],
+  "pelna_procedura": {
+    "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 8",
+    "plik": "",
+    "strona": null
+  }
+}

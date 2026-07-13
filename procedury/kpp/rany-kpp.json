@@ -1,0 +1,32 @@
+{
+  "id": "KARTA-KPP-RANY",
+  "kategoria": "dzialania",
+  "zrodlo": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 5",
+  "data_aktualizacji": "",
+  "slowo_kluczowe": "rany kpp",
+  "keywords": [
+    "rana krwawiaca kpp",
+    "opaska zaciskowa kpp",
+    "procedura 5 kpp",
+    "opatrunek uciskowy kpp"
+  ],
+  "prefix": "KPP - postepowanie przy ranach.",
+  "content": "1. KOD / NAZWA: Procedura 5 - rany.\n2. START: wykonaj rozpoznanie miejsca zdarzenia i sekwencje medycznych dzialan ratowniczych z procedury 2, a nastepnie uwidocznij rane.\n3. RANA NIEKRWAWIACA: zaloz opatrunek oslaniajacy.\n4. RANA KRWAWIACA: zaloz opatrunek uciskowy, niezaleznie od tego, czy rana znajduje sie na konczynie, czy w innej okolicy ciala.\n5. JEZELI KRWOTOK NIE USTAJE: zastosuj opaske zaciskowa.\n6. JEZELI BRAK OPASKI ZACISKOWEJ: wykonaj miejscowe ucisniecie rany oraz ucisk na duza tetnice.\n7. DODATKOWO: w miare mozliwosci unieruchom uszkodzona okolice.\n8. UWAGI OPERACYJNE: najwazniejsze jest szybkie rozroznienie, czy rana krwawi, i niezwloczne przejscie do tamowania krwotoku.",
+  "tagi_wspolne": [
+    "kpp",
+    "medyczne dzialania ratownicze",
+    "rany",
+    "uraz"
+  ],
+  "aliasy": [
+    "rana krwawiaca kpp",
+    "opaska zaciskowa kpp",
+    "procedura 5 kpp",
+    "opatrunek uciskowy kpp"
+  ],
+  "pelna_procedura": {
+    "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 5",
+    "plik": "",
+    "strona": null
+  }
+}

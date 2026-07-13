@@ -1,0 +1,31 @@
+{
+  "id": "KARTA-BUD-PRZEKAZANIE-KATASTROFA-BUDOWLANA",
+  "kategoria": "organizacja",
+  "zrodlo": "Standardowe zasady postepowania podczas katastrofy budowlanej po wystapieniu katastrofy budowlanej, KG PSP",
+  "data_aktualizacji": "2020-09-07",
+  "slowo_kluczowe": "przekazanie miejsca zdarzenia katastrofa budowlana",
+  "keywords": [
+    "przekazanie gruzowisko",
+    "po akcji katastrofa budowlana",
+    "przekazanie zawalony budynek",
+    "przekazanie katastrofa budowlana"
+  ],
+  "prefix": "Katastrofa budowlana - przekazanie miejsca zdarzenia po zakonczeniu dzialan.",
+  "content": "1. KOD / NAZWA: katastrofa budowlana - przekazanie miejsca zdarzenia.\n2. DOKUMENTACJA: przekaz miejsce zdarzenia wlascicielowi, uzytkownikowi albo Policji zgodnie z obowiazujacymi zasadami, sporzadzajac wlasciwy dokument przekazania. Dokumentem wskazanym w procedurze jest potwierdzenie przekazania terenu, obiektu lub mienia objetego dzialaniem ratowniczym.\n3. INFORMACJE DLA PRZEJMUJACEGO: przekaz osobie przejmujacej informacje o prowadzonych dzialaniach ratowniczych oraz potencjalnych zagrozeniach, w szczegolnosci o aktualnej sytuacji na terenie akcji, miejscach niebezpiecznych lub mogacych stanowic zagrozenie, elementach konstrukcji i obiektu ewakuowanymi poza obrys obiektu oraz stanie mediow w obiekcie.\n4. OGRANICZENIA I OSTRZEZENIA: zwroc uwage, ze elementy stabilizacji gruzowiska byly wykonywane tylko na potrzebe dzialan ratowniczych i po ich zakonczeniu nie daja gwarancji bezpieczenstwa.\n5. DALSZE POSTEPOWANIE: ustal sposob dalszego postepowania w stosunku do obiektu przez inne sluzby, wlasciciela albo powiadom o tym osobe przejmujaca miejsce zdarzenia.\n6. UWAGI OPERACYJNE: karta konczy faze ratownicza i powinna jasno okreslac stan obiektu, zakres wykonanych zabezpieczen oraz pozostale ograniczenia zwiazane z mozliwoscia dalszego przebywania na terenie katastrofy budowlanej.",
+  "tagi_wspolne": [
+    "katastrofa budowlana",
+    "zawalenie",
+    "przekazanie"
+  ],
+  "aliasy": [
+    "przekazanie gruzowisko",
+    "po akcji katastrofa budowlana",
+    "przekazanie zawalony budynek",
+    "przekazanie katastrofa budowlana"
+  ],
+  "pelna_procedura": {
+    "tytul": "Standardowe zasady postepowania podczas katastrofy budowlanej po wystapieniu katastrofy budowlanej, KG PSP",
+    "plik": "",
+    "strona": null
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "KARTA-PV-Z1-POZAR",
+  "kategoria": "dzialania",
+  "zrodlo": "Standardowe zasady postepowania podczas zdarzen w obrebie instalacji fotowoltaicznych, KG PSP",
+  "data_aktualizacji": "2022-03",
+  "slowo_kluczowe": "pozar fotowoltaiki",
+  "keywords": [
+    "pozar pv",
+    "pozar instalacji pv",
+    "gaszenie pv",
+    "gaszenie fotowoltaiki",
+    "moduly pv pozar",
+    "magazyn energii pozar",
+    "fotowoltaika plonie"
+  ],
+  "prefix": "Karta Z1 - Dzialania ratownicze przy pozarze w obrebie instalacji fotowoltaicznej.",
+  "content": "1. KOD / NAZWA: PV Z1 - pozar w obrebie instalacji fotowoltaicznej.\n2. ROZPOZNANIE: ustal, czy podzespoly instalacji PV sa objete pozarem lub bezposrednio zagrozone. Jezeli nie sa, postepuj zgodnie ze standardowa taktyka gaszenia pozarow. Oceniaj stan instalacji i otoczenia, w tym okopcenie modulow, przebarwienia oraz uszkodzenia termiczne zlacz i przewodow.\n3. STREFA: wyznacz strefe zagrozenia i w przypadku bezposredniego zagrozenia zycia przeprowadz natychmiastowa ewakuacje osob znajdujacych sie w obiekcie.\n4. SOI: w sytuacji braku odpowiednich informacji o stanie instalacji PV stosuj srodki ochrony indywidualnej wlasciwe do dzialan przy urzadzeniach pod napieciem oraz sprzet ochrony ukladu oddechowego.\n5. DZIALANIA KRYTYCZNE: ostrzez ratownikow o zagrozeniu, odlacz doplyw pradu elektrycznego do budynku, a jezeli instalacja wyposazona jest w magazyn energii - wylacz falownik. Przystap do redukcji zagrozenia od instalacji zgodnie z karta rozpoznania i dzialan zabezpieczajacych.\n6. PROCEDURA SZCZEGOLOWA: jezeli nie jest to konieczne, nie dotykaj elementow instalacji PV ani innych elementow przewodzacych prad. W przypadku koniecznosci demontazu modulow zachowaj szczegolna ostroznosc i zabezpieczaj luzne zlacza oraz przewody. W razie potrzeby zadysponuj odpowiednie sluzby. Po zakonczeniu dzialan uniemozliw ponowne uruchomienie uszkodzonej instalacji.\n7. GASZENIE POZARU: do gaszenia pozaru lub dzialan w obronie mozna stosowac wode, wode z dodatkami, piane sprezona, proszki gasnicze i gazy gasnicze. Nie nalezy stosowac klasycznej piany ciezkiej, sredniej lub lekkiej. Przy pradzie rozproszonym wody zachowaj minimalny kat rozproszenia 30 stopni i odleglosc 1 m. Przy pradzie zwartym do 250 l/min zachowaj minimum 5 m, a powyzej 250 l/min minimum 10 m. Dla piany CAFS o maksymalnej wydajnosci wodnej 250 l/min zachowaj 1 m dla pradu rozproszonego i 5 m dla pradu zwartego. Dla proszkow i gazow gasniczych zachowaj co najmniej 1 m lub wieksza odleglosc wskazana przez producenta.\n8. MAGAZYN ENERGII: pozary akumulatorow i baterii stanowiacych element magazynu energii wymagaja stosowania srodka gasniczego o dzialaniu chlodzacym, czyli wody. Proszki i gazy gasnicze moga byc w tym przypadku nieskuteczne. Efekty gaszenia kontroluj kamera termowizyjna albo pirometrem, a ugaszone akumulatory i baterie zabezpiecz oraz zalec dozor przez co najmniej 24 godziny ze wzgledu na ryzyko samoistnego nawrotu palenia.\n9. CO MOZE POJSC NIE TAK: detektor typu Hot Stick nie wykrywa pradu stalego generowanego przez moduly PV. Nawet po uszkodzeniu lub przecieciu przewodu fragment od modulow do miejsca przeciecia moze pozostawac pod napieciem.\n10. UWAGI OPERACYJNE: zachowuj minimalne odleglosci podczas podawania srodkow gasniczych od elementow instalacji mogacych znajdowac sie pod napieciem.",
+  "tagi_wspolne": [
+    "fotowoltaika",
+    "pv",
+    "instalacja fotowoltaiczna",
+    "pozar"
+  ],
+  "aliasy": [
+    "pozar pv",
+    "pozar instalacji pv",
+    "gaszenie pv",
+    "gaszenie fotowoltaiki",
+    "moduly pv pozar",
+    "magazyn energii pozar",
+    "fotowoltaika plonie"
+  ],
+  "pelna_procedura": {
+    "tytul": "Standardowe zasady postepowania podczas zdarzen w obrebie instalacji fotowoltaicznych, KG PSP",
+    "plik": "",
+    "strona": null
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "KARTA-ACETYLEN-Z4",
+  "kategoria": "dzialania",
+  "zrodlo": "Standardowe zasady postepowania podczas zdarzen z udzialem butli z acetylenem, KG PSP",
+  "data_aktualizacji": "2020-03-13",
+  "slowo_kluczowe": "szczelna butla acetylen",
+  "keywords": [
+    "butla acetylen nieuszkodzona",
+    "zimna butla acetylen",
+    "karta z4 acetylen"
+  ],
+  "prefix": "Karta Z4 - Butle niepoddane dzialaniu ognia/ciepla lub wielokrotnym uderzeniom - szczelne.",
+  "content": "1. KOD / NAZWA: Z4 - butle z acetylenem niepoddane dzialaniu ognia, ciepla lub wielokrotnym uderzeniom, szczelne.\n2. ROZPOZNANIE: sprawdz organoleptycznie, czy cala powierzchnia butli pozostaje zimna. Jezeli cala powierzchnia lub jej czesc pozostaje ciepla, przejdz do dzialan z karty Z1.\n3. STREFA: w przekazanej procedurze nie podano osobnego promienia strefy; kluczowe jest potwierdzenie, ze butla jest zimna i szczelna, zanim zostana podjete dalsze czynnosci.\n4. SOI: w przekazanej procedurze nie wskazano odrebnego zestawu SOI dla tej karty.\n5. DZIALANIA KRYTYCZNE: gdy temperatura plaszcza jest porownywalna do temperatury otoczenia, sprawdz szczelnosc ocena z bliska lub sprzetem pomiarowym.\n6. PROCEDURA SZCZEGOLOWA: jezeli butla jest nieszczelna, przejdz do karty Z2, gdy butla lub butle znajduja sie wewnatrz obiektu, albo do karty Z3, gdy znajduja sie na zewnatrz obiektu. W przypadku gdy butla lub butle sa szczelne oraz istnieje prawdopodobienstwo, ze w czasie zdarzenia mogly zostac poddane oddzialywaniu ognia, ciepla lub wystepuje zagrozenie zwiazane z ich upadkiem z wysokosci, przenies je w bezpieczne miejsce.\n7. CO MOZE POJSC NIE TAK: najwiekszym bledem jest uznanie butli za bezpieczna mimo cieplej powierzchni albo potwierdzonej nieszczelnosci i pozostawienie jej bez przekwalifikowania do Z1, Z2 lub Z3.\n8. UWAGI OPERACYJNE: karta dotyczy wylacznie butli szczelnych i niepoddanych dzialaniu ognia, ciepla lub wielokrotnym uderzeniom.",
+  "tagi_wspolne": [
+    "acetylen",
+    "butla acetylenowa",
+    "butla szczelna"
+  ],
+  "aliasy": [
+    "butla acetylen nieuszkodzona",
+    "zimna butla acetylen",
+    "karta z4 acetylen"
+  ],
+  "pelna_procedura": {
+    "tytul": "Standardowe zasady postepowania podczas zdarzen z udzialem butli z acetylenem, KG PSP",
+    "plik": "",
+    "strona": null
+  }
+}

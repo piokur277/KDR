@@ -1,0 +1,35 @@
+{
+  "id": "KARTA-ZA-CZYNNIKI-RYZYKA",
+  "kategoria": "dzialania",
+  "zrodlo": "Procedura monitorowania interwencyjnego pod katem wystepowania zlotej algi, GIOS",
+  "data_aktualizacji": "2023-05-08",
+  "slowo_kluczowe": "czynniki ryzyka zlota alga",
+  "keywords": [
+    "zlota alga temperatura",
+    "zlota alga ph",
+    "zlota alga tlen",
+    "zlota alga zasolenie",
+    "zlota alga n p",
+    "prymnesium parvum ryzyko"
+  ],
+  "prefix": "Zlota alga - glowne czynniki sprzyjajace wzrostowi i toksycznosci.",
+  "content": "1. KOD / NAZWA: czynniki ryzyka wystepowania zakwitu zlotej algi, czyli Prymnesium parvum.\n2. TEMPERATURA: przy zasoleniu 2,0-2,5 psu optymalny przedzial temperatury wzrostu zlotej algi wynosi 25-28,8 C, a wraz ze spadkiem zasolenia temperatura optymalna dla zakwitu obniza sie.\n3. SUBSTANCJE ODZYWCZE: wzrost substancji odzywczych, zwiazkow azotu i fosforu, sprzyja wzrostowi biomasy komorek i ilosci zakwitowej zlotej algi.\n4. STOSUNEK N:P: utrzymanie stosunku molowego atomow azotu do fosforu na poziomie 12-20 powoduje zwiekszenie gestosci osobnikow, ale zmniejsza ryzyko wystapienia toksycznosci. W warunkach niedoboru skladnikow odzywczych Prymnesium parvum staje sie dominujacy, a toksycznosc wzrasta.\n5. ZASOLENIE: o ryzyku zakwitu swiadczy wzrost zasolenia, ktore opisuje sie na podstawie przewodnosci elektrolitycznej wlasciwej, chlorkow, siarczanow i sodu.\n6. ODCZYN pH: wartosc pH powyzej 8,5 jest znacznie wieksza niz przy nizszym pH, a jej doplyw wraz z obecnoscia napotfitow z rodzaju Prymnesium powoduje wzrost prawdopodobienstwa wystapienia zakwitu zlotej algi.\n7. TLEN ROZPUSZCZONY: wraz z temperatura maleje ilosc tlenu rozpuszczonego w wodzie, jednak w zbiornikach z obecnoscia zlotej algi w ciagu dnia moze wystepowac ponadnormatywna produkcja tlenu pochodzacego z fotosyntezy.\n8. UWAGI OPERACYJNE: ocena ryzyka nie powinna opierac sie na jednym parametrze, ale na lacznej analizie temperatury, zasolenia, odczynu pH, tlenu oraz relacji azotu do fosforu.",
+  "tagi_wspolne": [
+    "zlota alga",
+    "prymnesium parvum",
+    "czynniki ryzyka"
+  ],
+  "aliasy": [
+    "zlota alga temperatura",
+    "zlota alga ph",
+    "zlota alga tlen",
+    "zlota alga zasolenie",
+    "zlota alga n p",
+    "prymnesium parvum ryzyko"
+  ],
+  "pelna_procedura": {
+    "tytul": "Procedura monitorowania interwencyjnego pod katem wystepowania zlotej algi, GIOS",
+    "plik": "",
+    "strona": null
+  }
+}

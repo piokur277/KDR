@@ -1,0 +1,45 @@
+{
+  "id": "KARTA-ORG-CHLOROWODOR-WARTOSCI-GRANICZNE",
+  "kategoria": "substancja",
+  "zrodlo": "CIOP-PIB, Baza niebezpiecznych substancji chemicznych, Chlorowodor",
+  "data_aktualizacji": "",
+  "slowo_kluczowe": "chlorowodor",
+  "keywords": [
+    "hcl",
+    "kwas solny gaz",
+    "wartosci graniczne chlorowodor",
+    "ppm chlorowodor",
+    "nds chlorowodor",
+    "ndsch chlorowodor",
+    "chlorowodor wyciek",
+    "toksycznosc chlorowodoru",
+    "cas 7647-01-0",
+    "h331 chlorowodor",
+    "h314 chlorowodor"
+  ],
+  "prefix": "HCl / Chlorowodor - karta zagrozenia operacyjnego.",
+  "content": "1. KOD / NAZWA: HCl - chlorowodor; CAS 7647-01-0.\n2. ROZPOZNANIE: bezbarwny gaz o ostrym, duszacym zapachu. Gestosc par wzgledem powietrza wynosi 1,268, czyli gaz jest ciezszy od powietrza. Prog wyczuwalnosci zapachu wedlug CIOP wynosi 1,5-53 mg/m3.\n3. STREFA: brak jednej liczbowej strefy w materiale CIOP; przyjmij szybkie odsuniecie osob z narazenia i ograniczenie ekspozycji inhalacyjnej. Uwzglednij, ze chlorowodor jako gaz ciezszy od powietrza moze gromadzic sie nizej.\n4. SOI: zgodnie z informacja CLP stosowac rekawice ochronne, odziez ochronna, ochrone oczu i twarzy. Ze wzgledu na toksycznosc inhalacyjna i silne dzialanie zarace nalezy traktowac narazenie jako stan bezposredniego zagrozenia zdrowia.\n5. DZIALANIA KRYTYCZNE: wyniesc zatrutego z miejsca narazenia, ulozyc w pozycji pollezacej lub siedzacej, zapewnic spokoj i bezruch, chronic przed utrata ciepla i podawac tlen. Natychmiast wezwac lekarza. Przy kontakcie ze skora lub oczami natychmiast rozpoczac obfite plukanie woda.\n6. PROCEDURA SZCZEGOLOWA: klasyfikacja CLP obejmuje H331 i H314. W razie zatrucia inhalacyjnego CIOP wskazuje podanie tlenu oraz mozliwosc podania Atroventu przy skurczu glosni. Przy utrzymujacych sie objawach mozliwe jest podanie deksametazonu do inhalacji, hydrokortyzonu i furosemidu oraz transport kareta reanimacyjna. Przy skazeniu skory zdjac odziez i obficie zmywac skore letnia biezaca woda; nie stosowac srodkow zobojetniajacych. Przy skazeniu oczu plukac obficie chlodna woda co najmniej 15 minut. Przy zatruciu droga pokarmowa nie wywolywac wymiotow; podac bialko jaj albo mleko i pilnie przekazac do leczenia.\n7. WARTOSCI GRANICZNE I PARAMETRY: NDS 5 mg/m3; NDSCh 10 mg/m3; NDSP nie ustalono. Temperatura wrzenia -85,03 C. Gestosc par wzgledem powietrza 1,268. Rozpuszczalnosc w wodzie 45,14% wag. Masa czasteczkowa 36,46.\n8. GLOWNE ZAGROZENIA: substancja toksyczna i zaraca. W postaci gazu lub aerozolu kwasu solnego wywoluje bol oczu, lzawienie, zaczerwienienie spojowek, piekacy bol nosa i gardla oraz kaszel. Przy wyzszych stezeniach moze spowodowac skurcz glosni, obrzek krtani i obrzek pluc. Skazenie skory powoduje bolesne oparzenia chemiczne, a skazenie oczu moze prowadzic do utraty wzroku.\n9. CO MOZE POJSC NIE TAK: opoznienie ewakuacji ze strefy narazenia, niedoszacowanie ryzyka obrzeku pluc, zlekcewazenie nagromadzenia gazu przy gruncie oraz stosowanie srodkow zobojetniajacych na skazona skore.\n10. UWAGI OPERACYJNE: z materialu CIOP wynika, ze chlorowodor wchlania sie przez drogi oddechowe, a w postaci roztworu wodnego rowniez z przewodu pokarmowego. LC50 dla szczura podano jako 7146 mg/m3 (30 min). Odtrutki nie sa znane.",
+  "tagi_wspolne": [
+    "chlorowodor",
+    "hcl",
+    "substancja chemiczna"
+  ],
+  "aliasy": [
+    "hcl",
+    "kwas solny gaz",
+    "wartosci graniczne chlorowodor",
+    "ppm chlorowodor",
+    "nds chlorowodor",
+    "ndsch chlorowodor",
+    "chlorowodor wyciek",
+    "toksycznosc chlorowodoru",
+    "cas 7647-01-0",
+    "h331 chlorowodor",
+    "h314 chlorowodor"
+  ],
+  "pelna_procedura": {
+    "tytul": "CIOP-PIB, Baza niebezpiecznych substancji chemicznych, Chlorowodor",
+    "plik": "",
+    "strona": null
+  }
+}

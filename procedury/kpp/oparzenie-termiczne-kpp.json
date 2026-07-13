@@ -1,0 +1,29 @@
+{
+  "id": "KARTA-KPP-OPARZENIE-TERMICZNE",
+  "kategoria": "dzialania",
+  "zrodlo": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 13",
+  "data_aktualizacji": "",
+  "slowo_kluczowe": "oparzenie termiczne kpp",
+  "keywords": [
+    "procedura 13 kpp",
+    "hydrozel oparzenie kpp",
+    "schladzanie oparzenia kpp"
+  ],
+  "prefix": "KPP - oparzenie termiczne.",
+  "content": "1. KOD / NAZWA: Procedura 13 - oparzenie termiczne.\n2. START: wykonaj rozpoznanie miejsca zdarzenia i sekwencje medycznych dzialan ratowniczych z procedury 2. Zwracaj uwage na objawy wychlodzenia.\n3. PIERWSZY KROK: usun odziez oraz bizuterie z oparzonej powierzchni.\n4. OPATRUNEK HYDROZELOWY: jezeli jest dostepny, zastosuj opatrunek hydrozelowy.\n5. JEZELI BRAK OPATRUNKU HYDROZELOWEGO: schladzaj oparzenie sola fizjologiczna lub czysta woda.\n6. CZAS SCHLADZANIA: przez 5-10 minut, jezeli powierzchnia oparzenia jest ponizej 10% powierzchni ciala, albo przez 1-2 minuty, jezeli powierzchnia oparzenia przekracza 10% powierzchni ciala.\n7. ZAKONCZENIE: zaloz jalowy suchy opatrunek.\n8. UWAGI OPERACYJNE: podczas calego postepowania kontroluj ryzyko wychlodzenia poszkodowanego.",
+  "tagi_wspolne": [
+    "kpp",
+    "medyczne dzialania ratownicze",
+    "oparzenie"
+  ],
+  "aliasy": [
+    "procedura 13 kpp",
+    "hydrozel oparzenie kpp",
+    "schladzanie oparzenia kpp"
+  ],
+  "pelna_procedura": {
+    "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 13",
+    "plik": "",
+    "strona": null
+  }
+}

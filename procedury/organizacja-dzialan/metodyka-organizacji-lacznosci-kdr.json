@@ -1,0 +1,40 @@
+{
+  "id": "KARTA-ORG-METODYKA-ORGANIZACJI-LACZNOSCI-KDR",
+  "kategoria": "organizacja",
+  "zrodlo": "Metodyka postepowania podczas organizacji lacznosci na potrzeby kierujacego dzialaniem ratowniczym, KG PSP, Warszawa 2016",
+  "data_aktualizacji": "2016-04",
+  "slowo_kluczowe": "organizacja lacznosci kdr",
+  "keywords": [
+    "lacznosc na potrzeby kdr",
+    "metodyka lacznosci kdr",
+    "psk msk lacznosc",
+    "ppsis lacznosc",
+    "kanaly radiowe kdr",
+    "interwencyjny lacznosc",
+    "taktyczny lacznosc",
+    "sztab lacznosc",
+    "odcinek bojowy lacznosc"
+  ],
+  "prefix": "Metodyka organizacji lacznosci na potrzeby KDR - karta organizacyjna lacznosci.",
+  "content": "1. CEL DOKUMENTU: uporzadkowanie zasad organizacji lacznosci i alarmowania na potrzeby KDR oraz zapewnienie czytelnego obiegu informacji podczas dzialan ratowniczych.\n2. KIEDY STOSOWAC: przy organizowaniu lacznosci na poziomie interwencyjnym i taktycznym, z uwzglednieniem pracy bez sztabu, ze sztabem oraz z wykorzystaniem PPSiS.\n3. POZIOM INTERWENCYJNY: korespondencja radiowa prowadzona jest co do zasady w relacji PSK/MSK - dowodca. Przy dysponowaniu dodatkowych sil z wlasnego powiatu po zgloszeniu przyjazdu do KDR oczekuja one w sieci powiatowej na przydzial kanalu pracy.\n4. SILY SPOZA POWIATU: dodatkowe sily z innych powiatow lub wojewodztw po zgloszeniu przyjazdu do PSK/MSK w sieci KSW oczekuja na przydzial stosownego kanalu przez stanowisko kierowania.\n5. ROZBUDOWA LACZNOSCI: kolejne KRG uruchamia sie wtedy, gdy ilosc prowadzonej korespondencji utrudnia sprawne przekazywanie informacji. W przypadku statkow powietrznych lacznosc uruchamia sie zgodnie z metodyka po otrzymaniu zapotrzebowania od KDR.\n6. POZIOM TAKTYCZNY BEZ SZTABU: lacznosc organizuje sie przez podzial strefy dzialan na odcinki bojowe i wyznaczenie odpowiednich kanalow pracy dla kierujacych odcinkami oraz innych podmiotow uczestniczacych w dzialaniach. KDR zglasza do PSK/MSK potrzebe przydzialu kanalow KRG.\n7. PODZIAL KANALOW: po otrzymaniu zapotrzebowania PSK/MSK wystepuje do WSKR o uruchomienie sieci KDW i przydzial odpowiednich KDW oraz KRG. KDR laczy sie z dowodcami odcinkow bojowych przez KDW, natomiast dowodcy odcinkow bojowych prowadza lacznosc z podleglymi silami przez KRG.\n8. PPSIS I SZTAB: przy organizacji dzialan z wykorzystaniem PPSiS oraz przy powolaniu sztabu lacznosc dzieli sie dalej pomiedzy KDR, sztab, dowodcow odcinkow, SIS, rejon koncentracji i inne podmioty wspoldzialajace, z zachowaniem rozdzialu kanalow dowodzenia i wykonawczych.\n9. STALE ZASADY PRACY: stosowac jednolite kryptonimy alarmowe i okolicznikowe, sygnaly KSW oraz nazwy rejonow koncentracji i stanowisk zgodnie z dokumentem. Struktura lacznosci musi byc czytelna i adekwatna do poziomu kierowania.\n10. UWAGI OPERACYJNE: esencja metodyki polega na zapewnieniu KDR sprawnego alarmowania, dowodzenia, wspoldzialania i obiegu informacji przez caly czas trwania dzialania ratowniczego.",
+  "tagi_wspolne": [
+    "lacznosc",
+    "organizacja lacznosci"
+  ],
+  "aliasy": [
+    "lacznosc na potrzeby kdr",
+    "metodyka lacznosci kdr",
+    "psk msk lacznosc",
+    "ppsis lacznosc",
+    "kanaly radiowe kdr",
+    "interwencyjny lacznosc",
+    "taktyczny lacznosc",
+    "sztab lacznosc",
+    "odcinek bojowy lacznosc"
+  ],
+  "pelna_procedura": {
+    "tytul": "Metodyka postepowania podczas organizacji lacznosci na potrzeby kierujacego dzialaniem ratowniczym, KG PSP, Warszawa 2016",
+    "plik": "",
+    "strona": null
+  }
+}

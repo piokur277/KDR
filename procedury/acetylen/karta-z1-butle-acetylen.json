@@ -1,0 +1,33 @@
+{
+  "id": "KARTA-ACETYLEN-Z1",
+  "kategoria": "dzialania",
+  "zrodlo": "Standardowe zasady postepowania podczas zdarzen z udzialem butli z acetylenem, KG PSP",
+  "data_aktualizacji": "2020-03-13",
+  "slowo_kluczowe": "butla acetylen po pozarze",
+  "keywords": [
+    "butla acetylen podgrzana",
+    "butla acetylen po uderzeniu",
+    "chlodzenie butli acetylen 24h",
+    "test zwilzania acetylen"
+  ],
+  "prefix": "Karta Z1 - Butle poddane dzialaniu ognia/ciepla lub poddane wielokrotnym uderzeniom, szczelne lub nieszczelne.",
+  "content": "1. KOD / NAZWA: Z1 - butle z acetylenem poddane dzialaniu ognia, ciepla lub wielokrotnym uderzeniom, szczelne lub nieszczelne.\n2. ROZPOZNANIE: ostrzez ratownikow, nie zblizaj sie do butli i jej nie przemieszczaj. Traktuj butle jako potencjalnie niestabilna do czasu zakonczenia skutecznego chlodzenia i oceny jej stanu.\n3. STREFA: wyznacz strefe zagrozenia o minimalnym zalecanym promieniu 200 m i przeprowadz ewakuacje. Ogranicz liczbe ratownikow w strefie do niezbednego minimum.\n4. SOI: w promieniu 30 m stosuj ochrone drog oddechowych i oczu.\n5. DZIALANIA KRYTYCZNE: rozpocznij chlodzenie butli rozproszonymi pradami wody, najlepiej ze stanowisk bezobslugowych i z wykorzystaniem dostepnych oslon.\n6. PROCEDURA SZCZEGOLOWA: prowadz chlodzenie co najmniej 1 godzine, a przy utrudnionym dostepie do okolo 50% powierzchni co najmniej 3 godziny. Gdy butla jest nieszczelna i uwalniany acetylen sie spala, prowadz chlodzenie do momentu jej oproznienia, nie gas plomienia palacego sie gazu, monitoruj stezenie gazu w powietrzu oraz zagrozenie wybuchem i eliminuj zrodla zaplonu. Jezeli nie wystepuje zagrozenie zycia ludzkiego, a sytuacja uniemozliwia bezpieczne zastosowanie stanowisk bezobslugowych lub oslon, rozwaz pozostawienie butli w miejscu zdarzenia bez podejmowania dzialan chlodzacych. Po przerwaniu chlodzenia przeprowadz test zwilzania; gdy nad butla unosi sie para wodna albo powierzchnia szybko wysycha, kontynuuj chlodzenie przez kolejna godzine i powtorz test. Gdy powierzchnia pozostaje zimna, sprawdz szczelnosc; butle zimna i szczelna mozna przeniesc do zbiornika z woda dla kontynuacji 24-godzinnego procesu chlodzenia, a butle nieszczelna zaleca sie dalej chlodzic pradami wody lub przeniesc do zbiornika z woda, gdy ryzyko pozarowo-wybuchowe zwiazane z uwalnianiem gazu jest nieznaczne.\n7. CO MOZE POJSC NIE TAK: najwiekszym bledem jest zblizenie sie do butli bez oslon, przedwczesne przerwanie chlodzenia, zgaszenie plomienia uwalnianego acetylenu oraz zignorowanie dodatniego wyniku testu zwilzania.\n8. UWAGI OPERACYJNE: karta obejmuje zarowno butle szczelne, jak i nieszczelne, jesli byly poddane dzialaniu ognia, ciepla lub wielokrotnym uderzeniom.",
+  "tagi_wspolne": [
+    "acetylen",
+    "butla acetylenowa",
+    "pozar",
+    "butla po pozarze",
+    "butla podgrzana"
+  ],
+  "aliasy": [
+    "butla acetylen podgrzana",
+    "butla acetylen po uderzeniu",
+    "chlodzenie butli acetylen 24h",
+    "test zwilzania acetylen"
+  ],
+  "pelna_procedura": {
+    "tytul": "Standardowe zasady postepowania podczas zdarzen z udzialem butli z acetylenem, KG PSP",
+    "plik": "",
+    "strona": null
+  }
+}

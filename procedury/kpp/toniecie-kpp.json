@@ -1,0 +1,29 @@
+{
+  "id": "KARTA-KPP-TONIECIE",
+  "kategoria": "dzialania",
+  "zrodlo": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 16",
+  "data_aktualizacji": "",
+  "slowo_kluczowe": "toniecie kpp",
+  "keywords": [
+    "procedura 16 kpp",
+    "5 oddechow toniecie",
+    "wentylacja toniecie kpp"
+  ],
+  "prefix": "KPP - toniecie.",
+  "content": "1. KOD / NAZWA: Procedura 16 - toniecie.\n2. START: wykonaj rozpoznanie miejsca zdarzenia i sekwencje medycznych dzialan ratowniczych z procedury 2. Oceniaj takze obecne objawy wychlodzenia.\n3. TLENOTERAPIA LUB WENTYLACJA: niezwlocznie rozpocznij tlenoterapie albo wentylacje.\n4. ZATRZYMANIE KRAZENIA: jezeli dojdzie do zatrzymania krazenia, RKO rozpoczyna sie od 5 oddechow ratowniczych, a nastepnie przechodzi do ucisniec klatki piersiowej zgodnie z procedura 3 lub 4.\n5. UWAGI OPERACYJNE: w tej procedurze od poczatku nalezy pamietac o wspolistniejacym ryzyku wychlodzenia.",
+  "tagi_wspolne": [
+    "kpp",
+    "medyczne dzialania ratownicze",
+    "toniecie"
+  ],
+  "aliasy": [
+    "procedura 16 kpp",
+    "5 oddechow toniecie",
+    "wentylacja toniecie kpp"
+  ],
+  "pelna_procedura": {
+    "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 16",
+    "plik": "",
+    "strona": null
+  }
+}

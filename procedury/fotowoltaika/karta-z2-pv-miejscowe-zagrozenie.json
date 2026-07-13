@@ -1,0 +1,37 @@
+{
+  "id": "KARTA-PV-Z2-MIEJSCOWE-ZAGROZENIE",
+  "kategoria": "dzialania",
+  "zrodlo": "Standardowe zasady postepowania podczas zdarzen w obrebie instalacji fotowoltaicznych, KG PSP",
+  "data_aktualizacji": "2022-03",
+  "slowo_kluczowe": "miejscowe zagrozenie pv",
+  "keywords": [
+    "uszkodzona fotowoltaika",
+    "uszkodzona instalacja pv",
+    "awaria pv",
+    "fotowoltaika uszkodzenie",
+    "miejscowe zagrozenie fotowoltaika",
+    "mechaniczne uszkodzenie pv"
+  ],
+  "prefix": "Karta Z2 - Dzialania ratownicze przy miejscowym zagrozeniu w obrebie instalacji fotowoltaicznej.",
+  "content": "1. KOD / NAZWA: PV Z2 - miejscowe zagrozenie w obrebie instalacji fotowoltaicznej.\n2. ROZPOZNANIE: okresl stan techniczny instalacji PV na podstawie oznak zewnetrznych oraz ustal zagrozenia ze strony uszkodzonej instalacji. Jezeli instalacja zostala uszkodzona mechanicznie, ocen mozliwosc ewentualnego powstania pozaru.\n3. STREFA: wyznacz strefe zagrozenia i w przypadku bezposredniego zagrozenia zycia przeprowadz natychmiastowa ewakuacje osob znajdujacych sie w obiekcie.\n4. SOI: w sytuacji braku odpowiednich informacji o stanie instalacji PV stosuj srodki ochrony indywidualnej wlasciwe do dzialan przy urzadzeniach pod napieciem.\n5. DZIALANIA KRYTYCZNE: ostrzez ratownikow o wystepujacym zagrozeniu, odlacz doplyw pradu elektrycznego do budynku, a jezeli instalacja PV wyposazona jest w magazyn energii - wylacz falownik. Przystap do redukcji zagrozenia zgodnie z karta rozpoznania i dzialan zabezpieczajacych.\n6. PROCEDURA SZCZEGOLOWA: jezeli nie jest to konieczne, nie dotykaj elementow instalacji PV ani innych elementow przewodzacych prad. W przypadku koniecznosci demontazu modulow zachowaj szczegolna ostroznosc i zabezpieczaj luzne zlacza oraz przewody. W razie potrzeby zadysponuj odpowiednie sluzby. Po zakonczeniu dzialan zapewnij bezpieczne warunki przez uniemozliwienie ponownego uruchomienia uszkodzonej instalacji oraz jej zabezpieczenie.\n7. CO MOZE POJSC NIE TAK: detektor typu Hot Stick nie wykrywa pradu stalego generowanego przez moduly fotowoltaiczne. Uszkodzona mechanicznie instalacja moze stwarzac zagrozenie pojawienia sie napiecia na elementach przewodzacych oraz wtorny pozar.\n8. UWAGI OPERACYJNE: karta dotyczy miejscowego zagrozenia, ale wymaga traktowania instalacji jak potencjalnie znajdujacej sie pod napieciem.",
+  "tagi_wspolne": [
+    "fotowoltaika",
+    "pv",
+    "instalacja fotowoltaiczna",
+    "miejscowe zagrozenie",
+    "uszkodzenie"
+  ],
+  "aliasy": [
+    "uszkodzona fotowoltaika",
+    "uszkodzona instalacja pv",
+    "awaria pv",
+    "fotowoltaika uszkodzenie",
+    "miejscowe zagrozenie fotowoltaika",
+    "mechaniczne uszkodzenie pv"
+  ],
+  "pelna_procedura": {
+    "tytul": "Standardowe zasady postepowania podczas zdarzen w obrebie instalacji fotowoltaicznych, KG PSP",
+    "plik": "",
+    "strona": null
+  }
+}

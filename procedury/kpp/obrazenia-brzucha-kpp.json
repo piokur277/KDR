@@ -1,0 +1,30 @@
+{
+  "id": "KARTA-KPP-OBRAZENIA-BRZUCHA",
+  "kategoria": "dzialania",
+  "zrodlo": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 10",
+  "data_aktualizacji": "",
+  "slowo_kluczowe": "obrazenia brzucha kpp",
+  "keywords": [
+    "rana brzucha kpp",
+    "wytrzewienie kpp",
+    "procedura 10 kpp"
+  ],
+  "prefix": "KPP - obrazenia i podejrzenie obrazen brzucha.",
+  "content": "1. KOD / NAZWA: Procedura 10 - obrazenia i podejrzenie obrazen brzucha.\n2. START: wykonaj rozpoznanie miejsca zdarzenia i sekwencje medycznych dzialan ratowniczych z procedury 2.\n3. RANA BRZUCHA Z WYTRZEWIENIEM: zaloz wilgotny opatrunek oslaniajacy i przykryj go folia.\n4. RANA BRZUCHA BEZ WYTRZEWIENIA: zaloz opatrunek oslaniajacy.\n5. POZYCJA: uloz poszkodowanego w pozycji lezacej z nogami ugietymi w kolanach.\n6. WYJATEK: jezeli jednoczesnie wystepuja obrazenia miednicy i lub konczyn dolnych, poszkodowanego nalezy ulozyc w pozycji lezacej na plasko.\n7. UWAGI OPERACYJNE: w tej karcie kluczowe jest rozroznienie, czy wystepuje wytrzewienie.",
+  "tagi_wspolne": [
+    "kpp",
+    "medyczne dzialania ratownicze",
+    "obrazenia",
+    "uraz"
+  ],
+  "aliasy": [
+    "rana brzucha kpp",
+    "wytrzewienie kpp",
+    "procedura 10 kpp"
+  ],
+  "pelna_procedura": {
+    "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 10",
+    "plik": "",
+    "strona": null
+  }
+}

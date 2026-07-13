@@ -1,0 +1,42 @@
+{
+  "id": "KARTA-CHEM-Z1-LNG-POZAR-ZEW",
+  "kategoria": "dzialania",
+  "zrodlo": "Zasady postepowania podczas zdarzen z LNG, KG PSP",
+  "data_aktualizacji": "2025-12",
+  "slowo_kluczowe": "pozar zewnetrzny cysterny lng",
+  "keywords": [
+    "pozar cysterny lng",
+    "pozar zewnetrzny lng",
+    "ogrzewanie cysterny",
+    "pali sie obok cysterny",
+    "pozar gazu",
+    "cysterna z gazem",
+    "bleve lng",
+    "chlodzenie cysterny lng",
+    "skroplony gaz ziemny"
+  ],
+  "prefix": "Karta Z1 - Pozar zewnetrzny podgrzewajacy cysterne LNG bez wycieku gazu.",
+  "content": "1. KOD / NAZWA: LNG Z1 - pozar zewnetrzny podgrzewajacy cysterne LNG bez wycieku gazu.\n2. ROZPOZNANIE: dokonaj rozpoznania zza tarczy balistycznej, oceniajac wskazania aparatury oraz widoczne uszkodzenia cysterny.\n3. STREFA: wyznacz strefe ewakuacji dla osob postronnych 1,5 km oraz strefe zagrozenia dla ratownikow 300 m.\n4. SOI: w przekazanej procedurze nie wskazano osobnego zestawu SOI; kluczowe jest prowadzenie rozpoznania zza oslony i utrzymywanie bezpiecznego dystansu.\n5. DZIALANIA KRYTYCZNE: natychmiast rozpocznij intensywne chlodzenie bezobslugowymi pradami wody o wydajnosci co najmniej 10 l/min/m2, ale tylko wtedy, gdy powloka cysterny jest nienaruszona.\n6. PROCEDURA SZCZEGOLOWA: chlodzenie uznaje sie za skuteczne, gdy podawana woda nie odparowuje z powierzchni. Kontroluj temperature plaszcza pirometrem lub kamera termowizyjna. Jezeli widoczne sa uszkodzenia armatury, uszczelnij wyciek przy uzyciu klinow lub wlokniny i wezwij SPOT do przepompowania LNG. Pozar zewnetrzny gas po ustabilizowaniu sytuacji, a po zgasnieciu plomienia kontynuuj chlodzenie cysterny jeszcze przez 10-15 minut.\n7. CO MOZE POJSC NIE TAK: jesli woda odparowuje z powierzchni, widoczne sa odksztalcenia, slychac dudnienie lub syczenie albo zadzialal zawor bezpieczenstwa, oznacza to krytyczny wzrost zagrozenia.\n8. UWAGI OPERACYJNE: w sytuacji krytycznej natychmiast wycofaj ratownikow na bezpieczna odleglosc, pozostawiajac dzialka bezobslugowe.",
+  "tagi_wspolne": [
+    "lng",
+    "gaz skroplony",
+    "cysterna lng",
+    "pozar"
+  ],
+  "aliasy": [
+    "pozar cysterny lng",
+    "pozar zewnetrzny lng",
+    "ogrzewanie cysterny",
+    "pali sie obok cysterny",
+    "pozar gazu",
+    "cysterna z gazem",
+    "bleve lng",
+    "chlodzenie cysterny lng",
+    "skroplony gaz ziemny"
+  ],
+  "pelna_procedura": {
+    "tytul": "Zasady postepowania podczas zdarzen z LNG, KG PSP",
+    "plik": "",
+    "strona": null
+  }
+}

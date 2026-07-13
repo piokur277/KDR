@@ -1,0 +1,44 @@
+{
+  "id": "KARTA-ORG-DETEKTOR-MSA-ALTAIR-4X",
+  "zrodlo": "Dane przekazane przez uzytkownika",
+  "data_aktualizacji": "",
+  "keywords": [
+    "msa altair 4x",
+    "detektor wielogazowy msa",
+    "progi alarmowe detektora msa",
+    "alarm niski dgw msa",
+    "alarm wysoki dgw msa",
+    "alarm msa 19,5 o2",
+    "alarm msa 25 ppm co",
+    "alarm msa 10 ppm h2s",
+    "alarm msa 100 ppm co",
+    "alarm msa 15 ppm h2s",
+    "sygnalizacja msa altair 4x"
+  ],
+  "prefix": "Detektor wielogazowy MSA Altair 4X - progi alarmowe i sygnalizacja.",
+  "content": "1. Detektor wielogazowy: Altair 4X.\n2. Alarm niski: 10% DGW; 19,5% O2; 25 ppm CO; 10 ppm H2S.\n3. Alarm niski: sygnal dzwiekowy pulsacyjny ok. 95 dB.\n4. Alarm wysoki: 20% DGW; 18% O2; 100 ppm CO; 15 ppm H2S.",
+  "slowo_kluczowe": "detektor msa",
+  "tagi_wspolne": [
+    "detektor",
+    "msa",
+    "pomiary gazow"
+  ],
+  "aliasy": [
+    "msa altair 4x",
+    "detektor wielogazowy msa",
+    "progi alarmowe detektora msa",
+    "alarm niski dgw msa",
+    "alarm wysoki dgw msa",
+    "alarm msa 19,5 o2",
+    "alarm msa 25 ppm co",
+    "alarm msa 10 ppm h2s",
+    "alarm msa 100 ppm co",
+    "alarm msa 15 ppm h2s",
+    "sygnalizacja msa altair 4x"
+  ],
+  "pelna_procedura": {
+    "tytul": "Dane przekazane przez uzytkownika",
+    "plik": "",
+    "strona": null
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "KARTA-KPP-OBRAZENIA-MIEDNICY",
+  "kategoria": "dzialania",
+  "zrodlo": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 11",
+  "data_aktualizacji": "",
+  "slowo_kluczowe": "obrazenia miednicy kpp",
+  "keywords": [
+    "miednica kpp",
+    "procedura 11 kpp",
+    "nosze podbierakowe miednica"
+  ],
+  "prefix": "KPP - obrazenia i podejrzenie obrazen miednicy.",
+  "content": "1. KOD / NAZWA: Procedura 11 - obrazenia i podejrzenie obrazen miednicy.\n2. START: wykonaj rozpoznanie miejsca zdarzenia i sekwencje medycznych dzialan ratowniczych z procedury 2.\n3. STABILIZACJA: rozwaz stabilizacje miednicy.\n4. TRANSPORT NA NOSZACH: preferowane jest uzycie noszy podbierakowych.\n5. JEZELI BRAK NOSZY PODBIERAKOWYCH: zastosuj technike wielu rak.\n6. UNIERUCHOMIENIE: po przeniesieniu unieruchom poszkodowanego na noszach.\n7. UWAGI OPERACYJNE: karta skupia sie na jak najmniej urazowym przeniesieniu i stabilizacji.",
+  "tagi_wspolne": [
+    "kpp",
+    "medyczne dzialania ratownicze",
+    "obrazenia",
+    "uraz"
+  ],
+  "aliasy": [
+    "miednica kpp",
+    "procedura 11 kpp",
+    "nosze podbierakowe miednica"
+  ],
+  "pelna_procedura": {
+    "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 11",
+    "plik": "",
+    "strona": null
+  }
+}

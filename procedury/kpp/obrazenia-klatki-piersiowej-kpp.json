@@ -1,0 +1,30 @@
+{
+  "id": "KARTA-KPP-OBRAZENIA-KLATKI-PIERSIOWEJ",
+  "kategoria": "dzialania",
+  "zrodlo": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 9",
+  "data_aktualizacji": "",
+  "slowo_kluczowe": "obrazenia klatki piersiowej kpp",
+  "keywords": [
+    "rana drazaca klatki piersiowej",
+    "wiotka klatka piersiowa",
+    "procedura 9 kpp"
+  ],
+  "prefix": "KPP - obrazenia i podejrzenie obrazen klatki piersiowej.",
+  "content": "1. KOD / NAZWA: Procedura 9 - obrazenia i podejrzenie obrazen klatki piersiowej.\n2. START: wykonaj rozpoznanie miejsca zdarzenia i sekwencje medycznych dzialan ratowniczych z procedury 2.\n3. RANA DRAZACA KLATKI PIERSIOWEJ: zaloz opatrunek zastawkowy.\n4. WIOTKA KLATKA PIERSIOWA: zastosuj stabilizacje klatki piersiowej, reczna albo plastrowa.\n5. POZYCJA: uloz poszkodowanego w pozycji polsiedzacej.\n6. WYJATEK: jezeli jednoczesnie podejrzewasz obrazenia glowy lub odcinka szyjnego kregoslupa, a poszkodowany zostal unieruchomiony na noszach i nie wystepuja objawy wstrzasu hipowolemicznego, nosze nalezy uniesc od strony glowy.\n7. UWAGI OPERACYJNE: karta skupia sie na dwoch kluczowych zagrozeniach - ranie drazacej i wiotkiej klatce piersiowej.",
+  "tagi_wspolne": [
+    "kpp",
+    "medyczne dzialania ratownicze",
+    "obrazenia",
+    "uraz"
+  ],
+  "aliasy": [
+    "rana drazaca klatki piersiowej",
+    "wiotka klatka piersiowa",
+    "procedura 9 kpp"
+  ],
+  "pelna_procedura": {
+    "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 9",
+    "plik": "",
+    "strona": null
+  }
+}

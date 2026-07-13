@@ -1,0 +1,31 @@
+{
+  "id": "KARTA-KPP-STANY-NIEURAZOWE",
+  "kategoria": "dzialania",
+  "zrodlo": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 18",
+  "data_aktualizacji": "",
+  "slowo_kluczowe": "stany nieurazowe kpp",
+  "keywords": [
+    "zaburzenia krazeniowo oddechowe kpp",
+    "cialo obce kpp",
+    "procedura 18 kpp",
+    "pozycja polsiedzaca kpp"
+  ],
+  "prefix": "KPP - zaburzenia krazeniowo-oddechowe w stanach nieurazowych.",
+  "content": "1. KOD / NAZWA: Procedura 18 - zaburzenia krazeniowo-oddechowe w stanach nieurazowych.\n2. START: wykonaj rozpoznanie miejsca zdarzenia i sekwencje medycznych dzialan ratowniczych z procedury 2.\n3. BOL BRZUCHA: uloz poszkodowanego w pozycji lezacej z nogami ugietymi w kolanach.\n4. BOL W KLATCE PIERSIOWEJ LUB DUSZNOSC: uloz poszkodowanego w pozycji polsiedzacej.\n5. UTRATA SWIADOMOSCI: uloz poszkodowanego w pozycji bocznej ustalonej, czyli bezpiecznej.\n6. CIALO OBCE W DROGACH ODDECHOWYCH: najpierw zachecaj do kaszlu.\n7. KASZEL NIEEFEKTYWNY U DOROSLYCH I DZIECI: wykonaj do 5 uderzen w okolice miedzy lopatkowa, a jesli sa nieefektywne - do 5 ucisniec nadbrzusza.\n8. KASZEL NIEEFEKTYWNY U NIEMOWLAT: wykonaj do 5 uderzen w okolice miedzy lopatkowa, a jesli sa nieefektywne - do 5 ucisniec klatki piersiowej.\n9. UWAGI OPERACYJNE: karta laczy postepowanie w kilku typowych stanach nieurazowych i zawiera uproszczony schemat przy ciele obcym w drogach oddechowych.",
+  "tagi_wspolne": [
+    "kpp",
+    "medyczne dzialania ratownicze",
+    "stany nieurazowe"
+  ],
+  "aliasy": [
+    "zaburzenia krazeniowo oddechowe kpp",
+    "cialo obce kpp",
+    "procedura 18 kpp",
+    "pozycja polsiedzaca kpp"
+  ],
+  "pelna_procedura": {
+    "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 18",
+    "plik": "",
+    "strona": null
+  }
+}

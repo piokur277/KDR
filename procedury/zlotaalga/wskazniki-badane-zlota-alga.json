@@ -1,0 +1,33 @@
+{
+  "id": "KARTA-ZA-WSKAZNIKI-BADANE",
+  "kategoria": "dzialania",
+  "zrodlo": "Procedura monitorowania interwencyjnego pod katem wystepowania zlotej algi, GIOS",
+  "data_aktualizacji": "2023-05-08",
+  "slowo_kluczowe": "wskazniki badane zlota alga",
+  "keywords": [
+    "zlota alga wskazniki",
+    "zlota alga pomiary terenowe",
+    "zlota alga badania laboratoryjne",
+    "prymnesium parvum wskazniki",
+    "wskazniki fizykochemiczne zlota alga"
+  ],
+  "prefix": "Zlota alga - wskazniki fizykochemiczne i biologiczne badane w wodzie i w terenie.",
+  "content": "1. KOD / NAZWA: wskazniki badane w monitoringu interwencyjnym pod katem zlotej algi.\n2. POMIARY TERENOWE: temperatura, przewodnosc elektrolityczna wlasciwa w 20 C, odczyn pH, tlen rozpuszczony oraz nasycenie tlenem.\n3. BADANIA FIZYKO-CHEMICZNE: chlorki, siarczany, sod, azot ogolny, azot Kjeldahla oraz fosfor ogolny.\n4. BADANIA BIOLOGICZNE: fitoplankton pod katem ilosci Prymnesium cf. parvum.\n5. CZULOSC BADANIA BIOLOGICZNEGO: dla punktu badanego w ramach monitoringu i monitoringu interwencyjnego czulosc badania biologicznego powinna wynosic powyzej 10 mln os./l przy przynajmniej 3-minutowym czasie zliczania probki.\n6. UWAGI OPERACYJNE: w procedurze poziomy zagrozenia wyznacza sie lacznie na podstawie pomiarow terenowych, badan fizyko-chemicznych i oznaczen biologicznych.",
+  "tagi_wspolne": [
+    "zlota alga",
+    "prymnesium parvum",
+    "wskazniki"
+  ],
+  "aliasy": [
+    "zlota alga wskazniki",
+    "zlota alga pomiary terenowe",
+    "zlota alga badania laboratoryjne",
+    "prymnesium parvum wskazniki",
+    "wskazniki fizykochemiczne zlota alga"
+  ],
+  "pelna_procedura": {
+    "tytul": "Procedura monitorowania interwencyjnego pod katem wystepowania zlotej algi, GIOS",
+    "plik": "",
+    "strona": null
+  }
+}

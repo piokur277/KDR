@@ -1,0 +1,41 @@
+{
+  "id": "WYP-EV-01",
+  "prefix": "Wypadek pojazdu elektrycznego po kolizji drogowej",
+  "keywords": [
+    "wypadek ev",
+    "kolizja ev",
+    "samochod elektryczny po wypadku",
+    "auto elektryczne po dachowaniu",
+    "zderzenie auta elektrycznego",
+    "rozbity elektryk",
+    "uszkodzony pojazd elektryczny",
+    "kolizja samochodu elektrycznego",
+    "wypadek tesli",
+    "uszkodzona bateria trakcyjna po kolizji"
+  ],
+  "content": "1. Zabezpiecz miejsce zdarzenia, wyznacz strefÄ™ dziaĹ‚aĹ„ i zatrzymaj ruch.\n2. Rozpoznaj pojazd: marka, model, oznaczenia EV, miejsce akumulatora trakcyjnego.\n3. SprawdĹş zagroĹĽenia dodatkowe: dym, syk, wyciek, uszkodzone przewody pomaraĹ„czowe, deformacja podwozia.\n4. UnieĹ› maskÄ™ lub uzyskaj dostÄ™p zgodnie z kartÄ… ratowniczÄ… tylko wtedy, gdy jest to bezpieczne.\n5. Unieruchom pojazd, wybierz pozycjÄ™ PARK, zaciÄ…gnij hamulec, wyĹ‚Ä…cz zapĹ‚on i odsuĹ„ klucz minimum 5 metrĂłw.\n6. JeĹ›li producent przewiduje pÄ™tlÄ™ ratowniczÄ… lub punkt odĹ‚Ä…czenia 12V, wykonaj dezaktywacjÄ™ zgodnie z procedurÄ… modelu.\n7. Nie przecinaj przewodĂłw wysokiego napiÄ™cia i nie naruszaj obudowy baterii.\n8. Ewakuuj poszkodowanych standardowo, stale obserwujÄ…c temperaturÄ™ i oznaki uszkodzenia baterii.\n9. Po zakoĹ„czeniu dziaĹ‚aĹ„ przekaĹĽ pojazd do strefy obserwacji z informacjÄ… o ryzyku wtĂłrnego zapĹ‚onu.",
+  "slowo_kluczowe": "wypadek samochodu elektrycznego",
+  "tagi_wspolne": [
+    "pojazd elektryczny",
+    "samochod elektryczny",
+    "ev",
+    "wypadek"
+  ],
+  "aliasy": [
+    "wypadek ev",
+    "kolizja ev",
+    "samochod elektryczny po wypadku",
+    "auto elektryczne po dachowaniu",
+    "zderzenie auta elektrycznego",
+    "rozbity elektryk",
+    "uszkodzony pojazd elektryczny",
+    "kolizja samochodu elektrycznego",
+    "wypadek tesli",
+    "uszkodzona bateria trakcyjna po kolizji"
+  ],
+  "pelna_procedura": {
+    "tytul": "Wypadek pojazdu elektrycznego po kolizji drogowej",
+    "plik": "",
+    "strona": null
+  }
+}

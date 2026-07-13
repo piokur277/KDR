@@ -1,0 +1,31 @@
+{
+  "id": "KARTA-KPP-SEKWENCJA-ZALOZEN-TAKTYCZNYCH",
+  "kategoria": "dzialania",
+  "zrodlo": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 1",
+  "data_aktualizacji": "",
+  "slowo_kluczowe": "kpp taktyczne",
+  "keywords": [
+    "sekwencja zalozen taktycznych",
+    "procedura 1 kpp",
+    "rozpoznanie miejsca zdarzenia kpp",
+    "kpp dotarcie do poszkodowanego"
+  ],
+  "prefix": "KPP - sekwencja zalozen taktycznych w ratownictwie medycznym.",
+  "content": "1. KOD / NAZWA: Procedura 1 - sekwencja zalozen taktycznych w ratownictwie medycznym.\n2. PRZYBYCIE NA MIEJSCE: rozpocznij od przybycia na miejsce zdarzenia i wykonania rozpoznania.\n3. ROZPOZNANIE MIEJSCA ZDARZENIA: uwzglednij zabezpieczenie ratownikow, identyfikacje zagrozen, liczbe poszkodowanych, potrzebne dodatkowe sily i srodki oraz mechanizm zdarzenia.\n4. DOTARCIE DO POSZKODOWANEGO: po ocenie sytuacji podejmij probe bezpiecznego dotarcia do poszkodowanego.\n5. DOSTEP LUB EWAKUACJA: jezeli jest to konieczne, wykonaj dostep do poszkodowanego, a nastepnie podejmij medyczne dzialania ratownicze. Jezeli warunki na to pozwalaja, podejmij medyczne dzialania ratownicze i przygotuj poszkodowanego do ewakuacji.\n6. BRAK MOZLIWOSCI DZIALANIA: gdy medyczne dzialania ratownicze nie moga zostac podjete, postepuj zgodnie z zasadami organizacji ratownictwa medycznego w ksrg wskazanymi w zalaczniku nr 10.\n7. MELDUNEK: na kazdym kluczowym etapie zloz meldunek do Kierujacego Dzialaniem Ratowniczym.\n8. UWAGI OPERACYJNE: karta porzadkuje decyzje taktyczne przed rozpoczeciem szczegolowych medycznych dzialan ratowniczych.",
+  "tagi_wspolne": [
+    "kpp",
+    "medyczne dzialania ratownicze",
+    "zalozenia taktyczne"
+  ],
+  "aliasy": [
+    "sekwencja zalozen taktycznych",
+    "procedura 1 kpp",
+    "rozpoznanie miejsca zdarzenia kpp",
+    "kpp dotarcie do poszkodowanego"
+  ],
+  "pelna_procedura": {
+    "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 1",
+    "plik": "",
+    "strona": null
+  }
+}

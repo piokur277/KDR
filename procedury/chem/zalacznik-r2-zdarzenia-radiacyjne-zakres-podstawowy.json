@@ -1,0 +1,44 @@
+{
+  "id": "KARTA-CHEM-R2-ZDARZENIA-RADIACYJNE-ZAKRES-PODSTAWOWY",
+  "kategoria": "dzialania",
+  "zrodlo": "Zalacznik nr R.2. Ochrona radiologiczna oraz dzialania podczas zdarzen radiacyjnych - zakres podstawowy",
+  "data_aktualizacji": "",
+  "slowo_kluczowe": "dzialania podstawowe zdarzenie radiacyjne",
+  "keywords": [
+    "zdarzenie radiacyjne zakres podstawowy",
+    "promieniowanie zakres podstawowy psp",
+    "rozpoznanie radiacyjne",
+    "pozar material promieniotworczy",
+    "ewidencja dawek promieniowanie",
+    "strefa goraca radiacja",
+    "r2 radiologiczne",
+    "material promieniotworczy psp",
+    "pozar materialu promieniotworczego",
+    "pozar z materialem promieniotworczym"
+  ],
+  "prefix": "Zalacznik R2 - Dzialania podczas zdarzen radiacyjnych w zakresie podstawowym.",
+  "content": "1. KOD / NAZWA: R2 - dzialania podczas zdarzen radiacyjnych w zakresie podstawowym.\n2. ROZPOZNANIE: zakres podstawowy KSRG obejmuje weryfikacje zgloszenia na miejscu, wykonanie pomiarow dozymetrycznych, wyznaczenie strefy I, zabezpieczenie instalacji i mediow, ewakuacje i ratowanie ludzi oraz zwierzat, dostosowanie technik i sprzetu do rodzaju zagrozenia oraz prowadzenie dekontaminacji wstepnej.\n3. STREFA: wyznacz strefe I wokol miejsca zdarzenia, a w obiektach za jej granice przyjmij sciany pomieszczenia lub budynku. Wyznacz tez strefe II dla punktu dowodzenia, zbiorki osob ewakuowanych i kwalifikowanej pierwszej pomocy. Minimalny zalecany promien strefy to 3 m, chyba ze pomiary na granicy wskazuja ponad 100 uSv/h - wtedy strefe nalezy powiekszac.\n4. SOI: przy uwolnieniu materialu promieniotworczego stosuj maksymalne srodki ochrony, minimum odziez zgodna z PN-EN 469 oraz filtrujacy sprzet ochrony ukladu oddechowego. Do strefy potencjalnie niebezpiecznej wprowadzaj minimalna liczbe ratownikow.\n5. DZIALANIA KRYTYCZNE: uruchom miernik mocy dawki i dawkomierz indywidualny przed zblizeniem, prowadz rozpoznanie z wiatrem, nie dotykaj ani nie przemieszczaj uszkodzonego pojemnika, wyznacz strefy i ewakuuj ludzi poza obszar narazenia.\n6. PROCEDURA SZCZEGOLOWA: osoby ewakuowane lub poszkodowane, ktore moga byc skazone promieniotworczo, nalezy rozebrac z odziezy, obuwia, bielizny i bizuterii, zabezpieczyc odziez w podwojnym worku i pozostawic w oznakowanym miejscu strefy kontrolowanej. Rejestruj czas przebywania ratownikow w strefie I oraz moc dawki, wykonuj dokumentacje fotograficzna i traktuj odziez oraz sprzet jako potencjalnie skazony odpad promieniotworczy do czasu oceny przez SGRChem. Przy pozarze wyznacz strefe zagrozenia o minimalnym promieniu 30 m; w pomieszczeniach zamknietych wprowadzaj jedna rote, a w obiektach otwartych rozwaz jednego ratownika z asekuracja. Preferuj proszek lub piane srednia/ciezka, a prady rozproszone wody stosuj tylko w szczegolnych przypadkach z bezpiecznej odleglosci.\n7. DAWKI I EWIDENCJA: do oszacowania dawki skutecznej stosuj wzor Dp = D x t, gdzie D jest moca dawki, a t czasem przebywania ratownika w polu promieniowania. Kazdy funkcjonariusz musi posiadac indywidualna karte ewidencyjna narazenia i prowadzic ewidencje dawek w uSv. Przy dawce jednorazowej lub sumarycznej 1000 uSv nalezy wdrozyc procedure medycyny pracy i powiadomien.\n8. CO MOZE POJSC NIE TAK: zbyt bliskie podejscie bez uruchomionego sprzetu dozymetrycznego, ewakuacja w miejsce stacjonowania sil i srodkow, wprowadzenie zbyt licznej obsady do strefy i uzycie zwartych pradow wody przy pozarze materialu promieniotworczego.\n9. UWAGI OPERACYJNE: przy pozarze pojazdu przewozacego materialy promieniotworcze czas pracy ratownika w strefie zagrozenia nie moze przekroczyc 30 minut. Weryfikacji oszacowanej dawki dokonuje dowodca SGRChem.",
+  "tagi_wspolne": [
+    "cbrne",
+    "radiacja",
+    "zdarzenie radiacyjne",
+    "pozar"
+  ],
+  "aliasy": [
+    "zdarzenie radiacyjne zakres podstawowy",
+    "promieniowanie zakres podstawowy psp",
+    "rozpoznanie radiacyjne",
+    "pozar material promieniotworczy",
+    "ewidencja dawek promieniowanie",
+    "strefa goraca radiacja",
+    "r2 radiologiczne",
+    "material promieniotworczy psp",
+    "pozar materialu promieniotworczego",
+    "pozar z materialem promieniotworczym"
+  ],
+  "pelna_procedura": {
+    "tytul": "Zalacznik nr R.2. Ochrona radiologiczna oraz dzialania podczas zdarzen radiacyjnych - zakres podstawowy",
+    "plik": "",
+    "strona": null
+  }
+}

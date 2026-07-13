@@ -1,0 +1,31 @@
+{
+  "id": "KARTA-BUD-ORGANIZACJA-DZIALAN-KATASTROFA-BUDOWLANA",
+  "kategoria": "organizacja",
+  "zrodlo": "Standardowe zasady postepowania podczas katastrofy budowlanej po wystapieniu katastrofy budowlanej, KG PSP",
+  "data_aktualizacji": "2020-09-07",
+  "slowo_kluczowe": "organizacja dzialan katastrofa budowlana",
+  "keywords": [
+    "gruzowisko organizacja akcji",
+    "katastrofa budowlana organizacja",
+    "rotacja ratownikow gruzowisko",
+    "sztab katastrofa budowlana"
+  ],
+  "prefix": "Katastrofa budowlana - organizacja dzialan ratowniczych na gruzowisku.",
+  "content": "1. KOD / NAZWA: katastrofa budowlana - organizacja dzialan ratowniczych.\n2. ORGANIZACJA WSTEPNA: ogranicz liczbe ratownikow w strefie zagrozenia do niezbednego minimum. Wyznacz miejsce na organizacje punktu przyjecia SIS oraz osobe odpowiedzialna za jego obsluge. Po ewakuacji okresl priorytety ratownicze i zaznacz miejsca lokalizacji osob zywych albo miejsc, gdzie prawdopodobnie moga przebywac osoby w chwili zdarzenia.\n3. PRZESZUKANIE: przystap do przeszukania obiektu z wykorzystaniem dostepnych metod i sprzetu, zachowujac zasady BHP. W pierwszej kolejnosci wykorzystuj strazakow nawotujacych osoby pod gruzami, megafony, psy ratownicze oraz informacje od przewodnikow psow. Kazdorazowo przed nawolywaniem oglaszaj cisze na gruzowisku.\n4. KONTROLA MIEJSC NIEBEZPIECZNYCH: na kazdym etapie przeszukiwania obiektu upewnij sie, ze niestabilne elementy zostaly wlasciwie zabezpieczone, usuniete lub ustabilizowane, a w razie braku takiej mozliwosci miejsca te zostaly oznaczone i omijane. Przeszukanie wszystkich zlokalizowanych poszkodowanych nalezy powtarzac bezprzyrzadowo.\n5. ZABEZPIECZENIE RATOWNIKOW: podczas odgruzowywania zapewnij ratownikom sprzet ochronny osobistej, a w razie potrzeby takze oddechowej. Upewnij sie, ze przy wejsciu do strefy zagrozenia znajduja sie zespoly zdolne udzielic pomocy odnalezionym lub ewakuowanym poszkodowanym.\n6. ROTACJA I ODWOD: przy wyjsciu ze strefy zagrozenia zapewnij mozliwosc dekontaminacji ratownikow i sprzetu dla osob konczacych zmiane robocza. Zapewnij odwod taktyczny do podmiany pracujacych ratownikow oraz bezpieczna odleglosc od prowadzonych dzialan. Unikaj obecnosci osob zbednych na terenie akcji.\n7. CZAS PRACY: organizuj rotacyjna prace ratownikow, przyjmujac nie wiecej niz 6 godzin pracy w strefie i w warunkach szczegolnie trudnych odpowiednio krotszy czas zmiany, do 4 lub nawet 2 godzin.\n8. SZTAB I ODCINKI: w razie potrzeby utworz zespoly ratownikow z okreslonym zadaniem, wyznacz miejsce dla kierowania taktycznego oraz zorganizuj sztab. Zadysponuj SDC, namiot do pracy sztabu, wyznacz szefa sztabu i osoby odpowiedzialne za kontrole wejsc i wyjsc. Zadbaj o oznakowanie osob funkcyjnych, miejsca obslugi mediow, wsparcia psychologicznego, PPSiS, sztabu oraz miejsca tymczasowej ewakuacji poszkodowanych.\n9. WSPOLDZIALANIE: po dojezdzie SGPR albo SGRT podziel teren akcji na odcinki bojowe, wyznacz dowodce odcinka specjalistycznego oraz grupe ratownicza. Opracuj schemat lacznosci akcji i czas skladania meldunkow. Na biezaco informuj wlasciwe terenowo stanowisko kierowania PSP. W porozumieniu z przedstawicielami zarzadzania kryzysowego zadysponuj ciezki sprzet budowlany oraz do odgruzowywania zniszczonego obiektu.\n10. CO MOZE POJSC NIE TAK: brak ustalenia zasad finansowania moze opoznic wykorzystanie sprzetu. Upewnij sie, ze zasady finansowania uzycia sprzetu zostaly ustalone przed jego uruchomieniem. Informowanie mediow powinno odbywac sie wyĹ‚Ä…cznie przez wyznaczonego oficera prasowego lub osobe odpowiedzialna za kontakt z mediami.\n11. UWAGI OPERACYJNE: w razie koniecznosci wyznacz osobe do obslugi sprzetu specjalistycznego poza strefa zagrozenia, miejsce skladowania sprzetu oraz osobe do jego obslugi, a przy pracach na wyzszych kondygnacjach uwzglednij mozliwosc wykorzystania podnosnikow lub technik alpinistycznych.",
+  "tagi_wspolne": [
+    "katastrofa budowlana",
+    "zawalenie",
+    "organizacja dzialan"
+  ],
+  "aliasy": [
+    "gruzowisko organizacja akcji",
+    "katastrofa budowlana organizacja",
+    "rotacja ratownikow gruzowisko",
+    "sztab katastrofa budowlana"
+  ],
+  "pelna_procedura": {
+    "tytul": "Standardowe zasady postepowania podczas katastrofy budowlanej po wystapieniu katastrofy budowlanej, KG PSP",
+    "plik": "",
+    "strona": null
+  }
+}

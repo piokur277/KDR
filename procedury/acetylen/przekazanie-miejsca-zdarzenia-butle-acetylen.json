@@ -1,0 +1,37 @@
+{
+  "id": "KARTA-ACETYLEN-PRZEKAZANIE",
+  "kategoria": "organizacja",
+  "zrodlo": "Standardowe zasady postepowania podczas zdarzen z udzialem butli z acetylenem, KG PSP",
+  "data_aktualizacji": "2020-03-13",
+  "slowo_kluczowe": "przekazanie miejsca zdarzenia acetylen",
+  "keywords": [
+    "przekazanie butli acetylenowej",
+    "udt tdt wdt acetylen",
+    "zakonczenie dzialan acetylen",
+    "przekazanie po chlodzeniu butli",
+    "protokol przekazania acetylen",
+    "po akcji butla acetylenowa",
+    "przekazanie acetylen"
+  ],
+  "prefix": "Przekazanie miejsca zdarzenia po dzialaniach z udzialem butli z acetylenem.",
+  "content": "1. KOD / NAZWA: przekazanie miejsca zdarzenia po dzialaniach z udzialem butli z acetylenem.\n2. Z1 - PO ZAKONCZENIU CHLODZENIA: po zakonczeniu 24-godzinnego procesu chlodzenia przekaz miejsce zdarzenia wlascicielowi lub uzytkownikowi, sporzadzajac dokument przekazania. Powiadom miejscowy UDT, TDT lub WDT i wpisz do dokumentu czas rozpoczecia oraz zakonczenia chlodzenia, informacje o powiadomieniu oraz zakazie uzytkowania butli do czasu dopuszczenia do eksploatacji.\n3. Z1 - PRZED UKONCZENIEM 24 GODZIN: gdy po dzialaniach butla zostala zanurzona w zbiorniku z woda, przekaz miejsce zdarzenia z wpisaniem czasu rozpoczecia chlodzenia oraz wymaganego czasu jego kontynuacji. Pozostale informacje przekaz jak dla Z1 po zakonczeniu chlodzenia.\n4. Z2 - WARUNKI PRZEKAZANIA: przekaz miejsce zdarzenia po zatrzymaniu wycieku przez zakrecenie zaworu i potwierdzeniu, ze butla jest zimna, albo po oproznieniu butli. W dokumencie podaj informacje o oproznieniu butli, szczegolnie gdy nie pozostalo wymagane cisnienie resztkowe.\n5. Z3 - WARUNKI PRZEKAZANIA: przekaz miejsce zdarzenia po zatrzymaniu wycieku przez zakrecenie zaworu albo po oproznieniu butli. W dokumencie podaj informacje o oproznieniu butli, szczegolnie gdy nie pozostalo wymagane cisnienie resztkowe.\n6. Z4 - WARUNKI PRZEKAZANIA: przekaz miejsce zdarzenia, gdy butle znajduja sie w miejscu bezpiecznym.\n7. UWAGI OPERACYJNE: dokument przekazania powinien odzwierciedlac stan butli i wykonane czynnosci, a w przypadku Z1 rowniez formalne powiadomienie miejscowego UDT, TDT lub WDT.",
+  "tagi_wspolne": [
+    "acetylen",
+    "butla acetylenowa",
+    "przekazanie"
+  ],
+  "aliasy": [
+    "przekazanie butli acetylenowej",
+    "udt tdt wdt acetylen",
+    "zakonczenie dzialan acetylen",
+    "przekazanie po chlodzeniu butli",
+    "protokol przekazania acetylen",
+    "po akcji butla acetylenowa",
+    "przekazanie acetylen"
+  ],
+  "pelna_procedura": {
+    "tytul": "Standardowe zasady postepowania podczas zdarzen z udzialem butli z acetylenem, KG PSP",
+    "plik": "",
+    "strona": null
+  }
+}

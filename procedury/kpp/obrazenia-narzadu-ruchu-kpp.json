@@ -1,0 +1,32 @@
+{
+  "id": "KARTA-KPP-OBRAZENIA-NARZADU-RUCHU",
+  "kategoria": "dzialania",
+  "zrodlo": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 12",
+  "data_aktualizacji": "",
+  "slowo_kluczowe": "obrazenia narzadu ruchu kpp",
+  "keywords": [
+    "konczyna kpp",
+    "zlamanie kpp",
+    "procedura 12 kpp",
+    "wyciag delikatny kpp"
+  ],
+  "prefix": "KPP - obrazenia i podejrzenie obrazen narzadu ruchu.",
+  "content": "1. KOD / NAZWA: Procedura 12 - obrazenia i podejrzenie obrazen narzadu ruchu.\n2. START: wykonaj rozpoznanie miejsca zdarzenia i sekwencje medycznych dzialan ratowniczych z procedury 2.\n3. STABILIZACJA WSTEPNA: zastosuj reczna stabilizacje konczyny i ocen odniesione obrazenia.\n4. OCENA DYSTALNA: ocen krazenie i czucie ponizej miejsca uszkodzenia.\n5. ZNIEKSZTALCENIE OBRYSU KONCZYNY: rozwaz zastosowanie delikatnego wyciagu.\n6. OPOR PODCZAS WYCIAGU: jezeli podczas stosowania wyciagu pojawia sie opor, przerwij wyciag i unieruchom konczyne w pozycji zastanej.\n7. RANA: jezeli wystepuje przerwanie ciaglosci skory, zaloz opatrunek jalowy oslaniajacy na rane.\n8. UNIERUCHOMIENIE: jezeli nie ma oporu podczas delikatnego wyciagu i warunki na to pozwalaja, unieruchom konczyne w pozycji zblizonej do fizjologicznej. W przeciwnym razie unieruchom w pozycji zastanej.\n9. PONOWNA OCENA: po unieruchomieniu ponownie ocen krazenie i czucie ponizej miejsca uszkodzenia.\n10. UWAGI OPERACYJNE: karta laczy decyzje dotyczace delikatnego wyciagu, rany i wyboru pozycji unieruchomienia.",
+  "tagi_wspolne": [
+    "kpp",
+    "medyczne dzialania ratownicze",
+    "obrazenia",
+    "uraz"
+  ],
+  "aliasy": [
+    "konczyna kpp",
+    "zlamanie kpp",
+    "procedura 12 kpp",
+    "wyciag delikatny kpp"
+  ],
+  "pelna_procedura": {
+    "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 12",
+    "plik": "",
+    "strona": null
+  }
+}

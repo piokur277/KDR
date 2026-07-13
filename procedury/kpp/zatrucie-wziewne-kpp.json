@@ -1,0 +1,30 @@
+{
+  "id": "KARTA-KPP-ZATRUCIE-WZIEWNE",
+  "kategoria": "dzialania",
+  "zrodlo": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 15",
+  "data_aktualizacji": "",
+  "slowo_kluczowe": "zatrucie wziewne kpp",
+  "keywords": [
+    "procedura 15 kpp",
+    "ewakuacja ze strefy zagrozenia kpp",
+    "5 oddechow zatrucie wziewne"
+  ],
+  "prefix": "KPP - zatrucie wziewne.",
+  "content": "1. KOD / NAZWA: Procedura 15 - zatrucie wziewne.\n2. START: wykonaj rozpoznanie miejsca zdarzenia i sekwencje medycznych dzialan ratowniczych z procedury 2.\n3. EWAKUACJA: ewakuuj poszkodowanego ze strefy zagrozenia, w miare mozliwosci z izolacja drog oddechowych.\n4. ODDECH: prowadz stala kontrole oddechu.\n5. TLENOTERAPIA LUB WENTYLACJA: niezwlocznie rozpocznij tlenoterapie albo wentylacje.\n6. ZATRZYMANIE KRAZENIA: jezeli dojdzie do zatrzymania krazenia, RKO rozpoczyna sie od 5 oddechow ratowniczych, a nastepnie przechodzi do ucisniec klatki piersiowej zgodnie z procedura 3 lub 4.\n7. UWAGI OPERACYJNE: dokument wskazuje rowniez rozwazenie mozliwosci uzycia dostepnego sprzetu nadglosniowego do udroznienia drog oddechowych.",
+  "tagi_wspolne": [
+    "kpp",
+    "medyczne dzialania ratownicze",
+    "zatrucie",
+    "zatrucie wziewne"
+  ],
+  "aliasy": [
+    "procedura 15 kpp",
+    "ewakuacja ze strefy zagrozenia kpp",
+    "5 oddechow zatrucie wziewne"
+  ],
+  "pelna_procedura": {
+    "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 15",
+    "plik": "",
+    "strona": null
+  }
+}

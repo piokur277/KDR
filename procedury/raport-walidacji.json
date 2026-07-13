@@ -1,0 +1,390 @@
+{
+  "generated_at": "2026-07-13T12:29:17.235Z",
+  "procedure_count": 70,
+  "unique_direct_terms": 517,
+  "shared_tags": [
+    {
+      "tag": "kpp",
+      "count": 20,
+      "ids": [
+        "KARTA-KPP-AMPUTACJA-URAZOWA",
+        "KARTA-KPP-KOBIETA-W-CIAZY-ZAGROZENIE",
+        "KARTA-KPP-OBRAZENIA-BRZUCHA",
+        "KARTA-KPP-OBRAZENIA-GLOWY",
+        "KARTA-KPP-OBRAZENIA-KLATKI-PIERSIOWEJ",
+        "KARTA-KPP-OBRAZENIA-KREGOSLUPA",
+        "KARTA-KPP-OBRAZENIA-MIEDNICY",
+        "KARTA-KPP-OBRAZENIA-NARZADU-RUCHU",
+        "KARTA-KPP-OPARZENIE-CHEMICZNE",
+        "KARTA-KPP-OPARZENIE-TERMICZNE",
+        "KARTA-KPP-RANY",
+        "KARTA-KPP-RKO-DOROSLI",
+        "KARTA-KPP-RKO-DZIECI-NIEMOWLETA-NOWORODKI",
+        "KARTA-KPP-SEKWENCJA-MEDYCZNYCH-DZIALAN-RATOWNICZYCH",
+        "KARTA-KPP-SEKWENCJA-ZALOZEN-TAKTYCZNYCH",
+        "KARTA-KPP-TONIECIE",
+        "KARTA-KPP-WSPARCIE-PSYCHICZNE",
+        "KARTA-KPP-WYCHLODZENIE",
+        "KARTA-KPP-STANY-NIEURAZOWE",
+        "KARTA-KPP-ZATRUCIE-WZIEWNE"
+      ]
+    },
+    {
+      "tag": "medyczne dzialania ratownicze",
+      "count": 20,
+      "ids": [
+        "KARTA-KPP-AMPUTACJA-URAZOWA",
+        "KARTA-KPP-KOBIETA-W-CIAZY-ZAGROZENIE",
+        "KARTA-KPP-OBRAZENIA-BRZUCHA",
+        "KARTA-KPP-OBRAZENIA-GLOWY",
+        "KARTA-KPP-OBRAZENIA-KLATKI-PIERSIOWEJ",
+        "KARTA-KPP-OBRAZENIA-KREGOSLUPA",
+        "KARTA-KPP-OBRAZENIA-MIEDNICY",
+        "KARTA-KPP-OBRAZENIA-NARZADU-RUCHU",
+        "KARTA-KPP-OPARZENIE-CHEMICZNE",
+        "KARTA-KPP-OPARZENIE-TERMICZNE",
+        "KARTA-KPP-RANY",
+        "KARTA-KPP-RKO-DOROSLI",
+        "KARTA-KPP-RKO-DZIECI-NIEMOWLETA-NOWORODKI",
+        "KARTA-KPP-SEKWENCJA-MEDYCZNYCH-DZIALAN-RATOWNICZYCH",
+        "KARTA-KPP-SEKWENCJA-ZALOZEN-TAKTYCZNYCH",
+        "KARTA-KPP-TONIECIE",
+        "KARTA-KPP-WSPARCIE-PSYCHICZNE",
+        "KARTA-KPP-WYCHLODZENIE",
+        "KARTA-KPP-STANY-NIEURAZOWE",
+        "KARTA-KPP-ZATRUCIE-WZIEWNE"
+      ]
+    },
+    {
+      "tag": "uraz",
+      "count": 8,
+      "ids": [
+        "KARTA-KPP-AMPUTACJA-URAZOWA",
+        "KARTA-KPP-OBRAZENIA-BRZUCHA",
+        "KARTA-KPP-OBRAZENIA-GLOWY",
+        "KARTA-KPP-OBRAZENIA-KLATKI-PIERSIOWEJ",
+        "KARTA-KPP-OBRAZENIA-KREGOSLUPA",
+        "KARTA-KPP-OBRAZENIA-MIEDNICY",
+        "KARTA-KPP-OBRAZENIA-NARZADU-RUCHU",
+        "KARTA-KPP-RANY"
+      ]
+    },
+    {
+      "tag": "katastrofa budowlana",
+      "count": 7,
+      "ids": [
+        "KARTA-BUD-INFORMACJE-DODATKOWE-KATASTROFA-BUDOWLANA",
+        "KARTA-BUD-ORGANIZACJA-DZIALAN-KATASTROFA-BUDOWLANA",
+        "KARTA-BUD-PRIORYTETY-TYPOW-ZAWALEN",
+        "KARTA-BUD-PRZEKAZANIE-KATASTROFA-BUDOWLANA",
+        "KARTA-BUD-ROZPOZNANIE-KATASTROFA-BUDOWLANA",
+        "KARTA-BUD-STREFA-I-EWAKUACJA-KATASTROFA-BUDOWLANA",
+        "KARTA-BUD-ZABEZPIECZENIE-LOGISTYCZNE-KATASTROFA-BUDOWLANA"
+      ]
+    },
+    {
+      "tag": "pozar",
+      "count": 7,
+      "ids": [
+        "KARTA-ACETYLEN-Z1",
+        "KARTA-CHEM-Z1-LNG-POZAR-ZEW",
+        "KARTA-CHEM-Z2-LNG-POZAR-STRUM",
+        "KARTA-CHEM-Z3-LNG-POZAR-ROZLEWISKA",
+        "KARTA-CHEM-R2-ZDARZENIA-RADIACYJNE-ZAKRES-PODSTAWOWY",
+        "KARTA-PV-Z1-POZAR",
+        "POZ-EV-01"
+      ]
+    },
+    {
+      "tag": "zawalenie",
+      "count": 7,
+      "ids": [
+        "KARTA-BUD-INFORMACJE-DODATKOWE-KATASTROFA-BUDOWLANA",
+        "KARTA-BUD-ORGANIZACJA-DZIALAN-KATASTROFA-BUDOWLANA",
+        "KARTA-BUD-PRIORYTETY-TYPOW-ZAWALEN",
+        "KARTA-BUD-PRZEKAZANIE-KATASTROFA-BUDOWLANA",
+        "KARTA-BUD-ROZPOZNANIE-KATASTROFA-BUDOWLANA",
+        "KARTA-BUD-STREFA-I-EWAKUACJA-KATASTROFA-BUDOWLANA",
+        "KARTA-BUD-ZABEZPIECZENIE-LOGISTYCZNE-KATASTROFA-BUDOWLANA"
+      ]
+    },
+    {
+      "tag": "acetylen",
+      "count": 6,
+      "ids": [
+        "KARTA-ACETYLEN-Z1",
+        "KARTA-ACETYLEN-Z2",
+        "KARTA-ACETYLEN-Z3",
+        "KARTA-ACETYLEN-Z4",
+        "KARTA-ACETYLEN-PRZEKAZANIE",
+        "KARTA-ACETYLEN-ROZPOZNANIE"
+      ]
+    },
+    {
+      "tag": "butla acetylenowa",
+      "count": 6,
+      "ids": [
+        "KARTA-ACETYLEN-Z1",
+        "KARTA-ACETYLEN-Z2",
+        "KARTA-ACETYLEN-Z3",
+        "KARTA-ACETYLEN-Z4",
+        "KARTA-ACETYLEN-PRZEKAZANIE",
+        "KARTA-ACETYLEN-ROZPOZNANIE"
+      ]
+    },
+    {
+      "tag": "cbrne",
+      "count": 6,
+      "ids": [
+        "KARTA-CHEM-B1-ZAGROZENIE-BIOLOGICZNE-GR3-GR4",
+        "KARTA-CHEM-B22-PODEJRZANA-PRZESYLKA-CBR",
+        "KARTA-CHEM-R1-OCHRONA-RADIOLOGICZNA",
+        "KARTA-CHEM-R2-ZDARZENIA-RADIACYJNE-ZAKRES-PODSTAWOWY",
+        "KARTA-ORG-CBRNE-DODATKOWE-USTALENIA-SZKOLENIA",
+        "KARTA-ORG-WYTYCZNE-WSPOLDZIALANIA-CBRNE"
+      ]
+    },
+    {
+      "tag": "obrazenia",
+      "count": 6,
+      "ids": [
+        "KARTA-KPP-OBRAZENIA-BRZUCHA",
+        "KARTA-KPP-OBRAZENIA-GLOWY",
+        "KARTA-KPP-OBRAZENIA-KLATKI-PIERSIOWEJ",
+        "KARTA-KPP-OBRAZENIA-KREGOSLUPA",
+        "KARTA-KPP-OBRAZENIA-MIEDNICY",
+        "KARTA-KPP-OBRAZENIA-NARZADU-RUCHU"
+      ]
+    },
+    {
+      "tag": "cysterna lng",
+      "count": 5,
+      "ids": [
+        "KARTA-CHEM-Z1-LNG-POZAR-ZEW",
+        "KARTA-CHEM-Z2-LNG-POZAR-STRUM",
+        "KARTA-CHEM-Z3-LNG-POZAR-ROZLEWISKA",
+        "KARTA-CHEM-Z4-LNG-WYCIEK",
+        "KARTA-CHEM-Z5-LNG-ZAWORY"
+      ]
+    },
+    {
+      "tag": "fotowoltaika",
+      "count": 5,
+      "ids": [
+        "KARTA-PV-INFORMACJE-DODATKOWE",
+        "KARTA-PV-Z1-POZAR",
+        "KARTA-PV-Z2-MIEJSCOWE-ZAGROZENIE",
+        "KARTA-PV-PRZEKAZANIE",
+        "KARTA-PV-ROZPOZNANIE-I-ZABEZPIECZENIE"
+      ]
+    },
+    {
+      "tag": "gaz skroplony",
+      "count": 5,
+      "ids": [
+        "KARTA-CHEM-Z1-LNG-POZAR-ZEW",
+        "KARTA-CHEM-Z2-LNG-POZAR-STRUM",
+        "KARTA-CHEM-Z3-LNG-POZAR-ROZLEWISKA",
+        "KARTA-CHEM-Z4-LNG-WYCIEK",
+        "KARTA-CHEM-Z5-LNG-ZAWORY"
+      ]
+    },
+    {
+      "tag": "instalacja fotowoltaiczna",
+      "count": 5,
+      "ids": [
+        "KARTA-PV-INFORMACJE-DODATKOWE",
+        "KARTA-PV-Z1-POZAR",
+        "KARTA-PV-Z2-MIEJSCOWE-ZAGROZENIE",
+        "KARTA-PV-PRZEKAZANIE",
+        "KARTA-PV-ROZPOZNANIE-I-ZABEZPIECZENIE"
+      ]
+    },
+    {
+      "tag": "lng",
+      "count": 5,
+      "ids": [
+        "KARTA-CHEM-Z1-LNG-POZAR-ZEW",
+        "KARTA-CHEM-Z2-LNG-POZAR-STRUM",
+        "KARTA-CHEM-Z3-LNG-POZAR-ROZLEWISKA",
+        "KARTA-CHEM-Z4-LNG-WYCIEK",
+        "KARTA-CHEM-Z5-LNG-ZAWORY"
+      ]
+    },
+    {
+      "tag": "prymnesium parvum",
+      "count": 5,
+      "ids": [
+        "KARTA-ZA-CEL-ZAKRES-MONITOROWANIA",
+        "KARTA-ZA-CZYNNIKI-RYZYKA",
+        "KARTA-ZA-POSTEPOWANIE",
+        "KARTA-ZA-POZIOMY-ALARMOWE",
+        "KARTA-ZA-WSKAZNIKI-BADANE"
+      ]
+    },
+    {
+      "tag": "pv",
+      "count": 5,
+      "ids": [
+        "KARTA-PV-INFORMACJE-DODATKOWE",
+        "KARTA-PV-Z1-POZAR",
+        "KARTA-PV-Z2-MIEJSCOWE-ZAGROZENIE",
+        "KARTA-PV-PRZEKAZANIE",
+        "KARTA-PV-ROZPOZNANIE-I-ZABEZPIECZENIE"
+      ]
+    },
+    {
+      "tag": "substancja chemiczna",
+      "count": 5,
+      "ids": [
+        "KARTA-ORG-AMONIAK-NH3-WARTOSCI-GRANICZNE",
+        "KARTA-ORG-CHLOROWODOR-WARTOSCI-GRANICZNE",
+        "KARTA-ORG-CO-WARTOSCI-GRANICZNE",
+        "KARTA-ORG-H2S-WARTOSCI-GRANICZNE",
+        "KARTA-ORG-HCN-WARTOSCI-GRANICZNE"
+      ]
+    },
+    {
+      "tag": "zlota alga",
+      "count": 5,
+      "ids": [
+        "KARTA-ZA-CEL-ZAKRES-MONITOROWANIA",
+        "KARTA-ZA-CZYNNIKI-RYZYKA",
+        "KARTA-ZA-POSTEPOWANIE",
+        "KARTA-ZA-POZIOMY-ALARMOWE",
+        "KARTA-ZA-WSKAZNIKI-BADANE"
+      ]
+    },
+    {
+      "tag": "ev",
+      "count": 4,
+      "ids": [
+        "DEZ-EV-01",
+        "POZ-EV-01",
+        "WYP-EV-01",
+        "ZAT-EV-01"
+      ]
+    },
+    {
+      "tag": "pojazd elektryczny",
+      "count": 4,
+      "ids": [
+        "DEZ-EV-01",
+        "POZ-EV-01",
+        "WYP-EV-01",
+        "ZAT-EV-01"
+      ]
+    },
+    {
+      "tag": "samochod elektryczny",
+      "count": 4,
+      "ids": [
+        "DEZ-EV-01",
+        "POZ-EV-01",
+        "WYP-EV-01",
+        "ZAT-EV-01"
+      ]
+    },
+    {
+      "tag": "h5n8",
+      "count": 3,
+      "ids": [
+        "KARTA-PTASIA-GRYPA-INFORMACJE-I-ZASADY",
+        "KARTA-PTASIA-GRYPA-NADZOR-EPIDEMIOLOGICZNY",
+        "KARTA-PTASIA-GRYPA-SOI-I-DEKONTAMINACJA"
+      ]
+    },
+    {
+      "tag": "przekazanie",
+      "count": 3,
+      "ids": [
+        "KARTA-ACETYLEN-PRZEKAZANIE",
+        "KARTA-BUD-PRZEKAZANIE-KATASTROFA-BUDOWLANA",
+        "KARTA-PV-PRZEKAZANIE"
+      ]
+    },
+    {
+      "tag": "ptasia grypa",
+      "count": 3,
+      "ids": [
+        "KARTA-PTASIA-GRYPA-INFORMACJE-I-ZASADY",
+        "KARTA-PTASIA-GRYPA-NADZOR-EPIDEMIOLOGICZNY",
+        "KARTA-PTASIA-GRYPA-SOI-I-DEKONTAMINACJA"
+      ]
+    },
+    {
+      "tag": "rozpoznanie",
+      "count": 3,
+      "ids": [
+        "KARTA-ACETYLEN-ROZPOZNANIE",
+        "KARTA-BUD-ROZPOZNANIE-KATASTROFA-BUDOWLANA",
+        "KARTA-PV-ROZPOZNANIE-I-ZABEZPIECZENIE"
+      ]
+    },
+    {
+      "tag": "wyciek",
+      "count": 3,
+      "ids": [
+        "KARTA-ACETYLEN-Z2",
+        "KARTA-ACETYLEN-Z3",
+        "KARTA-CHEM-Z4-LNG-WYCIEK"
+      ]
+    },
+    {
+      "tag": "oparzenie",
+      "count": 2,
+      "ids": [
+        "KARTA-KPP-OPARZENIE-CHEMICZNE",
+        "KARTA-KPP-OPARZENIE-TERMICZNE"
+      ]
+    },
+    {
+      "tag": "organizacja dzialan",
+      "count": 2,
+      "ids": [
+        "KARTA-BUD-ORGANIZACJA-DZIALAN-KATASTROFA-BUDOWLANA",
+        "KARTA-ORG-ZASADY-ORGANIZOWANIA-DZIALAN-RATOWNICZYCH"
+      ]
+    },
+    {
+      "tag": "radiacja",
+      "count": 2,
+      "ids": [
+        "KARTA-CHEM-R1-OCHRONA-RADIOLOGICZNA",
+        "KARTA-CHEM-R2-ZDARZENIA-RADIACYJNE-ZAKRES-PODSTAWOWY"
+      ]
+    },
+    {
+      "tag": "resuscytacja",
+      "count": 2,
+      "ids": [
+        "KARTA-KPP-RKO-DOROSLI",
+        "KARTA-KPP-RKO-DZIECI-NIEMOWLETA-NOWORODKI"
+      ]
+    },
+    {
+      "tag": "rko",
+      "count": 2,
+      "ids": [
+        "KARTA-KPP-RKO-DOROSLI",
+        "KARTA-KPP-RKO-DZIECI-NIEMOWLETA-NOWORODKI"
+      ]
+    },
+    {
+      "tag": "wypadek",
+      "count": 2,
+      "ids": [
+        "WYP-EV-01",
+        "WYP-MAS-01"
+      ]
+    },
+    {
+      "tag": "zdarzenie radiacyjne",
+      "count": 2,
+      "ids": [
+        "KARTA-CHEM-R1-OCHRONA-RADIOLOGICZNA",
+        "KARTA-CHEM-R2-ZDARZENIA-RADIACYJNE-ZAKRES-PODSTAWOWY"
+      ]
+    }
+  ]
+}

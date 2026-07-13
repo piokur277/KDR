@@ -1,0 +1,36 @@
+{
+  "id": "KARTA-CHEM-Z3-LNG-POZAR-ROZLEWISKA",
+  "kategoria": "dzialania",
+  "zrodlo": "Zasady postepowania podczas zdarzen z LNG, KG PSP",
+  "data_aktualizacji": "2025-12",
+  "slowo_kluczowe": "pozar rozlewiska lng",
+  "keywords": [
+    "pool fire",
+    "pali sie kaluza lng",
+    "rozlane lng plonie",
+    "plonacy gaz na ziemi",
+    "piana na lng",
+    "proszek lng"
+  ],
+  "prefix": "Karta Z3 - Pozar rozlewiska skroplonego gazu ziemnego LNG (Pool Fire).",
+  "content": "1. KOD / NAZWA: LNG Z3 - pozar rozlewiska skroplonego gazu ziemnego LNG (Pool Fire).\n2. ROZPOZNANIE: rozpoznaj, czy pozar dotyczy samego rozlewiska, czy zagrozone sa tez sasiednie obiekty i korpus cysterny.\n3. STREFA: w przekazanej procedurze nie wskazano jednej liczbowej strefy; kluczowe jest zabezpieczenie otoczenia i kontrola stezen wybuchowych poza widoczna chmura.\n4. SOI: w przekazanej procedurze nie wskazano osobnego zestawu SOI.\n5. DZIALANIA KRYTYCZNE: bezwzglednie nie podawaj wody na rozlewisko LNG. Wode stosuj tylko do schladzania sasiednich obiektow i korpusu cysterny pradami rozproszonymi.\n6. PROCEDURA SZCZEGOLOWA: zalecane jest podanie piany lekkiej 500:1 bezposrednio na rozlewisko z wydajnoscia 10 l/min/m2; podaz uzupelniaj co 1 minute przez 30 sekund. Dopuszczalne jest tez uzycie proszku gasniczego, czesto w kombinacji z piana lekka. Po ewentualnym ugaszeniu monitoruj okolice eksplozymetrem i rozstaw kurtyny wodne.\n7. CO MOZE POJSC NIE TAK: podanie wody bezposrednio na rozlewisko natychmiast spoteguje odparowanie i gwaltownie zwiekszy pozar. Uzycie piany ciezkiej jest zabronione. Ugaszenie rozlewiska proszkiem lub piana wiaze sie z duzym ryzykiem ponownego zaplonu.\n8. UWAGI OPERACYJNE: na powierzchni rozlewiska po podaniu piany lekkiej moze utworzyc sie lod i kominy, co zmniejsza intensywnosc pozaru.",
+  "tagi_wspolne": [
+    "lng",
+    "gaz skroplony",
+    "cysterna lng",
+    "pozar"
+  ],
+  "aliasy": [
+    "pool fire",
+    "pali sie kaluza lng",
+    "rozlane lng plonie",
+    "plonacy gaz na ziemi",
+    "piana na lng",
+    "proszek lng"
+  ],
+  "pelna_procedura": {
+    "tytul": "Zasady postepowania podczas zdarzen z LNG, KG PSP",
+    "plik": "",
+    "strona": null
+  }
+}

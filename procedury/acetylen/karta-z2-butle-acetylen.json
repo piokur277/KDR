@@ -1,0 +1,29 @@
+{
+  "id": "KARTA-ACETYLEN-Z2",
+  "kategoria": "dzialania",
+  "zrodlo": "Standardowe zasady postepowania podczas zdarzen z udzialem butli z acetylenem, KG PSP",
+  "data_aktualizacji": "2020-03-13",
+  "slowo_kluczowe": "nieszczelna butla acetylen wewnatrz obiektu",
+  "keywords": [
+    "wyciek acetylenu w budynku",
+    "acetylen wewnatrz obiektu",
+    "karta z2 acetylen"
+  ],
+  "prefix": "Karta Z2 - Butle niepoddane dzialaniu ognia/ciepla lub wielokrotnym uderzeniom - nieszczelne, znajdujace sie wewnatrz obiektu.",
+  "content": "1. KOD / NAZWA: Z2 - butle z acetylenem niepoddane dzialaniu ognia, ciepla lub wielokrotnym uderzeniom, nieszczelne, znajdujace sie wewnatrz obiektu.\n2. ROZPOZNANIE: potwierdz, ze butla jest nieszczelna i znajduje sie wewnatrz obiektu. Monitoruj obszar wystepowania mieszaniny wybuchowej.\n3. STREFA: przyjmij granice strefy zagrozenia co najmniej jako sciany zewnetrzne obiektu lub pomieszczenia; w zaleznosci od okolicznosci zdarzenia rozwaz jej zwiekszenie i ewakuuj osoby ze strefy.\n4. SOI: ogranicz liczbe ratownikow w strefie do minimum i stosuj ochrone drog oddechowych oraz oczu.\n5. DZIALANIA KRYTYCZNE: wyeliminuj potencjalne zrodla zaplonu, ratownikow zabezpiecz rozproszonym pradem wody, stosuj narzedzia nieiskrzace i urzadzenia w wykonaniu przeciwwybuchowym. Jezeli nie wystepuje potrzeba ratowania zycia ludzkiego, nie wchodz do strefy zagrozenia wybuchem.\n6. PROCEDURA SZCZEGOLOWA: stosuj maksymalnie bezpieczna wentylacje pomieszczen. Gdy nie wystepuje zagrozenie wybuchem, podejmij probe zakrecenia zaworu na butli w celu zatrzymania wycieku gazu. Po zakreceniu zaworu sprawdz, czy cala powierzchnia butli pozostaje zimna; jesli nie, przejdz do dzialan z karty Z1, a jesli pozostaje zimna, dopuszcza sie przeniesienie butli w inne miejsce, np. na zewnatrz budynku, trzymajac ja za plaszcz i nie trzymajac za zawor lub kolpak.\n7. CO MOZE POJSC NIE TAK: najwiekszym bledem jest wejscie do strefy zagrozenia wybuchem bez bezwzglednej potrzeby, niedostateczne usuniecie zrodel zaplonu oraz chwytanie butli za zawor albo kolpak podczas przenoszenia.\n8. UWAGI OPERACYJNE: karta dotyczy butli nieszczelnych wewnatrz obiektu, ale tylko wtedy, gdy nie byly poddane dzialaniu ognia, ciepla lub wielokrotnym uderzeniom.",
+  "tagi_wspolne": [
+    "acetylen",
+    "butla acetylenowa",
+    "wyciek"
+  ],
+  "aliasy": [
+    "wyciek acetylenu w budynku",
+    "acetylen wewnatrz obiektu",
+    "karta z2 acetylen"
+  ],
+  "pelna_procedura": {
+    "tytul": "Standardowe zasady postepowania podczas zdarzen z udzialem butli z acetylenem, KG PSP",
+    "plik": "",
+    "strona": null
+  }
+}

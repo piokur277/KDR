@@ -1,0 +1,39 @@
+{
+  "id": "KARTA-CHEM-Z5-LNG-ZAWORY",
+  "kategoria": "dzialania",
+  "zrodlo": "Zasady postepowania podczas zdarzen z LNG, KG PSP",
+  "data_aktualizacji": "2025-12",
+  "slowo_kluczowe": "zrzut cisnienia lng",
+  "keywords": [
+    "gwizda z cysterny",
+    "syk z cysterny",
+    "wyrzut z zaworu bezpieczenstwa",
+    "zawor zrzutowy lng",
+    "puszcza cisnienie lng",
+    "emisja z zaworow lng",
+    "nadcisnienie lng"
+  ],
+  "prefix": "Karta Z5 - Emisja gazu LNG przez zawory bezpieczenstwa (Zrzut cisnienia).",
+  "content": "1. KOD / NAZWA: LNG Z5 - emisja gazu LNG przez zawory bezpieczenstwa (zrzut cisnienia).\n2. ROZPOZNANIE: sytuacja moze dotyczyc samoczynnego okresowego wzrostu cisnienia, wyrzucanego przez kominy na dachu cysterny. Oceniaj, czy emisja ma charakter typowego zrzutu, czy przechodzi w regularny wyciek.\n3. STREFA: wyznacz strefe 150 m i usun wszystkie zrodla iskrzenia i zaplonu.\n4. SOI: w przekazanej procedurze nie wskazano osobnego zestawu SOI.\n5. DZIALANIA KRYTYCZNE: stale monitoruj atmosfere eksplozymetrem i sprawdz cala cysterne kamera termowizyjna.\n6. PROCEDURA SZCZEGOLOWA: alarmuj przy 2,5% objetosci. Jezeli widoczne jest nagle miejscowe wychlodzenie plaszcza, traktuj to jako oznake rozszczelnienia powloki prozniowej. Jezeli emisja nie ustepuje, wdroz dzialania jak przy regularnym wycieku i przejdz do procedury Z4, stosujac m.in. kurtyny wodne i wentylatory Ex. Jezeli oprocz wyrzutu gazu z zaworu obserwujesz wyciek fazy plynnej, natychmiast wdroz procedure Z4.\n7. CO MOZE POJSC NIE TAK: bledna ocena samoczynnego zrzutu cisnienia jako zjawiska niegroznego moze opoznic wdrozenie procedury wycieku.\n8. UWAGI OPERACYJNE: kluczowe znaczenie ma rozroznienie miedzy okresowym zrzutem cisnienia a utrzymujacym sie wyciekiem gazu lub fazy plynnej.",
+  "tagi_wspolne": [
+    "lng",
+    "gaz skroplony",
+    "cysterna lng",
+    "zawory",
+    "zrzut cisnienia"
+  ],
+  "aliasy": [
+    "gwizda z cysterny",
+    "syk z cysterny",
+    "wyrzut z zaworu bezpieczenstwa",
+    "zawor zrzutowy lng",
+    "puszcza cisnienie lng",
+    "emisja z zaworow lng",
+    "nadcisnienie lng"
+  ],
+  "pelna_procedura": {
+    "tytul": "Zasady postepowania podczas zdarzen z LNG, KG PSP",
+    "plik": "",
+    "strona": null
+  }
+}

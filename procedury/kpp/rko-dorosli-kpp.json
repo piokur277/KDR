@@ -1,0 +1,32 @@
+{
+  "id": "KARTA-KPP-RKO-DOROSLI",
+  "kategoria": "dzialania",
+  "zrodlo": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 3",
+  "data_aktualizacji": "",
+  "slowo_kluczowe": "kpp rko dorosli",
+  "keywords": [
+    "rko dorosly kpp",
+    "zatrzymanie krazenia dorosly",
+    "procedura 3 kpp",
+    "aed dorosly"
+  ],
+  "prefix": "KPP - zatrzymanie krazenia u doroslych.",
+  "content": "1. KOD / NAZWA: Procedura 3 - zatrzymanie krazenia u doroslych.\n2. START: wykonaj rozpoznanie miejsca zdarzenia i przejdz przez sekwencje medycznych dzialan ratowniczych z procedury 2.\n3. ROZPOZNANIE: jezeli stwierdzasz brak prawidlowego oddechu, rozpocznij resuscytacje.\n4. RKO: prowadz resuscytacje krazeniowo-oddechowa w schemacie 30:2 albo asynchronicznie, gdy zastosowano wymagany dostepny sprzet nadglosniowy do udroznienia drog oddechowych.\n5. AED: podlacz defibrylator AED i po jego uruchomieniu stosuj sie do polecen urzadzenia.\n6. UWAGI OPERACYJNE: karta dotyczy doroslych i zaklada wykorzystanie dostepnego AED oraz sprzetu nadglosniowego, jesli jest dostepny.",
+  "tagi_wspolne": [
+    "kpp",
+    "medyczne dzialania ratownicze",
+    "rko",
+    "resuscytacja"
+  ],
+  "aliasy": [
+    "rko dorosly kpp",
+    "zatrzymanie krazenia dorosly",
+    "procedura 3 kpp",
+    "aed dorosly"
+  ],
+  "pelna_procedura": {
+    "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 3",
+    "plik": "",
+    "strona": null
+  }
+}

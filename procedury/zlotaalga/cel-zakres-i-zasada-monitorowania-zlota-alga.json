@@ -1,0 +1,33 @@
+{
+  "id": "KARTA-ZA-CEL-ZAKRES-MONITOROWANIA",
+  "kategoria": "organizacja",
+  "zrodlo": "Procedura monitorowania interwencyjnego pod katem wystepowania zlotej algi, GIOS",
+  "data_aktualizacji": "2023-05-08",
+  "slowo_kluczowe": "zlota alga monitoring",
+  "keywords": [
+    "prymnesium parvum monitoring",
+    "procedura zlota alga",
+    "cel procedury zlota alga",
+    "zakres procedury zlota alga",
+    "zasada metody zlota alga"
+  ],
+  "prefix": "Procedura monitorowania interwencyjnego pod katem wystepowania zlotej algi - cel, zakres i zasada.",
+  "content": "1. KOD / NAZWA: procedura monitorowania interwencyjnego pod katem wystepowania zlotej algi, czyli Prymnesium parvum.\n2. CEL PROCEDURY: usystematyzowanie i ujednolicenie sposobu monitorowania interwencyjnego, zwanego dalej monitoringiem, pod katem wystapienia zakwitu zlotej algi.\n3. ZAKRES: metoda jest przeznaczona do niniejszej procedury okreslajacej wskazniki fizykochemiczne i biologiczne w wodzie objetych badaniem, czestotliwosc wykonywania badan, wartosci alarmowe wskaznikow fizykochemicznych i biologicznych oraz sposob postepowania z probkami, od odpowiedniego pobierania probek, poprzez raportowanie wynikow badan, sposob i droge informowania odpowiednich sluzb.\n4. ZASADA METODY: polega na wykonywaniu badan terenowych i laboratoryjnych, ktore umozliwiaja wykrycie ewentualnego ryzyka wystapienia zakwitow haptofitow z gatunku Prymnesium parvum, a nastepnie poinformowanie odpowiednich sluzb.\n5. APARATURA I MATERIAY POMOCNICZE: zarowno do badania wskaznikow fizykochemicznych w terenie, jak i w laboratorium oraz metod pomocniczych nalezy stosowac aparature i materialy pomocnicze okreslone w metodach referencyjnych.\n6. ODNIESIENIE METODYCZNE: wykaz metod referencyjnych znajduje sie w rozporzadzeniu Ministra Infrastruktury z dnia 13 lipca 2021 r. w sprawie form i sposobu prowadzenia monitoringu jednolitych czesci wod powierzchniowych i jednolitych czesci wod podziemnych.",
+  "tagi_wspolne": [
+    "zlota alga",
+    "prymnesium parvum",
+    "monitoring"
+  ],
+  "aliasy": [
+    "prymnesium parvum monitoring",
+    "procedura zlota alga",
+    "cel procedury zlota alga",
+    "zakres procedury zlota alga",
+    "zasada metody zlota alga"
+  ],
+  "pelna_procedura": {
+    "tytul": "Procedura monitorowania interwencyjnego pod katem wystepowania zlotej algi, GIOS",
+    "plik": "",
+    "strona": null
+  }
+}

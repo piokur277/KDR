@@ -1,0 +1,31 @@
+{
+  "id": "KARTA-BUD-ROZPOZNANIE-KATASTROFA-BUDOWLANA",
+  "kategoria": "dzialania",
+  "zrodlo": "Standardowe zasady postepowania podczas katastrofy budowlanej po wystapieniu katastrofy budowlanej, KG PSP",
+  "data_aktualizacji": "2020-09-07",
+  "slowo_kluczowe": "rozpoznanie katastrofa budowlana",
+  "keywords": [
+    "rozpoznanie zawalenie",
+    "gruzowisko rozpoznanie",
+    "katastrofa budowlana rozpoznanie",
+    "zawalony budynek rozpoznanie"
+  ],
+  "prefix": "Katastrofa budowlana - rozpoznanie miejsca zdarzenia.",
+  "content": "1. KOD / NAZWA: katastrofa budowlana - rozpoznanie miejsca zdarzenia.\n2. ROZPOZNANIE WSTEPNE: pozyskaj od personelu obiektu, uczestnikow i swiadkow zdarzenia jak najwiecej informacji o charakterze i przeznaczeniu obiektu, liczbie kondygnacji nadziemnych i podziemnych, przypuszczalnej godzinie zdarzenia, liczbie osob przebywajacych w obiekcie w chwili zdarzenia, mozliwym kontakcie z poszkodowanymi, mediach oraz potencjalnych przyczynach zawalenia.\n3. OCENA OBIEKTU: ustal, czy w obiekcie byly podlaczone media i czy zostaly juz odlaczone. Jezeli media nie zostaly odlaczone albo nie ma pewnosci co do ich stanu, wezwij odpowiednie sluzby i zachowaj szczegolna ostroznosc przy wprowadzaniu ludzi na gruzowisko.\n4. OGLADZINY: dokonaj ogledzin obiektu z kazdej strony zgodnie z zasadami bezpieczenstwa i przy zachowaniu szczegolnej uwagi na niestabilne, uszkodzone elementy konstrukcji i budowlane. Do rozpoznania wysylaj minimum dwoch ratownikow wyposazonych w sprzet pomiarowy i lacznosc.\n5. SZKIC I PRZESZUKANIE: wykonaj szkic obiektu z zaznaczeniem szczegolnych miejsc z punktu widzenia bezpieczenstwa oraz priorytetow ratowniczych. Wykonaj wstepne przeszukanie gruzowiska i jego przesluchanie metoda nawolywania i nasluchiwania.\n6. DYSPOZYCJE DODATKOWE: w przypadku prawdopodobienstwa znajdowania sie osob pod gruzami albo znacznego uszkodzenia obiektu zadysponuj dodatkowe SIS, w szczegolnosci SGPR poziomu A, B i C oraz SGRT, a stosownie do sytuacji inne sluzby i przedstawicieli zarzadzania kryzysowego, pogotowie gazowe i energetyczne, przedstawicieli gminy, miasta lub powiatu, Powiatowego Inspektora Nadzoru Budowlanego, a w razie potrzeby zespol rozpoznania pirotechnicznego Policji albo SGRChem.\n7. ZABEZPIECZENIE DZIALAN: okresl zapotrzebowanie na zespoly PRM. W przypadku zadysponowania smiglowca LPR okresl i przygotuj miejsce do ladowania. Wyznacz punkt przyjecia sil i srodkow oraz przydziel do niego funkcjonariusza wyposazonego w radiotelefon w celu przekazywania informacji o przybylych SIS.\n8. CO MOZE POJSC NIE TAK: nie podejmuj zadnych dzialan ratowniczych w strefie zagrozenia do czasu wlasciwego zabezpieczenia miejsca dzialan oraz ratownikow. W dzialaniach poszukiwawczych z wykorzystaniem psow ratowniczych mozna wykorzystywac tylko zespoly z aktualnym egzaminem klasy I zgodnie z obowiazujacymi przepisami, a przewodnik psa powinien legitymowac sie wlasciwym dokumentem.\n9. UWAGI OPERACYJNE: karta obejmuje rozpoznanie przed wprowadzeniem ratownikow do strefy dzialan i powinna stanowic podstawe do dalszego wyznaczenia stref oraz organizacji akcji.",
+  "tagi_wspolne": [
+    "katastrofa budowlana",
+    "zawalenie",
+    "rozpoznanie"
+  ],
+  "aliasy": [
+    "rozpoznanie zawalenie",
+    "gruzowisko rozpoznanie",
+    "katastrofa budowlana rozpoznanie",
+    "zawalony budynek rozpoznanie"
+  ],
+  "pelna_procedura": {
+    "tytul": "Standardowe zasady postepowania podczas katastrofy budowlanej po wystapieniu katastrofy budowlanej, KG PSP",
+    "plik": "",
+    "strona": null
+  }
+}

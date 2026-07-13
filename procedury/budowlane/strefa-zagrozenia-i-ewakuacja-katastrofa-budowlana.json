@@ -1,0 +1,32 @@
+{
+  "id": "KARTA-BUD-STREFA-I-EWAKUACJA-KATASTROFA-BUDOWLANA",
+  "kategoria": "dzialania",
+  "zrodlo": "Standardowe zasady postepowania podczas katastrofy budowlanej po wystapieniu katastrofy budowlanej, KG PSP",
+  "data_aktualizacji": "2020-09-07",
+  "slowo_kluczowe": "strefa zagrozenia katastrofa budowlana",
+  "keywords": [
+    "ewakuacja gruzowisko",
+    "katastrofa budowlana ewakuacja",
+    "strefa zawalenie budynku",
+    "wyznacz strefe gruzowisko"
+  ],
+  "prefix": "Katastrofa budowlana - wyznaczanie strefy zagrozenia i ewakuacja ludzi.",
+  "content": "1. KOD / NAZWA: katastrofa budowlana - wyznaczanie strefy zagrozenia i ewakuacja ludzi.\n2. STREFA DLA RATOWNIKOW: przed wprowadzeniem strazakow do dzialan opracuj zasady bezpieczenstwa. Wyznacz strefe zagrozenia, w ktorej beda prowadzone dzialania ratownicze, korzystajac z zasady minimum 3-5 m od brzegu gruzowiska albo, w przypadku niestabilnych elementow, odleglosci rownej co najmniej 150 procent wysokosci najwyzszego niestabilnego elementu obiektu.\n3. OBSZARY NIEBEZPIECZNE: wyznacz jako obszary zamkniete miejsca niestabilne, uszkodzone lub grozace upadkiem elementy, miejsca wystepowania zagrozen mediami lub pozarem oraz inne niebezpieczne strefy.\n4. OZNAKOWANIE I ORGANIZACJA: okresl wejscie i wyjscie do strefy zagrozenia oraz oznacz je czytelnie, wyznacz droge dojazdu dla kolejnych SIS, miejsce zbiorki ratownikow po ewakuacji i sposoby oglaszania alarmowego opuszczenia strefy. Zalecane haslo radiowe to okrzyk radiowy \"gesi zer\", a sygnal dzwiekowy to 3 krotkie sygnaly powtarzane az do opuszczenia strefy przez uczestnikow akcji.\n5. MONITOROWANIE STABILNOSCI: wyznacz strazaka do monitorowania stabilnosci uszkodzonej konstrukcji i wskaz mu miejsce, z ktorego bedzie mogl obserwowac elementy budynku do czasu przybycia specjalistycznego sprzetu. Jezeli nie ma tachimetru, wykorzystaj proste techniki obserwacji wzrokowej i nasluchiwania pekniec.\n6. WEJSCIA I WYJSCIA: wyznacz strazaka odpowiedzialnego za monitorowanie wejsc i wyjsc ze strefy. Przy poziomie C uzyj identyfikatorow imiennych lub innego systemu sledzenia, wyznacz osobe odpowiedzialna za stala kontrole liczby osob w strefie i, o ile to mozliwe, stosuj jedno miejsce wejscia i wyjscia.\n7. EWAKUACJA I PODPORY: po wyznaczeniu strefy przeszukaj niezawalona czesc obiektu i ewakuuj ludnosc do bezpiecznej strefy. W razie koniecznosci wykorzystaj podpory niestabilnych czesci obiektu poprzez ich stabilizacje przy uzyciu podporek budowlanych. W przypadku braku takiego sprzetu uznaj to miejsce za niebezpieczne i zakaz zblizania sie do czasu ustabilizowania przez ratownikow SGPR.\n8. EWIDENCJA I NADZOR: zapewnij odpowiednie warunki dla osob ewakuowanych i prowadz ewidencje ewakuowanych, jezeli to mozliwe. Wyznacz przedstawiciela nadzoru budowlanego lub specjaliste od dziedziny budownictwa do porozumienia i okreslenia warunkow bezpiecznego wprowadzenia ratownikow.\n9. CO MOZE POJSC NIE TAK: brak sygnalow z gruzowiska nie oznacza braku osob poszkodowanych w gruzowisku. Jezeli nie masz pewnosci co do liczby osob, czekaj na przybycie SGPR. Sprzet i narzedzia do kontroli stabilnosci nie daja gwarancji bezpieczenstwa dzialan i nie zapobiegaja wtornemu zawaleniu; moga jedynie wspomoc oficera bezpieczenstwa w monitorowaniu i ostrzeganiu ratownikow pracujacych na gruzowisku.\n10. UWAGI OPERACYJNE: po ewakuacji okresl priorytety ratownicze, zaznacz miejsca lokalizacji poszkodowanych i wyznacz miejsce organizacji punktu przyjecia SIS oraz osoby odpowiedzialnej za jego obsluge.",
+  "tagi_wspolne": [
+    "katastrofa budowlana",
+    "zawalenie",
+    "strefa zagrozenia",
+    "ewakuacja"
+  ],
+  "aliasy": [
+    "ewakuacja gruzowisko",
+    "katastrofa budowlana ewakuacja",
+    "strefa zawalenie budynku",
+    "wyznacz strefe gruzowisko"
+  ],
+  "pelna_procedura": {
+    "tytul": "Standardowe zasady postepowania podczas katastrofy budowlanej po wystapieniu katastrofy budowlanej, KG PSP",
+    "plik": "",
+    "strona": null
+  }
+}

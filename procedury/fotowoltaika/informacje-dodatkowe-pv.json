@@ -1,0 +1,33 @@
+{
+  "id": "KARTA-PV-INFORMACJE-DODATKOWE",
+  "kategoria": "informacje",
+  "zrodlo": "Standardowe zasady postepowania podczas zdarzen w obrebie instalacji fotowoltaicznych, KG PSP",
+  "data_aktualizacji": "2022-03",
+  "slowo_kluczowe": "informacje dodatkowe pv",
+  "keywords": [
+    "ostroznosc pv",
+    "hot stick pv",
+    "prad staly pv",
+    "moduly pv ostroznosc",
+    "bezpieczenstwo fotowoltaika"
+  ],
+  "prefix": "Informacje dodatkowe i srodki ostroznosci przy dzialaniach w obrebie instalacji fotowoltaicznych.",
+  "content": "1. KOD / NAZWA: instalacja fotowoltaiczna PV - informacje dodatkowe i srodki ostroznosci.\n2. SRODKI OSTROZNOSCI: obowiazuje zakaz wchodzenia i poruszania sie po powierzchni modulow PV.\n3. NAPIECIE DC: po rozlaczeniu napiecia po stronie AC nadal moze wystepowac niebezpieczne napiecie po stronie DC pomiedzy modulami a falownikiem.\n4. ROZLACZANIE MODULOW: jezeli zachodzi koniecznosc rozlaczenia modulow, nalezy uprzednio wylaczyc falownik, w przeciwnym razie w zamknietym obwodzie moze dojsc do powstania luku elektrycznego.\n5. MAGAZYN ENERGII: jezeli instalacja PV wyposazona jest w magazyn energii, nalezy zawsze wylaczac falownik.\n6. OGRANICZENIA SPRZETU: detektor typu Hot Stick nie wykrywa pradu stalego generowanego przez moduly fotowoltaiczne.\n7. OZNACZENIA I PLANOWANIE: informacje o zakonczeniu robot budowlanych polegajacych na instalowaniu urzadzen fotowoltaicznych o mocy powyzej 6,5 kW sa przekazywane do wlasciwych miejscowo KP lub KM PSP miedzy innymi na potrzeby planowania dzialan ratowniczo-gasniczych.\n8. CO MOZE POJSC NIE TAK: dzialania polegajace na zaslanianiu modulow przed promieniowaniem slonecznym, w tym zakrywanie plandekami lub pokrywanie piana sprezona, nie stanowia gwarancji zabezpieczenia przed porazeniem pradem.\n9. UWAGI OPERACYJNE: systemy PV moga pracowac pod napieciem do 1500 V DC, a ryzyko porazenia pradem nalezy traktowac jako jedno z podstawowych zagrozen podczas dzialan w ich obrebie.",
+  "tagi_wspolne": [
+    "fotowoltaika",
+    "pv",
+    "instalacja fotowoltaiczna"
+  ],
+  "aliasy": [
+    "ostroznosc pv",
+    "hot stick pv",
+    "prad staly pv",
+    "moduly pv ostroznosc",
+    "bezpieczenstwo fotowoltaika"
+  ],
+  "pelna_procedura": {
+    "tytul": "Standardowe zasady postepowania podczas zdarzen w obrebie instalacji fotowoltaicznych, KG PSP",
+    "plik": "",
+    "strona": null
+  }
+}

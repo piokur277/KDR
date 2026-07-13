@@ -1,0 +1,48 @@
+{
+  "id": "KARTA-PTASIA-GRYPA-NADZOR-EPIDEMIOLOGICZNY",
+  "kategoria": "dzialania",
+  "zrodlo": "Wytyczne Glownego Inspektora Sanitarnego MSWiA w sprawie zjadliwej grypy ptakow typu A H5N8 dla sluzb podleglych MSWiA udzielajacych wsparcia Inspekcji Weterynaryjnej",
+  "data_aktualizacji": "2017-01-04",
+  "slowo_kluczowe": "nadzor epidemiologiczny ptasia grypa",
+  "keywords": [
+    "ptasia grypa nadzor",
+    "ptasia grypa ekspozycja",
+    "ekspozycja na ptasia grype",
+    "narazenie na ptasia grype",
+    "h5n8 nadzor epidemiologiczny",
+    "h5n8 ekspozycja",
+    "lista narazonych h5n8",
+    "lista funkcjonariuszy narazonych",
+    "monitorowanie 10 dni ptasia grypa",
+    "obserwacja 10 dni h5n8",
+    "objawy po kontakcie z ptasia grypa",
+    "postepowanie po narazeniu h5n8"
+  ],
+  "prefix": "Ptasia grypa H5N8 - nadzor epidemiologiczny po bezposrednim narazeniu.",
+  "content": "1. KOD / NAZWA: H5N8 - nadzor epidemiologiczny po bezposrednim narazeniu na kontakt z ptactwem zakazonym badz podejrzanym o zakazenie.\n2. OBJECIE NADZOREM: funkcjonariusze, ktorzy zostana bezposrednio narazeni na kontakt z ptactwem zakazonym badz podejrzanym o zakazenie wirusem grypy typu A(H5N8), powinni byc objeci nadzorem epidemiologicznym.\n3. LISTA NARAZONYCH: nalezy sporzadzic liste funkcjonariuszy z dnia podjecia dzialan zwiazanych ze zwalczaniem ogniska grypy ptakow H5N8. Lista powinna zawierac imie i nazwisko, adres zamieszkania, nazwe jednostki PSP oraz status szczepienia przeciw grypie w sezonie 2016/2017.\n4. PRZEKAZANIE INFORMACJI: lista powinna zostac przekazana przez Komendanta Powiatowego lub Komendanta Miejskiego do Panstwowego Inspektora Sanitarnego MSWiA na obszarze wojewodztwa w terminie do 2 dni po wystapieniu narazenia, czyli dzialan w ognisku.\n5. OBSERWACJA STANU ZDROWIA: funkcjonariusze objeci nadzorem epidemiologicznym powinni monitorowac stan swojego zdrowia przez 10 dni pod katem wystapienia objawow zakazenia.\n6. OBJAWY ALARMOWE: w przypadku wystapienia objawow chorobowych, takich jak podwyzszenie temperatury ciala do 38 C lub powyzej, kaszel, bole miesni, stawow, bol gardla lub katar, funkcjonariusz musi zglosic sie do lekarza i poinformowac o tym Panstwowego Inspektora Sanitarnego MSWiA na obszarze wojewodztwa.\n7. UWAGI OPERACYJNE: karta dotyczy tylko osob bezposrednio narazonych podczas dzialan w ognisku grypy ptakow H5N8.",
+  "tagi_wspolne": [
+    "ptasia grypa",
+    "h5n8",
+    "nadzor epidemiologiczny",
+    "narazenie"
+  ],
+  "aliasy": [
+    "ptasia grypa nadzor",
+    "ptasia grypa ekspozycja",
+    "ekspozycja na ptasia grype",
+    "narazenie na ptasia grype",
+    "h5n8 nadzor epidemiologiczny",
+    "h5n8 ekspozycja",
+    "lista narazonych h5n8",
+    "lista funkcjonariuszy narazonych",
+    "monitorowanie 10 dni ptasia grypa",
+    "obserwacja 10 dni h5n8",
+    "objawy po kontakcie z ptasia grypa",
+    "postepowanie po narazeniu h5n8"
+  ],
+  "pelna_procedura": {
+    "tytul": "Wytyczne Glownego Inspektora Sanitarnego MSWiA w sprawie zjadliwej grypy ptakow typu A H5N8 dla sluzb podleglych MSWiA udzielajacych wsparcia Inspekcji Weterynaryjnej",
+    "plik": "",
+    "strona": null
+  }
+}

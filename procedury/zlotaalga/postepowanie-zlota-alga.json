@@ -1,0 +1,33 @@
+{
+  "id": "KARTA-ZA-POSTEPOWANIE",
+  "kategoria": "dzialania",
+  "zrodlo": "Procedura monitorowania interwencyjnego pod katem wystepowania zlotej algi, GIOS",
+  "data_aktualizacji": "2023-05-08",
+  "slowo_kluczowe": "postepowanie zlota alga",
+  "keywords": [
+    "zlota alga etapy",
+    "zlota alga postepowanie",
+    "prymnesium parvum procedura",
+    "zlota alga etap i ii iii",
+    "zlota alga informacja na zewnatrz"
+  ],
+  "prefix": "Zlota alga - etapy postepowania po stwierdzeniu poziomu zagrozenia.",
+  "content": "1. KOD / NAZWA: etapy postepowania w monitoringu interwencyjnym pod katem wystepowania zlotej algi.\n2. ETAP I I II: pomiary terenowe oraz pobranie probek przeznaczonych na wykonanie badan wskazanych w procedurze nalezy wykonac metoda referencyjna. Wyniki wpisuje sie do protokolu pobierania i do dedykowanego formularza najpozniej do godziny 9.00 nastepnego dnia.\n3. DODATKOWY POMIAR: w okresie podwyzszonego ryzyka nalezy wykonac dodatkowy trzeci pomiar w zakresie terenowym, obejmujacy temperature, przewodnosc elektrolityczna wlasciwa w 20 C, odczyn pH, tlen rozpuszczony i nasycenie tlenem. Badanie biologiczne nalezy wykonywac dwa razy w tygodniu wraz z badaniami fizyko-chemicznymi.\n4. ETAP III: po stwierdzeniu III stopnia zagrozenia pomiary terenowe wykonuje sie wraz z badaniami fizyko-chemicznymi z czestotliwoscia dwa razy w tygodniu, a w przypadkach wskazanych w procedurze zlecane sa dodatkowe badania laboratoryjne. Czas wykonania etapu wynosi maksymalnie 48 h od pobrania probek.\n5. WERYFIKACJA LABORATORYJNA: komorka merytoryczna GIOS odpowiada za realizacje badan przez CLB dzialajacy na oddziale CLB lub WIOS/GIOS. Jezeli wykonanie badan nie jest mozliwe w laboratorium wiodacym, zleca sie je innemu laboratorium WIOS/GIOS lub CLB zgodnie z procedura.\n6. ETAP IV - INFORMACJA NA ZEWNATRZ: komorka merytoryczna GIOS odpowiedzialna za realizacje, po uzyskaniu informacji o stopniu zagrozenia, przekazuje informacje do wskazanych instytucji i sluzb. Czas wykonania etapu wynosi do 1 h od uzyskania informacji.\n7. ETAP V - INFORMACJA NA ZEWNATRZ: komorka merytoryczna GIOS przekazuje informacje o stopniu zagrozenia po uzyskaniu odpowiednich danych do instytucji zewnetrznych zgodnie z procedura. Czas wykonania etapu wynosi do 4 h od otrzymania danych badan laboratoryjnych.\n8. UWAGI OPERACYJNE: schemat postepowania obejmuje przejscie od monitoringu wskaznikow fizyko-chemicznych i fitoplanktonu, przez wyznaczenie stopnia zagrozenia, do przekazania informacji do ZKIA i wlasciwych instytucji.",
+  "tagi_wspolne": [
+    "zlota alga",
+    "prymnesium parvum",
+    "postepowanie"
+  ],
+  "aliasy": [
+    "zlota alga etapy",
+    "zlota alga postepowanie",
+    "prymnesium parvum procedura",
+    "zlota alga etap i ii iii",
+    "zlota alga informacja na zewnatrz"
+  ],
+  "pelna_procedura": {
+    "tytul": "Procedura monitorowania interwencyjnego pod katem wystepowania zlotej algi, GIOS",
+    "plik": "",
+    "strona": null
+  }
+}

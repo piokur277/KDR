@@ -1,0 +1,36 @@
+{
+  "id": "KARTA-PV-PRZEKAZANIE",
+  "kategoria": "organizacja",
+  "zrodlo": "Standardowe zasady postepowania podczas zdarzen w obrebie instalacji fotowoltaicznych, KG PSP",
+  "data_aktualizacji": "2022-03",
+  "slowo_kluczowe": "przekazanie miejsca zdarzenia pv",
+  "keywords": [
+    "przekazanie fotowoltaika",
+    "zakonczenie dzialan pv",
+    "uszkodzona instalacja pv po akcji",
+    "przekazanie instalacji fotowoltaicznej",
+    "dozor magazynu energii",
+    "przekazanie pv"
+  ],
+  "prefix": "Przekazanie miejsca zdarzenia po dzialaniach w obrebie instalacji fotowoltaicznej.",
+  "content": "1. KOD / NAZWA: przekazanie miejsca zdarzenia po dzialaniach w obrebie instalacji fotowoltaicznej.\n2. DOKUMENTACJA: przekaz miejsce zdarzenia zgodnie z obowiazujacymi zasadami, sporzadzajac dokument przekazania terenu, obiektu lub mienia objetego dzialaniem ratowniczym.\n3. INFORMACJA O DZIALANIACH: przekaz osobie przejmujacej informacje o fakcie prowadzenia dzialan ratowniczych w obrebie instalacji PV oraz o potencjalnych zagrozeniach i sposobie postepowania.\n4. ZALECENIA PODSTAWOWE: poinformuj o koniecznosci zachowania bezpiecznej odleglosci oraz zakazie dotykania elementow instalacji PV.\n5. DOZOR: poinformuj o koniecznosci dozoru uszkodzonej instalacji PV do czasu jej sprawdzenia oraz o koniecznosci dozoru magazynow energii, jezeli wystepuja, z uwagi na mozliwosc samoistnego nawrotu palenia.\n6. SPRAWDZENIA I UPRAWNIENIA: zalec sprawdzenie instalacji PV przez firme posiadajaca stosowne uprawnienia w zakresie montazu i serwisowania instalacji PV przed powtornym zalaczeniem zasilania do obiektu. Zalec takze sprawdzenie instalacji elektrycznej w obiekcie przez osobe lub firme posiadajaca stosowne uprawnienia przed przywroceniem zasilania.\n7. DODATKOWE RYZYKA: poinformuj o mozliwosci wycieku elektrolitu z uszkodzonego magazynu energii, jezeli wystepuje.\n8. UTYLIZACJA I ODTWORZENIE: wskaz koniecznosc utylizacji zniszczonego lub uszkodzonego magazynu energii albo modulu PV przez wyspecjalizowana firme oraz koniecznosc ponownego montazu i uruchomienia zdemontowanych elementow przez osobe lub firme posiadajaca stosowne uprawnienia.\n9. CO MOZE POJSC NIE TAK: przedwczesne przywrocenie zasilania lub pozostawienie uszkodzonej instalacji bez dozoru moze doprowadzic do ponownego zagrozenia.\n10. UWAGI OPERACYJNE: przekazanie powinno jednoznacznie wskazywac, ze dzialania byly prowadzone w obrebie instalacji fotowoltaicznej oraz czy w obiekcie wystepuje magazyn energii.",
+  "tagi_wspolne": [
+    "fotowoltaika",
+    "pv",
+    "instalacja fotowoltaiczna",
+    "przekazanie"
+  ],
+  "aliasy": [
+    "przekazanie fotowoltaika",
+    "zakonczenie dzialan pv",
+    "uszkodzona instalacja pv po akcji",
+    "przekazanie instalacji fotowoltaicznej",
+    "dozor magazynu energii",
+    "przekazanie pv"
+  ],
+  "pelna_procedura": {
+    "tytul": "Standardowe zasady postepowania podczas zdarzen w obrebie instalacji fotowoltaicznych, KG PSP",
+    "plik": "",
+    "strona": null
+  }
+}

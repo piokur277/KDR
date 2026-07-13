@@ -1,0 +1,31 @@
+{
+  "id": "KARTA-KPP-SEKWENCJA-MEDYCZNYCH-DZIALAN-RATOWNICZYCH",
+  "kategoria": "dzialania",
+  "zrodlo": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 2",
+  "data_aktualizacji": "",
+  "slowo_kluczowe": "kpp sekwencja",
+  "keywords": [
+    "procedura 2 kpp",
+    "kpp abc",
+    "kpp ocena poszkodowanego",
+    "kwalifikowana pierwsza pomoc sekwencja"
+  ],
+  "prefix": "KPP - sekwencja medycznych dzialan ratowniczych.",
+  "content": "1. KOD / NAZWA: Procedura 2 - sekwencja medycznych dzialan ratowniczych w KPP.\n2. START: ocen ogolne wrazenie i od poczatku zapewniaj wsparcie psychiczne poszkodowanemu.\n3. KROK 1 - RANA KRAWIACA LUB DRGAWKI: jezeli wystepuje rana krwawiaca, przejdz do procedury 5. Jezeli wystepuja drgawki, zabezpiecz poszkodowanego przed obrazeniami wtornymi, szczegolnie glowy.\n4. KROK 2 - SWIADOMOSC: ocen stan swiadomosci.\n5. KROK 3 - DROZNOSC DROG ODDECHOWYCH A: ocen droznosc drog oddechowych i w razie koniecznosci je udroznij, dobierajac sposob udroznienia do mechanizmu zdarzenia.\n6. KROK 4 - ODDECH B: ocen oddech. Jezeli brak prawidlowego oddechu, rozpocznij RKO wedlug procedury 3 lub 4. Jezeli oddech jest obecny, prowadz tlenoterapie wedlug wskazan.\n7. KROK 5 - KRAZENIE C: ocen krazenie.\n8. KROK 6 - WYWIAD I BADANIE: zbierz wywiad ratowniczy oraz ocen poszkodowanego pod katem istniejacych obrazen i dolegliwosci.\n9. KROK 7 - POSTEPOWANIE CELOWANE: wdroz postepowanie adekwatne do dolegliwosci i obrazen stwierdzonych u poszkodowanego.\n10. KROK 8 - WSTRZAS I TERMOIZOLACJA: przy objawach wstrzasu hipowolemicznego uloz poszkodowanego w pozycji lezacej na plasko. Zastosuj termoizolacje.\n11. KROK 9 - PONOWNA OCENA: regularnie oceniaj funkcje zyciowe i dostosowuj postepowanie do aktualnego stanu poszkodowanego.\n12. UWAGI OPERACYJNE: ta karta jest procedura nadrzedna i stanowi punkt wyjscia do kolejnych kart szczegolowych, m.in. RKO, ran, obrazen oraz stanow nieurazowych.",
+  "tagi_wspolne": [
+    "kpp",
+    "medyczne dzialania ratownicze",
+    "sekwencja medyczna"
+  ],
+  "aliasy": [
+    "procedura 2 kpp",
+    "kpp abc",
+    "kpp ocena poszkodowanego",
+    "kwalifikowana pierwsza pomoc sekwencja"
+  ],
+  "pelna_procedura": {
+    "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 2",
+    "plik": "",
+    "strona": null
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "KARTA-BUD-ZABEZPIECZENIE-LOGISTYCZNE-KATASTROFA-BUDOWLANA",
+  "kategoria": "organizacja",
+  "zrodlo": "Standardowe zasady postepowania podczas katastrofy budowlanej po wystapieniu katastrofy budowlanej, KG PSP",
+  "data_aktualizacji": "2020-09-07",
+  "slowo_kluczowe": "zabezpieczenie logistyczne katastrofa budowlana",
+  "keywords": [
+    "logistyka gruzowisko",
+    "katastrofa budowlana logistyka",
+    "zaplecze katastrofa budowlana"
+  ],
+  "prefix": "Katastrofa budowlana - zabezpieczenie logistyczne dzialan.",
+  "content": "1. KOD / NAZWA: katastrofa budowlana - zabezpieczenie logistyczne dzialan.\n2. DOJAZD I TEREN AKCJI: bezposrednio po dojezdzie do zdarzenia zapewnij wlasciwe kierowanie ruchem, zachowujac swobodny dostep do strefy zagrozenia, ciezkiego sprzetu burzacego i budowlanego. Zapewnij odpowiednia przestrzen dla terenu akcji i przewiduj duza ilosc SIS oraz srodkow ratowniczych.\n3. ORGANIZACJA ZAPLECZA: wyznacz miejsce do organizacji PPSiS, zadysponuj SDC oraz namiot pneumatyczny z wyposazeniem, wyznacz miejsce oczekiwania SIS do wprowadzenia, miejsca do parkowania pojazdow ratowniczych i innych sluzb wspomagajacych, ladowisko dla smiglowcow LPR, miejsce dla sztabu taktycznego i miejsce do obslugi mediow.\n4. ZABEZPIECZENIE MATERIAĹOWE: wyznacz miejsca do tymczasowej opieki medycznej poszkodowanych, skladowania materialow niezbednych do prowadzenia dzialan, a takze miejsce bezpieczne przy granicy strefy zagrozenia na szybkie uzupelnianie plynow i kalorii przez ratownikow oraz do przekazywania narad dotyczacych dzialan w strefie.\n5. ZABEZPIECZENIE LUDZI: w miejscu oczekiwania SIS zapewnij ratownikom odpowiedni komfort cieplny albo chlodzenie stosownie do warunkow pogodowych. W przypadku upalow zapewnij schronienie przed sloncem i chlodne napoje, a w przypadku niskich temperatur ogrzewane namioty oraz gorace napoje. W porozumieniu z zarzadzaniem kryzysowym zorganizuj wyzywienie w postaci cieplych posilkow po 6 godzinach prowadzonych dzialan oraz zapewnij staly dostep do wody pitnej butelkowanej - minimum 3 litry na osobe na dzien.\n6. CO MOZE POJSC NIE TAK: niewlasciwie zorganizowane zaplecze moze spowolnic rotacje sil, wydluzyc czas wejscia do strefy i pogorszyc warunki bezpieczenstwa ratownikow oraz poszkodowanych.\n7. UWAGI OPERACYJNE: zabezpieczenie logistyczne powinno byc organizowane rownolegle z dzialaniami rozpoznawczymi i ratowniczymi, a jego uklad powinien uwzgledniac mozliwosc dalszej rozbudowy akcji.",
+  "tagi_wspolne": [
+    "katastrofa budowlana",
+    "zawalenie",
+    "logistyka"
+  ],
+  "aliasy": [
+    "logistyka gruzowisko",
+    "katastrofa budowlana logistyka",
+    "zaplecze katastrofa budowlana"
+  ],
+  "pelna_procedura": {
+    "tytul": "Standardowe zasady postepowania podczas katastrofy budowlanej po wystapieniu katastrofy budowlanej, KG PSP",
+    "plik": "",
+    "strona": null
+  }
+}

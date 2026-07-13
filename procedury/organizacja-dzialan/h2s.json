@@ -1,0 +1,51 @@
+{
+  "id": "KARTA-ORG-H2S-WARTOSCI-GRANICZNE",
+  "kategoria": "substancja",
+  "zrodlo": "SDS 016 ALP Siarkowodor v4.1, Air Liquide Polska / Alkat",
+  "data_aktualizacji": "2022-12-13",
+  "slowo_kluczowe": "siarkowodor",
+  "keywords": [
+    "h2s",
+    "wartosci graniczne h2s",
+    "stezenie siarkowodoru",
+    "nds h2s",
+    "ndsch h2s",
+    "ppm h2s",
+    "toksycznosc h2s",
+    "zgnile jaja",
+    "porazenie wechu",
+    "ciezszy od powietrza",
+    "wybuchowosc h2s",
+    "un 1053",
+    "adr 263",
+    "2tf"
+  ],
+  "prefix": "H2S / Siarkowodor - karta zagrozenia operacyjnego.",
+  "content": "1. KOD / NAZWA: H2S - siarkowodor; UN 1053; ADR klasa 2, kod klasyfikacyjny 2TF, nr rozpoznawczy zagrozenia 263.\n2. ROZPOZNANIE: bezbarwny, skrajnie latwopalny i silnie toksyczny gaz o zapachu zgnilych jaj; prog zapachu jest niewystarczajacy do ostrzegania przed nadmiernym narazeniem, a przy wyzszych stezeniach moze dojsc do porazenia wechu. Gaz jest ciezszy od powietrza i moze gromadzic sie w przestrzeniach zamknietych oraz ponizej poziomu terenu.\n3. STREFA: brak jednej liczbowej strefy w SDS; unikaj kanalow, piwnic i zaglebien terenu. Przy wycieku ewakuowac teren, zapobiegac gromadzeniu sie gazu w obnieniach i monitorowac stezenie uwolnionego produktu.\n4. SOI: przy dzialaniach ratowniczych stosowac izolujacy aparat oddechowy przy wejsciu w obszar zagrozenia, o ile atmosfera nie zostala potwierdzona jako bezpieczna. Dla strazy pozarnej zalecana odziez ochronna gazoszczelna i odporna na chemikalia wraz z izolujacym aparatem oddechowym. Przy przeladunku i rozlaczaniu polaczen stosowac gogle, rekawice robocze, rekawice chroniace przed zimnem oraz obuwie ochronne; rozwazyc odziez trudnopalna i antyelektrostatyczna.\n5. DZIALANIA KRYTYCZNE: probowac zatrzymac wyciek, ewakuowac teren, wyeliminowac wszystkie zrodla zaplonu, zapewnic wentylacje, nie dopuscic do przedostania sie gazu do kanalizacji i zaglebien terenu, monitorowac stezenie produktu. Do wejscia w strefe stosowac izolujacy aparat oddechowy, chyba ze potwierdzono bezpieczna atmosfere.\n6. PROCEDURA SZCZEGOLOWA: produkt powinien byc stosowany w systemie zamknietym i przy odpowiedniej wentylacji ogolnej oraz miejscowej; instalacje powinny byc szczelne i regularnie sprawdzane. Detektory nalezy stosowac tam, gdzie moze dojsc do uwolnienia gazu toksycznego. W razie pozaru preferowana jest kontrola przez odciecie zrodla gazu; stosowac mgle wodna lub drobno rozproszony strumien wody, suchy proszek albo CO2. Nie stosowac silnego strumienia wody. Nie gasic plomienia wyplywajacego gazu, jezeli nie mozna bezpiecznie zahamowac wycieku. Chlodzic zagrozone pojemniki strumieniem rozpylonej wody z bezpiecznego miejsca.\n7. WARTOSCI GRANICZNE I PARAMETRY: NDS 7 mg/m3; NDSCh 14 mg/m3. DGW 3,9% obj.; GGW 45,5% obj.; temperatura samozaplonu 270 C; wzgledna gestosc pary 1,2.\n8. GLOWNE ZAGROZENIA: wdychanie grozi smiercia, moze powodowac podraznienie drog oddechowych, uszkodzenie centralnego ukladu nerwowego przy narazeniu powtarzanym oraz bardzo toksyczne oddzialywanie na organizmy wodne. Narazenie na ogien moze spowodowac rozerwanie lub wybuch pojemnika.\n9. CO MOZE POJSC NIE TAK: oparcie rozpoznania tylko na zapachu, wejscie bez izolujacego aparatu oddechowego, dopuszczenie do nagromadzenia gazu w obnieniach, gaszenie plomienia bez zatrzymania wycieku oraz uzycie silnego strumienia wody.\n10. UWAGI OPERACYJNE: w przypadku dostania sie do drog oddechowych wyprowadzic poszkodowanego na swieze powietrze, zapewnic warunki do odpoczynku i natychmiast uzyskac pomoc lekarska. W przypadku zaniku oddechu prowadzic resuscytacje. Kontakt z ciecza moze powodowac poparzenia zimnem i odmrozenia.",
+  "tagi_wspolne": [
+    "siarkowodor",
+    "h2s",
+    "substancja chemiczna"
+  ],
+  "aliasy": [
+    "h2s",
+    "wartosci graniczne h2s",
+    "stezenie siarkowodoru",
+    "nds h2s",
+    "ndsch h2s",
+    "ppm h2s",
+    "toksycznosc h2s",
+    "zgnile jaja",
+    "porazenie wechu",
+    "ciezszy od powietrza",
+    "wybuchowosc h2s",
+    "un 1053",
+    "adr 263",
+    "2tf"
+  ],
+  "pelna_procedura": {
+    "tytul": "SDS 016 ALP Siarkowodor v4.1, Air Liquide Polska / Alkat",
+    "plik": "",
+    "strona": null
+  }
+}

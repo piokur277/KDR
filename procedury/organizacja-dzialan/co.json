@@ -1,0 +1,50 @@
+{
+  "id": "KARTA-ORG-CO-WARTOSCI-GRANICZNE",
+  "kategoria": "substancja",
+  "zrodlo": "CIOP-PIB, Baza niebezpiecznych substancji chemicznych, Tlenek wegla",
+  "data_aktualizacji": "",
+  "slowo_kluczowe": "tlenek wegla",
+  "keywords": [
+    "co",
+    "czad",
+    "wartosci graniczne co",
+    "ppm co",
+    "zatrucie czadem",
+    "karboksyhemoglobina",
+    "alarm czadu",
+    "objawy zatrucia co",
+    "czujnik czadu",
+    "cas 630-08-0",
+    "h220",
+    "h331 tlenek wegla",
+    "h372"
+  ],
+  "prefix": "CO / Tlenek wegla - karta zagrozenia operacyjnego.",
+  "content": "1. KOD / NAZWA: CO - tlenek wegla, czad; CAS 630-08-0; synonim monotlenek wegla.\n2. ROZPOZNANIE: gaz bezbarwny i bezwonny, lzejszy lub zblizony gestoscia do powietrza (gestosc wzgledna 0,9678). Dziala toksycznie po wdychaniu i hamuje oddychanie tkankowe przez wiazanie z hemoglobina.\n3. STREFA: brak jednej liczbowej strefy w materiale CIOP; przy podejrzeniu obecnosci przyjac brak bezpiecznego progu zapachowego i koniecznosc szybkiego usuniecia osob z narazenia oraz wentylacji.\n4. SOI: brak szczegolowego doboru SOI w materiale CIOP; przy ratowaniu kluczowe jest unikanie narazenia inhalacyjnego i szybkie podawanie tlenu poszkodowanemu.\n5. DZIALANIA KRYTYCZNE: wyniesc lub wyprowadzic poszkodowanego z miejsca narazenia, zapewnic spokoj i ochrone przed utrata ciepla, jak najszybciej podac tlen i wezwac lekarza. W przypadku utraty przytomnosci ulozyc w pozycji bocznej ustalonej, udroznic drogi oddechowe, a jesli nie oddycha - prowadzic sztuczne oddychanie z jednoczesnym podawaniem tlenu.\n6. PROCEDURA SZCZEGOLOWA: klasyfikacja CLP obejmuje H220, H331 i H372 oraz informacje o skrajnej latwopalnosci, toksycznosci inhalacyjnej i uszkodzeniu narzadow przy narazeniu powtarzanym. W pierwszej pomocy CIOP zaleca kontynuacje podawania tlenu, transport do szpitala bez przerywania tlenoterapii oraz obserwacje szpitalna z kontrola EKG. Dla osoby nieprzytomnej wskazano mozliwosc intubacji i wentylacji workiem AMBU przez personel medyczny.\n7. WARTOSCI GRANICZNE I PARAMETRY: NDS 23 mg/m3, czyli 20 ppm; NDSCh 117 mg/m3, czyli 100 ppm; NDSP nie ustalono. Temperatura samozaplonu 605 C. Granice wybuchowosci w powietrzu: 12,5-75% obj. Masa czasteczkowa 28,01.\n8. GLOWNE ZAGROZENIA: gaz toksyczny i duszacy, dziala przez drogi oddechowe, moze powodowac nieodwracalne uszkodzenie osrodkowego ukladu nerwowego, niewydolnosc wiencowa i zawal u osob ze zmianami w sercu. Przy narazeniu przewleklym moze powodowac zaburzenia krazenia wiencowego, zmiany w EKG, bole i zawroty glowy, zaburzenia pamieci, zmiany osobowosci i neurologiczne.\n9. CO MOZE POJSC NIE TAK: przeoczenie zagrozenia z powodu braku zapachu, opoznienie tlenoterapii, przerwanie podawania tlenu podczas transportu oraz niedoszacowanie ryzyka pozarowo-wybuchowego.\n10. UWAGI OPERACYJNE: z materialu CIOP wynika, ze prog wyczuwalnosci zapachu nie wystepuje, dlatego rozpoznanie musi opierac sie na pomiarach i objawach. LC50 dla szczura podano jako 2114,19 mg/m3 (4 h), a LCL0 dla czlowieka 5850 mg/m3 (5 min).",
+  "tagi_wspolne": [
+    "tlenek wegla",
+    "czad",
+    "co",
+    "substancja chemiczna"
+  ],
+  "aliasy": [
+    "co",
+    "czad",
+    "wartosci graniczne co",
+    "ppm co",
+    "zatrucie czadem",
+    "karboksyhemoglobina",
+    "alarm czadu",
+    "objawy zatrucia co",
+    "czujnik czadu",
+    "cas 630-08-0",
+    "h220",
+    "h331 tlenek wegla",
+    "h372"
+  ],
+  "pelna_procedura": {
+    "tytul": "CIOP-PIB, Baza niebezpiecznych substancji chemicznych, Tlenek wegla",
+    "plik": "",
+    "strona": null
+  }
+}

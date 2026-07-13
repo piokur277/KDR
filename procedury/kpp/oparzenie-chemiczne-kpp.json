@@ -1,0 +1,29 @@
+{
+  "id": "KARTA-KPP-OPARZENIE-CHEMICZNE",
+  "kategoria": "dzialania",
+  "zrodlo": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 14",
+  "data_aktualizacji": "",
+  "slowo_kluczowe": "oparzenie chemiczne kpp",
+  "keywords": [
+    "procedura 14 kpp",
+    "plynna substancja oparzenie kpp",
+    "stala substancja oparzenie kpp"
+  ],
+  "prefix": "KPP - oparzenie chemiczne.",
+  "content": "1. KOD / NAZWA: Procedura 14 - oparzenie chemiczne.\n2. START: wykonaj rozpoznanie miejsca zdarzenia i sekwencje medycznych dzialan ratowniczych z procedury 2. Zwracaj uwage na objawy wychlodzenia.\n3. PIERWSZY KROK: usun skazona odziez i bizuterie z oparzonej powierzchni.\n4. SUBSTANCJA STALA: jezeli to mozliwe, mechanicznie usun substancje z powierzchni skory.\n5. PLYNNA LUB PO USUNIECIU SUBSTANCJI STALEJ: prowadz bezpieczne plukanie biezaca woda do czasu zmniejszenia bolu lub oczyszczenia skory.\n6. OPATRUNEK HYDROZELOWY: jezeli jest dostepny, zastosuj opatrunek hydrozelowy.\n7. JEZELI BRAK OPATRUNKU HYDROZELOWEGO: zaloz suchy jalowy opatrunek.\n8. UWAGI OPERACYJNE: w trakcie plukania i dalszego postepowania stale kontroluj ryzyko wychlodzenia.",
+  "tagi_wspolne": [
+    "kpp",
+    "medyczne dzialania ratownicze",
+    "oparzenie"
+  ],
+  "aliasy": [
+    "procedura 14 kpp",
+    "plynna substancja oparzenie kpp",
+    "stala substancja oparzenie kpp"
+  ],
+  "pelna_procedura": {
+    "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 14",
+    "plik": "",
+    "strona": null
+  }
+}

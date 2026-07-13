@@ -1,0 +1,33 @@
+{
+  "id": "KARTA-ZA-POZIOMY-ALARMOWE",
+  "kategoria": "dzialania",
+  "zrodlo": "Procedura monitorowania interwencyjnego pod katem wystepowania zlotej algi, GIOS",
+  "data_aktualizacji": "2023-05-08",
+  "slowo_kluczowe": "poziomy alarmowe zlota alga",
+  "keywords": [
+    "zlota alga poziomy alarmowe",
+    "prymnesium parvum progi",
+    "zlota alga stopien zagrozenia",
+    "zlota alga rzeki starorzecza",
+    "zlota alga kanaly zbiorniki"
+  ],
+  "prefix": "Zlota alga - poziomy alarmowe dla kanalow, zbiornikow, rzek i starorzeczy.",
+  "content": "1. KOD / NAZWA: poziomy alarmowe monitoringu interwencyjnego pod katem zlotej algi.\n2. STOPIEN OSTRZEGAWCZY: dla punktu badanego opisuje sie go wtedy, gdy nie przypisano jeszcze stopnia zagrozenia, a czestotliwosc pobierania probek i oznaczen wskazuje na wzrost liczebnosci Prymnesium cf. parvum powyzej 3 mln os./l.\n3. KANALY I ZBIORNIKI NATURALNE ORAZ SZTUCZNE - I STOPIEN ZAGROZENIA: PEW w 20 C >=2400 uS/cm, pH >=7,9, tlen rozpuszczony >=12 mg/l O2, fosfor ogolny >=0,40 mg/l P, stosunek atomow N:P <=12, Prymnesium cf. parvum >=10 mln os./l.\n4. KANALY I ZBIORNIKI NATURALNE ORAZ SZTUCZNE - II STOPIEN ZAGROZENIA: PEW w 20 C >=3800 uS/cm, pH >=8,4, tlen rozpuszczony >=14 mg/l O2, fosfor ogolny >=0,55 mg/l P, stosunek atomow N:P <=3, Prymnesium cf. parvum >=100 mln os./l.\n5. KANALY I ZBIORNIKI NATURALNE ORAZ SZTUCZNE - III STOPIEN ZAGROZENIA: PEW w 20 C >=5500 uS/cm, pH >=8,9, tlen rozpuszczony >=16 mg/l O2, fosfor ogolny >=0,70 mg/l P, stosunek atomow N:P <=1,5, Prymnesium cf. parvum >=300 mln os./l.\n6. RZEKI I STARORZECZA - I STOPIEN ZAGROZENIA: PEW w 20 C >=1350 uS/cm, pH >=7,9, tlen rozpuszczony >=12 mg/l O2, fosfor ogolny >=0,40 mg/l P, stosunek atomow N:P <=23, Prymnesium cf. parvum >=10 mln os./l.\n7. RZEKI I STARORZECZA - II STOPIEN ZAGROZENIA: PEW w 20 C >=1600 uS/cm, pH >=8,4, tlen rozpuszczony >=13 mg/l O2, fosfor ogolny >=0,55 mg/l P, stosunek atomow N:P <=12, Prymnesium cf. parvum >=50 mln os./l.\n8. RZEKI I STARORZECZA - III STOPIEN ZAGROZENIA: PEW w 20 C >=1998 uS/cm, pH >=8,9, tlen rozpuszczony >=14 mg/l O2, fosfor ogolny >=0,70 mg/l P, stosunek atomow N:P <=3, Prymnesium cf. parvum >=100 mln os./l.\n9. UWAGI OPERACYJNE: dla punktu badanego w ramach monitoringu i monitoringu interwencyjnego poziom zagrozenia nalezy wyznaczac na podstawie ostatnich danych terenowych i laboratoryjnych wedlug tabel procedury.",
+  "tagi_wspolne": [
+    "zlota alga",
+    "prymnesium parvum",
+    "poziomy alarmowe"
+  ],
+  "aliasy": [
+    "zlota alga poziomy alarmowe",
+    "prymnesium parvum progi",
+    "zlota alga stopien zagrozenia",
+    "zlota alga rzeki starorzecza",
+    "zlota alga kanaly zbiorniki"
+  ],
+  "pelna_procedura": {
+    "tytul": "Procedura monitorowania interwencyjnego pod katem wystepowania zlotej algi, GIOS",
+    "plik": "",
+    "strona": null
+  }
+}
