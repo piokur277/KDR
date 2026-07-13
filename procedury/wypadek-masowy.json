@@ -1,6 +1,6 @@
 {
   "id": "WYP-MAS-01",
-  "prefix": "Wypadek masowy z udziaĹ‚em wielu poszkodowanych i moĹĽliwym udziaĹ‚em EV",
+  "prefix": "Wypadek masowy z udziałem wielu poszkodowanych i możliwym udziałem EV",
   "keywords": [
     "autobus i elektryk",
     "duzo poszkodowanych",
@@ -16,7 +16,7 @@
     "karambol wielu poszkodowanych",
     "masowka"
   ],
-  "content": "1. Ustal dowodzenie, sektory dziaĹ‚aĹ„ i kanaĹ‚y Ĺ‚Ä…cznoĹ›ci juĹĽ w pierwszej fazie akcji.\n2. Wykonaj segregacjÄ™ medycznÄ… i oddziel dziaĹ‚ania ratownicze od rozpoznania technicznego pojazdĂłw.\n3. KaĹĽdy pojazd elektryczny oznacz i przypisz do osobnego rozpoznania zagroĹĽeĹ„ energetycznych.\n4. WprowadĹş strefÄ™ dla pojazdĂłw podejrzanych o uszkodzenie baterii trakcyjnej poza gĹ‚Ăłwnym obszarem medycznym.\n5. Priorytetem jest ĹĽycie poszkodowanych, ale bez wchodzenia ratownikĂłw w strefÄ™ niekontrolowanego poĹĽaru lub napiÄ™cia.\n6. Zorganizuj osobne miejsce dla dekontaminacji, chĹ‚odzenia pojazdĂłw i czasowej izolacji uszkodzonych EV.\n7. Po opanowaniu fazy medycznej przejdĹş do stabilizacji, dezaktywacji i przygotowania pojazdĂłw do holowania.",
+  "content": "1. Ustal dowodzenie, sektory działań i kanały łączności już w pierwszej fazie akcji.\n2. Wykonaj segregację medyczną i oddziel działania ratownicze od rozpoznania technicznego pojazdów.\n3. Każdy pojazd elektryczny oznacz i przypisz do osobnego rozpoznania zagrożeń energetycznych.\n4. Wprowadź strefę dla pojazdów podejrzanych o uszkodzenie baterii trakcyjnej poza głównym obszarem medycznym.\n5. Priorytetem jest życie poszkodowanych, ale bez wchodzenia ratowników w strefę niekontrolowanego pożaru lub napięcia.\n6. Zorganizuj osobne miejsce dla dekontaminacji, chłodzenia pojazdów i czasowej izolacji uszkodzonych EV.\n7. Po opanowaniu fazy medycznej przejdź do stabilizacji, dezaktywacji i przygotowania pojazdów do holowania.",
   "slowo_kluczowe": "wypadek masowy",
   "tagi_wspolne": [
     "wypadek",
@@ -40,7 +40,7 @@
     "masowka"
   ],
   "pelna_procedura": {
-    "tytul": "Wypadek masowy z udziaĹ‚em wielu poszkodowanych i moĹĽliwym udziaĹ‚em EV",
+    "tytul": "Wypadek masowy z udziałem wielu poszkodowanych i możliwym udziałem EV",
     "plik": "",
     "strona": null
   }
