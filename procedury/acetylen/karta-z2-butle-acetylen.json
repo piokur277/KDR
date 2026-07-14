@@ -21,9 +21,11 @@
     "acetylen wewnatrz obiektu",
     "karta z2 acetylen"
   ],
-  "pelna_procedura": {
-    "tytul": "Standardowe zasady postepowania podczas zdarzen z udzialem butli z acetylenem, KG PSP",
-    "plik": "",
-    "strona": null
-  }
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-acetylen-szp-2020",
+      "strona": 5,
+      "sekcja": "Karta Z2 - butla nieszczelna wewnątrz obiektu"
+    }
+  ]
 }

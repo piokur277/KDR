@@ -2,32 +2,80 @@
   {
     "id": "KARTA-ACETYLEN-Z1",
     "procedura": "Karta Z1 - Butle poddane dzialaniu ognia/ciepla lub poddane wielokrotnym uderzeniom, szczelne lub nieszczelne.",
-    "dokumenty_zrodlowe": []
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-acetylen-szp-2020",
+        "strona": 3,
+        "sekcja": "Karta Z1 - butle poddane działaniu ognia, ciepła lub uderzeniom",
+        "tytul": "Standardowe zasady postępowania podczas zdarzeń z udziałem butli z acetylenem",
+        "plik": "dokumenty/acetylen/szp-butle-acetylen-wydanie-2-2020-03-13.pdf"
+      }
+    ]
   },
   {
     "id": "KARTA-ACETYLEN-Z2",
     "procedura": "Karta Z2 - Butle niepoddane dzialaniu ognia/ciepla lub wielokrotnym uderzeniom - nieszczelne, znajdujace sie wewnatrz obiektu.",
-    "dokumenty_zrodlowe": []
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-acetylen-szp-2020",
+        "strona": 5,
+        "sekcja": "Karta Z2 - butla nieszczelna wewnątrz obiektu",
+        "tytul": "Standardowe zasady postępowania podczas zdarzeń z udziałem butli z acetylenem",
+        "plik": "dokumenty/acetylen/szp-butle-acetylen-wydanie-2-2020-03-13.pdf"
+      }
+    ]
   },
   {
     "id": "KARTA-ACETYLEN-Z3",
     "procedura": "Karta Z3 - Butle niepoddane dzialaniu ognia/ciepla lub wielokrotnym uderzeniom - nieszczelne, znajdujace sie na zewnatrz obiektu.",
-    "dokumenty_zrodlowe": []
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-acetylen-szp-2020",
+        "strona": 6,
+        "sekcja": "Karta Z3 - butla nieszczelna na zewnątrz obiektu",
+        "tytul": "Standardowe zasady postępowania podczas zdarzeń z udziałem butli z acetylenem",
+        "plik": "dokumenty/acetylen/szp-butle-acetylen-wydanie-2-2020-03-13.pdf"
+      }
+    ]
   },
   {
     "id": "KARTA-ACETYLEN-Z4",
     "procedura": "Karta Z4 - Butle niepoddane dzialaniu ognia/ciepla lub wielokrotnym uderzeniom - szczelne.",
-    "dokumenty_zrodlowe": []
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-acetylen-szp-2020",
+        "strona": 7,
+        "sekcja": "Karta Z4 - butla szczelna",
+        "tytul": "Standardowe zasady postępowania podczas zdarzeń z udziałem butli z acetylenem",
+        "plik": "dokumenty/acetylen/szp-butle-acetylen-wydanie-2-2020-03-13.pdf"
+      }
+    ]
   },
   {
     "id": "KARTA-ACETYLEN-PRZEKAZANIE",
     "procedura": "Przekazanie miejsca zdarzenia po dzialaniach z udzialem butli z acetylenem.",
-    "dokumenty_zrodlowe": []
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-acetylen-szp-2020",
+        "strona": 8,
+        "sekcja": "Przekazanie miejsca zdarzenia",
+        "tytul": "Standardowe zasady postępowania podczas zdarzeń z udziałem butli z acetylenem",
+        "plik": "dokumenty/acetylen/szp-butle-acetylen-wydanie-2-2020-03-13.pdf"
+      }
+    ]
   },
   {
     "id": "KARTA-ACETYLEN-ROZPOZNANIE",
     "procedura": "Rozpoznanie - butle z acetylenem.",
-    "dokumenty_zrodlowe": []
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-acetylen-szp-2020",
+        "strona": 2,
+        "sekcja": "Rozpoznanie",
+        "tytul": "Standardowe zasady postępowania podczas zdarzeń z udziałem butli z acetylenem",
+        "plik": "dokumenty/acetylen/szp-butle-acetylen-wydanie-2-2020-03-13.pdf"
+      }
+    ]
   },
   {
     "id": "KARTA-BUD-INFORMACJE-DODATKOWE-KATASTROFA-BUDOWLANA",
@@ -241,7 +289,15 @@
   {
     "id": "KARTA-CHEM-R2-ZDARZENIA-RADIACYJNE-ZAKRES-PODSTAWOWY",
     "procedura": "Zalacznik R2 - Dzialania podczas zdarzen radiacyjnych w zakresie podstawowym.",
-    "dokumenty_zrodlowe": []
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-r2-radiologia",
+        "strona": 1,
+        "sekcja": "Załącznik R.2 - zakres podstawowy",
+        "tytul": "Załącznik R.2 - Ochrona radiologiczna oraz działania podczas zdarzeń radiacyjnych - zakres podstawowy",
+        "plik": "dokumenty/radiacyjne/zalacznik-r2-zdarzenia-radiacyjne-zakres-podstawowy.pdf"
+      }
+    ]
   },
   {
     "id": "DEZ-EV-01",

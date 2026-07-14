@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-14T17:59:27.268Z",
-  "registry_version": "1.1",
-  "document_count": 18,
-  "active_document_count": 18,
-  "linked_document_count": 18,
+  "generated_at": "2026-07-14T18:04:54.887Z",
+  "registry_version": "1.2",
+  "document_count": 20,
+  "active_document_count": 20,
+  "linked_document_count": 20,
   "unlinked_documents": [],
   "documents": [
     {
@@ -465,6 +465,59 @@
           "procedure_id": "KARTA-ORG-HCN-WARTOSCI-GRANICZNE",
           "strona": 1,
           "sekcja": "Karta charakterystyki cyjanowodoru - identyfikacja, zagrożenia i pierwsza pomoc"
+        }
+      ]
+    },
+    {
+      "id": "doc-acetylen-szp-2020",
+      "tytul": "Standardowe zasady postępowania podczas zdarzeń z udziałem butli z acetylenem",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 11,
+      "liczba_powiazan": 6,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-ACETYLEN-Z1",
+          "strona": 3,
+          "sekcja": "Karta Z1 - butle poddane działaniu ognia, ciepła lub uderzeniom"
+        },
+        {
+          "procedure_id": "KARTA-ACETYLEN-Z2",
+          "strona": 5,
+          "sekcja": "Karta Z2 - butla nieszczelna wewnątrz obiektu"
+        },
+        {
+          "procedure_id": "KARTA-ACETYLEN-Z3",
+          "strona": 6,
+          "sekcja": "Karta Z3 - butla nieszczelna na zewnątrz obiektu"
+        },
+        {
+          "procedure_id": "KARTA-ACETYLEN-Z4",
+          "strona": 7,
+          "sekcja": "Karta Z4 - butla szczelna"
+        },
+        {
+          "procedure_id": "KARTA-ACETYLEN-PRZEKAZANIE",
+          "strona": 8,
+          "sekcja": "Przekazanie miejsca zdarzenia"
+        },
+        {
+          "procedure_id": "KARTA-ACETYLEN-ROZPOZNANIE",
+          "strona": 2,
+          "sekcja": "Rozpoznanie"
+        }
+      ]
+    },
+    {
+      "id": "doc-r2-radiologia",
+      "tytul": "Załącznik R.2 - Ochrona radiologiczna oraz działania podczas zdarzeń radiacyjnych - zakres podstawowy",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 6,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-CHEM-R2-ZDARZENIA-RADIACYJNE-ZAKRES-PODSTAWOWY",
+          "strona": 1,
+          "sekcja": "Załącznik R.2 - zakres podstawowy"
         }
       ]
     }

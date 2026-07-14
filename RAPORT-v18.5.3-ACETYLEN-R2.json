@@ -1,0 +1,59 @@
+{
+  "version": "v18.5.3 ACETYLEN + R2",
+  "procedure_count": 70,
+  "document_count": 20,
+  "added_documents": [
+    {
+      "id": "doc-acetylen-szp-2020",
+      "path": "dokumenty/acetylen/szp-butle-acetylen-wydanie-2-2020-03-13.pdf",
+      "pages": 11,
+      "sha256": "e7f382fd97ab9a2f4fb3a1bdf3a1b9f55401a28fbdc1b410809fd85ed2bc6096"
+    },
+    {
+      "id": "doc-r2-radiologia",
+      "path": "dokumenty/radiacyjne/zalacznik-r2-zdarzenia-radiacyjne-zakres-podstawowy.pdf",
+      "pages": 6,
+      "sha256": "9106561089fab8f5ceb2044e930cd0bebf8047f07102833a7e37ae97d618ce94"
+    }
+  ],
+  "verified_links": [
+    {
+      "procedura": "KARTA-ACETYLEN-ROZPOZNANIE",
+      "dokument": "doc-acetylen-szp-2020",
+      "strona": 2
+    },
+    {
+      "procedura": "KARTA-ACETYLEN-Z1",
+      "dokument": "doc-acetylen-szp-2020",
+      "strona": 3
+    },
+    {
+      "procedura": "KARTA-ACETYLEN-Z2",
+      "dokument": "doc-acetylen-szp-2020",
+      "strona": 5
+    },
+    {
+      "procedura": "KARTA-ACETYLEN-Z3",
+      "dokument": "doc-acetylen-szp-2020",
+      "strona": 6
+    },
+    {
+      "procedura": "KARTA-ACETYLEN-Z4",
+      "dokument": "doc-acetylen-szp-2020",
+      "strona": 7
+    },
+    {
+      "procedura": "KARTA-ACETYLEN-PRZEKAZANIE",
+      "dokument": "doc-acetylen-szp-2020",
+      "strona": 8
+    },
+    {
+      "procedura": "KARTA-CHEM-R2-ZDARZENIA-RADIACYJNE-ZAKRES-PODSTAWOWY",
+      "dokument": "doc-r2-radiologia",
+      "strona": 1
+    }
+  ],
+  "back_button_from_v18_5_2": "zachowany",
+  "database_validation": "OK",
+  "javascript_syntax": "OK"
+}

@@ -36,9 +36,11 @@
     "pozar materialu promieniotworczego",
     "pozar z materialem promieniotworczym"
   ],
-  "pelna_procedura": {
-    "tytul": "Zalacznik nr R.2. Ochrona radiologiczna oraz dzialania podczas zdarzen radiacyjnych - zakres podstawowy",
-    "plik": "",
-    "strona": null
-  }
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-r2-radiologia",
+      "strona": 1,
+      "sekcja": "Załącznik R.2 - zakres podstawowy"
+    }
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "wersja_rejestru": "1.1",
+  "wersja_rejestru": "1.2",
   "zaktualizowano": "2026-07-14",
   "dokumenty": {
     "doc-ev-szp-2023": {
@@ -218,6 +218,30 @@
       "uwagi": "Dokument dotyczy cyjanowodoru HCN, CAS 74-90-8. Zawiera odwołania do przepisów i oznakowania obowiązujących w 2006 r.; przed użyciem operacyjnym należy zweryfikować aktualność.",
       "liczba_stron": 8,
       "sha256": "37bb20804a55bc6c4388522f6bf10acd7993b1b1b6938a6d34b0340653c740b6"
+    },
+    "doc-acetylen-szp-2020": {
+      "tytul": "Standardowe zasady postępowania podczas zdarzeń z udziałem butli z acetylenem",
+      "wersja": "Wydanie II",
+      "data_wydania": "2020-03-13",
+      "rodzaj": "SZP KG PSP",
+      "plik": "dokumenty/acetylen/szp-butle-acetylen-wydanie-2-2020-03-13.pdf",
+      "id": "doc-acetylen-szp-2020",
+      "status_techniczny": "aktywny",
+      "aktualnosc_merytoryczna": "wedlug_przekazanego_pliku",
+      "liczba_stron": 11,
+      "sha256": "e7f382fd97ab9a2f4fb3a1bdf3a1b9f55401a28fbdc1b410809fd85ed2bc6096"
+    },
+    "doc-r2-radiologia": {
+      "tytul": "Załącznik R.2 - Ochrona radiologiczna oraz działania podczas zdarzeń radiacyjnych - zakres podstawowy",
+      "wersja": "Załącznik R.2",
+      "data_wydania": null,
+      "rodzaj": "Zasady PSP",
+      "plik": "dokumenty/radiacyjne/zalacznik-r2-zdarzenia-radiacyjne-zakres-podstawowy.pdf",
+      "id": "doc-r2-radiologia",
+      "status_techniczny": "aktywny",
+      "aktualnosc_merytoryczna": "wedlug_przekazanego_pliku",
+      "liczba_stron": 6,
+      "sha256": "9106561089fab8f5ceb2044e930cd0bebf8047f07102833a7e37ae97d618ce94"
     }
   }
 }

@@ -26,11 +26,13 @@
       "chlodzenie butli acetylen 24h",
       "test zwilzania acetylen"
     ],
-    "pelna_procedura": {
-      "tytul": "Standardowe zasady postepowania podczas zdarzen z udzialem butli z acetylenem, KG PSP",
-      "plik": "",
-      "strona": null
-    }
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-acetylen-szp-2020",
+        "strona": 3,
+        "sekcja": "Karta Z1 - butle poddane działaniu ognia, ciepła lub uderzeniom"
+      }
+    ]
   },
   {
     "id": "KARTA-ACETYLEN-Z2",
@@ -55,11 +57,13 @@
       "acetylen wewnatrz obiektu",
       "karta z2 acetylen"
     ],
-    "pelna_procedura": {
-      "tytul": "Standardowe zasady postepowania podczas zdarzen z udzialem butli z acetylenem, KG PSP",
-      "plik": "",
-      "strona": null
-    }
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-acetylen-szp-2020",
+        "strona": 5,
+        "sekcja": "Karta Z2 - butla nieszczelna wewnątrz obiektu"
+      }
+    ]
   },
   {
     "id": "KARTA-ACETYLEN-Z3",
@@ -84,11 +88,13 @@
       "acetylen poza budynkiem",
       "karta z3 acetylen"
     ],
-    "pelna_procedura": {
-      "tytul": "Standardowe zasady postepowania podczas zdarzen z udzialem butli z acetylenem, KG PSP",
-      "plik": "",
-      "strona": null
-    }
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-acetylen-szp-2020",
+        "strona": 6,
+        "sekcja": "Karta Z3 - butla nieszczelna na zewnątrz obiektu"
+      }
+    ]
   },
   {
     "id": "KARTA-ACETYLEN-Z4",
@@ -113,11 +119,13 @@
       "zimna butla acetylen",
       "karta z4 acetylen"
     ],
-    "pelna_procedura": {
-      "tytul": "Standardowe zasady postepowania podczas zdarzen z udzialem butli z acetylenem, KG PSP",
-      "plik": "",
-      "strona": null
-    }
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-acetylen-szp-2020",
+        "strona": 7,
+        "sekcja": "Karta Z4 - butla szczelna"
+      }
+    ]
   },
   {
     "id": "KARTA-ACETYLEN-PRZEKAZANIE",
@@ -150,11 +158,13 @@
       "po akcji butla acetylenowa",
       "przekazanie acetylen"
     ],
-    "pelna_procedura": {
-      "tytul": "Standardowe zasady postepowania podczas zdarzen z udzialem butli z acetylenem, KG PSP",
-      "plik": "",
-      "strona": null
-    }
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-acetylen-szp-2020",
+        "strona": 8,
+        "sekcja": "Przekazanie miejsca zdarzenia"
+      }
+    ]
   },
   {
     "id": "KARTA-ACETYLEN-ROZPOZNANIE",
@@ -183,11 +193,13 @@
       "podejrzenie rozkladu acetylenu",
       "rozpoznanie acetylen"
     ],
-    "pelna_procedura": {
-      "tytul": "Standardowe zasady postepowania podczas zdarzen z udzialem butli z acetylenem, KG PSP",
-      "plik": "",
-      "strona": null
-    }
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-acetylen-szp-2020",
+        "strona": 2,
+        "sekcja": "Rozpoznanie"
+      }
+    ]
   },
   {
     "id": "KARTA-BUD-INFORMACJE-DODATKOWE-KATASTROFA-BUDOWLANA",
@@ -799,11 +811,13 @@
       "pozar materialu promieniotworczego",
       "pozar z materialem promieniotworczym"
     ],
-    "pelna_procedura": {
-      "tytul": "Zalacznik nr R.2. Ochrona radiologiczna oraz dzialania podczas zdarzen radiacyjnych - zakres podstawowy",
-      "plik": "",
-      "strona": null
-    }
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-r2-radiologia",
+        "strona": 1,
+        "sekcja": "Załącznik R.2 - zakres podstawowy"
+      }
+    ]
   },
   {
     "id": "DEZ-EV-01",
