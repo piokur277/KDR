@@ -21,9 +21,11 @@
     "5 oddechow toniecie",
     "wentylacja toniecie kpp"
   ],
-  "pelna_procedura": {
-    "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 16",
-    "plik": "",
-    "strona": null
-  }
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-kpp-procedury",
+      "strona": 17,
+      "sekcja": "Procedura KPP - strona 17"
+    }
+  ]
 }

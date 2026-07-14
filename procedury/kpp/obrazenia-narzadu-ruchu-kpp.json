@@ -24,9 +24,11 @@
     "procedura 12 kpp",
     "wyciag delikatny kpp"
   ],
-  "pelna_procedura": {
-    "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 12",
-    "plik": "",
-    "strona": null
-  }
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-kpp-procedury",
+      "strona": 13,
+      "sekcja": "Procedura KPP - strona 13"
+    }
+  ]
 }

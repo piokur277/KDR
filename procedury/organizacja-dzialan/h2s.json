@@ -43,9 +43,11 @@
     "adr 263",
     "2tf"
   ],
-  "pelna_procedura": {
-    "tytul": "SDS 016 ALP Siarkowodor v4.1, Air Liquide Polska / Alkat",
-    "plik": "",
-    "strona": null
-  }
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-sds-h2s-4-1",
+      "strona": 1,
+      "sekcja": "Karta charakterystyki H2S"
+    }
+  ]
 }

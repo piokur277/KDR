@@ -29,9 +29,11 @@
     "zalany pojazd elektryczny",
     "samochod elektryczny w wodzie"
   ],
-  "pelna_procedura": {
-    "tytul": "Standardowe zasady postępowania podczas zdarzeń z samochodami z napędem elektrycznym oraz hybrydowym - KG PSP, maj 2023, wydanie II | Karta Z3 - zatopienie samochodu w wodzie",
-    "plik": "dokumenty/pojazdy-elektryczne/SZP-samochody-elektryczne-hybrydowe-maj-2023.pdf",
-    "strona": 13
-  }
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-ev-szp-2023",
+      "strona": 13,
+      "sekcja": "Karta Z3 - zatopienie samochodu w wodzie"
+    }
+  ]
 }

@@ -1,24 +1,38 @@
-# Pełne dokumenty procedur
+# Centralny rejestr dokumentów - KDR Asystent v18.5
 
-Umieszczaj pełne dokumenty w tym katalogu, najlepiej jako pliki PDF.
+## Zasada działania
 
-Przykład:
+Plik `dokumenty/rejestr-dokumentow.json` jest jedynym miejscem, w którym zapisuje się:
+- tytuł dokumentu,
+- wersję i datę,
+- ścieżkę do PDF,
+- liczbę stron,
+- status techniczny.
 
-```text
-dokumenty/pojazdy-elektryczne/procedura-ev.pdf
-```
+Procedury przechowują tylko `dokument_id`, numer strony i nazwę sekcji.
+Jeden PDF może być połączony z wieloma procedurami, a jedna procedura może mieć kilka dokumentów.
 
-Następnie w odpowiednim pliku JSON procedury uzupełnij:
+## Wymiana dokumentu na nową wersję
 
-```json
-"pelna_procedura": {
-  "tytul": "Pełna nazwa dokumentu",
-  "plik": "dokumenty/pojazdy-elektryczne/procedura-ev.pdf",
-  "strona": 12
-}
-```
+1. Dodaj nowy PDF pod nazwą zawierającą wersję lub datę.
+2. W `rejestr-dokumentow.json` zmień w jednym wpisie pola `plik`, `wersja`, `data_wydania`, `liczba_stron` i `sha256`.
+3. Jeżeli układ stron się nie zmienił, plików procedur nie trzeba edytować.
+4. Jeżeli rozdziały przesunęły się na inne strony, popraw tylko pola `strona` w powiązanych procedurach.
+5. Uruchom workflow lub `node scripts/build-baza.mjs`.
 
-Pole `strona` może mieć wartość `null`, gdy dokument ma otwierać się od pierwszej strony.
+Zalecane są nowe nazwy plików przy każdej wersji, ponieważ zapobiega to otwieraniu starego PDF z pamięci przeglądarki.
 
-Dopóki pole `plik` jest puste, aplikacja wyświetla nieaktywny przycisk
-„Pełna procedura — plik niepodłączony”.
+## Ważna uwaga dotycząca pliku „cyjanowodor.PDF”
+
+Przesłany dokument opisuje **cyjanek sodowy (NaCN)**, nie **cyjanowodór (HCN)**.
+Został zapisany w rejestrze jako dokument niepowiązany i nie jest wyświetlany w procedurze HCN.
+
+## Kontrola
+
+Skrypt sprawdza:
+- istnienie każdego PDF,
+- nagłówek `%PDF-`,
+- istnienie `dokument_id`,
+- aktywność dokumentu,
+- poprawność numeru strony względem `liczba_stron`,
+- unikalność procedur i haseł wyszukiwania.

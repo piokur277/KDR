@@ -23,9 +23,11 @@
     "przekazanie zawalony budynek",
     "przekazanie katastrofa budowlana"
   ],
-  "pelna_procedura": {
-    "tytul": "Standardowe zasady postepowania podczas katastrofy budowlanej po wystapieniu katastrofy budowlanej, KG PSP",
-    "plik": "",
-    "strona": null
-  }
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-katastrofa-budowlana-2020",
+      "strona": 8,
+      "sekcja": "Odpowiednia karta SZP katastrofy budowlanej"
+    }
+  ]
 }

@@ -31,9 +31,11 @@
     "dezaktywacja tesli",
     "wylaczenie wysokiego napiecia ev"
   ],
-  "pelna_procedura": {
-    "tytul": "Standardowe zasady postępowania podczas zdarzeń z samochodami z napędem elektrycznym oraz hybrydowym - KG PSP, maj 2023, wydanie II | Dezaktywacja i zabezpieczenie samochodu",
-    "plik": "dokumenty/pojazdy-elektryczne/SZP-samochody-elektryczne-hybrydowe-maj-2023.pdf",
-    "strona": 5
-  }
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-ev-szp-2023",
+      "strona": 5,
+      "sekcja": "Dezaktywacja i zabezpieczenie samochodu"
+    }
+  ]
 }

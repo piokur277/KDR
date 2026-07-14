@@ -1,0 +1,468 @@
+{
+  "generated_at": "2026-07-14T15:39:45.896Z",
+  "registry_version": "1.0",
+  "document_count": 18,
+  "active_document_count": 17,
+  "linked_document_count": 17,
+  "unlinked_documents": [
+    "doc-sds-cyjanek-sodowy-10-2"
+  ],
+  "documents": [
+    {
+      "id": "doc-ev-szp-2023",
+      "tytul": "Standardowe zasady postępowania podczas zdarzeń z samochodami z napędem elektrycznym oraz hybrydowym",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 15,
+      "liczba_powiazan": 4,
+      "powiazania": [
+        {
+          "procedure_id": "DEZ-EV-01",
+          "strona": 5,
+          "sekcja": "Dezaktywacja i zabezpieczenie samochodu"
+        },
+        {
+          "procedure_id": "POZ-EV-01",
+          "strona": 11,
+          "sekcja": "Karta Z2 - pożar"
+        },
+        {
+          "procedure_id": "WYP-EV-01",
+          "strona": 9,
+          "sekcja": "Karta Z1 - wypadek komunikacyjny"
+        },
+        {
+          "procedure_id": "ZAT-EV-01",
+          "strona": 13,
+          "sekcja": "Karta Z3 - zatopienie samochodu w wodzie"
+        }
+      ]
+    },
+    {
+      "id": "doc-kpp-procedury",
+      "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy - Załącznik nr 1",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 21,
+      "liczba_powiazan": 20,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-KPP-AMPUTACJA-URAZOWA",
+          "strona": 7,
+          "sekcja": "Procedura KPP - strona 7"
+        },
+        {
+          "procedure_id": "KARTA-KPP-KOBIETA-W-CIAZY-ZAGROZENIE",
+          "strona": 20,
+          "sekcja": "Procedura KPP - strona 20"
+        },
+        {
+          "procedure_id": "KARTA-KPP-OBRAZENIA-BRZUCHA",
+          "strona": 11,
+          "sekcja": "Procedura KPP - strona 11"
+        },
+        {
+          "procedure_id": "KARTA-KPP-OBRAZENIA-GLOWY",
+          "strona": 8,
+          "sekcja": "Procedura KPP - strona 8"
+        },
+        {
+          "procedure_id": "KARTA-KPP-OBRAZENIA-KLATKI-PIERSIOWEJ",
+          "strona": 10,
+          "sekcja": "Procedura KPP - strona 10"
+        },
+        {
+          "procedure_id": "KARTA-KPP-OBRAZENIA-KREGOSLUPA",
+          "strona": 9,
+          "sekcja": "Procedura KPP - strona 9"
+        },
+        {
+          "procedure_id": "KARTA-KPP-OBRAZENIA-MIEDNICY",
+          "strona": 12,
+          "sekcja": "Procedura KPP - strona 12"
+        },
+        {
+          "procedure_id": "KARTA-KPP-OBRAZENIA-NARZADU-RUCHU",
+          "strona": 13,
+          "sekcja": "Procedura KPP - strona 13"
+        },
+        {
+          "procedure_id": "KARTA-KPP-OPARZENIE-CHEMICZNE",
+          "strona": 15,
+          "sekcja": "Procedura KPP - strona 15"
+        },
+        {
+          "procedure_id": "KARTA-KPP-OPARZENIE-TERMICZNE",
+          "strona": 14,
+          "sekcja": "Procedura KPP - strona 14"
+        },
+        {
+          "procedure_id": "KARTA-KPP-RANY",
+          "strona": 6,
+          "sekcja": "Procedura KPP - strona 6"
+        },
+        {
+          "procedure_id": "KARTA-KPP-RKO-DOROSLI",
+          "strona": 4,
+          "sekcja": "Procedura KPP - strona 4"
+        },
+        {
+          "procedure_id": "KARTA-KPP-RKO-DZIECI-NIEMOWLETA-NOWORODKI",
+          "strona": 5,
+          "sekcja": "Procedura KPP - strona 5"
+        },
+        {
+          "procedure_id": "KARTA-KPP-SEKWENCJA-MEDYCZNYCH-DZIALAN-RATOWNICZYCH",
+          "strona": 3,
+          "sekcja": "Procedura KPP - strona 3"
+        },
+        {
+          "procedure_id": "KARTA-KPP-SEKWENCJA-ZALOZEN-TAKTYCZNYCH",
+          "strona": 2,
+          "sekcja": "Procedura KPP - strona 2"
+        },
+        {
+          "procedure_id": "KARTA-KPP-TONIECIE",
+          "strona": 17,
+          "sekcja": "Procedura KPP - strona 17"
+        },
+        {
+          "procedure_id": "KARTA-KPP-WSPARCIE-PSYCHICZNE",
+          "strona": 21,
+          "sekcja": "Procedura KPP - strona 21"
+        },
+        {
+          "procedure_id": "KARTA-KPP-WYCHLODZENIE",
+          "strona": 18,
+          "sekcja": "Procedura KPP - strona 18"
+        },
+        {
+          "procedure_id": "KARTA-KPP-STANY-NIEURAZOWE",
+          "strona": 19,
+          "sekcja": "Procedura KPP - strona 19"
+        },
+        {
+          "procedure_id": "KARTA-KPP-ZATRUCIE-WZIEWNE",
+          "strona": 16,
+          "sekcja": "Procedura KPP - strona 16"
+        }
+      ]
+    },
+    {
+      "id": "doc-ptasia-grypa-h5n8",
+      "tytul": "Wytyczne GIS MSWiA w sprawie zjadliwej grypy ptaków typu A H5N8",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 4,
+      "liczba_powiazan": 3,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-PTASIA-GRYPA-INFORMACJE-I-ZASADY",
+          "strona": 2,
+          "sekcja": "Informacje i zasady bezpiecznej pracy"
+        },
+        {
+          "procedure_id": "KARTA-PTASIA-GRYPA-NADZOR-EPIDEMIOLOGICZNY",
+          "strona": 4,
+          "sekcja": "Nadzór epidemiologiczny po narażeniu"
+        },
+        {
+          "procedure_id": "KARTA-PTASIA-GRYPA-SOI-I-DEKONTAMINACJA",
+          "strona": 3,
+          "sekcja": "Środki ochrony indywidualnej i dekontaminacja"
+        }
+      ]
+    },
+    {
+      "id": "doc-sds-h2s-4-1",
+      "tytul": "Karta charakterystyki - Siarkowodór / Siarkowodór N25",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 14,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-ORG-H2S-WARTOSCI-GRANICZNE",
+          "strona": 1,
+          "sekcja": "Karta charakterystyki H2S"
+        }
+      ]
+    },
+    {
+      "id": "doc-sds-co-2-0",
+      "tytul": "Karta charakterystyki - Tlenek węgla",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 21,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-ORG-CO-WARTOSCI-GRANICZNE",
+          "strona": 1,
+          "sekcja": "Karta charakterystyki CO"
+        }
+      ]
+    },
+    {
+      "id": "doc-b1-choroby-zakazne",
+      "tytul": "Załącznik B.1 - Zasady postępowania PSP przy zagrożeniu chorobami szczególnie niebezpiecznymi i wysoce zakaźnymi",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 3,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-CHEM-B1-ZAGROZENIE-BIOLOGICZNE-GR3-GR4",
+          "strona": 1,
+          "sekcja": "Załącznik B.1"
+        }
+      ]
+    },
+    {
+      "id": "doc-b2-przesylka",
+      "tytul": "Załącznik B.2 - Zasady działań PSP podczas zagrożenia z niezidentyfikowaną przesyłką",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 8,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-CHEM-B22-PODEJRZANA-PRZESYLKA-CBR",
+          "strona": 1,
+          "sekcja": "Zasady działań PSP - Załącznik B.2"
+        }
+      ]
+    },
+    {
+      "id": "doc-b21-przesylka",
+      "tytul": "Załącznik B.2.1 - Procedura działania instytucji otrzymującej podejrzaną przesyłkę",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 3,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-CHEM-B22-PODEJRZANA-PRZESYLKA-CBR",
+          "strona": 1,
+          "sekcja": "Procedura dla instytucji - Załącznik B.2.1"
+        }
+      ]
+    },
+    {
+      "id": "doc-b22-przesylka",
+      "tytul": "Załącznik B.2.2 - Algorytm postępowania przy niezidentyfikowanej przesyłce CBR",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 1,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-CHEM-B22-PODEJRZANA-PRZESYLKA-CBR",
+          "strona": 1,
+          "sekcja": "Algorytm B.2.2"
+        }
+      ]
+    },
+    {
+      "id": "doc-r1-radiologia",
+      "tytul": "Załącznik R.1 - Ochrona radiologiczna oraz działania podczas zdarzeń radiacyjnych - podstawowe informacje",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 8,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-CHEM-R1-OCHRONA-RADIOLOGICZNA",
+          "strona": 1,
+          "sekcja": "Ochrona radiologiczna - podstawowe informacje"
+        }
+      ]
+    },
+    {
+      "id": "doc-katastrofa-budowlana-2020",
+      "tytul": "Standardowe zasady postępowania po wystąpieniu katastrofy budowlanej",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 9,
+      "liczba_powiazan": 7,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-BUD-INFORMACJE-DODATKOWE-KATASTROFA-BUDOWLANA",
+          "strona": 1,
+          "sekcja": "Odpowiednia karta SZP katastrofy budowlanej"
+        },
+        {
+          "procedure_id": "KARTA-BUD-ORGANIZACJA-DZIALAN-KATASTROFA-BUDOWLANA",
+          "strona": 4,
+          "sekcja": "Odpowiednia karta SZP katastrofy budowlanej"
+        },
+        {
+          "procedure_id": "KARTA-BUD-PRIORYTETY-TYPOW-ZAWALEN",
+          "strona": 6,
+          "sekcja": "Odpowiednia karta SZP katastrofy budowlanej"
+        },
+        {
+          "procedure_id": "KARTA-BUD-PRZEKAZANIE-KATASTROFA-BUDOWLANA",
+          "strona": 8,
+          "sekcja": "Odpowiednia karta SZP katastrofy budowlanej"
+        },
+        {
+          "procedure_id": "KARTA-BUD-ROZPOZNANIE-KATASTROFA-BUDOWLANA",
+          "strona": 2,
+          "sekcja": "Odpowiednia karta SZP katastrofy budowlanej"
+        },
+        {
+          "procedure_id": "KARTA-BUD-STREFA-I-EWAKUACJA-KATASTROFA-BUDOWLANA",
+          "strona": 3,
+          "sekcja": "Odpowiednia karta SZP katastrofy budowlanej"
+        },
+        {
+          "procedure_id": "KARTA-BUD-ZABEZPIECZENIE-LOGISTYCZNE-KATASTROFA-BUDOWLANA",
+          "strona": 7,
+          "sekcja": "Odpowiednia karta SZP katastrofy budowlanej"
+        }
+      ]
+    },
+    {
+      "id": "doc-lng-2025",
+      "tytul": "Standardowe zasady postępowania podczas zdarzeń z udziałem skroplonego gazu ziemnego (LNG)",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 16,
+      "liczba_powiazan": 5,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-CHEM-Z1-LNG-POZAR-ZEW",
+          "strona": 5,
+          "sekcja": "Karta LNG"
+        },
+        {
+          "procedure_id": "KARTA-CHEM-Z2-LNG-POZAR-STRUM",
+          "strona": 7,
+          "sekcja": "Karta LNG"
+        },
+        {
+          "procedure_id": "KARTA-CHEM-Z3-LNG-POZAR-ROZLEWISKA",
+          "strona": 8,
+          "sekcja": "Karta LNG"
+        },
+        {
+          "procedure_id": "KARTA-CHEM-Z4-LNG-WYCIEK",
+          "strona": 10,
+          "sekcja": "Karta LNG"
+        },
+        {
+          "procedure_id": "KARTA-CHEM-Z5-LNG-ZAWORY",
+          "strona": 12,
+          "sekcja": "Karta LNG"
+        }
+      ]
+    },
+    {
+      "id": "doc-sds-amoniak-4-0",
+      "tytul": "Karta charakterystyki - Amoniak",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 12,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-ORG-AMONIAK-NH3-WARTOSCI-GRANICZNE",
+          "strona": 1,
+          "sekcja": "Karta charakterystyki NH3"
+        }
+      ]
+    },
+    {
+      "id": "doc-sds-hcl-6-0",
+      "tytul": "Karta charakterystyki - Chlorowodór / Chlorowodór N28",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 13,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-ORG-CHLOROWODOR-WARTOSCI-GRANICZNE",
+          "strona": 1,
+          "sekcja": "Karta charakterystyki HCl"
+        }
+      ]
+    },
+    {
+      "id": "doc-sds-cyjanek-sodowy-10-2",
+      "tytul": "Karta charakterystyki - Cyjanek sodowy czysty",
+      "status_techniczny": "niepowiazany",
+      "liczba_stron": 16,
+      "liczba_powiazan": 0,
+      "powiazania": []
+    },
+    {
+      "id": "doc-lacznosc-kdr-2014",
+      "tytul": "Organizacja łączności na potrzeby KDR - materiał szkoleniowy",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 5,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-ORG-METODYKA-ORGANIZACJI-LACZNOSCI-KDR",
+          "strona": 1,
+          "sekcja": "Materiał szkoleniowy dotyczący organizacji łączności"
+        }
+      ]
+    },
+    {
+      "id": "doc-pv-szp-2022",
+      "tytul": "Standardowe zasady postępowania podczas zdarzeń w obrębie instalacji fotowoltaicznych",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 17,
+      "liczba_powiazan": 5,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-PV-INFORMACJE-DODATKOWE",
+          "strona": 16,
+          "sekcja": "Odpowiednia część SZP instalacji PV"
+        },
+        {
+          "procedure_id": "KARTA-PV-Z1-POZAR",
+          "strona": 12,
+          "sekcja": "Odpowiednia część SZP instalacji PV"
+        },
+        {
+          "procedure_id": "KARTA-PV-Z2-MIEJSCOWE-ZAGROZENIE",
+          "strona": 14,
+          "sekcja": "Odpowiednia część SZP instalacji PV"
+        },
+        {
+          "procedure_id": "KARTA-PV-PRZEKAZANIE",
+          "strona": 15,
+          "sekcja": "Odpowiednia część SZP instalacji PV"
+        },
+        {
+          "procedure_id": "KARTA-PV-ROZPOZNANIE-I-ZABEZPIECZENIE",
+          "strona": 8,
+          "sekcja": "Odpowiednia część SZP instalacji PV"
+        }
+      ]
+    },
+    {
+      "id": "doc-zlota-alga-w3-2023",
+      "tytul": "Procedura monitorowania interwencyjnego Prymnesium parvum - złotej algi",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 11,
+      "liczba_powiazan": 5,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-ZA-CEL-ZAKRES-MONITOROWANIA",
+          "strona": 4,
+          "sekcja": "Odpowiedni rozdział procedury monitorowania"
+        },
+        {
+          "procedure_id": "KARTA-ZA-CZYNNIKI-RYZYKA",
+          "strona": 5,
+          "sekcja": "Odpowiedni rozdział procedury monitorowania"
+        },
+        {
+          "procedure_id": "KARTA-ZA-POSTEPOWANIE",
+          "strona": 8,
+          "sekcja": "Odpowiedni rozdział procedury monitorowania"
+        },
+        {
+          "procedure_id": "KARTA-ZA-POZIOMY-ALARMOWE",
+          "strona": 7,
+          "sekcja": "Odpowiedni rozdział procedury monitorowania"
+        },
+        {
+          "procedure_id": "KARTA-ZA-WSKAZNIKI-BADANE",
+          "strona": 7,
+          "sekcja": "Odpowiedni rozdział procedury monitorowania"
+        }
+      ]
+    }
+  ]
+}

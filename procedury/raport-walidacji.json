@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-07-13T13:08:54.306Z",
+  "generated_at": "2026-07-14T15:39:45.895Z",
   "procedure_count": 70,
   "unique_direct_terms": 517,
+  "linked_procedure_count": 57,
+  "document_count": 18,
   "shared_tags": [
     {
       "tag": "kpp",

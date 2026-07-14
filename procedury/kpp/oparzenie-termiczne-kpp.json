@@ -21,9 +21,11 @@
     "hydrozel oparzenie kpp",
     "schladzanie oparzenia kpp"
   ],
-  "pelna_procedura": {
-    "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 13",
-    "plik": "",
-    "strona": null
-  }
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-kpp-procedury",
+      "strona": 14,
+      "sekcja": "Procedura KPP - strona 14"
+    }
+  ]
 }

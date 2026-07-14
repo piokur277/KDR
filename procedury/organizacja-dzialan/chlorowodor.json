@@ -37,9 +37,11 @@
     "h331 chlorowodor",
     "h314 chlorowodor"
   ],
-  "pelna_procedura": {
-    "tytul": "CIOP-PIB, Baza niebezpiecznych substancji chemicznych, Chlorowodor",
-    "plik": "",
-    "strona": null
-  }
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-sds-hcl-6-0",
+      "strona": 1,
+      "sekcja": "Karta charakterystyki HCl"
+    }
+  ]
 }

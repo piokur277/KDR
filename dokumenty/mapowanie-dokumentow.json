@@ -1,422 +1,822 @@
 [
   {
     "id": "KARTA-ACETYLEN-Z1",
-    "tytul": "Standardowe zasady postepowania podczas zdarzen z udzialem butli z acetylenem, KG PSP",
-    "plik": "",
-    "strona": null
+    "procedura": "Karta Z1 - Butle poddane dzialaniu ognia/ciepla lub poddane wielokrotnym uderzeniom, szczelne lub nieszczelne.",
+    "dokumenty_zrodlowe": []
   },
   {
     "id": "KARTA-ACETYLEN-Z2",
-    "tytul": "Standardowe zasady postepowania podczas zdarzen z udzialem butli z acetylenem, KG PSP",
-    "plik": "",
-    "strona": null
+    "procedura": "Karta Z2 - Butle niepoddane dzialaniu ognia/ciepla lub wielokrotnym uderzeniom - nieszczelne, znajdujace sie wewnatrz obiektu.",
+    "dokumenty_zrodlowe": []
   },
   {
     "id": "KARTA-ACETYLEN-Z3",
-    "tytul": "Standardowe zasady postepowania podczas zdarzen z udzialem butli z acetylenem, KG PSP",
-    "plik": "",
-    "strona": null
+    "procedura": "Karta Z3 - Butle niepoddane dzialaniu ognia/ciepla lub wielokrotnym uderzeniom - nieszczelne, znajdujace sie na zewnatrz obiektu.",
+    "dokumenty_zrodlowe": []
   },
   {
     "id": "KARTA-ACETYLEN-Z4",
-    "tytul": "Standardowe zasady postepowania podczas zdarzen z udzialem butli z acetylenem, KG PSP",
-    "plik": "",
-    "strona": null
+    "procedura": "Karta Z4 - Butle niepoddane dzialaniu ognia/ciepla lub wielokrotnym uderzeniom - szczelne.",
+    "dokumenty_zrodlowe": []
   },
   {
     "id": "KARTA-ACETYLEN-PRZEKAZANIE",
-    "tytul": "Standardowe zasady postepowania podczas zdarzen z udzialem butli z acetylenem, KG PSP",
-    "plik": "",
-    "strona": null
+    "procedura": "Przekazanie miejsca zdarzenia po dzialaniach z udzialem butli z acetylenem.",
+    "dokumenty_zrodlowe": []
   },
   {
     "id": "KARTA-ACETYLEN-ROZPOZNANIE",
-    "tytul": "Standardowe zasady postepowania podczas zdarzen z udzialem butli z acetylenem, KG PSP",
-    "plik": "",
-    "strona": null
+    "procedura": "Rozpoznanie - butle z acetylenem.",
+    "dokumenty_zrodlowe": []
   },
   {
     "id": "KARTA-BUD-INFORMACJE-DODATKOWE-KATASTROFA-BUDOWLANA",
-    "tytul": "Standardowe zasady postepowania podczas katastrofy budowlanej po wystapieniu katastrofy budowlanej, KG PSP",
-    "plik": "",
-    "strona": null
+    "procedura": "Katastrofa budowlana - typy zawalen obiektow i podstawowe zagrozenia.",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-katastrofa-budowlana-2020",
+        "strona": 1,
+        "sekcja": "Odpowiednia karta SZP katastrofy budowlanej",
+        "tytul": "Standardowe zasady postępowania po wystąpieniu katastrofy budowlanej",
+        "plik": "dokumenty/budowlane/szp-katastrofa-budowlana-2020.pdf"
+      }
+    ]
   },
   {
     "id": "KARTA-BUD-ORGANIZACJA-DZIALAN-KATASTROFA-BUDOWLANA",
-    "tytul": "Standardowe zasady postepowania podczas katastrofy budowlanej po wystapieniu katastrofy budowlanej, KG PSP",
-    "plik": "",
-    "strona": null
+    "procedura": "Katastrofa budowlana - organizacja dzialan ratowniczych na gruzowisku.",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-katastrofa-budowlana-2020",
+        "strona": 4,
+        "sekcja": "Odpowiednia karta SZP katastrofy budowlanej",
+        "tytul": "Standardowe zasady postępowania po wystąpieniu katastrofy budowlanej",
+        "plik": "dokumenty/budowlane/szp-katastrofa-budowlana-2020.pdf"
+      }
+    ]
   },
   {
     "id": "KARTA-BUD-PRIORYTETY-TYPOW-ZAWALEN",
-    "tytul": "Standardowe zasady postepowania podczas katastrofy budowlanej po wystapieniu katastrofy budowlanej, KG PSP",
-    "plik": "",
-    "strona": null
+    "procedura": "Katastrofa budowlana - dodatkowe priorytety organizacji dzialan dla roznych typow zawalen.",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-katastrofa-budowlana-2020",
+        "strona": 6,
+        "sekcja": "Odpowiednia karta SZP katastrofy budowlanej",
+        "tytul": "Standardowe zasady postępowania po wystąpieniu katastrofy budowlanej",
+        "plik": "dokumenty/budowlane/szp-katastrofa-budowlana-2020.pdf"
+      }
+    ]
   },
   {
     "id": "KARTA-BUD-PRZEKAZANIE-KATASTROFA-BUDOWLANA",
-    "tytul": "Standardowe zasady postepowania podczas katastrofy budowlanej po wystapieniu katastrofy budowlanej, KG PSP",
-    "plik": "",
-    "strona": null
+    "procedura": "Katastrofa budowlana - przekazanie miejsca zdarzenia po zakonczeniu dzialan.",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-katastrofa-budowlana-2020",
+        "strona": 8,
+        "sekcja": "Odpowiednia karta SZP katastrofy budowlanej",
+        "tytul": "Standardowe zasady postępowania po wystąpieniu katastrofy budowlanej",
+        "plik": "dokumenty/budowlane/szp-katastrofa-budowlana-2020.pdf"
+      }
+    ]
   },
   {
     "id": "KARTA-BUD-ROZPOZNANIE-KATASTROFA-BUDOWLANA",
-    "tytul": "Standardowe zasady postepowania podczas katastrofy budowlanej po wystapieniu katastrofy budowlanej, KG PSP",
-    "plik": "",
-    "strona": null
+    "procedura": "Katastrofa budowlana - rozpoznanie miejsca zdarzenia.",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-katastrofa-budowlana-2020",
+        "strona": 2,
+        "sekcja": "Odpowiednia karta SZP katastrofy budowlanej",
+        "tytul": "Standardowe zasady postępowania po wystąpieniu katastrofy budowlanej",
+        "plik": "dokumenty/budowlane/szp-katastrofa-budowlana-2020.pdf"
+      }
+    ]
   },
   {
     "id": "KARTA-BUD-STREFA-I-EWAKUACJA-KATASTROFA-BUDOWLANA",
-    "tytul": "Standardowe zasady postepowania podczas katastrofy budowlanej po wystapieniu katastrofy budowlanej, KG PSP",
-    "plik": "",
-    "strona": null
+    "procedura": "Katastrofa budowlana - wyznaczanie strefy zagrozenia i ewakuacja ludzi.",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-katastrofa-budowlana-2020",
+        "strona": 3,
+        "sekcja": "Odpowiednia karta SZP katastrofy budowlanej",
+        "tytul": "Standardowe zasady postępowania po wystąpieniu katastrofy budowlanej",
+        "plik": "dokumenty/budowlane/szp-katastrofa-budowlana-2020.pdf"
+      }
+    ]
   },
   {
     "id": "KARTA-BUD-ZABEZPIECZENIE-LOGISTYCZNE-KATASTROFA-BUDOWLANA",
-    "tytul": "Standardowe zasady postepowania podczas katastrofy budowlanej po wystapieniu katastrofy budowlanej, KG PSP",
-    "plik": "",
-    "strona": null
+    "procedura": "Katastrofa budowlana - zabezpieczenie logistyczne dzialan.",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-katastrofa-budowlana-2020",
+        "strona": 7,
+        "sekcja": "Odpowiednia karta SZP katastrofy budowlanej",
+        "tytul": "Standardowe zasady postępowania po wystąpieniu katastrofy budowlanej",
+        "plik": "dokumenty/budowlane/szp-katastrofa-budowlana-2020.pdf"
+      }
+    ]
   },
   {
     "id": "KARTA-CHEM-Z1-LNG-POZAR-ZEW",
-    "tytul": "Zasady postepowania podczas zdarzen z LNG, KG PSP",
-    "plik": "",
-    "strona": null
+    "procedura": "Karta Z1 - Pozar zewnetrzny podgrzewajacy cysterne LNG bez wycieku gazu.",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-lng-2025",
+        "strona": 5,
+        "sekcja": "Karta LNG",
+        "tytul": "Standardowe zasady postępowania podczas zdarzeń z udziałem skroplonego gazu ziemnego (LNG)",
+        "plik": "dokumenty/lng/szp-lng-2025-12.pdf"
+      }
+    ]
   },
   {
     "id": "KARTA-CHEM-Z2-LNG-POZAR-STRUM",
-    "tytul": "Zasady postepowania podczas zdarzen z LNG, KG PSP",
-    "plik": "",
-    "strona": null
+    "procedura": "Karta Z2 - Pozar strumieniowy z wycieku cysterny LNG (Jet Fire).",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-lng-2025",
+        "strona": 7,
+        "sekcja": "Karta LNG",
+        "tytul": "Standardowe zasady postępowania podczas zdarzeń z udziałem skroplonego gazu ziemnego (LNG)",
+        "plik": "dokumenty/lng/szp-lng-2025-12.pdf"
+      }
+    ]
   },
   {
     "id": "KARTA-CHEM-Z3-LNG-POZAR-ROZLEWISKA",
-    "tytul": "Zasady postepowania podczas zdarzen z LNG, KG PSP",
-    "plik": "",
-    "strona": null
+    "procedura": "Karta Z3 - Pozar rozlewiska skroplonego gazu ziemnego LNG (Pool Fire).",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-lng-2025",
+        "strona": 8,
+        "sekcja": "Karta LNG",
+        "tytul": "Standardowe zasady postępowania podczas zdarzeń z udziałem skroplonego gazu ziemnego (LNG)",
+        "plik": "dokumenty/lng/szp-lng-2025-12.pdf"
+      }
+    ]
   },
   {
     "id": "KARTA-CHEM-Z4-LNG-WYCIEK",
-    "tytul": "Zasady postepowania podczas zdarzen z LNG, KG PSP",
-    "plik": "",
-    "strona": null
+    "procedura": "Karta Z4 - Wyciek LNG z cysterny bez pozaru.",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-lng-2025",
+        "strona": 10,
+        "sekcja": "Karta LNG",
+        "tytul": "Standardowe zasady postępowania podczas zdarzeń z udziałem skroplonego gazu ziemnego (LNG)",
+        "plik": "dokumenty/lng/szp-lng-2025-12.pdf"
+      }
+    ]
   },
   {
     "id": "KARTA-CHEM-Z5-LNG-ZAWORY",
-    "tytul": "Zasady postepowania podczas zdarzen z LNG, KG PSP",
-    "plik": "",
-    "strona": null
+    "procedura": "Karta Z5 - Emisja gazu LNG przez zawory bezpieczenstwa (Zrzut cisnienia).",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-lng-2025",
+        "strona": 12,
+        "sekcja": "Karta LNG",
+        "tytul": "Standardowe zasady postępowania podczas zdarzeń z udziałem skroplonego gazu ziemnego (LNG)",
+        "plik": "dokumenty/lng/szp-lng-2025-12.pdf"
+      }
+    ]
   },
   {
     "id": "KARTA-CHEM-B1-ZAGROZENIE-BIOLOGICZNE-GR3-GR4",
-    "tytul": "Zalacznik nr B.1. Zasady postepowania jednostek organizacyjnych PSP w przypadku podejrzenia zagrozenia chorobami szczegolnie niebezpiecznymi i wysoce zakaznymi",
-    "plik": "",
-    "strona": null
+    "procedura": "Zalacznik B1 - Zasady postepowania PSP przy podejrzeniu zagrozenia chorobami szczegolnie niebezpiecznymi i wysoce zakaznymi.",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-b1-choroby-zakazne",
+        "strona": 1,
+        "sekcja": "Załącznik B.1",
+        "tytul": "Załącznik B.1 - Zasady postępowania PSP przy zagrożeniu chorobami szczególnie niebezpiecznymi i wysoce zakaźnymi",
+        "plik": "dokumenty/biologiczne/zalacznik-b1-choroby-zakazne.pdf"
+      }
+    ]
   },
   {
     "id": "KARTA-CHEM-B22-PODEJRZANA-PRZESYLKA-CBR",
-    "tytul": "Zalacznik nr B.2.2. Algorytm postepowania i wspoldzialania w przypadku otrzymania niezidentyfikowanej przesylki, mogacej stanowic zagrozenie chemiczne, biologiczne lub radiacyjne",
-    "plik": "",
-    "strona": null
+    "procedura": "Zalacznik B2.2 - Algorytm postepowania przy otrzymaniu niezidentyfikowanej przesylki mogacej stanowic zagrozenie chemiczne, biologiczne lub radiacyjne.",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-b22-przesylka",
+        "strona": 1,
+        "sekcja": "Algorytm B.2.2",
+        "tytul": "Załącznik B.2.2 - Algorytm postępowania przy niezidentyfikowanej przesyłce CBR",
+        "plik": "dokumenty/cbrn/zalacznik-b2-2-algorytm-przesylka.pdf"
+      },
+      {
+        "dokument_id": "doc-b2-przesylka",
+        "strona": 1,
+        "sekcja": "Zasady działań PSP - Załącznik B.2",
+        "tytul": "Załącznik B.2 - Zasady działań PSP podczas zagrożenia z niezidentyfikowaną przesyłką",
+        "plik": "dokumenty/cbrn/zalacznik-b2-przesylka-niezidentyfikowana.pdf"
+      },
+      {
+        "dokument_id": "doc-b21-przesylka",
+        "strona": 1,
+        "sekcja": "Procedura dla instytucji - Załącznik B.2.1",
+        "tytul": "Załącznik B.2.1 - Procedura działania instytucji otrzymującej podejrzaną przesyłkę",
+        "plik": "dokumenty/cbrn/zalacznik-b2-1-podejrzana-przesylka.pdf"
+      }
+    ]
   },
   {
     "id": "KARTA-CHEM-R1-OCHRONA-RADIOLOGICZNA",
-    "tytul": "Zalacznik nr R.1. Ochrona radiologiczna oraz dzialania podczas zdarzen radiacyjnych - podstawowe informacje",
-    "plik": "",
-    "strona": null
+    "procedura": "Zalacznik R1 - Ochrona radiologiczna oraz podstawowe informacje o dzialaniach podczas zdarzen radiacyjnych.",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-r1-radiologia",
+        "strona": 1,
+        "sekcja": "Ochrona radiologiczna - podstawowe informacje",
+        "tytul": "Załącznik R.1 - Ochrona radiologiczna oraz działania podczas zdarzeń radiacyjnych - podstawowe informacje",
+        "plik": "dokumenty/radiacyjne/zalacznik-r1-ochrona-radiologiczna.pdf"
+      }
+    ]
   },
   {
     "id": "KARTA-CHEM-R2-ZDARZENIA-RADIACYJNE-ZAKRES-PODSTAWOWY",
-    "tytul": "Zalacznik nr R.2. Ochrona radiologiczna oraz dzialania podczas zdarzen radiacyjnych - zakres podstawowy",
-    "plik": "",
-    "strona": null
+    "procedura": "Zalacznik R2 - Dzialania podczas zdarzen radiacyjnych w zakresie podstawowym.",
+    "dokumenty_zrodlowe": []
   },
   {
     "id": "DEZ-EV-01",
-    "tytul": "Standardowe zasady postępowania podczas zdarzeń z samochodami z napędem elektrycznym oraz hybrydowym - KG PSP, maj 2023, wydanie II | Dezaktywacja i zabezpieczenie samochodu",
-    "plik": "dokumenty/pojazdy-elektryczne/SZP-samochody-elektryczne-hybrydowe-maj-2023.pdf",
-    "strona": 5
+    "procedura": "Dezaktywacja awaryjna pojazdu elektrycznego lub hybrydowego",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-ev-szp-2023",
+        "strona": 5,
+        "sekcja": "Dezaktywacja i zabezpieczenie samochodu",
+        "tytul": "Standardowe zasady postępowania podczas zdarzeń z samochodami z napędem elektrycznym oraz hybrydowym",
+        "plik": "dokumenty/pojazdy-elektryczne/szp-samochody-elektryczne-hybrydowe-2023-05.pdf"
+      }
+    ]
   },
   {
     "id": "KARTA-PV-INFORMACJE-DODATKOWE",
-    "tytul": "Standardowe zasady postepowania podczas zdarzen w obrebie instalacji fotowoltaicznych, KG PSP",
-    "plik": "",
-    "strona": null
+    "procedura": "Informacje dodatkowe i srodki ostroznosci przy dzialaniach w obrebie instalacji fotowoltaicznych.",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-pv-szp-2022",
+        "strona": 16,
+        "sekcja": "Odpowiednia część SZP instalacji PV",
+        "tytul": "Standardowe zasady postępowania podczas zdarzeń w obrębie instalacji fotowoltaicznych",
+        "plik": "dokumenty/fotowoltaika/szp-instalacje-fotowoltaiczne-2022-03.pdf"
+      }
+    ]
   },
   {
     "id": "KARTA-PV-Z1-POZAR",
-    "tytul": "Standardowe zasady postepowania podczas zdarzen w obrebie instalacji fotowoltaicznych, KG PSP",
-    "plik": "",
-    "strona": null
+    "procedura": "Karta Z1 - Dzialania ratownicze przy pozarze w obrebie instalacji fotowoltaicznej.",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-pv-szp-2022",
+        "strona": 12,
+        "sekcja": "Odpowiednia część SZP instalacji PV",
+        "tytul": "Standardowe zasady postępowania podczas zdarzeń w obrębie instalacji fotowoltaicznych",
+        "plik": "dokumenty/fotowoltaika/szp-instalacje-fotowoltaiczne-2022-03.pdf"
+      }
+    ]
   },
   {
     "id": "KARTA-PV-Z2-MIEJSCOWE-ZAGROZENIE",
-    "tytul": "Standardowe zasady postepowania podczas zdarzen w obrebie instalacji fotowoltaicznych, KG PSP",
-    "plik": "",
-    "strona": null
+    "procedura": "Karta Z2 - Dzialania ratownicze przy miejscowym zagrozeniu w obrebie instalacji fotowoltaicznej.",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-pv-szp-2022",
+        "strona": 14,
+        "sekcja": "Odpowiednia część SZP instalacji PV",
+        "tytul": "Standardowe zasady postępowania podczas zdarzeń w obrębie instalacji fotowoltaicznych",
+        "plik": "dokumenty/fotowoltaika/szp-instalacje-fotowoltaiczne-2022-03.pdf"
+      }
+    ]
   },
   {
     "id": "KARTA-PV-PRZEKAZANIE",
-    "tytul": "Standardowe zasady postepowania podczas zdarzen w obrebie instalacji fotowoltaicznych, KG PSP",
-    "plik": "",
-    "strona": null
+    "procedura": "Przekazanie miejsca zdarzenia po dzialaniach w obrebie instalacji fotowoltaicznej.",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-pv-szp-2022",
+        "strona": 15,
+        "sekcja": "Odpowiednia część SZP instalacji PV",
+        "tytul": "Standardowe zasady postępowania podczas zdarzeń w obrębie instalacji fotowoltaicznych",
+        "plik": "dokumenty/fotowoltaika/szp-instalacje-fotowoltaiczne-2022-03.pdf"
+      }
+    ]
   },
   {
     "id": "KARTA-PV-ROZPOZNANIE-I-ZABEZPIECZENIE",
-    "tytul": "Standardowe zasady postepowania podczas zdarzen w obrebie instalacji fotowoltaicznych, KG PSP",
-    "plik": "",
-    "strona": null
+    "procedura": "Rozpoznanie i dzialania zabezpieczajace przy zdarzeniach w obrebie instalacji fotowoltaicznych.",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-pv-szp-2022",
+        "strona": 8,
+        "sekcja": "Odpowiednia część SZP instalacji PV",
+        "tytul": "Standardowe zasady postępowania podczas zdarzeń w obrębie instalacji fotowoltaicznych",
+        "plik": "dokumenty/fotowoltaika/szp-instalacje-fotowoltaiczne-2022-03.pdf"
+      }
+    ]
   },
   {
     "id": "KARTA-KPP-AMPUTACJA-URAZOWA",
-    "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 6",
-    "plik": "",
-    "strona": null
+    "procedura": "KPP - amputacja urazowa.",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-kpp-procedury",
+        "strona": 7,
+        "sekcja": "Procedura KPP - strona 7",
+        "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy - Załącznik nr 1",
+        "plik": "dokumenty/kpp/procedury-ratownicze-kpp.pdf"
+      }
+    ]
   },
   {
     "id": "KARTA-KPP-KOBIETA-W-CIAZY-ZAGROZENIE",
-    "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 19",
-    "plik": "",
-    "strona": null
+    "procedura": "KPP - kobieta w widocznej ciazy w stanie zagrozenia zycia lub zdrowia.",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-kpp-procedury",
+        "strona": 20,
+        "sekcja": "Procedura KPP - strona 20",
+        "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy - Załącznik nr 1",
+        "plik": "dokumenty/kpp/procedury-ratownicze-kpp.pdf"
+      }
+    ]
   },
   {
     "id": "KARTA-KPP-OBRAZENIA-BRZUCHA",
-    "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 10",
-    "plik": "",
-    "strona": null
+    "procedura": "KPP - obrazenia i podejrzenie obrazen brzucha.",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-kpp-procedury",
+        "strona": 11,
+        "sekcja": "Procedura KPP - strona 11",
+        "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy - Załącznik nr 1",
+        "plik": "dokumenty/kpp/procedury-ratownicze-kpp.pdf"
+      }
+    ]
   },
   {
     "id": "KARTA-KPP-OBRAZENIA-GLOWY",
-    "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 7",
-    "plik": "",
-    "strona": null
+    "procedura": "KPP - obrazenia i podejrzenie obrazen glowy.",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-kpp-procedury",
+        "strona": 8,
+        "sekcja": "Procedura KPP - strona 8",
+        "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy - Załącznik nr 1",
+        "plik": "dokumenty/kpp/procedury-ratownicze-kpp.pdf"
+      }
+    ]
   },
   {
     "id": "KARTA-KPP-OBRAZENIA-KLATKI-PIERSIOWEJ",
-    "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 9",
-    "plik": "",
-    "strona": null
+    "procedura": "KPP - obrazenia i podejrzenie obrazen klatki piersiowej.",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-kpp-procedury",
+        "strona": 10,
+        "sekcja": "Procedura KPP - strona 10",
+        "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy - Załącznik nr 1",
+        "plik": "dokumenty/kpp/procedury-ratownicze-kpp.pdf"
+      }
+    ]
   },
   {
     "id": "KARTA-KPP-OBRAZENIA-KREGOSLUPA",
-    "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 8",
-    "plik": "",
-    "strona": null
+    "procedura": "KPP - obrazenia i podejrzenie obrazen kregoslupa.",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-kpp-procedury",
+        "strona": 9,
+        "sekcja": "Procedura KPP - strona 9",
+        "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy - Załącznik nr 1",
+        "plik": "dokumenty/kpp/procedury-ratownicze-kpp.pdf"
+      }
+    ]
   },
   {
     "id": "KARTA-KPP-OBRAZENIA-MIEDNICY",
-    "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 11",
-    "plik": "",
-    "strona": null
+    "procedura": "KPP - obrazenia i podejrzenie obrazen miednicy.",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-kpp-procedury",
+        "strona": 12,
+        "sekcja": "Procedura KPP - strona 12",
+        "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy - Załącznik nr 1",
+        "plik": "dokumenty/kpp/procedury-ratownicze-kpp.pdf"
+      }
+    ]
   },
   {
     "id": "KARTA-KPP-OBRAZENIA-NARZADU-RUCHU",
-    "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 12",
-    "plik": "",
-    "strona": null
+    "procedura": "KPP - obrazenia i podejrzenie obrazen narzadu ruchu.",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-kpp-procedury",
+        "strona": 13,
+        "sekcja": "Procedura KPP - strona 13",
+        "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy - Załącznik nr 1",
+        "plik": "dokumenty/kpp/procedury-ratownicze-kpp.pdf"
+      }
+    ]
   },
   {
     "id": "KARTA-KPP-OPARZENIE-CHEMICZNE",
-    "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 14",
-    "plik": "",
-    "strona": null
+    "procedura": "KPP - oparzenie chemiczne.",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-kpp-procedury",
+        "strona": 15,
+        "sekcja": "Procedura KPP - strona 15",
+        "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy - Załącznik nr 1",
+        "plik": "dokumenty/kpp/procedury-ratownicze-kpp.pdf"
+      }
+    ]
   },
   {
     "id": "KARTA-KPP-OPARZENIE-TERMICZNE",
-    "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 13",
-    "plik": "",
-    "strona": null
+    "procedura": "KPP - oparzenie termiczne.",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-kpp-procedury",
+        "strona": 14,
+        "sekcja": "Procedura KPP - strona 14",
+        "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy - Załącznik nr 1",
+        "plik": "dokumenty/kpp/procedury-ratownicze-kpp.pdf"
+      }
+    ]
   },
   {
     "id": "KARTA-KPP-RANY",
-    "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 5",
-    "plik": "",
-    "strona": null
+    "procedura": "KPP - postepowanie przy ranach.",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-kpp-procedury",
+        "strona": 6,
+        "sekcja": "Procedura KPP - strona 6",
+        "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy - Załącznik nr 1",
+        "plik": "dokumenty/kpp/procedury-ratownicze-kpp.pdf"
+      }
+    ]
   },
   {
     "id": "KARTA-KPP-RKO-DOROSLI",
-    "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 3",
-    "plik": "",
-    "strona": null
+    "procedura": "KPP - zatrzymanie krazenia u doroslych.",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-kpp-procedury",
+        "strona": 4,
+        "sekcja": "Procedura KPP - strona 4",
+        "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy - Załącznik nr 1",
+        "plik": "dokumenty/kpp/procedury-ratownicze-kpp.pdf"
+      }
+    ]
   },
   {
     "id": "KARTA-KPP-RKO-DZIECI-NIEMOWLETA-NOWORODKI",
-    "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 4",
-    "plik": "",
-    "strona": null
+    "procedura": "KPP - zatrzymanie krazenia u dzieci, niemowlat i noworodkow zaraz po urodzeniu.",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-kpp-procedury",
+        "strona": 5,
+        "sekcja": "Procedura KPP - strona 5",
+        "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy - Załącznik nr 1",
+        "plik": "dokumenty/kpp/procedury-ratownicze-kpp.pdf"
+      }
+    ]
   },
   {
     "id": "KARTA-KPP-SEKWENCJA-MEDYCZNYCH-DZIALAN-RATOWNICZYCH",
-    "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 2",
-    "plik": "",
-    "strona": null
+    "procedura": "KPP - sekwencja medycznych dzialan ratowniczych.",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-kpp-procedury",
+        "strona": 3,
+        "sekcja": "Procedura KPP - strona 3",
+        "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy - Załącznik nr 1",
+        "plik": "dokumenty/kpp/procedury-ratownicze-kpp.pdf"
+      }
+    ]
   },
   {
     "id": "KARTA-KPP-SEKWENCJA-ZALOZEN-TAKTYCZNYCH",
-    "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 1",
-    "plik": "",
-    "strona": null
+    "procedura": "KPP - sekwencja zalozen taktycznych w ratownictwie medycznym.",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-kpp-procedury",
+        "strona": 2,
+        "sekcja": "Procedura KPP - strona 2",
+        "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy - Załącznik nr 1",
+        "plik": "dokumenty/kpp/procedury-ratownicze-kpp.pdf"
+      }
+    ]
   },
   {
     "id": "KARTA-KPP-TONIECIE",
-    "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 16",
-    "plik": "",
-    "strona": null
+    "procedura": "KPP - toniecie.",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-kpp-procedury",
+        "strona": 17,
+        "sekcja": "Procedura KPP - strona 17",
+        "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy - Załącznik nr 1",
+        "plik": "dokumenty/kpp/procedury-ratownicze-kpp.pdf"
+      }
+    ]
   },
   {
     "id": "KARTA-KPP-WSPARCIE-PSYCHICZNE",
-    "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 20",
-    "plik": "",
-    "strona": null
+    "procedura": "KPP - zasady udzielania wsparcia psychicznego i psychologicznego.",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-kpp-procedury",
+        "strona": 21,
+        "sekcja": "Procedura KPP - strona 21",
+        "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy - Załącznik nr 1",
+        "plik": "dokumenty/kpp/procedury-ratownicze-kpp.pdf"
+      }
+    ]
   },
   {
     "id": "KARTA-KPP-WYCHLODZENIE",
-    "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 17",
-    "plik": "",
-    "strona": null
+    "procedura": "KPP - wychlodzenie.",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-kpp-procedury",
+        "strona": 18,
+        "sekcja": "Procedura KPP - strona 18",
+        "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy - Załącznik nr 1",
+        "plik": "dokumenty/kpp/procedury-ratownicze-kpp.pdf"
+      }
+    ]
   },
   {
     "id": "KARTA-KPP-STANY-NIEURAZOWE",
-    "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 18",
-    "plik": "",
-    "strona": null
+    "procedura": "KPP - zaburzenia krazeniowo-oddechowe w stanach nieurazowych.",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-kpp-procedury",
+        "strona": 19,
+        "sekcja": "Procedura KPP - strona 19",
+        "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy - Załącznik nr 1",
+        "plik": "dokumenty/kpp/procedury-ratownicze-kpp.pdf"
+      }
+    ]
   },
   {
     "id": "KARTA-KPP-ZATRUCIE-WZIEWNE",
-    "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 15",
-    "plik": "",
-    "strona": null
+    "procedura": "KPP - zatrucie wziewne.",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-kpp-procedury",
+        "strona": 16,
+        "sekcja": "Procedura KPP - strona 16",
+        "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy - Załącznik nr 1",
+        "plik": "dokumenty/kpp/procedury-ratownicze-kpp.pdf"
+      }
+    ]
   },
   {
     "id": "KARTA-ORG-AMONIAK-NH3-WARTOSCI-GRANICZNE",
-    "tytul": "CIOP-PIB, Baza niebezpiecznych substancji chemicznych, Amoniak",
-    "plik": "",
-    "strona": null
+    "procedura": "NH3 / Amoniak - karta zagrozenia operacyjnego.",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-sds-amoniak-4-0",
+        "strona": 1,
+        "sekcja": "Karta charakterystyki NH3",
+        "tytul": "Karta charakterystyki - Amoniak",
+        "plik": "dokumenty/chemiczne/sds-amoniak-v4-0-2019.pdf"
+      }
+    ]
   },
   {
     "id": "KARTA-ORG-CBRNE-DODATKOWE-USTALENIA-SZKOLENIA",
-    "tytul": "Dodatkowe ustalenia dokonane w ramach prac Zespolu zadaniowego, Zalacznik nr 2 do wytycznych wspoldzialania sluzb na miejscu zdarzen CBRN-E",
-    "plik": "",
-    "strona": null
+    "procedura": "Dodatkowe ustalenia i rekomendacje szkoleniowe dla wspoldzialania przy zdarzeniach CBRN-E.",
+    "dokumenty_zrodlowe": []
   },
   {
     "id": "KARTA-ORG-CHLOROWODOR-WARTOSCI-GRANICZNE",
-    "tytul": "CIOP-PIB, Baza niebezpiecznych substancji chemicznych, Chlorowodor",
-    "plik": "",
-    "strona": null
+    "procedura": "HCl / Chlorowodor - karta zagrozenia operacyjnego.",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-sds-hcl-6-0",
+        "strona": 1,
+        "sekcja": "Karta charakterystyki HCl",
+        "tytul": "Karta charakterystyki - Chlorowodór / Chlorowodór N28",
+        "plik": "dokumenty/chemiczne/sds-chlorowodor-v6-0-2022.pdf"
+      }
+    ]
   },
   {
     "id": "KARTA-ORG-CO-WARTOSCI-GRANICZNE",
-    "tytul": "CIOP-PIB, Baza niebezpiecznych substancji chemicznych, Tlenek wegla",
-    "plik": "",
-    "strona": null
+    "procedura": "CO / Tlenek wegla - karta zagrozenia operacyjnego.",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-sds-co-2-0",
+        "strona": 1,
+        "sekcja": "Karta charakterystyki CO",
+        "tytul": "Karta charakterystyki - Tlenek węgla",
+        "plik": "dokumenty/chemiczne/sds-tlenek-wegla-v2-0-2020.pdf"
+      }
+    ]
   },
   {
     "id": "KARTA-ORG-DETEKTOR-MSA-ALTAIR-4X",
-    "tytul": "Dane przekazane przez uzytkownika",
-    "plik": "",
-    "strona": null
+    "procedura": "Detektor wielogazowy MSA Altair 4X - progi alarmowe i sygnalizacja.",
+    "dokumenty_zrodlowe": []
   },
   {
     "id": "KARTA-ORG-H2S-WARTOSCI-GRANICZNE",
-    "tytul": "SDS 016 ALP Siarkowodor v4.1, Air Liquide Polska / Alkat",
-    "plik": "",
-    "strona": null
+    "procedura": "H2S / Siarkowodor - karta zagrozenia operacyjnego.",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-sds-h2s-4-1",
+        "strona": 1,
+        "sekcja": "Karta charakterystyki H2S",
+        "tytul": "Karta charakterystyki - Siarkowodór / Siarkowodór N25",
+        "plik": "dokumenty/chemiczne/sds-siarkowodor-v4-1-2022.pdf"
+      }
+    ]
   },
   {
     "id": "KARTA-ORG-HCN-WARTOSCI-GRANICZNE",
-    "tytul": "CIOP-PIB, Baza niebezpiecznych substancji chemicznych, Cyjanowodor",
-    "plik": "",
-    "strona": null
+    "procedura": "HCN / Cyjanowodor - karta zagrozenia operacyjnego.",
+    "dokumenty_zrodlowe": []
   },
   {
     "id": "KARTA-ORG-METODYKA-ORGANIZACJI-LACZNOSCI-KDR",
-    "tytul": "Metodyka postepowania podczas organizacji lacznosci na potrzeby kierujacego dzialaniem ratowniczym, KG PSP, Warszawa 2016",
-    "plik": "",
-    "strona": null
+    "procedura": "Metodyka organizacji lacznosci na potrzeby KDR - karta organizacyjna lacznosci.",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-lacznosc-kdr-2014",
+        "strona": 1,
+        "sekcja": "Materiał szkoleniowy dotyczący organizacji łączności",
+        "tytul": "Organizacja łączności na potrzeby KDR - materiał szkoleniowy",
+        "plik": "dokumenty/lacznosc/organizacja-lacznosci-kdr-2014.pdf"
+      }
+    ]
   },
   {
     "id": "KARTA-ORG-WYTYCZNE-WSPOLDZIALANIA-CBRNE",
-    "tytul": "Wytyczne wspoldzialania sluzb interweniujacych na miejscu zdarzen w warunkach zagrozenia czynnikami CBRN-E, w tym o charakterze terrorystycznym, Zalacznik nr 1",
-    "plik": "",
-    "strona": null
+    "procedura": "Wytyczne wspoldzialania sluzb interweniujacych na miejscu zdarzen CBRN-E.",
+    "dokumenty_zrodlowe": []
   },
   {
     "id": "KARTA-ORG-ZASADY-ORGANIZOWANIA-DZIALAN-RATOWNICZYCH",
-    "tytul": "Zasady organizowania dzialan ratowniczych, Komenda Glowna Panstwowej Strazy Pozarnej, Warszawa 2013",
-    "plik": "",
-    "strona": null
+    "procedura": "Zasady organizowania dzialan ratowniczych - karta organizacyjna dla KDR.",
+    "dokumenty_zrodlowe": []
   },
   {
     "id": "POZ-EV-01",
-    "tytul": "Standardowe zasady postępowania podczas zdarzeń z samochodami z napędem elektrycznym oraz hybrydowym - KG PSP, maj 2023, wydanie II | Karta Z2 - pożar",
-    "plik": "dokumenty/pojazdy-elektryczne/SZP-samochody-elektryczne-hybrydowe-maj-2023.pdf",
-    "strona": 11
+    "procedura": "Pożar lub termiczne uszkodzenie baterii trakcyjnej EV",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-ev-szp-2023",
+        "strona": 11,
+        "sekcja": "Karta Z2 - pożar",
+        "tytul": "Standardowe zasady postępowania podczas zdarzeń z samochodami z napędem elektrycznym oraz hybrydowym",
+        "plik": "dokumenty/pojazdy-elektryczne/szp-samochody-elektryczne-hybrydowe-2023-05.pdf"
+      }
+    ]
   },
   {
     "id": "KARTA-PTASIA-GRYPA-INFORMACJE-I-ZASADY",
-    "tytul": "Wytyczne Glownego Inspektora Sanitarnego MSWiA w sprawie zjadliwej grypy ptakow typu A H5N8 dla sluzb podleglych MSWiA udzielajacych wsparcia Inspekcji Weterynaryjnej",
-    "plik": "",
-    "strona": null
+    "procedura": "Ptasia grypa H5N8 - podstawowe informacje i zasady bezpiecznej pracy/sluzby.",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-ptasia-grypa-h5n8",
+        "strona": 2,
+        "sekcja": "Informacje i zasady bezpiecznej pracy",
+        "tytul": "Wytyczne GIS MSWiA w sprawie zjadliwej grypy ptaków typu A H5N8",
+        "plik": "dokumenty/biologiczne/ptasia-grypa-h5n8-wytyczne-2017.pdf"
+      }
+    ]
   },
   {
     "id": "KARTA-PTASIA-GRYPA-NADZOR-EPIDEMIOLOGICZNY",
-    "tytul": "Wytyczne Glownego Inspektora Sanitarnego MSWiA w sprawie zjadliwej grypy ptakow typu A H5N8 dla sluzb podleglych MSWiA udzielajacych wsparcia Inspekcji Weterynaryjnej",
-    "plik": "",
-    "strona": null
+    "procedura": "Ptasia grypa H5N8 - nadzor epidemiologiczny po bezposrednim narazeniu.",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-ptasia-grypa-h5n8",
+        "strona": 4,
+        "sekcja": "Nadzór epidemiologiczny po narażeniu",
+        "tytul": "Wytyczne GIS MSWiA w sprawie zjadliwej grypy ptaków typu A H5N8",
+        "plik": "dokumenty/biologiczne/ptasia-grypa-h5n8-wytyczne-2017.pdf"
+      }
+    ]
   },
   {
     "id": "KARTA-PTASIA-GRYPA-SOI-I-DEKONTAMINACJA",
-    "tytul": "Wytyczne Glownego Inspektora Sanitarnego MSWiA w sprawie zjadliwej grypy ptakow typu A H5N8 dla sluzb podleglych MSWiA udzielajacych wsparcia Inspekcji Weterynaryjnej",
-    "plik": "",
-    "strona": null
+    "procedura": "Ptasia grypa H5N8 - srodki ochrony indywidualnej i dekontaminacja po narazeniu.",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-ptasia-grypa-h5n8",
+        "strona": 3,
+        "sekcja": "Środki ochrony indywidualnej i dekontaminacja",
+        "tytul": "Wytyczne GIS MSWiA w sprawie zjadliwej grypy ptaków typu A H5N8",
+        "plik": "dokumenty/biologiczne/ptasia-grypa-h5n8-wytyczne-2017.pdf"
+      }
+    ]
   },
   {
     "id": "WYP-EV-01",
-    "tytul": "Standardowe zasady postępowania podczas zdarzeń z samochodami z napędem elektrycznym oraz hybrydowym - KG PSP, maj 2023, wydanie II | Karta Z1 - wypadek komunikacyjny",
-    "plik": "dokumenty/pojazdy-elektryczne/SZP-samochody-elektryczne-hybrydowe-maj-2023.pdf",
-    "strona": 9
+    "procedura": "Wypadek pojazdu elektrycznego po kolizji drogowej",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-ev-szp-2023",
+        "strona": 9,
+        "sekcja": "Karta Z1 - wypadek komunikacyjny",
+        "tytul": "Standardowe zasady postępowania podczas zdarzeń z samochodami z napędem elektrycznym oraz hybrydowym",
+        "plik": "dokumenty/pojazdy-elektryczne/szp-samochody-elektryczne-hybrydowe-2023-05.pdf"
+      }
+    ]
   },
   {
     "id": "WYP-MAS-01",
-    "tytul": "Wypadek masowy z udziaĹ‚em wielu poszkodowanych i moĹĽliwym udziaĹ‚em EV",
-    "plik": "",
-    "strona": null
+    "procedura": "Wypadek masowy z udziałem wielu poszkodowanych i możliwym udziałem EV",
+    "dokumenty_zrodlowe": []
   },
   {
     "id": "ZAT-EV-01",
-    "tytul": "Standardowe zasady postępowania podczas zdarzeń z samochodami z napędem elektrycznym oraz hybrydowym - KG PSP, maj 2023, wydanie II | Karta Z3 - zatopienie samochodu w wodzie",
-    "plik": "dokumenty/pojazdy-elektryczne/SZP-samochody-elektryczne-hybrydowe-maj-2023.pdf",
-    "strona": 13
+    "procedura": "Pojazd elektryczny po zalaniu lub zatopieniu",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-ev-szp-2023",
+        "strona": 13,
+        "sekcja": "Karta Z3 - zatopienie samochodu w wodzie",
+        "tytul": "Standardowe zasady postępowania podczas zdarzeń z samochodami z napędem elektrycznym oraz hybrydowym",
+        "plik": "dokumenty/pojazdy-elektryczne/szp-samochody-elektryczne-hybrydowe-2023-05.pdf"
+      }
+    ]
   },
   {
     "id": "KARTA-ZA-CEL-ZAKRES-MONITOROWANIA",
-    "tytul": "Procedura monitorowania interwencyjnego pod katem wystepowania zlotej algi, GIOS",
-    "plik": "",
-    "strona": null
+    "procedura": "Procedura monitorowania interwencyjnego pod katem wystepowania zlotej algi - cel, zakres i zasada.",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-zlota-alga-w3-2023",
+        "strona": 4,
+        "sekcja": "Odpowiedni rozdział procedury monitorowania",
+        "tytul": "Procedura monitorowania interwencyjnego Prymnesium parvum - złotej algi",
+        "plik": "dokumenty/srodowisko/procedura-zlota-alga-wydanie-3-2023.pdf"
+      }
+    ]
   },
   {
     "id": "KARTA-ZA-CZYNNIKI-RYZYKA",
-    "tytul": "Procedura monitorowania interwencyjnego pod katem wystepowania zlotej algi, GIOS",
-    "plik": "",
-    "strona": null
+    "procedura": "Zlota alga - glowne czynniki sprzyjajace wzrostowi i toksycznosci.",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-zlota-alga-w3-2023",
+        "strona": 5,
+        "sekcja": "Odpowiedni rozdział procedury monitorowania",
+        "tytul": "Procedura monitorowania interwencyjnego Prymnesium parvum - złotej algi",
+        "plik": "dokumenty/srodowisko/procedura-zlota-alga-wydanie-3-2023.pdf"
+      }
+    ]
   },
   {
     "id": "KARTA-ZA-POSTEPOWANIE",
-    "tytul": "Procedura monitorowania interwencyjnego pod katem wystepowania zlotej algi, GIOS",
-    "plik": "",
-    "strona": null
+    "procedura": "Zlota alga - etapy postepowania po stwierdzeniu poziomu zagrozenia.",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-zlota-alga-w3-2023",
+        "strona": 8,
+        "sekcja": "Odpowiedni rozdział procedury monitorowania",
+        "tytul": "Procedura monitorowania interwencyjnego Prymnesium parvum - złotej algi",
+        "plik": "dokumenty/srodowisko/procedura-zlota-alga-wydanie-3-2023.pdf"
+      }
+    ]
   },
   {
     "id": "KARTA-ZA-POZIOMY-ALARMOWE",
-    "tytul": "Procedura monitorowania interwencyjnego pod katem wystepowania zlotej algi, GIOS",
-    "plik": "",
-    "strona": null
+    "procedura": "Zlota alga - poziomy alarmowe dla kanalow, zbiornikow, rzek i starorzeczy.",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-zlota-alga-w3-2023",
+        "strona": 7,
+        "sekcja": "Odpowiedni rozdział procedury monitorowania",
+        "tytul": "Procedura monitorowania interwencyjnego Prymnesium parvum - złotej algi",
+        "plik": "dokumenty/srodowisko/procedura-zlota-alga-wydanie-3-2023.pdf"
+      }
+    ]
   },
   {
     "id": "KARTA-ZA-WSKAZNIKI-BADANE",
-    "tytul": "Procedura monitorowania interwencyjnego pod katem wystepowania zlotej algi, GIOS",
-    "plik": "",
-    "strona": null
+    "procedura": "Zlota alga - wskazniki fizykochemiczne i biologiczne badane w wodzie i w terenie.",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-zlota-alga-w3-2023",
+        "strona": 7,
+        "sekcja": "Odpowiedni rozdział procedury monitorowania",
+        "tytul": "Procedura monitorowania interwencyjnego Prymnesium parvum - złotej algi",
+        "plik": "dokumenty/srodowisko/procedura-zlota-alga-wydanie-3-2023.pdf"
+      }
+    ]
   }
 ]

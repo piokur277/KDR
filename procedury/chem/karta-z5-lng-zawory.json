@@ -31,9 +31,11 @@
     "emisja z zaworow lng",
     "nadcisnienie lng"
   ],
-  "pelna_procedura": {
-    "tytul": "Zasady postepowania podczas zdarzen z LNG, KG PSP",
-    "plik": "",
-    "strona": null
-  }
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-lng-2025",
+      "strona": 12,
+      "sekcja": "Karta LNG"
+    }
+  ]
 }

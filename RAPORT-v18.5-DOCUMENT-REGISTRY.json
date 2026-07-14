@@ -1,0 +1,65 @@
+{
+  "version": "v18.5 DOCUMENT REGISTRY",
+  "document_count": 18,
+  "active_document_count": 17,
+  "linked_document_count": 17,
+  "linked_procedure_count": 57,
+  "unlinked_procedure_count": 13,
+  "unlinked_procedures": [
+    {
+      "id": "KARTA-ACETYLEN-Z1",
+      "procedura": "Karta Z1 - Butle poddane dzialaniu ognia/ciepla lub poddane wielokrotnym uderzeniom, szczelne lub nieszczelne."
+    },
+    {
+      "id": "KARTA-ACETYLEN-Z2",
+      "procedura": "Karta Z2 - Butle niepoddane dzialaniu ognia/ciepla lub wielokrotnym uderzeniom - nieszczelne, znajdujace sie wewnatrz obiektu."
+    },
+    {
+      "id": "KARTA-ACETYLEN-Z3",
+      "procedura": "Karta Z3 - Butle niepoddane dzialaniu ognia/ciepla lub wielokrotnym uderzeniom - nieszczelne, znajdujace sie na zewnatrz obiektu."
+    },
+    {
+      "id": "KARTA-ACETYLEN-Z4",
+      "procedura": "Karta Z4 - Butle niepoddane dzialaniu ognia/ciepla lub wielokrotnym uderzeniom - szczelne."
+    },
+    {
+      "id": "KARTA-ACETYLEN-PRZEKAZANIE",
+      "procedura": "Przekazanie miejsca zdarzenia po dzialaniach z udzialem butli z acetylenem."
+    },
+    {
+      "id": "KARTA-ACETYLEN-ROZPOZNANIE",
+      "procedura": "Rozpoznanie - butle z acetylenem."
+    },
+    {
+      "id": "KARTA-CHEM-R2-ZDARZENIA-RADIACYJNE-ZAKRES-PODSTAWOWY",
+      "procedura": "Zalacznik R2 - Dzialania podczas zdarzen radiacyjnych w zakresie podstawowym."
+    },
+    {
+      "id": "KARTA-ORG-CBRNE-DODATKOWE-USTALENIA-SZKOLENIA",
+      "procedura": "Dodatkowe ustalenia i rekomendacje szkoleniowe dla wspoldzialania przy zdarzeniach CBRN-E."
+    },
+    {
+      "id": "KARTA-ORG-DETEKTOR-MSA-ALTAIR-4X",
+      "procedura": "Detektor wielogazowy MSA Altair 4X - progi alarmowe i sygnalizacja."
+    },
+    {
+      "id": "KARTA-ORG-HCN-WARTOSCI-GRANICZNE",
+      "procedura": "HCN / Cyjanowodor - karta zagrozenia operacyjnego."
+    },
+    {
+      "id": "KARTA-ORG-WYTYCZNE-WSPOLDZIALANIA-CBRNE",
+      "procedura": "Wytyczne wspoldzialania sluzb interweniujacych na miejscu zdarzen CBRN-E."
+    },
+    {
+      "id": "KARTA-ORG-ZASADY-ORGANIZOWANIA-DZIALAN-RATOWNICZYCH",
+      "procedura": "Zasady organizowania dzialan ratowniczych - karta organizacyjna dla KDR."
+    },
+    {
+      "id": "WYP-MAS-01",
+      "procedura": "Wypadek masowy z udziałem wielu poszkodowanych i możliwym udziałem EV"
+    }
+  ],
+  "important_warning": "Dokument dotyczy cyjanku sodowego (NaCN), a nie cyjanowodoru (HCN). Nie połączono go z procedurą HCN.",
+  "validation": "OK",
+  "javascript_syntax": "OK"
+}

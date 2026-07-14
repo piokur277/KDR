@@ -32,9 +32,11 @@
     "sztab lacznosc",
     "odcinek bojowy lacznosc"
   ],
-  "pelna_procedura": {
-    "tytul": "Metodyka postepowania podczas organizacji lacznosci na potrzeby kierujacego dzialaniem ratowniczym, KG PSP, Warszawa 2016",
-    "plik": "",
-    "strona": null
-  }
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-lacznosc-kdr-2014",
+      "strona": 1,
+      "sekcja": "Materiał szkoleniowy dotyczący organizacji łączności"
+    }
+  ]
 }

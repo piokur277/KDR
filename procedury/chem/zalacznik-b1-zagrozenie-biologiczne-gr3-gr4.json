@@ -31,9 +31,11 @@
     "pis psp biologiczne",
     "odpady biologiczne psp"
   ],
-  "pelna_procedura": {
-    "tytul": "Zalacznik nr B.1. Zasady postepowania jednostek organizacyjnych PSP w przypadku podejrzenia zagrozenia chorobami szczegolnie niebezpiecznymi i wysoce zakaznymi",
-    "plik": "",
-    "strona": null
-  }
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-b1-choroby-zakazne",
+      "strona": 1,
+      "sekcja": "Załącznik B.1"
+    }
+  ]
 }

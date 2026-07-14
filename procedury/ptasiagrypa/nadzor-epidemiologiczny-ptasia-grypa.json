@@ -40,9 +40,11 @@
     "objawy po kontakcie z ptasia grypa",
     "postepowanie po narazeniu h5n8"
   ],
-  "pelna_procedura": {
-    "tytul": "Wytyczne Glownego Inspektora Sanitarnego MSWiA w sprawie zjadliwej grypy ptakow typu A H5N8 dla sluzb podleglych MSWiA udzielajacych wsparcia Inspekcji Weterynaryjnej",
-    "plik": "",
-    "strona": null
-  }
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-ptasia-grypa-h5n8",
+      "strona": 4,
+      "sekcja": "Nadzór epidemiologiczny po narażeniu"
+    }
+  ]
 }

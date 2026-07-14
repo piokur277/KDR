@@ -29,9 +29,11 @@
     "miejscowe zagrozenie fotowoltaika",
     "mechaniczne uszkodzenie pv"
   ],
-  "pelna_procedura": {
-    "tytul": "Standardowe zasady postepowania podczas zdarzen w obrebie instalacji fotowoltaicznych, KG PSP",
-    "plik": "",
-    "strona": null
-  }
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-pv-szp-2022",
+      "strona": 14,
+      "sekcja": "Odpowiednia część SZP instalacji PV"
+    }
+  ]
 }

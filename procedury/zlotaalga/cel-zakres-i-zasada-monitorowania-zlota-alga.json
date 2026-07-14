@@ -25,9 +25,11 @@
     "zakres procedury zlota alga",
     "zasada metody zlota alga"
   ],
-  "pelna_procedura": {
-    "tytul": "Procedura monitorowania interwencyjnego pod katem wystepowania zlotej algi, GIOS",
-    "plik": "",
-    "strona": null
-  }
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-zlota-alga-w3-2023",
+      "strona": 4,
+      "sekcja": "Odpowiedni rozdział procedury monitorowania"
+    }
+  ]
 }

@@ -25,9 +25,11 @@
     "zlota alga rzeki starorzecza",
     "zlota alga kanaly zbiorniki"
   ],
-  "pelna_procedura": {
-    "tytul": "Procedura monitorowania interwencyjnego pod katem wystepowania zlotej algi, GIOS",
-    "plik": "",
-    "strona": null
-  }
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-zlota-alga-w3-2023",
+      "strona": 7,
+      "sekcja": "Odpowiedni rozdział procedury monitorowania"
+    }
+  ]
 }

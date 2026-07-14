@@ -43,9 +43,11 @@
     "h314 amoniak",
     "h400"
   ],
-  "pelna_procedura": {
-    "tytul": "CIOP-PIB, Baza niebezpiecznych substancji chemicznych, Amoniak",
-    "plik": "",
-    "strona": null
-  }
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-sds-amoniak-4-0",
+      "strona": 1,
+      "sekcja": "Karta charakterystyki NH3"
+    }
+  ]
 }

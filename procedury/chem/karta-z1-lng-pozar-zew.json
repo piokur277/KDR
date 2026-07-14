@@ -34,9 +34,11 @@
     "chlodzenie cysterny lng",
     "skroplony gaz ziemny"
   ],
-  "pelna_procedura": {
-    "tytul": "Zasady postepowania podczas zdarzen z LNG, KG PSP",
-    "plik": "",
-    "strona": null
-  }
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-lng-2025",
+      "strona": 5,
+      "sekcja": "Karta LNG"
+    }
+  ]
 }

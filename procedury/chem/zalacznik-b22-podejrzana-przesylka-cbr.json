@@ -30,9 +30,21 @@
     "algorytm b22",
     "podejrzana paczka"
   ],
-  "pelna_procedura": {
-    "tytul": "Zalacznik nr B.2.2. Algorytm postepowania i wspoldzialania w przypadku otrzymania niezidentyfikowanej przesylki, mogacej stanowic zagrozenie chemiczne, biologiczne lub radiacyjne",
-    "plik": "",
-    "strona": null
-  }
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-b22-przesylka",
+      "strona": 1,
+      "sekcja": "Algorytm B.2.2"
+    },
+    {
+      "dokument_id": "doc-b2-przesylka",
+      "strona": 1,
+      "sekcja": "Zasady działań PSP - Załącznik B.2"
+    },
+    {
+      "dokument_id": "doc-b21-przesylka",
+      "strona": 1,
+      "sekcja": "Procedura dla instytucji - Załącznik B.2.1"
+    }
+  ]
 }

@@ -1,4 +1,4 @@
-const CACHE_NAME = "kdr-ai-v18-4-3";
+const CACHE_NAME = "kdr-ai-v18-5";
 
 const APP_SHELL = [
   "./",
@@ -32,7 +32,10 @@ self.addEventListener("fetch", event => {
 
   if (request.method !== "GET") return;
 
-  if (url.pathname.endsWith("/procedury/baza.json")) {
+  if (
+    url.pathname.endsWith("/procedury/baza.json") ||
+    url.pathname.endsWith("/dokumenty/rejestr-dokumentow.json")
+  ) {
     event.respondWith(
       fetch(request)
         .then(response => {

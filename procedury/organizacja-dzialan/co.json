@@ -42,9 +42,11 @@
     "h331 tlenek wegla",
     "h372"
   ],
-  "pelna_procedura": {
-    "tytul": "CIOP-PIB, Baza niebezpiecznych substancji chemicznych, Tlenek wegla",
-    "plik": "",
-    "strona": null
-  }
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-sds-co-2-0",
+      "strona": 1,
+      "sekcja": "Karta charakterystyki CO"
+    }
+  ]
 }

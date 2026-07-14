@@ -23,9 +23,11 @@
     "katastrofa budowlana rozpoznanie",
     "zawalony budynek rozpoznanie"
   ],
-  "pelna_procedura": {
-    "tytul": "Standardowe zasady postepowania podczas katastrofy budowlanej po wystapieniu katastrofy budowlanej, KG PSP",
-    "plik": "",
-    "strona": null
-  }
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-katastrofa-budowlana-2020",
+      "strona": 2,
+      "sekcja": "Odpowiednia karta SZP katastrofy budowlanej"
+    }
+  ]
 }

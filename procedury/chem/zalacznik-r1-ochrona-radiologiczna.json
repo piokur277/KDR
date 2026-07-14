@@ -33,9 +33,11 @@
     "skazenie promieniotworcze",
     "moc dawki"
   ],
-  "pelna_procedura": {
-    "tytul": "Zalacznik nr R.1. Ochrona radiologiczna oraz dzialania podczas zdarzen radiacyjnych - podstawowe informacje",
-    "plik": "",
-    "strona": null
-  }
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-r1-radiologia",
+      "strona": 1,
+      "sekcja": "Ochrona radiologiczna - podstawowe informacje"
+    }
+  ]
 }

@@ -24,9 +24,11 @@
     "procedura 4 kpp",
     "aed dziecko"
   ],
-  "pelna_procedura": {
-    "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 4",
-    "plik": "",
-    "strona": null
-  }
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-kpp-procedury",
+      "strona": 5,
+      "sekcja": "Procedura KPP - strona 5"
+    }
+  ]
 }

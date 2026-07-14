@@ -33,9 +33,11 @@
     "wypadek tesli",
     "uszkodzona bateria trakcyjna po kolizji"
   ],
-  "pelna_procedura": {
-    "tytul": "Standardowe zasady postępowania podczas zdarzeń z samochodami z napędem elektrycznym oraz hybrydowym - KG PSP, maj 2023, wydanie II | Karta Z1 - wypadek komunikacyjny",
-    "plik": "dokumenty/pojazdy-elektryczne/SZP-samochody-elektryczne-hybrydowe-maj-2023.pdf",
-    "strona": 9
-  }
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-ev-szp-2023",
+      "strona": 9,
+      "sekcja": "Karta Z1 - wypadek komunikacyjny"
+    }
+  ]
 }
