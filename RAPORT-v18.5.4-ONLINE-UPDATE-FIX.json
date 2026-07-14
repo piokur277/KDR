@@ -1,0 +1,13 @@
+{
+  "version": "v18.5.4 ONLINE UPDATE FIX",
+  "problem": "Kod próbował użyć FALLBACK_URL i MANIFEST_URL, ale definicje tych stałych zostały omyłkowo usunięte. Powodowało to pomarańczowy komunikat 'Aktualizacja online niedostępna'.",
+  "fix": {
+    "FALLBACK_URL": "procedury/baza.json",
+    "MANIFEST_URL": "procedury/manifest.json",
+    "service_worker_cache": "kdr-ai-v18-5-4"
+  },
+  "procedures": 70,
+  "documents": 20,
+  "previous_changes_preserved": true,
+  "javascript_syntax": "OK"
+}
