@@ -1,5 +1,5 @@
 {
-  "wersja_rejestru": "1.0",
+  "wersja_rejestru": "1.1",
   "zaktualizowano": "2026-07-14",
   "dokumenty": {
     "doc-ev-szp-2023": {
@@ -170,19 +170,6 @@
       "liczba_stron": 13,
       "sha256": "60544e4d218afb29a940dc8657213c4836cfb824fde05083b57432f5002cba62"
     },
-    "doc-sds-cyjanek-sodowy-10-2": {
-      "tytul": "Karta charakterystyki - Cyjanek sodowy czysty",
-      "wersja": "10.2",
-      "data_wydania": "2025-05-19",
-      "rodzaj": "Karta charakterystyki",
-      "plik": "dokumenty/chemiczne/sds-cyjanek-sodowy-v10-2-2025.pdf",
-      "status_techniczny": "niepowiazany",
-      "uwagi": "Dokument dotyczy cyjanku sodowego (NaCN), a nie cyjanowodoru (HCN). Nie połączono go z procedurą HCN.",
-      "id": "doc-sds-cyjanek-sodowy-10-2",
-      "aktualnosc_merytoryczna": "wedlug_przekazanego_pliku",
-      "liczba_stron": 16,
-      "sha256": "3a7cb74554f38d7d35d7f30f8c494bb7662fa2a2dfd3723e9c9cc7b894b6ea8a"
-    },
     "doc-lacznosc-kdr-2014": {
       "tytul": "Organizacja łączności na potrzeby KDR - materiał szkoleniowy",
       "wersja": "Państwowa Straż Pożarna nr 4/2014",
@@ -218,6 +205,19 @@
       "aktualnosc_merytoryczna": "wedlug_przekazanego_pliku",
       "liczba_stron": 11,
       "sha256": "7ba02b8e955fef15c439dd8d5796eacad4729e866edcaf315e29a24c4edfaf9b"
+    },
+    "doc-sds-hcn-ekos-2006": {
+      "tytul": "Karta charakterystyki niebezpiecznej substancji - Cyjanowodór",
+      "wersja": "Wydanie z 21.08.2006 - wymaga weryfikacji aktualności",
+      "data_wydania": "2006-08-21",
+      "rodzaj": "Karta charakterystyki - dokument archiwalny",
+      "plik": "dokumenty/chemiczne/sds-cyjanowodor-ekos-2006.pdf",
+      "id": "doc-sds-hcn-ekos-2006",
+      "status_techniczny": "aktywny",
+      "aktualnosc_merytoryczna": "wymaga_weryfikacji_dokument_z_2006_roku",
+      "uwagi": "Dokument dotyczy cyjanowodoru HCN, CAS 74-90-8. Zawiera odwołania do przepisów i oznakowania obowiązujących w 2006 r.; przed użyciem operacyjnym należy zweryfikować aktualność.",
+      "liczba_stron": 8,
+      "sha256": "37bb20804a55bc6c4388522f6bf10acd7993b1b1b6938a6d34b0340653c740b6"
     }
   }
 }

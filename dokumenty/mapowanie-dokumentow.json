@@ -646,7 +646,15 @@
   {
     "id": "KARTA-ORG-HCN-WARTOSCI-GRANICZNE",
     "procedura": "HCN / Cyjanowodor - karta zagrozenia operacyjnego.",
-    "dokumenty_zrodlowe": []
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-sds-hcn-ekos-2006",
+        "strona": 1,
+        "sekcja": "Karta charakterystyki cyjanowodoru - identyfikacja, zagrożenia i pierwsza pomoc",
+        "tytul": "Karta charakterystyki niebezpiecznej substancji - Cyjanowodór",
+        "plik": "dokumenty/chemiczne/sds-cyjanowodor-ekos-2006.pdf"
+      }
+    ]
   },
   {
     "id": "KARTA-ORG-METODYKA-ORGANIZACJI-LACZNOSCI-KDR",

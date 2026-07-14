@@ -1,12 +1,10 @@
 {
-  "generated_at": "2026-07-14T15:39:45.896Z",
-  "registry_version": "1.0",
+  "generated_at": "2026-07-14T17:59:27.268Z",
+  "registry_version": "1.1",
   "document_count": 18,
-  "active_document_count": 17,
-  "linked_document_count": 17,
-  "unlinked_documents": [
-    "doc-sds-cyjanek-sodowy-10-2"
-  ],
+  "active_document_count": 18,
+  "linked_document_count": 18,
+  "unlinked_documents": [],
   "documents": [
     {
       "id": "doc-ev-szp-2023",
@@ -375,14 +373,6 @@
       ]
     },
     {
-      "id": "doc-sds-cyjanek-sodowy-10-2",
-      "tytul": "Karta charakterystyki - Cyjanek sodowy czysty",
-      "status_techniczny": "niepowiazany",
-      "liczba_stron": 16,
-      "liczba_powiazan": 0,
-      "powiazania": []
-    },
-    {
       "id": "doc-lacznosc-kdr-2014",
       "tytul": "Organizacja łączności na potrzeby KDR - materiał szkoleniowy",
       "status_techniczny": "aktywny",
@@ -461,6 +451,20 @@
           "procedure_id": "KARTA-ZA-WSKAZNIKI-BADANE",
           "strona": 7,
           "sekcja": "Odpowiedni rozdział procedury monitorowania"
+        }
+      ]
+    },
+    {
+      "id": "doc-sds-hcn-ekos-2006",
+      "tytul": "Karta charakterystyki niebezpiecznej substancji - Cyjanowodór",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 8,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-ORG-HCN-WARTOSCI-GRANICZNE",
+          "strona": 1,
+          "sekcja": "Karta charakterystyki cyjanowodoru - identyfikacja, zagrożenia i pierwsza pomoc"
         }
       ]
     }

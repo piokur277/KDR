@@ -1,0 +1,23 @@
+{
+  "version": "v18.5.2 DOC LINKS + BACK",
+  "procedures": 70,
+  "document_registry_entries": 18,
+  "repaired_document_links": [
+    "B1 - choroby szczególnie niebezpieczne i zakaźne",
+    "B2/B2.1/B2.2 - niezidentyfikowana przesyłka",
+    "R1 - ochrona radiologiczna",
+    "Amoniak NH3",
+    "Chlorowodór HCl"
+  ],
+  "missing_source_pdfs": [
+    "Acetylen - brak odpowiedniego PDF w przekazanym zestawie",
+    "R2 - brak Załącznika R.2 w przekazanym zestawie"
+  ],
+  "ui_changes": [
+    "Przycisk Powrót jest widoczny obok przycisku Rozkaz po otwarciu wyniku.",
+    "Powrót prowadzi zawsze do głównego okna.",
+    "Powiązania dokumentów nie są usuwane przez starszą bazę z cache lub GitHub Pages."
+  ],
+  "validation": "OK",
+  "javascript_syntax": "OK"
+}

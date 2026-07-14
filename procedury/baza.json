@@ -2016,7 +2016,14 @@
       "tytul": "CIOP-PIB, Baza niebezpiecznych substancji chemicznych, Cyjanowodor",
       "plik": "",
       "strona": null
-    }
+    },
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-sds-hcn-ekos-2006",
+        "strona": 1,
+        "sekcja": "Karta charakterystyki cyjanowodoru - identyfikacja, zagrożenia i pierwsza pomoc"
+      }
+    ]
   },
   {
     "id": "KARTA-ORG-METODYKA-ORGANIZACJI-LACZNOSCI-KDR",
