@@ -1,0 +1,57 @@
+{
+  "version": "v18.4.3 ENCODING FIX",
+  "cause": "Tekst UTF-8 został wcześniej błędnie zinterpretowany jako Windows-1250 (mojibake).",
+  "procedure_count": 70,
+  "changed_file_count": 11,
+  "changed_string_count": 14,
+  "changed_files": [
+    {
+      "file": "procedury/budowlane/organizacja-dzialan-katastrofa-budowlana.json",
+      "changed_strings": 1
+    },
+    {
+      "file": "procedury/budowlane/priorytety-typow-zawalen-katastrofa-budowlana.json",
+      "changed_strings": 1
+    },
+    {
+      "file": "procedury/budowlane/zabezpieczenie-logistyczne-katastrofa-budowlana.json",
+      "changed_strings": 1
+    },
+    {
+      "file": "procedury/chem/karta-z4-lng-wyciek.json",
+      "changed_strings": 1
+    },
+    {
+      "file": "procedury/chem/zalacznik-b1-zagrozenie-biologiczne-gr3-gr4.json",
+      "changed_strings": 1
+    },
+    {
+      "file": "procedury/dezaktywacja-ev.json",
+      "changed_strings": 1
+    },
+    {
+      "file": "procedury/organizacja-dzialan/wytyczne-wspoldzialania-cbrne.json",
+      "changed_strings": 1
+    },
+    {
+      "file": "procedury/pozar-ev.json",
+      "changed_strings": 2
+    },
+    {
+      "file": "procedury/wypadek-ev.json",
+      "changed_strings": 1
+    },
+    {
+      "file": "procedury/wypadek-masowy.json",
+      "changed_strings": 3
+    },
+    {
+      "file": "procedury/zatopienie-ev.json",
+      "changed_strings": 1
+    }
+  ],
+  "remaining_mojibake_strings": 0,
+  "javascript_syntax": "OK",
+  "database_validation": "OK",
+  "content_change_scope": "Naprawiono wyłącznie kodowanie znaków. Nie zmieniano merytorycznej treści procedur."
+}
