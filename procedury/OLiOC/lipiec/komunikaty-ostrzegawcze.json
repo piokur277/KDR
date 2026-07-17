@@ -1,0 +1,39 @@
+{
+  "id": "KARTA-OLIOC-LIPIEC-02-KOMUNIKATY_OSTRZEGAWCZE",
+  "kategoria": "olioc",
+  "miesiac_akademii": "lipiec",
+  "grupa_docelowa": "obywatel",
+  "status_zrodla": "oficjalne",
+  "data_aktualizacji": "2026-07-17",
+  "data_weryfikacji_zrodel": "2026-07-17",
+  "zrodlo": "Poradnik bezpieczeństwa - Sygnały alarmowe i komunikaty ostrzegawcze",
+  "slowo_kluczowe": "olioc alert rcb i rso",
+  "keywords": [
+    "komunikat ostrzegawczy na telefon",
+    "regionalny system ostrzegania olioc",
+    "jak reagować na alert rcb"
+  ],
+  "prefix": "OLiOC - lipiec: Alert RCB, RSO i komunikaty ostrzegawcze.",
+  "content": "1. Przeczytaj cały komunikat: rodzaj zagrożenia, obszar, czas i wymagane działanie.\n2. Sprawdź, czy komunikat dotyczy miejsca, w którym jesteś lub do którego zmierzasz.\n3. Wykonaj polecenia bez zwłoki, zwłaszcza dotyczące ewakuacji, pozostania w budynku lub zabezpieczenia mienia.\n4. Przekaż informację domownikom i osobom, które mogą nie mieć telefonu lub dostępu do mediów.\n5. Nie odpowiadaj na Alert RCB i nie klikaj linków z nieznanych wiadomości podszywających się pod służby.\n6. Aktualizacje sytuacji sprawdzaj w oficjalnych kanałach rządowych, samorządowych i służb.",
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "Akademia OLiOC lipiec",
+    "Alert RCB",
+    "RSO",
+    "komunikaty ostrzegawcze"
+  ],
+  "aliasy": [
+    "komunikat ostrzegawczy na telefon",
+    "regionalny system ostrzegania olioc",
+    "jak reagować na alert rcb"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "src-poradnik-alarmy",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    }
+  ]
+}

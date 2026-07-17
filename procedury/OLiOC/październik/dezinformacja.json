@@ -1,0 +1,43 @@
+{
+  "id": "KARTA-OLIOC-PAŹDZIERNIK-01-DEZINFORMACJA",
+  "kategoria": "olioc",
+  "miesiac_akademii": "październik",
+  "grupa_docelowa": "obywatel",
+  "status_zrodla": "oficjalne",
+  "data_aktualizacji": "2026-07-17",
+  "data_weryfikacji_zrodel": "2026-07-17",
+  "zrodlo": "Akademia OLiOC - program „jeden miesiąc - jeden temat”; Poradnik bezpieczeństwa - Zagrożenia cyfrowe",
+  "slowo_kluczowe": "olioc jak rozpoznać dezinformację",
+  "keywords": [
+    "fałszywe informacje podczas kryzysu",
+    "dezinformacja obywatel zasady",
+    "nie rozpowszechniaj niesprawdzonych wiadomości"
+  ],
+  "prefix": "OLiOC - październik: rozpoznawanie dezinformacji.",
+  "content": "1. Dezinformacja to celowo rozpowszechniana treść fałszywa lub zmanipulowana.\n2. Zatrzymaj się, gdy wiadomość wywołuje silny strach, złość albo wymusza natychmiastowe udostępnienie.\n3. Sprawdź autora, adres strony, datę, pełny kontekst i potwierdzenie w oficjalnych źródłach.\n4. Oddziel fakt od komentarza, opinii, starego zdjęcia i materiału wyrwanego z innego zdarzenia.\n5. Nie publikuj informacji o ruchu wojska ani lokalizacji ważnych obiektów i działań służb.\n6. DO ZAPAMIĘTANIA: brak udostępnienia niesprawdzonej wiadomości jest realnym działaniem na rzecz bezpieczeństwa.",
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "Akademia OLiOC październik",
+    "dezinformacja",
+    "bezpieczeństwo informacyjne"
+  ],
+  "aliasy": [
+    "fałszywe informacje podczas kryzysu",
+    "dezinformacja obywatel zasady",
+    "nie rozpowszechniaj niesprawdzonych wiadomości"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "src-olioc-akademia",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    },
+    {
+      "dokument_id": "src-poradnik-cyfrowe",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    }
+  ]
+}

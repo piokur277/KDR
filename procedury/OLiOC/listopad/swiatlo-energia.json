@@ -1,0 +1,39 @@
+{
+  "id": "KARTA-OLIOC-LISTOPAD-02-SWIATLO_ENERGIA",
+  "kategoria": "olioc",
+  "miesiac_akademii": "listopad",
+  "grupa_docelowa": "obywatel",
+  "status_zrodla": "oficjalne",
+  "data_aktualizacji": "2026-07-17",
+  "data_weryfikacji_zrodel": "2026-07-17",
+  "zrodlo": "Poradnik bezpieczeństwa - Długotrwały brak prądu (blackout)",
+  "slowo_kluczowe": "olioc oświetlenie awaryjne i powerbank",
+  "keywords": [
+    "latarki baterie na blackout",
+    "zapasowe źródło światła kryzys",
+    "ładowanie telefonu bez prądu"
+  ],
+  "prefix": "OLiOC - listopad: oświetlenie, baterie i awaryjne źródła energii.",
+  "content": "1. Przygotuj latarki ręczne i czołowe, zapas baterii oraz radio bateryjne lub na korbkę.\n2. Naładuj powerbanki i okresowo kontroluj ich stan.\n3. Ustal kolejność zasilania: urządzenia medyczne, łączność i podstawowe oświetlenie.\n4. Nie przeciążaj listew, przedłużaczy ani awaryjnego źródła zasilania.\n5. Ogranicz jasność ekranu, wyłącz transmisję danych i zbędne aplikacje.\n6. Nie używaj świec bez nadzoru; trzymaj źródła ognia z dala od materiałów palnych i dzieci.",
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "Akademia OLiOC listopad",
+    "oświetlenie awaryjne",
+    "powerbank",
+    "baterie"
+  ],
+  "aliasy": [
+    "latarki baterie na blackout",
+    "zapasowe źródło światła kryzys",
+    "ładowanie telefonu bez prądu"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "src-poradnik-blackout",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    }
+  ]
+}

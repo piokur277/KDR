@@ -1,4 +1,4 @@
-const CACHE_NAME = "kdr-ai-v18-6";
+const CACHE_NAME = "kdr-ai-v19-0-olioc";
 
 const APP_SHELL = [
   "./",

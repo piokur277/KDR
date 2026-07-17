@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-17T17:12:52.388Z",
-  "registry_version": "1.3",
-  "document_count": 21,
-  "active_document_count": 21,
-  "linked_document_count": 21,
+  "generated_at": "2026-07-17T17:33:58.140Z",
+  "registry_version": "2.0",
+  "document_count": 41,
+  "active_document_count": 41,
+  "linked_document_count": 41,
   "unlinked_documents": [],
   "documents": [
     {
@@ -532,6 +532,616 @@
           "procedure_id": "KARTA-KPP-SCHEMAT-BADANIA-ABCDE",
           "strona": 1,
           "sekcja": "Schemat badania ABCDE - strony 1-2"
+        }
+      ]
+    },
+    {
+      "id": "src-olioc-akademia",
+      "tytul": "Akademia OLiOC - program „jeden miesiąc - jeden temat”",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 1,
+      "liczba_powiazan": 9,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-OLIOC-GRUDZIEŃ-01-ZAPASY_72H",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-LIPIEC-01-SYGNALY_ALARMOWE",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-LISTOPAD-01-BLACKOUT_PIERWSZE_DZIALANIA",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-MAJ-05-OBSZARY_PRZYGOTOWANIA",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-MAJ-01-PODSTAWY_SYSTEMU",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-MAJ-02-ROLA_OBYWATELA",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-PAŹDZIERNIK-01-DEZINFORMACJA",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-SIERPIEŃ-01-PLECAK_EWAKUACYJNY",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-WRZESIEŃ-01-DOM_SZKOLA_PRACA",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        }
+      ]
+    },
+    {
+      "id": "src-olioc-ustawa",
+      "tytul": "Ustawa o ochronie ludności i obronie cywilnej - informacje MSWiA",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 1,
+      "liczba_powiazan": 2,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-OLIOC-MAJ-03-INSTYTUCJE_I_SLUZBY",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-MAJ-01-PODSTAWY_SYSTEMU",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        }
+      ]
+    },
+    {
+      "id": "src-poradnik-wspolnie",
+      "tytul": "Poradnik bezpieczeństwa - Wspólnie dbamy o nasze bezpieczeństwo",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 1,
+      "liczba_powiazan": 4,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-OLIOC-MAJ-03-INSTYTUCJE_I_SLUZBY",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-MAJ-01-PODSTAWY_SYSTEMU",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-MAJ-02-ROLA_OBYWATELA",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-MAJ-04-SIEC_WSPARCIA",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        }
+      ]
+    },
+    {
+      "id": "src-poradnik-przygotuj-siebie",
+      "tytul": "Poradnik bezpieczeństwa - Przygotuj siebie i najbliższych",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 1,
+      "liczba_powiazan": 2,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-OLIOC-GRUDZIEŃ-04-LEKI_HIGIENA",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-MAJ-05-OBSZARY_PRZYGOTOWANIA",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        }
+      ]
+    },
+    {
+      "id": "src-poradnik-szczegolna-pomoc",
+      "tytul": "Poradnik bezpieczeństwa - Osoby potrzebujące szczególnej pomocy",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 1,
+      "liczba_powiazan": 5,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-OLIOC-GRUDZIEŃ-05-SZCZEGOLNE_POTRZEBY_ZAPASY",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-MAJ-04-SIEC_WSPARCIA",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-SIERPIEŃ-04-EWAKUACJA_SZCZEGOLNE_POTRZEBY",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-WRZESIEŃ-08-KONTAKT_I_ZBIORKA",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-WRZESIEŃ-07-RODZINNY_PLAN",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        }
+      ]
+    },
+    {
+      "id": "src-poradnik-zwierzeta",
+      "tytul": "Poradnik bezpieczeństwa - Zadbaj o zwierzęta",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 1,
+      "liczba_powiazan": 2,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-OLIOC-GRUDZIEŃ-05-SZCZEGOLNE_POTRZEBY_ZAPASY",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-SIERPIEŃ-05-ZWIERZETA_EWAKUACJA",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        }
+      ]
+    },
+    {
+      "id": "src-poradnik-otoczenie",
+      "tytul": "Poradnik bezpieczeństwa - Przygotuj swoje otoczenie",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 1,
+      "liczba_powiazan": 6,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-OLIOC-WRZESIEŃ-04-AED_OBYWATEL",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-WRZESIEŃ-06-CZUJKI",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-WRZESIEŃ-01-DOM_SZKOLA_PRACA",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-WRZESIEŃ-02-DROGI_EWAKUACYJNE",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-WRZESIEŃ-03-GASNICA_KOC",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-WRZESIEŃ-05-ODCIECIE_MEDIOW",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        }
+      ]
+    },
+    {
+      "id": "src-poradnik-alarmy",
+      "tytul": "Poradnik bezpieczeństwa - Sygnały alarmowe i komunikaty ostrzegawcze",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 1,
+      "liczba_powiazan": 5,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-OLIOC-LIPIEC-02-KOMUNIKATY_OSTRZEGAWCZE",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-LIPIEC-04-OFICJALNE_ZRODLA",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-LIPIEC-03-REAKCJA_PO_ALARMIE",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-LIPIEC-01-SYGNALY_ALARMOWE",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-PAŹDZIERNIK-02-WERYFIKACJA_INFORMACJI",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        }
+      ]
+    },
+    {
+      "id": "src-poradnik-ewakuacja",
+      "tytul": "Poradnik bezpieczeństwa - Ewakuacja",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 1,
+      "liczba_powiazan": 6,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-OLIOC-SIERPIEŃ-03-EWAKUACJA_RODZINY",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-SIERPIEŃ-04-EWAKUACJA_SZCZEGOLNE_POTRZEBY",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-SIERPIEŃ-01-PLECAK_EWAKUACYJNY",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-SIERPIEŃ-02-PRZYGOTOWANIE_EWAKUACJI",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-SIERPIEŃ-05-ZWIERZETA_EWAKUACJA",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-WRZESIEŃ-05-ODCIECIE_MEDIOW",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        }
+      ]
+    },
+    {
+      "id": "src-poradnik-schronienia",
+      "tytul": "Poradnik bezpieczeństwa - Schronienia",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 1,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-OLIOC-SIERPIEŃ-06-SCHRONIENIA",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        }
+      ]
+    },
+    {
+      "id": "src-poradnik-pozar",
+      "tytul": "Poradnik bezpieczeństwa - Pożar",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 1,
+      "liczba_powiazan": 3,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-OLIOC-WRZESIEŃ-02-DROGI_EWAKUACYJNE",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-WRZESIEŃ-03-GASNICA_KOC",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-WRZESIEŃ-05-ODCIECIE_MEDIOW",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        }
+      ]
+    },
+    {
+      "id": "src-poradnik-blackout",
+      "tytul": "Poradnik bezpieczeństwa - Długotrwały brak prądu (blackout)",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 1,
+      "liczba_powiazan": 11,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-OLIOC-GRUDZIEŃ-06-ROTACJA_ZAPASOW",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-GRUDZIEŃ-02-ZAPAS_WODY",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-GRUDZIEŃ-03-ZAPAS_ZYWNOSCI",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-GRUDZIEŃ-01-ZAPASY_72H",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-LISTOPAD-07-AGREGAT",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-LISTOPAD-01-BLACKOUT_PIERWSZE_DZIALANIA",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-LISTOPAD-05-BRAK_LACZNOSCI",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-LISTOPAD-03-BRAK_OGRZEWANIA_CZAD",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-LISTOPAD-04-BRAK_WODY",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-LISTOPAD-02-SWIATLO_ENERGIA",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-LISTOPAD-06-ZYWNOSC_BEZ_PRADU",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        }
+      ]
+    },
+    {
+      "id": "src-poradnik-cyfrowe",
+      "tytul": "Poradnik bezpieczeństwa - Zagrożenia cyfrowe",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 1,
+      "liczba_powiazan": 6,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-OLIOC-LIPIEC-04-OFICJALNE_ZRODLA",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-PAŹDZIERNIK-01-DEZINFORMACJA",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-PAŹDZIERNIK-05-KOPIE_I_ZGLASZANIE",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-PAŹDZIERNIK-03-PHISHING_FALSZYWE_ALERTY",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-PAŹDZIERNIK-04-TELEFON_KONTA",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-PAŹDZIERNIK-02-WERYFIKACJA_INFORMACJI",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        }
+      ]
+    },
+    {
+      "id": "src-poradnik-higiena",
+      "tytul": "Poradnik bezpieczeństwa - Higiena w kryzysie",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 1,
+      "liczba_powiazan": 2,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-OLIOC-GRUDZIEŃ-04-LEKI_HIGIENA",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-LISTOPAD-04-BRAK_WODY",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        }
+      ]
+    },
+    {
+      "id": "src-poradnik-plan",
+      "tytul": "Poradnik bezpieczeństwa - Plan na kryzys",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 1,
+      "liczba_powiazan": 15,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-OLIOC-GRUDZIEŃ-04-LEKI_HIGIENA",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-GRUDZIEŃ-06-ROTACJA_ZAPASOW",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-GRUDZIEŃ-02-ZAPAS_WODY",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-GRUDZIEŃ-03-ZAPAS_ZYWNOSCI",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-GRUDZIEŃ-01-ZAPASY_72H",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-LIPIEC-03-REAKCJA_PO_ALARMIE",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-LISTOPAD-05-BRAK_LACZNOSCI",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-MAJ-05-OBSZARY_PRZYGOTOWANIA",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-MAJ-02-ROLA_OBYWATELA",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-MAJ-04-SIEC_WSPARCIA",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-SIERPIEŃ-01-PLECAK_EWAKUACYJNY",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-SIERPIEŃ-02-PRZYGOTOWANIE_EWAKUACJI",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-SIERPIEŃ-06-SCHRONIENIA",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-WRZESIEŃ-08-KONTAKT_I_ZBIORKA",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-WRZESIEŃ-07-RODZINNY_PLAN",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        }
+      ]
+    },
+    {
+      "id": "src-poradnik-pierwsza-pomoc",
+      "tytul": "Poradnik bezpieczeństwa - Pierwsza pomoc i AED",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 1,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-OLIOC-WRZESIEŃ-04-AED_OBYWATEL",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        }
+      ]
+    },
+    {
+      "id": "src-kgpsp-czujki-2026",
+      "tytul": "KG PSP - Obowiązek instalowania autonomicznych czujek dymu i czadu",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 1,
+      "liczba_powiazan": 2,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-OLIOC-LISTOPAD-03-BRAK_OGRZEWANIA_CZAD",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-WRZESIEŃ-06-CZUJKI",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        }
+      ]
+    },
+    {
+      "id": "src-gis-zywnosc-blackout-2026",
+      "tytul": "GIS - Bezpieczeństwo żywności podczas przerwy w dostawie prądu",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 1,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-OLIOC-LISTOPAD-06-ZYWNOSC_BEZ_PRADU",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        }
+      ]
+    },
+    {
+      "id": "src-psp-agregat-na-zewnatrz",
+      "tytul": "PSP - bezpieczeństwo podczas korzystania z agregatu prądotwórczego",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 1,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-OLIOC-LISTOPAD-07-AGREGAT",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        }
+      ]
+    },
+    {
+      "id": "src-cert-zglos-incydent",
+      "tytul": "CERT Polska - zgłoszenie incydentu",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 1,
+      "liczba_powiazan": 2,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-OLIOC-PAŹDZIERNIK-05-KOPIE_I_ZGLASZANIE",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-PAŹDZIERNIK-03-PHISHING_FALSZYWE_ALERTY",
+          "strona": 1,
+          "sekcja": "Oficjalne źródło internetowe"
         }
       ]
     }

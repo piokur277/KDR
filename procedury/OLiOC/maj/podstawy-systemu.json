@@ -1,0 +1,48 @@
+{
+  "id": "KARTA-OLIOC-MAJ-01-PODSTAWY_SYSTEMU",
+  "kategoria": "olioc",
+  "miesiac_akademii": "maj",
+  "grupa_docelowa": "obywatel",
+  "status_zrodla": "oficjalne",
+  "data_aktualizacji": "2026-07-17",
+  "data_weryfikacji_zrodel": "2026-07-17",
+  "zrodlo": "Akademia OLiOC - program „jeden miesiąc - jeden temat”; Ustawa o ochronie ludności i obronie cywilnej - informacje MSWiA; Poradnik bezpieczeństwa - Wspólnie dbamy o nasze bezpieczeństwo",
+  "slowo_kluczowe": "olioc czym jest ochrona ludności",
+  "keywords": [
+    "różnica ochrona ludności obrona cywilna",
+    "podstawy systemu olioc",
+    "ochrona ludności w czasie pokoju i wojny"
+  ],
+  "prefix": "OLiOC - maj: czym są ochrona ludności i obrona cywilna.",
+  "content": "1. CEL: zrozumieć, kto i w jakim celu organizuje ochronę ludności.\n2. Ochrona ludności działa w czasie pokoju i służy ochronie życia, zdrowia, mienia, infrastruktury, środowiska i zwierząt.\n3. Po ogłoszeniu stanu wojennego i w czasie wojny system ochrony ludności przekształca się w obronę cywilną.\n4. Obrona cywilna ma chronić ludność cywilną przed skutkami działań zbrojnych; nie jest częścią Sił Zbrojnych.\n5. System opiera się na administracji, PSP i OSP, ratownictwie medycznym, policji, zarządzaniu kryzysowym, podmiotach leczniczych i organizacjach społecznych.\n6. DO ZAPAMIĘTANIA: przygotowany obywatel ogranicza skutki kryzysu i odciąża służby w pierwszej fazie zdarzenia.",
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "Akademia OLiOC maj",
+    "podstawy OLiOC",
+    "system bezpieczeństwa"
+  ],
+  "aliasy": [
+    "różnica ochrona ludności obrona cywilna",
+    "podstawy systemu olioc",
+    "ochrona ludności w czasie pokoju i wojny"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "src-olioc-akademia",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    },
+    {
+      "dokument_id": "src-olioc-ustawa",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    },
+    {
+      "dokument_id": "src-poradnik-wspolnie",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    }
+  ]
+}

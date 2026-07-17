@@ -1,0 +1,43 @@
+{
+  "id": "KARTA-OLIOC-WRZESIEŃ-08-KONTAKT_I_ZBIORKA",
+  "kategoria": "olioc",
+  "miesiac_akademii": "wrzesień",
+  "grupa_docelowa": "obywatel",
+  "status_zrodla": "oficjalne",
+  "data_aktualizacji": "2026-07-17",
+  "data_weryfikacji_zrodel": "2026-07-17",
+  "zrodlo": "Poradnik bezpieczeństwa - Plan na kryzys; Poradnik bezpieczeństwa - Osoby potrzebujące szczególnej pomocy",
+  "slowo_kluczowe": "olioc kontakt awaryjny rodziny",
+  "keywords": [
+    "miejsce spotkania po rozdzieleniu rodziny",
+    "kontakt poza miejscowością kryzys",
+    "karta kontaktowa dla dziecka seniora"
+  ],
+  "prefix": "OLiOC - wrzesień: kontakt awaryjny i miejsca spotkania rodziny.",
+  "content": "1. Wybierz jedną osobę spoza miejscowości jako wspólny punkt kontaktowy dla całej rodziny.\n2. Zapisz numery na papierze - nie polegaj wyłącznie na pamięci telefonu.\n3. Ustal miejsce spotkania w okolicy oraz zapasowe miejsce poza obszarem zagrożenia.\n4. Dzieci i seniorzy powinni mieć identyfikator z imieniem oraz numerem opiekuna, bez zbędnych danych.\n5. Gdy sieć jest przeciążona, wyślij krótki SMS z miejscem i stanem bezpieczeństwa zamiast wielokrotnych połączeń.\n6. Nie zmieniaj ustalonego miejsca bez przekazania informacji pozostałym domownikom.",
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "Akademia OLiOC wrzesień",
+    "kontakt awaryjny",
+    "miejsce spotkania"
+  ],
+  "aliasy": [
+    "miejsce spotkania po rozdzieleniu rodziny",
+    "kontakt poza miejscowością kryzys",
+    "karta kontaktowa dla dziecka seniora"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "src-poradnik-plan",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    },
+    {
+      "dokument_id": "src-poradnik-szczegolna-pomoc",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    }
+  ]
+}

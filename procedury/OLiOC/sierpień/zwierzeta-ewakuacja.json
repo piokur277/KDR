@@ -1,0 +1,43 @@
+{
+  "id": "KARTA-OLIOC-SIERPIEŃ-05-ZWIERZETA_EWAKUACJA",
+  "kategoria": "olioc",
+  "miesiac_akademii": "sierpień",
+  "grupa_docelowa": "obywatel",
+  "status_zrodla": "oficjalne",
+  "data_aktualizacji": "2026-07-17",
+  "data_weryfikacji_zrodel": "2026-07-17",
+  "zrodlo": "Poradnik bezpieczeństwa - Zadbaj o zwierzęta; Poradnik bezpieczeństwa - Ewakuacja",
+  "slowo_kluczowe": "olioc ewakuacja zwierząt",
+  "keywords": [
+    "zwierzęta podczas sytuacji kryzysowej",
+    "plecak dla psa kota ewakuacja",
+    "transport zwierząt podczas alarmu"
+  ],
+  "prefix": "OLiOC - sierpień: zwierzęta domowe i gospodarskie podczas ewakuacji.",
+  "content": "1. Przygotuj dokumentację zdrowotną, informacje o lekach, dane właściciela i aktualne oznakowanie zwierzęcia.\n2. Miej transporter lub klatkę, smycz, szelki, obrożę i kaganiec odpowiedni do zwierzęcia.\n3. Zabierz karmę, wodę, leki, miski, środki higieny i woreczki.\n4. Zwierzęta gospodarskie przygotuj do transportu natychmiast po ogłoszeniu ewakuacji.\n5. Jeśli ewakuacja zwierzęcia nie jest możliwa, zabezpiecz wodę i pokarm oraz poinformuj służby o jego lokalizacji.\n6. Za przygotowanie zwierząt odpowiada właściciel; lokalne zasady sprawdź w urzędzie gminy.",
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "Akademia OLiOC sierpień",
+    "zwierzęta",
+    "opieka nad zwierzętami"
+  ],
+  "aliasy": [
+    "zwierzęta podczas sytuacji kryzysowej",
+    "plecak dla psa kota ewakuacja",
+    "transport zwierząt podczas alarmu"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "src-poradnik-zwierzeta",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    },
+    {
+      "dokument_id": "src-poradnik-ewakuacja",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    }
+  ]
+}

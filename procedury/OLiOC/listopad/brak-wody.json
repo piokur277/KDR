@@ -1,0 +1,44 @@
+{
+  "id": "KARTA-OLIOC-LISTOPAD-04-BRAK_WODY",
+  "kategoria": "olioc",
+  "miesiac_akademii": "listopad",
+  "grupa_docelowa": "obywatel",
+  "status_zrodla": "oficjalne",
+  "data_aktualizacji": "2026-07-17",
+  "data_weryfikacji_zrodel": "2026-07-17",
+  "zrodlo": "Poradnik bezpieczeństwa - Długotrwały brak prądu (blackout); Poradnik bezpieczeństwa - Higiena w kryzysie",
+  "slowo_kluczowe": "olioc brak wody podczas blackoutu",
+  "keywords": [
+    "co robić gdy nie ma wody w kranie",
+    "oszczędzanie wody w kryzysie",
+    "woda pitna i higiena blackout"
+  ],
+  "prefix": "OLiOC - listopad: funkcjonowanie podczas braku dostępu do wody.",
+  "content": "1. Zachowaj wodę butelkowaną przede wszystkim do picia, leków i przygotowania żywności.\n2. Przyjmij minimalny zapas 3 litrów wody na osobę na dobę i uwzględnij dodatkowe potrzeby.\n3. Oddziel wodę pitną od technicznej i oznacz pojemniki.\n4. Stosuj chusteczki i płyn do dezynfekcji, ograniczając zużycie czystej wody.\n5. Nie pij wody z niepewnego źródła bez oficjalnej informacji o jej przydatności lub właściwego uzdatnienia.\n6. Śledź komunikaty wodociągów, gminy i sanepidu dotyczące punktów dystrybucji oraz sposobu postępowania.",
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "Akademia OLiOC listopad",
+    "brak wody",
+    "woda pitna",
+    "higiena"
+  ],
+  "aliasy": [
+    "co robić gdy nie ma wody w kranie",
+    "oszczędzanie wody w kryzysie",
+    "woda pitna i higiena blackout"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "src-poradnik-blackout",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    },
+    {
+      "dokument_id": "src-poradnik-higiena",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    }
+  ]
+}

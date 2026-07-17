@@ -1,0 +1,45 @@
+{
+  "id": "KARTA-OLIOC-GRUDZIEŃ-05-SZCZEGOLNE_POTRZEBY_ZAPASY",
+  "kategoria": "olioc",
+  "miesiac_akademii": "grudzień",
+  "grupa_docelowa": "obywatel",
+  "status_zrodla": "oficjalne",
+  "data_aktualizacji": "2026-07-17",
+  "data_weryfikacji_zrodel": "2026-07-17",
+  "zrodlo": "Poradnik bezpieczeństwa - Osoby potrzebujące szczególnej pomocy; Poradnik bezpieczeństwa - Zadbaj o zwierzęta",
+  "slowo_kluczowe": "olioc zapasy dla dzieci seniorów zwierząt",
+  "keywords": [
+    "specjalne potrzeby zapasy kryzysowe",
+    "żywność niemowlęca i pieluchy kryzys",
+    "karma leki zwierzęta 72 godziny"
+  ],
+  "prefix": "OLiOC - grudzień: zapasy dla dzieci, seniorów, osób zależnych i zwierząt.",
+  "content": "1. Dla niemowląt przygotuj żywność, wodę do jej przygotowania, pieluchy, środki pielęgnacji i ubrania.\n2. Dla seniorów i osób chorych uwzględnij leki, dietę, baterie, sprzęt pomocniczy i plan transportu.\n3. Przygotuj kartę z kontaktem do opiekuna i najważniejszymi informacjami medycznymi.\n4. Dla zwierząt przygotuj karmę, wodę, leki, transporter, smycz, dokumentację i dane właściciela.\n5. Zapasy i plecak osoby zależnej omów z nią oraz z opiekunem - nie zakładaj potrzeb bez konsultacji.\n6. Powiadom zaufane osoby, gdzie znajdują się zapasy i jak udzielić wsparcia.",
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "Akademia OLiOC grudzień",
+    "dzieci",
+    "seniorzy",
+    "zwierzęta",
+    "szczególne potrzeby"
+  ],
+  "aliasy": [
+    "specjalne potrzeby zapasy kryzysowe",
+    "żywność niemowlęca i pieluchy kryzys",
+    "karma leki zwierzęta 72 godziny"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "src-poradnik-szczegolna-pomoc",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    },
+    {
+      "dokument_id": "src-poradnik-zwierzeta",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    }
+  ]
+}

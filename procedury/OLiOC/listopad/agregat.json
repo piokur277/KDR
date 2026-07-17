@@ -1,0 +1,43 @@
+{
+  "id": "KARTA-OLIOC-LISTOPAD-07-AGREGAT",
+  "kategoria": "olioc",
+  "miesiac_akademii": "listopad",
+  "grupa_docelowa": "obywatel",
+  "status_zrodla": "oficjalne",
+  "data_aktualizacji": "2026-07-17",
+  "data_weryfikacji_zrodel": "2026-07-17",
+  "zrodlo": "Poradnik bezpieczeństwa - Długotrwały brak prądu (blackout); PSP - bezpieczeństwo podczas korzystania z agregatu prądotwórczego",
+  "slowo_kluczowe": "olioc agregat prądotwórczy bezpieczeństwo",
+  "keywords": [
+    "agregat musi pracować na zewnątrz",
+    "spaliny z agregatu czad",
+    "awaryjne zasilanie domu agregat"
+  ],
+  "prefix": "OLiOC - listopad: bezpieczne korzystanie z agregatu prądotwórczego.",
+  "content": "1. Agregat spalinowy uruchamiaj wyłącznie na zewnątrz pomieszczeń, z dala od okien, drzwi i nawiewów.\n2. Ustaw go stabilnie i tak, aby spaliny nie mogły przedostać się do budynku ani zagrozić innym osobom.\n3. Stosuj instrukcję producenta, właściwe paliwo i sprawne przewody o odpowiedniej obciążalności.\n4. Nie podłączaj agregatu samodzielnie do instalacji budynku przez zwykłe gniazdko; stałe podłączenie powinien wykonać uprawniony specjalista.\n5. Tankuj dopiero po wyłączeniu i ostygnięciu urządzenia; paliwo przechowuj w przeznaczonych pojemnikach.\n6. W budynku używaj czujki tlenku węgla i natychmiast reaguj na jej alarm.",
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "Akademia OLiOC listopad",
+    "agregat prądotwórczy",
+    "awaryjne zasilanie"
+  ],
+  "aliasy": [
+    "agregat musi pracować na zewnątrz",
+    "spaliny z agregatu czad",
+    "awaryjne zasilanie domu agregat"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "src-poradnik-blackout",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    },
+    {
+      "dokument_id": "src-psp-agregat-na-zewnatrz",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    }
+  ]
+}

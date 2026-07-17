@@ -1,0 +1,43 @@
+{
+  "id": "KARTA-OLIOC-GRUDZIEŃ-02-ZAPAS_WODY",
+  "kategoria": "olioc",
+  "miesiac_akademii": "grudzień",
+  "grupa_docelowa": "obywatel",
+  "status_zrodla": "oficjalne",
+  "data_aktualizacji": "2026-07-17",
+  "data_weryfikacji_zrodel": "2026-07-17",
+  "zrodlo": "Poradnik bezpieczeństwa - Długotrwały brak prądu (blackout); Poradnik bezpieczeństwa - Plan na kryzys",
+  "slowo_kluczowe": "olioc zapas wody 3 litry",
+  "keywords": [
+    "ile wody na osobę na dobę kryzys",
+    "woda na 72 godziny",
+    "przechowywanie wody awaryjnej"
+  ],
+  "prefix": "OLiOC - grudzień: zapas wody dla rodziny.",
+  "content": "1. Przygotuj co najmniej 3 litry wody na osobę na każdą dobę, czyli minimum 9 litrów na 72 godziny.\n2. Dodaj wodę dla zwierząt oraz większy zapas przy upałach, chorobach i szczególnych potrzebach.\n3. Przechowuj wodę w szczelnych, czystych pojemnikach przeznaczonych do żywności, z dala od słońca i chemikaliów.\n4. Oznacz datę zakupu lub napełnienia i stosuj rotację zgodnie z terminem producenta.\n5. Oddziel wodę pitną od wody technicznej do mycia i spłukiwania.\n6. Po komunikacie o skażeniu lub zakazie spożycia korzystaj wyłącznie ze źródeł wskazanych przez władze i sanepid.",
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "Akademia OLiOC grudzień",
+    "zapas wody",
+    "woda na kryzys"
+  ],
+  "aliasy": [
+    "ile wody na osobę na dobę kryzys",
+    "woda na 72 godziny",
+    "przechowywanie wody awaryjnej"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "src-poradnik-blackout",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    },
+    {
+      "dokument_id": "src-poradnik-plan",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    }
+  ]
+}

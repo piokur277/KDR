@@ -2,897 +2,2011 @@
   {
     "id": "KARTA-ACETYLEN-Z1",
     "procedura": "Karta Z1 - Butle poddane dzialaniu ognia/ciepla lub poddane wielokrotnym uderzeniom, szczelne lub nieszczelne.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-acetylen-szp-2020",
         "strona": 3,
         "sekcja": "Karta Z1 - butle poddane działaniu ognia, ciepła lub uderzeniom",
         "tytul": "Standardowe zasady postępowania podczas zdarzeń z udziałem butli z acetylenem",
-        "plik": "dokumenty/acetylen/szp-butle-acetylen-wydanie-2-2020-03-13.pdf"
+        "plik": "dokumenty/acetylen/szp-butle-acetylen-wydanie-2-2020-03-13.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "KARTA-ACETYLEN-Z2",
     "procedura": "Karta Z2 - Butle niepoddane dzialaniu ognia/ciepla lub wielokrotnym uderzeniom - nieszczelne, znajdujace sie wewnatrz obiektu.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-acetylen-szp-2020",
         "strona": 5,
         "sekcja": "Karta Z2 - butla nieszczelna wewnątrz obiektu",
         "tytul": "Standardowe zasady postępowania podczas zdarzeń z udziałem butli z acetylenem",
-        "plik": "dokumenty/acetylen/szp-butle-acetylen-wydanie-2-2020-03-13.pdf"
+        "plik": "dokumenty/acetylen/szp-butle-acetylen-wydanie-2-2020-03-13.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "KARTA-ACETYLEN-Z3",
     "procedura": "Karta Z3 - Butle niepoddane dzialaniu ognia/ciepla lub wielokrotnym uderzeniom - nieszczelne, znajdujace sie na zewnatrz obiektu.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-acetylen-szp-2020",
         "strona": 6,
         "sekcja": "Karta Z3 - butla nieszczelna na zewnątrz obiektu",
         "tytul": "Standardowe zasady postępowania podczas zdarzeń z udziałem butli z acetylenem",
-        "plik": "dokumenty/acetylen/szp-butle-acetylen-wydanie-2-2020-03-13.pdf"
+        "plik": "dokumenty/acetylen/szp-butle-acetylen-wydanie-2-2020-03-13.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "KARTA-ACETYLEN-Z4",
     "procedura": "Karta Z4 - Butle niepoddane dzialaniu ognia/ciepla lub wielokrotnym uderzeniom - szczelne.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-acetylen-szp-2020",
         "strona": 7,
         "sekcja": "Karta Z4 - butla szczelna",
         "tytul": "Standardowe zasady postępowania podczas zdarzeń z udziałem butli z acetylenem",
-        "plik": "dokumenty/acetylen/szp-butle-acetylen-wydanie-2-2020-03-13.pdf"
+        "plik": "dokumenty/acetylen/szp-butle-acetylen-wydanie-2-2020-03-13.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "KARTA-ACETYLEN-PRZEKAZANIE",
     "procedura": "Przekazanie miejsca zdarzenia po dzialaniach z udzialem butli z acetylenem.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-acetylen-szp-2020",
         "strona": 8,
         "sekcja": "Przekazanie miejsca zdarzenia",
         "tytul": "Standardowe zasady postępowania podczas zdarzeń z udziałem butli z acetylenem",
-        "plik": "dokumenty/acetylen/szp-butle-acetylen-wydanie-2-2020-03-13.pdf"
+        "plik": "dokumenty/acetylen/szp-butle-acetylen-wydanie-2-2020-03-13.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "KARTA-ACETYLEN-ROZPOZNANIE",
     "procedura": "Rozpoznanie - butle z acetylenem.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-acetylen-szp-2020",
         "strona": 2,
         "sekcja": "Rozpoznanie",
         "tytul": "Standardowe zasady postępowania podczas zdarzeń z udziałem butli z acetylenem",
-        "plik": "dokumenty/acetylen/szp-butle-acetylen-wydanie-2-2020-03-13.pdf"
+        "plik": "dokumenty/acetylen/szp-butle-acetylen-wydanie-2-2020-03-13.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "KARTA-BUD-INFORMACJE-DODATKOWE-KATASTROFA-BUDOWLANA",
     "procedura": "Katastrofa budowlana - typy zawalen obiektow i podstawowe zagrozenia.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-katastrofa-budowlana-2020",
         "strona": 1,
         "sekcja": "Odpowiednia karta SZP katastrofy budowlanej",
         "tytul": "Standardowe zasady postępowania po wystąpieniu katastrofy budowlanej",
-        "plik": "dokumenty/budowlane/szp-katastrofa-budowlana-2020.pdf"
+        "plik": "dokumenty/budowlane/szp-katastrofa-budowlana-2020.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "KARTA-BUD-ORGANIZACJA-DZIALAN-KATASTROFA-BUDOWLANA",
     "procedura": "Katastrofa budowlana - organizacja dzialan ratowniczych na gruzowisku.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-katastrofa-budowlana-2020",
         "strona": 4,
         "sekcja": "Odpowiednia karta SZP katastrofy budowlanej",
         "tytul": "Standardowe zasady postępowania po wystąpieniu katastrofy budowlanej",
-        "plik": "dokumenty/budowlane/szp-katastrofa-budowlana-2020.pdf"
+        "plik": "dokumenty/budowlane/szp-katastrofa-budowlana-2020.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "KARTA-BUD-PRIORYTETY-TYPOW-ZAWALEN",
     "procedura": "Katastrofa budowlana - dodatkowe priorytety organizacji dzialan dla roznych typow zawalen.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-katastrofa-budowlana-2020",
         "strona": 6,
         "sekcja": "Odpowiednia karta SZP katastrofy budowlanej",
         "tytul": "Standardowe zasady postępowania po wystąpieniu katastrofy budowlanej",
-        "plik": "dokumenty/budowlane/szp-katastrofa-budowlana-2020.pdf"
+        "plik": "dokumenty/budowlane/szp-katastrofa-budowlana-2020.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "KARTA-BUD-PRZEKAZANIE-KATASTROFA-BUDOWLANA",
     "procedura": "Katastrofa budowlana - przekazanie miejsca zdarzenia po zakonczeniu dzialan.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-katastrofa-budowlana-2020",
         "strona": 8,
         "sekcja": "Odpowiednia karta SZP katastrofy budowlanej",
         "tytul": "Standardowe zasady postępowania po wystąpieniu katastrofy budowlanej",
-        "plik": "dokumenty/budowlane/szp-katastrofa-budowlana-2020.pdf"
+        "plik": "dokumenty/budowlane/szp-katastrofa-budowlana-2020.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "KARTA-BUD-ROZPOZNANIE-KATASTROFA-BUDOWLANA",
     "procedura": "Katastrofa budowlana - rozpoznanie miejsca zdarzenia.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-katastrofa-budowlana-2020",
         "strona": 2,
         "sekcja": "Odpowiednia karta SZP katastrofy budowlanej",
         "tytul": "Standardowe zasady postępowania po wystąpieniu katastrofy budowlanej",
-        "plik": "dokumenty/budowlane/szp-katastrofa-budowlana-2020.pdf"
+        "plik": "dokumenty/budowlane/szp-katastrofa-budowlana-2020.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "KARTA-BUD-STREFA-I-EWAKUACJA-KATASTROFA-BUDOWLANA",
     "procedura": "Katastrofa budowlana - wyznaczanie strefy zagrozenia i ewakuacja ludzi.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-katastrofa-budowlana-2020",
         "strona": 3,
         "sekcja": "Odpowiednia karta SZP katastrofy budowlanej",
         "tytul": "Standardowe zasady postępowania po wystąpieniu katastrofy budowlanej",
-        "plik": "dokumenty/budowlane/szp-katastrofa-budowlana-2020.pdf"
+        "plik": "dokumenty/budowlane/szp-katastrofa-budowlana-2020.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "KARTA-BUD-ZABEZPIECZENIE-LOGISTYCZNE-KATASTROFA-BUDOWLANA",
     "procedura": "Katastrofa budowlana - zabezpieczenie logistyczne dzialan.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-katastrofa-budowlana-2020",
         "strona": 7,
         "sekcja": "Odpowiednia karta SZP katastrofy budowlanej",
         "tytul": "Standardowe zasady postępowania po wystąpieniu katastrofy budowlanej",
-        "plik": "dokumenty/budowlane/szp-katastrofa-budowlana-2020.pdf"
+        "plik": "dokumenty/budowlane/szp-katastrofa-budowlana-2020.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "KARTA-CHEM-Z1-LNG-POZAR-ZEW",
     "procedura": "Karta Z1 - Pozar zewnetrzny podgrzewajacy cysterne LNG bez wycieku gazu.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-lng-2025",
         "strona": 5,
         "sekcja": "Karta LNG",
         "tytul": "Standardowe zasady postępowania podczas zdarzeń z udziałem skroplonego gazu ziemnego (LNG)",
-        "plik": "dokumenty/lng/szp-lng-2025-12.pdf"
+        "plik": "dokumenty/lng/szp-lng-2025-12.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "KARTA-CHEM-Z2-LNG-POZAR-STRUM",
     "procedura": "Karta Z2 - Pozar strumieniowy z wycieku cysterny LNG (Jet Fire).",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-lng-2025",
         "strona": 7,
         "sekcja": "Karta LNG",
         "tytul": "Standardowe zasady postępowania podczas zdarzeń z udziałem skroplonego gazu ziemnego (LNG)",
-        "plik": "dokumenty/lng/szp-lng-2025-12.pdf"
+        "plik": "dokumenty/lng/szp-lng-2025-12.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "KARTA-CHEM-Z3-LNG-POZAR-ROZLEWISKA",
     "procedura": "Karta Z3 - Pozar rozlewiska skroplonego gazu ziemnego LNG (Pool Fire).",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-lng-2025",
         "strona": 8,
         "sekcja": "Karta LNG",
         "tytul": "Standardowe zasady postępowania podczas zdarzeń z udziałem skroplonego gazu ziemnego (LNG)",
-        "plik": "dokumenty/lng/szp-lng-2025-12.pdf"
+        "plik": "dokumenty/lng/szp-lng-2025-12.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "KARTA-CHEM-Z4-LNG-WYCIEK",
     "procedura": "Karta Z4 - Wyciek LNG z cysterny bez pozaru.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-lng-2025",
         "strona": 10,
         "sekcja": "Karta LNG",
         "tytul": "Standardowe zasady postępowania podczas zdarzeń z udziałem skroplonego gazu ziemnego (LNG)",
-        "plik": "dokumenty/lng/szp-lng-2025-12.pdf"
+        "plik": "dokumenty/lng/szp-lng-2025-12.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "KARTA-CHEM-Z5-LNG-ZAWORY",
     "procedura": "Karta Z5 - Emisja gazu LNG przez zawory bezpieczenstwa (Zrzut cisnienia).",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-lng-2025",
         "strona": 12,
         "sekcja": "Karta LNG",
         "tytul": "Standardowe zasady postępowania podczas zdarzeń z udziałem skroplonego gazu ziemnego (LNG)",
-        "plik": "dokumenty/lng/szp-lng-2025-12.pdf"
+        "plik": "dokumenty/lng/szp-lng-2025-12.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "KARTA-CHEM-B1-ZAGROZENIE-BIOLOGICZNE-GR3-GR4",
     "procedura": "Zalacznik B1 - Zasady postepowania PSP przy podejrzeniu zagrozenia chorobami szczegolnie niebezpiecznymi i wysoce zakaznymi.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-b1-choroby-zakazne",
         "strona": 1,
         "sekcja": "Załącznik B.1",
         "tytul": "Załącznik B.1 - Zasady postępowania PSP przy zagrożeniu chorobami szczególnie niebezpiecznymi i wysoce zakaźnymi",
-        "plik": "dokumenty/biologiczne/zalacznik-b1-choroby-zakazne.pdf"
+        "plik": "dokumenty/biologiczne/zalacznik-b1-choroby-zakazne.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "KARTA-CHEM-B22-PODEJRZANA-PRZESYLKA-CBR",
     "procedura": "Zalacznik B2.2 - Algorytm postepowania przy otrzymaniu niezidentyfikowanej przesylki mogacej stanowic zagrozenie chemiczne, biologiczne lub radiacyjne.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-b22-przesylka",
         "strona": 1,
         "sekcja": "Algorytm B.2.2",
         "tytul": "Załącznik B.2.2 - Algorytm postępowania przy niezidentyfikowanej przesyłce CBR",
-        "plik": "dokumenty/cbrn/zalacznik-b2-2-algorytm-przesylka.pdf"
+        "plik": "dokumenty/cbrn/zalacznik-b2-2-algorytm-przesylka.pdf",
+        "typ": "pdf"
       },
       {
         "dokument_id": "doc-b2-przesylka",
         "strona": 1,
         "sekcja": "Zasady działań PSP - Załącznik B.2",
         "tytul": "Załącznik B.2 - Zasady działań PSP podczas zagrożenia z niezidentyfikowaną przesyłką",
-        "plik": "dokumenty/cbrn/zalacznik-b2-przesylka-niezidentyfikowana.pdf"
+        "plik": "dokumenty/cbrn/zalacznik-b2-przesylka-niezidentyfikowana.pdf",
+        "typ": "pdf"
       },
       {
         "dokument_id": "doc-b21-przesylka",
         "strona": 1,
         "sekcja": "Procedura dla instytucji - Załącznik B.2.1",
         "tytul": "Załącznik B.2.1 - Procedura działania instytucji otrzymującej podejrzaną przesyłkę",
-        "plik": "dokumenty/cbrn/zalacznik-b2-1-podejrzana-przesylka.pdf"
+        "plik": "dokumenty/cbrn/zalacznik-b2-1-podejrzana-przesylka.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "KARTA-CHEM-R1-OCHRONA-RADIOLOGICZNA",
     "procedura": "Zalacznik R1 - Ochrona radiologiczna oraz podstawowe informacje o dzialaniach podczas zdarzen radiacyjnych.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-r1-radiologia",
         "strona": 1,
         "sekcja": "Ochrona radiologiczna - podstawowe informacje",
         "tytul": "Załącznik R.1 - Ochrona radiologiczna oraz działania podczas zdarzeń radiacyjnych - podstawowe informacje",
-        "plik": "dokumenty/radiacyjne/zalacznik-r1-ochrona-radiologiczna.pdf"
+        "plik": "dokumenty/radiacyjne/zalacznik-r1-ochrona-radiologiczna.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "KARTA-CHEM-R2-ZDARZENIA-RADIACYJNE-ZAKRES-PODSTAWOWY",
     "procedura": "Zalacznik R2 - Dzialania podczas zdarzen radiacyjnych w zakresie podstawowym.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-r2-radiologia",
         "strona": 1,
         "sekcja": "Załącznik R.2 - zakres podstawowy",
         "tytul": "Załącznik R.2 - Ochrona radiologiczna oraz działania podczas zdarzeń radiacyjnych - zakres podstawowy",
-        "plik": "dokumenty/radiacyjne/zalacznik-r2-zdarzenia-radiacyjne-zakres-podstawowy.pdf"
+        "plik": "dokumenty/radiacyjne/zalacznik-r2-zdarzenia-radiacyjne-zakres-podstawowy.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "DEZ-EV-01",
     "procedura": "Dezaktywacja awaryjna pojazdu elektrycznego lub hybrydowego",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-ev-szp-2023",
         "strona": 5,
         "sekcja": "Dezaktywacja i zabezpieczenie samochodu",
         "tytul": "Standardowe zasady postępowania podczas zdarzeń z samochodami z napędem elektrycznym oraz hybrydowym",
-        "plik": "dokumenty/pojazdy-elektryczne/szp-samochody-elektryczne-hybrydowe-2023-05.pdf"
+        "plik": "dokumenty/pojazdy-elektryczne/szp-samochody-elektryczne-hybrydowe-2023-05.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "KARTA-PV-INFORMACJE-DODATKOWE",
     "procedura": "Informacje dodatkowe i srodki ostroznosci przy dzialaniach w obrebie instalacji fotowoltaicznych.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-pv-szp-2022",
         "strona": 16,
         "sekcja": "Odpowiednia część SZP instalacji PV",
         "tytul": "Standardowe zasady postępowania podczas zdarzeń w obrębie instalacji fotowoltaicznych",
-        "plik": "dokumenty/fotowoltaika/szp-instalacje-fotowoltaiczne-2022-03.pdf"
+        "plik": "dokumenty/fotowoltaika/szp-instalacje-fotowoltaiczne-2022-03.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "KARTA-PV-Z1-POZAR",
     "procedura": "Karta Z1 - Dzialania ratownicze przy pozarze w obrebie instalacji fotowoltaicznej.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-pv-szp-2022",
         "strona": 12,
         "sekcja": "Odpowiednia część SZP instalacji PV",
         "tytul": "Standardowe zasady postępowania podczas zdarzeń w obrębie instalacji fotowoltaicznych",
-        "plik": "dokumenty/fotowoltaika/szp-instalacje-fotowoltaiczne-2022-03.pdf"
+        "plik": "dokumenty/fotowoltaika/szp-instalacje-fotowoltaiczne-2022-03.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "KARTA-PV-Z2-MIEJSCOWE-ZAGROZENIE",
     "procedura": "Karta Z2 - Dzialania ratownicze przy miejscowym zagrozeniu w obrebie instalacji fotowoltaicznej.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-pv-szp-2022",
         "strona": 14,
         "sekcja": "Odpowiednia część SZP instalacji PV",
         "tytul": "Standardowe zasady postępowania podczas zdarzeń w obrębie instalacji fotowoltaicznych",
-        "plik": "dokumenty/fotowoltaika/szp-instalacje-fotowoltaiczne-2022-03.pdf"
+        "plik": "dokumenty/fotowoltaika/szp-instalacje-fotowoltaiczne-2022-03.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "KARTA-PV-PRZEKAZANIE",
     "procedura": "Przekazanie miejsca zdarzenia po dzialaniach w obrebie instalacji fotowoltaicznej.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-pv-szp-2022",
         "strona": 15,
         "sekcja": "Odpowiednia część SZP instalacji PV",
         "tytul": "Standardowe zasady postępowania podczas zdarzeń w obrębie instalacji fotowoltaicznych",
-        "plik": "dokumenty/fotowoltaika/szp-instalacje-fotowoltaiczne-2022-03.pdf"
+        "plik": "dokumenty/fotowoltaika/szp-instalacje-fotowoltaiczne-2022-03.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "KARTA-PV-ROZPOZNANIE-I-ZABEZPIECZENIE",
     "procedura": "Rozpoznanie i dzialania zabezpieczajace przy zdarzeniach w obrebie instalacji fotowoltaicznych.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-pv-szp-2022",
         "strona": 8,
         "sekcja": "Odpowiednia część SZP instalacji PV",
         "tytul": "Standardowe zasady postępowania podczas zdarzeń w obrębie instalacji fotowoltaicznych",
-        "plik": "dokumenty/fotowoltaika/szp-instalacje-fotowoltaiczne-2022-03.pdf"
+        "plik": "dokumenty/fotowoltaika/szp-instalacje-fotowoltaiczne-2022-03.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "KARTA-KPP-AMPUTACJA-URAZOWA",
     "procedura": "KPP - amputacja urazowa.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-kpp-procedury",
         "strona": 7,
         "sekcja": "Procedura KPP - strona 7",
         "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy - Załącznik nr 1",
-        "plik": "dokumenty/kpp/procedury-ratownicze-kpp.pdf"
+        "plik": "dokumenty/kpp/procedury-ratownicze-kpp.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "KARTA-KPP-KOBIETA-W-CIAZY-ZAGROZENIE",
     "procedura": "KPP - kobieta w widocznej ciazy w stanie zagrozenia zycia lub zdrowia.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-kpp-procedury",
         "strona": 20,
         "sekcja": "Procedura KPP - strona 20",
         "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy - Załącznik nr 1",
-        "plik": "dokumenty/kpp/procedury-ratownicze-kpp.pdf"
+        "plik": "dokumenty/kpp/procedury-ratownicze-kpp.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "KARTA-KPP-OBRAZENIA-BRZUCHA",
     "procedura": "KPP - obrazenia i podejrzenie obrazen brzucha.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-kpp-procedury",
         "strona": 11,
         "sekcja": "Procedura KPP - strona 11",
         "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy - Załącznik nr 1",
-        "plik": "dokumenty/kpp/procedury-ratownicze-kpp.pdf"
+        "plik": "dokumenty/kpp/procedury-ratownicze-kpp.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "KARTA-KPP-OBRAZENIA-GLOWY",
     "procedura": "KPP - obrazenia i podejrzenie obrazen glowy.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-kpp-procedury",
         "strona": 8,
         "sekcja": "Procedura KPP - strona 8",
         "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy - Załącznik nr 1",
-        "plik": "dokumenty/kpp/procedury-ratownicze-kpp.pdf"
+        "plik": "dokumenty/kpp/procedury-ratownicze-kpp.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "KARTA-KPP-OBRAZENIA-KLATKI-PIERSIOWEJ",
     "procedura": "KPP - obrazenia i podejrzenie obrazen klatki piersiowej.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-kpp-procedury",
         "strona": 10,
         "sekcja": "Procedura KPP - strona 10",
         "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy - Załącznik nr 1",
-        "plik": "dokumenty/kpp/procedury-ratownicze-kpp.pdf"
+        "plik": "dokumenty/kpp/procedury-ratownicze-kpp.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "KARTA-KPP-OBRAZENIA-KREGOSLUPA",
     "procedura": "KPP - obrazenia i podejrzenie obrazen kregoslupa.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-kpp-procedury",
         "strona": 9,
         "sekcja": "Procedura KPP - strona 9",
         "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy - Załącznik nr 1",
-        "plik": "dokumenty/kpp/procedury-ratownicze-kpp.pdf"
+        "plik": "dokumenty/kpp/procedury-ratownicze-kpp.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "KARTA-KPP-OBRAZENIA-MIEDNICY",
     "procedura": "KPP - obrazenia i podejrzenie obrazen miednicy.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-kpp-procedury",
         "strona": 12,
         "sekcja": "Procedura KPP - strona 12",
         "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy - Załącznik nr 1",
-        "plik": "dokumenty/kpp/procedury-ratownicze-kpp.pdf"
+        "plik": "dokumenty/kpp/procedury-ratownicze-kpp.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "KARTA-KPP-OBRAZENIA-NARZADU-RUCHU",
     "procedura": "KPP - obrazenia i podejrzenie obrazen narzadu ruchu.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-kpp-procedury",
         "strona": 13,
         "sekcja": "Procedura KPP - strona 13",
         "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy - Załącznik nr 1",
-        "plik": "dokumenty/kpp/procedury-ratownicze-kpp.pdf"
+        "plik": "dokumenty/kpp/procedury-ratownicze-kpp.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "KARTA-KPP-OPARZENIE-CHEMICZNE",
     "procedura": "KPP - oparzenie chemiczne.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-kpp-procedury",
         "strona": 15,
         "sekcja": "Procedura KPP - strona 15",
         "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy - Załącznik nr 1",
-        "plik": "dokumenty/kpp/procedury-ratownicze-kpp.pdf"
+        "plik": "dokumenty/kpp/procedury-ratownicze-kpp.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "KARTA-KPP-OPARZENIE-TERMICZNE",
     "procedura": "KPP - oparzenie termiczne.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-kpp-procedury",
         "strona": 14,
         "sekcja": "Procedura KPP - strona 14",
         "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy - Załącznik nr 1",
-        "plik": "dokumenty/kpp/procedury-ratownicze-kpp.pdf"
+        "plik": "dokumenty/kpp/procedury-ratownicze-kpp.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "KARTA-KPP-RANY",
     "procedura": "KPP - postepowanie przy ranach.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-kpp-procedury",
         "strona": 6,
         "sekcja": "Procedura KPP - strona 6",
         "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy - Załącznik nr 1",
-        "plik": "dokumenty/kpp/procedury-ratownicze-kpp.pdf"
+        "plik": "dokumenty/kpp/procedury-ratownicze-kpp.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "KARTA-KPP-RKO-DOROSLI",
     "procedura": "KPP - zatrzymanie krazenia u doroslych.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-kpp-procedury",
         "strona": 4,
         "sekcja": "Procedura KPP - strona 4",
         "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy - Załącznik nr 1",
-        "plik": "dokumenty/kpp/procedury-ratownicze-kpp.pdf"
+        "plik": "dokumenty/kpp/procedury-ratownicze-kpp.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "KARTA-KPP-RKO-DZIECI-NIEMOWLETA-NOWORODKI",
     "procedura": "KPP - zatrzymanie krazenia u dzieci, niemowlat i noworodkow zaraz po urodzeniu.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-kpp-procedury",
         "strona": 5,
         "sekcja": "Procedura KPP - strona 5",
         "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy - Załącznik nr 1",
-        "plik": "dokumenty/kpp/procedury-ratownicze-kpp.pdf"
+        "plik": "dokumenty/kpp/procedury-ratownicze-kpp.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "KARTA-KPP-SCHEMAT-BADANIA-ABCDE",
     "procedura": "KPP - schemat badania ABCDE.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-kpp-abcde-als",
         "strona": 1,
         "sekcja": "Schemat badania ABCDE - strony 1-2",
         "tytul": "ALS Provider Course - Schemat badania ABCDE",
-        "plik": "dokumenty/kpp/schemat-badania-abcde-als-provider-course.pdf"
+        "plik": "dokumenty/kpp/schemat-badania-abcde-als-provider-course.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "KARTA-KPP-SEKWENCJA-MEDYCZNYCH-DZIALAN-RATOWNICZYCH",
     "procedura": "KPP - sekwencja medycznych dzialan ratowniczych.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-kpp-procedury",
         "strona": 3,
         "sekcja": "Procedura KPP - strona 3",
         "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy - Załącznik nr 1",
-        "plik": "dokumenty/kpp/procedury-ratownicze-kpp.pdf"
+        "plik": "dokumenty/kpp/procedury-ratownicze-kpp.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "KARTA-KPP-SEKWENCJA-ZALOZEN-TAKTYCZNYCH",
     "procedura": "KPP - sekwencja zalozen taktycznych w ratownictwie medycznym.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-kpp-procedury",
         "strona": 2,
         "sekcja": "Procedura KPP - strona 2",
         "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy - Załącznik nr 1",
-        "plik": "dokumenty/kpp/procedury-ratownicze-kpp.pdf"
+        "plik": "dokumenty/kpp/procedury-ratownicze-kpp.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "KARTA-KPP-TONIECIE",
     "procedura": "KPP - toniecie.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-kpp-procedury",
         "strona": 17,
         "sekcja": "Procedura KPP - strona 17",
         "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy - Załącznik nr 1",
-        "plik": "dokumenty/kpp/procedury-ratownicze-kpp.pdf"
+        "plik": "dokumenty/kpp/procedury-ratownicze-kpp.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "KARTA-KPP-WSPARCIE-PSYCHICZNE",
     "procedura": "KPP - zasady udzielania wsparcia psychicznego i psychologicznego.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-kpp-procedury",
         "strona": 21,
         "sekcja": "Procedura KPP - strona 21",
         "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy - Załącznik nr 1",
-        "plik": "dokumenty/kpp/procedury-ratownicze-kpp.pdf"
+        "plik": "dokumenty/kpp/procedury-ratownicze-kpp.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "KARTA-KPP-WYCHLODZENIE",
     "procedura": "KPP - wychlodzenie.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-kpp-procedury",
         "strona": 18,
         "sekcja": "Procedura KPP - strona 18",
         "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy - Załącznik nr 1",
-        "plik": "dokumenty/kpp/procedury-ratownicze-kpp.pdf"
+        "plik": "dokumenty/kpp/procedury-ratownicze-kpp.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "KARTA-KPP-STANY-NIEURAZOWE",
     "procedura": "KPP - zaburzenia krazeniowo-oddechowe w stanach nieurazowych.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-kpp-procedury",
         "strona": 19,
         "sekcja": "Procedura KPP - strona 19",
         "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy - Załącznik nr 1",
-        "plik": "dokumenty/kpp/procedury-ratownicze-kpp.pdf"
+        "plik": "dokumenty/kpp/procedury-ratownicze-kpp.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "KARTA-KPP-ZATRUCIE-WZIEWNE",
     "procedura": "KPP - zatrucie wziewne.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-kpp-procedury",
         "strona": 16,
         "sekcja": "Procedura KPP - strona 16",
         "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy - Załącznik nr 1",
-        "plik": "dokumenty/kpp/procedury-ratownicze-kpp.pdf"
+        "plik": "dokumenty/kpp/procedury-ratownicze-kpp.pdf",
+        "typ": "pdf"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-GRUDZIEŃ-04-LEKI_HIGIENA",
+    "procedura": "OLiOC - grudzień: leki, zdrowie i higiena w domowych zapasach.",
+    "miesiac_akademii": "grudzień",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-poradnik-przygotuj-siebie",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Przygotuj siebie i najbliższych",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/przygotuj-siebie-i-najblizszych",
+        "typ": "url"
+      },
+      {
+        "dokument_id": "src-poradnik-higiena",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Higiena w kryzysie",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/higiena-w-kryzysie",
+        "typ": "url"
+      },
+      {
+        "dokument_id": "src-poradnik-plan",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Plan na kryzys",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/plan-na-kryzys",
+        "typ": "url"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-GRUDZIEŃ-06-ROTACJA_ZAPASOW",
+    "procedura": "OLiOC - grudzień: przechowywanie, kontrola i rotacja zapasów.",
+    "miesiac_akademii": "grudzień",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-poradnik-plan",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Plan na kryzys",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/plan-na-kryzys",
+        "typ": "url"
+      },
+      {
+        "dokument_id": "src-poradnik-blackout",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Długotrwały brak prądu (blackout)",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/dlugotrwaly-brak-pradu-blackout",
+        "typ": "url"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-GRUDZIEŃ-05-SZCZEGOLNE_POTRZEBY_ZAPASY",
+    "procedura": "OLiOC - grudzień: zapasy dla dzieci, seniorów, osób zależnych i zwierząt.",
+    "miesiac_akademii": "grudzień",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-poradnik-szczegolna-pomoc",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Osoby potrzebujące szczególnej pomocy",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/osoby-potrzebujace-szczegolnej-pomocy",
+        "typ": "url"
+      },
+      {
+        "dokument_id": "src-poradnik-zwierzeta",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Zadbaj o zwierzęta",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/zadbaj-o-zwierzeta",
+        "typ": "url"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-GRUDZIEŃ-02-ZAPAS_WODY",
+    "procedura": "OLiOC - grudzień: zapas wody dla rodziny.",
+    "miesiac_akademii": "grudzień",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-poradnik-blackout",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Długotrwały brak prądu (blackout)",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/dlugotrwaly-brak-pradu-blackout",
+        "typ": "url"
+      },
+      {
+        "dokument_id": "src-poradnik-plan",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Plan na kryzys",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/plan-na-kryzys",
+        "typ": "url"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-GRUDZIEŃ-03-ZAPAS_ZYWNOSCI",
+    "procedura": "OLiOC - grudzień: zapas żywności na 72 godziny.",
+    "miesiac_akademii": "grudzień",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-poradnik-blackout",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Długotrwały brak prądu (blackout)",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/dlugotrwaly-brak-pradu-blackout",
+        "typ": "url"
+      },
+      {
+        "dokument_id": "src-poradnik-plan",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Plan na kryzys",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/plan-na-kryzys",
+        "typ": "url"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-GRUDZIEŃ-01-ZAPASY_72H",
+    "procedura": "OLiOC - grudzień: domowe zapasy na pierwsze 72 godziny.",
+    "miesiac_akademii": "grudzień",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-olioc-akademia",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Akademia OLiOC - program „jeden miesiąc - jeden temat”",
+        "plik": "https://www.gov.pl/web/olioc/akdemia-olioc",
+        "typ": "url"
+      },
+      {
+        "dokument_id": "src-poradnik-plan",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Plan na kryzys",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/plan-na-kryzys",
+        "typ": "url"
+      },
+      {
+        "dokument_id": "src-poradnik-blackout",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Długotrwały brak prądu (blackout)",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/dlugotrwaly-brak-pradu-blackout",
+        "typ": "url"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-LIPIEC-02-KOMUNIKATY_OSTRZEGAWCZE",
+    "procedura": "OLiOC - lipiec: Alert RCB, RSO i komunikaty ostrzegawcze.",
+    "miesiac_akademii": "lipiec",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-poradnik-alarmy",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Sygnały alarmowe i komunikaty ostrzegawcze",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/sygnaly-alarmowe-i-komunikaty-ostrzegawcze",
+        "typ": "url"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-LIPIEC-04-OFICJALNE_ZRODLA",
+    "procedura": "OLiOC - lipiec: oficjalne źródła informacji podczas kryzysu.",
+    "miesiac_akademii": "lipiec",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-poradnik-alarmy",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Sygnały alarmowe i komunikaty ostrzegawcze",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/sygnaly-alarmowe-i-komunikaty-ostrzegawcze",
+        "typ": "url"
+      },
+      {
+        "dokument_id": "src-poradnik-cyfrowe",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Zagrożenia cyfrowe",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/zagrozenia-cyfrowe",
+        "typ": "url"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-LIPIEC-03-REAKCJA_PO_ALARMIE",
+    "procedura": "OLiOC - lipiec: co zrobić natychmiast po ogłoszeniu alarmu.",
+    "miesiac_akademii": "lipiec",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-poradnik-alarmy",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Sygnały alarmowe i komunikaty ostrzegawcze",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/sygnaly-alarmowe-i-komunikaty-ostrzegawcze",
+        "typ": "url"
+      },
+      {
+        "dokument_id": "src-poradnik-plan",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Plan na kryzys",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/plan-na-kryzys",
+        "typ": "url"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-LIPIEC-01-SYGNALY_ALARMOWE",
+    "procedura": "OLiOC - lipiec: sygnały alarmowe i ich znaczenie.",
+    "miesiac_akademii": "lipiec",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-olioc-akademia",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Akademia OLiOC - program „jeden miesiąc - jeden temat”",
+        "plik": "https://www.gov.pl/web/olioc/akdemia-olioc",
+        "typ": "url"
+      },
+      {
+        "dokument_id": "src-poradnik-alarmy",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Sygnały alarmowe i komunikaty ostrzegawcze",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/sygnaly-alarmowe-i-komunikaty-ostrzegawcze",
+        "typ": "url"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-LISTOPAD-07-AGREGAT",
+    "procedura": "OLiOC - listopad: bezpieczne korzystanie z agregatu prądotwórczego.",
+    "miesiac_akademii": "listopad",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-poradnik-blackout",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Długotrwały brak prądu (blackout)",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/dlugotrwaly-brak-pradu-blackout",
+        "typ": "url"
+      },
+      {
+        "dokument_id": "src-psp-agregat-na-zewnatrz",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "PSP - bezpieczeństwo podczas korzystania z agregatu prądotwórczego",
+        "plik": "https://www.gov.pl/web/kppsp-gizycko/silny-wiatr---uwaga",
+        "typ": "url"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-LISTOPAD-01-BLACKOUT_PIERWSZE_DZIALANIA",
+    "procedura": "OLiOC - listopad: pierwsze działania podczas długotrwałego braku prądu.",
+    "miesiac_akademii": "listopad",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-olioc-akademia",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Akademia OLiOC - program „jeden miesiąc - jeden temat”",
+        "plik": "https://www.gov.pl/web/olioc/akdemia-olioc",
+        "typ": "url"
+      },
+      {
+        "dokument_id": "src-poradnik-blackout",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Długotrwały brak prądu (blackout)",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/dlugotrwaly-brak-pradu-blackout",
+        "typ": "url"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-LISTOPAD-05-BRAK_LACZNOSCI",
+    "procedura": "OLiOC - listopad: brak telefonu, internetu i przeciążenie sieci.",
+    "miesiac_akademii": "listopad",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-poradnik-blackout",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Długotrwały brak prądu (blackout)",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/dlugotrwaly-brak-pradu-blackout",
+        "typ": "url"
+      },
+      {
+        "dokument_id": "src-poradnik-plan",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Plan na kryzys",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/plan-na-kryzys",
+        "typ": "url"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-LISTOPAD-03-BRAK_OGRZEWANIA_CZAD",
+    "procedura": "OLiOC - listopad: brak ogrzewania i ryzyko tlenku węgla.",
+    "miesiac_akademii": "listopad",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-poradnik-blackout",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Długotrwały brak prądu (blackout)",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/dlugotrwaly-brak-pradu-blackout",
+        "typ": "url"
+      },
+      {
+        "dokument_id": "src-kgpsp-czujki-2026",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "KG PSP - Obowiązek instalowania autonomicznych czujek dymu i czadu",
+        "plik": "https://www.gov.pl/web/kgpsp/obowiazek-instalowania-autonomicznych-czujek-dymu-i-czadu",
+        "typ": "url"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-LISTOPAD-04-BRAK_WODY",
+    "procedura": "OLiOC - listopad: funkcjonowanie podczas braku dostępu do wody.",
+    "miesiac_akademii": "listopad",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-poradnik-blackout",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Długotrwały brak prądu (blackout)",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/dlugotrwaly-brak-pradu-blackout",
+        "typ": "url"
+      },
+      {
+        "dokument_id": "src-poradnik-higiena",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Higiena w kryzysie",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/higiena-w-kryzysie",
+        "typ": "url"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-LISTOPAD-02-SWIATLO_ENERGIA",
+    "procedura": "OLiOC - listopad: oświetlenie, baterie i awaryjne źródła energii.",
+    "miesiac_akademii": "listopad",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-poradnik-blackout",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Długotrwały brak prądu (blackout)",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/dlugotrwaly-brak-pradu-blackout",
+        "typ": "url"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-LISTOPAD-06-ZYWNOSC_BEZ_PRADU",
+    "procedura": "OLiOC - listopad: bezpieczeństwo żywności bez zasilania.",
+    "miesiac_akademii": "listopad",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-poradnik-blackout",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Długotrwały brak prądu (blackout)",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/dlugotrwaly-brak-pradu-blackout",
+        "typ": "url"
+      },
+      {
+        "dokument_id": "src-gis-zywnosc-blackout-2026",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "GIS - Bezpieczeństwo żywności podczas przerwy w dostawie prądu",
+        "plik": "https://www.gov.pl/web/gis/przerwa-w-dostawie-pradu-pamietaj-o-bezpieczenstwie-zywnosci",
+        "typ": "url"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-MAJ-03-INSTYTUCJE_I_SLUZBY",
+    "procedura": "OLiOC - maj: kto odpowiada za bezpieczeństwo i jak współdziałają służby.",
+    "miesiac_akademii": "maj",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-olioc-ustawa",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Ustawa o ochronie ludności i obronie cywilnej - informacje MSWiA",
+        "plik": "https://www.gov.pl/web/olioc/ustawa-o-ochronie-ludnosci-i-obronie-cywilnej",
+        "typ": "url"
+      },
+      {
+        "dokument_id": "src-poradnik-wspolnie",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Wspólnie dbamy o nasze bezpieczeństwo",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/wspolnie-dbamy-o-nasze-bezpieczenstwo2",
+        "typ": "url"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-MAJ-05-OBSZARY_PRZYGOTOWANIA",
+    "procedura": "OLiOC - maj: podstawowe obszary przygotowania obywatela.",
+    "miesiac_akademii": "maj",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-olioc-akademia",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Akademia OLiOC - program „jeden miesiąc - jeden temat”",
+        "plik": "https://www.gov.pl/web/olioc/akdemia-olioc",
+        "typ": "url"
+      },
+      {
+        "dokument_id": "src-poradnik-plan",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Plan na kryzys",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/plan-na-kryzys",
+        "typ": "url"
+      },
+      {
+        "dokument_id": "src-poradnik-przygotuj-siebie",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Przygotuj siebie i najbliższych",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/przygotuj-siebie-i-najblizszych",
+        "typ": "url"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-MAJ-01-PODSTAWY_SYSTEMU",
+    "procedura": "OLiOC - maj: czym są ochrona ludności i obrona cywilna.",
+    "miesiac_akademii": "maj",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-olioc-akademia",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Akademia OLiOC - program „jeden miesiąc - jeden temat”",
+        "plik": "https://www.gov.pl/web/olioc/akdemia-olioc",
+        "typ": "url"
+      },
+      {
+        "dokument_id": "src-olioc-ustawa",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Ustawa o ochronie ludności i obronie cywilnej - informacje MSWiA",
+        "plik": "https://www.gov.pl/web/olioc/ustawa-o-ochronie-ludnosci-i-obronie-cywilnej",
+        "typ": "url"
+      },
+      {
+        "dokument_id": "src-poradnik-wspolnie",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Wspólnie dbamy o nasze bezpieczeństwo",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/wspolnie-dbamy-o-nasze-bezpieczenstwo2",
+        "typ": "url"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-MAJ-02-ROLA_OBYWATELA",
+    "procedura": "OLiOC - maj: rola obywatela, samopomoc i pomoc wzajemna.",
+    "miesiac_akademii": "maj",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-olioc-akademia",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Akademia OLiOC - program „jeden miesiąc - jeden temat”",
+        "plik": "https://www.gov.pl/web/olioc/akdemia-olioc",
+        "typ": "url"
+      },
+      {
+        "dokument_id": "src-poradnik-wspolnie",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Wspólnie dbamy o nasze bezpieczeństwo",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/wspolnie-dbamy-o-nasze-bezpieczenstwo2",
+        "typ": "url"
+      },
+      {
+        "dokument_id": "src-poradnik-plan",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Plan na kryzys",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/plan-na-kryzys",
+        "typ": "url"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-MAJ-04-SIEC_WSPARCIA",
+    "procedura": "OLiOC - maj: lokalna sieć wsparcia i przygotowanie sąsiedzkie.",
+    "miesiac_akademii": "maj",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-poradnik-wspolnie",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Wspólnie dbamy o nasze bezpieczeństwo",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/wspolnie-dbamy-o-nasze-bezpieczenstwo2",
+        "typ": "url"
+      },
+      {
+        "dokument_id": "src-poradnik-szczegolna-pomoc",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Osoby potrzebujące szczególnej pomocy",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/osoby-potrzebujace-szczegolnej-pomocy",
+        "typ": "url"
+      },
+      {
+        "dokument_id": "src-poradnik-plan",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Plan na kryzys",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/plan-na-kryzys",
+        "typ": "url"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-PAŹDZIERNIK-01-DEZINFORMACJA",
+    "procedura": "OLiOC - październik: rozpoznawanie dezinformacji.",
+    "miesiac_akademii": "październik",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-olioc-akademia",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Akademia OLiOC - program „jeden miesiąc - jeden temat”",
+        "plik": "https://www.gov.pl/web/olioc/akdemia-olioc",
+        "typ": "url"
+      },
+      {
+        "dokument_id": "src-poradnik-cyfrowe",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Zagrożenia cyfrowe",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/zagrozenia-cyfrowe",
+        "typ": "url"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-PAŹDZIERNIK-05-KOPIE_I_ZGLASZANIE",
+    "procedura": "OLiOC - październik: kopie zapasowe, ochrona danych i zgłaszanie incydentów.",
+    "miesiac_akademii": "październik",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-poradnik-cyfrowe",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Zagrożenia cyfrowe",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/zagrozenia-cyfrowe",
+        "typ": "url"
+      },
+      {
+        "dokument_id": "src-cert-zglos-incydent",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "CERT Polska - zgłoszenie incydentu",
+        "plik": "https://incydent.cert.pl/",
+        "typ": "url"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-PAŹDZIERNIK-03-PHISHING_FALSZYWE_ALERTY",
+    "procedura": "OLiOC - październik: phishing i fałszywe alerty.",
+    "miesiac_akademii": "październik",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-poradnik-cyfrowe",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Zagrożenia cyfrowe",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/zagrozenia-cyfrowe",
+        "typ": "url"
+      },
+      {
+        "dokument_id": "src-cert-zglos-incydent",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "CERT Polska - zgłoszenie incydentu",
+        "plik": "https://incydent.cert.pl/",
+        "typ": "url"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-PAŹDZIERNIK-04-TELEFON_KONTA",
+    "procedura": "OLiOC - październik: zabezpieczenie telefonu i kont internetowych.",
+    "miesiac_akademii": "październik",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-poradnik-cyfrowe",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Zagrożenia cyfrowe",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/zagrozenia-cyfrowe",
+        "typ": "url"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-PAŹDZIERNIK-02-WERYFIKACJA_INFORMACJI",
+    "procedura": "OLiOC - październik: weryfikacja wiadomości w sytuacji kryzysowej.",
+    "miesiac_akademii": "październik",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-poradnik-cyfrowe",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Zagrożenia cyfrowe",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/zagrozenia-cyfrowe",
+        "typ": "url"
+      },
+      {
+        "dokument_id": "src-poradnik-alarmy",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Sygnały alarmowe i komunikaty ostrzegawcze",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/sygnaly-alarmowe-i-komunikaty-ostrzegawcze",
+        "typ": "url"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-SIERPIEŃ-03-EWAKUACJA_RODZINY",
+    "procedura": "OLiOC - sierpień: ewakuacja rodziny, transport i bezpieczeństwo dokumentów.",
+    "miesiac_akademii": "sierpień",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-poradnik-ewakuacja",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Ewakuacja",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/ewakuacja",
+        "typ": "url"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-SIERPIEŃ-04-EWAKUACJA_SZCZEGOLNE_POTRZEBY",
+    "procedura": "OLiOC - sierpień: ewakuacja dzieci, seniorów i osób z niepełnosprawnościami.",
+    "miesiac_akademii": "sierpień",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-poradnik-szczegolna-pomoc",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Osoby potrzebujące szczególnej pomocy",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/osoby-potrzebujace-szczegolnej-pomocy",
+        "typ": "url"
+      },
+      {
+        "dokument_id": "src-poradnik-ewakuacja",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Ewakuacja",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/ewakuacja",
+        "typ": "url"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-SIERPIEŃ-01-PLECAK_EWAKUACYJNY",
+    "procedura": "OLiOC - sierpień: plecak ewakuacyjny dla każdego domownika.",
+    "miesiac_akademii": "sierpień",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-olioc-akademia",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Akademia OLiOC - program „jeden miesiąc - jeden temat”",
+        "plik": "https://www.gov.pl/web/olioc/akdemia-olioc",
+        "typ": "url"
+      },
+      {
+        "dokument_id": "src-poradnik-ewakuacja",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Ewakuacja",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/ewakuacja",
+        "typ": "url"
+      },
+      {
+        "dokument_id": "src-poradnik-plan",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Plan na kryzys",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/plan-na-kryzys",
+        "typ": "url"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-SIERPIEŃ-02-PRZYGOTOWANIE_EWAKUACJI",
+    "procedura": "OLiOC - sierpień: przygotowanie do ewakuacji i decyzja o wyjściu.",
+    "miesiac_akademii": "sierpień",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-poradnik-ewakuacja",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Ewakuacja",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/ewakuacja",
+        "typ": "url"
+      },
+      {
+        "dokument_id": "src-poradnik-plan",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Plan na kryzys",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/plan-na-kryzys",
+        "typ": "url"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-SIERPIEŃ-06-SCHRONIENIA",
+    "procedura": "OLiOC - sierpień: schron, ukrycie i miejsce doraźnego schronienia.",
+    "miesiac_akademii": "sierpień",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-poradnik-schronienia",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Schronienia",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/schronienia",
+        "typ": "url"
+      },
+      {
+        "dokument_id": "src-poradnik-plan",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Plan na kryzys",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/plan-na-kryzys",
+        "typ": "url"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-SIERPIEŃ-05-ZWIERZETA_EWAKUACJA",
+    "procedura": "OLiOC - sierpień: zwierzęta domowe i gospodarskie podczas ewakuacji.",
+    "miesiac_akademii": "sierpień",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-poradnik-zwierzeta",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Zadbaj o zwierzęta",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/zadbaj-o-zwierzeta",
+        "typ": "url"
+      },
+      {
+        "dokument_id": "src-poradnik-ewakuacja",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Ewakuacja",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/ewakuacja",
+        "typ": "url"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-WRZESIEŃ-04-AED_OBYWATEL",
+    "procedura": "OLiOC - wrzesień: AED - użycie defibrylatora przez obywatela.",
+    "miesiac_akademii": "wrzesień",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-poradnik-pierwsza-pomoc",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Pierwsza pomoc i AED",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/pierwsza-pomoc",
+        "typ": "url"
+      },
+      {
+        "dokument_id": "src-poradnik-otoczenie",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Przygotuj swoje otoczenie",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/przygotuj-swoje-otoczenie",
+        "typ": "url"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-WRZESIEŃ-06-CZUJKI",
+    "procedura": "OLiOC - wrzesień: czujki dymu, tlenku węgla i gazu.",
+    "miesiac_akademii": "wrzesień",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-poradnik-otoczenie",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Przygotuj swoje otoczenie",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/przygotuj-swoje-otoczenie",
+        "typ": "url"
+      },
+      {
+        "dokument_id": "src-kgpsp-czujki-2026",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "KG PSP - Obowiązek instalowania autonomicznych czujek dymu i czadu",
+        "plik": "https://www.gov.pl/web/kgpsp/obowiazek-instalowania-autonomicznych-czujek-dymu-i-czadu",
+        "typ": "url"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-WRZESIEŃ-01-DOM_SZKOLA_PRACA",
+    "procedura": "OLiOC - wrzesień: bezpieczeństwo domu, szkoły i miejsca pracy.",
+    "miesiac_akademii": "wrzesień",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-olioc-akademia",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Akademia OLiOC - program „jeden miesiąc - jeden temat”",
+        "plik": "https://www.gov.pl/web/olioc/akdemia-olioc",
+        "typ": "url"
+      },
+      {
+        "dokument_id": "src-poradnik-otoczenie",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Przygotuj swoje otoczenie",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/przygotuj-swoje-otoczenie",
+        "typ": "url"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-WRZESIEŃ-02-DROGI_EWAKUACYJNE",
+    "procedura": "OLiOC - wrzesień: drogi ewakuacyjne, wyjścia i miejsce zbiórki.",
+    "miesiac_akademii": "wrzesień",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-poradnik-otoczenie",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Przygotuj swoje otoczenie",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/przygotuj-swoje-otoczenie",
+        "typ": "url"
+      },
+      {
+        "dokument_id": "src-poradnik-pozar",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Pożar",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/pozar",
+        "typ": "url"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-WRZESIEŃ-03-GASNICA_KOC",
+    "procedura": "OLiOC - wrzesień: bezpieczne użycie gaśnicy i koca gaśniczego.",
+    "miesiac_akademii": "wrzesień",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-poradnik-pozar",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Pożar",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/pozar",
+        "typ": "url"
+      },
+      {
+        "dokument_id": "src-poradnik-otoczenie",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Przygotuj swoje otoczenie",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/przygotuj-swoje-otoczenie",
+        "typ": "url"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-WRZESIEŃ-08-KONTAKT_I_ZBIORKA",
+    "procedura": "OLiOC - wrzesień: kontakt awaryjny i miejsca spotkania rodziny.",
+    "miesiac_akademii": "wrzesień",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-poradnik-plan",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Plan na kryzys",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/plan-na-kryzys",
+        "typ": "url"
+      },
+      {
+        "dokument_id": "src-poradnik-szczegolna-pomoc",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Osoby potrzebujące szczególnej pomocy",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/osoby-potrzebujace-szczegolnej-pomocy",
+        "typ": "url"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-WRZESIEŃ-05-ODCIECIE_MEDIOW",
+    "procedura": "OLiOC - wrzesień: bezpieczne odcięcie prądu, gazu i wody.",
+    "miesiac_akademii": "wrzesień",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-poradnik-otoczenie",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Przygotuj swoje otoczenie",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/przygotuj-swoje-otoczenie",
+        "typ": "url"
+      },
+      {
+        "dokument_id": "src-poradnik-ewakuacja",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Ewakuacja",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/ewakuacja",
+        "typ": "url"
+      },
+      {
+        "dokument_id": "src-poradnik-pozar",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Pożar",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/pozar",
+        "typ": "url"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-WRZESIEŃ-07-RODZINNY_PLAN",
+    "procedura": "OLiOC - wrzesień: rodzinny plan kryzysowy.",
+    "miesiac_akademii": "wrzesień",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-poradnik-plan",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Plan na kryzys",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/plan-na-kryzys",
+        "typ": "url"
+      },
+      {
+        "dokument_id": "src-poradnik-szczegolna-pomoc",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe",
+        "tytul": "Poradnik bezpieczeństwa - Osoby potrzebujące szczególnej pomocy",
+        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/osoby-potrzebujace-szczegolnej-pomocy",
+        "typ": "url"
       }
     ]
   },
   {
     "id": "KARTA-ORG-AMONIAK-NH3-WARTOSCI-GRANICZNE",
     "procedura": "NH3 / Amoniak - karta zagrozenia operacyjnego.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-sds-amoniak-4-0",
         "strona": 1,
         "sekcja": "Karta charakterystyki NH3",
         "tytul": "Karta charakterystyki - Amoniak",
-        "plik": "dokumenty/chemiczne/sds-amoniak-v4-0-2019.pdf"
+        "plik": "dokumenty/chemiczne/sds-amoniak-v4-0-2019.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "KARTA-ORG-CBRNE-DODATKOWE-USTALENIA-SZKOLENIA",
     "procedura": "Dodatkowe ustalenia i rekomendacje szkoleniowe dla wspoldzialania przy zdarzeniach CBRN-E.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": []
   },
   {
     "id": "KARTA-ORG-CHLOROWODOR-WARTOSCI-GRANICZNE",
     "procedura": "HCl / Chlorowodor - karta zagrozenia operacyjnego.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-sds-hcl-6-0",
         "strona": 1,
         "sekcja": "Karta charakterystyki HCl",
         "tytul": "Karta charakterystyki - Chlorowodór / Chlorowodór N28",
-        "plik": "dokumenty/chemiczne/sds-chlorowodor-v6-0-2022.pdf"
+        "plik": "dokumenty/chemiczne/sds-chlorowodor-v6-0-2022.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "KARTA-ORG-CO-WARTOSCI-GRANICZNE",
     "procedura": "CO / Tlenek wegla - karta zagrozenia operacyjnego.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-sds-co-2-0",
         "strona": 1,
         "sekcja": "Karta charakterystyki CO",
         "tytul": "Karta charakterystyki - Tlenek węgla",
-        "plik": "dokumenty/chemiczne/sds-tlenek-wegla-v2-0-2020.pdf"
+        "plik": "dokumenty/chemiczne/sds-tlenek-wegla-v2-0-2020.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "KARTA-ORG-DETEKTOR-MSA-ALTAIR-4X",
     "procedura": "Detektor wielogazowy MSA Altair 4X - progi alarmowe i sygnalizacja.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": []
   },
   {
     "id": "KARTA-ORG-H2S-WARTOSCI-GRANICZNE",
     "procedura": "H2S / Siarkowodor - karta zagrozenia operacyjnego.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-sds-h2s-4-1",
         "strona": 1,
         "sekcja": "Karta charakterystyki H2S",
         "tytul": "Karta charakterystyki - Siarkowodór / Siarkowodór N25",
-        "plik": "dokumenty/chemiczne/sds-siarkowodor-v4-1-2022.pdf"
+        "plik": "dokumenty/chemiczne/sds-siarkowodor-v4-1-2022.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "KARTA-ORG-HCN-WARTOSCI-GRANICZNE",
     "procedura": "HCN / Cyjanowodor - karta zagrozenia operacyjnego.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-sds-hcn-ekos-2006",
         "strona": 1,
         "sekcja": "Karta charakterystyki cyjanowodoru - identyfikacja, zagrożenia i pierwsza pomoc",
         "tytul": "Karta charakterystyki niebezpiecznej substancji - Cyjanowodór",
-        "plik": "dokumenty/chemiczne/sds-cyjanowodor-ekos-2006.pdf"
+        "plik": "dokumenty/chemiczne/sds-cyjanowodor-ekos-2006.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "KARTA-ORG-METODYKA-ORGANIZACJI-LACZNOSCI-KDR",
     "procedura": "Metodyka organizacji lacznosci na potrzeby KDR - karta organizacyjna lacznosci.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-lacznosc-kdr-2014",
         "strona": 1,
         "sekcja": "Materiał szkoleniowy dotyczący organizacji łączności",
         "tytul": "Organizacja łączności na potrzeby KDR - materiał szkoleniowy",
-        "plik": "dokumenty/lacznosc/organizacja-lacznosci-kdr-2014.pdf"
+        "plik": "dokumenty/lacznosc/organizacja-lacznosci-kdr-2014.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "KARTA-ORG-WYTYCZNE-WSPOLDZIALANIA-CBRNE",
     "procedura": "Wytyczne wspoldzialania sluzb interweniujacych na miejscu zdarzen CBRN-E.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": []
   },
   {
     "id": "KARTA-ORG-ZASADY-ORGANIZOWANIA-DZIALAN-RATOWNICZYCH",
     "procedura": "Zasady organizowania dzialan ratowniczych - karta organizacyjna dla KDR.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": []
   },
   {
     "id": "POZ-EV-01",
     "procedura": "Pożar lub termiczne uszkodzenie baterii trakcyjnej EV",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-ev-szp-2023",
         "strona": 11,
         "sekcja": "Karta Z2 - pożar",
         "tytul": "Standardowe zasady postępowania podczas zdarzeń z samochodami z napędem elektrycznym oraz hybrydowym",
-        "plik": "dokumenty/pojazdy-elektryczne/szp-samochody-elektryczne-hybrydowe-2023-05.pdf"
+        "plik": "dokumenty/pojazdy-elektryczne/szp-samochody-elektryczne-hybrydowe-2023-05.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "KARTA-PTASIA-GRYPA-INFORMACJE-I-ZASADY",
     "procedura": "Ptasia grypa H5N8 - podstawowe informacje i zasady bezpiecznej pracy/sluzby.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-ptasia-grypa-h5n8",
         "strona": 2,
         "sekcja": "Informacje i zasady bezpiecznej pracy",
         "tytul": "Wytyczne GIS MSWiA w sprawie zjadliwej grypy ptaków typu A H5N8",
-        "plik": "dokumenty/biologiczne/ptasia-grypa-h5n8-wytyczne-2017.pdf"
+        "plik": "dokumenty/biologiczne/ptasia-grypa-h5n8-wytyczne-2017.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "KARTA-PTASIA-GRYPA-NADZOR-EPIDEMIOLOGICZNY",
     "procedura": "Ptasia grypa H5N8 - nadzor epidemiologiczny po bezposrednim narazeniu.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-ptasia-grypa-h5n8",
         "strona": 4,
         "sekcja": "Nadzór epidemiologiczny po narażeniu",
         "tytul": "Wytyczne GIS MSWiA w sprawie zjadliwej grypy ptaków typu A H5N8",
-        "plik": "dokumenty/biologiczne/ptasia-grypa-h5n8-wytyczne-2017.pdf"
+        "plik": "dokumenty/biologiczne/ptasia-grypa-h5n8-wytyczne-2017.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "KARTA-PTASIA-GRYPA-SOI-I-DEKONTAMINACJA",
     "procedura": "Ptasia grypa H5N8 - srodki ochrony indywidualnej i dekontaminacja po narazeniu.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-ptasia-grypa-h5n8",
         "strona": 3,
         "sekcja": "Środki ochrony indywidualnej i dekontaminacja",
         "tytul": "Wytyczne GIS MSWiA w sprawie zjadliwej grypy ptaków typu A H5N8",
-        "plik": "dokumenty/biologiczne/ptasia-grypa-h5n8-wytyczne-2017.pdf"
+        "plik": "dokumenty/biologiczne/ptasia-grypa-h5n8-wytyczne-2017.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "WYP-EV-01",
     "procedura": "Wypadek pojazdu elektrycznego po kolizji drogowej",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-ev-szp-2023",
         "strona": 9,
         "sekcja": "Karta Z1 - wypadek komunikacyjny",
         "tytul": "Standardowe zasady postępowania podczas zdarzeń z samochodami z napędem elektrycznym oraz hybrydowym",
-        "plik": "dokumenty/pojazdy-elektryczne/szp-samochody-elektryczne-hybrydowe-2023-05.pdf"
+        "plik": "dokumenty/pojazdy-elektryczne/szp-samochody-elektryczne-hybrydowe-2023-05.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "WYP-MAS-01",
     "procedura": "Wypadek masowy z udziałem wielu poszkodowanych i możliwym udziałem EV",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": []
   },
   {
     "id": "ZAT-EV-01",
     "procedura": "Pojazd elektryczny po zalaniu lub zatopieniu",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-ev-szp-2023",
         "strona": 13,
         "sekcja": "Karta Z3 - zatopienie samochodu w wodzie",
         "tytul": "Standardowe zasady postępowania podczas zdarzeń z samochodami z napędem elektrycznym oraz hybrydowym",
-        "plik": "dokumenty/pojazdy-elektryczne/szp-samochody-elektryczne-hybrydowe-2023-05.pdf"
+        "plik": "dokumenty/pojazdy-elektryczne/szp-samochody-elektryczne-hybrydowe-2023-05.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "KARTA-ZA-CEL-ZAKRES-MONITOROWANIA",
     "procedura": "Procedura monitorowania interwencyjnego pod katem wystepowania zlotej algi - cel, zakres i zasada.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-zlota-alga-w3-2023",
         "strona": 4,
         "sekcja": "Odpowiedni rozdział procedury monitorowania",
         "tytul": "Procedura monitorowania interwencyjnego Prymnesium parvum - złotej algi",
-        "plik": "dokumenty/srodowisko/procedura-zlota-alga-wydanie-3-2023.pdf"
+        "plik": "dokumenty/srodowisko/procedura-zlota-alga-wydanie-3-2023.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "KARTA-ZA-CZYNNIKI-RYZYKA",
     "procedura": "Zlota alga - glowne czynniki sprzyjajace wzrostowi i toksycznosci.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-zlota-alga-w3-2023",
         "strona": 5,
         "sekcja": "Odpowiedni rozdział procedury monitorowania",
         "tytul": "Procedura monitorowania interwencyjnego Prymnesium parvum - złotej algi",
-        "plik": "dokumenty/srodowisko/procedura-zlota-alga-wydanie-3-2023.pdf"
+        "plik": "dokumenty/srodowisko/procedura-zlota-alga-wydanie-3-2023.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "KARTA-ZA-POSTEPOWANIE",
     "procedura": "Zlota alga - etapy postepowania po stwierdzeniu poziomu zagrozenia.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-zlota-alga-w3-2023",
         "strona": 8,
         "sekcja": "Odpowiedni rozdział procedury monitorowania",
         "tytul": "Procedura monitorowania interwencyjnego Prymnesium parvum - złotej algi",
-        "plik": "dokumenty/srodowisko/procedura-zlota-alga-wydanie-3-2023.pdf"
+        "plik": "dokumenty/srodowisko/procedura-zlota-alga-wydanie-3-2023.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "KARTA-ZA-POZIOMY-ALARMOWE",
     "procedura": "Zlota alga - poziomy alarmowe dla kanalow, zbiornikow, rzek i starorzeczy.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-zlota-alga-w3-2023",
         "strona": 7,
         "sekcja": "Odpowiedni rozdział procedury monitorowania",
         "tytul": "Procedura monitorowania interwencyjnego Prymnesium parvum - złotej algi",
-        "plik": "dokumenty/srodowisko/procedura-zlota-alga-wydanie-3-2023.pdf"
+        "plik": "dokumenty/srodowisko/procedura-zlota-alga-wydanie-3-2023.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
     "id": "KARTA-ZA-WSKAZNIKI-BADANE",
     "procedura": "Zlota alga - wskazniki fizykochemiczne i biologiczne badane w wodzie i w terenie.",
+    "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-zlota-alga-w3-2023",
         "strona": 7,
         "sekcja": "Odpowiedni rozdział procedury monitorowania",
         "tytul": "Procedura monitorowania interwencyjnego Prymnesium parvum - złotej algi",
-        "plik": "dokumenty/srodowisko/procedura-zlota-alga-wydanie-3-2023.pdf"
+        "plik": "dokumenty/srodowisko/procedura-zlota-alga-wydanie-3-2023.pdf",
+        "typ": "pdf"
       }
     ]
   }

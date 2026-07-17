@@ -1,0 +1,48 @@
+{
+  "id": "KARTA-OLIOC-MAJ-04-SIEC_WSPARCIA",
+  "kategoria": "olioc",
+  "miesiac_akademii": "maj",
+  "grupa_docelowa": "obywatel",
+  "status_zrodla": "oficjalne",
+  "data_aktualizacji": "2026-07-17",
+  "data_weryfikacji_zrodel": "2026-07-17",
+  "zrodlo": "Poradnik bezpieczeństwa - Wspólnie dbamy o nasze bezpieczeństwo; Poradnik bezpieczeństwa - Osoby potrzebujące szczególnej pomocy; Poradnik bezpieczeństwa - Plan na kryzys",
+  "slowo_kluczowe": "olioc lokalna sieć wsparcia",
+  "keywords": [
+    "pomoc sąsiedzka w kryzysie",
+    "lista kontaktów sąsiedzkich",
+    "organizacja sąsiadów na kryzys"
+  ],
+  "prefix": "OLiOC - maj: lokalna sieć wsparcia i przygotowanie sąsiedzkie.",
+  "content": "1. Poznaj sąsiadów i ustal prosty sposób przekazywania ostrzeżeń.\n2. Zidentyfikuj osoby starsze, chore, samotne i z niepełnosprawnościami, które mogą wymagać wsparcia.\n3. Ustal osoby do kontaktu, ale nie publikuj list zawierających dane wrażliwe.\n4. Podziel role: przekazanie informacji, sprawdzenie potrzeb, pomoc w ewakuacji i kontakt ze służbami.\n5. Nie wchodź do strefy zagrożenia i nie podejmuj zadań wymagających specjalistycznych kwalifikacji.\n6. Ćwicz prosty scenariusz: brak łączności, konieczność ewakuacji i miejsce wspólnej zbiórki.",
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "Akademia OLiOC maj",
+    "pomoc sąsiedzka",
+    "lokalna społeczność"
+  ],
+  "aliasy": [
+    "pomoc sąsiedzka w kryzysie",
+    "lista kontaktów sąsiedzkich",
+    "organizacja sąsiadów na kryzys"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "src-poradnik-wspolnie",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    },
+    {
+      "dokument_id": "src-poradnik-szczegolna-pomoc",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    },
+    {
+      "dokument_id": "src-poradnik-plan",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    }
+  ]
+}

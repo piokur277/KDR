@@ -1,0 +1,43 @@
+{
+  "id": "KARTA-OLIOC-WRZESIEŃ-07-RODZINNY_PLAN",
+  "kategoria": "olioc",
+  "miesiac_akademii": "wrzesień",
+  "grupa_docelowa": "obywatel",
+  "status_zrodla": "oficjalne",
+  "data_aktualizacji": "2026-07-17",
+  "data_weryfikacji_zrodel": "2026-07-17",
+  "zrodlo": "Poradnik bezpieczeństwa - Plan na kryzys; Poradnik bezpieczeństwa - Osoby potrzebujące szczególnej pomocy",
+  "slowo_kluczowe": "olioc rodzinny plan kryzysowy",
+  "keywords": [
+    "plan awaryjny rodziny",
+    "rodzinny plan na sytuację kryzysową",
+    "ćwiczenie planu rodzinnego"
+  ],
+  "prefix": "OLiOC - wrzesień: rodzinny plan kryzysowy.",
+  "content": "1. Wypisz numery domowników, kontakt poza miejscowością oraz ważne numery służb i instytucji.\n2. Ustal dwa miejsca spotkania: blisko domu i poza miejscowością.\n3. Określ sposób odbioru dzieci, pomocy osobom zależnym i transportu zwierząt.\n4. Wskaż, kto zabiera leki, dokumenty, plecaki oraz wyłącza media.\n5. Przygotuj wariant na brak internetu, rozładowany telefon i rozdzielenie domowników.\n6. Przeglądaj plan i ćwicz go po zmianie miejsca zamieszkania, szkoły, pracy lub stanu zdrowia.",
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "Akademia OLiOC wrzesień",
+    "plan kryzysowy",
+    "rodzina"
+  ],
+  "aliasy": [
+    "plan awaryjny rodziny",
+    "rodzinny plan na sytuację kryzysową",
+    "ćwiczenie planu rodzinnego"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "src-poradnik-plan",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    },
+    {
+      "dokument_id": "src-poradnik-szczegolna-pomoc",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    }
+  ]
+}

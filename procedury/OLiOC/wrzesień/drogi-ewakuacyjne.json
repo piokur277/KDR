@@ -1,0 +1,43 @@
+{
+  "id": "KARTA-OLIOC-WRZESIEŃ-02-DROGI_EWAKUACYJNE",
+  "kategoria": "olioc",
+  "miesiac_akademii": "wrzesień",
+  "grupa_docelowa": "obywatel",
+  "status_zrodla": "oficjalne",
+  "data_aktualizacji": "2026-07-17",
+  "data_weryfikacji_zrodel": "2026-07-17",
+  "zrodlo": "Poradnik bezpieczeństwa - Przygotuj swoje otoczenie; Poradnik bezpieczeństwa - Pożar",
+  "slowo_kluczowe": "olioc drogi ewakuacyjne",
+  "keywords": [
+    "wyjście ewakuacyjne i miejsce zbiórki",
+    "jak ewakuować się z budynku",
+    "nie używaj windy podczas pożaru"
+  ],
+  "prefix": "OLiOC - wrzesień: drogi ewakuacyjne, wyjścia i miejsce zbiórki.",
+  "content": "1. Znajdź co najmniej dwie możliwe drogi wyjścia z domu, szkoły i miejsca pracy.\n2. Nie zastawiaj korytarzy, schodów, drzwi przeciwpożarowych ani wyjść.\n3. Podczas pożaru nie używaj windy - korzystaj ze schodów.\n4. Poruszaj się zgodnie z oznakowaniem i poleceniami; nie idź pod prąd ewakuacji.\n5. Po wyjściu przejdź do miejsca zbiórki i zgłoś swoją obecność.\n6. Nie wracaj do budynku po rzeczy ani po inne osoby - informację o pozostających osobach przekaż służbom.",
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "Akademia OLiOC wrzesień",
+    "drogi ewakuacyjne",
+    "miejsce zbiórki"
+  ],
+  "aliasy": [
+    "wyjście ewakuacyjne i miejsce zbiórki",
+    "jak ewakuować się z budynku",
+    "nie używaj windy podczas pożaru"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "src-poradnik-otoczenie",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    },
+    {
+      "dokument_id": "src-poradnik-pozar",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    }
+  ]
+}

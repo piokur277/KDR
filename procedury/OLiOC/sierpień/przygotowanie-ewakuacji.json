@@ -1,0 +1,43 @@
+{
+  "id": "KARTA-OLIOC-SIERPIEŃ-02-PRZYGOTOWANIE_EWAKUACJI",
+  "kategoria": "olioc",
+  "miesiac_akademii": "sierpień",
+  "grupa_docelowa": "obywatel",
+  "status_zrodla": "oficjalne",
+  "data_aktualizacji": "2026-07-17",
+  "data_weryfikacji_zrodel": "2026-07-17",
+  "zrodlo": "Poradnik bezpieczeństwa - Ewakuacja; Poradnik bezpieczeństwa - Plan na kryzys",
+  "slowo_kluczowe": "olioc przygotowanie do ewakuacji",
+  "keywords": [
+    "kiedy rozpocząć ewakuację",
+    "co zrobić przed opuszczeniem domu",
+    "przygotowanie mieszkania do ewakuacji"
+  ],
+  "prefix": "OLiOC - sierpień: przygotowanie do ewakuacji i decyzja o wyjściu.",
+  "content": "1. Jeśli występuje bezpośrednie zagrożenie życia, nie czekaj na utratę drogi wyjścia.\n2. Jeżeli ewakuację zarządzą władze lub służby, zastosuj się do poleceń i wyznaczonej trasy.\n3. O ile jest to bezpieczne: zamknij okna, zakręć wodę i gaz, wyłącz urządzenia oraz źródła ognia.\n4. Ubierz się do pogody, zabierz plecak, dokumenty, telefon i potrzebne leki.\n5. Powiadom bliskich, dokąd się udajesz; sprawdź sąsiadów wymagających pomocy.\n6. Nie wracaj po rzeczy, jeśli powrót naraża życie lub utrudnia działania ratownicze.",
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "Akademia OLiOC sierpień",
+    "ewakuacja ludności",
+    "zabezpieczenie domu"
+  ],
+  "aliasy": [
+    "kiedy rozpocząć ewakuację",
+    "co zrobić przed opuszczeniem domu",
+    "przygotowanie mieszkania do ewakuacji"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "src-poradnik-ewakuacja",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    },
+    {
+      "dokument_id": "src-poradnik-plan",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    }
+  ]
+}

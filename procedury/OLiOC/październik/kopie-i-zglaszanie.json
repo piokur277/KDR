@@ -1,0 +1,44 @@
+{
+  "id": "KARTA-OLIOC-PAŹDZIERNIK-05-KOPIE_I_ZGLASZANIE",
+  "kategoria": "olioc",
+  "miesiac_akademii": "październik",
+  "grupa_docelowa": "obywatel",
+  "status_zrodla": "oficjalne",
+  "data_aktualizacji": "2026-07-17",
+  "data_weryfikacji_zrodel": "2026-07-17",
+  "zrodlo": "Poradnik bezpieczeństwa - Zagrożenia cyfrowe; CERT Polska - zgłoszenie incydentu",
+  "slowo_kluczowe": "olioc kopie zapasowe i zgłoszenie incydentu",
+  "keywords": [
+    "backup ważnych dokumentów",
+    "co zrobić po cyberataku",
+    "zgłoszenie incydentu cert polska"
+  ],
+  "prefix": "OLiOC - październik: kopie zapasowe, ochrona danych i zgłaszanie incydentów.",
+  "content": "1. Wykonuj kopie ważnych dokumentów i zdjęć w co najmniej dwóch miejscach.\n2. Jedna kopia powinna być odłączona od urządzenia lub przechowywana w bezpiecznej usłudze z silnym hasłem.\n3. Zabezpiecz kopie szyfrowaniem i nie zapisuj haseł razem z dokumentami.\n4. Po podejrzeniu przejęcia konta zmień hasło z bezpiecznego urządzenia i wyloguj inne sesje.\n5. Zachowaj dowody: treść wiadomości, adres, godzinę i zrzuty ekranu, ale nie rozpowszechniaj szkodliwego linku.\n6. Incydent zgłoś do CERT Polska; oszustwo finansowe również do banku i policji.",
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "Akademia OLiOC październik",
+    "kopie zapasowe",
+    "ochrona danych",
+    "CERT Polska"
+  ],
+  "aliasy": [
+    "backup ważnych dokumentów",
+    "co zrobić po cyberataku",
+    "zgłoszenie incydentu cert polska"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "src-poradnik-cyfrowe",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    },
+    {
+      "dokument_id": "src-cert-zglos-incydent",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    }
+  ]
+}

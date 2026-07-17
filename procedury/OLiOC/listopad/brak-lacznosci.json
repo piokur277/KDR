@@ -1,0 +1,44 @@
+{
+  "id": "KARTA-OLIOC-LISTOPAD-05-BRAK_LACZNOSCI",
+  "kategoria": "olioc",
+  "miesiac_akademii": "listopad",
+  "grupa_docelowa": "obywatel",
+  "status_zrodla": "oficjalne",
+  "data_aktualizacji": "2026-07-17",
+  "data_weryfikacji_zrodel": "2026-07-17",
+  "zrodlo": "Poradnik bezpieczeństwa - Długotrwały brak prądu (blackout); Poradnik bezpieczeństwa - Plan na kryzys",
+  "slowo_kluczowe": "olioc brak telefonu i internetu",
+  "keywords": [
+    "łączność podczas blackoutu",
+    "radio bateryjne brak internetu",
+    "kontakt z rodziną gdy nie działa sieć"
+  ],
+  "prefix": "OLiOC - listopad: brak telefonu, internetu i przeciążenie sieci.",
+  "content": "1. Przejdź na ustalony wcześniej rodzinny plan i miejsca spotkania.\n2. Wysyłaj krótkie SMS-y zamiast wielokrotnych połączeń głosowych.\n3. Ogranicz zużycie baterii, wyłączając transmisję danych, lokalizację i zbędne aplikacje.\n4. Korzystaj z radia bateryjnego, komunikatów lokalnych i punktów informacyjnych.\n5. Miej papierową listę kontaktów, adresów i podstawową mapę okolicy.\n6. Nie opuszczaj bezpiecznego miejsca wyłącznie po to, aby szukać zasięgu, jeśli warunki są niebezpieczne.",
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "Akademia OLiOC listopad",
+    "brak łączności",
+    "radio",
+    "kontakty awaryjne"
+  ],
+  "aliasy": [
+    "łączność podczas blackoutu",
+    "radio bateryjne brak internetu",
+    "kontakt z rodziną gdy nie działa sieć"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "src-poradnik-blackout",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    },
+    {
+      "dokument_id": "src-poradnik-plan",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    }
+  ]
+}

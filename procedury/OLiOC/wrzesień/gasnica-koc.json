@@ -1,0 +1,44 @@
+{
+  "id": "KARTA-OLIOC-WRZESIEŃ-03-GASNICA_KOC",
+  "kategoria": "olioc",
+  "miesiac_akademii": "wrzesień",
+  "grupa_docelowa": "obywatel",
+  "status_zrodla": "oficjalne",
+  "data_aktualizacji": "2026-07-17",
+  "data_weryfikacji_zrodel": "2026-07-17",
+  "zrodlo": "Poradnik bezpieczeństwa - Pożar; Poradnik bezpieczeństwa - Przygotuj swoje otoczenie",
+  "slowo_kluczowe": "olioc jak użyć gaśnicy",
+  "keywords": [
+    "gaszenie małego pożaru przez obywatela",
+    "koc gaśniczy użycie",
+    "rodzaje pożarów oznaczenia gaśnicy"
+  ],
+  "prefix": "OLiOC - wrzesień: bezpieczne użycie gaśnicy i koca gaśniczego.",
+  "content": "1. Najpierw zaalarmuj osoby zagrożone i zadzwoń pod 112.\n2. Gaś tylko mały pożar, gdy masz drogę odwrotu i nie występuje intensywne zadymienie.\n3. Sprawdź oznaczenie gaśnicy i używaj jej wyłącznie do pożarów, do których jest przeznaczona.\n4. Skieruj środek gaśniczy u podstawy płomieni, stojąc od strony umożliwiającej wycofanie.\n5. Nie gaś wodą urządzeń pod napięciem, oleju ani tłuszczu; palące się naczynie przykryj kocem gaśniczym lub pokrywką.\n6. Jeśli ogień rośnie albo jedna gaśnica nie wystarcza - natychmiast wycofaj się, zamknij drzwi i czekaj na straż.",
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "Akademia OLiOC wrzesień",
+    "gaśnica",
+    "koc gaśniczy",
+    "pożar"
+  ],
+  "aliasy": [
+    "gaszenie małego pożaru przez obywatela",
+    "koc gaśniczy użycie",
+    "rodzaje pożarów oznaczenia gaśnicy"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "src-poradnik-pozar",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    },
+    {
+      "dokument_id": "src-poradnik-otoczenie",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    }
+  ]
+}

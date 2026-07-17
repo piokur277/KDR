@@ -1,0 +1,44 @@
+{
+  "id": "KARTA-OLIOC-SIERPIEŃ-04-EWAKUACJA_SZCZEGOLNE_POTRZEBY",
+  "kategoria": "olioc",
+  "miesiac_akademii": "sierpień",
+  "grupa_docelowa": "obywatel",
+  "status_zrodla": "oficjalne",
+  "data_aktualizacji": "2026-07-17",
+  "data_weryfikacji_zrodel": "2026-07-17",
+  "zrodlo": "Poradnik bezpieczeństwa - Osoby potrzebujące szczególnej pomocy; Poradnik bezpieczeństwa - Ewakuacja",
+  "slowo_kluczowe": "olioc ewakuacja osób ze szczególnymi potrzebami",
+  "keywords": [
+    "ewakuacja seniora i osoby niepełnosprawnej",
+    "dziecko podczas ewakuacji",
+    "leki i urządzenia wspomagające ewakuacja"
+  ],
+  "prefix": "OLiOC - sierpień: ewakuacja dzieci, seniorów i osób z niepełnosprawnościami.",
+  "content": "1. Ustal wcześniej indywidualny plan pomocy i sposób komunikacji z osobą wspieraną.\n2. Przygotuj leki, dokumentację medyczną, baterie i ładowanie urządzeń wspomagających.\n3. Zapisz informacje o sposobie przemieszczania, komunikacji i niezbędnej pomocy.\n4. Poinformuj służby o osobie, która nie może samodzielnie opuścić budynku.\n5. Dziecku przekaż spokojne, krótkie polecenia i zapewnij identyfikator z kontaktem do opiekuna.\n6. Nie rozdzielaj osoby zależnej od opiekuna ani od niezbędnego sprzętu bez uzgodnienia ze służbami.",
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "Akademia OLiOC sierpień",
+    "szczególne potrzeby",
+    "seniorzy",
+    "osoby z niepełnosprawnościami"
+  ],
+  "aliasy": [
+    "ewakuacja seniora i osoby niepełnosprawnej",
+    "dziecko podczas ewakuacji",
+    "leki i urządzenia wspomagające ewakuacja"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "src-poradnik-szczegolna-pomoc",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    },
+    {
+      "dokument_id": "src-poradnik-ewakuacja",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    }
+  ]
+}

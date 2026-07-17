@@ -1,0 +1,48 @@
+{
+  "id": "KARTA-OLIOC-WRZESIEŃ-05-ODCIECIE_MEDIOW",
+  "kategoria": "olioc",
+  "miesiac_akademii": "wrzesień",
+  "grupa_docelowa": "obywatel",
+  "status_zrodla": "oficjalne",
+  "data_aktualizacji": "2026-07-17",
+  "data_weryfikacji_zrodel": "2026-07-17",
+  "zrodlo": "Poradnik bezpieczeństwa - Przygotuj swoje otoczenie; Poradnik bezpieczeństwa - Ewakuacja; Poradnik bezpieczeństwa - Pożar",
+  "slowo_kluczowe": "olioc odcięcie mediów w domu",
+  "keywords": [
+    "jak wyłączyć prąd gaz wodę awaryjnie",
+    "główny zawór gazu i wody",
+    "oznaczenie miejsc odcięcia mediów"
+  ],
+  "prefix": "OLiOC - wrzesień: bezpieczne odcięcie prądu, gazu i wody.",
+  "content": "1. Znajdź i oznacz główny wyłącznik prądu oraz zawory gazu i wody.\n2. Pokaż wszystkim dorosłym domownikom ich lokalizację i sposób bezpiecznego użycia.\n3. Odcinaj media tylko wtedy, gdy możesz to zrobić bez wchodzenia w wodę, dym, ogień lub strefę uszkodzonej instalacji.\n4. Nie dotykaj mokrych urządzeń elektrycznych ani zerwanych przewodów.\n5. Po zakręceniu gazu nie uruchamiaj ponownie instalacji samodzielnie - poczekaj na osobę uprawnioną.\n6. Podczas ewakuacji wykonaj odcięcie tylko wtedy, gdy nie opóźnia ono bezpiecznego opuszczenia budynku.",
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "Akademia OLiOC wrzesień",
+    "media",
+    "prąd gaz woda"
+  ],
+  "aliasy": [
+    "jak wyłączyć prąd gaz wodę awaryjnie",
+    "główny zawór gazu i wody",
+    "oznaczenie miejsc odcięcia mediów"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "src-poradnik-otoczenie",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    },
+    {
+      "dokument_id": "src-poradnik-ewakuacja",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    },
+    {
+      "dokument_id": "src-poradnik-pozar",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    }
+  ]
+}

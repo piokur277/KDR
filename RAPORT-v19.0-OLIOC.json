@@ -1,0 +1,39 @@
+{
+  "version": "v19.0 OLiOC",
+  "verification_date": "2026-07-17",
+  "excluded_months": [
+    "czerwiec"
+  ],
+  "olioc_months": {
+    "maj": 5,
+    "lipiec": 4,
+    "sierpień": 6,
+    "wrzesień": 8,
+    "październik": 5,
+    "listopad": 7,
+    "grudzień": 6
+  },
+  "olioc_procedure_count": 41,
+  "total_procedure_count": 112,
+  "official_web_source_count": 20,
+  "total_registry_entry_count": 41,
+  "source_policy": "Procedury OLiOC opracowano wyłącznie na podstawie oficjalnych źródeł administracji publicznej, służb i instytucji państwowych.",
+  "direct_term_repairs": [],
+  "shared_tag_repairs": [
+    {
+      "id": "KARTA-OLIOC-WRZESIEŃ-06-CZUJKI",
+      "before": "tlenek węgla",
+      "after": "temat tlenek węgla"
+    },
+    {
+      "id": "KARTA-OLIOC-LISTOPAD-03-BRAK_OGRZEWANIA_CZAD",
+      "before": "tlenek węgla",
+      "after": "temat tlenek węgla"
+    }
+  ],
+  "previous_changes_preserved": true,
+  "online_update_definitions": "OK",
+  "back_button": "OK",
+  "database_validation": "OK",
+  "javascript_syntax": "OK"
+}

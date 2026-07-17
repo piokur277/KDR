@@ -1,0 +1,39 @@
+{
+  "id": "KARTA-OLIOC-PAŹDZIERNIK-04-TELEFON_KONTA",
+  "kategoria": "olioc",
+  "miesiac_akademii": "październik",
+  "grupa_docelowa": "obywatel",
+  "status_zrodla": "oficjalne",
+  "data_aktualizacji": "2026-07-17",
+  "data_weryfikacji_zrodel": "2026-07-17",
+  "zrodlo": "Poradnik bezpieczeństwa - Zagrożenia cyfrowe",
+  "slowo_kluczowe": "olioc bezpieczny telefon i konta",
+  "keywords": [
+    "zabezpieczenie smartfona na kryzys",
+    "silne hasło i uwierzytelnianie dwuskładnikowe",
+    "aktualizacja telefonu bezpieczeństwo"
+  ],
+  "prefix": "OLiOC - październik: zabezpieczenie telefonu i kont internetowych.",
+  "content": "1. Aktualizuj system, przeglądarkę i aplikacje; instaluj programy tylko z oficjalnych sklepów.\n2. Używaj różnych, silnych haseł i menedżera haseł.\n3. Włącz uwierzytelnianie wieloskładnikowe, szczególnie dla poczty, banku i mediów społecznościowych.\n4. Zabezpiecz ekran kodem, PIN-em lub biometrią i ustaw automatyczną blokadę.\n5. Ogranicz uprawnienia aplikacji oraz usuń programy, których nie używasz.\n6. Nie korzystaj z publicznego Wi-Fi do operacji bankowych i logowania do ważnych usług bez właściwego zabezpieczenia.",
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "Akademia OLiOC październik",
+    "cyberbezpieczeństwo",
+    "telefon",
+    "konta internetowe"
+  ],
+  "aliasy": [
+    "zabezpieczenie smartfona na kryzys",
+    "silne hasło i uwierzytelnianie dwuskładnikowe",
+    "aktualizacja telefonu bezpieczeństwo"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "src-poradnik-cyfrowe",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    }
+  ]
+}

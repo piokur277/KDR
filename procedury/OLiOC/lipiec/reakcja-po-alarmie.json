@@ -1,0 +1,43 @@
+{
+  "id": "KARTA-OLIOC-LIPIEC-03-REAKCJA_PO_ALARMIE",
+  "kategoria": "olioc",
+  "miesiac_akademii": "lipiec",
+  "grupa_docelowa": "obywatel",
+  "status_zrodla": "oficjalne",
+  "data_aktualizacji": "2026-07-17",
+  "data_weryfikacji_zrodel": "2026-07-17",
+  "zrodlo": "Poradnik bezpieczeństwa - Sygnały alarmowe i komunikaty ostrzegawcze; Poradnik bezpieczeństwa - Plan na kryzys",
+  "slowo_kluczowe": "olioc co robić po alarmie",
+  "keywords": [
+    "pierwsze działania po syrenie alarmowej",
+    "reakcja obywatela na alarm",
+    "postępowanie po komunikacie ostrzegawczym"
+  ],
+  "prefix": "OLiOC - lipiec: co zrobić natychmiast po ogłoszeniu alarmu.",
+  "content": "1. Zachowaj spokój i ustal, czego dotyczy alarm.\n2. Zbierz domowników, uruchom rodzinny plan i przygotuj telefon, radio, dokumenty oraz plecak.\n3. Zależnie od komunikatu: pozostań w budynku, uszczelnij pomieszczenie, przejdź do schronienia albo rozpocznij ewakuację.\n4. Pomóż dzieciom, seniorom i osobom wymagającym wsparcia.\n5. Ogranicz połączenia telefoniczne i korzystanie z sieci, aby nie przeciążać łączności.\n6. Nie opuszczaj bezpiecznego miejsca, dopóki nie usłyszysz odwołania alarmu albo polecenia służb.",
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "Akademia OLiOC lipiec",
+    "reakcja na alarm",
+    "bezpieczeństwo rodziny"
+  ],
+  "aliasy": [
+    "pierwsze działania po syrenie alarmowej",
+    "reakcja obywatela na alarm",
+    "postępowanie po komunikacie ostrzegawczym"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "src-poradnik-alarmy",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    },
+    {
+      "dokument_id": "src-poradnik-plan",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "KARTA-OLIOC-LIPIEC-01-SYGNALY_ALARMOWE",
+  "kategoria": "olioc",
+  "miesiac_akademii": "lipiec",
+  "grupa_docelowa": "obywatel",
+  "status_zrodla": "oficjalne",
+  "data_aktualizacji": "2026-07-17",
+  "data_weryfikacji_zrodel": "2026-07-17",
+  "zrodlo": "Akademia OLiOC - program „jeden miesiąc - jeden temat”; Poradnik bezpieczeństwa - Sygnały alarmowe i komunikaty ostrzegawcze",
+  "slowo_kluczowe": "olioc sygnały alarmowe",
+  "keywords": [
+    "modulowany dźwięk syreny trzy minuty",
+    "jednostajny dźwięk syreny odwołanie alarmu",
+    "jak rozpoznać alarm syreną"
+  ],
+  "prefix": "OLiOC - lipiec: sygnały alarmowe i ich znaczenie.",
+  "content": "1. Ogłoszenie alarmu: modulowany dźwięk syreny trwający 3 minuty.\n2. Odwołanie alarmu: ciągły, jednostajny dźwięk syreny trwający 3 minuty.\n3. Po usłyszeniu syreny przerwij wykonywane czynności i sprawdź oficjalny komunikat.\n4. Włącz radio, telewizję lub oficjalny serwis internetowy; sprawdź Alert RCB i RSO.\n5. Nie dzwoń na 112 tylko po to, aby zapytać o znaczenie syreny - numer musi pozostać dostępny dla osób zagrożonych.\n6. Ćwiczenia syren są wcześniej zapowiadane; podczas rzeczywistego alarmu wykonuj polecenia władz i służb.",
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "Akademia OLiOC lipiec",
+    "alarmowanie",
+    "syreny alarmowe"
+  ],
+  "aliasy": [
+    "modulowany dźwięk syreny trzy minuty",
+    "jednostajny dźwięk syreny odwołanie alarmu",
+    "jak rozpoznać alarm syreną"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "src-olioc-akademia",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    },
+    {
+      "dokument_id": "src-poradnik-alarmy",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    }
+  ]
+}

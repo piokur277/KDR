@@ -1,0 +1,43 @@
+{
+  "id": "KARTA-OLIOC-GRUDZIEŃ-06-ROTACJA_ZAPASOW",
+  "kategoria": "olioc",
+  "miesiac_akademii": "grudzień",
+  "grupa_docelowa": "obywatel",
+  "status_zrodla": "oficjalne",
+  "data_aktualizacji": "2026-07-17",
+  "data_weryfikacji_zrodel": "2026-07-17",
+  "zrodlo": "Poradnik bezpieczeństwa - Plan na kryzys; Poradnik bezpieczeństwa - Długotrwały brak prądu (blackout)",
+  "slowo_kluczowe": "olioc kontrola i rotacja zapasów",
+  "keywords": [
+    "jak sprawdzać domowe zapasy kryzysowe",
+    "terminy ważności zapasów 72 godziny",
+    "lista kontrolna zestawu awaryjnego"
+  ],
+  "prefix": "OLiOC - grudzień: przechowywanie, kontrola i rotacja zapasów.",
+  "content": "1. Sporządź listę zapasów z ilością, miejscem przechowywania i terminem ważności.\n2. Kontroluj zestaw co najmniej dwa razy w roku oraz po każdym użyciu.\n3. Produkty z najkrótszym terminem zużywaj na co dzień i od razu zastępuj nowymi.\n4. Sprawdzaj baterie, powerbanki, latarki, radio, gaśnicę, czujki i stan pojemników.\n5. Przechowuj zapasy w suchym, chłodnym miejscu, zabezpieczonym przed dziećmi, wilgocią i szkodnikami.\n6. Raz w roku przeprowadź rodzinny trening 24 godzin z ograniczonym dostępem do prądu, wody i internetu.",
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "Akademia OLiOC grudzień",
+    "rotacja zapasów",
+    "lista kontrolna"
+  ],
+  "aliasy": [
+    "jak sprawdzać domowe zapasy kryzysowe",
+    "terminy ważności zapasów 72 godziny",
+    "lista kontrolna zestawu awaryjnego"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "src-poradnik-plan",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    },
+    {
+      "dokument_id": "src-poradnik-blackout",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    }
+  ]
+}

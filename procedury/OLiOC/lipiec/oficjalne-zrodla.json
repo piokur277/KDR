@@ -1,0 +1,43 @@
+{
+  "id": "KARTA-OLIOC-LIPIEC-04-OFICJALNE_ZRODLA",
+  "kategoria": "olioc",
+  "miesiac_akademii": "lipiec",
+  "grupa_docelowa": "obywatel",
+  "status_zrodla": "oficjalne",
+  "data_aktualizacji": "2026-07-17",
+  "data_weryfikacji_zrodel": "2026-07-17",
+  "zrodlo": "Poradnik bezpieczeństwa - Sygnały alarmowe i komunikaty ostrzegawcze; Poradnik bezpieczeństwa - Zagrożenia cyfrowe",
+  "slowo_kluczowe": "olioc oficjalne źródła informacji",
+  "keywords": [
+    "gdzie sprawdzać informacje o zagrożeniu",
+    "wiarygodne komunikaty podczas kryzysu",
+    "radio rso alert rcb informacje"
+  ],
+  "prefix": "OLiOC - lipiec: oficjalne źródła informacji podczas kryzysu.",
+  "content": "1. Korzystaj z Alertów RCB, RSO, stron gov.pl, urzędu wojewódzkiego, gminy i oficjalnych profili służb.\n2. Słuchaj radia i telewizji publicznej, zwłaszcza gdy internet działa niestabilnie.\n3. Sprawdź tę samą informację w co najmniej dwóch oficjalnych kanałach.\n4. Zwracaj uwagę na datę, godzinę, obszar obowiązywania i autora komunikatu.\n5. Nie przekazuj dalej zrzutów ekranu bez linku do źródła i informacji o czasie publikacji.\n6. W razie braku internetu używaj radia bateryjnego i lokalnych komunikatów głosowych.",
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "Akademia OLiOC lipiec",
+    "wiarygodne informacje",
+    "komunikacja kryzysowa"
+  ],
+  "aliasy": [
+    "gdzie sprawdzać informacje o zagrożeniu",
+    "wiarygodne komunikaty podczas kryzysu",
+    "radio rso alert rcb informacje"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "src-poradnik-alarmy",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    },
+    {
+      "dokument_id": "src-poradnik-cyfrowe",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    }
+  ]
+}

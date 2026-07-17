@@ -1736,6 +1736,1803 @@
     ]
   },
   {
+    "id": "KARTA-OLIOC-GRUDZIEŃ-04-LEKI_HIGIENA",
+    "kategoria": "olioc",
+    "miesiac_akademii": "grudzień",
+    "grupa_docelowa": "obywatel",
+    "status_zrodla": "oficjalne",
+    "data_aktualizacji": "2026-07-17",
+    "data_weryfikacji_zrodel": "2026-07-17",
+    "zrodlo": "Poradnik bezpieczeństwa - Przygotuj siebie i najbliższych; Poradnik bezpieczeństwa - Higiena w kryzysie; Poradnik bezpieczeństwa - Plan na kryzys",
+    "slowo_kluczowe": "olioc leki i higiena na kryzys",
+    "keywords": [
+      "apteczka i leki na 72 godziny",
+      "środki higieny podczas kryzysu",
+      "dokumentacja medyczna i alergie kryzys"
+    ],
+    "prefix": "OLiOC - grudzień: leki, zdrowie i higiena w domowych zapasach.",
+    "content": "1. Zgromadź stale przyjmowane leki, podstawową apteczkę oraz listę dawkowania, chorób i alergii.\n2. Dokumentację medyczną i recepty przechowuj w jednym miejscu, dostępnym dla zaufanej osoby.\n3. Przygotuj środki higieny osobistej, dezynfekcji, rękawiczki, papier, worki i artykuły menstruacyjne.\n4. Uwzględnij okulary, baterie do aparatów słuchowych, sensory, sprzęt stomijny i inne urządzenia wspomagające.\n5. Kontroluj temperaturę oraz warunki przechowywania leków; nie używaj produktów po terminie.\n6. Nie gromadź leków na receptę bez uzgodnienia z lekarzem lub farmaceutą.",
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "Akademia OLiOC grudzień",
+      "leki",
+      "higiena",
+      "zdrowie"
+    ],
+    "aliasy": [
+      "apteczka i leki na 72 godziny",
+      "środki higieny podczas kryzysu",
+      "dokumentacja medyczna i alergie kryzys"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-poradnik-przygotuj-siebie",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      },
+      {
+        "dokument_id": "src-poradnik-higiena",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      },
+      {
+        "dokument_id": "src-poradnik-plan",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-GRUDZIEŃ-06-ROTACJA_ZAPASOW",
+    "kategoria": "olioc",
+    "miesiac_akademii": "grudzień",
+    "grupa_docelowa": "obywatel",
+    "status_zrodla": "oficjalne",
+    "data_aktualizacji": "2026-07-17",
+    "data_weryfikacji_zrodel": "2026-07-17",
+    "zrodlo": "Poradnik bezpieczeństwa - Plan na kryzys; Poradnik bezpieczeństwa - Długotrwały brak prądu (blackout)",
+    "slowo_kluczowe": "olioc kontrola i rotacja zapasów",
+    "keywords": [
+      "jak sprawdzać domowe zapasy kryzysowe",
+      "terminy ważności zapasów 72 godziny",
+      "lista kontrolna zestawu awaryjnego"
+    ],
+    "prefix": "OLiOC - grudzień: przechowywanie, kontrola i rotacja zapasów.",
+    "content": "1. Sporządź listę zapasów z ilością, miejscem przechowywania i terminem ważności.\n2. Kontroluj zestaw co najmniej dwa razy w roku oraz po każdym użyciu.\n3. Produkty z najkrótszym terminem zużywaj na co dzień i od razu zastępuj nowymi.\n4. Sprawdzaj baterie, powerbanki, latarki, radio, gaśnicę, czujki i stan pojemników.\n5. Przechowuj zapasy w suchym, chłodnym miejscu, zabezpieczonym przed dziećmi, wilgocią i szkodnikami.\n6. Raz w roku przeprowadź rodzinny trening 24 godzin z ograniczonym dostępem do prądu, wody i internetu.",
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "Akademia OLiOC grudzień",
+      "rotacja zapasów",
+      "lista kontrolna"
+    ],
+    "aliasy": [
+      "jak sprawdzać domowe zapasy kryzysowe",
+      "terminy ważności zapasów 72 godziny",
+      "lista kontrolna zestawu awaryjnego"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-poradnik-plan",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      },
+      {
+        "dokument_id": "src-poradnik-blackout",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-GRUDZIEŃ-05-SZCZEGOLNE_POTRZEBY_ZAPASY",
+    "kategoria": "olioc",
+    "miesiac_akademii": "grudzień",
+    "grupa_docelowa": "obywatel",
+    "status_zrodla": "oficjalne",
+    "data_aktualizacji": "2026-07-17",
+    "data_weryfikacji_zrodel": "2026-07-17",
+    "zrodlo": "Poradnik bezpieczeństwa - Osoby potrzebujące szczególnej pomocy; Poradnik bezpieczeństwa - Zadbaj o zwierzęta",
+    "slowo_kluczowe": "olioc zapasy dla dzieci seniorów zwierząt",
+    "keywords": [
+      "specjalne potrzeby zapasy kryzysowe",
+      "żywność niemowlęca i pieluchy kryzys",
+      "karma leki zwierzęta 72 godziny"
+    ],
+    "prefix": "OLiOC - grudzień: zapasy dla dzieci, seniorów, osób zależnych i zwierząt.",
+    "content": "1. Dla niemowląt przygotuj żywność, wodę do jej przygotowania, pieluchy, środki pielęgnacji i ubrania.\n2. Dla seniorów i osób chorych uwzględnij leki, dietę, baterie, sprzęt pomocniczy i plan transportu.\n3. Przygotuj kartę z kontaktem do opiekuna i najważniejszymi informacjami medycznymi.\n4. Dla zwierząt przygotuj karmę, wodę, leki, transporter, smycz, dokumentację i dane właściciela.\n5. Zapasy i plecak osoby zależnej omów z nią oraz z opiekunem - nie zakładaj potrzeb bez konsultacji.\n6. Powiadom zaufane osoby, gdzie znajdują się zapasy i jak udzielić wsparcia.",
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "Akademia OLiOC grudzień",
+      "dzieci",
+      "seniorzy",
+      "zwierzęta",
+      "szczególne potrzeby"
+    ],
+    "aliasy": [
+      "specjalne potrzeby zapasy kryzysowe",
+      "żywność niemowlęca i pieluchy kryzys",
+      "karma leki zwierzęta 72 godziny"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-poradnik-szczegolna-pomoc",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      },
+      {
+        "dokument_id": "src-poradnik-zwierzeta",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-GRUDZIEŃ-02-ZAPAS_WODY",
+    "kategoria": "olioc",
+    "miesiac_akademii": "grudzień",
+    "grupa_docelowa": "obywatel",
+    "status_zrodla": "oficjalne",
+    "data_aktualizacji": "2026-07-17",
+    "data_weryfikacji_zrodel": "2026-07-17",
+    "zrodlo": "Poradnik bezpieczeństwa - Długotrwały brak prądu (blackout); Poradnik bezpieczeństwa - Plan na kryzys",
+    "slowo_kluczowe": "olioc zapas wody 3 litry",
+    "keywords": [
+      "ile wody na osobę na dobę kryzys",
+      "woda na 72 godziny",
+      "przechowywanie wody awaryjnej"
+    ],
+    "prefix": "OLiOC - grudzień: zapas wody dla rodziny.",
+    "content": "1. Przygotuj co najmniej 3 litry wody na osobę na każdą dobę, czyli minimum 9 litrów na 72 godziny.\n2. Dodaj wodę dla zwierząt oraz większy zapas przy upałach, chorobach i szczególnych potrzebach.\n3. Przechowuj wodę w szczelnych, czystych pojemnikach przeznaczonych do żywności, z dala od słońca i chemikaliów.\n4. Oznacz datę zakupu lub napełnienia i stosuj rotację zgodnie z terminem producenta.\n5. Oddziel wodę pitną od wody technicznej do mycia i spłukiwania.\n6. Po komunikacie o skażeniu lub zakazie spożycia korzystaj wyłącznie ze źródeł wskazanych przez władze i sanepid.",
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "Akademia OLiOC grudzień",
+      "zapas wody",
+      "woda na kryzys"
+    ],
+    "aliasy": [
+      "ile wody na osobę na dobę kryzys",
+      "woda na 72 godziny",
+      "przechowywanie wody awaryjnej"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-poradnik-blackout",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      },
+      {
+        "dokument_id": "src-poradnik-plan",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-GRUDZIEŃ-03-ZAPAS_ZYWNOSCI",
+    "kategoria": "olioc",
+    "miesiac_akademii": "grudzień",
+    "grupa_docelowa": "obywatel",
+    "status_zrodla": "oficjalne",
+    "data_aktualizacji": "2026-07-17",
+    "data_weryfikacji_zrodel": "2026-07-17",
+    "zrodlo": "Poradnik bezpieczeństwa - Długotrwały brak prądu (blackout); Poradnik bezpieczeństwa - Plan na kryzys",
+    "slowo_kluczowe": "olioc żywność na 72 godziny",
+    "keywords": [
+      "jedzenie na trzy dni bez gotowania",
+      "produkty do zapasu kryzysowego",
+      "żywność gotowa do spożycia blackout"
+    ],
+    "prefix": "OLiOC - grudzień: zapas żywności na 72 godziny.",
+    "content": "1. Wybieraj produkty trwałe, gotowe do spożycia lub wymagające niewielkiej ilości wody i energii.\n2. Przygotuj żywność zgodną z dietą domowników, alergiami i możliwościami gryzienia lub połykania.\n3. Miej ręczny otwieracz do puszek oraz bezpieczne naczynia i sztućce.\n4. Nie opieraj całego zapasu na produktach bardzo słonych, które zwiększają zapotrzebowanie na wodę.\n5. Zapisz prosty jadłospis na 3 dni, aby znać rzeczywistą ilość potrzebnych produktów.\n6. Stosuj zasadę: kup, używaj, uzupełniaj - nie dopuszczaj do przeterminowania zapasów.",
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "Akademia OLiOC grudzień",
+      "zapas żywności",
+      "żywność bez gotowania"
+    ],
+    "aliasy": [
+      "jedzenie na trzy dni bez gotowania",
+      "produkty do zapasu kryzysowego",
+      "żywność gotowa do spożycia blackout"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-poradnik-blackout",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      },
+      {
+        "dokument_id": "src-poradnik-plan",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-GRUDZIEŃ-01-ZAPASY_72H",
+    "kategoria": "olioc",
+    "miesiac_akademii": "grudzień",
+    "grupa_docelowa": "obywatel",
+    "status_zrodla": "oficjalne",
+    "data_aktualizacji": "2026-07-17",
+    "data_weryfikacji_zrodel": "2026-07-17",
+    "zrodlo": "Akademia OLiOC - program „jeden miesiąc - jeden temat”; Poradnik bezpieczeństwa - Plan na kryzys; Poradnik bezpieczeństwa - Długotrwały brak prądu (blackout)",
+    "slowo_kluczowe": "olioc zapasy na 72 godziny",
+    "keywords": [
+      "domowy zestaw kryzysowy trzy dni",
+      "co przygotować na 72 godziny",
+      "zapasy rodziny na sytuację kryzysową"
+    ],
+    "prefix": "OLiOC - grudzień: domowe zapasy na pierwsze 72 godziny.",
+    "content": "1. Policz liczbę domowników i przygotuj zapasy na minimum 3 pełne doby.\n2. Uwzględnij wodę, żywność, leki, higienę, oświetlenie, łączność, ogrzewanie i gotówkę.\n3. Dostosuj zapasy do wieku, zdrowia, alergii, diety, urządzeń medycznych i zwierząt.\n4. Przechowuj rzeczy w kilku bezpiecznych miejscach, dostępnych także po uszkodzeniu części domu.\n5. Nie kupuj jednorazowo przypadkowych produktów - wybieraj rzeczy, których rodzina używa na co dzień.\n6. Raz na pół roku przeprowadź kontrolę, uzupełnij zużyte elementy i przećwicz funkcjonowanie bez mediów.",
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "Akademia OLiOC grudzień",
+      "72 godziny",
+      "zapasy domowe"
+    ],
+    "aliasy": [
+      "domowy zestaw kryzysowy trzy dni",
+      "co przygotować na 72 godziny",
+      "zapasy rodziny na sytuację kryzysową"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-olioc-akademia",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      },
+      {
+        "dokument_id": "src-poradnik-plan",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      },
+      {
+        "dokument_id": "src-poradnik-blackout",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-LIPIEC-02-KOMUNIKATY_OSTRZEGAWCZE",
+    "kategoria": "olioc",
+    "miesiac_akademii": "lipiec",
+    "grupa_docelowa": "obywatel",
+    "status_zrodla": "oficjalne",
+    "data_aktualizacji": "2026-07-17",
+    "data_weryfikacji_zrodel": "2026-07-17",
+    "zrodlo": "Poradnik bezpieczeństwa - Sygnały alarmowe i komunikaty ostrzegawcze",
+    "slowo_kluczowe": "olioc alert rcb i rso",
+    "keywords": [
+      "komunikat ostrzegawczy na telefon",
+      "regionalny system ostrzegania olioc",
+      "jak reagować na alert rcb"
+    ],
+    "prefix": "OLiOC - lipiec: Alert RCB, RSO i komunikaty ostrzegawcze.",
+    "content": "1. Przeczytaj cały komunikat: rodzaj zagrożenia, obszar, czas i wymagane działanie.\n2. Sprawdź, czy komunikat dotyczy miejsca, w którym jesteś lub do którego zmierzasz.\n3. Wykonaj polecenia bez zwłoki, zwłaszcza dotyczące ewakuacji, pozostania w budynku lub zabezpieczenia mienia.\n4. Przekaż informację domownikom i osobom, które mogą nie mieć telefonu lub dostępu do mediów.\n5. Nie odpowiadaj na Alert RCB i nie klikaj linków z nieznanych wiadomości podszywających się pod służby.\n6. Aktualizacje sytuacji sprawdzaj w oficjalnych kanałach rządowych, samorządowych i służb.",
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "Akademia OLiOC lipiec",
+      "Alert RCB",
+      "RSO",
+      "komunikaty ostrzegawcze"
+    ],
+    "aliasy": [
+      "komunikat ostrzegawczy na telefon",
+      "regionalny system ostrzegania olioc",
+      "jak reagować na alert rcb"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-poradnik-alarmy",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-LIPIEC-04-OFICJALNE_ZRODLA",
+    "kategoria": "olioc",
+    "miesiac_akademii": "lipiec",
+    "grupa_docelowa": "obywatel",
+    "status_zrodla": "oficjalne",
+    "data_aktualizacji": "2026-07-17",
+    "data_weryfikacji_zrodel": "2026-07-17",
+    "zrodlo": "Poradnik bezpieczeństwa - Sygnały alarmowe i komunikaty ostrzegawcze; Poradnik bezpieczeństwa - Zagrożenia cyfrowe",
+    "slowo_kluczowe": "olioc oficjalne źródła informacji",
+    "keywords": [
+      "gdzie sprawdzać informacje o zagrożeniu",
+      "wiarygodne komunikaty podczas kryzysu",
+      "radio rso alert rcb informacje"
+    ],
+    "prefix": "OLiOC - lipiec: oficjalne źródła informacji podczas kryzysu.",
+    "content": "1. Korzystaj z Alertów RCB, RSO, stron gov.pl, urzędu wojewódzkiego, gminy i oficjalnych profili służb.\n2. Słuchaj radia i telewizji publicznej, zwłaszcza gdy internet działa niestabilnie.\n3. Sprawdź tę samą informację w co najmniej dwóch oficjalnych kanałach.\n4. Zwracaj uwagę na datę, godzinę, obszar obowiązywania i autora komunikatu.\n5. Nie przekazuj dalej zrzutów ekranu bez linku do źródła i informacji o czasie publikacji.\n6. W razie braku internetu używaj radia bateryjnego i lokalnych komunikatów głosowych.",
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "Akademia OLiOC lipiec",
+      "wiarygodne informacje",
+      "komunikacja kryzysowa"
+    ],
+    "aliasy": [
+      "gdzie sprawdzać informacje o zagrożeniu",
+      "wiarygodne komunikaty podczas kryzysu",
+      "radio rso alert rcb informacje"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-poradnik-alarmy",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      },
+      {
+        "dokument_id": "src-poradnik-cyfrowe",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-LIPIEC-03-REAKCJA_PO_ALARMIE",
+    "kategoria": "olioc",
+    "miesiac_akademii": "lipiec",
+    "grupa_docelowa": "obywatel",
+    "status_zrodla": "oficjalne",
+    "data_aktualizacji": "2026-07-17",
+    "data_weryfikacji_zrodel": "2026-07-17",
+    "zrodlo": "Poradnik bezpieczeństwa - Sygnały alarmowe i komunikaty ostrzegawcze; Poradnik bezpieczeństwa - Plan na kryzys",
+    "slowo_kluczowe": "olioc co robić po alarmie",
+    "keywords": [
+      "pierwsze działania po syrenie alarmowej",
+      "reakcja obywatela na alarm",
+      "postępowanie po komunikacie ostrzegawczym"
+    ],
+    "prefix": "OLiOC - lipiec: co zrobić natychmiast po ogłoszeniu alarmu.",
+    "content": "1. Zachowaj spokój i ustal, czego dotyczy alarm.\n2. Zbierz domowników, uruchom rodzinny plan i przygotuj telefon, radio, dokumenty oraz plecak.\n3. Zależnie od komunikatu: pozostań w budynku, uszczelnij pomieszczenie, przejdź do schronienia albo rozpocznij ewakuację.\n4. Pomóż dzieciom, seniorom i osobom wymagającym wsparcia.\n5. Ogranicz połączenia telefoniczne i korzystanie z sieci, aby nie przeciążać łączności.\n6. Nie opuszczaj bezpiecznego miejsca, dopóki nie usłyszysz odwołania alarmu albo polecenia służb.",
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "Akademia OLiOC lipiec",
+      "reakcja na alarm",
+      "bezpieczeństwo rodziny"
+    ],
+    "aliasy": [
+      "pierwsze działania po syrenie alarmowej",
+      "reakcja obywatela na alarm",
+      "postępowanie po komunikacie ostrzegawczym"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-poradnik-alarmy",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      },
+      {
+        "dokument_id": "src-poradnik-plan",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-LIPIEC-01-SYGNALY_ALARMOWE",
+    "kategoria": "olioc",
+    "miesiac_akademii": "lipiec",
+    "grupa_docelowa": "obywatel",
+    "status_zrodla": "oficjalne",
+    "data_aktualizacji": "2026-07-17",
+    "data_weryfikacji_zrodel": "2026-07-17",
+    "zrodlo": "Akademia OLiOC - program „jeden miesiąc - jeden temat”; Poradnik bezpieczeństwa - Sygnały alarmowe i komunikaty ostrzegawcze",
+    "slowo_kluczowe": "olioc sygnały alarmowe",
+    "keywords": [
+      "modulowany dźwięk syreny trzy minuty",
+      "jednostajny dźwięk syreny odwołanie alarmu",
+      "jak rozpoznać alarm syreną"
+    ],
+    "prefix": "OLiOC - lipiec: sygnały alarmowe i ich znaczenie.",
+    "content": "1. Ogłoszenie alarmu: modulowany dźwięk syreny trwający 3 minuty.\n2. Odwołanie alarmu: ciągły, jednostajny dźwięk syreny trwający 3 minuty.\n3. Po usłyszeniu syreny przerwij wykonywane czynności i sprawdź oficjalny komunikat.\n4. Włącz radio, telewizję lub oficjalny serwis internetowy; sprawdź Alert RCB i RSO.\n5. Nie dzwoń na 112 tylko po to, aby zapytać o znaczenie syreny - numer musi pozostać dostępny dla osób zagrożonych.\n6. Ćwiczenia syren są wcześniej zapowiadane; podczas rzeczywistego alarmu wykonuj polecenia władz i służb.",
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "Akademia OLiOC lipiec",
+      "alarmowanie",
+      "syreny alarmowe"
+    ],
+    "aliasy": [
+      "modulowany dźwięk syreny trzy minuty",
+      "jednostajny dźwięk syreny odwołanie alarmu",
+      "jak rozpoznać alarm syreną"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-olioc-akademia",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      },
+      {
+        "dokument_id": "src-poradnik-alarmy",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-LISTOPAD-07-AGREGAT",
+    "kategoria": "olioc",
+    "miesiac_akademii": "listopad",
+    "grupa_docelowa": "obywatel",
+    "status_zrodla": "oficjalne",
+    "data_aktualizacji": "2026-07-17",
+    "data_weryfikacji_zrodel": "2026-07-17",
+    "zrodlo": "Poradnik bezpieczeństwa - Długotrwały brak prądu (blackout); PSP - bezpieczeństwo podczas korzystania z agregatu prądotwórczego",
+    "slowo_kluczowe": "olioc agregat prądotwórczy bezpieczeństwo",
+    "keywords": [
+      "agregat musi pracować na zewnątrz",
+      "spaliny z agregatu czad",
+      "awaryjne zasilanie domu agregat"
+    ],
+    "prefix": "OLiOC - listopad: bezpieczne korzystanie z agregatu prądotwórczego.",
+    "content": "1. Agregat spalinowy uruchamiaj wyłącznie na zewnątrz pomieszczeń, z dala od okien, drzwi i nawiewów.\n2. Ustaw go stabilnie i tak, aby spaliny nie mogły przedostać się do budynku ani zagrozić innym osobom.\n3. Stosuj instrukcję producenta, właściwe paliwo i sprawne przewody o odpowiedniej obciążalności.\n4. Nie podłączaj agregatu samodzielnie do instalacji budynku przez zwykłe gniazdko; stałe podłączenie powinien wykonać uprawniony specjalista.\n5. Tankuj dopiero po wyłączeniu i ostygnięciu urządzenia; paliwo przechowuj w przeznaczonych pojemnikach.\n6. W budynku używaj czujki tlenku węgla i natychmiast reaguj na jej alarm.",
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "Akademia OLiOC listopad",
+      "agregat prądotwórczy",
+      "awaryjne zasilanie"
+    ],
+    "aliasy": [
+      "agregat musi pracować na zewnątrz",
+      "spaliny z agregatu czad",
+      "awaryjne zasilanie domu agregat"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-poradnik-blackout",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      },
+      {
+        "dokument_id": "src-psp-agregat-na-zewnatrz",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-LISTOPAD-01-BLACKOUT_PIERWSZE_DZIALANIA",
+    "kategoria": "olioc",
+    "miesiac_akademii": "listopad",
+    "grupa_docelowa": "obywatel",
+    "status_zrodla": "oficjalne",
+    "data_aktualizacji": "2026-07-17",
+    "data_weryfikacji_zrodel": "2026-07-17",
+    "zrodlo": "Akademia OLiOC - program „jeden miesiąc - jeden temat”; Poradnik bezpieczeństwa - Długotrwały brak prądu (blackout)",
+    "slowo_kluczowe": "olioc blackout pierwsze działania",
+    "keywords": [
+      "co robić gdy długo nie ma prądu",
+      "awaria zasilania w domu kroki",
+      "przerwa w dostawie energii przygotowanie"
+    ],
+    "prefix": "OLiOC - listopad: pierwsze działania podczas długotrwałego braku prądu.",
+    "content": "1. Sprawdź, czy awaria dotyczy mieszkania, budynku czy większego obszaru.\n2. Odłącz wrażliwe urządzenia elektryczne, aby ograniczyć skutki przepięcia po powrocie zasilania.\n3. Włącz oszczędzanie energii w telefonie i używaj go tylko do ważnej komunikacji.\n4. Używaj latarek zamiast otwartego ognia; pozostaw jedną lampę włączoną jako sygnał powrotu prądu.\n5. Słuchaj radia i komunikatów operatora, gminy oraz służb.\n6. Sprawdź osoby zależne od urządzeń medycznych i w razie zagrożenia skontaktuj się z 112 lub właściwą placówką.",
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "Akademia OLiOC listopad",
+      "blackout",
+      "brak prądu"
+    ],
+    "aliasy": [
+      "co robić gdy długo nie ma prądu",
+      "awaria zasilania w domu kroki",
+      "przerwa w dostawie energii przygotowanie"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-olioc-akademia",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      },
+      {
+        "dokument_id": "src-poradnik-blackout",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-LISTOPAD-05-BRAK_LACZNOSCI",
+    "kategoria": "olioc",
+    "miesiac_akademii": "listopad",
+    "grupa_docelowa": "obywatel",
+    "status_zrodla": "oficjalne",
+    "data_aktualizacji": "2026-07-17",
+    "data_weryfikacji_zrodel": "2026-07-17",
+    "zrodlo": "Poradnik bezpieczeństwa - Długotrwały brak prądu (blackout); Poradnik bezpieczeństwa - Plan na kryzys",
+    "slowo_kluczowe": "olioc brak telefonu i internetu",
+    "keywords": [
+      "łączność podczas blackoutu",
+      "radio bateryjne brak internetu",
+      "kontakt z rodziną gdy nie działa sieć"
+    ],
+    "prefix": "OLiOC - listopad: brak telefonu, internetu i przeciążenie sieci.",
+    "content": "1. Przejdź na ustalony wcześniej rodzinny plan i miejsca spotkania.\n2. Wysyłaj krótkie SMS-y zamiast wielokrotnych połączeń głosowych.\n3. Ogranicz zużycie baterii, wyłączając transmisję danych, lokalizację i zbędne aplikacje.\n4. Korzystaj z radia bateryjnego, komunikatów lokalnych i punktów informacyjnych.\n5. Miej papierową listę kontaktów, adresów i podstawową mapę okolicy.\n6. Nie opuszczaj bezpiecznego miejsca wyłącznie po to, aby szukać zasięgu, jeśli warunki są niebezpieczne.",
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "Akademia OLiOC listopad",
+      "brak łączności",
+      "radio",
+      "kontakty awaryjne"
+    ],
+    "aliasy": [
+      "łączność podczas blackoutu",
+      "radio bateryjne brak internetu",
+      "kontakt z rodziną gdy nie działa sieć"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-poradnik-blackout",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      },
+      {
+        "dokument_id": "src-poradnik-plan",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-LISTOPAD-03-BRAK_OGRZEWANIA_CZAD",
+    "kategoria": "olioc",
+    "miesiac_akademii": "listopad",
+    "grupa_docelowa": "obywatel",
+    "status_zrodla": "oficjalne",
+    "data_aktualizacji": "2026-07-17",
+    "data_weryfikacji_zrodel": "2026-07-17",
+    "zrodlo": "Poradnik bezpieczeństwa - Długotrwały brak prądu (blackout); KG PSP - Obowiązek instalowania autonomicznych czujek dymu i czadu",
+    "slowo_kluczowe": "olioc brak ogrzewania i czad",
+    "keywords": [
+      "jak utrzymać ciepło podczas blackoutu",
+      "bezpieczne ogrzewanie awaryjne",
+      "ryzyko czadu podczas braku prądu"
+    ],
+    "prefix": "OLiOC - listopad: brak ogrzewania i ryzyko tlenku węgla.",
+    "content": "1. Zbierz domowników w jednym pomieszczeniu i ogranicz utratę ciepła przez drzwi oraz okna.\n2. Ubierz kilka warstw odzieży, używaj koców i śpiworów, dbając szczególnie o dzieci i seniorów.\n3. Nie ogrzewaj mieszkania kuchenką gazową, grillem ani urządzeniem nieprzeznaczonym do pracy wewnątrz.\n4. Nie zasłaniaj kratek wentylacyjnych i zapewnij dopływ powietrza do urządzeń spalających paliwo.\n5. Używaj sprawnych, certyfikowanych urządzeń zgodnie z instrukcją oraz działającej czujki tlenku węgla.\n6. Przy bólu głowy, senności, nudnościach lub alarmie czujki natychmiast wyjdź na świeże powietrze i wezwij 112.",
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "Akademia OLiOC listopad",
+      "brak ogrzewania",
+      "temat tlenek węgla"
+    ],
+    "aliasy": [
+      "jak utrzymać ciepło podczas blackoutu",
+      "bezpieczne ogrzewanie awaryjne",
+      "ryzyko czadu podczas braku prądu"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-poradnik-blackout",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      },
+      {
+        "dokument_id": "src-kgpsp-czujki-2026",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-LISTOPAD-04-BRAK_WODY",
+    "kategoria": "olioc",
+    "miesiac_akademii": "listopad",
+    "grupa_docelowa": "obywatel",
+    "status_zrodla": "oficjalne",
+    "data_aktualizacji": "2026-07-17",
+    "data_weryfikacji_zrodel": "2026-07-17",
+    "zrodlo": "Poradnik bezpieczeństwa - Długotrwały brak prądu (blackout); Poradnik bezpieczeństwa - Higiena w kryzysie",
+    "slowo_kluczowe": "olioc brak wody podczas blackoutu",
+    "keywords": [
+      "co robić gdy nie ma wody w kranie",
+      "oszczędzanie wody w kryzysie",
+      "woda pitna i higiena blackout"
+    ],
+    "prefix": "OLiOC - listopad: funkcjonowanie podczas braku dostępu do wody.",
+    "content": "1. Zachowaj wodę butelkowaną przede wszystkim do picia, leków i przygotowania żywności.\n2. Przyjmij minimalny zapas 3 litrów wody na osobę na dobę i uwzględnij dodatkowe potrzeby.\n3. Oddziel wodę pitną od technicznej i oznacz pojemniki.\n4. Stosuj chusteczki i płyn do dezynfekcji, ograniczając zużycie czystej wody.\n5. Nie pij wody z niepewnego źródła bez oficjalnej informacji o jej przydatności lub właściwego uzdatnienia.\n6. Śledź komunikaty wodociągów, gminy i sanepidu dotyczące punktów dystrybucji oraz sposobu postępowania.",
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "Akademia OLiOC listopad",
+      "brak wody",
+      "woda pitna",
+      "higiena"
+    ],
+    "aliasy": [
+      "co robić gdy nie ma wody w kranie",
+      "oszczędzanie wody w kryzysie",
+      "woda pitna i higiena blackout"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-poradnik-blackout",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      },
+      {
+        "dokument_id": "src-poradnik-higiena",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-LISTOPAD-02-SWIATLO_ENERGIA",
+    "kategoria": "olioc",
+    "miesiac_akademii": "listopad",
+    "grupa_docelowa": "obywatel",
+    "status_zrodla": "oficjalne",
+    "data_aktualizacji": "2026-07-17",
+    "data_weryfikacji_zrodel": "2026-07-17",
+    "zrodlo": "Poradnik bezpieczeństwa - Długotrwały brak prądu (blackout)",
+    "slowo_kluczowe": "olioc oświetlenie awaryjne i powerbank",
+    "keywords": [
+      "latarki baterie na blackout",
+      "zapasowe źródło światła kryzys",
+      "ładowanie telefonu bez prądu"
+    ],
+    "prefix": "OLiOC - listopad: oświetlenie, baterie i awaryjne źródła energii.",
+    "content": "1. Przygotuj latarki ręczne i czołowe, zapas baterii oraz radio bateryjne lub na korbkę.\n2. Naładuj powerbanki i okresowo kontroluj ich stan.\n3. Ustal kolejność zasilania: urządzenia medyczne, łączność i podstawowe oświetlenie.\n4. Nie przeciążaj listew, przedłużaczy ani awaryjnego źródła zasilania.\n5. Ogranicz jasność ekranu, wyłącz transmisję danych i zbędne aplikacje.\n6. Nie używaj świec bez nadzoru; trzymaj źródła ognia z dala od materiałów palnych i dzieci.",
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "Akademia OLiOC listopad",
+      "oświetlenie awaryjne",
+      "powerbank",
+      "baterie"
+    ],
+    "aliasy": [
+      "latarki baterie na blackout",
+      "zapasowe źródło światła kryzys",
+      "ładowanie telefonu bez prądu"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-poradnik-blackout",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-LISTOPAD-06-ZYWNOSC_BEZ_PRADU",
+    "kategoria": "olioc",
+    "miesiac_akademii": "listopad",
+    "grupa_docelowa": "obywatel",
+    "status_zrodla": "oficjalne",
+    "data_aktualizacji": "2026-07-17",
+    "data_weryfikacji_zrodel": "2026-07-17",
+    "zrodlo": "Poradnik bezpieczeństwa - Długotrwały brak prądu (blackout); GIS - Bezpieczeństwo żywności podczas przerwy w dostawie prądu",
+    "slowo_kluczowe": "olioc żywność podczas braku prądu",
+    "keywords": [
+      "lodówka zamrażarka podczas blackoutu",
+      "czy jedzenie jest bezpieczne po awarii prądu",
+      "nie otwieraj lodówki brak prądu"
+    ],
+    "prefix": "OLiOC - listopad: bezpieczeństwo żywności bez zasilania.",
+    "content": "1. Nie otwieraj bez potrzeby lodówki i zamrażarki - zamknięte dłużej utrzymują niską temperaturę.\n2. Najpierw wykorzystuj żywność szybko psującą się, jeśli nadal była przechowywana w bezpiecznej temperaturze.\n3. Nie oceniaj bezpieczeństwa wyłącznie po zapachu lub wyglądzie.\n4. Po dłuższej awarii stosuj aktualne zalecenia GIS dotyczące czasu i temperatury przechowywania.\n5. Gdy masz wątpliwości co do produktu łatwo psującego się, nie ryzykuj zatrucia - wyrzuć go.\n6. Przygotuj wcześniej zapas produktów gotowych do spożycia, niewymagających chłodzenia i dużej ilości wody.",
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "Akademia OLiOC listopad",
+      "bezpieczeństwo żywności",
+      "lodówka",
+      "zamrażarka"
+    ],
+    "aliasy": [
+      "lodówka zamrażarka podczas blackoutu",
+      "czy jedzenie jest bezpieczne po awarii prądu",
+      "nie otwieraj lodówki brak prądu"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-poradnik-blackout",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      },
+      {
+        "dokument_id": "src-gis-zywnosc-blackout-2026",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-MAJ-03-INSTYTUCJE_I_SLUZBY",
+    "kategoria": "olioc",
+    "miesiac_akademii": "maj",
+    "grupa_docelowa": "obywatel",
+    "status_zrodla": "oficjalne",
+    "data_aktualizacji": "2026-07-17",
+    "data_weryfikacji_zrodel": "2026-07-17",
+    "zrodlo": "Ustawa o ochronie ludności i obronie cywilnej - informacje MSWiA; Poradnik bezpieczeństwa - Wspólnie dbamy o nasze bezpieczeństwo",
+    "slowo_kluczowe": "olioc kto odpowiada za ochronę ludności",
+    "keywords": [
+      "instytucje ochrony ludności",
+      "rola gminy powiatu wojewody olioc",
+      "służby w systemie ochrony ludności"
+    ],
+    "prefix": "OLiOC - maj: kto odpowiada za bezpieczeństwo i jak współdziałają służby.",
+    "content": "1. Wójt, burmistrz lub prezydent miasta organizuje działania ochrony ludności na poziomie gminy.\n2. Starosta i wojewoda koordynują działania na wyższych poziomach, a minister właściwy do spraw wewnętrznych odpowiada za poziom centralny.\n3. Służby ratownicze ratują życie i mienie, prowadzą ewakuację, alarmowanie i działania specjalistyczne.\n4. Organizacje społeczne i wolontariusze mogą wspierać pomoc humanitarną, logistykę i opiekę nad ludnością.\n5. Obywatel powinien znać komunikaty lokalnych władz i wskazane miejsca uzyskania pomocy.\n6. Pomoc humanitarna jest bezpłatna - nie przekazuj pieniędzy ani dokumentów osobom, które żądają zapłaty za rzekomą pomoc.",
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "Akademia OLiOC maj",
+      "administracja publiczna",
+      "służby ratownicze"
+    ],
+    "aliasy": [
+      "instytucje ochrony ludności",
+      "rola gminy powiatu wojewody olioc",
+      "służby w systemie ochrony ludności"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-olioc-ustawa",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      },
+      {
+        "dokument_id": "src-poradnik-wspolnie",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-MAJ-05-OBSZARY_PRZYGOTOWANIA",
+    "kategoria": "olioc",
+    "miesiac_akademii": "maj",
+    "grupa_docelowa": "obywatel",
+    "status_zrodla": "oficjalne",
+    "data_aktualizacji": "2026-07-17",
+    "data_weryfikacji_zrodel": "2026-07-17",
+    "zrodlo": "Akademia OLiOC - program „jeden miesiąc - jeden temat”; Poradnik bezpieczeństwa - Plan na kryzys; Poradnik bezpieczeństwa - Przygotuj siebie i najbliższych",
+    "slowo_kluczowe": "olioc obszary przygotowania obywatela",
+    "keywords": [
+      "co przygotować na sytuację kryzysową olioc",
+      "podstawowe przygotowanie rodziny do kryzysu",
+      "najważniejsze elementy gotowości obywatelskiej"
+    ],
+    "prefix": "OLiOC - maj: podstawowe obszary przygotowania obywatela.",
+    "content": "1. INFORMACJA: poznaj sygnały alarmowe i oficjalne kanały ostrzegania.\n2. RODZINA: opracuj kontakty, miejsca spotkania i sposób działania po rozdzieleniu.\n3. ZDROWIE: zgromadź leki, dokumentację medyczną i informacje o alergiach.\n4. EWAKUACJA: przygotuj plecak, dokumenty, transport i potrzeby zwierząt.\n5. DOM: znajdź zawory mediów, wyjścia, czujki, gaśnicę i bezpieczne pomieszczenie.\n6. ZAPASY: przygotuj wodę, żywność, higienę, światło, łączność i gotówkę na minimum 72 godziny.",
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "Akademia OLiOC maj",
+      "gotowość cywilna",
+      "odporność społeczna"
+    ],
+    "aliasy": [
+      "co przygotować na sytuację kryzysową olioc",
+      "podstawowe przygotowanie rodziny do kryzysu",
+      "najważniejsze elementy gotowości obywatelskiej"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-olioc-akademia",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      },
+      {
+        "dokument_id": "src-poradnik-plan",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      },
+      {
+        "dokument_id": "src-poradnik-przygotuj-siebie",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-MAJ-01-PODSTAWY_SYSTEMU",
+    "kategoria": "olioc",
+    "miesiac_akademii": "maj",
+    "grupa_docelowa": "obywatel",
+    "status_zrodla": "oficjalne",
+    "data_aktualizacji": "2026-07-17",
+    "data_weryfikacji_zrodel": "2026-07-17",
+    "zrodlo": "Akademia OLiOC - program „jeden miesiąc - jeden temat”; Ustawa o ochronie ludności i obronie cywilnej - informacje MSWiA; Poradnik bezpieczeństwa - Wspólnie dbamy o nasze bezpieczeństwo",
+    "slowo_kluczowe": "olioc czym jest ochrona ludności",
+    "keywords": [
+      "różnica ochrona ludności obrona cywilna",
+      "podstawy systemu olioc",
+      "ochrona ludności w czasie pokoju i wojny"
+    ],
+    "prefix": "OLiOC - maj: czym są ochrona ludności i obrona cywilna.",
+    "content": "1. CEL: zrozumieć, kto i w jakim celu organizuje ochronę ludności.\n2. Ochrona ludności działa w czasie pokoju i służy ochronie życia, zdrowia, mienia, infrastruktury, środowiska i zwierząt.\n3. Po ogłoszeniu stanu wojennego i w czasie wojny system ochrony ludności przekształca się w obronę cywilną.\n4. Obrona cywilna ma chronić ludność cywilną przed skutkami działań zbrojnych; nie jest częścią Sił Zbrojnych.\n5. System opiera się na administracji, PSP i OSP, ratownictwie medycznym, policji, zarządzaniu kryzysowym, podmiotach leczniczych i organizacjach społecznych.\n6. DO ZAPAMIĘTANIA: przygotowany obywatel ogranicza skutki kryzysu i odciąża służby w pierwszej fazie zdarzenia.",
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "Akademia OLiOC maj",
+      "podstawy OLiOC",
+      "system bezpieczeństwa"
+    ],
+    "aliasy": [
+      "różnica ochrona ludności obrona cywilna",
+      "podstawy systemu olioc",
+      "ochrona ludności w czasie pokoju i wojny"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-olioc-akademia",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      },
+      {
+        "dokument_id": "src-olioc-ustawa",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      },
+      {
+        "dokument_id": "src-poradnik-wspolnie",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-MAJ-02-ROLA_OBYWATELA",
+    "kategoria": "olioc",
+    "miesiac_akademii": "maj",
+    "grupa_docelowa": "obywatel",
+    "status_zrodla": "oficjalne",
+    "data_aktualizacji": "2026-07-17",
+    "data_weryfikacji_zrodel": "2026-07-17",
+    "zrodlo": "Akademia OLiOC - program „jeden miesiąc - jeden temat”; Poradnik bezpieczeństwa - Wspólnie dbamy o nasze bezpieczeństwo; Poradnik bezpieczeństwa - Plan na kryzys",
+    "slowo_kluczowe": "olioc rola obywatela w kryzysie",
+    "keywords": [
+      "samopomoc i pomoc wzajemna olioc",
+      "co może zrobić obywatel przed kryzysem",
+      "odpowiedzialność obywatela w ochronie ludności"
+    ],
+    "prefix": "OLiOC - maj: rola obywatela, samopomoc i pomoc wzajemna.",
+    "content": "1. PRZED ZAGROŻENIEM: poznaj lokalne alarmy, miejsca schronienia, drogi ewakuacji i numery alarmowe.\n2. Przygotuj rodzinny plan kryzysowy, plecak ewakuacyjny i zapasy na minimum 3 dni.\n3. Ustal, kto w rodzinie lub sąsiedztwie może potrzebować pomocy, a kto może jej udzielić.\n4. W CZASIE ZAGROŻENIA: dbaj najpierw o własne bezpieczeństwo, stosuj się do poleceń służb i pomagaj w granicach swoich możliwości.\n5. Nie blokuj dróg, nie rozpowszechniaj plotek i nie podejmuj działań, które narażają innych.\n6. DO ZAPAMIĘTANIA: samopomoc oznacza przygotowanie siebie, a pomoc wzajemna - bezpieczne wsparcie innych.",
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "Akademia OLiOC maj",
+      "samopomoc",
+      "pomoc wzajemna"
+    ],
+    "aliasy": [
+      "samopomoc i pomoc wzajemna olioc",
+      "co może zrobić obywatel przed kryzysem",
+      "odpowiedzialność obywatela w ochronie ludności"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-olioc-akademia",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      },
+      {
+        "dokument_id": "src-poradnik-wspolnie",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      },
+      {
+        "dokument_id": "src-poradnik-plan",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-MAJ-04-SIEC_WSPARCIA",
+    "kategoria": "olioc",
+    "miesiac_akademii": "maj",
+    "grupa_docelowa": "obywatel",
+    "status_zrodla": "oficjalne",
+    "data_aktualizacji": "2026-07-17",
+    "data_weryfikacji_zrodel": "2026-07-17",
+    "zrodlo": "Poradnik bezpieczeństwa - Wspólnie dbamy o nasze bezpieczeństwo; Poradnik bezpieczeństwa - Osoby potrzebujące szczególnej pomocy; Poradnik bezpieczeństwa - Plan na kryzys",
+    "slowo_kluczowe": "olioc lokalna sieć wsparcia",
+    "keywords": [
+      "pomoc sąsiedzka w kryzysie",
+      "lista kontaktów sąsiedzkich",
+      "organizacja sąsiadów na kryzys"
+    ],
+    "prefix": "OLiOC - maj: lokalna sieć wsparcia i przygotowanie sąsiedzkie.",
+    "content": "1. Poznaj sąsiadów i ustal prosty sposób przekazywania ostrzeżeń.\n2. Zidentyfikuj osoby starsze, chore, samotne i z niepełnosprawnościami, które mogą wymagać wsparcia.\n3. Ustal osoby do kontaktu, ale nie publikuj list zawierających dane wrażliwe.\n4. Podziel role: przekazanie informacji, sprawdzenie potrzeb, pomoc w ewakuacji i kontakt ze służbami.\n5. Nie wchodź do strefy zagrożenia i nie podejmuj zadań wymagających specjalistycznych kwalifikacji.\n6. Ćwicz prosty scenariusz: brak łączności, konieczność ewakuacji i miejsce wspólnej zbiórki.",
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "Akademia OLiOC maj",
+      "pomoc sąsiedzka",
+      "lokalna społeczność"
+    ],
+    "aliasy": [
+      "pomoc sąsiedzka w kryzysie",
+      "lista kontaktów sąsiedzkich",
+      "organizacja sąsiadów na kryzys"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-poradnik-wspolnie",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      },
+      {
+        "dokument_id": "src-poradnik-szczegolna-pomoc",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      },
+      {
+        "dokument_id": "src-poradnik-plan",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-PAŹDZIERNIK-01-DEZINFORMACJA",
+    "kategoria": "olioc",
+    "miesiac_akademii": "październik",
+    "grupa_docelowa": "obywatel",
+    "status_zrodla": "oficjalne",
+    "data_aktualizacji": "2026-07-17",
+    "data_weryfikacji_zrodel": "2026-07-17",
+    "zrodlo": "Akademia OLiOC - program „jeden miesiąc - jeden temat”; Poradnik bezpieczeństwa - Zagrożenia cyfrowe",
+    "slowo_kluczowe": "olioc jak rozpoznać dezinformację",
+    "keywords": [
+      "fałszywe informacje podczas kryzysu",
+      "dezinformacja obywatel zasady",
+      "nie rozpowszechniaj niesprawdzonych wiadomości"
+    ],
+    "prefix": "OLiOC - październik: rozpoznawanie dezinformacji.",
+    "content": "1. Dezinformacja to celowo rozpowszechniana treść fałszywa lub zmanipulowana.\n2. Zatrzymaj się, gdy wiadomość wywołuje silny strach, złość albo wymusza natychmiastowe udostępnienie.\n3. Sprawdź autora, adres strony, datę, pełny kontekst i potwierdzenie w oficjalnych źródłach.\n4. Oddziel fakt od komentarza, opinii, starego zdjęcia i materiału wyrwanego z innego zdarzenia.\n5. Nie publikuj informacji o ruchu wojska ani lokalizacji ważnych obiektów i działań służb.\n6. DO ZAPAMIĘTANIA: brak udostępnienia niesprawdzonej wiadomości jest realnym działaniem na rzecz bezpieczeństwa.",
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "Akademia OLiOC październik",
+      "dezinformacja",
+      "bezpieczeństwo informacyjne"
+    ],
+    "aliasy": [
+      "fałszywe informacje podczas kryzysu",
+      "dezinformacja obywatel zasady",
+      "nie rozpowszechniaj niesprawdzonych wiadomości"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-olioc-akademia",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      },
+      {
+        "dokument_id": "src-poradnik-cyfrowe",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-PAŹDZIERNIK-05-KOPIE_I_ZGLASZANIE",
+    "kategoria": "olioc",
+    "miesiac_akademii": "październik",
+    "grupa_docelowa": "obywatel",
+    "status_zrodla": "oficjalne",
+    "data_aktualizacji": "2026-07-17",
+    "data_weryfikacji_zrodel": "2026-07-17",
+    "zrodlo": "Poradnik bezpieczeństwa - Zagrożenia cyfrowe; CERT Polska - zgłoszenie incydentu",
+    "slowo_kluczowe": "olioc kopie zapasowe i zgłoszenie incydentu",
+    "keywords": [
+      "backup ważnych dokumentów",
+      "co zrobić po cyberataku",
+      "zgłoszenie incydentu cert polska"
+    ],
+    "prefix": "OLiOC - październik: kopie zapasowe, ochrona danych i zgłaszanie incydentów.",
+    "content": "1. Wykonuj kopie ważnych dokumentów i zdjęć w co najmniej dwóch miejscach.\n2. Jedna kopia powinna być odłączona od urządzenia lub przechowywana w bezpiecznej usłudze z silnym hasłem.\n3. Zabezpiecz kopie szyfrowaniem i nie zapisuj haseł razem z dokumentami.\n4. Po podejrzeniu przejęcia konta zmień hasło z bezpiecznego urządzenia i wyloguj inne sesje.\n5. Zachowaj dowody: treść wiadomości, adres, godzinę i zrzuty ekranu, ale nie rozpowszechniaj szkodliwego linku.\n6. Incydent zgłoś do CERT Polska; oszustwo finansowe również do banku i policji.",
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "Akademia OLiOC październik",
+      "kopie zapasowe",
+      "ochrona danych",
+      "CERT Polska"
+    ],
+    "aliasy": [
+      "backup ważnych dokumentów",
+      "co zrobić po cyberataku",
+      "zgłoszenie incydentu cert polska"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-poradnik-cyfrowe",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      },
+      {
+        "dokument_id": "src-cert-zglos-incydent",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-PAŹDZIERNIK-03-PHISHING_FALSZYWE_ALERTY",
+    "kategoria": "olioc",
+    "miesiac_akademii": "październik",
+    "grupa_docelowa": "obywatel",
+    "status_zrodla": "oficjalne",
+    "data_aktualizacji": "2026-07-17",
+    "data_weryfikacji_zrodel": "2026-07-17",
+    "zrodlo": "Poradnik bezpieczeństwa - Zagrożenia cyfrowe; CERT Polska - zgłoszenie incydentu",
+    "slowo_kluczowe": "olioc phishing fałszywy alert",
+    "keywords": [
+      "podejrzany sms z linkiem",
+      "fałszywa wiadomość od służb",
+      "oszustwo na alert rcb"
+    ],
+    "prefix": "OLiOC - październik: phishing i fałszywe alerty.",
+    "content": "1. Nie klikaj linku ani załącznika w wiadomości, której się nie spodziewasz.\n2. Sprawdź pełny adres nadawcy i strony - podobna nazwa lub logo nie potwierdza autentyczności.\n3. Instytucja nie powinna wymuszać podania hasła, kodu BLIK, danych karty ani instalowania aplikacji z linku w SMS.\n4. Skontaktuj się z instytucją przez numer lub stronę znalezioną samodzielnie, nie przez dane z podejrzanej wiadomości.\n5. Podejrzany SMS z linkiem prześlij pod numer 8080; incydent zgłoś do CERT Polska.\n6. Jeżeli podałeś dane, natychmiast zmień hasła, skontaktuj się z bankiem i zgłoś zdarzenie.",
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "Akademia OLiOC październik",
+      "phishing",
+      "fałszywe SMS",
+      "oszustwa"
+    ],
+    "aliasy": [
+      "podejrzany sms z linkiem",
+      "fałszywa wiadomość od służb",
+      "oszustwo na alert rcb"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-poradnik-cyfrowe",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      },
+      {
+        "dokument_id": "src-cert-zglos-incydent",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-PAŹDZIERNIK-04-TELEFON_KONTA",
+    "kategoria": "olioc",
+    "miesiac_akademii": "październik",
+    "grupa_docelowa": "obywatel",
+    "status_zrodla": "oficjalne",
+    "data_aktualizacji": "2026-07-17",
+    "data_weryfikacji_zrodel": "2026-07-17",
+    "zrodlo": "Poradnik bezpieczeństwa - Zagrożenia cyfrowe",
+    "slowo_kluczowe": "olioc bezpieczny telefon i konta",
+    "keywords": [
+      "zabezpieczenie smartfona na kryzys",
+      "silne hasło i uwierzytelnianie dwuskładnikowe",
+      "aktualizacja telefonu bezpieczeństwo"
+    ],
+    "prefix": "OLiOC - październik: zabezpieczenie telefonu i kont internetowych.",
+    "content": "1. Aktualizuj system, przeglądarkę i aplikacje; instaluj programy tylko z oficjalnych sklepów.\n2. Używaj różnych, silnych haseł i menedżera haseł.\n3. Włącz uwierzytelnianie wieloskładnikowe, szczególnie dla poczty, banku i mediów społecznościowych.\n4. Zabezpiecz ekran kodem, PIN-em lub biometrią i ustaw automatyczną blokadę.\n5. Ogranicz uprawnienia aplikacji oraz usuń programy, których nie używasz.\n6. Nie korzystaj z publicznego Wi-Fi do operacji bankowych i logowania do ważnych usług bez właściwego zabezpieczenia.",
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "Akademia OLiOC październik",
+      "cyberbezpieczeństwo",
+      "telefon",
+      "konta internetowe"
+    ],
+    "aliasy": [
+      "zabezpieczenie smartfona na kryzys",
+      "silne hasło i uwierzytelnianie dwuskładnikowe",
+      "aktualizacja telefonu bezpieczeństwo"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-poradnik-cyfrowe",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-PAŹDZIERNIK-02-WERYFIKACJA_INFORMACJI",
+    "kategoria": "olioc",
+    "miesiac_akademii": "październik",
+    "grupa_docelowa": "obywatel",
+    "status_zrodla": "oficjalne",
+    "data_aktualizacji": "2026-07-17",
+    "data_weryfikacji_zrodel": "2026-07-17",
+    "zrodlo": "Poradnik bezpieczeństwa - Zagrożenia cyfrowe; Poradnik bezpieczeństwa - Sygnały alarmowe i komunikaty ostrzegawcze",
+    "slowo_kluczowe": "olioc weryfikacja informacji w kryzysie",
+    "keywords": [
+      "jak sprawdzić prawdziwość komunikatu",
+      "sprawdzanie źródła informacji kryzys",
+      "wiarygodna informacja oficjalne źródła"
+    ],
+    "prefix": "OLiOC - październik: weryfikacja wiadomości w sytuacji kryzysowej.",
+    "content": "1. Znajdź pierwotne źródło, a nie tylko przesłany zrzut ekranu.\n2. Sprawdź, czy komunikat jest opublikowany na stronie gov.pl, w RSO, przez RCB, urząd lub właściwą służbę.\n3. Porównaj informację z co najmniej jednym innym wiarygodnym źródłem.\n4. Sprawdź datę, godzinę i obszar - prawdziwy komunikat może być już nieaktualny lub dotyczyć innego miejsca.\n5. Nie traktuj dużej liczby udostępnień jako dowodu prawdziwości.\n6. Gdy nie można potwierdzić treści, nie przekazuj jej dalej i zaznacz, że informacja jest niezweryfikowana.",
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "Akademia OLiOC październik",
+      "weryfikacja informacji",
+      "oficjalne komunikaty"
+    ],
+    "aliasy": [
+      "jak sprawdzić prawdziwość komunikatu",
+      "sprawdzanie źródła informacji kryzys",
+      "wiarygodna informacja oficjalne źródła"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-poradnik-cyfrowe",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      },
+      {
+        "dokument_id": "src-poradnik-alarmy",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-SIERPIEŃ-03-EWAKUACJA_RODZINY",
+    "kategoria": "olioc",
+    "miesiac_akademii": "sierpień",
+    "grupa_docelowa": "obywatel",
+    "status_zrodla": "oficjalne",
+    "data_aktualizacji": "2026-07-17",
+    "data_weryfikacji_zrodel": "2026-07-17",
+    "zrodlo": "Poradnik bezpieczeństwa - Ewakuacja",
+    "slowo_kluczowe": "olioc ewakuacja rodziny",
+    "keywords": [
+      "rodzina podczas ewakuacji",
+      "transport ewakuacyjny bezpieczeństwo",
+      "dokumenty podczas ewakuacji"
+    ],
+    "prefix": "OLiOC - sierpień: ewakuacja rodziny, transport i bezpieczeństwo dokumentów.",
+    "content": "1. Ustal kolejność wyjścia i osobę odpowiedzialną za dzieci, leki, dokumenty i zwierzęta.\n2. Dzieci powinny mieć przy sobie kontakt do opiekuna i podstawowe informacje medyczne.\n3. Korzystaj ze zorganizowanego transportu lub idź do wskazanego miejsca; samochodem nie blokuj dróg.\n4. Nie oddawaj dokumentów osobom oferującym niezweryfikowaną pomoc lub przewóz.\n5. Prześlij bliskim miejsce pobytu i numer rejestracyjny pojazdu, którym podróżujesz.\n6. Po dotarciu do miejsca zbiórki zgłoś obecność i nie oddalaj się bez poinformowania organizatorów.",
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "Akademia OLiOC sierpień",
+      "rodzina",
+      "transport ewakuacyjny"
+    ],
+    "aliasy": [
+      "rodzina podczas ewakuacji",
+      "transport ewakuacyjny bezpieczeństwo",
+      "dokumenty podczas ewakuacji"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-poradnik-ewakuacja",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-SIERPIEŃ-04-EWAKUACJA_SZCZEGOLNE_POTRZEBY",
+    "kategoria": "olioc",
+    "miesiac_akademii": "sierpień",
+    "grupa_docelowa": "obywatel",
+    "status_zrodla": "oficjalne",
+    "data_aktualizacji": "2026-07-17",
+    "data_weryfikacji_zrodel": "2026-07-17",
+    "zrodlo": "Poradnik bezpieczeństwa - Osoby potrzebujące szczególnej pomocy; Poradnik bezpieczeństwa - Ewakuacja",
+    "slowo_kluczowe": "olioc ewakuacja osób ze szczególnymi potrzebami",
+    "keywords": [
+      "ewakuacja seniora i osoby niepełnosprawnej",
+      "dziecko podczas ewakuacji",
+      "leki i urządzenia wspomagające ewakuacja"
+    ],
+    "prefix": "OLiOC - sierpień: ewakuacja dzieci, seniorów i osób z niepełnosprawnościami.",
+    "content": "1. Ustal wcześniej indywidualny plan pomocy i sposób komunikacji z osobą wspieraną.\n2. Przygotuj leki, dokumentację medyczną, baterie i ładowanie urządzeń wspomagających.\n3. Zapisz informacje o sposobie przemieszczania, komunikacji i niezbędnej pomocy.\n4. Poinformuj służby o osobie, która nie może samodzielnie opuścić budynku.\n5. Dziecku przekaż spokojne, krótkie polecenia i zapewnij identyfikator z kontaktem do opiekuna.\n6. Nie rozdzielaj osoby zależnej od opiekuna ani od niezbędnego sprzętu bez uzgodnienia ze służbami.",
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "Akademia OLiOC sierpień",
+      "szczególne potrzeby",
+      "seniorzy",
+      "osoby z niepełnosprawnościami"
+    ],
+    "aliasy": [
+      "ewakuacja seniora i osoby niepełnosprawnej",
+      "dziecko podczas ewakuacji",
+      "leki i urządzenia wspomagające ewakuacja"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-poradnik-szczegolna-pomoc",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      },
+      {
+        "dokument_id": "src-poradnik-ewakuacja",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-SIERPIEŃ-01-PLECAK_EWAKUACYJNY",
+    "kategoria": "olioc",
+    "miesiac_akademii": "sierpień",
+    "grupa_docelowa": "obywatel",
+    "status_zrodla": "oficjalne",
+    "data_aktualizacji": "2026-07-17",
+    "data_weryfikacji_zrodel": "2026-07-17",
+    "zrodlo": "Akademia OLiOC - program „jeden miesiąc - jeden temat”; Poradnik bezpieczeństwa - Ewakuacja; Poradnik bezpieczeństwa - Plan na kryzys",
+    "slowo_kluczowe": "olioc plecak ewakuacyjny",
+    "keywords": [
+      "co spakować do plecaka ratunkowego",
+      "wyposażenie plecaka ewakuacyjnego olioc",
+      "torba ewakuacyjna dla rodziny"
+    ],
+    "prefix": "OLiOC - sierpień: plecak ewakuacyjny dla każdego domownika.",
+    "content": "1. Każdy domownik powinien mieć własny lekki plecak dostosowany do wieku, zdrowia i pory roku.\n2. Spakuj wodę, żywność gotową do spożycia, leki, apteczkę, latarkę, radio, baterie i powerbank.\n3. Dodaj kopie dokumentów, listę kontaktów, gotówkę, mapę papierową, środki higieny i ubranie ochronne.\n4. Przygotuj rzeczy dla dzieci, seniorów, osób z niepełnosprawnościami oraz zwierząt.\n5. Przechowuj plecak w łatwo dostępnym miejscu i nie wkładaj do niego przedmiotów zbędnych.\n6. Kontroluj zawartość co najmniej dwa razy w roku: terminy żywności, leków, baterie i zmianę rozmiaru ubrań.",
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "Akademia OLiOC sierpień",
+      "plecak ratunkowy",
+      "ewakuacja"
+    ],
+    "aliasy": [
+      "co spakować do plecaka ratunkowego",
+      "wyposażenie plecaka ewakuacyjnego olioc",
+      "torba ewakuacyjna dla rodziny"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-olioc-akademia",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      },
+      {
+        "dokument_id": "src-poradnik-ewakuacja",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      },
+      {
+        "dokument_id": "src-poradnik-plan",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-SIERPIEŃ-02-PRZYGOTOWANIE_EWAKUACJI",
+    "kategoria": "olioc",
+    "miesiac_akademii": "sierpień",
+    "grupa_docelowa": "obywatel",
+    "status_zrodla": "oficjalne",
+    "data_aktualizacji": "2026-07-17",
+    "data_weryfikacji_zrodel": "2026-07-17",
+    "zrodlo": "Poradnik bezpieczeństwa - Ewakuacja; Poradnik bezpieczeństwa - Plan na kryzys",
+    "slowo_kluczowe": "olioc przygotowanie do ewakuacji",
+    "keywords": [
+      "kiedy rozpocząć ewakuację",
+      "co zrobić przed opuszczeniem domu",
+      "przygotowanie mieszkania do ewakuacji"
+    ],
+    "prefix": "OLiOC - sierpień: przygotowanie do ewakuacji i decyzja o wyjściu.",
+    "content": "1. Jeśli występuje bezpośrednie zagrożenie życia, nie czekaj na utratę drogi wyjścia.\n2. Jeżeli ewakuację zarządzą władze lub służby, zastosuj się do poleceń i wyznaczonej trasy.\n3. O ile jest to bezpieczne: zamknij okna, zakręć wodę i gaz, wyłącz urządzenia oraz źródła ognia.\n4. Ubierz się do pogody, zabierz plecak, dokumenty, telefon i potrzebne leki.\n5. Powiadom bliskich, dokąd się udajesz; sprawdź sąsiadów wymagających pomocy.\n6. Nie wracaj po rzeczy, jeśli powrót naraża życie lub utrudnia działania ratownicze.",
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "Akademia OLiOC sierpień",
+      "ewakuacja ludności",
+      "zabezpieczenie domu"
+    ],
+    "aliasy": [
+      "kiedy rozpocząć ewakuację",
+      "co zrobić przed opuszczeniem domu",
+      "przygotowanie mieszkania do ewakuacji"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-poradnik-ewakuacja",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      },
+      {
+        "dokument_id": "src-poradnik-plan",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-SIERPIEŃ-06-SCHRONIENIA",
+    "kategoria": "olioc",
+    "miesiac_akademii": "sierpień",
+    "grupa_docelowa": "obywatel",
+    "status_zrodla": "oficjalne",
+    "data_aktualizacji": "2026-07-17",
+    "data_weryfikacji_zrodel": "2026-07-17",
+    "zrodlo": "Poradnik bezpieczeństwa - Schronienia; Poradnik bezpieczeństwa - Plan na kryzys",
+    "slowo_kluczowe": "olioc gdzie się schronić",
+    "keywords": [
+      "schronienie podczas alarmu",
+      "bezpieczne miejsce z dala od okien",
+      "piwnica garaż podziemny schronienie"
+    ],
+    "prefix": "OLiOC - sierpień: schron, ukrycie i miejsce doraźnego schronienia.",
+    "content": "1. Sprawdź wcześniej w gminie lub lokalnej jednostce PSP i OSP, gdzie znajdują się miejsca schronienia.\n2. Po otrzymaniu polecenia udaj się do wskazanego obiektu i stosuj do poleceń obsługi.\n3. Jeśli nie możesz dotrzeć do oznaczonego miejsca, wybierz centralne pomieszczenie z dala od okien, przy ścianach nośnych.\n4. Na zewnątrz szukaj najniższych kondygnacji, piwnic, garaży podziemnych, tuneli lub zagłębień terenu.\n5. Zabierz dokumenty, leki, telefon, radio, wodę i podstawowe wyposażenie, ale nie przeciążaj się.\n6. Nie opuszczaj schronienia samodzielnie, dopóki nie zostanie przekazane odwołanie zagrożenia lub polecenie wyjścia.",
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "Akademia OLiOC sierpień",
+      "schronienia",
+      "bezpieczne miejsce"
+    ],
+    "aliasy": [
+      "schronienie podczas alarmu",
+      "bezpieczne miejsce z dala od okien",
+      "piwnica garaż podziemny schronienie"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-poradnik-schronienia",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      },
+      {
+        "dokument_id": "src-poradnik-plan",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-SIERPIEŃ-05-ZWIERZETA_EWAKUACJA",
+    "kategoria": "olioc",
+    "miesiac_akademii": "sierpień",
+    "grupa_docelowa": "obywatel",
+    "status_zrodla": "oficjalne",
+    "data_aktualizacji": "2026-07-17",
+    "data_weryfikacji_zrodel": "2026-07-17",
+    "zrodlo": "Poradnik bezpieczeństwa - Zadbaj o zwierzęta; Poradnik bezpieczeństwa - Ewakuacja",
+    "slowo_kluczowe": "olioc ewakuacja zwierząt",
+    "keywords": [
+      "zwierzęta podczas sytuacji kryzysowej",
+      "plecak dla psa kota ewakuacja",
+      "transport zwierząt podczas alarmu"
+    ],
+    "prefix": "OLiOC - sierpień: zwierzęta domowe i gospodarskie podczas ewakuacji.",
+    "content": "1. Przygotuj dokumentację zdrowotną, informacje o lekach, dane właściciela i aktualne oznakowanie zwierzęcia.\n2. Miej transporter lub klatkę, smycz, szelki, obrożę i kaganiec odpowiedni do zwierzęcia.\n3. Zabierz karmę, wodę, leki, miski, środki higieny i woreczki.\n4. Zwierzęta gospodarskie przygotuj do transportu natychmiast po ogłoszeniu ewakuacji.\n5. Jeśli ewakuacja zwierzęcia nie jest możliwa, zabezpiecz wodę i pokarm oraz poinformuj służby o jego lokalizacji.\n6. Za przygotowanie zwierząt odpowiada właściciel; lokalne zasady sprawdź w urzędzie gminy.",
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "Akademia OLiOC sierpień",
+      "zwierzęta",
+      "opieka nad zwierzętami"
+    ],
+    "aliasy": [
+      "zwierzęta podczas sytuacji kryzysowej",
+      "plecak dla psa kota ewakuacja",
+      "transport zwierząt podczas alarmu"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-poradnik-zwierzeta",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      },
+      {
+        "dokument_id": "src-poradnik-ewakuacja",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-WRZESIEŃ-04-AED_OBYWATEL",
+    "kategoria": "olioc",
+    "miesiac_akademii": "wrzesień",
+    "grupa_docelowa": "obywatel",
+    "status_zrodla": "oficjalne",
+    "data_aktualizacji": "2026-07-17",
+    "data_weryfikacji_zrodel": "2026-07-17",
+    "zrodlo": "Poradnik bezpieczeństwa - Pierwsza pomoc i AED; Poradnik bezpieczeństwa - Przygotuj swoje otoczenie",
+    "slowo_kluczowe": "olioc użycie aed",
+    "keywords": [
+      "jak użyć defibrylatora aed",
+      "aed w miejscu publicznym",
+      "pierwsza pomoc defibrylator obywatel"
+    ],
+    "prefix": "OLiOC - wrzesień: AED - użycie defibrylatora przez obywatela.",
+    "content": "1. Gdy poszkodowany nie reaguje i nie oddycha prawidłowo, wezwij 112, rozpocznij uciski i poleć konkretnej osobie przynieść AED.\n2. Włącz urządzenie i wykonuj dokładnie polecenia głosowe lub graficzne.\n3. Odsłoń i osusz klatkę piersiową, naklej elektrody zgodnie z rysunkami.\n4. Podczas analizy rytmu i wyładowania nikt nie może dotykać poszkodowanego.\n5. Po wyładowaniu lub komunikacie o braku wyładowania natychmiast kontynuuj RKO.\n6. Nie bój się AED - urządzenie samo ocenia możliwość wykonania wyładowania.",
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "Akademia OLiOC wrzesień",
+      "AED",
+      "pierwsza pomoc"
+    ],
+    "aliasy": [
+      "jak użyć defibrylatora aed",
+      "aed w miejscu publicznym",
+      "pierwsza pomoc defibrylator obywatel"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-poradnik-pierwsza-pomoc",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      },
+      {
+        "dokument_id": "src-poradnik-otoczenie",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-WRZESIEŃ-06-CZUJKI",
+    "kategoria": "olioc",
+    "miesiac_akademii": "wrzesień",
+    "grupa_docelowa": "obywatel",
+    "status_zrodla": "oficjalne",
+    "data_aktualizacji": "2026-07-17",
+    "data_weryfikacji_zrodel": "2026-07-17",
+    "zrodlo": "Poradnik bezpieczeństwa - Przygotuj swoje otoczenie; KG PSP - Obowiązek instalowania autonomicznych czujek dymu i czadu",
+    "slowo_kluczowe": "olioc czujki dymu i czadu",
+    "keywords": [
+      "czujka tlenku węgla w domu",
+      "czujka dymu test baterii",
+      "alarm czujki co zrobić"
+    ],
+    "prefix": "OLiOC - wrzesień: czujki dymu, tlenku węgla i gazu.",
+    "content": "1. Zamontuj czujkę dymu, a w pomieszczeniach z procesem spalania także czujkę tlenku węgla.\n2. Wybierz urządzenie spełniające właściwą normę i zamontuj je zgodnie z instrukcją producenta.\n3. Regularnie naciskaj przycisk TEST i reaguj na sygnał niskiego poziomu baterii lub usterki.\n4. Czujka nie zastępuje przeglądu komina, wentylacji, instalacji gazowej ani prawidłowego użytkowania urządzeń.\n5. Po alarmie czujki opuść zagrożone pomieszczenie, ostrzeż innych i zadzwoń pod 112.\n6. Nie wracaj do budynku, dopóki służby nie potwierdzą bezpieczeństwa.",
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "Akademia OLiOC wrzesień",
+      "czujki bezpieczeństwa",
+      "temat tlenek węgla",
+      "dym"
+    ],
+    "aliasy": [
+      "czujka tlenku węgla w domu",
+      "czujka dymu test baterii",
+      "alarm czujki co zrobić"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-poradnik-otoczenie",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      },
+      {
+        "dokument_id": "src-kgpsp-czujki-2026",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-WRZESIEŃ-01-DOM_SZKOLA_PRACA",
+    "kategoria": "olioc",
+    "miesiac_akademii": "wrzesień",
+    "grupa_docelowa": "obywatel",
+    "status_zrodla": "oficjalne",
+    "data_aktualizacji": "2026-07-17",
+    "data_weryfikacji_zrodel": "2026-07-17",
+    "zrodlo": "Akademia OLiOC - program „jeden miesiąc - jeden temat”; Poradnik bezpieczeństwa - Przygotuj swoje otoczenie",
+    "slowo_kluczowe": "olioc bezpieczeństwo domu szkoły pracy",
+    "keywords": [
+      "przygotowanie otoczenia do kryzysu",
+      "bezpieczne miejsce pracy olioc",
+      "bezpieczna szkoła i dom"
+    ],
+    "prefix": "OLiOC - wrzesień: bezpieczeństwo domu, szkoły i miejsca pracy.",
+    "content": "1. Poznaj wyjścia, drogi ewakuacyjne, miejsca zbiórki, apteczki, gaśnice i AED.\n2. Usuń przedmioty z korytarzy, klatek schodowych i dojść do wyjść.\n3. Zgłaszaj uszkodzone instalacje, zablokowane drogi i niesprawne urządzenia bezpieczeństwa.\n4. Bierz udział w próbnych alarmach i ćwicz działanie bez windy oraz przy braku oświetlenia.\n5. W domu oznacz zawory mediów i przygotuj bezpieczne pomieszczenie z dala od okien.\n6. W szkole i pracy stosuj się do instrukcji administratora, nauczyciela lub kierującego ewakuacją.",
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "Akademia OLiOC wrzesień",
+      "bezpieczne otoczenie",
+      "dom szkoła praca"
+    ],
+    "aliasy": [
+      "przygotowanie otoczenia do kryzysu",
+      "bezpieczne miejsce pracy olioc",
+      "bezpieczna szkoła i dom"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-olioc-akademia",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      },
+      {
+        "dokument_id": "src-poradnik-otoczenie",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-WRZESIEŃ-02-DROGI_EWAKUACYJNE",
+    "kategoria": "olioc",
+    "miesiac_akademii": "wrzesień",
+    "grupa_docelowa": "obywatel",
+    "status_zrodla": "oficjalne",
+    "data_aktualizacji": "2026-07-17",
+    "data_weryfikacji_zrodel": "2026-07-17",
+    "zrodlo": "Poradnik bezpieczeństwa - Przygotuj swoje otoczenie; Poradnik bezpieczeństwa - Pożar",
+    "slowo_kluczowe": "olioc drogi ewakuacyjne",
+    "keywords": [
+      "wyjście ewakuacyjne i miejsce zbiórki",
+      "jak ewakuować się z budynku",
+      "nie używaj windy podczas pożaru"
+    ],
+    "prefix": "OLiOC - wrzesień: drogi ewakuacyjne, wyjścia i miejsce zbiórki.",
+    "content": "1. Znajdź co najmniej dwie możliwe drogi wyjścia z domu, szkoły i miejsca pracy.\n2. Nie zastawiaj korytarzy, schodów, drzwi przeciwpożarowych ani wyjść.\n3. Podczas pożaru nie używaj windy - korzystaj ze schodów.\n4. Poruszaj się zgodnie z oznakowaniem i poleceniami; nie idź pod prąd ewakuacji.\n5. Po wyjściu przejdź do miejsca zbiórki i zgłoś swoją obecność.\n6. Nie wracaj do budynku po rzeczy ani po inne osoby - informację o pozostających osobach przekaż służbom.",
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "Akademia OLiOC wrzesień",
+      "drogi ewakuacyjne",
+      "miejsce zbiórki"
+    ],
+    "aliasy": [
+      "wyjście ewakuacyjne i miejsce zbiórki",
+      "jak ewakuować się z budynku",
+      "nie używaj windy podczas pożaru"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-poradnik-otoczenie",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      },
+      {
+        "dokument_id": "src-poradnik-pozar",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-WRZESIEŃ-03-GASNICA_KOC",
+    "kategoria": "olioc",
+    "miesiac_akademii": "wrzesień",
+    "grupa_docelowa": "obywatel",
+    "status_zrodla": "oficjalne",
+    "data_aktualizacji": "2026-07-17",
+    "data_weryfikacji_zrodel": "2026-07-17",
+    "zrodlo": "Poradnik bezpieczeństwa - Pożar; Poradnik bezpieczeństwa - Przygotuj swoje otoczenie",
+    "slowo_kluczowe": "olioc jak użyć gaśnicy",
+    "keywords": [
+      "gaszenie małego pożaru przez obywatela",
+      "koc gaśniczy użycie",
+      "rodzaje pożarów oznaczenia gaśnicy"
+    ],
+    "prefix": "OLiOC - wrzesień: bezpieczne użycie gaśnicy i koca gaśniczego.",
+    "content": "1. Najpierw zaalarmuj osoby zagrożone i zadzwoń pod 112.\n2. Gaś tylko mały pożar, gdy masz drogę odwrotu i nie występuje intensywne zadymienie.\n3. Sprawdź oznaczenie gaśnicy i używaj jej wyłącznie do pożarów, do których jest przeznaczona.\n4. Skieruj środek gaśniczy u podstawy płomieni, stojąc od strony umożliwiającej wycofanie.\n5. Nie gaś wodą urządzeń pod napięciem, oleju ani tłuszczu; palące się naczynie przykryj kocem gaśniczym lub pokrywką.\n6. Jeśli ogień rośnie albo jedna gaśnica nie wystarcza - natychmiast wycofaj się, zamknij drzwi i czekaj na straż.",
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "Akademia OLiOC wrzesień",
+      "gaśnica",
+      "koc gaśniczy",
+      "pożar"
+    ],
+    "aliasy": [
+      "gaszenie małego pożaru przez obywatela",
+      "koc gaśniczy użycie",
+      "rodzaje pożarów oznaczenia gaśnicy"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-poradnik-pozar",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      },
+      {
+        "dokument_id": "src-poradnik-otoczenie",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-WRZESIEŃ-08-KONTAKT_I_ZBIORKA",
+    "kategoria": "olioc",
+    "miesiac_akademii": "wrzesień",
+    "grupa_docelowa": "obywatel",
+    "status_zrodla": "oficjalne",
+    "data_aktualizacji": "2026-07-17",
+    "data_weryfikacji_zrodel": "2026-07-17",
+    "zrodlo": "Poradnik bezpieczeństwa - Plan na kryzys; Poradnik bezpieczeństwa - Osoby potrzebujące szczególnej pomocy",
+    "slowo_kluczowe": "olioc kontakt awaryjny rodziny",
+    "keywords": [
+      "miejsce spotkania po rozdzieleniu rodziny",
+      "kontakt poza miejscowością kryzys",
+      "karta kontaktowa dla dziecka seniora"
+    ],
+    "prefix": "OLiOC - wrzesień: kontakt awaryjny i miejsca spotkania rodziny.",
+    "content": "1. Wybierz jedną osobę spoza miejscowości jako wspólny punkt kontaktowy dla całej rodziny.\n2. Zapisz numery na papierze - nie polegaj wyłącznie na pamięci telefonu.\n3. Ustal miejsce spotkania w okolicy oraz zapasowe miejsce poza obszarem zagrożenia.\n4. Dzieci i seniorzy powinni mieć identyfikator z imieniem oraz numerem opiekuna, bez zbędnych danych.\n5. Gdy sieć jest przeciążona, wyślij krótki SMS z miejscem i stanem bezpieczeństwa zamiast wielokrotnych połączeń.\n6. Nie zmieniaj ustalonego miejsca bez przekazania informacji pozostałym domownikom.",
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "Akademia OLiOC wrzesień",
+      "kontakt awaryjny",
+      "miejsce spotkania"
+    ],
+    "aliasy": [
+      "miejsce spotkania po rozdzieleniu rodziny",
+      "kontakt poza miejscowością kryzys",
+      "karta kontaktowa dla dziecka seniora"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-poradnik-plan",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      },
+      {
+        "dokument_id": "src-poradnik-szczegolna-pomoc",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-WRZESIEŃ-05-ODCIECIE_MEDIOW",
+    "kategoria": "olioc",
+    "miesiac_akademii": "wrzesień",
+    "grupa_docelowa": "obywatel",
+    "status_zrodla": "oficjalne",
+    "data_aktualizacji": "2026-07-17",
+    "data_weryfikacji_zrodel": "2026-07-17",
+    "zrodlo": "Poradnik bezpieczeństwa - Przygotuj swoje otoczenie; Poradnik bezpieczeństwa - Ewakuacja; Poradnik bezpieczeństwa - Pożar",
+    "slowo_kluczowe": "olioc odcięcie mediów w domu",
+    "keywords": [
+      "jak wyłączyć prąd gaz wodę awaryjnie",
+      "główny zawór gazu i wody",
+      "oznaczenie miejsc odcięcia mediów"
+    ],
+    "prefix": "OLiOC - wrzesień: bezpieczne odcięcie prądu, gazu i wody.",
+    "content": "1. Znajdź i oznacz główny wyłącznik prądu oraz zawory gazu i wody.\n2. Pokaż wszystkim dorosłym domownikom ich lokalizację i sposób bezpiecznego użycia.\n3. Odcinaj media tylko wtedy, gdy możesz to zrobić bez wchodzenia w wodę, dym, ogień lub strefę uszkodzonej instalacji.\n4. Nie dotykaj mokrych urządzeń elektrycznych ani zerwanych przewodów.\n5. Po zakręceniu gazu nie uruchamiaj ponownie instalacji samodzielnie - poczekaj na osobę uprawnioną.\n6. Podczas ewakuacji wykonaj odcięcie tylko wtedy, gdy nie opóźnia ono bezpiecznego opuszczenia budynku.",
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "Akademia OLiOC wrzesień",
+      "media",
+      "prąd gaz woda"
+    ],
+    "aliasy": [
+      "jak wyłączyć prąd gaz wodę awaryjnie",
+      "główny zawór gazu i wody",
+      "oznaczenie miejsc odcięcia mediów"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-poradnik-otoczenie",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      },
+      {
+        "dokument_id": "src-poradnik-ewakuacja",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      },
+      {
+        "dokument_id": "src-poradnik-pozar",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-WRZESIEŃ-07-RODZINNY_PLAN",
+    "kategoria": "olioc",
+    "miesiac_akademii": "wrzesień",
+    "grupa_docelowa": "obywatel",
+    "status_zrodla": "oficjalne",
+    "data_aktualizacji": "2026-07-17",
+    "data_weryfikacji_zrodel": "2026-07-17",
+    "zrodlo": "Poradnik bezpieczeństwa - Plan na kryzys; Poradnik bezpieczeństwa - Osoby potrzebujące szczególnej pomocy",
+    "slowo_kluczowe": "olioc rodzinny plan kryzysowy",
+    "keywords": [
+      "plan awaryjny rodziny",
+      "rodzinny plan na sytuację kryzysową",
+      "ćwiczenie planu rodzinnego"
+    ],
+    "prefix": "OLiOC - wrzesień: rodzinny plan kryzysowy.",
+    "content": "1. Wypisz numery domowników, kontakt poza miejscowością oraz ważne numery służb i instytucji.\n2. Ustal dwa miejsca spotkania: blisko domu i poza miejscowością.\n3. Określ sposób odbioru dzieci, pomocy osobom zależnym i transportu zwierząt.\n4. Wskaż, kto zabiera leki, dokumenty, plecaki oraz wyłącza media.\n5. Przygotuj wariant na brak internetu, rozładowany telefon i rozdzielenie domowników.\n6. Przeglądaj plan i ćwicz go po zmianie miejsca zamieszkania, szkoły, pracy lub stanu zdrowia.",
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "Akademia OLiOC wrzesień",
+      "plan kryzysowy",
+      "rodzina"
+    ],
+    "aliasy": [
+      "plan awaryjny rodziny",
+      "rodzinny plan na sytuację kryzysową",
+      "ćwiczenie planu rodzinnego"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-poradnik-plan",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      },
+      {
+        "dokument_id": "src-poradnik-szczegolna-pomoc",
+        "strona": 1,
+        "sekcja": "Oficjalne źródło internetowe"
+      }
+    ]
+  },
+  {
     "id": "KARTA-ORG-AMONIAK-NH3-WARTOSCI-GRANICZNE",
     "kategoria": "substancja",
     "zrodlo": "CIOP-PIB, Baza niebezpiecznych substancji chemicznych, Amoniak",

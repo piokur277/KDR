@@ -1,0 +1,48 @@
+{
+  "id": "KARTA-OLIOC-GRUDZIEŃ-01-ZAPASY_72H",
+  "kategoria": "olioc",
+  "miesiac_akademii": "grudzień",
+  "grupa_docelowa": "obywatel",
+  "status_zrodla": "oficjalne",
+  "data_aktualizacji": "2026-07-17",
+  "data_weryfikacji_zrodel": "2026-07-17",
+  "zrodlo": "Akademia OLiOC - program „jeden miesiąc - jeden temat”; Poradnik bezpieczeństwa - Plan na kryzys; Poradnik bezpieczeństwa - Długotrwały brak prądu (blackout)",
+  "slowo_kluczowe": "olioc zapasy na 72 godziny",
+  "keywords": [
+    "domowy zestaw kryzysowy trzy dni",
+    "co przygotować na 72 godziny",
+    "zapasy rodziny na sytuację kryzysową"
+  ],
+  "prefix": "OLiOC - grudzień: domowe zapasy na pierwsze 72 godziny.",
+  "content": "1. Policz liczbę domowników i przygotuj zapasy na minimum 3 pełne doby.\n2. Uwzględnij wodę, żywność, leki, higienę, oświetlenie, łączność, ogrzewanie i gotówkę.\n3. Dostosuj zapasy do wieku, zdrowia, alergii, diety, urządzeń medycznych i zwierząt.\n4. Przechowuj rzeczy w kilku bezpiecznych miejscach, dostępnych także po uszkodzeniu części domu.\n5. Nie kupuj jednorazowo przypadkowych produktów - wybieraj rzeczy, których rodzina używa na co dzień.\n6. Raz na pół roku przeprowadź kontrolę, uzupełnij zużyte elementy i przećwicz funkcjonowanie bez mediów.",
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "Akademia OLiOC grudzień",
+    "72 godziny",
+    "zapasy domowe"
+  ],
+  "aliasy": [
+    "domowy zestaw kryzysowy trzy dni",
+    "co przygotować na 72 godziny",
+    "zapasy rodziny na sytuację kryzysową"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "src-olioc-akademia",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    },
+    {
+      "dokument_id": "src-poradnik-plan",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    },
+    {
+      "dokument_id": "src-poradnik-blackout",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    }
+  ]
+}

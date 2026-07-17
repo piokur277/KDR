@@ -1,0 +1,48 @@
+{
+  "id": "KARTA-OLIOC-SIERPIEŃ-01-PLECAK_EWAKUACYJNY",
+  "kategoria": "olioc",
+  "miesiac_akademii": "sierpień",
+  "grupa_docelowa": "obywatel",
+  "status_zrodla": "oficjalne",
+  "data_aktualizacji": "2026-07-17",
+  "data_weryfikacji_zrodel": "2026-07-17",
+  "zrodlo": "Akademia OLiOC - program „jeden miesiąc - jeden temat”; Poradnik bezpieczeństwa - Ewakuacja; Poradnik bezpieczeństwa - Plan na kryzys",
+  "slowo_kluczowe": "olioc plecak ewakuacyjny",
+  "keywords": [
+    "co spakować do plecaka ratunkowego",
+    "wyposażenie plecaka ewakuacyjnego olioc",
+    "torba ewakuacyjna dla rodziny"
+  ],
+  "prefix": "OLiOC - sierpień: plecak ewakuacyjny dla każdego domownika.",
+  "content": "1. Każdy domownik powinien mieć własny lekki plecak dostosowany do wieku, zdrowia i pory roku.\n2. Spakuj wodę, żywność gotową do spożycia, leki, apteczkę, latarkę, radio, baterie i powerbank.\n3. Dodaj kopie dokumentów, listę kontaktów, gotówkę, mapę papierową, środki higieny i ubranie ochronne.\n4. Przygotuj rzeczy dla dzieci, seniorów, osób z niepełnosprawnościami oraz zwierząt.\n5. Przechowuj plecak w łatwo dostępnym miejscu i nie wkładaj do niego przedmiotów zbędnych.\n6. Kontroluj zawartość co najmniej dwa razy w roku: terminy żywności, leków, baterie i zmianę rozmiaru ubrań.",
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "Akademia OLiOC sierpień",
+    "plecak ratunkowy",
+    "ewakuacja"
+  ],
+  "aliasy": [
+    "co spakować do plecaka ratunkowego",
+    "wyposażenie plecaka ewakuacyjnego olioc",
+    "torba ewakuacyjna dla rodziny"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "src-olioc-akademia",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    },
+    {
+      "dokument_id": "src-poradnik-ewakuacja",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    },
+    {
+      "dokument_id": "src-poradnik-plan",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "KARTA-OLIOC-MAJ-05-OBSZARY_PRZYGOTOWANIA",
+  "kategoria": "olioc",
+  "miesiac_akademii": "maj",
+  "grupa_docelowa": "obywatel",
+  "status_zrodla": "oficjalne",
+  "data_aktualizacji": "2026-07-17",
+  "data_weryfikacji_zrodel": "2026-07-17",
+  "zrodlo": "Akademia OLiOC - program „jeden miesiąc - jeden temat”; Poradnik bezpieczeństwa - Plan na kryzys; Poradnik bezpieczeństwa - Przygotuj siebie i najbliższych",
+  "slowo_kluczowe": "olioc obszary przygotowania obywatela",
+  "keywords": [
+    "co przygotować na sytuację kryzysową olioc",
+    "podstawowe przygotowanie rodziny do kryzysu",
+    "najważniejsze elementy gotowości obywatelskiej"
+  ],
+  "prefix": "OLiOC - maj: podstawowe obszary przygotowania obywatela.",
+  "content": "1. INFORMACJA: poznaj sygnały alarmowe i oficjalne kanały ostrzegania.\n2. RODZINA: opracuj kontakty, miejsca spotkania i sposób działania po rozdzieleniu.\n3. ZDROWIE: zgromadź leki, dokumentację medyczną i informacje o alergiach.\n4. EWAKUACJA: przygotuj plecak, dokumenty, transport i potrzeby zwierząt.\n5. DOM: znajdź zawory mediów, wyjścia, czujki, gaśnicę i bezpieczne pomieszczenie.\n6. ZAPASY: przygotuj wodę, żywność, higienę, światło, łączność i gotówkę na minimum 72 godziny.",
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "Akademia OLiOC maj",
+    "gotowość cywilna",
+    "odporność społeczna"
+  ],
+  "aliasy": [
+    "co przygotować na sytuację kryzysową olioc",
+    "podstawowe przygotowanie rodziny do kryzysu",
+    "najważniejsze elementy gotowości obywatelskiej"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "src-olioc-akademia",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    },
+    {
+      "dokument_id": "src-poradnik-plan",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    },
+    {
+      "dokument_id": "src-poradnik-przygotuj-siebie",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    }
+  ]
+}

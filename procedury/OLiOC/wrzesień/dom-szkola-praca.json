@@ -1,0 +1,43 @@
+{
+  "id": "KARTA-OLIOC-WRZESIEŃ-01-DOM_SZKOLA_PRACA",
+  "kategoria": "olioc",
+  "miesiac_akademii": "wrzesień",
+  "grupa_docelowa": "obywatel",
+  "status_zrodla": "oficjalne",
+  "data_aktualizacji": "2026-07-17",
+  "data_weryfikacji_zrodel": "2026-07-17",
+  "zrodlo": "Akademia OLiOC - program „jeden miesiąc - jeden temat”; Poradnik bezpieczeństwa - Przygotuj swoje otoczenie",
+  "slowo_kluczowe": "olioc bezpieczeństwo domu szkoły pracy",
+  "keywords": [
+    "przygotowanie otoczenia do kryzysu",
+    "bezpieczne miejsce pracy olioc",
+    "bezpieczna szkoła i dom"
+  ],
+  "prefix": "OLiOC - wrzesień: bezpieczeństwo domu, szkoły i miejsca pracy.",
+  "content": "1. Poznaj wyjścia, drogi ewakuacyjne, miejsca zbiórki, apteczki, gaśnice i AED.\n2. Usuń przedmioty z korytarzy, klatek schodowych i dojść do wyjść.\n3. Zgłaszaj uszkodzone instalacje, zablokowane drogi i niesprawne urządzenia bezpieczeństwa.\n4. Bierz udział w próbnych alarmach i ćwicz działanie bez windy oraz przy braku oświetlenia.\n5. W domu oznacz zawory mediów i przygotuj bezpieczne pomieszczenie z dala od okien.\n6. W szkole i pracy stosuj się do instrukcji administratora, nauczyciela lub kierującego ewakuacją.",
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "Akademia OLiOC wrzesień",
+    "bezpieczne otoczenie",
+    "dom szkoła praca"
+  ],
+  "aliasy": [
+    "przygotowanie otoczenia do kryzysu",
+    "bezpieczne miejsce pracy olioc",
+    "bezpieczna szkoła i dom"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "src-olioc-akademia",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    },
+    {
+      "dokument_id": "src-poradnik-otoczenie",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    }
+  ]
+}

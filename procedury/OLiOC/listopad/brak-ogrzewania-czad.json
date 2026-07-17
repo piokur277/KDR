@@ -1,0 +1,43 @@
+{
+  "id": "KARTA-OLIOC-LISTOPAD-03-BRAK_OGRZEWANIA_CZAD",
+  "kategoria": "olioc",
+  "miesiac_akademii": "listopad",
+  "grupa_docelowa": "obywatel",
+  "status_zrodla": "oficjalne",
+  "data_aktualizacji": "2026-07-17",
+  "data_weryfikacji_zrodel": "2026-07-17",
+  "zrodlo": "Poradnik bezpieczeństwa - Długotrwały brak prądu (blackout); KG PSP - Obowiązek instalowania autonomicznych czujek dymu i czadu",
+  "slowo_kluczowe": "olioc brak ogrzewania i czad",
+  "keywords": [
+    "jak utrzymać ciepło podczas blackoutu",
+    "bezpieczne ogrzewanie awaryjne",
+    "ryzyko czadu podczas braku prądu"
+  ],
+  "prefix": "OLiOC - listopad: brak ogrzewania i ryzyko tlenku węgla.",
+  "content": "1. Zbierz domowników w jednym pomieszczeniu i ogranicz utratę ciepła przez drzwi oraz okna.\n2. Ubierz kilka warstw odzieży, używaj koców i śpiworów, dbając szczególnie o dzieci i seniorów.\n3. Nie ogrzewaj mieszkania kuchenką gazową, grillem ani urządzeniem nieprzeznaczonym do pracy wewnątrz.\n4. Nie zasłaniaj kratek wentylacyjnych i zapewnij dopływ powietrza do urządzeń spalających paliwo.\n5. Używaj sprawnych, certyfikowanych urządzeń zgodnie z instrukcją oraz działającej czujki tlenku węgla.\n6. Przy bólu głowy, senności, nudnościach lub alarmie czujki natychmiast wyjdź na świeże powietrze i wezwij 112.",
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "Akademia OLiOC listopad",
+    "brak ogrzewania",
+    "temat tlenek węgla"
+  ],
+  "aliasy": [
+    "jak utrzymać ciepło podczas blackoutu",
+    "bezpieczne ogrzewanie awaryjne",
+    "ryzyko czadu podczas braku prądu"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "src-poradnik-blackout",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    },
+    {
+      "dokument_id": "src-kgpsp-czujki-2026",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    }
+  ]
+}

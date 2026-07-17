@@ -1,0 +1,43 @@
+{
+  "id": "KARTA-OLIOC-SIERPIEŃ-06-SCHRONIENIA",
+  "kategoria": "olioc",
+  "miesiac_akademii": "sierpień",
+  "grupa_docelowa": "obywatel",
+  "status_zrodla": "oficjalne",
+  "data_aktualizacji": "2026-07-17",
+  "data_weryfikacji_zrodel": "2026-07-17",
+  "zrodlo": "Poradnik bezpieczeństwa - Schronienia; Poradnik bezpieczeństwa - Plan na kryzys",
+  "slowo_kluczowe": "olioc gdzie się schronić",
+  "keywords": [
+    "schronienie podczas alarmu",
+    "bezpieczne miejsce z dala od okien",
+    "piwnica garaż podziemny schronienie"
+  ],
+  "prefix": "OLiOC - sierpień: schron, ukrycie i miejsce doraźnego schronienia.",
+  "content": "1. Sprawdź wcześniej w gminie lub lokalnej jednostce PSP i OSP, gdzie znajdują się miejsca schronienia.\n2. Po otrzymaniu polecenia udaj się do wskazanego obiektu i stosuj do poleceń obsługi.\n3. Jeśli nie możesz dotrzeć do oznaczonego miejsca, wybierz centralne pomieszczenie z dala od okien, przy ścianach nośnych.\n4. Na zewnątrz szukaj najniższych kondygnacji, piwnic, garaży podziemnych, tuneli lub zagłębień terenu.\n5. Zabierz dokumenty, leki, telefon, radio, wodę i podstawowe wyposażenie, ale nie przeciążaj się.\n6. Nie opuszczaj schronienia samodzielnie, dopóki nie zostanie przekazane odwołanie zagrożenia lub polecenie wyjścia.",
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "Akademia OLiOC sierpień",
+    "schronienia",
+    "bezpieczne miejsce"
+  ],
+  "aliasy": [
+    "schronienie podczas alarmu",
+    "bezpieczne miejsce z dala od okien",
+    "piwnica garaż podziemny schronienie"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "src-poradnik-schronienia",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    },
+    {
+      "dokument_id": "src-poradnik-plan",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    }
+  ]
+}

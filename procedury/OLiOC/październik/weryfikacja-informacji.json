@@ -1,0 +1,43 @@
+{
+  "id": "KARTA-OLIOC-PAŹDZIERNIK-02-WERYFIKACJA_INFORMACJI",
+  "kategoria": "olioc",
+  "miesiac_akademii": "październik",
+  "grupa_docelowa": "obywatel",
+  "status_zrodla": "oficjalne",
+  "data_aktualizacji": "2026-07-17",
+  "data_weryfikacji_zrodel": "2026-07-17",
+  "zrodlo": "Poradnik bezpieczeństwa - Zagrożenia cyfrowe; Poradnik bezpieczeństwa - Sygnały alarmowe i komunikaty ostrzegawcze",
+  "slowo_kluczowe": "olioc weryfikacja informacji w kryzysie",
+  "keywords": [
+    "jak sprawdzić prawdziwość komunikatu",
+    "sprawdzanie źródła informacji kryzys",
+    "wiarygodna informacja oficjalne źródła"
+  ],
+  "prefix": "OLiOC - październik: weryfikacja wiadomości w sytuacji kryzysowej.",
+  "content": "1. Znajdź pierwotne źródło, a nie tylko przesłany zrzut ekranu.\n2. Sprawdź, czy komunikat jest opublikowany na stronie gov.pl, w RSO, przez RCB, urząd lub właściwą służbę.\n3. Porównaj informację z co najmniej jednym innym wiarygodnym źródłem.\n4. Sprawdź datę, godzinę i obszar - prawdziwy komunikat może być już nieaktualny lub dotyczyć innego miejsca.\n5. Nie traktuj dużej liczby udostępnień jako dowodu prawdziwości.\n6. Gdy nie można potwierdzić treści, nie przekazuj jej dalej i zaznacz, że informacja jest niezweryfikowana.",
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "Akademia OLiOC październik",
+    "weryfikacja informacji",
+    "oficjalne komunikaty"
+  ],
+  "aliasy": [
+    "jak sprawdzić prawdziwość komunikatu",
+    "sprawdzanie źródła informacji kryzys",
+    "wiarygodna informacja oficjalne źródła"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "src-poradnik-cyfrowe",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    },
+    {
+      "dokument_id": "src-poradnik-alarmy",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    }
+  ]
+}

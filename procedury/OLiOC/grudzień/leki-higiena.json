@@ -1,0 +1,49 @@
+{
+  "id": "KARTA-OLIOC-GRUDZIEŃ-04-LEKI_HIGIENA",
+  "kategoria": "olioc",
+  "miesiac_akademii": "grudzień",
+  "grupa_docelowa": "obywatel",
+  "status_zrodla": "oficjalne",
+  "data_aktualizacji": "2026-07-17",
+  "data_weryfikacji_zrodel": "2026-07-17",
+  "zrodlo": "Poradnik bezpieczeństwa - Przygotuj siebie i najbliższych; Poradnik bezpieczeństwa - Higiena w kryzysie; Poradnik bezpieczeństwa - Plan na kryzys",
+  "slowo_kluczowe": "olioc leki i higiena na kryzys",
+  "keywords": [
+    "apteczka i leki na 72 godziny",
+    "środki higieny podczas kryzysu",
+    "dokumentacja medyczna i alergie kryzys"
+  ],
+  "prefix": "OLiOC - grudzień: leki, zdrowie i higiena w domowych zapasach.",
+  "content": "1. Zgromadź stale przyjmowane leki, podstawową apteczkę oraz listę dawkowania, chorób i alergii.\n2. Dokumentację medyczną i recepty przechowuj w jednym miejscu, dostępnym dla zaufanej osoby.\n3. Przygotuj środki higieny osobistej, dezynfekcji, rękawiczki, papier, worki i artykuły menstruacyjne.\n4. Uwzględnij okulary, baterie do aparatów słuchowych, sensory, sprzęt stomijny i inne urządzenia wspomagające.\n5. Kontroluj temperaturę oraz warunki przechowywania leków; nie używaj produktów po terminie.\n6. Nie gromadź leków na receptę bez uzgodnienia z lekarzem lub farmaceutą.",
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "Akademia OLiOC grudzień",
+    "leki",
+    "higiena",
+    "zdrowie"
+  ],
+  "aliasy": [
+    "apteczka i leki na 72 godziny",
+    "środki higieny podczas kryzysu",
+    "dokumentacja medyczna i alergie kryzys"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "src-poradnik-przygotuj-siebie",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    },
+    {
+      "dokument_id": "src-poradnik-higiena",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    },
+    {
+      "dokument_id": "src-poradnik-plan",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    }
+  ]
+}

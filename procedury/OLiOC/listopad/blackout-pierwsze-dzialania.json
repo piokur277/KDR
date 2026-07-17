@@ -1,0 +1,43 @@
+{
+  "id": "KARTA-OLIOC-LISTOPAD-01-BLACKOUT_PIERWSZE_DZIALANIA",
+  "kategoria": "olioc",
+  "miesiac_akademii": "listopad",
+  "grupa_docelowa": "obywatel",
+  "status_zrodla": "oficjalne",
+  "data_aktualizacji": "2026-07-17",
+  "data_weryfikacji_zrodel": "2026-07-17",
+  "zrodlo": "Akademia OLiOC - program „jeden miesiąc - jeden temat”; Poradnik bezpieczeństwa - Długotrwały brak prądu (blackout)",
+  "slowo_kluczowe": "olioc blackout pierwsze działania",
+  "keywords": [
+    "co robić gdy długo nie ma prądu",
+    "awaria zasilania w domu kroki",
+    "przerwa w dostawie energii przygotowanie"
+  ],
+  "prefix": "OLiOC - listopad: pierwsze działania podczas długotrwałego braku prądu.",
+  "content": "1. Sprawdź, czy awaria dotyczy mieszkania, budynku czy większego obszaru.\n2. Odłącz wrażliwe urządzenia elektryczne, aby ograniczyć skutki przepięcia po powrocie zasilania.\n3. Włącz oszczędzanie energii w telefonie i używaj go tylko do ważnej komunikacji.\n4. Używaj latarek zamiast otwartego ognia; pozostaw jedną lampę włączoną jako sygnał powrotu prądu.\n5. Słuchaj radia i komunikatów operatora, gminy oraz służb.\n6. Sprawdź osoby zależne od urządzeń medycznych i w razie zagrożenia skontaktuj się z 112 lub właściwą placówką.",
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "Akademia OLiOC listopad",
+    "blackout",
+    "brak prądu"
+  ],
+  "aliasy": [
+    "co robić gdy długo nie ma prądu",
+    "awaria zasilania w domu kroki",
+    "przerwa w dostawie energii przygotowanie"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "src-olioc-akademia",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    },
+    {
+      "dokument_id": "src-poradnik-blackout",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    }
+  ]
+}

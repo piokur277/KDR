@@ -1,0 +1,43 @@
+{
+  "id": "KARTA-OLIOC-WRZESIEŃ-04-AED_OBYWATEL",
+  "kategoria": "olioc",
+  "miesiac_akademii": "wrzesień",
+  "grupa_docelowa": "obywatel",
+  "status_zrodla": "oficjalne",
+  "data_aktualizacji": "2026-07-17",
+  "data_weryfikacji_zrodel": "2026-07-17",
+  "zrodlo": "Poradnik bezpieczeństwa - Pierwsza pomoc i AED; Poradnik bezpieczeństwa - Przygotuj swoje otoczenie",
+  "slowo_kluczowe": "olioc użycie aed",
+  "keywords": [
+    "jak użyć defibrylatora aed",
+    "aed w miejscu publicznym",
+    "pierwsza pomoc defibrylator obywatel"
+  ],
+  "prefix": "OLiOC - wrzesień: AED - użycie defibrylatora przez obywatela.",
+  "content": "1. Gdy poszkodowany nie reaguje i nie oddycha prawidłowo, wezwij 112, rozpocznij uciski i poleć konkretnej osobie przynieść AED.\n2. Włącz urządzenie i wykonuj dokładnie polecenia głosowe lub graficzne.\n3. Odsłoń i osusz klatkę piersiową, naklej elektrody zgodnie z rysunkami.\n4. Podczas analizy rytmu i wyładowania nikt nie może dotykać poszkodowanego.\n5. Po wyładowaniu lub komunikacie o braku wyładowania natychmiast kontynuuj RKO.\n6. Nie bój się AED - urządzenie samo ocenia możliwość wykonania wyładowania.",
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "Akademia OLiOC wrzesień",
+    "AED",
+    "pierwsza pomoc"
+  ],
+  "aliasy": [
+    "jak użyć defibrylatora aed",
+    "aed w miejscu publicznym",
+    "pierwsza pomoc defibrylator obywatel"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "src-poradnik-pierwsza-pomoc",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    },
+    {
+      "dokument_id": "src-poradnik-otoczenie",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "KARTA-OLIOC-PAŹDZIERNIK-03-PHISHING_FALSZYWE_ALERTY",
+  "kategoria": "olioc",
+  "miesiac_akademii": "październik",
+  "grupa_docelowa": "obywatel",
+  "status_zrodla": "oficjalne",
+  "data_aktualizacji": "2026-07-17",
+  "data_weryfikacji_zrodel": "2026-07-17",
+  "zrodlo": "Poradnik bezpieczeństwa - Zagrożenia cyfrowe; CERT Polska - zgłoszenie incydentu",
+  "slowo_kluczowe": "olioc phishing fałszywy alert",
+  "keywords": [
+    "podejrzany sms z linkiem",
+    "fałszywa wiadomość od służb",
+    "oszustwo na alert rcb"
+  ],
+  "prefix": "OLiOC - październik: phishing i fałszywe alerty.",
+  "content": "1. Nie klikaj linku ani załącznika w wiadomości, której się nie spodziewasz.\n2. Sprawdź pełny adres nadawcy i strony - podobna nazwa lub logo nie potwierdza autentyczności.\n3. Instytucja nie powinna wymuszać podania hasła, kodu BLIK, danych karty ani instalowania aplikacji z linku w SMS.\n4. Skontaktuj się z instytucją przez numer lub stronę znalezioną samodzielnie, nie przez dane z podejrzanej wiadomości.\n5. Podejrzany SMS z linkiem prześlij pod numer 8080; incydent zgłoś do CERT Polska.\n6. Jeżeli podałeś dane, natychmiast zmień hasła, skontaktuj się z bankiem i zgłoś zdarzenie.",
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "Akademia OLiOC październik",
+    "phishing",
+    "fałszywe SMS",
+    "oszustwa"
+  ],
+  "aliasy": [
+    "podejrzany sms z linkiem",
+    "fałszywa wiadomość od służb",
+    "oszustwo na alert rcb"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "src-poradnik-cyfrowe",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    },
+    {
+      "dokument_id": "src-cert-zglos-incydent",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    }
+  ]
+}

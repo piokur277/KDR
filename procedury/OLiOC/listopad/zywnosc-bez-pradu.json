@@ -1,0 +1,44 @@
+{
+  "id": "KARTA-OLIOC-LISTOPAD-06-ZYWNOSC_BEZ_PRADU",
+  "kategoria": "olioc",
+  "miesiac_akademii": "listopad",
+  "grupa_docelowa": "obywatel",
+  "status_zrodla": "oficjalne",
+  "data_aktualizacji": "2026-07-17",
+  "data_weryfikacji_zrodel": "2026-07-17",
+  "zrodlo": "Poradnik bezpieczeństwa - Długotrwały brak prądu (blackout); GIS - Bezpieczeństwo żywności podczas przerwy w dostawie prądu",
+  "slowo_kluczowe": "olioc żywność podczas braku prądu",
+  "keywords": [
+    "lodówka zamrażarka podczas blackoutu",
+    "czy jedzenie jest bezpieczne po awarii prądu",
+    "nie otwieraj lodówki brak prądu"
+  ],
+  "prefix": "OLiOC - listopad: bezpieczeństwo żywności bez zasilania.",
+  "content": "1. Nie otwieraj bez potrzeby lodówki i zamrażarki - zamknięte dłużej utrzymują niską temperaturę.\n2. Najpierw wykorzystuj żywność szybko psującą się, jeśli nadal była przechowywana w bezpiecznej temperaturze.\n3. Nie oceniaj bezpieczeństwa wyłącznie po zapachu lub wyglądzie.\n4. Po dłuższej awarii stosuj aktualne zalecenia GIS dotyczące czasu i temperatury przechowywania.\n5. Gdy masz wątpliwości co do produktu łatwo psującego się, nie ryzykuj zatrucia - wyrzuć go.\n6. Przygotuj wcześniej zapas produktów gotowych do spożycia, niewymagających chłodzenia i dużej ilości wody.",
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "Akademia OLiOC listopad",
+    "bezpieczeństwo żywności",
+    "lodówka",
+    "zamrażarka"
+  ],
+  "aliasy": [
+    "lodówka zamrażarka podczas blackoutu",
+    "czy jedzenie jest bezpieczne po awarii prądu",
+    "nie otwieraj lodówki brak prądu"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "src-poradnik-blackout",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    },
+    {
+      "dokument_id": "src-gis-zywnosc-blackout-2026",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    }
+  ]
+}

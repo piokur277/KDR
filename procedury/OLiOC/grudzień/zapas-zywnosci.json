@@ -1,0 +1,43 @@
+{
+  "id": "KARTA-OLIOC-GRUDZIEŃ-03-ZAPAS_ZYWNOSCI",
+  "kategoria": "olioc",
+  "miesiac_akademii": "grudzień",
+  "grupa_docelowa": "obywatel",
+  "status_zrodla": "oficjalne",
+  "data_aktualizacji": "2026-07-17",
+  "data_weryfikacji_zrodel": "2026-07-17",
+  "zrodlo": "Poradnik bezpieczeństwa - Długotrwały brak prądu (blackout); Poradnik bezpieczeństwa - Plan na kryzys",
+  "slowo_kluczowe": "olioc żywność na 72 godziny",
+  "keywords": [
+    "jedzenie na trzy dni bez gotowania",
+    "produkty do zapasu kryzysowego",
+    "żywność gotowa do spożycia blackout"
+  ],
+  "prefix": "OLiOC - grudzień: zapas żywności na 72 godziny.",
+  "content": "1. Wybieraj produkty trwałe, gotowe do spożycia lub wymagające niewielkiej ilości wody i energii.\n2. Przygotuj żywność zgodną z dietą domowników, alergiami i możliwościami gryzienia lub połykania.\n3. Miej ręczny otwieracz do puszek oraz bezpieczne naczynia i sztućce.\n4. Nie opieraj całego zapasu na produktach bardzo słonych, które zwiększają zapotrzebowanie na wodę.\n5. Zapisz prosty jadłospis na 3 dni, aby znać rzeczywistą ilość potrzebnych produktów.\n6. Stosuj zasadę: kup, używaj, uzupełniaj - nie dopuszczaj do przeterminowania zapasów.",
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "Akademia OLiOC grudzień",
+    "zapas żywności",
+    "żywność bez gotowania"
+  ],
+  "aliasy": [
+    "jedzenie na trzy dni bez gotowania",
+    "produkty do zapasu kryzysowego",
+    "żywność gotowa do spożycia blackout"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "src-poradnik-blackout",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    },
+    {
+      "dokument_id": "src-poradnik-plan",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    }
+  ]
+}

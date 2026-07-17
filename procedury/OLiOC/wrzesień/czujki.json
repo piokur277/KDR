@@ -1,0 +1,44 @@
+{
+  "id": "KARTA-OLIOC-WRZESIEŃ-06-CZUJKI",
+  "kategoria": "olioc",
+  "miesiac_akademii": "wrzesień",
+  "grupa_docelowa": "obywatel",
+  "status_zrodla": "oficjalne",
+  "data_aktualizacji": "2026-07-17",
+  "data_weryfikacji_zrodel": "2026-07-17",
+  "zrodlo": "Poradnik bezpieczeństwa - Przygotuj swoje otoczenie; KG PSP - Obowiązek instalowania autonomicznych czujek dymu i czadu",
+  "slowo_kluczowe": "olioc czujki dymu i czadu",
+  "keywords": [
+    "czujka tlenku węgla w domu",
+    "czujka dymu test baterii",
+    "alarm czujki co zrobić"
+  ],
+  "prefix": "OLiOC - wrzesień: czujki dymu, tlenku węgla i gazu.",
+  "content": "1. Zamontuj czujkę dymu, a w pomieszczeniach z procesem spalania także czujkę tlenku węgla.\n2. Wybierz urządzenie spełniające właściwą normę i zamontuj je zgodnie z instrukcją producenta.\n3. Regularnie naciskaj przycisk TEST i reaguj na sygnał niskiego poziomu baterii lub usterki.\n4. Czujka nie zastępuje przeglądu komina, wentylacji, instalacji gazowej ani prawidłowego użytkowania urządzeń.\n5. Po alarmie czujki opuść zagrożone pomieszczenie, ostrzeż innych i zadzwoń pod 112.\n6. Nie wracaj do budynku, dopóki służby nie potwierdzą bezpieczeństwa.",
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "Akademia OLiOC wrzesień",
+    "czujki bezpieczeństwa",
+    "temat tlenek węgla",
+    "dym"
+  ],
+  "aliasy": [
+    "czujka tlenku węgla w domu",
+    "czujka dymu test baterii",
+    "alarm czujki co zrobić"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "src-poradnik-otoczenie",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    },
+    {
+      "dokument_id": "src-kgpsp-czujki-2026",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    }
+  ]
+}

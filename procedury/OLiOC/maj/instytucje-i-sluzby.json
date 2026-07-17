@@ -1,0 +1,43 @@
+{
+  "id": "KARTA-OLIOC-MAJ-03-INSTYTUCJE_I_SLUZBY",
+  "kategoria": "olioc",
+  "miesiac_akademii": "maj",
+  "grupa_docelowa": "obywatel",
+  "status_zrodla": "oficjalne",
+  "data_aktualizacji": "2026-07-17",
+  "data_weryfikacji_zrodel": "2026-07-17",
+  "zrodlo": "Ustawa o ochronie ludności i obronie cywilnej - informacje MSWiA; Poradnik bezpieczeństwa - Wspólnie dbamy o nasze bezpieczeństwo",
+  "slowo_kluczowe": "olioc kto odpowiada za ochronę ludności",
+  "keywords": [
+    "instytucje ochrony ludności",
+    "rola gminy powiatu wojewody olioc",
+    "służby w systemie ochrony ludności"
+  ],
+  "prefix": "OLiOC - maj: kto odpowiada za bezpieczeństwo i jak współdziałają służby.",
+  "content": "1. Wójt, burmistrz lub prezydent miasta organizuje działania ochrony ludności na poziomie gminy.\n2. Starosta i wojewoda koordynują działania na wyższych poziomach, a minister właściwy do spraw wewnętrznych odpowiada za poziom centralny.\n3. Służby ratownicze ratują życie i mienie, prowadzą ewakuację, alarmowanie i działania specjalistyczne.\n4. Organizacje społeczne i wolontariusze mogą wspierać pomoc humanitarną, logistykę i opiekę nad ludnością.\n5. Obywatel powinien znać komunikaty lokalnych władz i wskazane miejsca uzyskania pomocy.\n6. Pomoc humanitarna jest bezpłatna - nie przekazuj pieniędzy ani dokumentów osobom, które żądają zapłaty za rzekomą pomoc.",
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "Akademia OLiOC maj",
+    "administracja publiczna",
+    "służby ratownicze"
+  ],
+  "aliasy": [
+    "instytucje ochrony ludności",
+    "rola gminy powiatu wojewody olioc",
+    "służby w systemie ochrony ludności"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "src-olioc-ustawa",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    },
+    {
+      "dokument_id": "src-poradnik-wspolnie",
+      "strona": 1,
+      "sekcja": "Oficjalne źródło internetowe"
+    }
+  ]
+}
