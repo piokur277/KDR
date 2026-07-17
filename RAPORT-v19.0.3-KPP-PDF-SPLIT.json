@@ -1,0 +1,236 @@
+{
+  "version": "v19.0.3 KPP PDF SPLIT",
+  "change": "Każda procedura KPP nr 1-20 otrzymała osobny jednostronicowy PDF.",
+  "removed_master_file": "dokumenty/kpp/procedury-ratownicze-kpp.pdf",
+  "new_pdf_count": 20,
+  "updated_procedure_count": 20,
+  "total_procedures": 112,
+  "total_registry_entries": 60,
+  "documents": [
+    {
+      "procedura_nr": 1,
+      "procedure_id": "KARTA-KPP-SEKWENCJA-ZALOZEN-TAKTYCZNYCH",
+      "document_id": "doc-kpp-procedura-01",
+      "file": "dokumenty/kpp/procedury/procedura-01-sekwencja-zalozen-taktycznych.pdf",
+      "source_page": 2
+    },
+    {
+      "procedura_nr": 2,
+      "procedure_id": "KARTA-KPP-SEKWENCJA-MEDYCZNYCH-DZIALAN-RATOWNICZYCH",
+      "document_id": "doc-kpp-procedura-02",
+      "file": "dokumenty/kpp/procedury/procedura-02-sekwencja-medycznych-dzialan-ratowniczych.pdf",
+      "source_page": 3
+    },
+    {
+      "procedura_nr": 3,
+      "procedure_id": "KARTA-KPP-RKO-DOROSLI",
+      "document_id": "doc-kpp-procedura-03",
+      "file": "dokumenty/kpp/procedury/procedura-03-zatrzymanie-krazenia-dorosli-rko.pdf",
+      "source_page": 4
+    },
+    {
+      "procedura_nr": 4,
+      "procedure_id": "KARTA-KPP-RKO-DZIECI-NIEMOWLETA-NOWORODKI",
+      "document_id": "doc-kpp-procedura-04",
+      "file": "dokumenty/kpp/procedury/procedura-04-zatrzymanie-krazenia-dzieci-noworodki-rko.pdf",
+      "source_page": 5
+    },
+    {
+      "procedura_nr": 5,
+      "procedure_id": "KARTA-KPP-RANY",
+      "document_id": "doc-kpp-procedura-05",
+      "file": "dokumenty/kpp/procedury/procedura-05-rany.pdf",
+      "source_page": 6
+    },
+    {
+      "procedura_nr": 6,
+      "procedure_id": "KARTA-KPP-AMPUTACJA-URAZOWA",
+      "document_id": "doc-kpp-procedura-06",
+      "file": "dokumenty/kpp/procedury/procedura-06-amputacja-urazowa.pdf",
+      "source_page": 7
+    },
+    {
+      "procedura_nr": 7,
+      "procedure_id": "KARTA-KPP-OBRAZENIA-GLOWY",
+      "document_id": "doc-kpp-procedura-07",
+      "file": "dokumenty/kpp/procedury/procedura-07-obrazenia-glowy.pdf",
+      "source_page": 8
+    },
+    {
+      "procedura_nr": 8,
+      "procedure_id": "KARTA-KPP-OBRAZENIA-KREGOSLUPA",
+      "document_id": "doc-kpp-procedura-08",
+      "file": "dokumenty/kpp/procedury/procedura-08-obrazenia-kregoslupa.pdf",
+      "source_page": 9
+    },
+    {
+      "procedura_nr": 9,
+      "procedure_id": "KARTA-KPP-OBRAZENIA-KLATKI-PIERSIOWEJ",
+      "document_id": "doc-kpp-procedura-09",
+      "file": "dokumenty/kpp/procedury/procedura-09-obrazenia-klatki-piersiowej.pdf",
+      "source_page": 10
+    },
+    {
+      "procedura_nr": 10,
+      "procedure_id": "KARTA-KPP-OBRAZENIA-BRZUCHA",
+      "document_id": "doc-kpp-procedura-10",
+      "file": "dokumenty/kpp/procedury/procedura-10-obrazenia-brzucha.pdf",
+      "source_page": 11
+    },
+    {
+      "procedura_nr": 11,
+      "procedure_id": "KARTA-KPP-OBRAZENIA-MIEDNICY",
+      "document_id": "doc-kpp-procedura-11",
+      "file": "dokumenty/kpp/procedury/procedura-11-obrazenia-miednicy.pdf",
+      "source_page": 12
+    },
+    {
+      "procedura_nr": 12,
+      "procedure_id": "KARTA-KPP-OBRAZENIA-NARZADU-RUCHU",
+      "document_id": "doc-kpp-procedura-12",
+      "file": "dokumenty/kpp/procedury/procedura-12-obrazenia-narzadu-ruchu.pdf",
+      "source_page": 13
+    },
+    {
+      "procedura_nr": 13,
+      "procedure_id": "KARTA-KPP-OPARZENIE-TERMICZNE",
+      "document_id": "doc-kpp-procedura-13",
+      "file": "dokumenty/kpp/procedury/procedura-13-oparzenie-termiczne.pdf",
+      "source_page": 14
+    },
+    {
+      "procedura_nr": 14,
+      "procedure_id": "KARTA-KPP-OPARZENIE-CHEMICZNE",
+      "document_id": "doc-kpp-procedura-14",
+      "file": "dokumenty/kpp/procedury/procedura-14-oparzenie-chemiczne.pdf",
+      "source_page": 15
+    },
+    {
+      "procedura_nr": 15,
+      "procedure_id": "KARTA-KPP-ZATRUCIE-WZIEWNE",
+      "document_id": "doc-kpp-procedura-15",
+      "file": "dokumenty/kpp/procedury/procedura-15-zatrucie-wziewne.pdf",
+      "source_page": 16
+    },
+    {
+      "procedura_nr": 16,
+      "procedure_id": "KARTA-KPP-TONIECIE",
+      "document_id": "doc-kpp-procedura-16",
+      "file": "dokumenty/kpp/procedury/procedura-16-toniecie.pdf",
+      "source_page": 17
+    },
+    {
+      "procedura_nr": 17,
+      "procedure_id": "KARTA-KPP-WYCHLODZENIE",
+      "document_id": "doc-kpp-procedura-17",
+      "file": "dokumenty/kpp/procedury/procedura-17-wychlodzenie.pdf",
+      "source_page": 18
+    },
+    {
+      "procedura_nr": 18,
+      "procedure_id": "KARTA-KPP-STANY-NIEURAZOWE",
+      "document_id": "doc-kpp-procedura-18",
+      "file": "dokumenty/kpp/procedury/procedura-18-zaburzenia-krazeniowo-oddechowe-stany-nieurazowe.pdf",
+      "source_page": 19
+    },
+    {
+      "procedura_nr": 19,
+      "procedure_id": "KARTA-KPP-KOBIETA-W-CIAZY-ZAGROZENIE",
+      "document_id": "doc-kpp-procedura-19",
+      "file": "dokumenty/kpp/procedury/procedura-19-kobieta-w-ciazy-zagrozenie-zycia-zdrowia.pdf",
+      "source_page": 20
+    },
+    {
+      "procedura_nr": 20,
+      "procedure_id": "KARTA-KPP-WSPARCIE-PSYCHICZNE",
+      "document_id": "doc-kpp-procedura-20",
+      "file": "dokumenty/kpp/procedury/procedura-20-wsparcie-psychiczne-psychologiczne.pdf",
+      "source_page": 21
+    }
+  ],
+  "visual_checks": [
+    {
+      "procedura_nr": 1,
+      "identyczny_render": true
+    },
+    {
+      "procedura_nr": 2,
+      "identyczny_render": true
+    },
+    {
+      "procedura_nr": 3,
+      "identyczny_render": true
+    },
+    {
+      "procedura_nr": 4,
+      "identyczny_render": true
+    },
+    {
+      "procedura_nr": 5,
+      "identyczny_render": true
+    },
+    {
+      "procedura_nr": 6,
+      "identyczny_render": true
+    },
+    {
+      "procedura_nr": 7,
+      "identyczny_render": true
+    },
+    {
+      "procedura_nr": 8,
+      "identyczny_render": true
+    },
+    {
+      "procedura_nr": 9,
+      "identyczny_render": true
+    },
+    {
+      "procedura_nr": 10,
+      "identyczny_render": true
+    },
+    {
+      "procedura_nr": 11,
+      "identyczny_render": true
+    },
+    {
+      "procedura_nr": 12,
+      "identyczny_render": true
+    },
+    {
+      "procedura_nr": 13,
+      "identyczny_render": true
+    },
+    {
+      "procedura_nr": 14,
+      "identyczny_render": true
+    },
+    {
+      "procedura_nr": 15,
+      "identyczny_render": true
+    },
+    {
+      "procedura_nr": 16,
+      "identyczny_render": true
+    },
+    {
+      "procedura_nr": 17,
+      "identyczny_render": true
+    },
+    {
+      "procedura_nr": 18,
+      "identyczny_render": true
+    },
+    {
+      "procedura_nr": 19,
+      "identyczny_render": true
+    },
+    {
+      "procedura_nr": 20,
+      "identyczny_render": true
+    }
+  ],
+  "previous_changes_preserved": true,
+  "database_validation": "OK",
+  "javascript_syntax": "OK"
+}

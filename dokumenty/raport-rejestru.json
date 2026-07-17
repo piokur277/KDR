@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-17T17:33:58.140Z",
-  "registry_version": "2.0",
-  "document_count": 41,
-  "active_document_count": 41,
-  "linked_document_count": 41,
+  "generated_at": "2026-07-17T18:22:20.252Z",
+  "registry_version": "2.1",
+  "document_count": 60,
+  "active_document_count": 60,
+  "linked_document_count": 60,
   "unlinked_documents": [],
   "documents": [
     {
@@ -32,115 +32,6 @@
           "procedure_id": "ZAT-EV-01",
           "strona": 13,
           "sekcja": "Karta Z3 - zatopienie samochodu w wodzie"
-        }
-      ]
-    },
-    {
-      "id": "doc-kpp-procedury",
-      "tytul": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy - Załącznik nr 1",
-      "status_techniczny": "aktywny",
-      "liczba_stron": 21,
-      "liczba_powiazan": 20,
-      "powiazania": [
-        {
-          "procedure_id": "KARTA-KPP-AMPUTACJA-URAZOWA",
-          "strona": 7,
-          "sekcja": "Procedura KPP - strona 7"
-        },
-        {
-          "procedure_id": "KARTA-KPP-KOBIETA-W-CIAZY-ZAGROZENIE",
-          "strona": 20,
-          "sekcja": "Procedura KPP - strona 20"
-        },
-        {
-          "procedure_id": "KARTA-KPP-OBRAZENIA-BRZUCHA",
-          "strona": 11,
-          "sekcja": "Procedura KPP - strona 11"
-        },
-        {
-          "procedure_id": "KARTA-KPP-OBRAZENIA-GLOWY",
-          "strona": 8,
-          "sekcja": "Procedura KPP - strona 8"
-        },
-        {
-          "procedure_id": "KARTA-KPP-OBRAZENIA-KLATKI-PIERSIOWEJ",
-          "strona": 10,
-          "sekcja": "Procedura KPP - strona 10"
-        },
-        {
-          "procedure_id": "KARTA-KPP-OBRAZENIA-KREGOSLUPA",
-          "strona": 9,
-          "sekcja": "Procedura KPP - strona 9"
-        },
-        {
-          "procedure_id": "KARTA-KPP-OBRAZENIA-MIEDNICY",
-          "strona": 12,
-          "sekcja": "Procedura KPP - strona 12"
-        },
-        {
-          "procedure_id": "KARTA-KPP-OBRAZENIA-NARZADU-RUCHU",
-          "strona": 13,
-          "sekcja": "Procedura KPP - strona 13"
-        },
-        {
-          "procedure_id": "KARTA-KPP-OPARZENIE-CHEMICZNE",
-          "strona": 15,
-          "sekcja": "Procedura KPP - strona 15"
-        },
-        {
-          "procedure_id": "KARTA-KPP-OPARZENIE-TERMICZNE",
-          "strona": 14,
-          "sekcja": "Procedura KPP - strona 14"
-        },
-        {
-          "procedure_id": "KARTA-KPP-RANY",
-          "strona": 6,
-          "sekcja": "Procedura KPP - strona 6"
-        },
-        {
-          "procedure_id": "KARTA-KPP-RKO-DOROSLI",
-          "strona": 4,
-          "sekcja": "Procedura KPP - strona 4"
-        },
-        {
-          "procedure_id": "KARTA-KPP-RKO-DZIECI-NIEMOWLETA-NOWORODKI",
-          "strona": 5,
-          "sekcja": "Procedura KPP - strona 5"
-        },
-        {
-          "procedure_id": "KARTA-KPP-SEKWENCJA-MEDYCZNYCH-DZIALAN-RATOWNICZYCH",
-          "strona": 3,
-          "sekcja": "Procedura KPP - strona 3"
-        },
-        {
-          "procedure_id": "KARTA-KPP-SEKWENCJA-ZALOZEN-TAKTYCZNYCH",
-          "strona": 2,
-          "sekcja": "Procedura KPP - strona 2"
-        },
-        {
-          "procedure_id": "KARTA-KPP-TONIECIE",
-          "strona": 17,
-          "sekcja": "Procedura KPP - strona 17"
-        },
-        {
-          "procedure_id": "KARTA-KPP-WSPARCIE-PSYCHICZNE",
-          "strona": 21,
-          "sekcja": "Procedura KPP - strona 21"
-        },
-        {
-          "procedure_id": "KARTA-KPP-WYCHLODZENIE",
-          "strona": 18,
-          "sekcja": "Procedura KPP - strona 18"
-        },
-        {
-          "procedure_id": "KARTA-KPP-STANY-NIEURAZOWE",
-          "strona": 19,
-          "sekcja": "Procedura KPP - strona 19"
-        },
-        {
-          "procedure_id": "KARTA-KPP-ZATRUCIE-WZIEWNE",
-          "strona": 16,
-          "sekcja": "Procedura KPP - strona 16"
         }
       ]
     },
@@ -1142,6 +1033,286 @@
           "procedure_id": "KARTA-OLIOC-PAŹDZIERNIK-03-PHISHING_FALSZYWE_ALERTY",
           "strona": 1,
           "sekcja": "Oficjalne źródło internetowe"
+        }
+      ]
+    },
+    {
+      "id": "doc-kpp-procedura-01",
+      "tytul": "Procedura nr 1 - Sekwencja założeń taktycznych w ratownictwie medycznym",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 1,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-KPP-SEKWENCJA-ZALOZEN-TAKTYCZNYCH",
+          "strona": 1,
+          "sekcja": "Procedura nr 1 - Sekwencja założeń taktycznych w ratownictwie medycznym"
+        }
+      ]
+    },
+    {
+      "id": "doc-kpp-procedura-02",
+      "tytul": "Procedura nr 2 - Sekwencja medycznych działań ratowniczych",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 1,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-KPP-SEKWENCJA-MEDYCZNYCH-DZIALAN-RATOWNICZYCH",
+          "strona": 1,
+          "sekcja": "Procedura nr 2 - Sekwencja medycznych działań ratowniczych"
+        }
+      ]
+    },
+    {
+      "id": "doc-kpp-procedura-03",
+      "tytul": "Procedura nr 3 - Zatrzymanie krążenia u dorosłych (RKO)",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 1,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-KPP-RKO-DOROSLI",
+          "strona": 1,
+          "sekcja": "Procedura nr 3 - Zatrzymanie krążenia u dorosłych (RKO)"
+        }
+      ]
+    },
+    {
+      "id": "doc-kpp-procedura-04",
+      "tytul": "Procedura nr 4 - Zatrzymanie krążenia u dzieci i noworodków (RKO)",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 1,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-KPP-RKO-DZIECI-NIEMOWLETA-NOWORODKI",
+          "strona": 1,
+          "sekcja": "Procedura nr 4 - Zatrzymanie krążenia u dzieci i noworodków (RKO)"
+        }
+      ]
+    },
+    {
+      "id": "doc-kpp-procedura-05",
+      "tytul": "Procedura nr 5 - Rany",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 1,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-KPP-RANY",
+          "strona": 1,
+          "sekcja": "Procedura nr 5 - Rany"
+        }
+      ]
+    },
+    {
+      "id": "doc-kpp-procedura-06",
+      "tytul": "Procedura nr 6 - Amputacja urazowa",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 1,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-KPP-AMPUTACJA-URAZOWA",
+          "strona": 1,
+          "sekcja": "Procedura nr 6 - Amputacja urazowa"
+        }
+      ]
+    },
+    {
+      "id": "doc-kpp-procedura-07",
+      "tytul": "Procedura nr 7 - Obrażenia i podejrzenie obrażeń głowy",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 1,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-KPP-OBRAZENIA-GLOWY",
+          "strona": 1,
+          "sekcja": "Procedura nr 7 - Obrażenia i podejrzenie obrażeń głowy"
+        }
+      ]
+    },
+    {
+      "id": "doc-kpp-procedura-08",
+      "tytul": "Procedura nr 8 - Obrażenia i podejrzenie obrażeń kręgosłupa",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 1,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-KPP-OBRAZENIA-KREGOSLUPA",
+          "strona": 1,
+          "sekcja": "Procedura nr 8 - Obrażenia i podejrzenie obrażeń kręgosłupa"
+        }
+      ]
+    },
+    {
+      "id": "doc-kpp-procedura-09",
+      "tytul": "Procedura nr 9 - Obrażenia i podejrzenie obrażeń klatki piersiowej",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 1,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-KPP-OBRAZENIA-KLATKI-PIERSIOWEJ",
+          "strona": 1,
+          "sekcja": "Procedura nr 9 - Obrażenia i podejrzenie obrażeń klatki piersiowej"
+        }
+      ]
+    },
+    {
+      "id": "doc-kpp-procedura-10",
+      "tytul": "Procedura nr 10 - Obrażenia i podejrzenie obrażeń brzucha",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 1,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-KPP-OBRAZENIA-BRZUCHA",
+          "strona": 1,
+          "sekcja": "Procedura nr 10 - Obrażenia i podejrzenie obrażeń brzucha"
+        }
+      ]
+    },
+    {
+      "id": "doc-kpp-procedura-11",
+      "tytul": "Procedura nr 11 - Obrażenia i podejrzenie obrażeń miednicy",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 1,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-KPP-OBRAZENIA-MIEDNICY",
+          "strona": 1,
+          "sekcja": "Procedura nr 11 - Obrażenia i podejrzenie obrażeń miednicy"
+        }
+      ]
+    },
+    {
+      "id": "doc-kpp-procedura-12",
+      "tytul": "Procedura nr 12 - Obrażenia i podejrzenie obrażeń narządu ruchu",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 1,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-KPP-OBRAZENIA-NARZADU-RUCHU",
+          "strona": 1,
+          "sekcja": "Procedura nr 12 - Obrażenia i podejrzenie obrażeń narządu ruchu"
+        }
+      ]
+    },
+    {
+      "id": "doc-kpp-procedura-13",
+      "tytul": "Procedura nr 13 - Oparzenie termiczne",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 1,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-KPP-OPARZENIE-TERMICZNE",
+          "strona": 1,
+          "sekcja": "Procedura nr 13 - Oparzenie termiczne"
+        }
+      ]
+    },
+    {
+      "id": "doc-kpp-procedura-14",
+      "tytul": "Procedura nr 14 - Oparzenie chemiczne",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 1,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-KPP-OPARZENIE-CHEMICZNE",
+          "strona": 1,
+          "sekcja": "Procedura nr 14 - Oparzenie chemiczne"
+        }
+      ]
+    },
+    {
+      "id": "doc-kpp-procedura-15",
+      "tytul": "Procedura nr 15 - Zatrucie wziewne",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 1,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-KPP-ZATRUCIE-WZIEWNE",
+          "strona": 1,
+          "sekcja": "Procedura nr 15 - Zatrucie wziewne"
+        }
+      ]
+    },
+    {
+      "id": "doc-kpp-procedura-16",
+      "tytul": "Procedura nr 16 - Tonięcie",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 1,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-KPP-TONIECIE",
+          "strona": 1,
+          "sekcja": "Procedura nr 16 - Tonięcie"
+        }
+      ]
+    },
+    {
+      "id": "doc-kpp-procedura-17",
+      "tytul": "Procedura nr 17 - Wychłodzenie",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 1,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-KPP-WYCHLODZENIE",
+          "strona": 1,
+          "sekcja": "Procedura nr 17 - Wychłodzenie"
+        }
+      ]
+    },
+    {
+      "id": "doc-kpp-procedura-18",
+      "tytul": "Procedura nr 18 - Zaburzenia krążeniowo-oddechowe w stanach nieurazowych",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 1,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-KPP-STANY-NIEURAZOWE",
+          "strona": 1,
+          "sekcja": "Procedura nr 18 - Zaburzenia krążeniowo-oddechowe w stanach nieurazowych"
+        }
+      ]
+    },
+    {
+      "id": "doc-kpp-procedura-19",
+      "tytul": "Procedura nr 19 - Kobieta w widocznej ciąży w stanie zagrożenia życia lub zdrowia",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 1,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-KPP-KOBIETA-W-CIAZY-ZAGROZENIE",
+          "strona": 1,
+          "sekcja": "Procedura nr 19 - Kobieta w widocznej ciąży w stanie zagrożenia życia lub zdrowia"
+        }
+      ]
+    },
+    {
+      "id": "doc-kpp-procedura-20",
+      "tytul": "Procedura nr 20 - Zasady udzielania wsparcia psychicznego i psychologicznego",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 1,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-KPP-WSPARCIE-PSYCHICZNE",
+          "strona": 1,
+          "sekcja": "Procedura nr 20 - Zasady udzielania wsparcia psychicznego i psychologicznego"
         }
       ]
     }

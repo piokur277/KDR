@@ -1,4 +1,4 @@
-const CACHE_NAME = "kdr-ai-v19-0-2-remember-access";
+const CACHE_NAME = "kdr-ai-v19-0-3-kpp-pdf-split";
 
 const APP_SHELL = [
   "./",
