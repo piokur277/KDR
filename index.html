@@ -568,6 +568,31 @@
             font-size: 0.78rem;
         }
 
+        .access-remember {
+            display: flex;
+            align-items: flex-start;
+            gap: 9px;
+            color: #e2e8f0;
+            font-size: 0.82rem;
+            line-height: 1.35;
+            cursor: pointer;
+        }
+
+        .access-remember input {
+            margin-top: 2px;
+            width: 18px;
+            height: 18px;
+            flex: 0 0 auto;
+            accent-color: #38bdf8;
+        }
+
+        .access-remember-note {
+            margin: -3px 0 0 27px;
+            color: #94a3b8;
+            font-size: 0.72rem;
+            line-height: 1.35;
+        }
+
         .listening {
             animation: pulse 1s infinite;
             background: rgba(127, 29, 29, 0.92) !important;
@@ -618,7 +643,7 @@
         <header class="header">
             <div class="header-row">
                 <h1 class="title">KDR AI SYSTEM</h1>
-                <span class="version">v19.0.1 NAVIGATION FIX</span>
+                <span class="version">v19.0.2 REMEMBER ACCESS</span>
             </div>
 
             <div class="toolbar">
@@ -633,6 +658,7 @@
                 <input id="api-model-input" class="api-input" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="Model API, np. gemini-3-flash-preview">
                 <button id="api-save-btn" class="toolbar-btn api-on" type="button">Zapisz API</button>
                 <button id="api-clear-btn" class="toolbar-btn api-clear" type="button">Usun API</button>
+                <button id="forget-access-btn" class="toolbar-btn api-clear hidden" type="button">Zapomnij to urządzenie</button>
             </div>
 
             <div id="debug-console" aria-live="polite">
@@ -671,11 +697,16 @@
         <div class="access-card">
             <div class="source-badge">Dostep aplikacji</div>
             <h2 id="access-title" class="access-title">Wpisz kod dostepu</h2>
-            <p class="access-subtitle">Kod jest wymagany przed uruchomieniem procedur.</p>
+            <p class="access-subtitle">Kod jest wymagany przy pierwszym uruchomieniu na urządzeniu.</p>
             <div class="access-row">
-                <input id="access-code-input" class="access-input" type="password" autocomplete="off" placeholder="Kod dostepu">
+                <input id="access-code-input" class="access-input" type="password" autocomplete="off" placeholder="Kod dostępu">
                 <button id="access-submit-btn" class="access-btn" type="button">Odblokuj</button>
             </div>
+            <label class="access-remember" for="access-remember-input">
+                <input id="access-remember-input" type="checkbox">
+                <span>Zapamiętaj dostęp na tym urządzeniu</span>
+            </label>
+            <p class="access-remember-note">Zaznacz tylko na prywatnym telefonie lub tablecie. Kod nie jest zapisywany.</p>
             <div id="access-error" class="access-error" aria-live="polite"></div>
         </div>
     </div>
@@ -766,14 +797,15 @@
         const FALLBACK_URL = "procedury/baza.json";
         const MANIFEST_URL = "procedury/manifest.json";
         const DOCUMENT_REGISTRY_URL = "dokumenty/rejestr-dokumentow.json";
-        const PROCEDURE_CACHE_KEY = "kdr_ai_procedures_cache_v13";
-        const PROCEDURE_CACHE_META_KEY = "kdr_ai_procedures_cache_meta_v13";
-        const DOCUMENT_REGISTRY_CACHE_KEY = "kdr_ai_document_registry_v8";
+        const PROCEDURE_CACHE_KEY = "kdr_ai_procedures_cache_v14";
+        const PROCEDURE_CACHE_META_KEY = "kdr_ai_procedures_cache_meta_v14";
+        const DOCUMENT_REGISTRY_CACHE_KEY = "kdr_ai_document_registry_v9";
         const FILE_LOAD_CONCURRENCY = 8;
         const FEEDBACK_FORM_URL = "https://forms.gle/F3u9P3jn2RtieHA79";
         const ACCESS_ENABLED = true;
         const ACCESS_CODE_HASH = "42c4545bf96e5df338af0984765ddc2e3555872c857ebc4e31f7c2f372114c5f";
         const ACCESS_SESSION_KEY = "kdr_ai_access_ok";
+        const ACCESS_REMEMBER_KEY = "kdr_ai_access_remembered_v1";
         const SHOW_INFO_LOGS = false;
 
         const state = {
@@ -824,8 +856,10 @@
         const procedureScrollArea = document.getElementById("procedure-scroll-area");
         const accessGate = document.getElementById("access-gate");
         const accessCodeInput = document.getElementById("access-code-input");
+        const accessRememberInput = document.getElementById("access-remember-input");
         const accessSubmitBtn = document.getElementById("access-submit-btn");
         const accessError = document.getElementById("access-error");
+        const forgetAccessBtn = document.getElementById("forget-access-btn");
 
         function safeStorageGet(key) {
             try {
@@ -833,6 +867,21 @@
             } catch (error) {
                 return "";
             }
+        }
+
+        function safeStorageSet(key, value) {
+            try {
+                localStorage.setItem(key, value);
+                return true;
+            } catch (error) {
+                return false;
+            }
+        }
+
+        function safeStorageRemove(key) {
+            try {
+                localStorage.removeItem(key);
+            } catch (error) {}
         }
 
         function safeSessionGet(key) {
@@ -846,6 +895,12 @@
         function safeSessionSet(key, value) {
             try {
                 sessionStorage.setItem(key, value);
+            } catch (error) {}
+        }
+
+        function safeSessionRemove(key) {
+            try {
+                sessionStorage.removeItem(key);
             } catch (error) {}
         }
 
@@ -1228,6 +1283,22 @@
             accessSubmitBtn.textContent = isBusy ? "Sprawdzam..." : "Odblokuj";
         }
 
+        function hasRememberedAccess() {
+            return safeStorageGet(ACCESS_REMEMBER_KEY) === ACCESS_CODE_HASH;
+        }
+
+        function updateForgetAccessButton() {
+            if (!forgetAccessBtn) return;
+            forgetAccessBtn.classList.toggle("hidden", !hasRememberedAccess());
+        }
+
+        function forgetRememberedAccess() {
+            safeStorageRemove(ACCESS_REMEMBER_KEY);
+            safeSessionRemove(ACCESS_SESSION_KEY);
+            updateForgetAccessButton();
+            location.reload();
+        }
+
         async function hashTextSHA256(value) {
             const bytes = new TextEncoder().encode(value);
             const digest = await crypto.subtle.digest("SHA-256", bytes);
@@ -1277,7 +1348,26 @@
             }
 
             safeSessionSet(ACCESS_SESSION_KEY, "1");
+
+            if (accessRememberInput?.checked) {
+                const saved = safeStorageSet(
+                    ACCESS_REMEMBER_KEY,
+                    ACCESS_CODE_HASH
+                );
+
+                if (!saved) {
+                    setAccessError(
+                        "Przeglądarka nie pozwoliła zapamiętać dostępu. Kod może być wymagany ponownie."
+                    );
+                }
+            } else {
+                safeStorageRemove(ACCESS_REMEMBER_KEY);
+            }
+
+            updateForgetAccessButton();
+
             if (accessCodeInput) accessCodeInput.value = "";
+            if (accessRememberInput) accessRememberInput.checked = false;
             setAccessGateVisible(false);
             setAccessBusy(false);
             await ensureInitialized();
@@ -1291,17 +1381,32 @@
                 return;
             }
 
-            const unlocked = safeSessionGet(ACCESS_SESSION_KEY) === "1";
-            if (unlocked) {
+            const sessionUnlocked =
+                safeSessionGet(ACCESS_SESSION_KEY) === "1";
+            const rememberedUnlocked = hasRememberedAccess();
+
+            if (sessionUnlocked || rememberedUnlocked) {
+                safeSessionSet(ACCESS_SESSION_KEY, "1");
+                updateForgetAccessButton();
                 setAccessGateVisible(false);
                 await ensureInitialized();
                 return;
             }
 
+            const obsoleteRememberedValue =
+                safeStorageGet(ACCESS_REMEMBER_KEY);
+            if (obsoleteRememberedValue) {
+                safeStorageRemove(ACCESS_REMEMBER_KEY);
+            }
+
+            updateForgetAccessButton();
             setAccessGateVisible(true);
             setMicEnabled(false);
             setAccessBusy(false);
             setAccessError("");
+            if (accessRememberInput) {
+                accessRememberInput.checked = false;
+            }
             if (accessCodeInput) {
                 accessCodeInput.value = "";
                 accessCodeInput.focus();
@@ -2543,6 +2648,9 @@ Odpowiedz wylacznie poprawnym JSON:
         feedbackBtn.addEventListener("click", openFeedbackForm);
         
         if (accessSubmitBtn) accessSubmitBtn.addEventListener("click", submitAccessCode);
+        if (forgetAccessBtn) {
+            forgetAccessBtn.addEventListener("click", forgetRememberedAccess);
+        }
         if (accessCodeInput) {
             accessCodeInput.addEventListener("keydown", event => {
                 if (event.key === "Enter") {

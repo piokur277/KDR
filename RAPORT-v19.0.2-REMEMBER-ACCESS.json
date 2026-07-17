@@ -1,0 +1,18 @@
+{
+  "version": "v19.0.2 REMEMBER ACCESS",
+  "change": "Po poprawnym wpisaniu kodu użytkownik może zaznaczyć zapamiętanie dostępu na prywatnym urządzeniu.",
+  "behavior": [
+    "Kod jest wymagany przy pierwszym uruchomieniu na urządzeniu.",
+    "Zaznaczenie opcji zapamiętuje wyłącznie znacznik zaufanego urządzenia, a nie jawny kod.",
+    "Przy kolejnych uruchomieniach aplikacja otwiera się bez pytania o kod.",
+    "Zmiana kodu dostępu automatycznie unieważnia wcześniejsze zapamiętanie.",
+    "W panelu ustawień można użyć przycisku „Zapomnij to urządzenie”.",
+    "Tryb prywatny, usunięcie danych strony lub blokada localStorage powodują ponowne wymaganie kodu."
+  ],
+  "security_note": "Funkcja jest przeznaczona dla prywatnych telefonów i tabletów. Nie należy jej używać na urządzeniach współdzielonych.",
+  "procedures": 112,
+  "registry_entries": 41,
+  "navigation_fix_preserved": true,
+  "olioc_preserved": true,
+  "javascript_syntax": "OK"
+}
