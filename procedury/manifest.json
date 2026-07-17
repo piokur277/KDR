@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T18:04:54.884Z",
-  "count": 70,
+  "generated_at": "2026-07-17T17:12:52.387Z",
+  "count": 71,
   "files": [
     "procedury/acetylen/karta-z1-butle-acetylen.json",
     "procedury/acetylen/karta-z2-butle-acetylen.json",
@@ -43,6 +43,7 @@
     "procedury/kpp/rany-kpp.json",
     "procedury/kpp/rko-dorosli-kpp.json",
     "procedury/kpp/rko-dzieci-niemowleta-noworodki-kpp.json",
+    "procedury/kpp/schemat-badania-abcde-kpp.json",
     "procedury/kpp/sekwencja-medycznych-dzialan-ratowniczych-kpp.json",
     "procedury/kpp/sekwencja-zalozen-taktycznych-kpp.json",
     "procedury/kpp/toniecie-kpp.json",

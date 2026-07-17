@@ -1474,6 +1474,44 @@
     ]
   },
   {
+    "id": "KARTA-KPP-SCHEMAT-BADANIA-ABCDE",
+    "kategoria": "dzialania",
+    "zrodlo": "ALS Provider Course, Schemat badania ABCDE, strony 1-2",
+    "data_aktualizacji": "2026-07-17",
+    "slowo_kluczowe": "schemat badania abcde",
+    "keywords": [
+      "badanie abcde",
+      "abcde poszkodowany",
+      "ocena abcde",
+      "algorytm abcde",
+      "abcde kpp",
+      "badanie pierwotne abcde"
+    ],
+    "prefix": "KPP - schemat badania ABCDE.",
+    "content": "1. KOD / NAZWA: Schemat badania ABCDE - szybka i uporządkowana ocena poszkodowanego.\n2. ZASADA NADRZĘDNA: Na każdym etapie rozpoznaj i usuń bezpośrednie zagrożenie życia przed przejściem do następnej litery. Po wykonanej interwencji oceń jej efekt, wróć do początku schematu i wcześnie wezwij dodatkową pomoc.\n3. A - AIRWAY / DROŻNOŚĆ DRÓG ODDECHOWYCH: Oceń, czy poszkodowany mówi i czy drogi oddechowe są drożne. Zwróć uwagę na ciała obce, wydzielinę i nieprawidłowe dźwięki oddechowe. Udrożnij i oczyść drogi oddechowe metodą odpowiednią do sytuacji i posiadanego wyposażenia. Przy urazie zabezpieczaj odcinek szyjny kręgosłupa.\n4. B - BREATHING / ODDYCHANIE: Oceń częstość, głębokość i jakość oddechu, wysiłek oddechowy, symetrię ruchów klatki piersiowej, tor oddechowy, zabarwienie skóry oraz widoczne obrażenia klatki piersiowej. Jeżeli jest dostępny sprzęt, wykonaj pulsoksymetrię i kapnometrię. Wdróż tlenoterapię, wentylację lub zabezpieczenie obrażeń zgodnie ze wskazaniami i zakresem uprawnień.\n5. C - CIRCULATION / KRĄŻENIE: Oceń tętno - jego obecność, częstość i jakość. Oceń kolor, wilgotność i temperaturę skóry, nawrót kapilarny, ciśnienie tętnicze, krwawienia i objawy wstrząsu. Natychmiast tamuj masywne krwotoki. W przypadku zatrzymania krążenia rozpocznij RKO i użyj AED zgodnie z właściwą procedurą.\n6. D - DISABILITY / STAN ŚWIADOMOŚCI I OCENA NEUROLOGICZNA: Oceń świadomość w skali AVPU lub GCS, źrenice, orientację, mowę oraz symetrię siły i ruchów. Zmierz glikemię, jeżeli jest to możliwe i zgodne z zakresem działań. Zwróć uwagę na drgawki, niedowłady i nagłą zmianę zachowania.\n7. E - EXPOSURE / EKSPOZYCJA I OGLĄDANIE: Odsłoń tylko tyle ciała, ile jest konieczne do pełnej oceny. Obejrzyj poszkodowanego z przodu i z tyłu, oceń urazy, wysypki, obrzęki i inne nieprawidłowości. Oceń brzuch oraz temperaturę ciała. Chroń prywatność i natychmiast zapobiegaj wychłodzeniu.\n8. SAMPLE - WYWIAD: S - symptomy, A - alergie, M - medykamenty, P - przebyte choroby, L - ostatni posiłek, E - okoliczności zdarzenia lub początku dolegliwości. Wywiad zbieraj możliwie wcześnie, bez opóźniania działań ratujących życie.\n9. OCENA PONOWNA: Powtarzaj ABCDE po każdej zmianie stanu, wykonanej interwencji, przed przekazaniem poszkodowanego i podczas oczekiwania na ZRM.\n10. UWAGA KOMPETENCYJNA: Dokument źródłowy ALS zawiera także czynności zaawansowane i lekarskie. W ramach KPP wykonuj wyłącznie działania zgodne z posiadanymi kwalifikacjami, obowiązującymi procedurami oraz dostępnym sprzętem.",
+    "tagi_wspolne": [
+      "kpp",
+      "medyczne dzialania ratownicze",
+      "ocena poszkodowanego",
+      "abcde"
+    ],
+    "aliasy": [
+      "badanie abcde",
+      "abcde poszkodowany",
+      "ocena abcde",
+      "algorytm abcde",
+      "abcde kpp",
+      "badanie pierwotne abcde"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-kpp-abcde-als",
+        "strona": 1,
+        "sekcja": "Schemat badania ABCDE - strony 1-2"
+      }
+    ]
+  },
+  {
     "id": "KARTA-KPP-SEKWENCJA-MEDYCZNYCH-DZIALAN-RATOWNICZYCH",
     "kategoria": "dzialania",
     "zrodlo": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 2",

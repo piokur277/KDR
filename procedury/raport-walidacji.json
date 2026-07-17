@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-14T18:04:54.886Z",
-  "procedure_count": 70,
-  "unique_direct_terms": 517,
-  "linked_procedure_count": 65,
-  "document_count": 20,
+  "generated_at": "2026-07-17T17:12:52.388Z",
+  "procedure_count": 71,
+  "unique_direct_terms": 524,
+  "linked_procedure_count": 66,
+  "document_count": 21,
   "shared_tags": [
     {
       "tag": "kpp",
-      "count": 20,
+      "count": 21,
       "ids": [
         "KARTA-KPP-AMPUTACJA-URAZOWA",
         "KARTA-KPP-KOBIETA-W-CIAZY-ZAGROZENIE",
@@ -22,6 +22,7 @@
         "KARTA-KPP-RANY",
         "KARTA-KPP-RKO-DOROSLI",
         "KARTA-KPP-RKO-DZIECI-NIEMOWLETA-NOWORODKI",
+        "KARTA-KPP-SCHEMAT-BADANIA-ABCDE",
         "KARTA-KPP-SEKWENCJA-MEDYCZNYCH-DZIALAN-RATOWNICZYCH",
         "KARTA-KPP-SEKWENCJA-ZALOZEN-TAKTYCZNYCH",
         "KARTA-KPP-TONIECIE",
@@ -33,7 +34,7 @@
     },
     {
       "tag": "medyczne dzialania ratownicze",
-      "count": 20,
+      "count": 21,
       "ids": [
         "KARTA-KPP-AMPUTACJA-URAZOWA",
         "KARTA-KPP-KOBIETA-W-CIAZY-ZAGROZENIE",
@@ -48,6 +49,7 @@
         "KARTA-KPP-RANY",
         "KARTA-KPP-RKO-DOROSLI",
         "KARTA-KPP-RKO-DZIECI-NIEMOWLETA-NOWORODKI",
+        "KARTA-KPP-SCHEMAT-BADANIA-ABCDE",
         "KARTA-KPP-SEKWENCJA-MEDYCZNYCH-DZIALAN-RATOWNICZYCH",
         "KARTA-KPP-SEKWENCJA-ZALOZEN-TAKTYCZNYCH",
         "KARTA-KPP-TONIECIE",

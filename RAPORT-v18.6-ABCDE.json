@@ -1,0 +1,21 @@
+{
+  "version": "v18.6 ABCDE",
+  "added_procedure": {
+    "id": "KARTA-KPP-SCHEMAT-BADANIA-ABCDE",
+    "name": "KPP - schemat badania ABCDE.",
+    "folder": "procedury/kpp",
+    "source": "ALS Provider Course, Schemat badania ABCDE, strony 1-2"
+  },
+  "added_document": {
+    "id": "doc-kpp-abcde-als",
+    "path": "dokumenty/kpp/schemat-badania-abcde-als-provider-course.pdf",
+    "pages": 2,
+    "sha256": "e53cfdbecc40be5fbd127bfe03b6a802dc04655361db5ab70e23b2c4dbec19d6"
+  },
+  "procedure_count": 71,
+  "document_count": 21,
+  "previous_changes_preserved": true,
+  "database_validation": "OK",
+  "javascript_syntax": "OK",
+  "medical_scope_note": "Karta jest skrótem szybkiej oceny. Zaawansowane działania z materiału ALS nie zostały przedstawione jako uprawnienia KPP."
+}

@@ -547,6 +547,19 @@
     ]
   },
   {
+    "id": "KARTA-KPP-SCHEMAT-BADANIA-ABCDE",
+    "procedura": "KPP - schemat badania ABCDE.",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-kpp-abcde-als",
+        "strona": 1,
+        "sekcja": "Schemat badania ABCDE - strony 1-2",
+        "tytul": "ALS Provider Course - Schemat badania ABCDE",
+        "plik": "dokumenty/kpp/schemat-badania-abcde-als-provider-course.pdf"
+      }
+    ]
+  },
+  {
     "id": "KARTA-KPP-SEKWENCJA-MEDYCZNYCH-DZIALAN-RATOWNICZYCH",
     "procedura": "KPP - sekwencja medycznych dzialan ratowniczych.",
     "dokumenty_zrodlowe": [

@@ -1,6 +1,6 @@
 {
-  "wersja_rejestru": "1.2",
-  "zaktualizowano": "2026-07-14",
+  "wersja_rejestru": "1.3",
+  "zaktualizowano": "2026-07-17",
   "dokumenty": {
     "doc-ev-szp-2023": {
       "tytul": "Standardowe zasady postępowania podczas zdarzeń z samochodami z napędem elektrycznym oraz hybrydowym",
@@ -242,6 +242,19 @@
       "aktualnosc_merytoryczna": "wedlug_przekazanego_pliku",
       "liczba_stron": 6,
       "sha256": "9106561089fab8f5ceb2044e930cd0bebf8047f07102833a7e37ae97d618ce94"
+    },
+    "doc-kpp-abcde-als": {
+      "tytul": "ALS Provider Course - Schemat badania ABCDE",
+      "wersja": "Materiał szkoleniowy - 2 strony",
+      "data_wydania": null,
+      "rodzaj": "Schemat badania medycznego",
+      "plik": "dokumenty/kpp/schemat-badania-abcde-als-provider-course.pdf",
+      "id": "doc-kpp-abcde-als",
+      "status_techniczny": "aktywny",
+      "aktualnosc_merytoryczna": "wedlug_przekazanego_pliku",
+      "uwagi": "Dokument źródłowy obejmuje również działania ALS i czynności lekarskie. Karta w aplikacji została ograniczona do szybkiego schematu oceny; użytkownik wykonuje wyłącznie czynności zgodne z kwalifikacjami i procedurami.",
+      "liczba_stron": 2,
+      "sha256": "e53cfdbecc40be5fbd127bfe03b6a802dc04655361db5ab70e23b2c4dbec19d6"
     }
   }
 }
