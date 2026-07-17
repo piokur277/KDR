@@ -618,7 +618,7 @@
         <header class="header">
             <div class="header-row">
                 <h1 class="title">KDR AI SYSTEM</h1>
-                <span class="version">v19.0 OLiOC</span>
+                <span class="version">v19.0.1 NAVIGATION FIX</span>
             </div>
 
             <div class="toolbar">
@@ -766,9 +766,9 @@
         const FALLBACK_URL = "procedury/baza.json";
         const MANIFEST_URL = "procedury/manifest.json";
         const DOCUMENT_REGISTRY_URL = "dokumenty/rejestr-dokumentow.json";
-        const PROCEDURE_CACHE_KEY = "kdr_ai_procedures_cache_v12";
-        const PROCEDURE_CACHE_META_KEY = "kdr_ai_procedures_cache_meta_v12";
-        const DOCUMENT_REGISTRY_CACHE_KEY = "kdr_ai_document_registry_v7";
+        const PROCEDURE_CACHE_KEY = "kdr_ai_procedures_cache_v13";
+        const PROCEDURE_CACHE_META_KEY = "kdr_ai_procedures_cache_meta_v13";
+        const DOCUMENT_REGISTRY_CACHE_KEY = "kdr_ai_document_registry_v8";
         const FILE_LOAD_CONCURRENCY = 8;
         const FEEDBACK_FORM_URL = "https://forms.gle/F3u9P3jn2RtieHA79";
         const ACCESS_ENABLED = true;
@@ -798,7 +798,8 @@
             lastSearchResults: [],
             lastSearchQuery: "",
             lastSearchSource: "",
-            lastSearchInterpretation: ""
+            lastSearchInterpretation: "",
+            returnTarget: ""
         };
 
         const IS_IOS = /iPad|iPhone|iPod/.test(navigator.userAgent) || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
@@ -1664,7 +1665,17 @@
             `;
 
             state.openedFromList = Boolean(options.fromList);
+            state.returnTarget = String(options.returnTarget || "");
             state.listViewShown = false;
+
+            if (state.returnTarget === "search-results") {
+                resetBtn.textContent = "Powrót do wyników";
+            } else if (state.returnTarget === "procedure-list") {
+                resetBtn.textContent = "Powrót do listy";
+            } else {
+                resetBtn.textContent = "Powrót";
+            }
+
             setResultMode(true);
             procedureScrollArea.scrollTop = 0;
         }
@@ -1727,8 +1738,10 @@
                 </div>
             `;
 
-            state.listViewShown = false;
+            state.listViewShown = true;
             state.openedFromList = false;
+            state.returnTarget = "";
+            resetBtn.textContent = "Powrót";
             setResultMode(true);
             procedureScrollArea.scrollTop = 0;
         }
@@ -1739,7 +1752,14 @@
                 renderEmptyState("Brak danych");
                 return;
             }
-            renderProcedure(procedure, "Lista procedur", { fromList: true });
+            renderProcedure(
+                procedure,
+                "Lista procedur",
+                {
+                    fromList: true,
+                    returnTarget: "procedure-list"
+                }
+            );
         }
 
         async function copyToClipboard(text) {
@@ -2445,6 +2465,8 @@ Odpowiedz wylacznie poprawnym JSON:
             `;
             state.listViewShown = true;
             state.openedFromList = false;
+            state.returnTarget = "";
+            resetBtn.textContent = "Powrót";
             setResultMode(true);
             procedureScrollArea.scrollTop = 0;
         }
@@ -2484,7 +2506,10 @@ Odpowiedz wylacznie poprawnym JSON:
                 renderProcedure(
                     procedure,
                     "Wybrano z wynikow",
-                    { fromList: false }
+                    {
+                        fromList: true,
+                        returnTarget: "search-results"
+                    }
                 );
                 return;
             }
@@ -2528,14 +2553,53 @@ Odpowiedz wylacznie poprawnym JSON:
         }
 
         resetBtn.addEventListener("click", () => {
+            if (
+                state.openedFromList &&
+                state.returnTarget === "search-results" &&
+                state.lastSearchResults.length
+            ) {
+                const procedures = state.lastSearchResults
+                    .map(id => state.procedury.find(item => item.id === id))
+                    .filter(Boolean);
+
+                if (procedures.length) {
+                    const query = state.lastSearchQuery;
+                    const source = state.lastSearchSource;
+                    const interpretation = state.lastSearchInterpretation;
+
+                    renderProcedureChoices(
+                        procedures,
+                        query,
+                        source,
+                        interpretation
+                    );
+
+                    manualQuery.value = query;
+                    userInputDisplay.textContent = query
+                        ? `Wyniki dla: ${query}`
+                        : "";
+                    return;
+                }
+            }
+
+            if (
+                state.openedFromList &&
+                state.returnTarget === "procedure-list"
+            ) {
+                showIosHelp();
+                return;
+            }
+
             procedureOutput.innerHTML = '<div class="empty-state">Oczekiwanie na rozkaz</div>';
             userInputDisplay.textContent = "";
             state.listViewShown = false;
             state.openedFromList = false;
+            state.returnTarget = "";
             state.lastSearchResults = [];
             state.lastSearchQuery = "";
             state.lastSearchSource = "";
             state.lastSearchInterpretation = "";
+            resetBtn.textContent = "Powrót";
             setResultMode(false);
             resetListeningUi();
             clearIosInputSubmitTimer();

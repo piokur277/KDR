@@ -1,0 +1,15 @@
+{
+  "version": "v19.0.1 NAVIGATION FIX",
+  "problem": "Po otwarciu jednej z kilku propozycji przycisk Powrót usuwał listę wyników i wymagał ponownego wpisania zapytania.",
+  "changes": [
+    "Powrót z procedury wybranej z wyników odtwarza tę samą listę wyników.",
+    "Zachowane zostają zapytanie, kolejność wyników, źródło dopasowania i interpretacja AI.",
+    "Przycisk ma nazwę „Powrót do wyników” w procedurze otwartej z wyszukiwania.",
+    "Powrót z procedury otwartej z pełnej listy prowadzi z powrotem do pełnej listy.",
+    "Procedura otwarta jako pojedynczy wynik nadal wraca do ekranu głównego."
+  ],
+  "procedures": 112,
+  "registry_entries": 41,
+  "previous_changes_preserved": true,
+  "javascript_syntax": "OK"
+}
