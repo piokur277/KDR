@@ -643,7 +643,7 @@
         <header class="header">
             <div class="header-row">
                 <h1 class="title">KDR AI SYSTEM</h1>
-                <span class="version">v19.0.4 LOCAL SEARCH HOTFIX</span>
+                <span class="version">v19.0.5 CHEMICAL QUERY HOTFIX</span>
             </div>
 
             <div class="toolbar">
@@ -797,9 +797,9 @@
         const FALLBACK_URL = "procedury/baza.json";
         const MANIFEST_URL = "procedury/manifest.json";
         const DOCUMENT_REGISTRY_URL = "dokumenty/rejestr-dokumentow.json";
-        const PROCEDURE_CACHE_KEY = "kdr_ai_procedures_cache_v16";
-        const PROCEDURE_CACHE_META_KEY = "kdr_ai_procedures_cache_meta_v16";
-        const DOCUMENT_REGISTRY_CACHE_KEY = "kdr_ai_document_registry_v11";
+        const PROCEDURE_CACHE_KEY = "kdr_ai_procedures_cache_v17";
+        const PROCEDURE_CACHE_META_KEY = "kdr_ai_procedures_cache_meta_v17";
+        const DOCUMENT_REGISTRY_CACHE_KEY = "kdr_ai_document_registry_v12";
         const FILE_LOAD_CONCURRENCY = 8;
         const FEEDBACK_FORM_URL = "https://forms.gle/F3u9P3jn2RtieHA79";
         const ACCESS_ENABLED = true;
@@ -1927,7 +1927,11 @@
                     "chemiczne",
                     "zagrozenie chemiczne",
                     "zagrozenia chemiczne",
-                    "substancje chemiczne"
+                    "substancje chemiczne",
+                    "skazenie chemiczne",
+                    "skazenia chemiczne",
+                    "chemiczne skazenie",
+                    "chemiczne skazenia"
                 ],
                 ids: [
                     "KARTA-ACETYLEN-ROZPOZNANIE",
@@ -1945,7 +1949,11 @@
                     "biologia",
                     "biologiczne",
                     "zagrozenie biologiczne",
-                    "zagrozenia biologiczne"
+                    "zagrozenia biologiczne",
+                    "skazenie biologiczne",
+                    "skazenia biologiczne",
+                    "biologiczne skazenie",
+                    "biologiczne skazenia"
                 ],
                 ids: [
                     "KARTA-CHEM-B1-ZAGROZENIE-BIOLOGICZNE-GR3-GR4",
@@ -1960,7 +1968,12 @@
                     "radiacja",
                     "radiacyjne",
                     "zagrozenie radiacyjne",
-                    "promieniowanie"
+                    "promieniowanie",
+                    "skazenie radiacyjne",
+                    "skazenia radiacyjne",
+                    "radiacyjne skazenie",
+                    "skazenie promieniotworcze",
+                    "skazenia promieniotworcze"
                 ],
                 ids: [
                     "KARTA-CHEM-R1-OCHRONA-RADIOLOGICZNA",
@@ -2015,7 +2028,7 @@
             const normalizedQuery = normalizeText(query);
             const simplifiedQuery = simplifyCategoryQuery(query);
 
-            const rule = LOCAL_CATEGORY_RULES.find(item =>
+            let rule = LOCAL_CATEGORY_RULES.find(item =>
                 item.queries.some(candidate => {
                     const normalizedCandidate = normalizeText(candidate);
                     return (
@@ -2024,6 +2037,44 @@
                     );
                 })
             );
+
+            if (!rule) {
+                const stems = new Set(
+                    normalizedQuery
+                        .split(" ")
+                        .filter(Boolean)
+                        .map(normalizeSearchStem)
+                );
+
+                let anchor = "";
+
+                if (stems.has("skazen") && stems.has("chem")) {
+                    anchor = "chemia";
+                } else if (
+                    stems.has("skazen") &&
+                    stems.has("biolog")
+                ) {
+                    anchor = "biologia";
+                } else if (
+                    stems.has("skazen") &&
+                    (
+                        stems.has("radiac") ||
+                        stems.has("radiolog") ||
+                        stems.has("promieniow") ||
+                        stems.has("promieniotw")
+                    )
+                ) {
+                    anchor = "radiacja";
+                }
+
+                if (anchor) {
+                    rule = LOCAL_CATEGORY_RULES.find(item =>
+                        item.queries.some(candidate =>
+                            normalizeText(candidate) === anchor
+                        )
+                    );
+                }
+            }
 
             if (!rule) return [];
 
@@ -2042,6 +2093,7 @@
                 [/^radiac/, "radiac"],
                 [/^radiolog/, "radiolog"],
                 [/^promieniow/, "promieniow"],
+                [/^promieniotw/, "promieniotw"],
                 [/^ewakuac/, "ewakuac"],
                 [/^pozar/, "pozar"],
                 [/^medycz/, "medycz"],

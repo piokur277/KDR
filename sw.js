@@ -1,4 +1,4 @@
-const CACHE_NAME = "kdr-ai-v19-0-4-local-search-hotfix";
+const CACHE_NAME = "kdr-ai-v19-0-5-chemical-query-hotfix";
 
 const APP_SHELL = [
   "./",

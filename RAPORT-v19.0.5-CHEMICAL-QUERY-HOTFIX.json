@@ -1,0 +1,122 @@
+{
+  "version": "v19.0.5 CHEMICAL QUERY HOTFIX",
+  "problem": "Fraza „skażenie chemiczne” nie była rozpoznawana jako lokalna kategoria i aplikacja przechodziła do niedostępnego wsparcia AI.",
+  "root_cause": "W poprzednim hotfixie znajdowała się kategoria „chemia” i „zagrożenie chemiczne”, ale brakowało rodziny fraz „skażenie chemiczne”.",
+  "changes": [
+    "Dodano lokalne frazy skażenie/skażenia chemiczne.",
+    "Dodano odpowiedniki biologiczne i radiacyjne.",
+    "Dodano rozpoznawanie fraz rozszerzonych, np. „mamy rozległe skażenie chemiczne”.",
+    "Wyszukiwanie działa niezależnie od polskich znaków i kolejności słów.",
+    "Dla tych zapytań AI nie jest wywoływane."
+  ],
+  "search_tests": {
+    "skażenie chemiczne": {
+      "kind": "category",
+      "count": 8,
+      "ids": [
+        "KARTA-ACETYLEN-ROZPOZNANIE",
+        "KARTA-CHEM-Z4-LNG-WYCIEK",
+        "KARTA-CHEM-B22-PODEJRZANA-PRZESYLKA-CBR",
+        "KARTA-KPP-OPARZENIE-CHEMICZNE",
+        "KARTA-ORG-AMONIAK-NH3-WARTOSCI-GRANICZNE",
+        "KARTA-ORG-CHLOROWODOR-WARTOSCI-GRANICZNE",
+        "KARTA-ORG-H2S-WARTOSCI-GRANICZNE",
+        "KARTA-ORG-HCN-WARTOSCI-GRANICZNE"
+      ],
+      "source": "Kategoria lokalna"
+    },
+    "skazenie chemiczne": {
+      "kind": "category",
+      "count": 8,
+      "ids": [
+        "KARTA-ACETYLEN-ROZPOZNANIE",
+        "KARTA-CHEM-Z4-LNG-WYCIEK",
+        "KARTA-CHEM-B22-PODEJRZANA-PRZESYLKA-CBR",
+        "KARTA-KPP-OPARZENIE-CHEMICZNE",
+        "KARTA-ORG-AMONIAK-NH3-WARTOSCI-GRANICZNE",
+        "KARTA-ORG-CHLOROWODOR-WARTOSCI-GRANICZNE",
+        "KARTA-ORG-H2S-WARTOSCI-GRANICZNE",
+        "KARTA-ORG-HCN-WARTOSCI-GRANICZNE"
+      ],
+      "source": "Kategoria lokalna"
+    },
+    "mamy rozległe skażenie chemiczne": {
+      "kind": "category",
+      "count": 8,
+      "ids": [
+        "KARTA-ACETYLEN-ROZPOZNANIE",
+        "KARTA-CHEM-Z4-LNG-WYCIEK",
+        "KARTA-CHEM-B22-PODEJRZANA-PRZESYLKA-CBR",
+        "KARTA-KPP-OPARZENIE-CHEMICZNE",
+        "KARTA-ORG-AMONIAK-NH3-WARTOSCI-GRANICZNE",
+        "KARTA-ORG-CHLOROWODOR-WARTOSCI-GRANICZNE",
+        "KARTA-ORG-H2S-WARTOSCI-GRANICZNE",
+        "KARTA-ORG-HCN-WARTOSCI-GRANICZNE"
+      ],
+      "source": "Kategoria lokalna"
+    },
+    "chemiczne skażenie": {
+      "kind": "category",
+      "count": 8,
+      "ids": [
+        "KARTA-ACETYLEN-ROZPOZNANIE",
+        "KARTA-CHEM-Z4-LNG-WYCIEK",
+        "KARTA-CHEM-B22-PODEJRZANA-PRZESYLKA-CBR",
+        "KARTA-KPP-OPARZENIE-CHEMICZNE",
+        "KARTA-ORG-AMONIAK-NH3-WARTOSCI-GRANICZNE",
+        "KARTA-ORG-CHLOROWODOR-WARTOSCI-GRANICZNE",
+        "KARTA-ORG-H2S-WARTOSCI-GRANICZNE",
+        "KARTA-ORG-HCN-WARTOSCI-GRANICZNE"
+      ],
+      "source": "Kategoria lokalna"
+    },
+    "skażenie biologiczne": {
+      "kind": "category",
+      "count": 5,
+      "ids": [
+        "KARTA-CHEM-B1-ZAGROZENIE-BIOLOGICZNE-GR3-GR4",
+        "KARTA-CHEM-B22-PODEJRZANA-PRZESYLKA-CBR",
+        "KARTA-PTASIA-GRYPA-INFORMACJE-I-ZASADY",
+        "KARTA-PTASIA-GRYPA-SOI-I-DEKONTAMINACJA",
+        "KARTA-PTASIA-GRYPA-NADZOR-EPIDEMIOLOGICZNY"
+      ],
+      "source": "Kategoria lokalna"
+    },
+    "podejrzenie skażenia biologicznego": {
+      "kind": "category",
+      "count": 5,
+      "ids": [
+        "KARTA-CHEM-B1-ZAGROZENIE-BIOLOGICZNE-GR3-GR4",
+        "KARTA-CHEM-B22-PODEJRZANA-PRZESYLKA-CBR",
+        "KARTA-PTASIA-GRYPA-INFORMACJE-I-ZASADY",
+        "KARTA-PTASIA-GRYPA-SOI-I-DEKONTAMINACJA",
+        "KARTA-PTASIA-GRYPA-NADZOR-EPIDEMIOLOGICZNY"
+      ],
+      "source": "Kategoria lokalna"
+    },
+    "skażenie radiacyjne": {
+      "kind": "category",
+      "count": 3,
+      "ids": [
+        "KARTA-CHEM-R1-OCHRONA-RADIOLOGICZNA",
+        "KARTA-CHEM-R2-ZDARZENIA-RADIACYJNE-ZAKRES-PODSTAWOWY",
+        "KARTA-CHEM-B22-PODEJRZANA-PRZESYLKA-CBR"
+      ],
+      "source": "Kategoria lokalna"
+    },
+    "obszar skażenia promieniotwórczego": {
+      "kind": "category",
+      "count": 3,
+      "ids": [
+        "KARTA-CHEM-R1-OCHRONA-RADIOLOGICZNA",
+        "KARTA-CHEM-R2-ZDARZENIA-RADIACYJNE-ZAKRES-PODSTAWOWY",
+        "KARTA-CHEM-B22-PODEJRZANA-PRZESYLKA-CBR"
+      ],
+      "source": "Kategoria lokalna"
+    }
+  },
+  "procedures": 112,
+  "registry_entries": 60,
+  "previous_changes_preserved": true,
+  "javascript_syntax": "OK"
+}
