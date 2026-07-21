@@ -1,0 +1,96 @@
+{
+  "version": "v19.0.4 LOCAL SEARCH HOTFIX",
+  "problem": "Ogólne zapytania głosowe, np. „chemia” i „biologia”, były niepotrzebnie uzależnione od dostępności modelu AI.",
+  "changes": [
+    "Każdy sensowny wynik lokalny jest pokazywany natychmiast, bez oczekiwania na AI.",
+    "Dodano lokalne kategorie: chemia, biologia, radiacja i ewakuacja.",
+    "Dodano obsługę rodzin wyrazów, m.in. chemia/chemiczny i biologia/biologiczny.",
+    "AI jest wywoływane tylko wtedy, gdy lokalna baza nie znajduje żadnego wyniku.",
+    "Wywołanie AI jest przerywane po 6 sekundach.",
+    "Surowe angielskie błędy zastąpiono komunikatami w języku polskim.",
+    "Wyszukiwanie głosowe i tekstowe korzystają z tej samej poprawionej logiki."
+  ],
+  "search_tests": {
+    "chemia": {
+      "kind": "category",
+      "count": 8,
+      "ids": [
+        "KARTA-ACETYLEN-ROZPOZNANIE",
+        "KARTA-CHEM-Z4-LNG-WYCIEK",
+        "KARTA-CHEM-B22-PODEJRZANA-PRZESYLKA-CBR",
+        "KARTA-KPP-OPARZENIE-CHEMICZNE",
+        "KARTA-ORG-AMONIAK-NH3-WARTOSCI-GRANICZNE",
+        "KARTA-ORG-CHLOROWODOR-WARTOSCI-GRANICZNE",
+        "KARTA-ORG-H2S-WARTOSCI-GRANICZNE",
+        "KARTA-ORG-HCN-WARTOSCI-GRANICZNE"
+      ],
+      "source": "Kategoria lokalna"
+    },
+    "biologia": {
+      "kind": "category",
+      "count": 5,
+      "ids": [
+        "KARTA-CHEM-B1-ZAGROZENIE-BIOLOGICZNE-GR3-GR4",
+        "KARTA-CHEM-B22-PODEJRZANA-PRZESYLKA-CBR",
+        "KARTA-PTASIA-GRYPA-INFORMACJE-I-ZASADY",
+        "KARTA-PTASIA-GRYPA-SOI-I-DEKONTAMINACJA",
+        "KARTA-PTASIA-GRYPA-NADZOR-EPIDEMIOLOGICZNY"
+      ],
+      "source": "Kategoria lokalna"
+    },
+    "radiacja": {
+      "kind": "category",
+      "count": 3,
+      "ids": [
+        "KARTA-CHEM-R1-OCHRONA-RADIOLOGICZNA",
+        "KARTA-CHEM-R2-ZDARZENIA-RADIACYJNE-ZAKRES-PODSTAWOWY",
+        "KARTA-CHEM-B22-PODEJRZANA-PRZESYLKA-CBR"
+      ],
+      "source": "Kategoria lokalna"
+    },
+    "ewakuacja": {
+      "kind": "category",
+      "count": 6,
+      "ids": [
+        "KARTA-BUD-STREFA-I-EWAKUACJA-KATASTROFA-BUDOWLANA",
+        "KARTA-OLIOC-SIERPIEŃ-02-PRZYGOTOWANIE_EWAKUACJI",
+        "KARTA-OLIOC-SIERPIEŃ-03-EWAKUACJA_RODZINY",
+        "KARTA-OLIOC-SIERPIEŃ-04-EWAKUACJA_SZCZEGOLNE_POTRZEBY",
+        "KARTA-OLIOC-SIERPIEŃ-05-ZWIERZETA_EWAKUACJA",
+        "KARTA-OLIOC-WRZESIEŃ-02-DROGI_EWAKUACYJNE"
+      ],
+      "source": "Kategoria lokalna"
+    },
+    "chemiczne": {
+      "kind": "category",
+      "count": 8,
+      "ids": [
+        "KARTA-ACETYLEN-ROZPOZNANIE",
+        "KARTA-CHEM-Z4-LNG-WYCIEK",
+        "KARTA-CHEM-B22-PODEJRZANA-PRZESYLKA-CBR",
+        "KARTA-KPP-OPARZENIE-CHEMICZNE",
+        "KARTA-ORG-AMONIAK-NH3-WARTOSCI-GRANICZNE",
+        "KARTA-ORG-CHLOROWODOR-WARTOSCI-GRANICZNE",
+        "KARTA-ORG-H2S-WARTOSCI-GRANICZNE",
+        "KARTA-ORG-HCN-WARTOSCI-GRANICZNE"
+      ],
+      "source": "Kategoria lokalna"
+    },
+    "zagrożenie biologiczne": {
+      "kind": "category",
+      "count": 5,
+      "ids": [
+        "KARTA-CHEM-B1-ZAGROZENIE-BIOLOGICZNE-GR3-GR4",
+        "KARTA-CHEM-B22-PODEJRZANA-PRZESYLKA-CBR",
+        "KARTA-PTASIA-GRYPA-INFORMACJE-I-ZASADY",
+        "KARTA-PTASIA-GRYPA-SOI-I-DEKONTAMINACJA",
+        "KARTA-PTASIA-GRYPA-NADZOR-EPIDEMIOLOGICZNY"
+      ],
+      "source": "Kategoria lokalna"
+    }
+  },
+  "procedures": 112,
+  "registry_entries": 60,
+  "previous_changes_preserved": true,
+  "javascript_syntax": "OK"
+}
