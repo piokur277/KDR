@@ -1,0 +1,16 @@
+{
+  "version": "v19.0.7 OPENAI WORKER",
+  "worker_base_url": "https://kdr-ai-proxy-piotr.piokur277.workers.dev",
+  "worker_search_endpoint": "https://kdr-ai-proxy-piotr.piokur277.workers.dev/search",
+  "model": "gpt-5.4-nano",
+  "procedures": 113,
+  "registry_entries": 61,
+  "max_ai_candidates": 20,
+  "app_timeout_ms": 30000,
+  "local_scan_all_procedures": true,
+  "exact_local_queries_do_not_use_api": true,
+  "gemini_removed": true,
+  "api_key_stored_in_app": false,
+  "javascript_syntax": "OK",
+  "live_post_test": "Do wykonania po wdrożeniu w przeglądarce użytkownika."
+}

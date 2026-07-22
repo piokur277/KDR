@@ -112,9 +112,33 @@
 
         .api-panel {
             display: grid;
-            grid-template-columns: 1.4fr 1fr auto auto;
+            grid-template-columns: minmax(0, 1fr) auto auto;
             gap: 8px;
             margin-top: 8px;
+            align-items: stretch;
+        }
+
+        .api-status-card {
+            min-width: 0;
+            border: 1px solid #334155;
+            background: rgba(15, 23, 42, 0.9);
+            color: var(--text);
+            border-radius: 10px;
+            padding: 9px 11px;
+            display: grid;
+            gap: 3px;
+            font-size: 12px;
+            line-height: 1.35;
+        }
+
+        .api-status-card strong {
+            color: #6ee7b7;
+            font-size: 13px;
+        }
+
+        .api-status-card small {
+            color: #94a3b8;
+            overflow-wrap: anywhere;
         }
 
         .api-input,
@@ -643,7 +667,7 @@
         <header class="header">
             <div class="header-row">
                 <h1 class="title">KDR AI SYSTEM</h1>
-                <span class="version">v19.0.6 BSP MILITARNY</span>
+                <span class="version">v19.0.7 OPENAI WORKER</span>
             </div>
 
             <div class="toolbar">
@@ -654,10 +678,16 @@
             </div>
 
             <div id="api-panel" class="api-panel hidden">
-                <input id="api-key-input" class="api-input" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="Wklej API Key Gemini">
-                <input id="api-model-input" class="api-input" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="Model API, np. gemini-3-flash-preview">
-                <button id="api-save-btn" class="toolbar-btn api-on" type="button">Zapisz API</button>
-                <button id="api-clear-btn" class="toolbar-btn api-clear" type="button">Usun API</button>
+                <div class="api-status-card">
+                    <strong>Wsparcie AI przez OpenAI</strong>
+                    <span id="api-status-text">Gotowe — klucz jest chroniony w Cloudflare Worker.</span>
+                    <small id="api-endpoint-text">https://kdr-ai-proxy-piotr.piokur277.workers.dev/search</small>
+                    <small id="api-diagnostics-text">Model: gpt-5.4-nano. Diagnostyka pojawi się po zapytaniu.</small>
+                </div>
+                <button id="api-save-btn" class="toolbar-btn api-on" type="button">Testuj połączenie</button>
+                <button id="api-clear-btn" class="toolbar-btn api-clear hidden" type="button">Wyłącz AI</button>
+                <input id="api-key-input" type="hidden" value="">
+                <input id="api-model-input" type="hidden" value="gpt-5.4-nano">
                 <button id="forget-access-btn" class="toolbar-btn api-clear hidden" type="button">Zapomnij to urządzenie</button>
             </div>
 
@@ -681,7 +711,7 @@
             </div>
 
             <div class="helper">
-                Lokalna baza procedur dziala bez API. Na iOS przycisk Rozkaz otwiera pole tekstowe, aby uzyc mikrofonu klawiatury.
+                Lokalna baza procedur działa bez internetu. Trudniejsze opisy są klasyfikowane przez OpenAI za pośrednictwem chronionego Cloudflare Workera.
             </div>
         </main>
 
@@ -797,9 +827,9 @@
         const FALLBACK_URL = "procedury/baza.json";
         const MANIFEST_URL = "procedury/manifest.json";
         const DOCUMENT_REGISTRY_URL = "dokumenty/rejestr-dokumentow.json";
-        const PROCEDURE_CACHE_KEY = "kdr_ai_procedures_cache_v18";
-        const PROCEDURE_CACHE_META_KEY = "kdr_ai_procedures_cache_meta_v18";
-        const DOCUMENT_REGISTRY_CACHE_KEY = "kdr_ai_document_registry_v13";
+        const PROCEDURE_CACHE_KEY = "kdr_ai_procedures_cache_v19";
+        const PROCEDURE_CACHE_META_KEY = "kdr_ai_procedures_cache_meta_v19";
+        const DOCUMENT_REGISTRY_CACHE_KEY = "kdr_ai_document_registry_v14";
         const FILE_LOAD_CONCURRENCY = 8;
         const FEEDBACK_FORM_URL = "https://forms.gle/F3u9P3jn2RtieHA79";
         const ACCESS_ENABLED = true;
@@ -807,11 +837,17 @@
         const ACCESS_SESSION_KEY = "kdr_ai_access_ok";
         const ACCESS_REMEMBER_KEY = "kdr_ai_access_remembered_v1";
         const SHOW_INFO_LOGS = false;
-        const AI_REQUEST_TIMEOUT_MS = 6000;
+        const AI_PROXY_BASE_URL = "https://kdr-ai-proxy-piotr.piokur277.workers.dev";
+        const AI_PROXY_SEARCH_URL = `${AI_PROXY_BASE_URL}/search`;
+        const AI_PROXY_HEALTH_URL = `${AI_PROXY_BASE_URL}/`;
+        const AI_MODEL_LABEL = "gpt-5.4-nano";
+        const AI_REQUEST_TIMEOUT_MS = 30000;
+        const MAX_AI_CANDIDATES = 20;
 
         const state = {
-            apiKey: safeStorageGet("kdr_ai_api_key"),
-            apiModel: safeStorageGet("kdr_ai_api_model") || "gemini-3-flash-preview",
+            aiEnabled: true,
+            aiAvailable: true,
+            lastAiDiagnostics: null,
             procedury: [],
             documentRegistry: {},
             aliasById: {},
@@ -847,6 +883,9 @@
         const apiModelInput = document.getElementById("api-model-input");
         const apiSaveBtn = document.getElementById("api-save-btn");
         const apiClearBtn = document.getElementById("api-clear-btn");
+        const apiStatusText = document.getElementById("api-status-text");
+        const apiEndpointText = document.getElementById("api-endpoint-text");
+        const apiDiagnosticsText = document.getElementById("api-diagnostics-text");
         const voiceHelpBtn = document.getElementById("voice-help-btn");
         const installBtn = document.getElementById("install-btn");
         const feedbackBtn = document.getElementById("feedback-btn");
@@ -1414,12 +1453,45 @@
             }
         }
 
+        function renderAiDiagnostics() {
+            if (!apiDiagnosticsText) return;
+            const diagnostics = state.lastAiDiagnostics;
+
+            if (!diagnostics) {
+                apiDiagnosticsText.textContent =
+                    `Model: ${AI_MODEL_LABEL}. Diagnostyka pojawi się po zapytaniu.`;
+                return;
+            }
+
+            const parts = [
+                `Model: ${diagnostics.model || AI_MODEL_LABEL}`,
+                `czas: ${Number(diagnostics.durationMs || 0)} ms`,
+                `kandydaci: ${Number(diagnostics.candidateCount || 0)}`
+            ];
+
+            if (diagnostics.attempt) parts.push(`próba: ${diagnostics.attempt}`);
+            if (Number.isFinite(diagnostics.confidence)) {
+                parts.push(`pewność: ${Math.round(diagnostics.confidence * 100)}%`);
+            }
+
+            apiDiagnosticsText.textContent = parts.join(" • ");
+        }
+
         function updateApiButton() {
-            const hasKey = Boolean(state.apiKey);
-            apiBtn.textContent = hasKey ? "API ON" : "Pokaz API";
-            apiBtn.classList.toggle("api-on", hasKey);
-            apiKeyInput.value = state.apiKey;
-            apiModelInput.value = state.apiModel;
+            safeStorageRemove("kdr_ai_api_key");
+            safeStorageRemove("kdr_ai_api_model");
+
+            apiBtn.textContent = state.aiEnabled ? "AI ON" : "Pokaż AI";
+            apiBtn.classList.toggle("api-on", state.aiEnabled);
+
+            if (apiKeyInput) apiKeyInput.value = "";
+            if (apiModelInput) apiModelInput.value = AI_MODEL_LABEL;
+            if (apiEndpointText) apiEndpointText.textContent = AI_PROXY_SEARCH_URL;
+            if (apiStatusText && state.aiAvailable) {
+                apiStatusText.textContent =
+                    "Gotowe — klucz jest chroniony w Cloudflare Worker.";
+            }
+            renderAiDiagnostics();
         }
 
         function normalizeText(value) {
@@ -2271,156 +2343,343 @@
             };
         }
 
+        const AI_QUERY_HINTS = [
+            {
+                pattern: /\b(tesla|nissan leaf|renault zoe|bmw i[0-9]|pojazd elektrycz|samochod elektrycz|auto elektrycz|bateria trakcyj|akumulator trakcyj|ev)\b/i,
+                terms: [
+                    "pojazd elektryczny",
+                    "bateria trakcyjna",
+                    "pozar pojazdu elektrycznego",
+                    "wypadek pojazdu elektrycznego",
+                    "dezaktywacja pojazdu elektrycznego"
+                ]
+            },
+            {
+                pattern: /\b(dron wojsk|dron militar|bsp militar|bezzalogowy statek powietrzny|rozbity dron|znaleziony dron|obiekt latajacy wojsk)\b/i,
+                terms: [
+                    "bsp pochodzenia militarnego",
+                    "dron wojskowy",
+                    "mz lotnicze",
+                    "material wybuchowy",
+                    "strefa 150 metrow"
+                ]
+            },
+            {
+                pattern: /\b(nie oddycha|brak oddechu|bez oddechu|zatrzymanie krazenia|nieprzytomn|rko|resuscytac)\b/i,
+                terms: [
+                    "kwalifikowana pierwsza pomoc",
+                    "rko",
+                    "resuscytacja",
+                    "drogi oddechowe",
+                    "poszkodowany nieprzytomny"
+                ]
+            },
+            {
+                pattern: /\b(beczka|kanister|mauzer|opary|ostry zapach|dziwny zapach|nieznana substancja|rozlewisko|wyciek chem|skazenie chem)\b/i,
+                terms: [
+                    "zdarzenie chemiczne",
+                    "substancja niebezpieczna",
+                    "rozpoznanie chemiczne",
+                    "strefa zagrozenia",
+                    "dekontaminacja"
+                ]
+            },
+            {
+                pattern: /\b(proszek w kopercie|podejrzana przesylka|nieznany proszek|pakunek cbr|przesylka cbr)\b/i,
+                terms: [
+                    "podejrzana przesylka cbr",
+                    "zagrozenie biologiczne",
+                    "zagrozenie chemiczne"
+                ]
+            },
+            {
+                pattern: /\b(promieniowanie|radiac|radiolog|promieniotw|zrodlo izotopowe)\b/i,
+                terms: [
+                    "zdarzenie radiacyjne",
+                    "zagrozenie radiologiczne",
+                    "promieniowanie jonizujace"
+                ]
+            },
+            {
+                pattern: /\b(biolog|zakazenie|epidem|ptasia grypa|material biologiczny)\b/i,
+                terms: [
+                    "zdarzenie biologiczne",
+                    "zagrozenie biologiczne",
+                    "dekontaminacja biologiczna"
+                ]
+            },
+            {
+                pattern: /\b(zawalen|gruzowisko|katastrofa budowlan|runal budynek|zawalil sie budynek)\b/i,
+                terms: [
+                    "katastrofa budowlana",
+                    "zawalenie",
+                    "gruzowisko",
+                    "ewakuacja"
+                ]
+            },
+            { pattern: /\b(amoniak|nh3)\b/i, terms: ["amoniak", "nh3", "toksyczny gaz"] },
+            { pattern: /\b(siarkowodor|h2s)\b/i, terms: ["siarkowodor", "h2s", "toksyczny gaz"] },
+            { pattern: /\b(acetylen|butla acetylenowa)\b/i, terms: ["acetylen", "butla acetylenowa", "zagrozenie wybuchowe"] },
+            { pattern: /\b(lng|gaz ziemny skroplony)\b/i, terms: ["lng", "gaz ziemny skroplony"] },
+            { pattern: /\b(lpg|propan butan|gaz plynny)\b/i, terms: ["lpg", "propan butan", "gaz plynny"] }
+        ];
+
+        function expandAiQuery(query) {
+            const additions = [];
+            AI_QUERY_HINTS.forEach(hint => {
+                if (hint.pattern.test(query)) additions.push(...hint.terms);
+            });
+            return [query, ...additions].join(" ");
+        }
+
+        function scoreAiCandidate(query, procedure) {
+            const expandedQuery = expandAiQuery(query);
+            const normalizedExpanded = normalizeText(expandedQuery);
+            const aliases = procedure.aliasy || procedure.keywords || [];
+            const tags = getSharedTags(procedure);
+            const searchable = normalizeText([
+                procedure.id || "",
+                procedure.slowo_kluczowe || "",
+                procedure.prefix || "",
+                procedure.kategoria || "",
+                ...aliases,
+                ...tags,
+                String(procedure.content || "").slice(0, 1600)
+            ].join(" "));
+
+            const stopWords = new Set([
+                "oraz", "lub", "przy", "dla", "bez", "pod", "nad",
+                "jak", "czy", "sie", "jest", "jaka", "jakie", "prosze",
+                "pokaz", "znajdz", "wyszukaj", "szukaj", "procedura",
+                "procedury", "temat", "zagadnienie", "mamy", "miejsce"
+            ]);
+
+            let score = scoreLocalProcedure(query, procedure);
+            const tokens = getComparableTokens(normalizedExpanded, stopWords);
+
+            tokens.forEach(token => {
+                if (token && searchable.includes(token)) {
+                    score += token.length >= 7 ? 20 : 12;
+                }
+            });
+
+            AI_QUERY_HINTS.forEach(hint => {
+                if (!hint.pattern.test(query)) return;
+                const matches = hint.terms.filter(term =>
+                    searchable.includes(normalizeText(term))
+                ).length;
+                score += matches * 45;
+            });
+
+            const normalizedId = normalizeText(procedure.id || "");
+            if (
+                normalizedExpanded.split(" ").some(token =>
+                    token.length >= 4 && normalizedId.includes(token)
+                )
+            ) {
+                score += 20;
+            }
+
+            return score;
+        }
+
+        function buildAiCandidatePool(query, limit = MAX_AI_CANDIDATES) {
+            const categoryIds = new Set(
+                findLocalCategoryMatches(query).map(item => item.id)
+            );
+
+            return state.procedury
+                .map((procedure, index) => ({
+                    procedure,
+                    index,
+                    score:
+                        scoreAiCandidate(query, procedure) +
+                        (categoryIds.has(procedure.id) ? 500 : 0)
+                }))
+                .sort((a, b) => b.score - a.score || a.index - b.index)
+                .slice(0, limit)
+                .map(({ procedure }) => ({
+                    id: procedure.id,
+                    title:
+                        procedure.prefix ||
+                        procedure.slowo_kluczowe ||
+                        procedure.id,
+                    category: procedure.kategoria || "",
+                    summary: procedure.prefix || "",
+                    keywords: [
+                        procedure.slowo_kluczowe || "",
+                        ...(procedure.aliasy || procedure.keywords || []),
+                        ...getSharedTags(procedure)
+                    ]
+                        .map(value => String(value || "").trim())
+                        .filter(Boolean)
+                        .slice(0, 20)
+                }));
+        }
+
         function getFriendlyAiError(error) {
             const raw = String(error?.message || error || "").toLowerCase();
+            const status = Number(error?.status || 0);
 
             if (
                 error?.name === "AbortError" ||
-                raw.includes("przekroczono czas")
+                raw.includes("przekroczono czas") ||
+                raw.includes("timeout")
             ) {
-                return "Wsparcie AI nie odpowiedziało w ciągu 6 sekund. Wyszukiwanie lokalne nadal działa.";
+                return "Wsparcie AI przekroczyło czas oczekiwania. Wyszukiwanie lokalne nadal działa.";
             }
-
+            if (status === 401 || status === 403) {
+                return "Worker nie ma dostępu do OpenAI. Sprawdź sekret OPENAI_API_KEY.";
+            }
+            if (status === 429 || raw.includes("limit")) {
+                return "Limit zapytań AI został chwilowo osiągnięty. Wyszukiwanie lokalne nadal działa.";
+            }
             if (
-                raw.includes("high demand") ||
-                raw.includes("overloaded") ||
-                raw.includes("503") ||
+                status === 502 ||
+                status === 503 ||
+                status === 504 ||
+                raw.includes("przeciąż") ||
                 raw.includes("unavailable")
             ) {
-                return "Model AI jest chwilowo przeciążony. Wyszukiwanie lokalne nadal działa.";
+                return "Model AI jest chwilowo niedostępny. Wyszukiwanie lokalne nadal działa.";
             }
-
             if (
                 raw.includes("failed to fetch") ||
                 raw.includes("networkerror") ||
                 raw.includes("network request failed")
             ) {
-                return "Brak połączenia ze wsparciem AI. Sprawdź internet. Wyszukiwanie lokalne nadal działa.";
+                return "Brak połączenia z Cloudflare Workerem. Wyszukiwanie lokalne nadal działa.";
             }
-
-            if (
-                raw.includes("quota") ||
-                raw.includes("rate limit") ||
-                raw.includes("429")
-            ) {
-                return "Limit zapytań AI został chwilowo osiągnięty. Wyszukiwanie lokalne nadal działa.";
-            }
-
             return "Wsparcie AI jest chwilowo niedostępne. Wyszukiwanie lokalne nadal działa.";
         }
 
-        async function callAI(query, model) {
-            const context = state.procedury.map(item => ({
-                id: item.id,
-                nazwa: item.prefix,
-                haslo_bezposrednie: item.slowo_kluczowe || "",
-                aliasy: item.aliasy || item.keywords || [],
-                tagi_wspolne: item.tagi_wspolne || []
-            }));
-
-            const prompt = `
-Jestes klasyfikatorem zgloszen dla aplikacji ratowniczej.
-Masz wybrac tylko identyfikatory procedur z przekazanej listy.
-
-Zasady:
-1. Rozumiej znaczenie marek, modeli, nazw potocznych i odmian jezykowych.
-2. Przyklad: Tesla, Nissan Leaf, Renault Zoe i podobne modele oznaczaja pojazd elektryczny.
-3. Przyklad: "pali sie Tesla" oznacza pozar pojazdu elektrycznego.
-4. Przyklad: "Tesla po zderzeniu i pali sie" moze wymagac procedury wypadku EV i pozaru EV.
-5. Nie wymyslaj identyfikatorow.
-6. Gdy pasuje kilka procedur, zwroc wszystkie pasujace ID, maksymalnie 8.
-7. Gdy nic nie pasuje, zwroc pusta tablice.
-8. Nie udzielaj porad operacyjnych i nie dopisuj tresci procedury.
-
-Zgloszenie:
-${query}
-
-Dostepne procedury:
-${JSON.stringify(context)}
-
-Odpowiedz wylacznie poprawnym JSON:
-{
-  "ids": ["ID-1", "ID-2"],
-  "interpretacja": "krotkie wyjasnienie rozpoznanego znaczenia"
-}
-            `.trim();
-
+        async function fetchJsonWithTimeout(url, options, timeoutMs) {
             const controller = new AbortController();
-            const timeoutId = setTimeout(
-                () => controller.abort(),
-                AI_REQUEST_TIMEOUT_MS
-            );
-
+            const timeoutId = setTimeout(() => controller.abort(), timeoutMs);
             try {
-                const response = await fetch(
-                    `https://generativelanguage.googleapis.com/v1beta/models/${encodeURIComponent(model)}:generateContent?key=${encodeURIComponent(state.apiKey)}`,
-                    {
-                        method: "POST",
-                        headers: {
-                            "Content-Type": "application/json"
-                        },
-                        body: JSON.stringify({
-                            contents: [{
-                                parts: [{
-                                    text: prompt
-                                }]
-                            }],
-                            generationConfig: {
-                                temperature: 0,
-                                responseMimeType: "application/json"
-                            }
-                        }),
-                        signal: controller.signal
-                    }
-                );
-
+                const response = await fetch(url, {
+                    ...options,
+                    signal: controller.signal
+                });
+                const rawText = await response.text();
                 let data = {};
-
                 try {
-                    data = await response.json();
+                    data = rawText ? JSON.parse(rawText) : {};
                 } catch (error) {
-                    data = {};
+                    data = { raw: rawText.slice(0, 500) };
                 }
-
-                if (!response.ok) {
-                    throw new Error(
-                        data?.error?.message ||
-                        `Blad AI HTTP ${response.status}`
-                    );
-                }
-
-                const rawText =
-                    data?.candidates?.[0]?.content?.parts?.[0]?.text ||
-                    "";
-
-                const cleaned = rawText
-                    .replace(/^```json\s*/i, "")
-                    .replace(/^```\s*/i, "")
-                    .replace(/\s*```$/i, "")
-                    .trim();
-
-                const parsed = JSON.parse(cleaned);
-
-                return {
-                    ids: Array.isArray(parsed?.ids)
-                        ? parsed.ids.filter(id => typeof id === "string")
-                        : [],
-                    interpretation:
-                        typeof parsed?.interpretacja === "string"
-                            ? parsed.interpretacja.trim()
-                            : ""
-                };
+                return { response, data };
             } finally {
                 clearTimeout(timeoutId);
             }
         }
 
+        async function testAiConnection() {
+            if (apiStatusText) {
+                apiStatusText.textContent =
+                    "Sprawdzam połączenie z Cloudflare Worker...";
+            }
+
+            try {
+                const { response, data } = await fetchJsonWithTimeout(
+                    AI_PROXY_HEALTH_URL,
+                    { method: "GET", cache: "no-store" },
+                    8000
+                );
+
+                if (!response.ok || !data?.ok) {
+                    const error = new Error(
+                        data?.error || `Worker HTTP ${response.status}`
+                    );
+                    error.status = response.status;
+                    throw error;
+                }
+
+                state.aiAvailable = true;
+                if (apiStatusText) {
+                    apiStatusText.textContent = data?.secretConfigured
+                        ? "Połączenie działa. Sekret OpenAI jest skonfigurowany."
+                        : "Worker działa, ale nie widzi sekretu OpenAI.";
+                }
+                if (apiDiagnosticsText) {
+                    apiDiagnosticsText.textContent =
+                        `Model Workera: ${data?.model || AI_MODEL_LABEL} • test GET bez kosztu API`;
+                }
+                log("Test Workera zakończony powodzeniem.");
+            } catch (error) {
+                state.aiAvailable = false;
+                const message = getFriendlyAiError(error);
+                if (apiStatusText) apiStatusText.textContent = message;
+                log(message, true);
+            }
+        }
+
+        async function callAI(query) {
+            const candidates = buildAiCandidatePool(
+                query,
+                MAX_AI_CANDIDATES
+            );
+
+            const { response, data } = await fetchJsonWithTimeout(
+                AI_PROXY_SEARCH_URL,
+                {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    cache: "no-store",
+                    body: JSON.stringify({ query, candidates })
+                },
+                AI_REQUEST_TIMEOUT_MS
+            );
+
+            if (!response.ok || !data?.ok) {
+                const error = new Error(
+                    data?.error ||
+                    data?.diagnostics?.upstreamCode ||
+                    `Worker HTTP ${response.status}`
+                );
+                error.status =
+                    data?.diagnostics?.upstreamStatus ||
+                    response.status;
+                error.diagnostics = data?.diagnostics || null;
+                throw error;
+            }
+
+            const diagnostics = {
+                ...(data?.diagnostics || {}),
+                confidence: Number.isFinite(data?.confidence)
+                    ? data.confidence
+                    : 0
+            };
+
+            state.lastAiDiagnostics = diagnostics;
+            renderAiDiagnostics();
+
+            log(
+                `AI: ${diagnostics.model || AI_MODEL_LABEL}, ` +
+                `${diagnostics.durationMs || 0} ms, ` +
+                `${diagnostics.candidateCount || candidates.length} kandydatów.`
+            );
+
+            return {
+                ids: Array.isArray(data?.ids)
+                    ? data.ids.filter(id => typeof id === "string")
+                    : [],
+                interpretation:
+                    typeof data?.reason === "string"
+                        ? data.reason.trim()
+                        : "",
+                confidence: diagnostics.confidence,
+                diagnostics
+            };
+        }
+
         async function resolveProcedures(query) {
             const local = findLocalMatches(query);
 
-            // Hotfix: każdy sensowny wynik lokalny jest pokazywany od razu.
-            // AI nie może blokować prostych wyszukiwań i kategorii.
-            if (local.procedures.length) {
+            if (
+                ["category", "tag", "direct"].includes(local.kind) &&
+                local.procedures.length
+            ) {
                 return {
                     procedures: local.procedures,
                     source: local.source,
@@ -2429,41 +2688,57 @@ Odpowiedz wylacznie poprawnym JSON:
                 };
             }
 
-            if (state.apiKey) {
+            if (state.aiEnabled) {
                 try {
-                    const aiResult = await callAI(query, state.apiModel);
+                    const aiResult = await callAI(query);
                     const allowedIds = new Set(
                         state.procedury.map(item => item.id)
                     );
-
                     const uniqueIds = [...new Set(
                         aiResult.ids.filter(id => allowedIds.has(id))
                     )];
-
                     const aiProcedures = uniqueIds
-                        .map(id =>
-                            state.procedury.find(item => item.id === id)
-                        )
+                        .map(id => state.procedury.find(item => item.id === id))
                         .filter(Boolean);
 
                     if (aiProcedures.length) {
                         return {
                             procedures: aiProcedures,
-                            source: "Wsparcie AI",
+                            source: "Wsparcie AI — OpenAI",
                             interpretation: aiResult.interpretation,
+                            aiError: ""
+                        };
+                    }
+
+                    if (local.procedures.length) {
+                        return {
+                            procedures: local.procedures,
+                            source: `${local.source} — AI nie wskazało lepszego wyniku`,
+                            interpretation: "",
                             aiError: ""
                         };
                     }
 
                     return {
                         procedures: [],
-                        source: "Wsparcie AI",
-                        interpretation: "",
+                        source: "Wsparcie AI — OpenAI",
+                        interpretation: aiResult.interpretation,
                         aiError: ""
                     };
                 } catch (error) {
                     const friendlyMessage = getFriendlyAiError(error);
+                    state.lastAiDiagnostics = error?.diagnostics || null;
+                    renderAiDiagnostics();
                     log(friendlyMessage, true);
+
+                    if (local.procedures.length) {
+                        return {
+                            procedures: local.procedures,
+                            source: `${local.source} — tryb awaryjny`,
+                            interpretation: "",
+                            aiError: friendlyMessage
+                        };
+                    }
 
                     return {
                         procedures: [],
@@ -2475,8 +2750,8 @@ Odpowiedz wylacznie poprawnym JSON:
             }
 
             return {
-                procedures: [],
-                source: "Brak",
+                procedures: local.procedures,
+                source: local.source,
                 interpretation: "",
                 aiError: ""
             };
@@ -2745,37 +3020,21 @@ Odpowiedz wylacznie poprawnym JSON:
             }
         }
 
-        function saveApiKey() {
-            state.apiKey = apiKeyInput.value.trim();
-            state.apiModel = apiModelInput.value.trim() || "gemini-3-flash-preview";
-            if (state.apiKey) {
-                localStorage.setItem("kdr_ai_api_key", state.apiKey);
-                localStorage.setItem("kdr_ai_api_model", state.apiModel);
-                log("Zapisano API Key.");
-            } else {
-                localStorage.removeItem("kdr_ai_api_key");
-                localStorage.removeItem("kdr_ai_api_model");
-                log("AI wylaczone. Pozostaje lokalna baza.");
-            }
-            updateApiButton();
+        async function saveApiKey() {
+            await testAiConnection();
         }
 
         function clearApiKey() {
-            apiKeyInput.value = "";
-            apiModelInput.value = "gemini-3-flash-preview";
-            state.apiKey = "";
-            state.apiModel = "gemini-3-flash-preview";
-            localStorage.removeItem("kdr_ai_api_key");
-            localStorage.removeItem("kdr_ai_api_model");
-            updateApiButton();
-            log("Usunieto API Key. Dziala tylko baza lokalna.");
+            log(
+                "Klucz OpenAI nie jest zapisany w aplikacji. Jest chroniony w Cloudflare Worker.",
+                true
+            );
         }
 
         function toggleApiPanel() {
             apiPanel.classList.toggle("hidden");
             if (!apiPanel.classList.contains("hidden")) {
-                apiKeyInput.focus();
-                apiKeyInput.select();
+                renderAiDiagnostics();
             }
         }
 
@@ -3007,20 +3266,6 @@ Odpowiedz wylacznie poprawnym JSON:
             clearIosInputSubmitTimer();
             manualQuery.value = "";
             manualQuery.focus();
-        });
-
-        apiKeyInput.addEventListener("keydown", event => {
-            if (event.key === "Enter") {
-                event.preventDefault();
-                saveApiKey();
-            }
-        });
-
-        apiModelInput.addEventListener("keydown", event => {
-            if (event.key === "Enter") {
-                event.preventDefault();
-                saveApiKey();
-            }
         });
 
         window.addEventListener("pagehide", () => {
