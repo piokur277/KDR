@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T18:22:20.251Z",
-  "count": 112,
+  "generated_at": "2026-07-22T15:29:05.262Z",
+  "count": 113,
   "files": [
     "procedury/acetylen/karta-z1-butle-acetylen.json",
     "procedury/acetylen/karta-z2-butle-acetylen.json",
@@ -51,6 +51,7 @@
     "procedury/kpp/wychlodzenie-kpp.json",
     "procedury/kpp/zaburzenia-krazeniowo-oddechowe-stany-nieurazowe-kpp.json",
     "procedury/kpp/zatrucie-wziewne-kpp.json",
+    "procedury/lotnicze/bsp-pochodzenia-militarnego.json",
     "procedury/OLiOC/grudzień/leki-higiena.json",
     "procedury/OLiOC/grudzień/rotacja-zapasow.json",
     "procedury/OLiOC/grudzień/szczegolne-potrzeby-zapasy.json",

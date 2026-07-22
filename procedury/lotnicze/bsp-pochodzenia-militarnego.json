@@ -1,0 +1,48 @@
+{
+  "id": "KARTA-LOT-BSP-POCHODZENIA-MILITARNEGO",
+  "kategoria": "dzialania",
+  "zrodlo": "Załącznik nr 1: Wytyczne podczas zdarzeń z bezzałogowymi statkami powietrznymi pochodzenia militarnego - materiał przekazany przez użytkownika",
+  "data_aktualizacji": "2026-07-22",
+  "status_zrodla": "materiał przekazany w postaci dwóch fotografii; na przekazanych stronach brak widocznej daty i oznaczenia organu wydającego",
+  "slowo_kluczowe": "dron militarny",
+  "keywords": [
+    "bsp pochodzenia militarnego",
+    "bezzałogowy statek powietrzny militarny",
+    "dron wojskowy",
+    "znaleziony dron wojskowy",
+    "rozbity dron wojskowy",
+    "obiekt pochodzenia militarnego",
+    "dron z materiałami wybuchowymi",
+    "strefa 150 metrów dron",
+    "nie dotykaj drona militarnego",
+    "mz lotnicze dron"
+  ],
+  "prefix": "BSP pochodzenia militarnego - zabezpieczenie miejsca zdarzenia, rozpoznanie z dystansu i przekazanie służbie właściwej.",
+  "content": "1. KOD / NAZWA: zdarzenie z bezzałogowym statkiem powietrznym (BSP) o możliwym pochodzeniu militarnym.\n2. STANOWISKO KIEROWANIA: każde zgłoszenie niezwłocznie przekaż do nadrzędnego stanowiska kierowania PSP. W SWD PSP oznacz zdarzenie flagą „Do wiadomości KG” i przypisz podrodzaj „MZ - Lotnicze”.\n3. ZAŁOŻENIE WSTĘPNE: jeżeli jednostka ochrony przeciwpożarowej jest pierwszą służbą na miejscu, przyjmij, że obiekt może mieć charakter militarny, zawierać materiały wybuchowe i system autodestrukcji, np. zapalnik czasowy.\n4. ZASADA BEZWZGLĘDNA: nie dotykaj, nie ruszaj, nie przenoś. Wyklucz jakąkolwiek manipulację, poruszanie i demontaż elementów. Zgodnie z wytycznymi również użycie telefonu komórkowego w bezpośrednim sąsiedztwie może spowodować detonację.\n5. INNE ZAGROŻENIA: uwzględnij możliwość występowania bojowych środków trujących lub innych substancji niebezpiecznych dla życia i zdrowia ludzi.\n6. BEZPIECZNY DYSTANS: gdy nie ma bezpośredniego zagrożenia życia i zdrowia osób postronnych, ratownicy nie powinni zbliżać się do obiektu. Stosuj zasadę: „Jeżeli Ty widzisz bombę - bomba widzi Ciebie”.\n7. STREFA I EWAKUACJA: niezwłocznie wyznacz strefę niebezpieczną o promieniu co najmniej 150 m od obiektu i ewakuuj osoby z tego obszaru.\n8. ROZPOZNANIE: prowadź wyłącznie z bezpiecznej odległości, korzystając z lornetki, lunety, kamery z przybliżeniem, telefonu z funkcją zoom lub BSP będącego na wyposażeniu jednostki ochrony przeciwpożarowej.\n9. DOKUMENTACJA: zdjęcia i materiały wideo wykonuj wyłącznie w celach służbowych. Przekazuj je tylko przez służbową pocztę elektroniczną. Nie publikuj ani nie wysyłaj przez media społecznościowe, prywatne komunikatory lub inne nieautoryzowane kanały.\n10. PRZEKAZANIE MIEJSCA: po przybyciu Policji lub przedstawicieli Sił Zbrojnych RP jednostki ochrony przeciwpożarowej przestają pełnić rolę służby wiodącej. Formalnie przekaż miejsce zdarzenia właściwemu organowi.\n11. RATOWANIE ŻYCIA: nadrzędnym priorytetem pozostaje ratowanie życia i zdrowia ludzi. Przy bezpośrednim zagrożeniu osób poszkodowanych wytyczne dopuszczają działania wykraczające poza ramowy schemat, z zachowaniem wszelkich możliwych środków ostrożności. Przy zbliżaniu korzystaj w miarę możliwości z naturalnych osłon albo dostępnych tarcz balistycznych.\n12. UWAGA ORGANIZACYJNA: wytyczne mogą być doprecyzowane i rozszerzone na poziomie wojewódzkim lub powiatowym, stosownie do lokalnych procedur i dostępnych sił oraz środków.\n13. UWAGA ŹRÓDŁOWA: na przekazanych stronach nie ma widocznej daty ani oznaczenia organu wydającego. Przed wykorzystaniem operacyjnym należy potwierdzić obowiązywanie materiału oraz lokalne doprecyzowania.",
+  "tagi_wspolne": [
+    "bsp militarny",
+    "dron wojskowy",
+    "zagrożenie wybuchowe",
+    "mz lotnicze",
+    "strefa niebezpieczna 150 m"
+  ],
+  "aliasy": [
+    "bsp pochodzenia militarnego",
+    "bezzałogowy statek powietrzny militarny",
+    "dron wojskowy",
+    "znaleziony dron wojskowy",
+    "rozbity dron wojskowy",
+    "obiekt pochodzenia militarnego",
+    "dron z materiałami wybuchowymi",
+    "strefa 150 metrów dron",
+    "nie dotykaj drona militarnego",
+    "mz lotnicze dron"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-bsp-pochodzenia-militarnego",
+      "strona": 1,
+      "sekcja": "Wytyczne podczas zdarzeń z BSP pochodzenia militarnego - strony 1-2"
+    }
+  ]
+}

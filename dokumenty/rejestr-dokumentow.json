@@ -1,6 +1,6 @@
 {
-  "wersja_rejestru": "2.1",
-  "zaktualizowano": "2026-07-17",
+  "wersja_rejestru": "2.2",
+  "zaktualizowano": "2026-07-22",
   "dokumenty": {
     "doc-ev-szp-2023": {
       "tytul": "Standardowe zasady postępowania podczas zdarzeń z samochodami z napędem elektrycznym oraz hybrydowym",
@@ -763,6 +763,19 @@
       "liczba_stron": 1,
       "sha256": "5385c303c3525ea7b5b44e25c8d46e378947a50ff97ef6533f89849dc2b43075",
       "uwagi": "Wyodrębniono bez zmiany treści ze strony 21 dokumentu: Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy - Załącznik nr 1."
+    },
+    "doc-bsp-pochodzenia-militarnego": {
+      "tytul": "Wytyczne podczas zdarzeń z bezzałogowymi statkami powietrznymi pochodzenia militarnego",
+      "wersja": "Załącznik nr 1 - brak daty na przekazanych stronach",
+      "data_wydania": null,
+      "rodzaj": "Wytyczne dotyczące BSP pochodzenia militarnego",
+      "plik": "dokumenty/lotnicze/wytyczne-bsp-pochodzenia-militarnego.pdf",
+      "id": "doc-bsp-pochodzenia-militarnego",
+      "status_techniczny": "aktywny",
+      "aktualnosc_merytoryczna": "do_potwierdzenia_brak_daty_i_organu_na_przekazanych_stronach",
+      "liczba_stron": 2,
+      "sha256": "4f42a41aaa2d685b52ca368ee95f1e344a200b6b1881f59532e9f2facf241f29",
+      "uwagi": "PDF utworzono z dwóch fotografii przekazanych przez użytkownika. Treść stron nie została zmieniona. Na przekazanych stronach nie widać daty dokumentu ani oznaczenia organu wydającego."
     }
   }
 }

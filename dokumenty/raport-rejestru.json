@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-17T18:22:20.252Z",
-  "registry_version": "2.1",
-  "document_count": 60,
-  "active_document_count": 60,
-  "linked_document_count": 60,
+  "generated_at": "2026-07-22T15:29:05.263Z",
+  "registry_version": "2.2",
+  "document_count": 61,
+  "active_document_count": 61,
+  "linked_document_count": 61,
   "unlinked_documents": [],
   "documents": [
     {
@@ -1313,6 +1313,20 @@
           "procedure_id": "KARTA-KPP-WSPARCIE-PSYCHICZNE",
           "strona": 1,
           "sekcja": "Procedura nr 20 - Zasady udzielania wsparcia psychicznego i psychologicznego"
+        }
+      ]
+    },
+    {
+      "id": "doc-bsp-pochodzenia-militarnego",
+      "tytul": "Wytyczne podczas zdarzeń z bezzałogowymi statkami powietrznymi pochodzenia militarnego",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 2,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-LOT-BSP-POCHODZENIA-MILITARNEGO",
+          "strona": 1,
+          "sekcja": "Wytyczne podczas zdarzeń z BSP pochodzenia militarnego - strony 1-2"
         }
       ]
     }

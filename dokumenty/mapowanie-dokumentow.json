@@ -751,6 +751,21 @@
     ]
   },
   {
+    "id": "KARTA-LOT-BSP-POCHODZENIA-MILITARNEGO",
+    "procedura": "BSP pochodzenia militarnego - zabezpieczenie miejsca zdarzenia, rozpoznanie z dystansu i przekazanie służbie właściwej.",
+    "miesiac_akademii": null,
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-bsp-pochodzenia-militarnego",
+        "strona": 1,
+        "sekcja": "Wytyczne podczas zdarzeń z BSP pochodzenia militarnego - strony 1-2",
+        "tytul": "Wytyczne podczas zdarzeń z bezzałogowymi statkami powietrznymi pochodzenia militarnego",
+        "plik": "dokumenty/lotnicze/wytyczne-bsp-pochodzenia-militarnego.pdf",
+        "typ": "pdf"
+      }
+    ]
+  },
+  {
     "id": "KARTA-OLIOC-GRUDZIEŃ-04-LEKI_HIGIENA",
     "procedura": "OLiOC - grudzień: leki, zdrowie i higiena w domowych zapasach.",
     "miesiac_akademii": "grudzień",

@@ -1,0 +1,31 @@
+{
+  "version": "v19.0.6 BSP MILITARNY",
+  "new_procedure_id": "KARTA-LOT-BSP-POCHODZENIA-MILITARNEGO",
+  "new_document_id": "doc-bsp-pochodzenia-militarnego",
+  "new_document": "dokumenty/lotnicze/wytyczne-bsp-pochodzenia-militarnego.pdf",
+  "source_images": [
+    "image(1).png",
+    "image(2).png"
+  ],
+  "source_notice": "Na przekazanych stronach nie widać daty dokumentu ani oznaczenia organu wydającego. Treść procedury została oparta wyłącznie na przekazanym materiale.",
+  "search_terms": [
+    "dron militarny",
+    "bsp pochodzenia militarnego",
+    "bezzałogowy statek powietrzny militarny",
+    "dron wojskowy",
+    "znaleziony dron wojskowy",
+    "rozbity dron wojskowy",
+    "obiekt pochodzenia militarnego",
+    "dron z materiałami wybuchowymi",
+    "strefa 150 metrów dron",
+    "nie dotykaj drona militarnego",
+    "mz lotnicze dron"
+  ],
+  "total_procedures": 113,
+  "total_registry_entries": 61,
+  "pdf_pages": 2,
+  "pdf_render_validation": "OK",
+  "database_validation": "OK",
+  "javascript_syntax": "OK",
+  "previous_changes_preserved": true
+}
