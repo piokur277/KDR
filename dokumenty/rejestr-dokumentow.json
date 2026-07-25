@@ -1,6 +1,6 @@
 {
-  "wersja_rejestru": "2.2",
-  "zaktualizowano": "2026-07-22",
+  "wersja_rejestru": "2.3",
+  "zaktualizowano": "2026-07-25",
   "dokumenty": {
     "doc-ev-szp-2023": {
       "tytul": "Standardowe zasady postępowania podczas zdarzeń z samochodami z napędem elektrycznym oraz hybrydowym",
@@ -776,6 +776,19 @@
       "liczba_stron": 2,
       "sha256": "4f42a41aaa2d685b52ca368ee95f1e344a200b6b1881f59532e9f2facf241f29",
       "uwagi": "PDF utworzono z dwóch fotografii przekazanych przez użytkownika. Treść stron nie została zmieniona. Na przekazanych stronach nie widać daty dokumentu ani oznaczenia organu wydającego."
+    },
+    "doc-msa-altair-4x-manual": {
+      "tytul": "Instrukcja obsługi ALTAIR 4X - miernik wielogazowy",
+      "wersja": "Nr zamówieniowy 10106503/03",
+      "data_wydania": null,
+      "rodzaj": "Instrukcja obsługi producenta",
+      "plik": "dokumenty/urzadzenia/msa-altair-4x-instrukcja-obslugi.pdf",
+      "id": "doc-msa-altair-4x-manual",
+      "status_techniczny": "aktywny",
+      "aktualnosc_merytoryczna": "wedlug_przekazanego_pliku",
+      "liczba_stron": 78,
+      "sha256": "b88b61c234d3f755f51abb4f5746a0039a6244715d1f22952036c508a3e6d598",
+      "uwagi": "Pełna polska instrukcja obsługi MSA ALTAIR 4X. Powiązanie z kartą otwiera dokument na stronie 55 z fabrycznymi progami alarmowymi. Instrukcja wskazuje, że dokładne poziomy alarmów należy sprawdzić na monitorze lub certyfikacie kalibracji, ponieważ mogą zależeć od regulacji."
     }
   }
 }

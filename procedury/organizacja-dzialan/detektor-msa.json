@@ -1,7 +1,7 @@
 {
   "id": "KARTA-ORG-DETEKTOR-MSA-ALTAIR-4X",
-  "zrodlo": "Dane przekazane przez uzytkownika",
-  "data_aktualizacji": "",
+  "zrodlo": "Dane przekazane przez użytkownika; dołączona instrukcja obsługi producenta MSA ALTAIR 4X, nr zamówieniowy 10106503/03",
+  "data_aktualizacji": "2026-07-25",
   "keywords": [
     "msa altair 4x",
     "detektor wielogazowy msa",
@@ -13,7 +13,12 @@
     "alarm msa 10 ppm h2s",
     "alarm msa 100 ppm co",
     "alarm msa 15 ppm h2s",
-    "sygnalizacja msa altair 4x"
+    "sygnalizacja msa altair 4x",
+    "instrukcja msa altair 4x",
+    "obsługa msa altair 4x",
+    "kalibracja msa altair 4x",
+    "test obciążeniowy msa altair 4x",
+    "test bump msa altair 4x"
   ],
   "prefix": "Detektor wielogazowy MSA Altair 4X - progi alarmowe i sygnalizacja.",
   "content": "1. Detektor wielogazowy: Altair 4X.\n2. Alarm niski: 10% DGW; 19,5% O2; 25 ppm CO; 10 ppm H2S.\n3. Alarm niski: sygnal dzwiekowy pulsacyjny ok. 95 dB.\n4. Alarm wysoki: 20% DGW; 18% O2; 100 ppm CO; 15 ppm H2S.",
@@ -34,11 +39,23 @@
     "alarm msa 10 ppm h2s",
     "alarm msa 100 ppm co",
     "alarm msa 15 ppm h2s",
-    "sygnalizacja msa altair 4x"
+    "sygnalizacja msa altair 4x",
+    "instrukcja msa altair 4x",
+    "obsługa msa altair 4x",
+    "kalibracja msa altair 4x",
+    "test obciążeniowy msa altair 4x",
+    "test bump msa altair 4x"
   ],
   "pelna_procedura": {
-    "tytul": "Dane przekazane przez uzytkownika",
-    "plik": "",
-    "strona": null
-  }
+    "tytul": "Instrukcja obsługi MSA ALTAIR 4X - miernik wielogazowy",
+    "plik": "dokumenty/urzadzenia/msa-altair-4x-instrukcja-obslugi.pdf",
+    "strona": 55
+  },
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-msa-altair-4x-manual",
+      "strona": 55,
+      "sekcja": "Ustawione fabrycznie progi oraz punkty zadalne alarmów; pełna instrukcja obsługi ma 78 stron"
+    }
+  ]
 }

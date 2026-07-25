@@ -1795,7 +1795,16 @@
     "id": "KARTA-ORG-DETEKTOR-MSA-ALTAIR-4X",
     "procedura": "Detektor wielogazowy MSA Altair 4X - progi alarmowe i sygnalizacja.",
     "miesiac_akademii": null,
-    "dokumenty_zrodlowe": []
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-msa-altair-4x-manual",
+        "strona": 55,
+        "sekcja": "Ustawione fabrycznie progi oraz punkty zadalne alarmów; pełna instrukcja obsługi ma 78 stron",
+        "tytul": "Instrukcja obsługi ALTAIR 4X - miernik wielogazowy",
+        "plik": "dokumenty/urzadzenia/msa-altair-4x-instrukcja-obslugi.pdf",
+        "typ": "pdf"
+      }
+    ]
   },
   {
     "id": "KARTA-ORG-H2S-WARTOSCI-GRANICZNE",

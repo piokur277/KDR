@@ -1,0 +1,16 @@
+{
+  "version": "v19.0.8 MSA MANUAL",
+  "procedure_id": "KARTA-ORG-DETEKTOR-MSA-ALTAIR-4X",
+  "document_id": "doc-msa-altair-4x-manual",
+  "document_file": "dokumenty/urzadzenia/msa-altair-4x-instrukcja-obslugi.pdf",
+  "document_pages": 78,
+  "opening_page": 55,
+  "sha256": "b88b61c234d3f755f51abb4f5746a0039a6244715d1f22952036c508a3e6d598",
+  "procedures_total": 113,
+  "registry_entries_total": 62,
+  "javascript_syntax": "OK",
+  "pdf_preflight": "OK - openable, not encrypted, 78 A4 pages",
+  "pdf_copy_integrity": "OK - SHA-256 identical to upload",
+  "important_discrepancy": "Instrukcja na stronie 55 podaje fabryczny wysoki próg O2 = 23,0%, natomiast dotychczasowa karta aplikacji zawiera wpis „alarm wysoki: 18% O2”. Treści karty nie zmieniono automatycznie; rozbieżność wymaga potwierdzenia w konfiguracji konkretnego miernika lub certyfikacie kalibracji.",
+  "ai_support_preserved": true
+}

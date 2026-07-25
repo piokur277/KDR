@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-22T15:29:05.263Z",
-  "registry_version": "2.2",
-  "document_count": 61,
-  "active_document_count": 61,
-  "linked_document_count": 61,
+  "generated_at": "2026-07-25T14:47:51.857Z",
+  "registry_version": "2.3",
+  "document_count": 62,
+  "active_document_count": 62,
+  "linked_document_count": 62,
   "unlinked_documents": [],
   "documents": [
     {
@@ -1327,6 +1327,20 @@
           "procedure_id": "KARTA-LOT-BSP-POCHODZENIA-MILITARNEGO",
           "strona": 1,
           "sekcja": "Wytyczne podczas zdarzeń z BSP pochodzenia militarnego - strony 1-2"
+        }
+      ]
+    },
+    {
+      "id": "doc-msa-altair-4x-manual",
+      "tytul": "Instrukcja obsługi ALTAIR 4X - miernik wielogazowy",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 78,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-ORG-DETEKTOR-MSA-ALTAIR-4X",
+          "strona": 55,
+          "sekcja": "Ustawione fabrycznie progi oraz punkty zadalne alarmów; pełna instrukcja obsługi ma 78 stron"
         }
       ]
     }
