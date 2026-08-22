@@ -1,0 +1,17 @@
+{
+  "version": "v19.1.0 CHEM ZAKRES PODSTAWOWY",
+  "new_procedure_id": "KARTA-CHEM-ZAKRES-PODSTAWOWY-KDR",
+  "new_procedure": "Ratownictwo chemiczne i ekologiczne - pierwsze działania KDR w zakresie podstawowym (KSRG 2025).",
+  "primary_current_source": "https://www.gov.pl/attachment/89034c06-f751-4b01-9f8c-683b80e34eb5",
+  "primary_current_source_version": "styczeń 2025",
+  "official_graphic_card": "https://www.gov.pl/attachment/01a80975-659b-4bcf-88d4-42c11189d7a1",
+  "user_material_role": "materiał pomocniczy; starsze wartości liczbowe nie są podstawą karty",
+  "total_procedures": 114,
+  "total_registry_entries": 66,
+  "source_documents_for_new_procedure": 3,
+  "openai_worker_preserved": true,
+  "javascript_syntax": "OK",
+  "pdf_user_material_pages": 4,
+  "local_search_alias_validation": "OK",
+  "important_note": "Nowa karta nie przenosi starych wartości stref/NDS/NDSCh z materiału użytkownika. Podstawę stanowią aktualne Zasady KG PSP z 2025 r."
+}

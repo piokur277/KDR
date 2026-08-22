@@ -640,6 +640,89 @@
     ]
   },
   {
+    "id": "KARTA-CHEM-ZAKRES-PODSTAWOWY-KDR",
+    "kategoria": "dzialania",
+    "zrodlo": "KG PSP: Zasady organizacji ratownictwa chemicznego i ekologicznego w KSRG, Warszawa, styczeń 2025 r.; Załącznik nr 11 - Karta graficzna SGRChem; ujednolicony program szkolenia doskonalącego z ratownictwa chemicznego i ekologicznego w zakresie podstawowym.",
+    "data_aktualizacji": "2025-01",
+    "slowo_kluczowe": "ratownictwo chemiczne zakres podstawowy",
+    "keywords": [
+      "zdarzenie chemiczne",
+      "ratownictwo chemiczno ekologiczne",
+      "pierwsze działania chemia",
+      "pierwsze działania kdr chemia",
+      "zakres podstawowy chemia",
+      "nieznana substancja",
+      "substancja niebezpieczna",
+      "wyciek chemiczny",
+      "rozlewisko chemiczne",
+      "opary nieznanej substancji",
+      "dziwny zapach",
+      "beczka z ostrym zapachem",
+      "strefa i gorąca",
+      "strefa ii chłodna",
+      "strefa zagrożenia chemicznego",
+      "dekontaminacja wstępna chemia",
+      "pomiary chemiczne",
+      "sg rchem",
+      "sgrchem",
+      "sgrchem eko",
+      "kurtyna wodna chemia",
+      "materiał niebezpieczny",
+      "hazmat"
+    ],
+    "prefix": "Ratownictwo chemiczne i ekologiczne - pierwsze działania KDR w zakresie podstawowym (KSRG 2025).",
+    "content": "1. KOD / NAZWA: ratownictwo chemiczne i ekologiczne - pierwsze działania KDR w zakresie podstawowym.\n2. PRIORYTET I GRANICE DZIAŁAŃ: priorytetem jest ratowanie życia i zdrowia. Zakres wykonywanych czynności zawsze dostosuj do wyszkolenia, kwalifikacji ratowników oraz posiadanego sprzętu. Nie podejmuj czynności specjalistycznych przekraczających realne możliwości zastępów.\n3. ROZPOZNANIE: zbieraj i analizuj informacje już w czasie dojazdu i po przybyciu. Ustal okoliczności zdarzenia, rodzaj środka transportu i jego oznakowanie ADR/RID, numery UN, dokumenty przewozowe, oznakowanie opakowań i zbiorników wg ADR/CLP, oznakowanie butli i rurociągów oraz objawy u osób narażonych. Nie opieraj decyzji na jednej przesłance; potwierdzaj rozpoznanie dostępnymi źródłami i pomiarami.\n4. STREFY: wyznacz i zabezpiecz strefę zagrożenia. Strefa I (gorąca) obejmuje m.in. obszar wstępnie nierozpoznany, zagrożony wybuchem, odłamkowaniem lub nagłym pożarem, obszar z niebezpiecznym stężeniem tlenu albo toksycznych gazów, par lub aerozoli, a także inne obszary wymagające dodatkowych ochron. Strefa II (chłodna) znajduje się poza strefą I i obejmuje również zaplecze logistyczne. Miejsce dekontaminacji organizuj na granicy stref I i II.\n5. MINIMALNY ZAKRES PODSTAWOWY: rozpoznaj i zabezpiecz miejsce zdarzenia; ewakuuj zagrożonych ludzi i zwierzęta poza strefę; ostrzegaj i informuj o zasadach zachowania; prowadź pomiary dostępnymi przyrządami; ograniczaj skutki emisji materiałów niebezpiecznych, w tym z użyciem kurtyn wodnych, oraz skutki wycieków substancji ropopochodnych; prowadź dekontaminację wstępną i KPP; współdziałaj z innymi podmiotami i wspieraj SGRChem.\n6. DEKONTAMINACJA WSTĘPNA: rozpocznij ją możliwie szybko, na granicy stref. Wobec osoby skażonej obejmuje ona ograniczenie skażenia odsłoniętych części ciała, usunięcie i zabezpieczenie skażonej odzieży oraz zastosowanie ubioru zastępczego. Kolejność działań wobec poszkodowanych: wyznaczenie strefy, ewakuacja ze strefy I do miejsca dekontaminacji, segregacja pierwotna, dekontaminacja, KPP i przekazanie zespołom medycznym.\n7. SGRChem I ORGANIZACJA: jeżeli zakres zdarzenia wymaga wsparcia specjalistycznego, zapewnij współdziałanie z SGRChem. Po jej przybyciu przekaż ocenę sytuacji i posiadaną dokumentację, zorganizuj przyjęcie sił i środków, łączność oraz zaplecze logistyczne zgodnie z organizacją działań przyjętą przez KDR.\n8. ZAKOŃCZENIE I PRZEKAZANIE: decyzję o zakończeniu działań podejmuje KDR po likwidacji bezpośredniego zagrożenia. Teren, obiekt lub mienie przekaż właściwemu właścicielowi, zarządcy, użytkownikowi albo uprawnionemu organowi zgodnie z obowiązującą dokumentacją KSRG.\n9. POWIĄZANE KARTY: jeżeli rozpoznasz konkretną substancję lub scenariusz, przejdź do karty szczegółowej, np. NH3/amoniak, HCl/chlorowodór, LNG, acetylen, MSA Altair 4X, podejrzana przesyłka albo procedury radiacyjne R1/R2.\n10. UWAGA: starszy materiał szkoleniowy dołączony do tej karty ma wyłącznie charakter pomocniczy. Wartości liczbowe stref, NDS/NDSCh i inne dane z tego materiału nie są podstawą niniejszej karty; pierwszeństwo mają aktualne Zasady KG PSP z 2025 r. oraz bieżące dane właściwe dla konkretnej substancji i zdarzenia.",
+    "tagi_wspolne": [
+      "ratownictwo chemiczne",
+      "ratownictwo ekologiczne",
+      "zakres podstawowy",
+      "zdarzenie chemiczne",
+      "substancja niebezpieczna",
+      "strefa zagrożenia",
+      "dekontaminacja wstępna",
+      "SGRChem"
+    ],
+    "aliasy": [
+      "chemia",
+      "zdarzenie chemiczne",
+      "ratownictwo chemiczno ekologiczne",
+      "pierwsze działania chemia",
+      "pierwsze działania kdr chemia",
+      "zakres podstawowy chemia",
+      "nieznana substancja",
+      "substancja niebezpieczna",
+      "wyciek chemiczny",
+      "rozlewisko chemiczne",
+      "opary nieznanej substancji",
+      "dziwny zapach",
+      "beczka z ostrym zapachem",
+      "strefa chemiczna",
+      "strefa zagrożenia chemicznego",
+      "dekontaminacja wstępna chemia",
+      "pomiary chemiczne",
+      "sgrchem",
+      "sgrchem eko",
+      "hazmat"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-chem-eko-zasady-2025-online",
+        "strona": 9,
+        "sekcja": "Rozdziały 2, 5 i 6 - zakres podstawowy, organizacja działań oraz dekontaminacja (styczeń 2025)"
+      },
+      {
+        "dokument_id": "doc-chem-eko-karta-graficzna-2025-online",
+        "strona": 2,
+        "sekcja": "Załącznik nr 11 - karta graficzna, zakres podstawowy"
+      },
+      {
+        "dokument_id": "doc-chem-eko-material-szkoleniowy-user",
+        "strona": 4,
+        "sekcja": "Materiał szkoleniowy pomocniczy - starsze opracowanie; nie stanowi podstawy wartości liczbowych karty 2025"
+      }
+    ]
+  },
+  {
     "id": "KARTA-CHEM-B1-ZAGROZENIE-BIOLOGICZNE-GR3-GR4",
     "kategoria": "dzialania",
     "zrodlo": "Zalacznik nr B.1. Zasady postepowania jednostek organizacyjnych PSP w przypadku podejrzenia zagrozenia chorobami szczegolnie niebezpiecznymi i wysoce zakaznymi",
@@ -694,7 +777,11 @@
       "brudna bomba",
       "material niezidentyfikowany",
       "algorytm b22",
-      "podejrzana paczka"
+      "podejrzana paczka",
+      "checklista przesylka",
+      "checklista podejrzana przesylka",
+      "checklista niebezpieczna przesylka",
+      "niebezpieczna przesylka checklista"
     ],
     "prefix": "Zalacznik B2.2 - Algorytm postepowania przy otrzymaniu niezidentyfikowanej przesylki mogacej stanowic zagrozenie chemiczne, biologiczne lub radiacyjne.",
     "content": "1. KOD / NAZWA: B2.2 - postepowanie przy otrzymaniu niezidentyfikowanej przesylki mogacej stanowic zagrozenie chemiczne, biologiczne lub radiacyjne.\n2. ROZPOZNANIE: rozpoznanie przesylki prowadzi Policja lub PSP wedlug wlasciwosci i rownoczesnie powiadamia pozostale sluzby i instytucje zgodnie z potrzebami.\n3. MATERIAL WYBUCHOWY: dzialania prowadzi Policja, transport realizuje Policja, a dalsze postepowanie obejmuje dzialania minersko-pirotechniczne, zniszczenie albo przekazanie probki do CLKP lub LK KWP.\n4. MATERIAL PROMIENIOTWORCZY: dzialania prowadza PSP i Ekipa Dozymetryczna Prezesa PAA, transport realizuje Ekipa Dozymetryczna Prezesa PAA lub ZUOP, a probke przekazuje sie do Ekipy Dozymetrycznej Prezesa PAA.\n5. MATERIAL CHEMICZNY: dzialania prowadza PSP i Policja, transport realizuje PSP lub Policja, a probke przekazuje sie do wlasciwego laboratorium CLKP, LK KWP lub BBK ABW.\n6. MATERIAL BIOLOGICZNY: dzialania prowadza PIS i PSP, transport realizuje PIS albo PSP, a probke przekazuje sie do laboratorium.\n7. BRUDNA BOMBA I MATERIAL NIEZIDENTYFIKOWANY: brudna bombe traktuje sie jako polaczenie urzadzenia wybuchowego z materialem chemicznym, biologicznym lub promieniotworczym i wlacza odpowiednie sluzby. Jezeli material pozostaje niezidentyfikowany, ale wykluczono urzadzenie wybuchowe i material promieniotworczy, dzialania prowadza PSP, PIS oraz wlasciwe laboratorium, a transport probki realizuje PSP.\n8. UWAGI OPERACYJNE: w razie potrzeby do pilotowania pojazdow przewozacych przesylke mozna wykorzystac Policje. Do wyboru laboratorium i organizacji wsparcia wykorzystuje sie zasoby CLKP, LK KWP oraz BBK ABW zgodnie z algorytmem.",
@@ -710,7 +797,11 @@
       "brudna bomba",
       "material niezidentyfikowany",
       "algorytm b22",
-      "podejrzana paczka"
+      "podejrzana paczka",
+      "checklista przesylka",
+      "checklista podejrzana przesylka",
+      "checklista niebezpieczna przesylka",
+      "niebezpieczna przesylka checklista"
     ],
     "dokumenty_zrodlowe": [
       {
@@ -727,6 +818,11 @@
         "dokument_id": "doc-b21-przesylka",
         "strona": 1,
         "sekcja": "Procedura dla instytucji - Załącznik B.2.1"
+      },
+      {
+        "dokument_id": "doc-checklista-niebezpieczna-przesylka",
+        "strona": 1,
+        "sekcja": "Checklista - zadania dla pierwszych PSP i rozpoznanie przesyłki"
       }
     ]
   },

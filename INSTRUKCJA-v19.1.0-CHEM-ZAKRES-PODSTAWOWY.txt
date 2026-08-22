@@ -1,0 +1,43 @@
+KDR ASYSTENT v19.1.0 CHEM ZAKRES PODSTAWOWY
+
+DODANO
+- nową procedurę nadrzędną:
+  „Ratownictwo chemiczne i ekologiczne - pierwsze działania KDR
+  w zakresie podstawowym (KSRG 2025)”,
+- oficjalne źródło internetowe: Zasady KG PSP ze stycznia 2025,
+- oficjalny Załącznik nr 11 - Kartę graficzną SGRChem,
+- przekazany przez użytkownika 4-stronicowy materiał szkoleniowy jako
+  dokument pomocniczy, wyraźnie oznaczony jako niestanowiący podstawy
+  aktualnych wartości liczbowych.
+
+WAŻNE
+Karta nie przejmuje starszych wartości stref, NDS/NDSCh ani innych
+wartości liczbowych z materiału pomocniczego. Pierwszeństwo mają
+aktualne Zasady KG PSP z 2025 r. i dane właściwe dla konkretnej
+substancji/scenariusza.
+
+HASŁA TESTOWE
+- chemia
+- zdarzenie chemiczne
+- nieznana substancja
+- pierwsze działania KDR chemia
+- beczka z ostrym zapachem
+- wyciek chemiczny
+- rozlewisko chemiczne
+- dekontaminacja wstępna chemia
+
+WDROŻENIE
+1. Rozpakuj paczkę „tylko zmiany”.
+2. Skopiuj całą zawartość do głównego katalogu repozytorium.
+3. Potwierdź zastąpienie istniejących plików.
+4. Wykonaj Commit i Push.
+5. Poczekaj na publikację GitHub Pages.
+6. Otwórz aplikację w karcie prywatnej.
+7. Sprawdź wersję: v19.1.0 CHEM ZAKRES PODSTAWOWY.
+8. Przetestuj wskazane wyżej hasła.
+9. Otwórz nową kartę i sprawdź trzy źródła:
+   - oficjalne Zasady 2025,
+   - oficjalną Kartę graficzną SGRChem,
+   - materiał szkoleniowy pomocniczy.
+
+Wsparcie OpenAI + Cloudflare Worker pozostaje bez zmian.
