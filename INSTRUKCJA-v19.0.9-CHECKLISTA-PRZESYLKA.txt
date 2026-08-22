@@ -1,0 +1,27 @@
+KDR ASYSTENT v19.0.9 CHECKLISTA PRZESYLKA
+
+DODANO
+- dokument: Checklista - niebezpieczna przesyłka,
+- powiązanie checklisty z istniejącą procedurą:
+  KARTA-CHEM-B22-PODEJRZANA-PRZESYLKA-CBR,
+- dodatkowe hasła wyszukiwania związane z checklistą.
+
+DOKUMENTY PROCEDURY
+Procedura „Podejrzana / niebezpieczna przesyłka” ma teraz 4 dokumenty:
+1. Załącznik B.2.2 - algorytm postępowania,
+2. Załącznik B.2 - zasady działań PSP,
+3. Załącznik B.2.1 - procedura działania instytucji,
+4. Checklista - niebezpieczna przesyłka.
+
+WDROŻENIE
+1. Rozpakuj paczkę „tylko zmiany”.
+2. Skopiuj całą zawartość do głównego katalogu repozytorium.
+3. Potwierdź zastąpienie istniejących plików.
+4. Wykonaj Commit i Push.
+5. Poczekaj na publikację GitHub Pages.
+6. Otwórz aplikację w karcie prywatnej.
+7. Sprawdź wersję: v19.0.9 CHECKLISTA PRZESYLKA.
+8. Wyszukaj „niebezpieczna przesyłka” albo „checklista przesyłka”.
+9. Otwórz kartę procedury i sprawdź obecność czwartego dokumentu.
+
+Wsparcie OpenAI/Cloudflare z v19.0.8 pozostaje bez zmian.

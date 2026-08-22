@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-22T16:02:45.484Z",
-  "procedure_count": 114,
-  "unique_direct_terms": 729,
-  "linked_procedure_count": 110,
-  "document_count": 66,
+  "generated_at": "2026-08-22T15:51:05.931Z",
+  "procedure_count": 113,
+  "unique_direct_terms": 708,
+  "linked_procedure_count": 109,
+  "document_count": 63,
   "shared_tags": [
     {
       "tag": "edukacja obywatelska",
@@ -629,14 +629,6 @@
       "ids": [
         "KARTA-OLIOC-GRUDZIEŃ-05-SZCZEGOLNE_POTRZEBY_ZAPASY",
         "KARTA-OLIOC-SIERPIEŃ-04-EWAKUACJA_SZCZEGOLNE_POTRZEBY"
-      ]
-    },
-    {
-      "tag": "strefa zagrozenia",
-      "count": 2,
-      "ids": [
-        "KARTA-BUD-STREFA-I-EWAKUACJA-KATASTROFA-BUDOWLANA",
-        "KARTA-CHEM-ZAKRES-PODSTAWOWY-KDR"
       ]
     },
     {

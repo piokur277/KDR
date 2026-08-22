@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-22T16:02:45.485Z",
-  "registry_version": "2.5",
-  "document_count": 66,
-  "active_document_count": 66,
-  "linked_document_count": 66,
+  "generated_at": "2026-08-22T15:51:05.932Z",
+  "registry_version": "2.4",
+  "document_count": 63,
+  "active_document_count": 63,
+  "linked_document_count": 63,
   "unlinked_documents": [],
   "documents": [
     {
@@ -1355,48 +1355,6 @@
           "procedure_id": "KARTA-CHEM-B22-PODEJRZANA-PRZESYLKA-CBR",
           "strona": 1,
           "sekcja": "Checklista - zadania dla pierwszych PSP i rozpoznanie przesyłki"
-        }
-      ]
-    },
-    {
-      "id": "doc-chem-eko-zasady-2025-online",
-      "tytul": "Zasady organizacji ratownictwa chemicznego i ekologicznego w krajowym systemie ratowniczo-gaśniczym",
-      "status_techniczny": "aktywny",
-      "liczba_stron": 43,
-      "liczba_powiazan": 1,
-      "powiazania": [
-        {
-          "procedure_id": "KARTA-CHEM-ZAKRES-PODSTAWOWY-KDR",
-          "strona": 9,
-          "sekcja": "Rozdziały 2, 5 i 6 - zakres podstawowy, organizacja działań oraz dekontaminacja (styczeń 2025)"
-        }
-      ]
-    },
-    {
-      "id": "doc-chem-eko-karta-graficzna-2025-online",
-      "tytul": "Załącznik nr 11 - Karta graficzna SGRChem",
-      "status_techniczny": "aktywny",
-      "liczba_stron": 4,
-      "liczba_powiazan": 1,
-      "powiazania": [
-        {
-          "procedure_id": "KARTA-CHEM-ZAKRES-PODSTAWOWY-KDR",
-          "strona": 2,
-          "sekcja": "Załącznik nr 11 - karta graficzna, zakres podstawowy"
-        }
-      ]
-    },
-    {
-      "id": "doc-chem-eko-material-szkoleniowy-user",
-      "tytul": "Ratownictwo chemiczno-ekologiczne - materiał szkoleniowy pomocniczy",
-      "status_techniczny": "aktywny",
-      "liczba_stron": 4,
-      "liczba_powiazan": 1,
-      "powiazania": [
-        {
-          "procedure_id": "KARTA-CHEM-ZAKRES-PODSTAWOWY-KDR",
-          "strona": 4,
-          "sekcja": "Materiał szkoleniowy pomocniczy - starsze opracowanie; nie stanowi podstawy wartości liczbowych karty 2025"
         }
       ]
     }

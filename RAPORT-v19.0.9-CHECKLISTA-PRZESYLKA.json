@@ -1,0 +1,14 @@
+{
+  "version": "v19.0.9 CHECKLISTA PRZESYLKA",
+  "procedure_id": "KARTA-CHEM-B22-PODEJRZANA-PRZESYLKA-CBR",
+  "added_document_id": "doc-checklista-niebezpieczna-przesylka",
+  "added_document_path": "dokumenty/cbrn/checklista-niebezpieczna-przesylka.pdf",
+  "added_document_pages": 2,
+  "procedure_document_count": 4,
+  "total_procedures": 113,
+  "total_registry_entries": 63,
+  "openai_worker_preserved": true,
+  "javascript_syntax": "OK",
+  "pdf_render_validation": "OK",
+  "content_modified": false
+}

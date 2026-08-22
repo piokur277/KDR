@@ -12,7 +12,11 @@
     "brudna bomba",
     "material niezidentyfikowany",
     "algorytm b22",
-    "podejrzana paczka"
+    "podejrzana paczka",
+    "checklista przesylka",
+    "checklista podejrzana przesylka",
+    "checklista niebezpieczna przesylka",
+    "niebezpieczna przesylka checklista"
   ],
   "prefix": "Zalacznik B2.2 - Algorytm postepowania przy otrzymaniu niezidentyfikowanej przesylki mogacej stanowic zagrozenie chemiczne, biologiczne lub radiacyjne.",
   "content": "1. KOD / NAZWA: B2.2 - postepowanie przy otrzymaniu niezidentyfikowanej przesylki mogacej stanowic zagrozenie chemiczne, biologiczne lub radiacyjne.\n2. ROZPOZNANIE: rozpoznanie przesylki prowadzi Policja lub PSP wedlug wlasciwosci i rownoczesnie powiadamia pozostale sluzby i instytucje zgodnie z potrzebami.\n3. MATERIAL WYBUCHOWY: dzialania prowadzi Policja, transport realizuje Policja, a dalsze postepowanie obejmuje dzialania minersko-pirotechniczne, zniszczenie albo przekazanie probki do CLKP lub LK KWP.\n4. MATERIAL PROMIENIOTWORCZY: dzialania prowadza PSP i Ekipa Dozymetryczna Prezesa PAA, transport realizuje Ekipa Dozymetryczna Prezesa PAA lub ZUOP, a probke przekazuje sie do Ekipy Dozymetrycznej Prezesa PAA.\n5. MATERIAL CHEMICZNY: dzialania prowadza PSP i Policja, transport realizuje PSP lub Policja, a probke przekazuje sie do wlasciwego laboratorium CLKP, LK KWP lub BBK ABW.\n6. MATERIAL BIOLOGICZNY: dzialania prowadza PIS i PSP, transport realizuje PIS albo PSP, a probke przekazuje sie do laboratorium.\n7. BRUDNA BOMBA I MATERIAL NIEZIDENTYFIKOWANY: brudna bombe traktuje sie jako polaczenie urzadzenia wybuchowego z materialem chemicznym, biologicznym lub promieniotworczym i wlacza odpowiednie sluzby. Jezeli material pozostaje niezidentyfikowany, ale wykluczono urzadzenie wybuchowe i material promieniotworczy, dzialania prowadza PSP, PIS oraz wlasciwe laboratorium, a transport probki realizuje PSP.\n8. UWAGI OPERACYJNE: w razie potrzeby do pilotowania pojazdow przewozacych przesylke mozna wykorzystac Policje. Do wyboru laboratorium i organizacji wsparcia wykorzystuje sie zasoby CLKP, LK KWP oraz BBK ABW zgodnie z algorytmem.",
@@ -28,7 +32,11 @@
     "brudna bomba",
     "material niezidentyfikowany",
     "algorytm b22",
-    "podejrzana paczka"
+    "podejrzana paczka",
+    "checklista przesylka",
+    "checklista podejrzana przesylka",
+    "checklista niebezpieczna przesylka",
+    "niebezpieczna przesylka checklista"
   ],
   "dokumenty_zrodlowe": [
     {
@@ -45,6 +53,11 @@
       "dokument_id": "doc-b21-przesylka",
       "strona": 1,
       "sekcja": "Procedura dla instytucji - Załącznik B.2.1"
+    },
+    {
+      "dokument_id": "doc-checklista-niebezpieczna-przesylka",
+      "strona": 1,
+      "sekcja": "Checklista - zadania dla pierwszych PSP i rozpoznanie przesyłki"
     }
   ]
 }

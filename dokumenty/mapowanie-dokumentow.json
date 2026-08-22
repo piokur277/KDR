@@ -270,37 +270,6 @@
     ]
   },
   {
-    "id": "KARTA-CHEM-ZAKRES-PODSTAWOWY-KDR",
-    "procedura": "Ratownictwo chemiczne i ekologiczne - pierwsze działania KDR w zakresie podstawowym (KSRG 2025).",
-    "miesiac_akademii": null,
-    "dokumenty_zrodlowe": [
-      {
-        "dokument_id": "doc-chem-eko-zasady-2025-online",
-        "strona": 9,
-        "sekcja": "Rozdziały 2, 5 i 6 - zakres podstawowy, organizacja działań oraz dekontaminacja (styczeń 2025)",
-        "tytul": "Zasady organizacji ratownictwa chemicznego i ekologicznego w krajowym systemie ratowniczo-gaśniczym",
-        "plik": "https://www.gov.pl/attachment/89034c06-f751-4b01-9f8c-683b80e34eb5",
-        "typ": "url"
-      },
-      {
-        "dokument_id": "doc-chem-eko-karta-graficzna-2025-online",
-        "strona": 2,
-        "sekcja": "Załącznik nr 11 - karta graficzna, zakres podstawowy",
-        "tytul": "Załącznik nr 11 - Karta graficzna SGRChem",
-        "plik": "https://www.gov.pl/attachment/01a80975-659b-4bcf-88d4-42c11189d7a1",
-        "typ": "url"
-      },
-      {
-        "dokument_id": "doc-chem-eko-material-szkoleniowy-user",
-        "strona": 4,
-        "sekcja": "Materiał szkoleniowy pomocniczy - starsze opracowanie; nie stanowi podstawy wartości liczbowych karty 2025",
-        "tytul": "Ratownictwo chemiczno-ekologiczne - materiał szkoleniowy pomocniczy",
-        "plik": "dokumenty/chem/zasady-chemia-material-szkoleniowy.pdf",
-        "typ": "pdf"
-      }
-    ]
-  },
-  {
     "id": "KARTA-CHEM-B1-ZAGROZENIE-BIOLOGICZNE-GR3-GR4",
     "procedura": "Zalacznik B1 - Zasady postepowania PSP przy podejrzeniu zagrozenia chorobami szczegolnie niebezpiecznymi i wysoce zakaznymi.",
     "miesiac_akademii": null,

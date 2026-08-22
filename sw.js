@@ -1,4 +1,4 @@
-const CACHE_NAME = "kdr-ai-v19-1-0-chem-zakres-podstawowy";
+const CACHE_NAME = "kdr-ai-v19-0-9-checklista-przesylka";
 
 const APP_SHELL = [
   "./",
