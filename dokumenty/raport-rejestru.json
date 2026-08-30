@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-22T15:51:05.932Z",
-  "registry_version": "2.4",
-  "document_count": 63,
-  "active_document_count": 63,
-  "linked_document_count": 63,
+  "generated_at": "2026-08-30T18:10:47.343Z",
+  "registry_version": "2.6",
+  "document_count": 68,
+  "active_document_count": 68,
+  "linked_document_count": 68,
   "unlinked_documents": [],
   "documents": [
     {
@@ -1355,6 +1355,76 @@
           "procedure_id": "KARTA-CHEM-B22-PODEJRZANA-PRZESYLKA-CBR",
           "strona": 1,
           "sekcja": "Checklista - zadania dla pierwszych PSP i rozpoznanie przesyłki"
+        }
+      ]
+    },
+    {
+      "id": "doc-chem-eko-zasady-2025-online",
+      "tytul": "Zasady organizacji ratownictwa chemicznego i ekologicznego w krajowym systemie ratowniczo-gaśniczym",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 43,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-CHEM-ZAKRES-PODSTAWOWY-KDR",
+          "strona": 9,
+          "sekcja": "Rozdziały 2, 5 i 6 - zakres podstawowy, organizacja działań oraz dekontaminacja (styczeń 2025)"
+        }
+      ]
+    },
+    {
+      "id": "doc-chem-eko-karta-graficzna-2025-online",
+      "tytul": "Załącznik nr 11 - Karta graficzna SGRChem",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 4,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-CHEM-ZAKRES-PODSTAWOWY-KDR",
+          "strona": 2,
+          "sekcja": "Załącznik nr 11 - karta graficzna, zakres podstawowy"
+        }
+      ]
+    },
+    {
+      "id": "doc-chem-eko-material-szkoleniowy-user",
+      "tytul": "Ratownictwo chemiczno-ekologiczne - materiał szkoleniowy pomocniczy",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 4,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-CHEM-ZAKRES-PODSTAWOWY-KDR",
+          "strona": 4,
+          "sekcja": "Materiał szkoleniowy pomocniczy - starsze opracowanie; nie stanowi podstawy wartości liczbowych karty 2025"
+        }
+      ]
+    },
+    {
+      "id": "doc-polon-alfa-rk-100-2-manual",
+      "tytul": "Radiometr RK-100-2 - Instrukcja obsługi IO-R120-001",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 51,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-SPRZET-POLON-ALFA-RK-100-2",
+          "strona": 11,
+          "sekcja": "Pełna instrukcja obsługi (51 stron): klawiatura, wyświetlacz, sonda zewnętrzna, alarmy, tryby pomiarowe, konserwacja"
+        }
+      ]
+    },
+    {
+      "id": "doc-polon-alfa-rk-100-2-product",
+      "tytul": "POLON-ALFA RK-100-2 - aktualna strona produktu",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 1,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-SPRZET-POLON-ALFA-RK-100-2",
+          "strona": 1,
+          "sekcja": "Aktualna strona producenta RK-100-2 i dane techniczne"
         }
       ]
     }

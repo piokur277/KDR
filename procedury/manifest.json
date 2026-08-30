@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-22T15:51:05.931Z",
-  "count": 113,
+  "generated_at": "2026-08-30T18:10:47.315Z",
+  "count": 115,
   "files": [
     "procedury/acetylen/karta-z1-butle-acetylen.json",
     "procedury/acetylen/karta-z2-butle-acetylen.json",
@@ -20,6 +20,7 @@
     "procedury/chem/karta-z3-lng-pozar-rozlewiska.json",
     "procedury/chem/karta-z4-lng-wyciek.json",
     "procedury/chem/karta-z5-lng-zawory.json",
+    "procedury/chem/ratownictwo-chemiczne-zakres-podstawowy-kdr.json",
     "procedury/chem/zalacznik-b1-zagrozenie-biologiczne-gr3-gr4.json",
     "procedury/chem/zalacznik-b22-podejrzana-przesylka-cbr.json",
     "procedury/chem/zalacznik-r1-ochrona-radiologiczna.json",
@@ -101,6 +102,7 @@
     "procedury/organizacja-dzialan/h2s.json",
     "procedury/organizacja-dzialan/hcn.json",
     "procedury/organizacja-dzialan/metodyka-organizacji-lacznosci-kdr.json",
+    "procedury/organizacja-dzialan/radiometr-polon-alfa-rk-100-2.json",
     "procedury/organizacja-dzialan/wytyczne-wspoldzialania-cbrne.json",
     "procedury/organizacja-dzialan/zasady-organizowania-dzialan-ratowniczych.json",
     "procedury/pozar-ev.json",

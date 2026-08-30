@@ -1,0 +1,17 @@
+{
+  "version": "v19.1.1 RK-100-2",
+  "new_procedure_id": "KARTA-SPRZET-POLON-ALFA-RK-100-2",
+  "new_procedure": "Radiometr POLON-ALFA RK-100-2 - obsługa, pomiar dawki i skażeń oraz interpretacja wskazań.",
+  "manufacturer": "POLON-ALFA",
+  "device": "RK-100-2",
+  "manual": "IO-R120-001, Edycja IV",
+  "manual_pages": 51,
+  "manufacturer_page": "https://polon-alfa.com/produkty/rk-10/",
+  "total_procedures": 115,
+  "total_registry_entries": 68,
+  "openai_worker_preserved": true,
+  "javascript_syntax": "OK",
+  "pdf_render_validation": "51/51 stron OK",
+  "safety_note": "Dodatku A instrukcji producenta nie przeniesiono do karty jako samodzielnych progów operacyjnych PSP; karta odsyła do R1/R2.",
+  "important_distinction": "Sonda zewnętrzna wskazuje s-1 lub Bq/cm2. Filtr gamma nie przelicza automatycznie wyniku na Sv/h."
+}

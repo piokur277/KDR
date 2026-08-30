@@ -640,6 +640,89 @@
     ]
   },
   {
+    "id": "KARTA-CHEM-ZAKRES-PODSTAWOWY-KDR",
+    "kategoria": "dzialania",
+    "zrodlo": "KG PSP: Zasady organizacji ratownictwa chemicznego i ekologicznego w KSRG, Warszawa, styczeń 2025 r.; Załącznik nr 11 - Karta graficzna SGRChem; ujednolicony program szkolenia doskonalącego z ratownictwa chemicznego i ekologicznego w zakresie podstawowym.",
+    "data_aktualizacji": "2025-01",
+    "slowo_kluczowe": "ratownictwo chemiczne zakres podstawowy",
+    "keywords": [
+      "zdarzenie chemiczne",
+      "ratownictwo chemiczno ekologiczne",
+      "pierwsze działania chemia",
+      "pierwsze działania kdr chemia",
+      "zakres podstawowy chemia",
+      "nieznana substancja",
+      "substancja niebezpieczna",
+      "wyciek chemiczny",
+      "rozlewisko chemiczne",
+      "opary nieznanej substancji",
+      "dziwny zapach",
+      "beczka z ostrym zapachem",
+      "strefa i gorąca",
+      "strefa ii chłodna",
+      "strefa zagrożenia chemicznego",
+      "dekontaminacja wstępna chemia",
+      "pomiary chemiczne",
+      "sg rchem",
+      "sgrchem",
+      "sgrchem eko",
+      "kurtyna wodna chemia",
+      "materiał niebezpieczny",
+      "hazmat"
+    ],
+    "prefix": "Ratownictwo chemiczne i ekologiczne - pierwsze działania KDR w zakresie podstawowym (KSRG 2025).",
+    "content": "1. KOD / NAZWA: ratownictwo chemiczne i ekologiczne - pierwsze działania KDR w zakresie podstawowym.\n2. PRIORYTET I GRANICE DZIAŁAŃ: priorytetem jest ratowanie życia i zdrowia. Zakres wykonywanych czynności zawsze dostosuj do wyszkolenia, kwalifikacji ratowników oraz posiadanego sprzętu. Nie podejmuj czynności specjalistycznych przekraczających realne możliwości zastępów.\n3. ROZPOZNANIE: zbieraj i analizuj informacje już w czasie dojazdu i po przybyciu. Ustal okoliczności zdarzenia, rodzaj środka transportu i jego oznakowanie ADR/RID, numery UN, dokumenty przewozowe, oznakowanie opakowań i zbiorników wg ADR/CLP, oznakowanie butli i rurociągów oraz objawy u osób narażonych. Nie opieraj decyzji na jednej przesłance; potwierdzaj rozpoznanie dostępnymi źródłami i pomiarami.\n4. STREFY: wyznacz i zabezpiecz strefę zagrożenia. Strefa I (gorąca) obejmuje m.in. obszar wstępnie nierozpoznany, zagrożony wybuchem, odłamkowaniem lub nagłym pożarem, obszar z niebezpiecznym stężeniem tlenu albo toksycznych gazów, par lub aerozoli, a także inne obszary wymagające dodatkowych ochron. Strefa II (chłodna) znajduje się poza strefą I i obejmuje również zaplecze logistyczne. Miejsce dekontaminacji organizuj na granicy stref I i II.\n5. MINIMALNY ZAKRES PODSTAWOWY: rozpoznaj i zabezpiecz miejsce zdarzenia; ewakuuj zagrożonych ludzi i zwierzęta poza strefę; ostrzegaj i informuj o zasadach zachowania; prowadź pomiary dostępnymi przyrządami; ograniczaj skutki emisji materiałów niebezpiecznych, w tym z użyciem kurtyn wodnych, oraz skutki wycieków substancji ropopochodnych; prowadź dekontaminację wstępną i KPP; współdziałaj z innymi podmiotami i wspieraj SGRChem.\n6. DEKONTAMINACJA WSTĘPNA: rozpocznij ją możliwie szybko, na granicy stref. Wobec osoby skażonej obejmuje ona ograniczenie skażenia odsłoniętych części ciała, usunięcie i zabezpieczenie skażonej odzieży oraz zastosowanie ubioru zastępczego. Kolejność działań wobec poszkodowanych: wyznaczenie strefy, ewakuacja ze strefy I do miejsca dekontaminacji, segregacja pierwotna, dekontaminacja, KPP i przekazanie zespołom medycznym.\n7. SGRChem I ORGANIZACJA: jeżeli zakres zdarzenia wymaga wsparcia specjalistycznego, zapewnij współdziałanie z SGRChem. Po jej przybyciu przekaż ocenę sytuacji i posiadaną dokumentację, zorganizuj przyjęcie sił i środków, łączność oraz zaplecze logistyczne zgodnie z organizacją działań przyjętą przez KDR.\n8. ZAKOŃCZENIE I PRZEKAZANIE: decyzję o zakończeniu działań podejmuje KDR po likwidacji bezpośredniego zagrożenia. Teren, obiekt lub mienie przekaż właściwemu właścicielowi, zarządcy, użytkownikowi albo uprawnionemu organowi zgodnie z obowiązującą dokumentacją KSRG.\n9. POWIĄZANE KARTY: jeżeli rozpoznasz konkretną substancję lub scenariusz, przejdź do karty szczegółowej, np. NH3/amoniak, HCl/chlorowodór, LNG, acetylen, MSA Altair 4X, podejrzana przesyłka albo procedury radiacyjne R1/R2.\n10. UWAGA: starszy materiał szkoleniowy dołączony do tej karty ma wyłącznie charakter pomocniczy. Wartości liczbowe stref, NDS/NDSCh i inne dane z tego materiału nie są podstawą niniejszej karty; pierwszeństwo mają aktualne Zasady KG PSP z 2025 r. oraz bieżące dane właściwe dla konkretnej substancji i zdarzenia.",
+    "tagi_wspolne": [
+      "ratownictwo chemiczne",
+      "ratownictwo ekologiczne",
+      "zakres podstawowy",
+      "zdarzenie chemiczne",
+      "substancja niebezpieczna",
+      "strefa zagrożenia",
+      "dekontaminacja wstępna",
+      "SGRChem"
+    ],
+    "aliasy": [
+      "chemia",
+      "zdarzenie chemiczne",
+      "ratownictwo chemiczno ekologiczne",
+      "pierwsze działania chemia",
+      "pierwsze działania kdr chemia",
+      "zakres podstawowy chemia",
+      "nieznana substancja",
+      "substancja niebezpieczna",
+      "wyciek chemiczny",
+      "rozlewisko chemiczne",
+      "opary nieznanej substancji",
+      "dziwny zapach",
+      "beczka z ostrym zapachem",
+      "strefa chemiczna",
+      "strefa zagrożenia chemicznego",
+      "dekontaminacja wstępna chemia",
+      "pomiary chemiczne",
+      "sgrchem",
+      "sgrchem eko",
+      "hazmat"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-chem-eko-zasady-2025-online",
+        "strona": 9,
+        "sekcja": "Rozdziały 2, 5 i 6 - zakres podstawowy, organizacja działań oraz dekontaminacja (styczeń 2025)"
+      },
+      {
+        "dokument_id": "doc-chem-eko-karta-graficzna-2025-online",
+        "strona": 2,
+        "sekcja": "Załącznik nr 11 - karta graficzna, zakres podstawowy"
+      },
+      {
+        "dokument_id": "doc-chem-eko-material-szkoleniowy-user",
+        "strona": 4,
+        "sekcja": "Materiał szkoleniowy pomocniczy - starsze opracowanie; nie stanowi podstawy wartości liczbowych karty 2025"
+      }
+    ]
+  },
+  {
     "id": "KARTA-CHEM-B1-ZAGROZENIE-BIOLOGICZNE-GR3-GR4",
     "kategoria": "dzialania",
     "zrodlo": "Zalacznik nr B.1. Zasady postepowania jednostek organizacyjnych PSP w przypadku podejrzenia zagrozenia chorobami szczegolnie niebezpiecznymi i wysoce zakaznymi",
@@ -3991,6 +4074,95 @@
         "dokument_id": "doc-lacznosc-kdr-2014",
         "strona": 1,
         "sekcja": "Materiał szkoleniowy dotyczący organizacji łączności"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-SPRZET-POLON-ALFA-RK-100-2",
+    "kategoria": "informacja",
+    "zrodlo": "POLON-ALFA: Radiometr RK-100-2, Instrukcja obsługi IO-R120-001, Edycja IV; aktualna strona producenta RK-100-2 zweryfikowana 2026-08-30.",
+    "data_aktualizacji": "2026-08-30",
+    "slowo_kluczowe": "radiometr rk 100 2",
+    "keywords": [
+      "polon rk 100",
+      "polon rk 100 2",
+      "polon-alfa rk-100-2",
+      "radiometr rk-100-2",
+      "dozymetr rk 100",
+      "dozymetr polon",
+      "miernik promieniowania polon",
+      "obsługa rk 100 2",
+      "instrukcja rk 100 2",
+      "sonda zewnętrzna rk 100",
+      "pomiar skażeń rk 100",
+      "pomiar mocy dawki rk 100",
+      "sv h rk 100",
+      "gy h rk 100",
+      "bq cm2 rk 100",
+      "imp s rk 100",
+      "alarm rk 100",
+      "próg rk 100",
+      "rnG rk 100",
+      "Err rk 100",
+      "BAT rk 100",
+      "pomiar 100 sekund rk 100",
+      "alfa beta gamma rk 100"
+    ],
+    "prefix": "Radiometr POLON-ALFA RK-100-2 - obsługa, pomiar dawki i skażeń oraz interpretacja wskazań.",
+    "content": "1. URZĄDZENIE I ZASTOSOWANIE: RK-100-2 jest przenośnym radiometrem. Sonda wewnętrzna służy do pomiaru mocy przestrzennego równoważnika dawki i równoważnika dawki (Sv/h, Sv) oraz mocy dawki pochłoniętej i dawki pochłoniętej (Gy/h, Gy) promieniowania X i gamma. Po podłączeniu sondy zewnętrznej przyrząd może służyć do oceny skażeń powierzchni alfa, beta i gamma.\n2. PRZED UŻYCIEM: sprawdź stan mechaniczny, baterie oraz ewentualną sondę zewnętrzną. Sondę zewnętrzną podłączaj i odłączaj wyłącznie przy wyłączonym radiometrze. Po włączeniu urządzenie wykonuje autotest; przez kilka sekund wyświetla wszystkie elementy ekranu i może pokazywać „---” do czasu uzyskania gotowego pomiaru.\n3. KLAWISZE: zasilanie - włączenie/wyłączenie; POMIAR - przełączanie wielkości pomiarowych; przycisk podświetlenia - podświetlenie ekranu i klawiatury; przycisk wyboru funkcji specjalnych - wybór PAMIĘĆ/PRÓG/sygnalizacja/IR; F - aktywacja/obsługa funkcji specjalnej; P - pomiar precyzyjny uśredniony w czasie 100 s.\n4. PODSTAWOWY POMIAR PROMIENIOWANIA: dla oceny mocy przestrzennego równoważnika dawki wybierz przyciskiem POMIAR jednostkę Sv/h. Odczyt jest realizowany przez detektory wewnętrzne i nie zależy od podłączenia sondy zewnętrznej. Zakres sondy wewnętrznej wynosi do 50 mSv/h. Dla mocy dawki pochłoniętej wybierz Gy/h; zakres do 50 mGy/h.\n5. DAWKA SKUMULOWANA: tryby Sv i Gy pokazują dawkę kumulowaną od chwili włączenia lub od skasowania poprzedniego cyklu. Jeżeli podczas pracy wystąpiło przekroczenie zakresu mocy dawki, symbol „E” przy dawce skumulowanej oznacza, że wynik może być zaniżony.\n6. POMIAR 100 s: przy niskich poziomach i dużym rozrzucie wskazań użyj przycisku P. Funkcja uśrednia pomiar przez 100 s i jest dostępna dla mocy dawki, mocy równoważnika dawki oraz pomiarów skażeń.\n7. SONDA ZEWNĘTRZNA - WAŻNE: wskazania z sondy zewnętrznej są prezentowane jako imp/s (s-1) albo Bq/cm2. Założenie filtru gamma nie powoduje automatycznego przeliczenia wskazania na Sv/h. Do pomiaru skażeń nie używaj filtru gamma.\n8. ROZRÓŻNIANIE SKŁADOWYCH SKAŻENIA: bez osłon sonda mierzy alfa+beta+gamma; z osłoną alfa mierzy beta+gamma; z osłoną beta mierzy zasadniczo gamma. Porównanie trzech pomiarów może pomóc ocenić dominujący rodzaj promieniowania.\n9. TRYBY SKAŻEŃ: pomiar względny wskazuje s-1. Przeliczenie na Bq/cm2 wymaga znajomości izotopu, biegu własnego i współczynnika czułości ze świadectwa sprawdzenia. Pomiar bezwzględny Bq/cm2 jest miarodajny tylko wtedy, gdy w pamięci urządzenia wprowadzono właściwy współczynnik dla danego izotopu. Tryb różnicowy odnosi wynik do zapamiętanego tła/poziomu odniesienia.\n10. SYMBOLE I KOMUNIKATY: P - aktywna sonda zewnętrzna; BAT - rozładowane baterie, po stałym zapaleniu wymień je; trójkąt ostrzegawczy - ostrzeżenie/błąd; „Er” po starcie - błąd kanału (0: Gy, 1: Sv, 2: sonda zewnętrzna); „Err” w trakcie pomiaru - błąd detektora; „rnG” - przekroczenie zakresu pomiarowego; „---” - brak sondy zewnętrznej albo pomiar jeszcze niegotowy; PAMIĘĆ - zapis/odczyt pomiaru; PRÓG - ustawienie progu alarmowego; IR - komunikacja podczerwienią; symbol uśredniania - pomiar 100 s; symbol różnicowy - pomiar względem poziomu odniesienia.\n11. ALARMY: przekroczenie wybranego progu uruchamia sygnalizację akustyczną, przy czym radiometr śledzi jednocześnie tylko jeden próg wybrany przez użytkownika. „rnG” oznacza przekroczenie zakresu urządzenia - nie traktuj takiego wskazania jako wartości liczbowej.\n12. OCHRONA SONDY: sonda powierzchniowa jest delikatna. Nie stawiaj jej bez osłon lub tylko z filtrem gamma na trawie, kamieniach ani ostrych powierzchniach. Po pracy przechowuj sondę zewnętrzną z założoną osłoną beta, która chroni ją mechanicznie.\n13. PO PRACY: po pomiarach i ewentualnym odkażeniu umieść radiometr w opakowaniu. Po pracy w wilgoci lub mrozie wytrzyj i osusz powierzchnie. Przy dłuższym magazynowaniu wyjmij baterie.\n14. UWAGA OPERACYJNA PSP: karta opisuje obsługę przyrządu, a nie wyznacza samodzielnie stref ani dopuszczalnego narażenia ratowników. Progi z dodatku A instrukcji producenta mają charakter nastaw urządzenia i nie zastępują aktualnych zasad ochrony radiologicznej oraz kart R1/R2 stosowanych w KSRG.",
+    "tagi_wspolne": [
+      "radiacja",
+      "radiometr",
+      "dozymetr",
+      "sprzęt pomiarowy",
+      "skażenie promieniotwórcze",
+      "moc dawki",
+      "Polon-Alfa"
+    ],
+    "aliasy": [
+      "polon rk 100",
+      "polon rk 100 2",
+      "polon-alfa rk-100-2",
+      "rk 100",
+      "rk-100",
+      "rk 100 2",
+      "rk-100-2",
+      "radiometr polon",
+      "dozymetr polon",
+      "dozymetr rk 100",
+      "miernik promieniowania polon",
+      "obsługa rk 100",
+      "obsługa rk 100 2",
+      "instrukcja rk 100 2",
+      "sonda rk 100",
+      "sonda zewnętrzna rk 100",
+      "pomiar skażeń rk 100",
+      "pomiar mocy dawki rk 100",
+      "pomiar promieniowania rk 100",
+      "alfa beta gamma rk 100",
+      "bq cm2 rk 100",
+      "sv h rk 100",
+      "gy h rk 100",
+      "rnG rk 100",
+      "Err rk 100",
+      "BAT rk 100",
+      "pomiar 100 s rk 100"
+    ],
+    "pelna_procedura": {
+      "tytul": "Instrukcja obsługi POLON-ALFA RK-100-2 - Edycja IV",
+      "plik": "dokumenty/urzadzenia/polon-alfa-rk-100-2-instrukcja-obslugi.pdf",
+      "strona": 11
+    },
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-polon-alfa-rk-100-2-manual",
+        "strona": 11,
+        "sekcja": "Pełna instrukcja obsługi (51 stron): klawiatura, wyświetlacz, sonda zewnętrzna, alarmy, tryby pomiarowe, konserwacja"
+      },
+      {
+        "dokument_id": "doc-polon-alfa-rk-100-2-product",
+        "strona": 1,
+        "sekcja": "Aktualna strona producenta RK-100-2 i dane techniczne"
       }
     ]
   },

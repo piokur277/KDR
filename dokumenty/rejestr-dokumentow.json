@@ -1,6 +1,6 @@
 {
-  "wersja_rejestru": "2.4",
-  "zaktualizowano": "2026-08-22",
+  "wersja_rejestru": "2.6",
+  "zaktualizowano": "2026-08-30",
   "dokumenty": {
     "doc-ev-szp-2023": {
       "tytul": "Standardowe zasady postępowania podczas zdarzeń z samochodami z napędem elektrycznym oraz hybrydowym",
@@ -802,6 +802,71 @@
       "liczba_stron": 2,
       "sha256": "6fd2362d4da8dd8143b7a8b95487cfcf2057410ce96b907924ff4cb4618d14eb",
       "uwagi": "Dwustronicowa checklista do działań przy niebezpiecznej/podejrzanej przesyłce. Strona 1 zawiera zadania dla pierwszych zastępów PSP, a strona 2 checklistę rozmowy, opisu przesyłki i poleceń dla osób mających kontakt z przesyłką. Dokument dodano bez zmiany treści."
+    },
+    "doc-chem-eko-zasady-2025-online": {
+      "tytul": "Zasady organizacji ratownictwa chemicznego i ekologicznego w krajowym systemie ratowniczo-gaśniczym",
+      "wersja": "Styczeń 2025",
+      "data_wydania": "2025-01",
+      "rodzaj": "Oficjalne Zasady KG PSP",
+      "plik": "https://www.gov.pl/attachment/89034c06-f751-4b01-9f8c-683b80e34eb5",
+      "typ": "url",
+      "id": "doc-chem-eko-zasady-2025-online",
+      "status_techniczny": "aktywny",
+      "aktualnosc_merytoryczna": "zweryfikowano_2026-08-22",
+      "liczba_stron": 43,
+      "uwagi": "Oficjalny dokument KG PSP. Główna podstawa nowej karty ratownictwa chemicznego i ekologicznego w zakresie podstawowym."
+    },
+    "doc-chem-eko-karta-graficzna-2025-online": {
+      "tytul": "Załącznik nr 11 - Karta graficzna SGRChem",
+      "wersja": "Stan na styczeń 2025",
+      "data_wydania": "2025-01",
+      "rodzaj": "Oficjalna karta graficzna KG PSP",
+      "plik": "https://www.gov.pl/attachment/01a80975-659b-4bcf-88d4-42c11189d7a1",
+      "typ": "url",
+      "id": "doc-chem-eko-karta-graficzna-2025-online",
+      "status_techniczny": "aktywny",
+      "aktualnosc_merytoryczna": "zweryfikowano_2026-08-22",
+      "liczba_stron": 4,
+      "uwagi": "Oficjalny skrót zakresu podstawowego oraz poziomów gotowości SGRChem-Eko."
+    },
+    "doc-chem-eko-material-szkoleniowy-user": {
+      "tytul": "Ratownictwo chemiczno-ekologiczne - materiał szkoleniowy pomocniczy",
+      "wersja": "Materiał przekazany przez użytkownika; data nieustalona",
+      "data_wydania": null,
+      "rodzaj": "Materiał szkoleniowy pomocniczy",
+      "plik": "dokumenty/chem/zasady-chemia-material-szkoleniowy.pdf",
+      "id": "doc-chem-eko-material-szkoleniowy-user",
+      "status_techniczny": "aktywny",
+      "aktualnosc_merytoryczna": "pomocniczy_nie_stanowi_podstawy_procedury_2025",
+      "liczba_stron": 4,
+      "sha256": "0cb4da7a6c54088eda22c8d1bd2b410f0ae21138f1979add27f672721bb0b248",
+      "uwagi": "Dokument zawiera starsze treści szkoleniowe, w tym wartości liczbowe dotyczące stref i parametrów. Nie użyto ich jako podstawy nowej karty. Pierwszeństwo mają Zasady KG PSP ze stycznia 2025 r."
+    },
+    "doc-polon-alfa-rk-100-2-manual": {
+      "tytul": "Radiometr RK-100-2 - Instrukcja obsługi IO-R120-001",
+      "wersja": "Edycja IV",
+      "data_wydania": null,
+      "rodzaj": "Instrukcja obsługi producenta",
+      "plik": "dokumenty/urzadzenia/polon-alfa-rk-100-2-instrukcja-obslugi.pdf",
+      "id": "doc-polon-alfa-rk-100-2-manual",
+      "status_techniczny": "aktywny",
+      "aktualnosc_merytoryczna": "instrukcja Edycja IV nadal udostępniana przez producenta na stronie RK-100-2",
+      "liczba_stron": 51,
+      "sha256": "97bd0b0a334bbbcb0627911b10caaca07c7a511cdd9353c14f208b4b718a8182",
+      "uwagi": "Instrukcja przekazana przez użytkownika. POLON-ALFA nadal udostępnia instrukcję IO-R120-001-IV dla RK-100-2. Karta urządzenia nie wykorzystuje Dodatku A jako samodzielnej podstawy do wyznaczania stref operacyjnych PSP."
+    },
+    "doc-polon-alfa-rk-100-2-product": {
+      "tytul": "POLON-ALFA RK-100-2 - aktualna strona produktu",
+      "wersja": "Stan zweryfikowany 2026-08-30",
+      "data_wydania": null,
+      "rodzaj": "Oficjalna strona producenta",
+      "plik": "https://polon-alfa.com/produkty/rk-10/",
+      "typ": "url",
+      "id": "doc-polon-alfa-rk-100-2-product",
+      "status_techniczny": "aktywny",
+      "aktualnosc_merytoryczna": "zweryfikowano_2026-08-30",
+      "liczba_stron": 1,
+      "uwagi": "Oficjalna strona POLON-ALFA potwierdza aktualną ofertę RK-100-2, przeznaczenie, zakresy pomiarowe i dostępność instrukcji IO-R120-001-IV.pdf."
     }
   }
 }

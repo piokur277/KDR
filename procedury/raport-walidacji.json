@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-22T15:51:05.931Z",
-  "procedure_count": 113,
-  "unique_direct_terms": 708,
-  "linked_procedure_count": 109,
-  "document_count": 63,
+  "generated_at": "2026-08-30T18:10:47.341Z",
+  "procedure_count": 115,
+  "unique_direct_terms": 757,
+  "linked_procedure_count": 111,
+  "document_count": 68,
   "shared_tags": [
     {
       "tag": "edukacja obywatelska",
@@ -542,6 +542,15 @@
       ]
     },
     {
+      "tag": "radiacja",
+      "count": 3,
+      "ids": [
+        "KARTA-CHEM-R1-OCHRONA-RADIOLOGICZNA",
+        "KARTA-CHEM-R2-ZDARZENIA-RADIACYJNE-ZAKRES-PODSTAWOWY",
+        "KARTA-SPRZET-POLON-ALFA-RK-100-2"
+      ]
+    },
+    {
       "tag": "rozpoznanie",
       "count": 3,
       "ids": [
@@ -592,14 +601,6 @@
       ]
     },
     {
-      "tag": "radiacja",
-      "count": 2,
-      "ids": [
-        "KARTA-CHEM-R1-OCHRONA-RADIOLOGICZNA",
-        "KARTA-CHEM-R2-ZDARZENIA-RADIACYJNE-ZAKRES-PODSTAWOWY"
-      ]
-    },
-    {
       "tag": "resuscytacja",
       "count": 2,
       "ids": [
@@ -629,6 +630,14 @@
       "ids": [
         "KARTA-OLIOC-GRUDZIEŃ-05-SZCZEGOLNE_POTRZEBY_ZAPASY",
         "KARTA-OLIOC-SIERPIEŃ-04-EWAKUACJA_SZCZEGOLNE_POTRZEBY"
+      ]
+    },
+    {
+      "tag": "strefa zagrozenia",
+      "count": 2,
+      "ids": [
+        "KARTA-BUD-STREFA-I-EWAKUACJA-KATASTROFA-BUDOWLANA",
+        "KARTA-CHEM-ZAKRES-PODSTAWOWY-KDR"
       ]
     },
     {

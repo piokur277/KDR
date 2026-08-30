@@ -1,0 +1,52 @@
+KDR ASYSTENT v19.1.1 RK-100-2
+
+DODANO
+- nową samodzielną kartę urządzenia:
+  „Radiometr POLON-ALFA RK-100-2 - obsługa, pomiar dawki i skażeń
+  oraz interpretacja wskazań”,
+- pełną 51-stronicową instrukcję IO-R120-001 Edycja IV,
+- oficjalną stronę produktu POLON-ALFA,
+- hasła i aliasy do wyszukiwania urządzenia.
+
+NAJWAŻNIEJSZE ELEMENTY KARTY
+- klawisze i symbole wyświetlacza,
+- Sv/h, Gy/h, Sv, Gy,
+- pomiar skażeń s-1 i Bq/cm2,
+- sonda zewnętrzna i osłony alfa/beta/gamma,
+- pomiar uśredniony 100 s,
+- BAT, Er/Err, rnG i „---”,
+- alarm progowy,
+- ochrona mechaniczna sondy,
+- konserwacja i magazynowanie.
+
+WAŻNE
+Sonda zewnętrzna pokazuje s-1 albo Bq/cm2.
+Założenie filtru gamma NIE przelicza automatycznie wyniku na Sv/h.
+
+Dodatku A instrukcji nie wykorzystano jako samodzielnej podstawy
+do wyznaczania stref operacyjnych PSP. W tym zakresie pozostają
+właściwe karty R1/R2 i aktualne zasady ochrony radiologicznej.
+
+HASŁA TESTOWE
+- polon rk 100
+- rk-100-2
+- dozymetr polon
+- radiometr polon
+- obsługa rk 100
+- pomiar skażeń rk 100
+- sonda zewnętrzna rk 100
+- rnG rk 100
+- BAT rk 100
+
+WDROŻENIE
+1. Rozpakuj paczkę „tylko zmiany”.
+2. Skopiuj całą zawartość do głównego katalogu repozytorium.
+3. Potwierdź zastąpienie istniejących plików.
+4. Wykonaj Commit i Push.
+5. Poczekaj na publikację GitHub Pages.
+6. Otwórz aplikację w karcie prywatnej.
+7. Sprawdź wersję: v19.1.1 RK-100-2.
+8. Wyszukaj „polon rk 100”.
+9. Otwórz kartę i sprawdź pełną instrukcję PDF.
+
+OpenAI + Cloudflare Worker pozostają bez zmian.

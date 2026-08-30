@@ -1,0 +1,89 @@
+{
+  "id": "KARTA-SPRZET-POLON-ALFA-RK-100-2",
+  "kategoria": "informacja",
+  "zrodlo": "POLON-ALFA: Radiometr RK-100-2, Instrukcja obsługi IO-R120-001, Edycja IV; aktualna strona producenta RK-100-2 zweryfikowana 2026-08-30.",
+  "data_aktualizacji": "2026-08-30",
+  "slowo_kluczowe": "radiometr rk 100 2",
+  "keywords": [
+    "polon rk 100",
+    "polon rk 100 2",
+    "polon-alfa rk-100-2",
+    "radiometr rk-100-2",
+    "dozymetr rk 100",
+    "dozymetr polon",
+    "miernik promieniowania polon",
+    "obsługa rk 100 2",
+    "instrukcja rk 100 2",
+    "sonda zewnętrzna rk 100",
+    "pomiar skażeń rk 100",
+    "pomiar mocy dawki rk 100",
+    "sv h rk 100",
+    "gy h rk 100",
+    "bq cm2 rk 100",
+    "imp s rk 100",
+    "alarm rk 100",
+    "próg rk 100",
+    "rnG rk 100",
+    "Err rk 100",
+    "BAT rk 100",
+    "pomiar 100 sekund rk 100",
+    "alfa beta gamma rk 100"
+  ],
+  "prefix": "Radiometr POLON-ALFA RK-100-2 - obsługa, pomiar dawki i skażeń oraz interpretacja wskazań.",
+  "content": "1. URZĄDZENIE I ZASTOSOWANIE: RK-100-2 jest przenośnym radiometrem. Sonda wewnętrzna służy do pomiaru mocy przestrzennego równoważnika dawki i równoważnika dawki (Sv/h, Sv) oraz mocy dawki pochłoniętej i dawki pochłoniętej (Gy/h, Gy) promieniowania X i gamma. Po podłączeniu sondy zewnętrznej przyrząd może służyć do oceny skażeń powierzchni alfa, beta i gamma.\n2. PRZED UŻYCIEM: sprawdź stan mechaniczny, baterie oraz ewentualną sondę zewnętrzną. Sondę zewnętrzną podłączaj i odłączaj wyłącznie przy wyłączonym radiometrze. Po włączeniu urządzenie wykonuje autotest; przez kilka sekund wyświetla wszystkie elementy ekranu i może pokazywać „---” do czasu uzyskania gotowego pomiaru.\n3. KLAWISZE: zasilanie - włączenie/wyłączenie; POMIAR - przełączanie wielkości pomiarowych; przycisk podświetlenia - podświetlenie ekranu i klawiatury; przycisk wyboru funkcji specjalnych - wybór PAMIĘĆ/PRÓG/sygnalizacja/IR; F - aktywacja/obsługa funkcji specjalnej; P - pomiar precyzyjny uśredniony w czasie 100 s.\n4. PODSTAWOWY POMIAR PROMIENIOWANIA: dla oceny mocy przestrzennego równoważnika dawki wybierz przyciskiem POMIAR jednostkę Sv/h. Odczyt jest realizowany przez detektory wewnętrzne i nie zależy od podłączenia sondy zewnętrznej. Zakres sondy wewnętrznej wynosi do 50 mSv/h. Dla mocy dawki pochłoniętej wybierz Gy/h; zakres do 50 mGy/h.\n5. DAWKA SKUMULOWANA: tryby Sv i Gy pokazują dawkę kumulowaną od chwili włączenia lub od skasowania poprzedniego cyklu. Jeżeli podczas pracy wystąpiło przekroczenie zakresu mocy dawki, symbol „E” przy dawce skumulowanej oznacza, że wynik może być zaniżony.\n6. POMIAR 100 s: przy niskich poziomach i dużym rozrzucie wskazań użyj przycisku P. Funkcja uśrednia pomiar przez 100 s i jest dostępna dla mocy dawki, mocy równoważnika dawki oraz pomiarów skażeń.\n7. SONDA ZEWNĘTRZNA - WAŻNE: wskazania z sondy zewnętrznej są prezentowane jako imp/s (s-1) albo Bq/cm2. Założenie filtru gamma nie powoduje automatycznego przeliczenia wskazania na Sv/h. Do pomiaru skażeń nie używaj filtru gamma.\n8. ROZRÓŻNIANIE SKŁADOWYCH SKAŻENIA: bez osłon sonda mierzy alfa+beta+gamma; z osłoną alfa mierzy beta+gamma; z osłoną beta mierzy zasadniczo gamma. Porównanie trzech pomiarów może pomóc ocenić dominujący rodzaj promieniowania.\n9. TRYBY SKAŻEŃ: pomiar względny wskazuje s-1. Przeliczenie na Bq/cm2 wymaga znajomości izotopu, biegu własnego i współczynnika czułości ze świadectwa sprawdzenia. Pomiar bezwzględny Bq/cm2 jest miarodajny tylko wtedy, gdy w pamięci urządzenia wprowadzono właściwy współczynnik dla danego izotopu. Tryb różnicowy odnosi wynik do zapamiętanego tła/poziomu odniesienia.\n10. SYMBOLE I KOMUNIKATY: P - aktywna sonda zewnętrzna; BAT - rozładowane baterie, po stałym zapaleniu wymień je; trójkąt ostrzegawczy - ostrzeżenie/błąd; „Er” po starcie - błąd kanału (0: Gy, 1: Sv, 2: sonda zewnętrzna); „Err” w trakcie pomiaru - błąd detektora; „rnG” - przekroczenie zakresu pomiarowego; „---” - brak sondy zewnętrznej albo pomiar jeszcze niegotowy; PAMIĘĆ - zapis/odczyt pomiaru; PRÓG - ustawienie progu alarmowego; IR - komunikacja podczerwienią; symbol uśredniania - pomiar 100 s; symbol różnicowy - pomiar względem poziomu odniesienia.\n11. ALARMY: przekroczenie wybranego progu uruchamia sygnalizację akustyczną, przy czym radiometr śledzi jednocześnie tylko jeden próg wybrany przez użytkownika. „rnG” oznacza przekroczenie zakresu urządzenia - nie traktuj takiego wskazania jako wartości liczbowej.\n12. OCHRONA SONDY: sonda powierzchniowa jest delikatna. Nie stawiaj jej bez osłon lub tylko z filtrem gamma na trawie, kamieniach ani ostrych powierzchniach. Po pracy przechowuj sondę zewnętrzną z założoną osłoną beta, która chroni ją mechanicznie.\n13. PO PRACY: po pomiarach i ewentualnym odkażeniu umieść radiometr w opakowaniu. Po pracy w wilgoci lub mrozie wytrzyj i osusz powierzchnie. Przy dłuższym magazynowaniu wyjmij baterie.\n14. UWAGA OPERACYJNA PSP: karta opisuje obsługę przyrządu, a nie wyznacza samodzielnie stref ani dopuszczalnego narażenia ratowników. Progi z dodatku A instrukcji producenta mają charakter nastaw urządzenia i nie zastępują aktualnych zasad ochrony radiologicznej oraz kart R1/R2 stosowanych w KSRG.",
+  "tagi_wspolne": [
+    "radiacja",
+    "radiometr",
+    "dozymetr",
+    "sprzęt pomiarowy",
+    "skażenie promieniotwórcze",
+    "moc dawki",
+    "Polon-Alfa"
+  ],
+  "aliasy": [
+    "polon rk 100",
+    "polon rk 100 2",
+    "polon-alfa rk-100-2",
+    "rk 100",
+    "rk-100",
+    "rk 100 2",
+    "rk-100-2",
+    "radiometr polon",
+    "dozymetr polon",
+    "dozymetr rk 100",
+    "miernik promieniowania polon",
+    "obsługa rk 100",
+    "obsługa rk 100 2",
+    "instrukcja rk 100 2",
+    "sonda rk 100",
+    "sonda zewnętrzna rk 100",
+    "pomiar skażeń rk 100",
+    "pomiar mocy dawki rk 100",
+    "pomiar promieniowania rk 100",
+    "alfa beta gamma rk 100",
+    "bq cm2 rk 100",
+    "sv h rk 100",
+    "gy h rk 100",
+    "rnG rk 100",
+    "Err rk 100",
+    "BAT rk 100",
+    "pomiar 100 s rk 100"
+  ],
+  "pelna_procedura": {
+    "tytul": "Instrukcja obsługi POLON-ALFA RK-100-2 - Edycja IV",
+    "plik": "dokumenty/urzadzenia/polon-alfa-rk-100-2-instrukcja-obslugi.pdf",
+    "strona": 11
+  },
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-polon-alfa-rk-100-2-manual",
+      "strona": 11,
+      "sekcja": "Pełna instrukcja obsługi (51 stron): klawiatura, wyświetlacz, sonda zewnętrzna, alarmy, tryby pomiarowe, konserwacja"
+    },
+    {
+      "dokument_id": "doc-polon-alfa-rk-100-2-product",
+      "strona": 1,
+      "sekcja": "Aktualna strona producenta RK-100-2 i dane techniczne"
+    }
+  ]
+}
