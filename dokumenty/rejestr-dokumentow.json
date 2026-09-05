@@ -1,6 +1,6 @@
 {
-  "wersja_rejestru": "2.6",
-  "zaktualizowano": "2026-08-30",
+  "wersja_rejestru": "2.7",
+  "zaktualizowano": "2026-09-05",
   "dokumenty": {
     "doc-ev-szp-2023": {
       "tytul": "Standardowe zasady postępowania podczas zdarzeń z samochodami z napędem elektrycznym oraz hybrydowym",
@@ -867,6 +867,32 @@
       "aktualnosc_merytoryczna": "zweryfikowano_2026-08-30",
       "liczba_stron": 1,
       "uwagi": "Oficjalna strona POLON-ALFA potwierdza aktualną ofertę RK-100-2, przeznaczenie, zakresy pomiarowe i dostępność instrukcji IO-R120-001-IV.pdf."
+    },
+    "doc-pse-bezpieczenstwo-dzialan-nn-2026": {
+      "tytul": "Bezpieczeństwo prowadzenia działań ratowniczo-gaśniczych na stacjach i w pobliżu linii elektroenergetycznych najwyższych napięć",
+      "wersja": "31.08.2026",
+      "data_wydania": "2026-08-31",
+      "rodzaj": "Materiał szkoleniowy PSE dla PSP",
+      "plik": "dokumenty/elektryka/pse-bezpieczenstwo-dzialan-nn-2026.pdf",
+      "id": "doc-pse-bezpieczenstwo-dzialan-nn-2026",
+      "status_techniczny": "aktywny",
+      "aktualnosc_merytoryczna": "źródło_podstawowe_2026",
+      "liczba_stron": 31,
+      "sha256": "05f523dcd5026145423fe9f04e6af3e0de2df653cde0986ae9779b4bf625bfe9",
+      "uwagi": "Źródło podstawowe nowej procedury. Obejmuje stacje i linie PSE 220/400 kV, zagrożenia, organizację strefy działań, pozbawienie napięcia, warunki bezpieczeństwa i komunikację CN/RCN."
+    },
+    "doc-zagrozenia-elektryczne-krakow-2014": {
+      "tytul": "Zagrożenia elektryczne - Kraków 2014",
+      "wersja": "2014",
+      "data_wydania": "2014",
+      "rodzaj": "Materiał szkoleniowy pomocniczy",
+      "plik": "dokumenty/elektryka/zagrozenia-elektryczne-krakow-2014.pdf",
+      "id": "doc-zagrozenia-elektryczne-krakow-2014",
+      "status_techniczny": "aktywny",
+      "aktualnosc_merytoryczna": "pomocniczy_do_pojec_nie_stanowi_podstawy_kryteriow_operacyjnych",
+      "liczba_stron": 21,
+      "sha256": "1cbf1b4718a6864ba1e6a3ae13607dbc92a5f721f40299126e0183614b3d0a7e",
+      "uwagi": "Starszy materiał wykorzystany wyłącznie do objaśnienia zagrożeń elektrycznych, napięcia krokowego/dotykowego i łuku elektrycznego. Nie użyto dawnych wartości napięć bezpiecznych jako kryteriów operacyjnych."
     }
   }
 }

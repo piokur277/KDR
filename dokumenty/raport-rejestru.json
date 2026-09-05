@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-30T18:10:47.343Z",
-  "registry_version": "2.6",
-  "document_count": 68,
-  "active_document_count": 68,
-  "linked_document_count": 68,
+  "generated_at": "2026-09-05T12:40:43.930Z",
+  "registry_version": "2.7",
+  "document_count": 70,
+  "active_document_count": 70,
+  "linked_document_count": 70,
   "unlinked_documents": [],
   "documents": [
     {
@@ -1425,6 +1425,34 @@
           "procedure_id": "KARTA-SPRZET-POLON-ALFA-RK-100-2",
           "strona": 1,
           "sekcja": "Aktualna strona producenta RK-100-2 i dane techniczne"
+        }
+      ]
+    },
+    {
+      "id": "doc-pse-bezpieczenstwo-dzialan-nn-2026",
+      "tytul": "Bezpieczeństwo prowadzenia działań ratowniczo-gaśniczych na stacjach i w pobliżu linii elektroenergetycznych najwyższych napięć",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 31,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-EL-PSE-LINIE-STACJE-NN",
+          "strona": 18,
+          "sekcja": "Źródło podstawowe: zagrożenia, organizacja strefy działań, warunki bezpieczeństwa, kontakt CN/RCN"
+        }
+      ]
+    },
+    {
+      "id": "doc-zagrozenia-elektryczne-krakow-2014",
+      "tytul": "Zagrożenia elektryczne - Kraków 2014",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 21,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-EL-PSE-LINIE-STACJE-NN",
+          "strona": 10,
+          "sekcja": "Materiał pomocniczy: napięcie dotykowe i krokowe, skutki porażenia, łuk elektryczny"
         }
       ]
     }

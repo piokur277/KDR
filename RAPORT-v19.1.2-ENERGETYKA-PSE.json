@@ -1,0 +1,24 @@
+{
+  "version": "v19.1.2 ENERGETYKA PSE",
+  "new_procedure_id": "KARTA-EL-PSE-LINIE-STACJE-NN",
+  "new_procedure": "Linie i stacje elektroenergetyczne najwyższych napięć (PSE) - bezpieczne działania PSP.",
+  "primary_source": "PSE, 31.08.2026",
+  "supplementary_source": "Zagrożenia elektryczne, Kraków 2014",
+  "primary_source_pages": 31,
+  "supplementary_source_pages": 21,
+  "total_procedures": 116,
+  "total_registry_entries": 70,
+  "openai_worker_preserved": true,
+  "javascript_syntax": "OK",
+  "pdf_render_validation": "PSE 31/31, Elektryka 2014 21/21",
+  "operational_core": [
+    "traktowanie linii jako czynnej do czasu potwierdzenia PSE",
+    "30 m bez uzgodnienia z RCN",
+    "zakaz wprowadzania sprzętu i strumienia gaśniczego do strefy",
+    "wyłączenie + odłączenie + uziemienie",
+    "SPZ",
+    "napięcie krokowe",
+    "zagrożenia: łuk, eksplozja aparatury, olej, produkty rozpadu SF6"
+  ],
+  "important_note": "Materiał 2014 pozostaje pomocniczy i nie jest źródłem kryteriów operacyjnych nowej procedury."
+}

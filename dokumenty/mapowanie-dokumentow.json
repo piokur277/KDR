@@ -1876,6 +1876,29 @@
     ]
   },
   {
+    "id": "KARTA-EL-PSE-LINIE-STACJE-NN",
+    "procedura": "Linie i stacje elektroenergetyczne najwyższych napięć (PSE) - bezpieczne działania PSP.",
+    "miesiac_akademii": null,
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-pse-bezpieczenstwo-dzialan-nn-2026",
+        "strona": 18,
+        "sekcja": "Źródło podstawowe: zagrożenia, organizacja strefy działań, warunki bezpieczeństwa, kontakt CN/RCN",
+        "tytul": "Bezpieczeństwo prowadzenia działań ratowniczo-gaśniczych na stacjach i w pobliżu linii elektroenergetycznych najwyższych napięć",
+        "plik": "dokumenty/elektryka/pse-bezpieczenstwo-dzialan-nn-2026.pdf",
+        "typ": "pdf"
+      },
+      {
+        "dokument_id": "doc-zagrozenia-elektryczne-krakow-2014",
+        "strona": 10,
+        "sekcja": "Materiał pomocniczy: napięcie dotykowe i krokowe, skutki porażenia, łuk elektryczny",
+        "tytul": "Zagrożenia elektryczne - Kraków 2014",
+        "plik": "dokumenty/elektryka/zagrozenia-elektryczne-krakow-2014.pdf",
+        "typ": "pdf"
+      }
+    ]
+  },
+  {
     "id": "KARTA-ORG-METODYKA-ORGANIZACJI-LACZNOSCI-KDR",
     "procedura": "Metodyka organizacji lacznosci na potrzeby KDR - karta organizacyjna lacznosci.",
     "miesiac_akademii": null,
