@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-25T18:27:09.877Z",
+  "generated_at": "2026-10-25T19:14:19.067Z",
   "registry_version": "2.7",
-  "document_count": 78,
-  "active_document_count": 78,
-  "linked_document_count": 78,
+  "document_count": 79,
+  "active_document_count": 79,
+  "linked_document_count": 79,
   "unlinked_documents": [],
   "documents": [
     {
@@ -50,17 +50,17 @@
         {
           "procedure_id": "KARTA-PTASIA-GRYPA-INFORMACJE-I-ZASADY",
           "strona": 2,
-          "sekcja": "Informacje i zasady bezpiecznej pracy"
+          "sekcja": "GIS MSWiA 2017 — zasady PSP, BIOHAZARD (s. 2–3)"
         },
         {
           "procedure_id": "KARTA-PTASIA-GRYPA-NADZOR-EPIDEMIOLOGICZNY",
           "strona": 4,
-          "sekcja": "Nadzór epidemiologiczny po narażeniu"
+          "sekcja": "GIS MSWiA 2017 — nadzór epidemiologiczny (s. 4)"
         },
         {
           "procedure_id": "KARTA-PTASIA-GRYPA-SOI-I-DEKONTAMINACJA",
           "strona": 3,
-          "sekcja": "Środki ochrony indywidualnej i dekontaminacja"
+          "sekcja": "GIS MSWiA 2017 — dekontaminacja i środki dezynfekcyjne (s. 3–4)"
         }
       ]
     },
@@ -1580,6 +1580,30 @@
           "procedure_id": "KARTA-ZA-POSTEPOWANIE",
           "strona": 1,
           "sekcja": "Zał. 3 — częstotliwość"
+        }
+      ]
+    },
+    {
+      "id": "doc-hpai-gis-2025",
+      "tytul": "Wspólne zalecenia GIS, GLW, IMP i CIOP-PIB na temat ochrony osób zawodowo narażonych na kontakt z wysoce zjadliwymi wirusami grypy ptaków",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 6,
+      "liczba_powiazan": 3,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-PTASIA-GRYPA-INFORMACJE-I-ZASADY",
+          "strona": 1,
+          "sekcja": "GIS 2025 — ryzyko, osoby narażone, higiena (s. 1–2), szczepienia (s. 5)"
+        },
+        {
+          "procedure_id": "KARTA-PTASIA-GRYPA-NADZOR-EPIDEMIOLOGICZNY",
+          "strona": 5,
+          "sekcja": "GIS 2025 — obserwacja objawów (s. 5)"
+        },
+        {
+          "procedure_id": "KARTA-PTASIA-GRYPA-SOI-I-DEKONTAMINACJA",
+          "strona": 3,
+          "sekcja": "GIS 2025 — środki ochrony (s. 3–4), zdejmowanie i postępowanie (s. 5)"
         }
       ]
     }

@@ -4563,9 +4563,10 @@
   },
   {
     "id": "KARTA-PTASIA-GRYPA-INFORMACJE-I-ZASADY",
+    "wzorzec": 2,
     "kategoria": "dzialania",
-    "zrodlo": "Wytyczne Glownego Inspektora Sanitarnego MSWiA w sprawie zjadliwej grypy ptakow typu A H5N8 dla sluzb podleglych MSWiA udzielajacych wsparcia Inspekcji Weterynaryjnej",
-    "data_aktualizacji": "2017-01-04",
+    "zrodlo": "Wspólne zalecenia GIS, GLW, IMP i CIOP-PIB z 15.04.2025 (ochrona osób narażonych na HPAI); Wytyczne GIS MSWiA dla służb MSWiA, wersja II z 04.01.2017 (zasady PSP)",
+    "data_aktualizacji": "2026-10-25",
     "slowo_kluczowe": "ptasia grypa informacje i zasady",
     "keywords": [
       "ptasia grypa informacje",
@@ -4577,14 +4578,6 @@
       "grypa ptakow mswia",
       "wsparcie inspekcji weterynaryjnej"
     ],
-    "prefix": "Ptasia grypa H5N8 - podstawowe informacje i zasady bezpiecznej pracy/sluzby.",
-    "content": "1. KOD / NAZWA: wytyczne dotyczace zjadliwej grypy ptakow typu A(H5N8) dla sluzb podleglych MSWiA udzielajacych wsparcia Inspekcji Weterynaryjnej.\n2. INFORMACJE O RYZYKU: wedlug przywolanej w dokumencie oceny ECDC ryzyko przeniesienia wirusa H5N8 na czlowieka w krajach UE jest bardzo niskie. Nie stwierdzono dotychczas przypadkow zakazen u ludzi, jednak nie mozna wyluczyc mozliwosci zakazenia.\n3. SZCZEGOLNA OSTRZONOSC: funkcjonariusze bioracy udzial w czynnosciach majacych na celu ograniczenie szerzenia sie wirusa powinni zachowac szczegolna ostroznosc i stosowac wlasciwe srodki ochrony osobistej, ze szczegolnym uwzglednieniem ochrony ukladu oddechowego.\n4. OGRANICZENIA PERSONALNE: do udzialu w dzialaniach nie moga byc kierowani funkcjonariusze, u ktorych wystepuje goraczka i lub objawy infekcji gornych drog oddechowych, takie jak bol gardla, kaszel, uczucie zatkania nosa i wyciek wydzieliny z nosa, oraz lub bole miesni. Kazdy funkcjonariusz kierowany do dzialan powinien byc poinformowany o koniecznosci zgloszenia przelozonemu takich objawow.\n5. SZCZEPIENIE: w dokumencie rekomenduje sie, aby wszyscy funkcjonariusze wyznaczeni do realizacji zadan zwiazanych z grypa ptakow typu A(H5N8) zostali uodpornieni czynnie poprzez szczepienie przeciwko grypie sezonowej.\n6. ZASADY OGOLNE: bez wzgledu na rodzaj wykonywanych czynnosci podstawowym warunkiem minimalizacji ryzyka zakazenia jest czeste i dokladne mycie rak, wystrzeganie sie dotykania rekami twarzy, ust, nosa i oczu, a po umyciu rak lub przy braku mozliwosci ich umycia - stosowanie alkoholowych produktow do odkazania.\n7. UWAGI OPERACYJNE: w przypadku wsparcia Inspekcji Weterynaryjnej przez PSP dokument wskazuje stosowanie zasad opracowanych wspolnie z Glownym Inspektorem Sanitarnym MSW i wprowadzonych do stosowania przez Komendanta Glownego PSP w dniu 14 stycznia 2015 r. jako zasady BIOHAZARD.",
-    "tagi_wspolne": [
-      "ptasia grypa",
-      "h5n8",
-      "informacje",
-      "zasady bezpieczenstwa"
-    ],
     "aliasy": [
       "ptasia grypa informacje",
       "ptasia grypa zasady bezpieczenstwa",
@@ -4595,19 +4588,120 @@
       "grypa ptakow mswia",
       "wsparcie inspekcji weterynaryjnej"
     ],
+    "prefix": "Grypa ptaków (HPAI) — ryzyko, kogo nie kierować do działań, zasady higieny (GIS 2025; zasady PSP z wytycznych GIS MSWiA 2017).",
+    "najpierw": [
+      {
+        "t": "Nie kieruj do działań strażaków z gorączką, objawami infekcji dróg oddechowych lub bólami mięśni.",
+        "zr": "GIS MSWiA 2017",
+        "str": 2
+      },
+      {
+        "t": "Poinformuj każdego kierowanego do ogniska, że objawy musi zgłosić przełożonemu.",
+        "zr": "GIS MSWiA 2017",
+        "str": 2
+      },
+      {
+        "t": "Przy wsparciu Inspekcji Weterynaryjnej stosuj zasady PSP „BIOHAZARD” (KG PSP, 14.01.2015).",
+        "zr": "GIS MSWiA 2017",
+        "str": 2
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Ryzyko — populacja ogólna",
+        "wartosc": "niskie",
+        "zr": "GIS 2025",
+        "str": 1
+      },
+      {
+        "nazwa": "Ryzyko — kontakt z chorymi lub martwymi zwierzętami",
+        "wartosc": "niskie do umiarkowanego",
+        "zr": "GIS 2025",
+        "str": 1
+      },
+      {
+        "nazwa": "Zakażenie przez",
+        "wartosc": "kontakt ze zwierzętami, wydalinami i skażonymi powierzchniami, bioaerozol",
+        "zr": "GIS 2025",
+        "str": 2
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Higiena",
+        "punkty": [
+          {
+            "t": "Często i dokładnie myj ręce; nie dotykaj oczu, ust i nosa.",
+            "zr": "GIS 2025",
+            "str": 2
+          },
+          {
+            "t": "Środek do dezynfekcji rąk: co najmniej 60% alkoholu.",
+            "zr": "GIS 2025",
+            "str": 2
+          },
+          {
+            "t": "Odzież robocza oddzielnie od prywatnej; nie wchodź w zabrudzonej odzieży do pomieszczeń socjalnych.",
+            "zr": "GIS 2025",
+            "str": 2
+          },
+          {
+            "t": "Nie przechowuj jedzenia, telefonu ani rzeczy osobistych w miejscach potencjalnie skażonych.",
+            "zr": "GIS 2025",
+            "str": 2
+          }
+        ]
+      },
+      {
+        "etykieta": "Kto jest narażony",
+        "punkty": [
+          {
+            "t": "M.in. służby podejmujące martwe dzikie ptaki ze zbiorników wodnych oraz służby zwalczające ogniska grypy ptaków.",
+            "zr": "GIS 2025",
+            "str": 1
+          },
+          {
+            "t": "Ryzyko zależy od rodzaju i czasu narażenia oraz konsekwentnego stosowania środków ochrony indywidualnej.",
+            "zr": "GIS 2025",
+            "str": 1
+          }
+        ]
+      }
+    ],
+    "wsparcie": [
+      {
+        "t": "Szczepienie przeciw grypie sezonowej — zalecane dla osób narażonych; zmniejsza ryzyko ciężkiego przebiegu i reasortacji wirusów.",
+        "zr": "GIS 2025",
+        "str": 5
+      }
+    ],
+    "tagi_wspolne": [
+      "ptasia grypa",
+      "h5n8",
+      "informacje",
+      "zasady bezpieczenstwa"
+    ],
     "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-hpai-gis-2025",
+        "strona": 1,
+        "sekcja": "GIS 2025 — ryzyko, osoby narażone, higiena (s. 1–2), szczepienia (s. 5)"
+      },
       {
         "dokument_id": "doc-ptasia-grypa-h5n8",
         "strona": 2,
-        "sekcja": "Informacje i zasady bezpiecznej pracy"
+        "sekcja": "GIS MSWiA 2017 — zasady PSP, BIOHAZARD (s. 2–3)"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-25",
+    "content": "1. NAJPIERW: Nie kieruj do działań strażaków z gorączką, objawami infekcji dróg oddechowych lub bólami mięśni. Poinformuj każdego kierowanego do ogniska, że objawy musi zgłosić przełożonemu. Przy wsparciu Inspekcji Weterynaryjnej stosuj zasady PSP „BIOHAZARD” (KG PSP, 14.01.2015).\n2. PARAMETRY: Ryzyko — populacja ogólna — niskie; Ryzyko — kontakt z chorymi lub martwymi zwierzętami — niskie do umiarkowanego; Zakażenie przez — kontakt ze zwierzętami, wydalinami i skażonymi powierzchniami, bioaerozol\n3. HIGIENA: Często i dokładnie myj ręce; nie dotykaj oczu, ust i nosa. Środek do dezynfekcji rąk: co najmniej 60% alkoholu. Odzież robocza oddzielnie od prywatnej; nie wchodź w zabrudzonej odzieży do pomieszczeń socjalnych. Nie przechowuj jedzenia, telefonu ani rzeczy osobistych w miejscach potencjalnie skażonych.\n4. KTO JEST NARAŻONY: M.in. służby podejmujące martwe dzikie ptaki ze zbiorników wodnych oraz służby zwalczające ogniska grypy ptaków. Ryzyko zależy od rodzaju i czasu narażenia oraz konsekwentnego stosowania środków ochrony indywidualnej.\n5. WEZWIJ WSPARCIE, GDY: Szczepienie przeciw grypie sezonowej — zalecane dla osób narażonych; zmniejsza ryzyko ciężkiego przebiegu i reasortacji wirusów."
   },
   {
     "id": "KARTA-PTASIA-GRYPA-NADZOR-EPIDEMIOLOGICZNY",
+    "wzorzec": 2,
     "kategoria": "dzialania",
-    "zrodlo": "Wytyczne Glownego Inspektora Sanitarnego MSWiA w sprawie zjadliwej grypy ptakow typu A H5N8 dla sluzb podleglych MSWiA udzielajacych wsparcia Inspekcji Weterynaryjnej",
-    "data_aktualizacji": "2017-01-04",
+    "zrodlo": "Wspólne zalecenia GIS, GLW, IMP i CIOP-PIB z 15.04.2025 (ochrona osób narażonych na HPAI); Wytyczne GIS MSWiA dla służb MSWiA, wersja II z 04.01.2017 (zasady PSP)",
+    "data_aktualizacji": "2026-10-25",
     "slowo_kluczowe": "nadzor epidemiologiczny ptasia grypa",
     "keywords": [
       "ptasia grypa nadzor",
@@ -4623,14 +4717,6 @@
       "objawy po kontakcie z ptasia grypa",
       "postepowanie po narazeniu h5n8"
     ],
-    "prefix": "Ptasia grypa H5N8 - nadzor epidemiologiczny po bezposrednim narazeniu.",
-    "content": "1. KOD / NAZWA: H5N8 - nadzor epidemiologiczny po bezposrednim narazeniu na kontakt z ptactwem zakazonym badz podejrzanym o zakazenie.\n2. OBJECIE NADZOREM: funkcjonariusze, ktorzy zostana bezposrednio narazeni na kontakt z ptactwem zakazonym badz podejrzanym o zakazenie wirusem grypy typu A(H5N8), powinni byc objeci nadzorem epidemiologicznym.\n3. LISTA NARAZONYCH: nalezy sporzadzic liste funkcjonariuszy z dnia podjecia dzialan zwiazanych ze zwalczaniem ogniska grypy ptakow H5N8. Lista powinna zawierac imie i nazwisko, adres zamieszkania, nazwe jednostki PSP oraz status szczepienia przeciw grypie w sezonie 2016/2017.\n4. PRZEKAZANIE INFORMACJI: lista powinna zostac przekazana przez Komendanta Powiatowego lub Komendanta Miejskiego do Panstwowego Inspektora Sanitarnego MSWiA na obszarze wojewodztwa w terminie do 2 dni po wystapieniu narazenia, czyli dzialan w ognisku.\n5. OBSERWACJA STANU ZDROWIA: funkcjonariusze objeci nadzorem epidemiologicznym powinni monitorowac stan swojego zdrowia przez 10 dni pod katem wystapienia objawow zakazenia.\n6. OBJAWY ALARMOWE: w przypadku wystapienia objawow chorobowych, takich jak podwyzszenie temperatury ciala do 38 C lub powyzej, kaszel, bole miesni, stawow, bol gardla lub katar, funkcjonariusz musi zglosic sie do lekarza i poinformowac o tym Panstwowego Inspektora Sanitarnego MSWiA na obszarze wojewodztwa.\n7. UWAGI OPERACYJNE: karta dotyczy tylko osob bezposrednio narazonych podczas dzialan w ognisku grypy ptakow H5N8.",
-    "tagi_wspolne": [
-      "ptasia grypa",
-      "h5n8",
-      "nadzor epidemiologiczny",
-      "narazenie"
-    ],
     "aliasy": [
       "ptasia grypa nadzor",
       "ptasia grypa ekspozycja",
@@ -4645,19 +4731,81 @@
       "objawy po kontakcie z ptasia grypa",
       "postepowanie po narazeniu h5n8"
     ],
+    "prefix": "Grypa ptaków — nadzór nad strażakami po bezpośrednim narażeniu (lista do PIS MSWiA; obserwacja objawów).",
+    "najpierw": [
+      {
+        "t": "Sporządź listę strażaków z dnia działań w ognisku: imię i nazwisko, adres, jednostka PSP, status szczepienia przeciw grypie.",
+        "zr": "GIS MSWiA 2017",
+        "str": 4
+      },
+      {
+        "t": "Komendant powiatowy (miejski) przekazuje listę Państwowemu Inspektorowi Sanitarnemu MSWiA w województwie — do 2 dni od narażenia.",
+        "zr": "GIS MSWiA 2017",
+        "str": 4
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Obserwacja zdrowia",
+        "wartosc": "10–14 dni po zakończeniu pracy (GIS 2025; wytyczne 2017: 10 dni)",
+        "zr": "GIS 2025",
+        "str": 5
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Objawy — zgłoś się do lekarza",
+        "punkty": [
+          {
+            "t": "Gorączka lub stan podgorączkowy, złe samopoczucie, zmęczenie, bóle głowy, mięśni, stawów.",
+            "zr": "GIS 2025",
+            "str": 5
+          },
+          {
+            "t": "Katar, kaszel, ból gardła, zapalenie spojówek, duszność, biegunka, objawy neurologiczne.",
+            "zr": "GIS 2025",
+            "str": 5
+          },
+          {
+            "t": "Przy objawach: lekarz i informacja do Państwowego Inspektora Sanitarnego MSWiA w województwie.",
+            "zr": "GIS MSWiA 2017",
+            "str": 4
+          },
+          {
+            "t": "Zachorowanie zgłoś też przełożonemu.",
+            "zr": "GIS 2025",
+            "str": 5
+          }
+        ]
+      }
+    ],
+    "tagi_wspolne": [
+      "ptasia grypa",
+      "h5n8",
+      "nadzor epidemiologiczny",
+      "narazenie"
+    ],
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-ptasia-grypa-h5n8",
         "strona": 4,
-        "sekcja": "Nadzór epidemiologiczny po narażeniu"
+        "sekcja": "GIS MSWiA 2017 — nadzór epidemiologiczny (s. 4)"
+      },
+      {
+        "dokument_id": "doc-hpai-gis-2025",
+        "strona": 5,
+        "sekcja": "GIS 2025 — obserwacja objawów (s. 5)"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-25",
+    "content": "1. NAJPIERW: Sporządź listę strażaków z dnia działań w ognisku: imię i nazwisko, adres, jednostka PSP, status szczepienia przeciw grypie. Komendant powiatowy (miejski) przekazuje listę Państwowemu Inspektorowi Sanitarnemu MSWiA w województwie — do 2 dni od narażenia.\n2. PARAMETRY: Obserwacja zdrowia — 10–14 dni po zakończeniu pracy (GIS 2025; wytyczne 2017: 10 dni)\n3. OBJAWY — ZGŁOŚ SIĘ DO LEKARZA: Gorączka lub stan podgorączkowy, złe samopoczucie, zmęczenie, bóle głowy, mięśni, stawów. Katar, kaszel, ból gardła, zapalenie spojówek, duszność, biegunka, objawy neurologiczne. Przy objawach: lekarz i informacja do Państwowego Inspektora Sanitarnego MSWiA w województwie. Zachorowanie zgłoś też przełożonemu."
   },
   {
     "id": "KARTA-PTASIA-GRYPA-SOI-I-DEKONTAMINACJA",
+    "wzorzec": 2,
     "kategoria": "dzialania",
-    "zrodlo": "Wytyczne Glownego Inspektora Sanitarnego MSWiA w sprawie zjadliwej grypy ptakow typu A H5N8 dla sluzb podleglych MSWiA udzielajacych wsparcia Inspekcji Weterynaryjnej",
-    "data_aktualizacji": "2017-01-04",
+    "zrodlo": "Wspólne zalecenia GIS, GLW, IMP i CIOP-PIB z 15.04.2025 (ochrona osób narażonych na HPAI); Wytyczne GIS MSWiA dla służb MSWiA, wersja II z 04.01.2017 (zasady PSP)",
+    "data_aktualizacji": "2026-10-25",
     "slowo_kluczowe": "ptasia grypa dekontaminacja",
     "keywords": [
       "dekontaminacja ptasia grypa",
@@ -4678,14 +4826,6 @@
       "kontakt z zakazonym ptactwem",
       "skazony kurnik"
     ],
-    "prefix": "Ptasia grypa H5N8 - srodki ochrony indywidualnej i dekontaminacja po narazeniu.",
-    "content": "1. KOD / NAZWA: H5N8 - srodki ochrony indywidualnej i dekontaminacja przy bezposrednim kontakcie z padlym lub zabitym ptactwem oraz w skazonym kurniku.\n2. SOI: funkcjonariusze wykonujacy zadania w narazeniu na kontakt z wirusem grypy typu A(H5N8) musza posiadac odziez ochronna zabezpieczajaca przede wszystkim drogi oddechowe.\n3. WYMAGANE WYPOSAZENIE: zalecany jest jednoczesciowy kombinezon III klasy, maska pelnotwarzowa z filtrem FFP3, podwojne rekawiczki nitrylowe polaczone tasma samoprzylepna z kombinezonem oraz kalosze rowniez polaczone tasma z kombinezonem.\n4. DZIALANIA KRYTYCZNE: po wykonaniu zadan w narazeniu na wirus typu A(H5N8) nalezy obowiazkowo przeprowadzic dekontaminacje ludzi i sprzetu wedlug procedur stosowanych przez PSP przy narazeniu na niebezpieczny czynnik biologiczny.\n5. ODPADY I CZYSZCZENIE: kombinezon, filtr FFP3 i rekawiczki nitrylowe nalezy traktowac jako odpad niebezpieczny i postepowac zgodnie z ustawa o odpadach, natomiast maske i kalosze nalezy poddac procedurze mycia i dezynfekcji.\n6. SRODKI DEZYNFEKCYJNE: dokument dopuszcza do skory rak wszystkie alkoholowe produkty do higienicznej i chirurgicznej dezynfekcji rak o spektrum wirusobojczym, do mycia i dezynfekcji ciala i wlosow - dezynfekujace mydlo w plynie do chirurgicznego mycia rak, do powierzchni i przedmiotow odpornych na korozje - preparaty zawierajace podchloryn sodu i podchloryn wapnia, do powierzchni i sprzetow nieodpornych na alkohol - zlozone preparaty myjaco-dezynfekujace o szerokim spektrum dzialania biobojczego oraz preparaty biobojcze przeznaczone do dezynfekcji poprzez zamglawianie.\n7. UWAGI OPERACYJNE: karta dotyczy bezposredniego narazenia na kontakt z ptactwem zakazonym badz podejrzanym o zakazenie wirusem grypy typu A(H5N8).",
-    "tagi_wspolne": [
-      "ptasia grypa",
-      "h5n8",
-      "dekontaminacja",
-      "soi"
-    ],
     "aliasy": [
       "dekontaminacja ptasia grypa",
       "ptasia grypa soi",
@@ -4705,13 +4845,149 @@
       "kontakt z zakazonym ptactwem",
       "skazony kurnik"
     ],
+    "prefix": "Grypa ptaków (HPAI) — środki ochrony indywidualnej, zdejmowanie i dekontaminacja (GIS 2025; procedury PSP z 2017).",
+    "najpierw": [
+      {
+        "t": "Ochrona dróg oddechowych: półmaska FFP2/FFP3 (po teście dopasowania), półmaska z filtrami P2/P3 albo maska pełna z filtrem P3.",
+        "zr": "GIS 2025",
+        "str": 3
+      },
+      {
+        "t": "Gogle szczelne (oznaczenie 3 — krople cieczy); półmaska musi szczelnie współpracować z goglami.",
+        "zr": "GIS 2025",
+        "str": 4
+      },
+      {
+        "t": "Po działaniach obowiązkowo dekontaminacja ludzi i sprzętu według procedur PSP dla czynnika biologicznego.",
+        "zr": "GIS MSWiA 2017",
+        "str": 3
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Odzież",
+        "wartosc": "kombinezon PN-EN 14126: typ 3-B, 4-B lub 6-B (dobór wg ryzyka)",
+        "zr": "GIS 2025",
+        "str": 3
+      },
+      {
+        "nazwa": "Rękawice",
+        "wartosc": "podwójne: zewnętrzne gumowe lub tworzywowe (PN-EN ISO 374-5), wewnętrzne medyczne",
+        "zr": "GIS 2025",
+        "str": 4
+      },
+      {
+        "nazwa": "Obuwie",
+        "wartosc": "szczelne, całotworzywowe (PN-EN 13832-3), model C, D lub E",
+        "zr": "GIS 2025",
+        "str": 4
+      },
+      {
+        "nazwa": "Obserwacja po narażeniu",
+        "wartosc": "10–14 dni",
+        "zr": "GIS 2025",
+        "str": 5
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Zdejmowanie środków ochrony — kolejno",
+        "punkty": [
+          {
+            "t": "1) rękawice zewnętrzne, 2) fartuch i ochraniacze na obuwie, 3) wyczyść i zdezynfekuj obuwie, 4) zdejmij obuwie.",
+            "zr": "GIS 2025",
+            "str": 5
+          },
+          {
+            "t": "5) kombinezon, 6) nakrycie głowy, 7) osłona twarzy i gogle, 8) półmaska lub maska.",
+            "zr": "GIS 2025",
+            "str": 5
+          },
+          {
+            "t": "9) rękawice jednorazowe, 10) umyj lub zdezynfekuj ręce, 11) prysznic po zakończeniu pracy.",
+            "zr": "GIS 2025",
+            "str": 5
+          }
+        ]
+      },
+      {
+        "etykieta": "Po zdjęciu",
+        "punkty": [
+          {
+            "t": "Sprzęt jednorazowy szczelnie zapakuj i przekaż do utylizacji.",
+            "zr": "GIS 2025",
+            "str": 5
+          },
+          {
+            "t": "Sprzęt wielorazowy wstępnie oczyść i odkaź (np. oprysk środkiem wirusobójczym), szczelnie zapakuj do transportu.",
+            "zr": "GIS 2025",
+            "str": 5
+          },
+          {
+            "t": "Na miejscu zapewnij dezynfekcję bieżącą (opryskiwacz lub pojemnik ze środkiem wirusobójczym).",
+            "zr": "GIS 2025",
+            "str": 5
+          },
+          {
+            "t": "Maskę i kalosze myj i dezynfekuj; kombinezon, filtry i rękawice traktuj jako odpad niebezpieczny.",
+            "zr": "GIS MSWiA 2017",
+            "str": 3
+          }
+        ]
+      },
+      {
+        "etykieta": "Środki dezynfekcyjne",
+        "punkty": [
+          {
+            "t": "Ręce — alkoholowe preparaty wirusobójcze; ciało i włosy — mydło dezynfekujące do chirurgicznego mycia rąk.",
+            "zr": "GIS MSWiA 2017",
+            "str": 3
+          },
+          {
+            "t": "Powierzchnie odporne na korozję — preparaty z podchlorynem sodu lub wapnia.",
+            "zr": "GIS MSWiA 2017",
+            "str": 3
+          },
+          {
+            "t": "Powierzchnie nieodporne na alkohol — złożone preparaty myjąco-dezynfekujące; możliwe zamgławianie.",
+            "zr": "GIS MSWiA 2017",
+            "str": 4
+          }
+        ]
+      }
+    ],
+    "nie_rob": [
+      {
+        "t": "Nie zostawiaj na miejscu zużytej odzieży, ochraniaczy, rękawic ani innych użytych przedmiotów.",
+        "zr": "GIS 2025",
+        "str": 5
+      },
+      {
+        "t": "Po założeniu środków ochrony nie dotykaj oczu, ust i nosa.",
+        "zr": "GIS 2025",
+        "str": 2
+      }
+    ],
+    "tagi_wspolne": [
+      "ptasia grypa",
+      "h5n8",
+      "dekontaminacja",
+      "soi"
+    ],
     "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-hpai-gis-2025",
+        "strona": 3,
+        "sekcja": "GIS 2025 — środki ochrony (s. 3–4), zdejmowanie i postępowanie (s. 5)"
+      },
       {
         "dokument_id": "doc-ptasia-grypa-h5n8",
         "strona": 3,
-        "sekcja": "Środki ochrony indywidualnej i dekontaminacja"
+        "sekcja": "GIS MSWiA 2017 — dekontaminacja i środki dezynfekcyjne (s. 3–4)"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-25",
+    "content": "1. NAJPIERW: Ochrona dróg oddechowych: półmaska FFP2/FFP3 (po teście dopasowania), półmaska z filtrami P2/P3 albo maska pełna z filtrem P3. Gogle szczelne (oznaczenie 3 — krople cieczy); półmaska musi szczelnie współpracować z goglami. Po działaniach obowiązkowo dekontaminacja ludzi i sprzętu według procedur PSP dla czynnika biologicznego.\n2. PARAMETRY: Odzież — kombinezon PN-EN 14126: typ 3-B, 4-B lub 6-B (dobór wg ryzyka); Rękawice — podwójne: zewnętrzne gumowe lub tworzywowe (PN-EN ISO 374-5), wewnętrzne medyczne; Obuwie — szczelne, całotworzywowe (PN-EN 13832-3), model C, D lub E; Obserwacja po narażeniu — 10–14 dni\n3. ZDEJMOWANIE ŚRODKÓW OCHRONY — KOLEJNO: 1) rękawice zewnętrzne, 2) fartuch i ochraniacze na obuwie, 3) wyczyść i zdezynfekuj obuwie, 4) zdejmij obuwie. 5) kombinezon, 6) nakrycie głowy, 7) osłona twarzy i gogle, 8) półmaska lub maska. 9) rękawice jednorazowe, 10) umyj lub zdezynfekuj ręce, 11) prysznic po zakończeniu pracy.\n4. PO ZDJĘCIU: Sprzęt jednorazowy szczelnie zapakuj i przekaż do utylizacji. Sprzęt wielorazowy wstępnie oczyść i odkaź (np. oprysk środkiem wirusobójczym), szczelnie zapakuj do transportu. Na miejscu zapewnij dezynfekcję bieżącą (opryskiwacz lub pojemnik ze środkiem wirusobójczym). Maskę i kalosze myj i dezynfekuj; kombinezon, filtry i rękawice traktuj jako odpad niebezpieczny.\n5. ŚRODKI DEZYNFEKCYJNE: Ręce — alkoholowe preparaty wirusobójcze; ciało i włosy — mydło dezynfekujące do chirurgicznego mycia rąk. Powierzchnie odporne na korozję — preparaty z podchlorynem sodu lub wapnia. Powierzchnie nieodporne na alkohol — złożone preparaty myjąco-dezynfekujące; możliwe zamgławianie.\n6. NIE RÓB: Nie zostawiaj na miejscu zużytej odzieży, ochraniaczy, rękawic ani innych użytych przedmiotów. Po założeniu środków ochrony nie dotykaj oczu, ust i nosa."
   },
   {
     "id": "KARTA-RT-ZAKRES-PODSTAWOWY",

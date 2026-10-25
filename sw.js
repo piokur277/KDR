@@ -1,4 +1,4 @@
-const CACHE_NAME = "kdr-ai-v19-6-3-acetylen-zrodlo";
+const CACHE_NAME = "kdr-ai-v19-6-4-ptasia-grypa";
 
 const APP_SHELL = [
   "./",

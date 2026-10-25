@@ -22,9 +22,10 @@
       "plik": "dokumenty/biologiczne/ptasia-grypa-h5n8-wytyczne-2017.pdf",
       "id": "doc-ptasia-grypa-h5n8",
       "status_techniczny": "aktywny",
-      "aktualnosc_merytoryczna": "wedlug_przekazanego_pliku",
+      "aktualnosc_merytoryczna": "zweryfikowano_2026-10-25",
       "liczba_stron": 4,
-      "sha256": "ca478921c4445b8f446a73d8b97875ef906cd5d9447e19a83ce92f020ae27d91"
+      "sha256": "ca478921c4445b8f446a73d8b97875ef906cd5d9447e19a83ce92f020ae27d91",
+      "uwagi": "Skan. Środki ochrony i ocena ryzyka zaktualizowane wg zaleceń GIS 2025 (doc-hpai-gis-2025); zasady specyficzne dla PSP/MSWiA (BIOHAZARD, lista do PIS MSWiA) – brak nowszego wydania na 2026-10-25."
     },
     "doc-sds-h2s-4-1": {
       "tytul": "Karta charakterystyki - Siarkowodór / Siarkowodór N25",
@@ -999,6 +1000,19 @@
       "liczba_stron": 2,
       "sha256": "865452a6174e1ac33ad924db2617cf2496ca80c763f0b0ae7400a5a4c084ff27",
       "uwagi": "Pobrano ze strony gov.pl/web/odra/opis-procedury, https://www.gov.pl/attachment/59926cee-7225-4d9f-918e-3787444fc08e."
+    },
+    "doc-hpai-gis-2025": {
+      "id": "doc-hpai-gis-2025",
+      "tytul": "Wspólne zalecenia GIS, GLW, IMP i CIOP-PIB na temat ochrony osób zawodowo narażonych na kontakt z wysoce zjadliwymi wirusami grypy ptaków",
+      "wersja": "15.04.2025",
+      "data_wydania": "2025-04-15",
+      "rodzaj": "Wytyczne",
+      "plik": "dokumenty/biologiczne/grypa-ptakow-wspolne-zalecenia-gis-glw-imp-ciop-2025-04-15.pdf",
+      "status_techniczny": "aktywny",
+      "aktualnosc_merytoryczna": "zweryfikowano_2026-10-25",
+      "liczba_stron": 6,
+      "sha256": "410b9fd14cb21d2ddaddfa0ac1a7e14868b9fe5a54ad3764ac46704e2573092c",
+      "uwagi": "Pobrano z gov.pl/web/gis, https://www.gov.pl/attachment/214a6768-a86a-4e76-80ad-24bfef54e207."
     }
   }
 }
