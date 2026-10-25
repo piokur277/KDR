@@ -1866,11 +1866,11 @@
     "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
-        "dokument_id": "doc-sds-hcn-ekos-2006",
+        "dokument_id": "doc-icsc-0492-hcn",
         "strona": 1,
-        "sekcja": "Karta charakterystyki cyjanowodoru - identyfikacja, zagrożenia i pierwsza pomoc",
-        "tytul": "Karta charakterystyki niebezpiecznej substancji - Cyjanowodór",
-        "plik": "dokumenty/chemiczne/sds-cyjanowodor-ekos-2006.pdf",
+        "sekcja": "ICSC 0492 — zagrożenia, pierwsza pomoc, wycieki (s. 1), właściwości i normatywy (s. 3)",
+        "tytul": "Międzynarodowa Karta Bezpieczeństwa Chemicznego ICSC 0492 – Cyjanowodór, skroplony",
+        "plik": "dokumenty/chemiczne/icsc-0492-cyjanowodor-pl-2018.pdf",
         "typ": "pdf"
       }
     ]

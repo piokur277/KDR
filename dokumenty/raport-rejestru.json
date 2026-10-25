@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T19:18:50.669Z",
+  "generated_at": "2026-10-25T19:20:32.977Z",
   "registry_version": "2.7",
   "document_count": 80,
   "active_document_count": 80,
@@ -285,20 +285,6 @@
           "procedure_id": "KARTA-PV-ROZPOZNANIE-I-ZABEZPIECZENIE",
           "strona": 8,
           "sekcja": "Odpowiednia część SZP instalacji PV"
-        }
-      ]
-    },
-    {
-      "id": "doc-sds-hcn-ekos-2006",
-      "tytul": "Karta charakterystyki niebezpiecznej substancji - Cyjanowodór",
-      "status_techniczny": "aktywny",
-      "liczba_stron": 8,
-      "liczba_powiazan": 1,
-      "powiazania": [
-        {
-          "procedure_id": "KARTA-ORG-HCN-WARTOSCI-GRANICZNE",
-          "strona": 1,
-          "sekcja": "Karta charakterystyki cyjanowodoru - identyfikacja, zagrożenia i pierwsza pomoc"
         }
       ]
     },
@@ -1618,6 +1604,20 @@
           "procedure_id": "KARTA-ORG-AMONIAK-NH3-WARTOSCI-GRANICZNE",
           "strona": 2,
           "sekcja": "Sekcje 2–9 karty charakterystyki"
+        }
+      ]
+    },
+    {
+      "id": "doc-icsc-0492-hcn",
+      "tytul": "Międzynarodowa Karta Bezpieczeństwa Chemicznego ICSC 0492 – Cyjanowodór, skroplony",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 3,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-ORG-HCN-WARTOSCI-GRANICZNE",
+          "strona": 1,
+          "sekcja": "ICSC 0492 — zagrożenia, pierwsza pomoc, wycieki (s. 1), właściwości i normatywy (s. 3)"
         }
       ]
     }

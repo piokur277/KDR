@@ -100,6 +100,14 @@
       "dotyczy_kart": [
         "KARTA-ZA-"
       ]
+    },
+    {
+      "id": "ilo-icsc-0492",
+      "url": "https://chemicalsafety.ilo.org/dyn/icsc/showcard.display?p_card_id=0492&p_version=2&p_lang=pl",
+      "opis": "ILO/WHO — karta ICSC 0492 cyjanowodór (wersja polska)",
+      "dotyczy_kart": [
+        "KARTA-ORG-HCN"
+      ]
     }
   ],
   "pliki_oficjalne": {
