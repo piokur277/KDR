@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-25T17:31:11.047Z",
+  "generated_at": "2026-10-25T17:45:30.065Z",
   "registry_version": "2.7",
-  "document_count": 71,
-  "active_document_count": 71,
-  "linked_document_count": 71,
+  "document_count": 72,
+  "active_document_count": 72,
+  "linked_document_count": 72,
   "unlinked_documents": [],
   "documents": [
     {
@@ -1472,6 +1472,20 @@
           "procedure_id": "KARTA-RT-WSPOLPRACA-KDR-SGRT",
           "strona": 21,
           "sekcja": "Rozdział 3 (s. 11–12) i Rozdział 6 (s. 21–23)"
+        }
+      ]
+    },
+    {
+      "id": "doc-zodr-2013",
+      "tytul": "Zasady organizowania działań ratowniczych",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 15,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-ORG-ZASADY-ORGANIZOWANIA-DZIALAN-RATOWNICZYCH",
+          "strona": 4,
+          "sekcja": "Wstęp pkt 1 (s. 4); zakres działań (s. 7); uprawnienia KDR (s. 9); kierowanie, rozpoznanie, ciągłość (s. 10–12); odwód, odcinki bojowe, sztab (s. 12–13); zakończenie działań (s. 14)"
         }
       ]
     }
