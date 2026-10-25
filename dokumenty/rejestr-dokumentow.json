@@ -107,9 +107,10 @@
       "plik": "dokumenty/budowlane/szp-katastrofa-budowlana-2020.pdf",
       "id": "doc-katastrofa-budowlana-2020",
       "status_techniczny": "aktywny",
-      "aktualnosc_merytoryczna": "wedlug_przekazanego_pliku",
+      "aktualnosc_merytoryczna": "zweryfikowano_2026-10-25",
       "liczba_stron": 9,
-      "sha256": "ae7c323481867c674489abc03de52c4a5a120fdbda0155a79cc2d022168f39b0"
+      "sha256": "ae7c323481867c674489abc03de52c4a5a120fdbda0155a79cc2d022168f39b0",
+      "uwagi": "2026-10-25: KG PSP nie opublikowała nowszego wydania SZP (sprawdzono strony Ratownictwo techniczne i Działania poszukiwawczo-ratownicze). Uzupełniająco: Zasady organizacji działań poszukiwawczo-ratowniczych w KSRG (2023) z zał. 12 „Metodyka bezpieczeństwa działań”."
     },
     "doc-lng-2025": {
       "tytul": "Standardowe zasady postępowania podczas zdarzeń z udziałem skroplonego gazu ziemnego (LNG)",
@@ -168,10 +169,10 @@
       "plik": "dokumenty/acetylen/szp-butle-acetylen-wydanie-2-2020-03-13.pdf",
       "id": "doc-acetylen-szp-2020",
       "status_techniczny": "aktywny",
-      "aktualnosc_merytoryczna": "wedlug_przekazanego_pliku",
+      "aktualnosc_merytoryczna": "zweryfikowano_2026-10-25",
       "liczba_stron": 11,
       "sha256": "e7f382fd97ab9a2f4fb3a1bdf3a1b9f55401a28fbdc1b410809fd85ed2bc6096",
-      "uwagi": "Plik identyczny z kopią na stronie KG PSP Ratownictwo techniczne (https://www.gov.pl/attachment/3be2a59d-654b-4ae0-9ab1-735f17028dd0). Na stronie Ratownictwo chemiczne jest druga kopia o tej samej treści, różniąca się metadanymi PDF."
+      "uwagi": "Plik identyczny z kopią na stronie KG PSP Ratownictwo techniczne (https://www.gov.pl/attachment/3be2a59d-654b-4ae0-9ab1-735f17028dd0). Na stronie Ratownictwo chemiczne jest druga kopia o tej samej treści, różniąca się metadanymi PDF. 2026-10-25: wydanie II (2020) nadal jedynym opublikowanym przez KG PSP."
     },
     "doc-r2-radiologia": {
       "tytul": "Załącznik R.2 - Ochrona radiologiczna oraz działania podczas zdarzeń radiacyjnych - zakres podstawowy",

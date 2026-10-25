@@ -13,7 +13,8 @@
       "domyslnie": 6
     },
     "weryfikacja_zrodla_url_dni": 180,
-    "przeglad_karty_miesiecy": 12
+    "przeglad_karty_miesiecy": 12,
+    "ponowne_sprawdzenie_wydania_miesiecy": 12
   },
   "obserwowane_strony": [
     {

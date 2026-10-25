@@ -43,6 +43,8 @@ Aplikacja pokazuje stan na karcie: datę aktualizacji i przeglądu karty, a przy
 ## Ustawienia (`konfiguracja.json`)
 
 - `progi.wiek_dokumentu_lat` — po ilu latach dokument trafia do sprawdzenia, czy jest nowsze wydanie (karty charakterystyki: 5, pozostałe: 6).
+- `progi.ponowne_sprawdzenie_wydania_miesiecy` — gdy starszy dokument ma w rejestrze `"aktualnosc_merytoryczna": "zweryfikowano_RRRR-MM-DD"` młodsze niż ta liczba miesięcy (domyślnie 12), trafia do priorytetu niskiego jako „aktualność potwierdzona”; po upływie okresu wraca do sprawdzenia.
+- Stan plików oficjalnych zapamiętuje adres; po zmianie adresu w konfiguracji porównanie zaczyna się od nowa (bez fałszywego alarmu o nowym wydaniu).
 - `progi.weryfikacja_zrodla_url_dni` — jak często potwierdzać źródła internetowe (180 dni).
 - `progi.przeglad_karty_miesiecy` — okres przeglądu karty (12 miesięcy).
 - `obserwowane_strony` — strony z wykazami dokumentów; `dotyczy_kart` wskazuje karty (po początku ID), których dotyczy zmiana.

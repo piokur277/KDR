@@ -208,9 +208,19 @@ function kontrolaOffline() {
         const dataDok = parseDate(doc.data_wydania);
         const limitLat = progi.wiek_dokumentu_lat[doc.rodzaj] ?? progi.wiek_dokumentu_lat.domyslnie;
         if (dataDok && monthsBetween(dataDok, DZIS) >= limitLat * 12) {
-            dodaj(2, "Dokument starszy niż próg",
-                `${id} „${doc.tytul}” z ${doc.data_wydania} (próg ${limitLat} lat). Sprawdź, czy wydawca nie opublikował nowszego wydania.`,
-                { karty, obiekt: id });
+            // Starsze wydanie, którego aktualność niedawno potwierdzono (brak nowszego),
+            // nie wymaga decyzji — zostaje jako przypomnienie o niskim priorytecie.
+            const sprawdzono = verifiedDate(status);
+            const okres = progi.ponowne_sprawdzenie_wydania_miesiecy ?? 12;
+            if (sprawdzono && monthsBetween(sprawdzono, DZIS) < okres) {
+                dodaj(3, "Starsze wydanie — aktualność potwierdzona",
+                    `${id} (${doc.data_wydania}; sprawdzono ${status.replace("zweryfikowano_", "")}, ponownie za ${okres} mies.)`,
+                    { karty, obiekt: id });
+            } else {
+                dodaj(2, "Dokument starszy niż próg",
+                    `${id} „${doc.tytul}” z ${doc.data_wydania} (próg ${limitLat} lat). Sprawdź, czy wydawca nie opublikował nowszego wydania.`,
+                    { karty, obiekt: id });
+            }
         } else if (!dataDok && doc.typ !== "url") {
             dodaj(3, "Dokument bez daty wydania", `${id} „${doc.tytul}” — brak daty wydania; trudno ocenić aktualność.`, { karty, obiekt: id });
         }
@@ -341,7 +351,11 @@ async function kontrolaPlikowOficjalnych() {
             continue;
         }
         const odcisk = sha256(wynik.buffer);
-        const poprzedni = stan.pliki[wpis.dokument_id];
+        let poprzedni = stan.pliki[wpis.dokument_id];
+        // Zmieniono adres oryginału w konfiguracji: poprzedni pomiar dotyczył innego pliku,
+        // więc porównanie zaczyna się od nowa (bez fałszywego alarmu o nowym wydaniu).
+        if (poprzedni && poprzedni.url && poprzedni.url !== wpis.url) poprzedni = null;
+        if (poprzedni && !poprzedni.url && odcisk === doc.sha256) poprzedni = { ...poprzedni, odcisk };
 
         if (poprzedni && poprzedni.odcisk !== odcisk) {
             dodaj(1, "Nowa wersja pliku na stronie KG PSP",
@@ -356,6 +370,7 @@ async function kontrolaPlikowOficjalnych() {
         }
 
         stan.pliki[wpis.dokument_id] = {
+            url: wpis.url,
             odcisk,
             rozmiar: wynik.buffer.length,
             sprawdzono: DZIS_TXT,
