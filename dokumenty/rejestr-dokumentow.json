@@ -39,18 +39,6 @@
       "liczba_stron": 14,
       "sha256": "209c8d390ce2471eb7094eab4e50a61d5c25460db89561a816717737b9912729"
     },
-    "doc-sds-co-2-0": {
-      "tytul": "Karta charakterystyki - Tlenek węgla",
-      "wersja": "2.0",
-      "data_wydania": "2020-10-05",
-      "rodzaj": "Karta charakterystyki",
-      "plik": "dokumenty/chemiczne/sds-tlenek-wegla-v2-0-2020.pdf",
-      "id": "doc-sds-co-2-0",
-      "status_techniczny": "aktywny",
-      "aktualnosc_merytoryczna": "wedlug_przekazanego_pliku",
-      "liczba_stron": 21,
-      "sha256": "89517c2b3f004b4247ccb1532dc40fcc701fe25a01cbda181068be08da68c0a1"
-    },
     "doc-b1-choroby-zakazne": {
       "tytul": "Załącznik B.1 - Zasady postępowania PSP przy zagrożeniu chorobami szczególnie niebezpiecznymi i wysoce zakaźnymi",
       "wersja": "Załącznik B.1",
@@ -134,18 +122,6 @@
       "aktualnosc_merytoryczna": "wedlug_przekazanego_pliku",
       "liczba_stron": 16,
       "sha256": "ebfd9150ce181ae4f3d404924e7eef479b471b962f6589ef6afbeef43b1247f4"
-    },
-    "doc-sds-amoniak-4-0": {
-      "tytul": "Karta charakterystyki - Amoniak",
-      "wersja": "4.0",
-      "data_wydania": "2019-02-07",
-      "rodzaj": "Karta charakterystyki",
-      "plik": "dokumenty/chemiczne/sds-amoniak-v4-0-2019.pdf",
-      "id": "doc-sds-amoniak-4-0",
-      "status_techniczny": "aktywny",
-      "aktualnosc_merytoryczna": "wedlug_przekazanego_pliku",
-      "liczba_stron": 12,
-      "sha256": "2beedaa7d9e8a7d1e9802053051880407c1f0b6d78be1d8b689043001cebd6bc"
     },
     "doc-sds-hcl-6-0": {
       "tytul": "Karta charakterystyki - Chlorowodór / Chlorowodór N28",
@@ -1027,6 +1003,32 @@
       "liczba_stron": 64,
       "sha256": "e3a74443ae5371beade66dd84f24a17ce99e5e1197af0f833a5de06db5cc3534",
       "uwagi": "Pobrano z edziennik.straz.gov.pl/DU_PSP/2019/7/akt.pdf. Uchylił rozkaz nr 4 KG PSP z 09.06.2009."
+    },
+    "doc-sds-co-5-1": {
+      "id": "doc-sds-co-5-1",
+      "tytul": "Karta charakterystyki - Tlenek węgla (Messer)",
+      "wersja": "5.1",
+      "data_wydania": "2026-03-05",
+      "rodzaj": "Karta charakterystyki",
+      "plik": "dokumenty/chemiczne/sds-tlenek-wegla-messer-v5-1-2026.pdf",
+      "status_techniczny": "aktywny",
+      "aktualnosc_merytoryczna": "zweryfikowano_2026-10-25",
+      "liczba_stron": 27,
+      "sha256": "626ce0e8ed86d65006561d6874847d3d695121a292210414a653e885323b40fa",
+      "uwagi": "Pobrano z messer.pl. Zastępuje wcześniejszą wersję z repozytorium (CO 2.0/2020; NH3 4.0/2019)."
+    },
+    "doc-sds-amoniak-6-0": {
+      "id": "doc-sds-amoniak-6-0",
+      "tytul": "Karta charakterystyki - Amoniak bezwodny (Messer)",
+      "wersja": "6.0",
+      "data_wydania": "2025-07-07",
+      "rodzaj": "Karta charakterystyki",
+      "plik": "dokumenty/chemiczne/sds-amoniak-messer-v6-0-2025.pdf",
+      "status_techniczny": "aktywny",
+      "aktualnosc_merytoryczna": "zweryfikowano_2026-10-25",
+      "liczba_stron": 48,
+      "sha256": "a004debc0c4124ec18b030bbc9071761e8ba4d38366a17a57ff0700222d6b4f5",
+      "uwagi": "Pobrano z messer.pl. Zastępuje wcześniejszą wersję z repozytorium (CO 2.0/2020; NH3 4.0/2019)."
     }
   }
 }

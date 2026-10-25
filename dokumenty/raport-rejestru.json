@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T19:16:22.916Z",
+  "generated_at": "2026-10-25T19:18:50.669Z",
   "registry_version": "2.7",
   "document_count": 80,
   "active_document_count": 80,
@@ -75,20 +75,6 @@
           "procedure_id": "KARTA-ORG-H2S-WARTOSCI-GRANICZNE",
           "strona": 1,
           "sekcja": "Karta charakterystyki H2S"
-        }
-      ]
-    },
-    {
-      "id": "doc-sds-co-2-0",
-      "tytul": "Karta charakterystyki - Tlenek węgla",
-      "status_techniczny": "aktywny",
-      "liczba_stron": 21,
-      "liczba_powiazan": 1,
-      "powiazania": [
-        {
-          "procedure_id": "KARTA-ORG-CO-WARTOSCI-GRANICZNE",
-          "strona": 1,
-          "sekcja": "Karta charakterystyki CO"
         }
       ]
     },
@@ -237,20 +223,6 @@
           "procedure_id": "KARTA-CHEM-Z5-LNG-ZAWORY",
           "strona": 12,
           "sekcja": "Karta LNG"
-        }
-      ]
-    },
-    {
-      "id": "doc-sds-amoniak-4-0",
-      "tytul": "Karta charakterystyki - Amoniak",
-      "status_techniczny": "aktywny",
-      "liczba_stron": 12,
-      "liczba_powiazan": 1,
-      "powiazania": [
-        {
-          "procedure_id": "KARTA-ORG-AMONIAK-NH3-WARTOSCI-GRANICZNE",
-          "strona": 1,
-          "sekcja": "Karta charakterystyki NH3"
         }
       ]
     },
@@ -1618,6 +1590,34 @@
           "procedure_id": "KARTA-ORG-METODYKA-ORGANIZACJI-LACZNOSCI-KDR",
           "strona": 8,
           "sekcja": "Struktura sieci radiowych (s. 8–9), dokumentacja łączności (s. 32)"
+        }
+      ]
+    },
+    {
+      "id": "doc-sds-co-5-1",
+      "tytul": "Karta charakterystyki - Tlenek węgla (Messer)",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 27,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-ORG-CO-WARTOSCI-GRANICZNE",
+          "strona": 2,
+          "sekcja": "Sekcje 2–9 karty charakterystyki"
+        }
+      ]
+    },
+    {
+      "id": "doc-sds-amoniak-6-0",
+      "tytul": "Karta charakterystyki - Amoniak bezwodny (Messer)",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 48,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-ORG-AMONIAK-NH3-WARTOSCI-GRANICZNE",
+          "strona": 2,
+          "sekcja": "Sekcje 2–9 karty charakterystyki"
         }
       ]
     }

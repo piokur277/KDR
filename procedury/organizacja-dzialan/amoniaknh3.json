@@ -1,8 +1,9 @@
 {
   "id": "KARTA-ORG-AMONIAK-NH3-WARTOSCI-GRANICZNE",
+  "wzorzec": 2,
   "kategoria": "substancja",
-  "zrodlo": "CIOP-PIB, Baza niebezpiecznych substancji chemicznych, Amoniak",
-  "data_aktualizacji": "",
+  "zrodlo": "Messer Polska: Karta charakterystyki – amoniak bezwodny, wersja 6.0 z 07.07.2025",
+  "data_aktualizacji": "2026-10-25",
   "slowo_kluczowe": "amoniak",
   "keywords": [
     "nh3",
@@ -20,13 +21,6 @@
     "h314 amoniak",
     "h400"
   ],
-  "prefix": "NH3 / Amoniak - karta zagrozenia operacyjnego.",
-  "content": "1. KOD / NAZWA: NH3 - amoniak; CAS 7664-41-7.\n2. ROZPOZNANIE: bezbarwny gaz o ostrym, charakterystycznym zapachu. Gestosc par wzgledem powietrza wynosi 0,597, czyli gaz jest lzejszy od powietrza. Prog wyczuwalnosci zapachu wedlug CIOP wynosi 0,4-40 mg/m3.\n3. STREFA: brak jednej liczbowej strefy w materiale CIOP; przyjmij natychmiastowe odsuniecie osob z narazenia, eliminacje zrodel zaplonu i dobra wentylacje miejsca zdarzenia. W przypadku plynacego wycieku gazu nie gasic plomienia, jezeli nie mozna bezpiecznie zahamowac wycieku.\n4. SOI: zgodnie z informacja CLP stosowac rekawice ochronne, odziez ochronna, ochrone oczu i twarzy. Ze wzgledu na toksycznosc inhalacyjna i dzialanie zarace nalezy traktowac ekspozycje jako zagrozenie ciezkim urazem.\n5. DZIALANIA KRYTYCZNE: wyprowadzic lub wyniesc poszkodowanego na swieze powietrze i zapewnic mu warunki do swobodnego oddychania. Podawac tlen. Przy narazeniu inhalacyjnym zapewnic spokoj i bezruch, bo wysilek zwieksza ryzyko obrzeku pluc. Przy wycieku wyeliminowac wszystkie zrodla zaplonu.\n6. PROCEDURA SZCZEGOLOWA: klasyfikacja CLP obejmuje H221, H331, H314 i H400. W razie kontaktu ze skora natychmiast zdjac zanieczyszczona odziez i splukiwac skore pod strumieniem wody. W razie dostania sie do oczu plukac ostroznie woda przez kilka minut i natychmiast skierowac do lekarza. Przy zatruciu inhalacyjnym CIOP wskazuje tlen, a przy swiszczacym oddechu Atrovent do inhalacji; przy utrzymujacych sie objawach obrzeku krtani mozliwa jest intubacja i pilny transport do szpitala. Nie stosowac srodkow zobojetniajacych na skore.\n7. WARTOSCI GRANICZNE I PARAMETRY: NDS 14 mg/m3; NDSCh 28 mg/m3; NDSP nie ustalono. Temperatura wrzenia -33,35 C. Temperatura samozaplonu 630 C. Granice wybuchowosci w powietrzu 15-28% obj. Masa czasteczkowa 17,031.\n8. GLOWNE ZAGROZENIA: substancja toksyczna, drazniaca i zaraca. Powoduje oparzenia skory oraz uszkodzenia oczu. W postaci gazu i par moze wywolac bol i lzawienie oczu, kaszel, bol gardla, chrypke, mdlosci, wymioty, dusznosc, obrzek krtani, skurcz oskrzeli, zatrzymanie oddechu i obrzek pluc. Ciekly amoniak powoduje odmrozenia skory.\n9. CO MOZE POJSC NIE TAK: opoznienie ewakuacji ze strefy narazenia, niedoszacowanie ryzyka obrzeku pluc po inhalacji, gaszenie plonacego wycieku bez mozliwosci zatrzymania uwolnienia, oraz stosowanie srodkow zobojetniajacych na skazona skore.\n10. UWAGI OPERACYJNE: z materialu CIOP wynika, ze amoniak wchlania sie przez drogi oddechowe i z przewodu pokarmowego. LC50 dla szczura podano jako 7600 mg/m3 (2 h), a LCL0 jako 1420 mg/m3 (4 h). Odtrutki nie sa znane.",
-  "tagi_wspolne": [
-    "amoniak",
-    "nh3",
-    "substancja chemiczna"
-  ],
   "aliasy": [
     "nh3",
     "amoniak nh3",
@@ -43,11 +37,168 @@
     "h314 amoniak",
     "h400"
   ],
+  "prefix": "NH₃ — amoniak bezwodny, CAS 7664-41-7, UN 1005: gaz toksyczny i żrący, łatwopalny, lżejszy od powietrza.",
+  "najpierw": [
+    {
+      "t": "Do strefy w izolującym aparacie oddechowym i odzieży chemoodpornej; monitoruj stężenie.",
+      "zr": "KCh",
+      "str": 5
+    },
+    {
+      "t": "Ewakuuj teren, wyeliminuj źródła zapłonu, wentyluj; jeśli to możliwe — zatrzymaj wyciek.",
+      "zr": "KCh",
+      "str": 5
+    },
+    {
+      "t": "Ograniczaj chmurę mgłą wodną lub rozproszonym prądem wody.",
+      "zr": "KCh",
+      "str": 5
+    },
+    {
+      "t": "Poszkodowanego przenieś w nieskażony obszar (ratownik w aparacie izolującym), zapewnij ciepło i spokój, wezwij lekarza.",
+      "zr": "KCh",
+      "str": 4
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "Zwroty H",
+      "wartosc": "H221 · H280 · H314 · H331 · H410 · EUH071 (żrący dla dróg oddechowych)",
+      "zr": "KCh",
+      "str": 2
+    },
+    {
+      "nazwa": "NDS / NDSCh",
+      "wartosc": "14 / 28 mg/m³",
+      "zr": "KCh",
+      "str": 8
+    },
+    {
+      "nazwa": "Granice wybuchowości",
+      "wartosc": "15,4–33,6 % obj.",
+      "zr": "KCh",
+      "str": 10
+    },
+    {
+      "nazwa": "Temperatura samozapłonu",
+      "wartosc": "630°C",
+      "zr": "KCh",
+      "str": 10
+    },
+    {
+      "nazwa": "Gęstość względem powietrza",
+      "wartosc": "0,6 — lżejszy od powietrza",
+      "zr": "KCh",
+      "str": 10
+    },
+    {
+      "nazwa": "Temperatura wrzenia",
+      "wartosc": "−33°C",
+      "zr": "KCh",
+      "str": 10
+    },
+    {
+      "nazwa": "Rozpuszczalność w wodzie",
+      "wartosc": "517 g/l (20°C)",
+      "zr": "KCh",
+      "str": 10
+    }
+  ],
+  "sekcje": [
+    {
+      "etykieta": "Pożar",
+      "punkty": [
+        {
+          "t": "Preferowana metoda: odcięcie dopływu gazu.",
+          "zr": "KCh",
+          "str": 4
+        },
+        {
+          "t": "Środki gaśnicze: mgła wodna lub rozproszony prąd wody, piana.",
+          "zr": "KCh",
+          "str": 4
+        },
+        {
+          "t": "Produkty spalania: tlenki azotu.",
+          "zr": "KCh",
+          "str": 4
+        },
+        {
+          "t": "Chłodź zagrożone pojemniki rozproszoną wodą z bezpiecznego miejsca — ogień może je rozerwać.",
+          "zr": "KCh",
+          "str": 4
+        }
+      ]
+    },
+    {
+      "etykieta": "Ochrona ratowników",
+      "punkty": [
+        {
+          "t": "Odzież gazoszczelna, odporna na chemikalia (EN 943-2) z izolującym aparatem oddechowym (EN 137).",
+          "zr": "KCh",
+          "str": 5
+        }
+      ]
+    },
+    {
+      "etykieta": "Poszkodowany",
+      "punkty": [
+        {
+          "t": "Skóra: zdejmij skażoną odzież, przemywaj wodą co najmniej 15 minut.",
+          "zr": "KCh",
+          "str": 4
+        },
+        {
+          "t": "Oczy: natychmiast przemywaj dużą ilością wody co najmniej 15 minut.",
+          "zr": "KCh",
+          "str": 4
+        },
+        {
+          "t": "Przy zatrzymaniu oddechu — resuscytacja krążeniowo-oddechowa.",
+          "zr": "KCh",
+          "str": 4
+        },
+        {
+          "t": "Możliwe ciężkie oparzenia chemiczne skóry i rogówki; po narażeniu możliwy obrzęk płuc.",
+          "zr": "KCh",
+          "str": 4
+        }
+      ]
+    },
+    {
+      "etykieta": "Po uwolnieniu",
+      "punkty": [
+        {
+          "t": "Obszar zlej wodą; skażony sprzęt i miejsce wycieku spłucz obfitą ilością wody.",
+          "zr": "KCh",
+          "str": 5
+        }
+      ]
+    }
+  ],
+  "nie_rob": [
+    {
+      "t": "Nie gaś płomienia wypływającego gazu, chyba że to absolutnie konieczne — grozi wybuchowym powtórnym zapłonem.",
+      "zr": "KCh",
+      "str": 4
+    },
+    {
+      "t": "Nie dopuść, by skażone wody gaśnicze trafiły do kanalizacji.",
+      "zr": "KCh",
+      "str": 4
+    }
+  ],
+  "tagi_wspolne": [
+    "amoniak",
+    "nh3",
+    "substancja chemiczna"
+  ],
   "dokumenty_zrodlowe": [
     {
-      "dokument_id": "doc-sds-amoniak-4-0",
-      "strona": 1,
-      "sekcja": "Karta charakterystyki NH3"
+      "dokument_id": "doc-sds-amoniak-6-0",
+      "strona": 2,
+      "sekcja": "Sekcje 2–9 karty charakterystyki"
     }
-  ]
+  ],
+  "data_przegladu": "2026-10-25"
 }
