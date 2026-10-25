@@ -1,0 +1,145 @@
+{
+  "opis": "Konfiguracja kontroli aktualności KDR AI. Zmiany w tym pliku nie wymagają zmian w kodzie.",
+  "sciezki": {
+    "rejestr": "dokumenty/rejestr-dokumentow.json",
+    "baza": "procedury/baza.json",
+    "stan": "kontrola/stan.json",
+    "raport": "kontrola/raport.md"
+  },
+  "progi": {
+    "wiek_dokumentu_lat": {
+      "Karta charakterystyki": 5,
+      "Karta charakterystyki - dokument archiwalny": 5,
+      "domyslnie": 6
+    },
+    "weryfikacja_zrodla_url_dni": 180,
+    "przeglad_karty_miesiecy": 12
+  },
+  "obserwowane_strony": [
+    {
+      "id": "kgpsp-baza-wiedzy",
+      "url": "https://www.gov.pl/web/kgpsp/baza-wiedzy",
+      "opis": "KG PSP — Baza wiedzy (lista działów)",
+      "dotyczy_kart": []
+    },
+    {
+      "id": "kgpsp-rat-tech-dokumenty",
+      "url": "https://www.gov.pl/web/kgpsp/zasady-organizacji-rat-tech",
+      "opis": "KG PSP — Ratownictwo techniczne: zasady i inne dokumenty (SZP pojazdy elektryczne, acetylen)",
+      "dotyczy_kart": [
+        "DEZ-EV-",
+        "POZ-EV-",
+        "WYP-EV-",
+        "ZAT-EV-",
+        "KARTA-ACETYLEN-"
+      ]
+    },
+    {
+      "id": "kgpsp-rat-chem-dokumenty",
+      "url": "https://www.gov.pl/web/kgpsp/zasady-organizacji-rat-chem",
+      "opis": "KG PSP — Ratownictwo chemiczne: zasady i inne dokumenty (SZP LNG, acetylen, załączniki B i R)",
+      "dotyczy_kart": [
+        "KARTA-CHEM-",
+        "KARTA-ACETYLEN-",
+        "KARTA-ORG-AMONIAK",
+        "KARTA-ORG-CHLOROWODOR",
+        "KARTA-ORG-CO-",
+        "KARTA-ORG-H2S",
+        "KARTA-ORG-HCN"
+      ]
+    },
+    {
+      "id": "kgpsp-rat-med-dokumenty",
+      "url": "https://www.gov.pl/web/kgpsp/zasady-organizacji-rat-med",
+      "opis": "KG PSP — Ratownictwo medyczne: zasady i inne dokumenty (procedury KPP)",
+      "dotyczy_kart": [
+        "KARTA-KPP-"
+      ]
+    },
+    {
+      "id": "kgpsp-zasady-ksrg",
+      "url": "https://www.gov.pl/web/kgpsp/zasady-ksrg",
+      "opis": "KG PSP — wykaz zasad organizacji ratownictwa w KSRG",
+      "dotyczy_kart": [
+        "KARTA-KPP-",
+        "KARTA-CHEM-ZAKRES-PODSTAWOWY-KDR"
+      ]
+    },
+    {
+      "id": "kgpsp-ksrg",
+      "url": "https://www.gov.pl/web/kgpsp/ksrg",
+      "opis": "KG PSP — KSRG, podstawa prawna (ustawy i rozporządzenia)",
+      "dotyczy_kart": [
+        "KARTA-ORG-ZASADY-ORGANIZOWANIA-DZIALAN-RATOWNICZYCH",
+        "KARTA-ORG-METODYKA-ORGANIZACJI-LACZNOSCI-KDR",
+        "WYP-MAS-01"
+      ]
+    },
+    {
+      "id": "kgpsp-dokumentacja-operacyjna",
+      "url": "https://www.gov.pl/web/kgpsp/dokumentacja-operacyjna",
+      "opis": "KG PSP — Dokumentacja operacyjna",
+      "dotyczy_kart": [
+        "KARTA-ORG-"
+      ]
+    },
+    {
+      "id": "olioc-akademia",
+      "url": "https://www.gov.pl/web/olioc/akdemia-olioc",
+      "opis": "MSWiA — Akademia OLiOC (tematy miesięcy)",
+      "dotyczy_kart": [
+        "KARTA-OLIOC-"
+      ]
+    }
+  ],
+  "pliki_oficjalne": {
+    "opis": "Plik w repozytorium porównywany z aktualnym plikiem na stronie KG PSP. akceptuj_roznice: true — gdy różnica jest znana i zaakceptowana (np. skan).",
+    "lista": [
+      {
+        "dokument_id": "doc-lng-2025",
+        "url": "https://www.gov.pl/attachment/4dfb7619-3f47-4175-aeaf-74de22ecae85",
+        "strona": "zasady-organizacji-rat-chem"
+      },
+      {
+        "dokument_id": "doc-acetylen-szp-2020",
+        "url": "https://www.gov.pl/attachment/d56552c2-b754-4630-a566-759d0884faca",
+        "strona": "zasady-organizacji-rat-chem"
+      },
+      {
+        "dokument_id": "doc-ev-szp-2023",
+        "url": "https://www.gov.pl/attachment/7f492caf-686e-4df7-aec8-909ee86ecd4a",
+        "strona": "zasady-organizacji-rat-tech"
+      },
+      {
+        "dokument_id": "doc-b1-choroby-zakazne",
+        "url": "https://www.gov.pl/attachment/5d75e769-8e93-4270-8bbb-5c397880b01f",
+        "strona": "zasady-organizacji-rat-chem (Załącznik B.1)"
+      },
+      {
+        "dokument_id": "doc-b2-przesylka",
+        "url": "https://www.gov.pl/attachment/6fe22bb4-d520-42fd-94e3-056c430ec164",
+        "strona": "zasady-organizacji-rat-chem (Załącznik B.2)"
+      },
+      {
+        "dokument_id": "doc-b21-przesylka",
+        "url": "https://www.gov.pl/attachment/0553ada4-6635-46cb-9932-d12bc1eeee06",
+        "strona": "zasady-organizacji-rat-chem (Załącznik B.2.1)"
+      },
+      {
+        "dokument_id": "doc-b22-przesylka",
+        "url": "https://www.gov.pl/attachment/0650cbf2-47a1-4355-ad83-0df583e298af",
+        "strona": "zasady-organizacji-rat-chem (Załącznik B.2.2)"
+      },
+      {
+        "dokument_id": "doc-r1-radiologia",
+        "url": "https://www.gov.pl/attachment/9117d9bc-8a04-4f0a-bb57-2235d36e8bc9",
+        "strona": "zasady-organizacji-rat-chem (Załącznik R1)"
+      },
+      {
+        "dokument_id": "doc-r2-radiologia",
+        "url": "https://www.gov.pl/attachment/19824078-3ed1-4ffa-80b6-e87dd3153b25",
+        "strona": "zasady-organizacji-rat-chem (Załącznik R2)"
+      }
+    ]
+  }
+}
