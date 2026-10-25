@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-25T19:14:19.067Z",
+  "generated_at": "2026-10-25T19:16:22.916Z",
   "registry_version": "2.7",
-  "document_count": 79,
-  "active_document_count": 79,
-  "linked_document_count": 79,
+  "document_count": 80,
+  "active_document_count": 80,
+  "linked_document_count": 80,
   "unlinked_documents": [],
   "documents": [
     {
@@ -278,7 +278,7 @@
         {
           "procedure_id": "KARTA-ORG-METODYKA-ORGANIZACJI-LACZNOSCI-KDR",
           "strona": 1,
-          "sekcja": "Materiał szkoleniowy dotyczący organizacji łączności"
+          "sekcja": "Opis Metodyki (karty A, B, C) — s. 1–2"
         }
       ]
     },
@@ -1604,6 +1604,20 @@
           "procedure_id": "KARTA-PTASIA-GRYPA-SOI-I-DEKONTAMINACJA",
           "strona": 3,
           "sekcja": "GIS 2025 — środki ochrony (s. 3–4), zdejmowanie i postępowanie (s. 5)"
+        }
+      ]
+    },
+    {
+      "id": "doc-rozkaz-8-2019-lacznosc",
+      "tytul": "Rozkaz nr 8 Komendanta Głównego PSP z 5 kwietnia 2019 r. w sprawie wprowadzenia nowych zasad organizacji łączności radiowej (z Instrukcją)",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 64,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-ORG-METODYKA-ORGANIZACJI-LACZNOSCI-KDR",
+          "strona": 8,
+          "sekcja": "Struktura sieci radiowych (s. 8–9), dokumentacja łączności (s. 32)"
         }
       ]
     }

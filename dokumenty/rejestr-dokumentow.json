@@ -167,9 +167,10 @@
       "plik": "dokumenty/lacznosc/organizacja-lacznosci-kdr-2014.pdf",
       "id": "doc-lacznosc-kdr-2014",
       "status_techniczny": "aktywny",
-      "aktualnosc_merytoryczna": "wedlug_przekazanego_pliku",
+      "aktualnosc_merytoryczna": "zweryfikowano_2026-10-25",
       "liczba_stron": 5,
-      "sha256": "298e6d1d36a6c7f591779db71cd1a8f436aecc191c95d2a33adbaddb9131900f"
+      "sha256": "298e6d1d36a6c7f591779db71cd1a8f436aecc191c95d2a33adbaddb9131900f",
+      "uwagi": "Artykuł opisujący Metodykę (wersja ze stycznia 2014, oparta na instrukcji z 2009 r.). Aktualna Metodyka z 13.04.2016 nie jest opublikowana; definicje sieci i nazwy stanowisk – wg rozkazu 8/2019 (doc-rozkaz-8-2019-lacznosc)."
     },
     "doc-pv-szp-2022": {
       "tytul": "Standardowe zasady postępowania podczas zdarzeń w obrębie instalacji fotowoltaicznych",
@@ -1013,6 +1014,19 @@
       "liczba_stron": 6,
       "sha256": "410b9fd14cb21d2ddaddfa0ac1a7e14868b9fe5a54ad3764ac46704e2573092c",
       "uwagi": "Pobrano z gov.pl/web/gis, https://www.gov.pl/attachment/214a6768-a86a-4e76-80ad-24bfef54e207."
+    },
+    "doc-rozkaz-8-2019-lacznosc": {
+      "id": "doc-rozkaz-8-2019-lacznosc",
+      "tytul": "Rozkaz nr 8 Komendanta Głównego PSP z 5 kwietnia 2019 r. w sprawie wprowadzenia nowych zasad organizacji łączności radiowej (z Instrukcją)",
+      "wersja": "Dz. Urz. KG PSP 2019 poz. 7",
+      "data_wydania": "2019-04-05",
+      "rodzaj": "Rozkaz KG PSP",
+      "plik": "dokumenty/lacznosc/rozkaz-kgpsp-8-2019-instrukcja-lacznosci-radiowej.pdf",
+      "status_techniczny": "aktywny",
+      "aktualnosc_merytoryczna": "zweryfikowano_2026-10-25",
+      "liczba_stron": 64,
+      "sha256": "e3a74443ae5371beade66dd84f24a17ce99e5e1197af0f833a5de06db5cc3534",
+      "uwagi": "Pobrano z edziennik.straz.gov.pl/DU_PSP/2019/7/akt.pdf. Uchylił rozkaz nr 4 KG PSP z 09.06.2009."
     }
   }
 }
