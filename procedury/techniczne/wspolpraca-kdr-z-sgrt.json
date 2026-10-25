@@ -1,0 +1,221 @@
+{
+  "id": "KARTA-RT-WSPOLPRACA-KDR-SGRT",
+  "wzorzec": 2,
+  "kategoria": "organizacja",
+  "grupa": "rt",
+  "zakres": "specjalistyczny",
+  "zrodlo": "KG PSP: Zasady organizacji ratownictwa technicznego w krajowym systemie ratowniczo-gaśniczym, Warszawa, wrzesień 2026 r.",
+  "data_aktualizacji": "2026-10-25",
+  "slowo_kluczowe": "współpraca kdr z sgrt",
+  "keywords": [
+    "grupa ratownictwa technicznego",
+    "dysponowanie sgrt",
+    "wezwij sgrt",
+    "holownik psp",
+    "rotator",
+    "żuraw samojezdny psp",
+    "poziom a b c sgrt",
+    "dowódca działań sgrt",
+    "ciężki sprzęt ratownictwo techniczne"
+  ],
+  "aliasy": [
+    "grupa ratownictwa technicznego",
+    "dysponowanie sgrt",
+    "wezwij sgrt",
+    "holownik psp",
+    "rotator",
+    "żuraw samojezdny psp",
+    "poziom a b c sgrt",
+    "dowódca działań sgrt",
+    "ciężki sprzęt ratownictwo techniczne"
+  ],
+  "prefix": "Współpraca KDR ze specjalistyczną grupą ratownictwa technicznego (SGRT) — Zasady KG PSP 2026.",
+  "najpierw": [
+    {
+      "t": "Gdy zadanie przekracza sprzęt lub uprawnienia zakresu podstawowego — zgłoś stanowisku kierowania PSP potrzebę SGRT.",
+      "str": 21
+    },
+    {
+      "t": "Zorganizuj punkt przyjęcia sił i środków.",
+      "str": 22
+    },
+    {
+      "t": "Przekaż dowódcy działań SGRT swoją ocenę sytuacji i dokumentację.",
+      "str": 22
+    },
+    {
+      "t": "Wydziel odcinek bojowy dla SGRT — jego dowódcą jest dowódca działań SGRT.",
+      "str": 22
+    },
+    {
+      "t": "Zapewnij kanał dowodzenia i współdziałania oraz osobny kanał ratowniczo-gaśniczy dla SGRT.",
+      "str": 22
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "Poziom A",
+      "wartosc": "holownik · min. 6 ratowników · 2 pojazdy",
+      "str": 11
+    },
+    {
+      "nazwa": "Poziom B",
+      "wartosc": "rotator · min. 6 ratowników · 2 pojazdy",
+      "str": 11
+    },
+    {
+      "nazwa": "Poziom C",
+      "wartosc": "żuraw samojezdny · min. 3 ratowników · 2 pojazdy",
+      "str": 11
+    },
+    {
+      "nazwa": "Dysponuje",
+      "wartosc": "powiat: SK KP/KM PSP · poza powiat: SK KW PSP · poza województwo: SK KG PSP",
+      "str": 21
+    }
+  ],
+  "sekcje": [
+    {
+      "etykieta": "Zadania KDR",
+      "punkty": [
+        {
+          "t": "Przejmij kierowanie działaniem ratowniczym.",
+          "str": 22
+        },
+        {
+          "t": "W razie potrzeby powołaj sztab akcji.",
+          "str": 22
+        },
+        {
+          "t": "Zapewnij współpracę ze specjalistami z planu ratowniczego powiatu lub województwa.",
+          "str": 22
+        },
+        {
+          "t": "Rozwiń zaplecze logistyczne akcji.",
+          "str": 22
+        },
+        {
+          "t": "Przy dwóch lub więcej SGRT to Ty organizujesz teren działań i decydujesz o liczbie odcinków bojowych.",
+          "str": 23
+        },
+        {
+          "t": "Koordynuj czynności podstawowe i specjalistyczne z innymi podmiotami i służbami na miejscu zdarzenia.",
+          "str": 23
+        }
+      ]
+    },
+    {
+      "etykieta": "Co robi SGRT (poziom A i B)",
+      "punkty": [
+        {
+          "t": "Wszystkie zadania zakresu podstawowego oraz rozpoznanie i identyfikację zagrożenia.",
+          "str": 12
+        },
+        {
+          "t": "Wyznacza i oznakowuje strefę zagrożenia.",
+          "str": 12
+        },
+        {
+          "t": "Włącza lub wyłącza instalacje, urządzenia i media wpływające na bezpieczeństwo — zaworami i bezpiecznikami instalacji obiektu.",
+          "str": 12
+        },
+        {
+          "t": "Priorytetowo wykonuje dostęp do poszkodowanych, KPP lub ewakuację oraz drogi ewakuacji.",
+          "str": 12
+        },
+        {
+          "t": "Stabilizuje, tnie, rozpiera, podnosi i przenosi konstrukcje, urządzenia i przeszkody.",
+          "str": 12
+        },
+        {
+          "t": "Oświetla i zabezpiecza miejsce zdarzenia; ocenia rozmiar zagrożenia i prognozuje jego rozwój.",
+          "str": 12
+        },
+        {
+          "t": "Poziom C wspiera grupy A i B dodatkowym sprzętem, w szczególności żurawiem samojezdnym.",
+          "str": 12
+        }
+      ]
+    },
+    {
+      "etykieta": "Dowodzenie na odcinku SGRT",
+      "punkty": [
+        {
+          "t": "Dowódca działań SGRT odpowiada za zadanie, które mu powierzysz.",
+          "str": 22
+        },
+        {
+          "t": "Dowódca działań SGRT decyduje o technikach, zakresie działań, użyciu sprzętu grupy i zadaniach jej członków.",
+          "str": 23
+        },
+        {
+          "t": "Po przybyciu ocenia: rodzaj zagrożenia i wyniki rozpoznania, zabezpieczenie miejsca, KPP i ewakuację poszkodowanych, potrzebne siły i środki, sposób dotarcia.",
+          "str": 22
+        },
+        {
+          "t": "Udział podmiotów spoza KSRG (np. firmy z ciężkim sprzętem) — tylko w porozumieniu z dowódcą działań SGRT; on nadzoruje bezpieczeństwo tych osób.",
+          "str": 23
+        },
+        {
+          "t": "Zabezpieczenie medyczne: gotowość do podjęcia medycznych działań ratowniczych.",
+          "str": 23
+        }
+      ]
+    },
+    {
+      "etykieta": "Zakończenie",
+      "punkty": [
+        {
+          "t": "Decyzję o zakończeniu podejmuje KDR — dopiero po likwidacji bezpośredniego zagrożenia.",
+          "str": 23
+        },
+        {
+          "t": "Teren, obiekt lub mienie przekaż na podstawie „Potwierdzenia przekazania terenu, obiektu lub mienia objętego działaniem ratowniczym”.",
+          "str": 23
+        }
+      ]
+    }
+  ],
+  "wsparcie": [
+    {
+      "t": "Dowódca działań SGRT wnioskuje o powiększenie składu lub kolejną grupę.",
+      "str": 22
+    },
+    {
+      "t": "Ratujesz życie — przy dysponowaniu uwzględnij najszybszy transport grupy.",
+      "str": 22
+    },
+    {
+      "t": "Przebieg akcji tego wymaga — rozważ zabezpieczenie medyczne działań.",
+      "str": 21
+    }
+  ],
+  "nie_rob": [
+    {
+      "t": "Nie używaj sprzętu niekompletnego, niesprawnego lub bez aktualnych dopuszczeń i przeglądów.",
+      "str": 21
+    },
+    {
+      "t": "Nie dopuszczaj do obsługi urządzeń osób bez uprawnień wymaganych przepisami o dozorze technicznym.",
+      "str": 21
+    },
+    {
+      "t": "Nie kończ działań SGRT przed likwidacją bezpośredniego zagrożenia.",
+      "str": 23
+    }
+  ],
+  "tagi_wspolne": [
+    "ratownictwo techniczne",
+    "zakres specjalistyczny",
+    "SGRT",
+    "organizacja działań"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-rt-zasady-2026",
+      "strona": 21,
+      "sekcja": "Rozdział 3 (s. 11–12) i Rozdział 6 (s. 21–23)"
+    }
+  ],
+  "content": "1. NAJPIERW: Gdy zadanie przekracza sprzęt lub uprawnienia zakresu podstawowego — zgłoś stanowisku kierowania PSP potrzebę SGRT. Zorganizuj punkt przyjęcia sił i środków. Przekaż dowódcy działań SGRT swoją ocenę sytuacji i dokumentację. Wydziel odcinek bojowy dla SGRT — jego dowódcą jest dowódca działań SGRT. Zapewnij kanał dowodzenia i współdziałania oraz osobny kanał ratowniczo-gaśniczy dla SGRT.\n2. PARAMETRY: Poziom A — holownik · min. 6 ratowników · 2 pojazdy; Poziom B — rotator · min. 6 ratowników · 2 pojazdy; Poziom C — żuraw samojezdny · min. 3 ratowników · 2 pojazdy; Dysponuje — powiat: SK KP/KM PSP · poza powiat: SK KW PSP · poza województwo: SK KG PSP\n3. ZADANIA KDR: Przejmij kierowanie działaniem ratowniczym. W razie potrzeby powołaj sztab akcji. Zapewnij współpracę ze specjalistami z planu ratowniczego powiatu lub województwa. Rozwiń zaplecze logistyczne akcji. Przy dwóch lub więcej SGRT to Ty organizujesz teren działań i decydujesz o liczbie odcinków bojowych. Koordynuj czynności podstawowe i specjalistyczne z innymi podmiotami i służbami na miejscu zdarzenia.\n4. CO ROBI SGRT (POZIOM A I B): Wszystkie zadania zakresu podstawowego oraz rozpoznanie i identyfikację zagrożenia. Wyznacza i oznakowuje strefę zagrożenia. Włącza lub wyłącza instalacje, urządzenia i media wpływające na bezpieczeństwo — zaworami i bezpiecznikami instalacji obiektu. Priorytetowo wykonuje dostęp do poszkodowanych, KPP lub ewakuację oraz drogi ewakuacji. Stabilizuje, tnie, rozpiera, podnosi i przenosi konstrukcje, urządzenia i przeszkody. Oświetla i zabezpiecza miejsce zdarzenia; ocenia rozmiar zagrożenia i prognozuje jego rozwój. Poziom C wspiera grupy A i B dodatkowym sprzętem, w szczególności żurawiem samojezdnym.\n5. DOWODZENIE NA ODCINKU SGRT: Dowódca działań SGRT odpowiada za zadanie, które mu powierzysz. Dowódca działań SGRT decyduje o technikach, zakresie działań, użyciu sprzętu grupy i zadaniach jej członków. Po przybyciu ocenia: rodzaj zagrożenia i wyniki rozpoznania, zabezpieczenie miejsca, KPP i ewakuację poszkodowanych, potrzebne siły i środki, sposób dotarcia. Udział podmiotów spoza KSRG (np. firmy z ciężkim sprzętem) — tylko w porozumieniu z dowódcą działań SGRT; on nadzoruje bezpieczeństwo tych osób. Zabezpieczenie medyczne: gotowość do podjęcia medycznych działań ratowniczych.\n6. ZAKOŃCZENIE: Decyzję o zakończeniu podejmuje KDR — dopiero po likwidacji bezpośredniego zagrożenia. Teren, obiekt lub mienie przekaż na podstawie „Potwierdzenia przekazania terenu, obiektu lub mienia objętego działaniem ratowniczym”.\n7. WEZWIJ WSPARCIE, GDY: Dowódca działań SGRT wnioskuje o powiększenie składu lub kolejną grupę. Ratujesz życie — przy dysponowaniu uwzględnij najszybszy transport grupy. Przebieg akcji tego wymaga — rozważ zabezpieczenie medyczne działań.\n8. NIE RÓB: Nie używaj sprzętu niekompletnego, niesprawnego lub bez aktualnych dopuszczeń i przeglądów. Nie dopuszczaj do obsługi urządzeń osób bez uprawnień wymaganych przepisami o dozorze technicznym. Nie kończ działań SGRT przed likwidacją bezpośredniego zagrożenia."
+}

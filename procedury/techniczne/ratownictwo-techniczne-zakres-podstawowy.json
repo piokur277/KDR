@@ -1,0 +1,142 @@
+{
+  "id": "KARTA-RT-ZAKRES-PODSTAWOWY",
+  "wzorzec": 2,
+  "kategoria": "dzialania",
+  "grupa": "rt",
+  "zakres": "podstawowy",
+  "zrodlo": "KG PSP: Zasady organizacji ratownictwa technicznego w krajowym systemie ratowniczo-gaśniczym, Warszawa, wrzesień 2026 r.",
+  "data_aktualizacji": "2026-10-25",
+  "slowo_kluczowe": "ratownictwo techniczne zakres podstawowy",
+  "keywords": [
+    "zakres podstawowy ratownictwo techniczne",
+    "co robi zastęp ratownictwo techniczne",
+    "uwolnienie uwięzionego",
+    "osoba uwięziona",
+    "stabilizacja i cięcie konstrukcji",
+    "rozpieranie podnoszenie konstrukcji",
+    "miejscowe zagrożenie techniczne",
+    "kiedy wezwać sgrt",
+    "rt zakres podstawowy"
+  ],
+  "aliasy": [
+    "zakres podstawowy ratownictwo techniczne",
+    "co robi zastęp ratownictwo techniczne",
+    "uwolnienie uwięzionego",
+    "osoba uwięziona",
+    "stabilizacja i cięcie konstrukcji",
+    "rozpieranie podnoszenie konstrukcji",
+    "miejscowe zagrożenie techniczne",
+    "kiedy wezwać sgrt",
+    "rt zakres podstawowy"
+  ],
+  "prefix": "Ratownictwo techniczne — zakres podstawowy zastępów KSRG (Zasady KG PSP, 2026).",
+  "najpierw": [
+    {
+      "t": "Rozpoznaj i oceń zagrożenie dla ludzi, zwierząt, środowiska i mienia — życie ludzi to priorytet.",
+      "str": 8
+    },
+    {
+      "t": "Dotrzyj do uwięzionych, udziel KPP i przekaż poszkodowanych ZRM poza strefą zagrożenia.",
+      "str": 8
+    },
+    {
+      "t": "Zapewnij asekurację ratowników w strefie zagrożenia i w jej sąsiedztwie.",
+      "str": 8
+    },
+    {
+      "t": "Ewakuuj ludzi z miejsc zagrożenia życia i zdrowia.",
+      "str": 8
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "Gotowość",
+      "wartosc": "min. 1 zastęp · 6 ratowników",
+      "str": 8
+    },
+    {
+      "nazwa": "Strefa zagrożenia",
+      "wartosc": "Zasady nie podają wymiarów — wyznacz z rozpoznania",
+      "str": 6
+    },
+    {
+      "nazwa": "Wsparcie SGRT",
+      "wartosc": "A holownik · B rotator · C żuraw samojezdny",
+      "str": 11
+    }
+  ],
+  "sekcje": [
+    {
+      "etykieta": "Działania techniczne",
+      "punkty": [
+        {
+          "t": "Stabilizuj, tnij, rozpieraj, podnoś lub przemieszczaj konstrukcje, instalacje, urządzenia i przeszkody — w ramach posiadanego wyposażenia.",
+          "str": 8
+        },
+        {
+          "t": "Ewakuuj zwierzęta i mienie.",
+          "str": 8
+        },
+        {
+          "t": "Współdziałaj z podmiotami KSRG i innymi podmiotami zdolnymi do ratownictwa technicznego.",
+          "str": 8
+        }
+      ]
+    },
+    {
+      "etykieta": "Bezpieczeństwo",
+      "punkty": [
+        {
+          "t": "KDR stosuje rozporządzenie MSWiA w sprawie warunków BHP strażaków PSP.",
+          "str": 21
+        },
+        {
+          "t": "Odzież specjalna, SOI i wyposażenie osobiste stosownie do czynności.",
+          "str": 21
+        },
+        {
+          "t": "Urządzenia obsługują tylko osoby z wymaganymi uprawnieniami (m.in. UDT, hakowy).",
+          "str": 21
+        },
+        {
+          "t": "W zależności od przebiegu akcji rozważ zabezpieczenie medyczne.",
+          "str": 21
+        }
+      ]
+    }
+  ],
+  "wsparcie": [
+    {
+      "t": "Zadanie przekracza sprzęt lub uprawnienia zastępu — zgłoś SK PSP potrzebę SGRT.",
+      "str": 21
+    }
+  ],
+  "nie_rob": [
+    {
+      "t": "Nie używaj sprzętu niekompletnego, niesprawnego lub bez aktualnych dopuszczeń i przeglądów.",
+      "str": 21
+    },
+    {
+      "t": "Nie dopuszczaj do obsługi urządzeń osób bez uprawnień.",
+      "str": 21
+    },
+    {
+      "t": "Nie pracuj w strefie zagrożenia bez asekuracji.",
+      "str": 8
+    }
+  ],
+  "tagi_wspolne": [
+    "ratownictwo techniczne",
+    "zakres podstawowy",
+    "miejscowe zagrożenie",
+    "SGRT"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-rt-zasady-2026",
+      "strona": 8,
+      "sekcja": "Rozdział 2 — zakres podstawowy (ust. 2.1–2.5); Rozdział 6.1 — bezpieczeństwo (s. 21); def. strefy zagrożenia (s. 6)"
+    }
+  ],
+  "content": "1. NAJPIERW: Rozpoznaj i oceń zagrożenie dla ludzi, zwierząt, środowiska i mienia — życie ludzi to priorytet. Dotrzyj do uwięzionych, udziel KPP i przekaż poszkodowanych ZRM poza strefą zagrożenia. Zapewnij asekurację ratowników w strefie zagrożenia i w jej sąsiedztwie. Ewakuuj ludzi z miejsc zagrożenia życia i zdrowia.\n2. PARAMETRY: Gotowość — min. 1 zastęp · 6 ratowników; Strefa zagrożenia — Zasady nie podają wymiarów — wyznacz z rozpoznania; Wsparcie SGRT — A holownik · B rotator · C żuraw samojezdny\n3. DZIAŁANIA TECHNICZNE: Stabilizuj, tnij, rozpieraj, podnoś lub przemieszczaj konstrukcje, instalacje, urządzenia i przeszkody — w ramach posiadanego wyposażenia. Ewakuuj zwierzęta i mienie. Współdziałaj z podmiotami KSRG i innymi podmiotami zdolnymi do ratownictwa technicznego.\n4. BEZPIECZEŃSTWO: KDR stosuje rozporządzenie MSWiA w sprawie warunków BHP strażaków PSP. Odzież specjalna, SOI i wyposażenie osobiste stosownie do czynności. Urządzenia obsługują tylko osoby z wymaganymi uprawnieniami (m.in. UDT, hakowy). W zależności od przebiegu akcji rozważ zabezpieczenie medyczne.\n5. WEZWIJ WSPARCIE, GDY: Zadanie przekracza sprzęt lub uprawnienia zastępu — zgłoś SK PSP potrzebę SGRT.\n6. NIE RÓB: Nie używaj sprzętu niekompletnego, niesprawnego lub bez aktualnych dopuszczeń i przeglądów. Nie dopuszczaj do obsługi urządzeń osób bez uprawnień. Nie pracuj w strefie zagrożenia bez asekuracji."
+}

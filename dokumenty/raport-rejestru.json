@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-05T12:40:43.930Z",
+  "generated_at": "2026-10-25T17:31:11.047Z",
   "registry_version": "2.7",
-  "document_count": 70,
-  "active_document_count": 70,
-  "linked_document_count": 70,
+  "document_count": 71,
+  "active_document_count": 71,
+  "linked_document_count": 71,
   "unlinked_documents": [],
   "documents": [
     {
@@ -1453,6 +1453,25 @@
           "procedure_id": "KARTA-EL-PSE-LINIE-STACJE-NN",
           "strona": 10,
           "sekcja": "Materiał pomocniczy: napięcie dotykowe i krokowe, skutki porażenia, łuk elektryczny"
+        }
+      ]
+    },
+    {
+      "id": "doc-rt-zasady-2026",
+      "tytul": "Zasady organizacji ratownictwa technicznego w krajowym systemie ratowniczo-gaśniczym",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 27,
+      "liczba_powiazan": 2,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-RT-ZAKRES-PODSTAWOWY",
+          "strona": 8,
+          "sekcja": "Rozdział 2 — zakres podstawowy (ust. 2.1–2.5); Rozdział 6.1 — bezpieczeństwo (s. 21); def. strefy zagrożenia (s. 6)"
+        },
+        {
+          "procedure_id": "KARTA-RT-WSPOLPRACA-KDR-SGRT",
+          "strona": 21,
+          "sekcja": "Rozdział 3 (s. 11–12) i Rozdział 6 (s. 21–23)"
         }
       ]
     }

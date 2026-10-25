@@ -1,8 +1,11 @@
 {
   "id": "KARTA-CHEM-Z4-LNG-WYCIEK",
+  "wzorzec": 2,
   "kategoria": "dzialania",
+  "grupa": "cbrn",
+  "zakres": "podstawowy",
   "zrodlo": "Zasady postepowania podczas zdarzen z LNG, KG PSP",
-  "data_aktualizacji": "2025-12",
+  "data_aktualizacji": "2026-10-25",
   "slowo_kluczowe": "wyciek lng bez pozaru",
   "keywords": [
     "wyciek lng",
@@ -13,14 +16,6 @@
     "chmura gazu ziemnego",
     "cieknie lng"
   ],
-  "prefix": "Karta Z4 - Wyciek LNG z cysterny bez pozaru.",
-  "content": "1. KOD / NAZWA: LNG Z4 - wyciek LNG z cysterny bez pozaru.\n2. ROZPOZNANIE: zwroc uwage na pelzajaca wzdluz ziemi chmure gazu oraz zaglebienia, studzienki i obszary poza jej widoczna granica.\n3. STREFA: wyznacz strefe zagrozenia 150 m i bezwzglednie wyeliminuj wszystkie zrodla zaplonu.\n4. SOI: przy probie zatrzymania wycieku pracuj w rekawicach kriogenicznych.\n5. DZIALANIA KRYTYCZNE: rozstaw kurtyny wodne pod katem prostym do kierunku wiatru, aby ograniczyc i rozcienczac chmure LNG. Natychmiast rozpocznij pomiary stezen i kontroluj atmosfere na poziomie DGW.\n6. PROCEDURA SZCZEGOLOWA: bezpieczny limit dla ratownikow przyjeto jako 2,5%, a pomiar alarmowy jako DGW 5%. Jezeli powstalo rozlewisko, ogranicz parowanie przez nalozenie kołdry z piany lekkiej o wysokosci 1,2 m i uzupelniaj ja co minute. Podejmij probe zatrzymania wycieku przez przycisk awaryjny, zawory lub specjalistyczne kolki do urzadzen Ex i kriogenicznych. Zabezpiecz teren i wezwij grupe SPOT z zapasowa cysterna LNG.\n7. CO MOZE POJSC NIE TAK: podanie wody bezposrednio na wyciek lub kaluze LNG natychmiast zintensyfikuje produkcje chmury wybuchowej.\n8. UWAGI OPERACYJNE: kontroluj nie tylko widoczna chmure, ale tez otoczenie, w ktorym moze dojsc do nagromadzenia stezen wybuchowych.",
-  "tagi_wspolne": [
-    "lng",
-    "gaz skroplony",
-    "cysterna lng",
-    "wyciek"
-  ],
   "aliasy": [
     "wyciek lng",
     "gaz ucieka z cysterny",
@@ -30,11 +25,175 @@
     "chmura gazu ziemnego",
     "cieknie lng"
   ],
+  "prefix": "Karta Z4 — wyciek LNG z cysterny bez pożaru.",
+  "najpierw": [
+    {
+      "t": "Wyznacz strefę zagrożenia 150 m wokół cysterny lub zbiornika.",
+      "str": 10
+    },
+    {
+      "t": "Wyeliminuj ze strefy wszystkie źródła zapłonu.",
+      "str": 10
+    },
+    {
+      "t": "Rozpoznanie prowadź zza osłony tarczy balistycznej.",
+      "str": 10
+    },
+    {
+      "t": "Sprawiaj kurtyny wodne prostopadle do kierunku wiatru, od strony zawietrznej.",
+      "str": 10
+    },
+    {
+      "t": "Mierz eksplozymetrem stężenie metanu — także poza widoczną chmurą.",
+      "str": 10
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "Strefa zagrożenia",
+      "wartosc": "150 m",
+      "str": 10
+    },
+    {
+      "nazwa": "Bezpieczne stężenie",
+      "wartosc": "do 50% DGW = 2,5%",
+      "str": 10
+    },
+    {
+      "nazwa": "Zakres palności",
+      "wartosc": "DGW 5% – GGW 15%",
+      "str": 10
+    },
+    {
+      "nazwa": "Piana lekka na rozlewisko",
+      "wartosc": "500:1 (±50) · 10 l/(min·m²) · warstwa 1,2 m · co 1 min przez 30 s",
+      "str": 10
+    }
+  ],
+  "sekcje": [
+    {
+      "etykieta": "Rozpoznanie",
+      "punkty": [
+        {
+          "t": "Oceń uszkodzenia cysterny.",
+          "str": 10
+        },
+        {
+          "t": "Odczytaj przyrządy na cysternie: poziomowskaz, ciśnieniomierz, temperaturę fazy ciekłej oraz tabliczkę znamionową.",
+          "str": 10
+        },
+        {
+          "t": "Uwzględnij warunki meteorologiczne i terenowe.",
+          "str": 10
+        }
+      ]
+    },
+    {
+      "etykieta": "Ograniczenie chmury gazu",
+      "punkty": [
+        {
+          "t": "Kurtyny i stacjonarne prądy rozproszone rozcieńczają gaz i tworzą barierę.",
+          "str": 10
+        },
+        {
+          "t": "Blisko wycieku gaz ściele się nisko; dalej unosi się (powyżej −107°C jest lżejszy od powietrza).",
+          "str": 10
+        },
+        {
+          "t": "Zorganizuj zaopatrzenie wodne odpowiednie do liczby prądów i kurtyn.",
+          "str": 10
+        },
+        {
+          "t": "W razie potrzeby rozcieńczaj chmurę wentylatorami w wykonaniu Ex.",
+          "str": 10
+        }
+      ]
+    },
+    {
+      "etykieta": "Pomiary",
+      "punkty": [
+        {
+          "t": "Stężenia palne mogą występować na obrzeżach i poza widoczną chmurą.",
+          "str": 10
+        },
+        {
+          "t": "Sprawdzaj przestrzenie zamknięte i częściowo zamknięte — tam może dojść do wybuchu.",
+          "str": 10
+        }
+      ]
+    },
+    {
+      "etykieta": "Rozlewisko",
+      "punkty": [
+        {
+          "t": "Ogranicz odparowanie pianą lekką położoną na powierzchnię wycieku.",
+          "str": 10
+        },
+        {
+          "t": "Na LNG tworzy się tafla lodu i „kominy lodowe”; piana się degraduje — uzupełniaj ją regularnie.",
+          "str": 10
+        }
+      ]
+    },
+    {
+      "etykieta": "Likwidacja wycieku",
+      "punkty": [
+        {
+          "t": "Użyj przycisku awaryjnego — jest po obu stronach cysterny i odcina wypływ, jeśli odbywa się przez zawór.",
+          "str": 10
+        },
+        {
+          "t": "Zakręć zawór awaryjny.",
+          "str": 10
+        },
+        {
+          "t": "Uszczelnianie (kołki, kliny, włóknina, opaska dociskowa) to poziom specjalistyczny: sprzęt Ex i ochrona przed cieczami kriogenicznymi, np. rękawice kriogeniczne.",
+          "str": 11
+        }
+      ]
+    },
+    {
+      "etykieta": "Po opanowaniu wycieku",
+      "punkty": [
+        {
+          "t": "Spróbuj przepompować LNG do zapasowej cysterny przystosowanej do przewozu LNG — przewodami kriogenicznymi.",
+          "str": 11
+        }
+      ]
+    }
+  ],
+  "wsparcie": [
+    {
+      "t": "Uszczelnienie wymaga poziomu specjalistycznego.",
+      "str": 11
+    },
+    {
+      "t": "Przepompowanie — środki firmy transportowej lub SPOT.",
+      "str": 11
+    }
+  ],
+  "nie_rob": [
+    {
+      "t": "Nie podawaj na rozlewisko wody ani piany ciężkiej — ogrzewają LNG i przyspieszają odparowanie.",
+      "str": 10
+    },
+    {
+      "t": "Nie uznawaj granicy widocznej chmury za granicę zagrożenia.",
+      "str": 10
+    }
+  ],
+  "tagi_wspolne": [
+    "lng",
+    "gaz skroplony",
+    "cysterna lng",
+    "wyciek"
+  ],
   "dokumenty_zrodlowe": [
     {
       "dokument_id": "doc-lng-2025",
       "strona": 10,
       "sekcja": "Karta LNG"
     }
-  ]
+  ],
+  "content": "1. NAJPIERW: Wyznacz strefę zagrożenia 150 m wokół cysterny lub zbiornika. Wyeliminuj ze strefy wszystkie źródła zapłonu. Rozpoznanie prowadź zza osłony tarczy balistycznej. Sprawiaj kurtyny wodne prostopadle do kierunku wiatru, od strony zawietrznej. Mierz eksplozymetrem stężenie metanu — także poza widoczną chmurą.\n2. PARAMETRY: Strefa zagrożenia — 150 m; Bezpieczne stężenie — do 50% DGW = 2,5%; Zakres palności — DGW 5% – GGW 15%; Piana lekka na rozlewisko — 500:1 (±50) · 10 l/(min·m²) · warstwa 1,2 m · co 1 min przez 30 s\n3. ROZPOZNANIE: Oceń uszkodzenia cysterny. Odczytaj przyrządy na cysternie: poziomowskaz, ciśnieniomierz, temperaturę fazy ciekłej oraz tabliczkę znamionową. Uwzględnij warunki meteorologiczne i terenowe.\n4. OGRANICZENIE CHMURY GAZU: Kurtyny i stacjonarne prądy rozproszone rozcieńczają gaz i tworzą barierę. Blisko wycieku gaz ściele się nisko; dalej unosi się (powyżej −107°C jest lżejszy od powietrza). Zorganizuj zaopatrzenie wodne odpowiednie do liczby prądów i kurtyn. W razie potrzeby rozcieńczaj chmurę wentylatorami w wykonaniu Ex.\n5. POMIARY: Stężenia palne mogą występować na obrzeżach i poza widoczną chmurą. Sprawdzaj przestrzenie zamknięte i częściowo zamknięte — tam może dojść do wybuchu.\n6. ROZLEWISKO: Ogranicz odparowanie pianą lekką położoną na powierzchnię wycieku. Na LNG tworzy się tafla lodu i „kominy lodowe”; piana się degraduje — uzupełniaj ją regularnie.\n7. LIKWIDACJA WYCIEKU: Użyj przycisku awaryjnego — jest po obu stronach cysterny i odcina wypływ, jeśli odbywa się przez zawór. Zakręć zawór awaryjny. Uszczelnianie (kołki, kliny, włóknina, opaska dociskowa) to poziom specjalistyczny: sprzęt Ex i ochrona przed cieczami kriogenicznymi, np. rękawice kriogeniczne.\n8. PO OPANOWANIU WYCIEKU: Spróbuj przepompować LNG do zapasowej cysterny przystosowanej do przewozu LNG — przewodami kriogenicznymi.\n9. WEZWIJ WSPARCIE, GDY: Uszczelnienie wymaga poziomu specjalistycznego. Przepompowanie — środki firmy transportowej lub SPOT.\n10. NIE RÓB: Nie podawaj na rozlewisko wody ani piany ciężkiej — ogrzewają LNG i przyspieszają odparowanie. Nie uznawaj granicy widocznej chmury za granicę zagrożenia."
 }
