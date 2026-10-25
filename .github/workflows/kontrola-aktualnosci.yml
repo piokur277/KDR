@@ -1,0 +1,74 @@
+# Cykl kontroli aktualności KDR AI
+# - co poniedziałek: zmiany źródeł online (nowe wydania, zmienione strony, niedostępne linki)
+# - pierwszy poniedziałek miesiąca: pełny przegląd (spójność, wiek dokumentów, przegląd kart)
+# Wynik: zgłoszenie (Issue) z listą punktów do decyzji. Treść kart nie jest zmieniana automatycznie.
+
+name: Kontrola aktualności
+
+on:
+  schedule:
+    # poniedziałek 05:17 UTC (06:17/07:17 w Polsce)
+    - cron: "17 5 * * 1"
+  workflow_dispatch:
+    inputs:
+      tryb:
+        description: "Tryb kontroli"
+        type: choice
+        options: [pelny, tygodniowy]
+        default: pelny
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: kontrola-aktualnosci
+  cancel-in-progress: false
+
+jobs:
+  kontrola:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Wybór trybu
+        id: tryb
+        run: |
+          if [ -n "${{ inputs.tryb }}" ]; then
+            echo "tryb=${{ inputs.tryb }}" >> "$GITHUB_OUTPUT"
+          elif [ "$(date -u +%d)" -le 7 ]; then
+            echo "tryb=pelny" >> "$GITHUB_OUTPUT"
+          else
+            echo "tryb=tygodniowy" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Kontrola
+        id: kontrola
+        run: node kontrola/kontrola-aktualnosci.mjs --tryb=${{ steps.tryb.outputs.tryb }}
+
+      - name: Zapis stanu źródeł i raportu
+        run: |
+          git config user.name "kontrola-aktualnosci[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add kontrola/stan.json kontrola/raport.md
+          if ! git diff --cached --quiet; then
+            git commit -m "Kontrola aktualności: stan źródeł $(date -u +%F)"
+            git push
+          fi
+
+      - name: Zgłoszenie do przeglądu
+        if: steps.kontrola.outputs.do_zgloszenia == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh label create aktualnosc --color FBCA04 --description "Kontrola aktualności danych" --force
+          gh issue create \
+            --title "${{ steps.kontrola.outputs.tytul }}" \
+            --body-file kontrola/zgloszenie.md \
+            --label aktualnosc \
+            --assignee "${{ github.repository_owner }}"
