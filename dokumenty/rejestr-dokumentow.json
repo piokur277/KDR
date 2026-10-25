@@ -906,6 +906,19 @@
       "liczba_stron": 27,
       "sha256": "83f9a24c95f2fd9b8e805f648eb593ab695180f72e182d9e26764a7afbdcece0",
       "uwagi": "Pobrano ze strony KG PSP (Ratownictwo techniczne — zasady i inne dokumenty), https://www.gov.pl/attachment/73a0419f-c51c-4b12-8570-4cd5a7989413. Zastępuje wydanie z 2021 r."
+    },
+    "doc-zodr-2013": {
+      "id": "doc-zodr-2013",
+      "tytul": "Zasady organizowania działań ratowniczych",
+      "wersja": "Marzec 2013 (zatwierdzone przez Komendanta Głównego PSP)",
+      "data_wydania": "2013-03",
+      "rodzaj": "Zasady KG PSP",
+      "plik": "dokumenty/organizacja/zasady-organizowania-dzialan-ratowniczych-2013-03.pdf",
+      "status_techniczny": "aktywny",
+      "aktualnosc_merytoryczna": "zweryfikowano_2026-10-25",
+      "liczba_stron": 15,
+      "sha256": "bc24a548f4367afea131252b0c4fbd96f6aa2e97740e09f911d11097735ee01f",
+      "uwagi": "Skan. Pobrano ze strony KG PSP Dokumentacja operacyjna, https://www.gov.pl/attachment/6271c49d-5c46-4a10-891c-a81eeacac88b. Na dzień 2026-10-25 to jedyne wydanie opublikowane przez KG PSP."
     }
   }
 }

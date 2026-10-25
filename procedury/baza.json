@@ -4500,9 +4500,17 @@
     ],
     "pelna_procedura": {
       "tytul": "Zasady organizowania dzialan ratowniczych, Komenda Glowna Panstwowej Strazy Pozarnej, Warszawa 2013",
-      "plik": "",
-      "strona": null
-    }
+      "plik": "dokumenty/organizacja/zasady-organizowania-dzialan-ratowniczych-2013-03.pdf",
+      "strona": 4
+    },
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-zodr-2013",
+        "strona": 4,
+        "sekcja": "Wstęp pkt 1 (s. 4); zakres działań (s. 7); uprawnienia KDR (s. 9); kierowanie, rozpoznanie, ciągłość (s. 10–12); odwód, odcinki bojowe, sztab (s. 12–13); zakończenie działań (s. 14)"
+      }
+    ],
+    "data_przegladu": "2026-10-25"
   },
   {
     "id": "POZ-EV-01",
