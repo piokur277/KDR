@@ -1906,9 +1906,17 @@
       {
         "dokument_id": "doc-lacznosc-kdr-2014",
         "strona": 1,
-        "sekcja": "Materiał szkoleniowy dotyczący organizacji łączności",
+        "sekcja": "Opis Metodyki (karty A, B, C) — s. 1–2",
         "tytul": "Organizacja łączności na potrzeby KDR - materiał szkoleniowy",
         "plik": "dokumenty/lacznosc/organizacja-lacznosci-kdr-2014.pdf",
+        "typ": "pdf"
+      },
+      {
+        "dokument_id": "doc-rozkaz-8-2019-lacznosc",
+        "strona": 8,
+        "sekcja": "Struktura sieci radiowych (s. 8–9), dokumentacja łączności (s. 32)",
+        "tytul": "Rozkaz nr 8 Komendanta Głównego PSP z 5 kwietnia 2019 r. w sprawie wprowadzenia nowych zasad organizacji łączności radiowej (z Instrukcją)",
+        "plik": "dokumenty/lacznosc/rozkaz-kgpsp-8-2019-instrukcja-lacznosci-radiowej.pdf",
         "typ": "pdf"
       }
     ]

@@ -4300,9 +4300,10 @@
   },
   {
     "id": "KARTA-ORG-METODYKA-ORGANIZACJI-LACZNOSCI-KDR",
+    "wzorzec": 2,
     "kategoria": "organizacja",
-    "zrodlo": "Metodyka postepowania podczas organizacji lacznosci na potrzeby kierujacego dzialaniem ratowniczym, KG PSP, Warszawa 2016",
-    "data_aktualizacji": "2016-04",
+    "zrodlo": "KG PSP: Metodyka postępowania podczas organizacji łączności na potrzeby KDR (13.04.2016, niepublikowana; opis: „Przegląd Pożarniczy” 4/2014); Rozkaz nr 8 KG PSP z 05.04.2019 – Instrukcja w sprawie organizacji łączności radiowej",
+    "data_aktualizacji": "2026-10-25",
     "slowo_kluczowe": "organizacja lacznosci kdr",
     "keywords": [
       "lacznosc na potrzeby kdr",
@@ -4315,12 +4316,6 @@
       "sztab lacznosc",
       "odcinek bojowy lacznosc"
     ],
-    "prefix": "Metodyka organizacji lacznosci na potrzeby KDR - karta organizacyjna lacznosci.",
-    "content": "1. CEL DOKUMENTU: uporzadkowanie zasad organizacji lacznosci i alarmowania na potrzeby KDR oraz zapewnienie czytelnego obiegu informacji podczas dzialan ratowniczych.\n2. KIEDY STOSOWAC: przy organizowaniu lacznosci na poziomie interwencyjnym i taktycznym, z uwzglednieniem pracy bez sztabu, ze sztabem oraz z wykorzystaniem PPSiS.\n3. POZIOM INTERWENCYJNY: korespondencja radiowa prowadzona jest co do zasady w relacji PSK/MSK - dowodca. Przy dysponowaniu dodatkowych sil z wlasnego powiatu po zgloszeniu przyjazdu do KDR oczekuja one w sieci powiatowej na przydzial kanalu pracy.\n4. SILY SPOZA POWIATU: dodatkowe sily z innych powiatow lub wojewodztw po zgloszeniu przyjazdu do PSK/MSK w sieci KSW oczekuja na przydzial stosownego kanalu przez stanowisko kierowania.\n5. ROZBUDOWA LACZNOSCI: kolejne KRG uruchamia sie wtedy, gdy ilosc prowadzonej korespondencji utrudnia sprawne przekazywanie informacji. W przypadku statkow powietrznych lacznosc uruchamia sie zgodnie z metodyka po otrzymaniu zapotrzebowania od KDR.\n6. POZIOM TAKTYCZNY BEZ SZTABU: lacznosc organizuje sie przez podzial strefy dzialan na odcinki bojowe i wyznaczenie odpowiednich kanalow pracy dla kierujacych odcinkami oraz innych podmiotow uczestniczacych w dzialaniach. KDR zglasza do PSK/MSK potrzebe przydzialu kanalow KRG.\n7. PODZIAL KANALOW: po otrzymaniu zapotrzebowania PSK/MSK wystepuje do WSKR o uruchomienie sieci KDW i przydzial odpowiednich KDW oraz KRG. KDR laczy sie z dowodcami odcinkow bojowych przez KDW, natomiast dowodcy odcinkow bojowych prowadza lacznosc z podleglymi silami przez KRG.\n8. PPSIS I SZTAB: przy organizacji dzialan z wykorzystaniem PPSiS oraz przy powolaniu sztabu lacznosc dzieli sie dalej pomiedzy KDR, sztab, dowodcow odcinkow, SIS, rejon koncentracji i inne podmioty wspoldzialajace, z zachowaniem rozdzialu kanalow dowodzenia i wykonawczych.\n9. STALE ZASADY PRACY: stosowac jednolite kryptonimy alarmowe i okolicznikowe, sygnaly KSW oraz nazwy rejonow koncentracji i stanowisk zgodnie z dokumentem. Struktura lacznosci musi byc czytelna i adekwatna do poziomu kierowania.\n10. UWAGI OPERACYJNE: esencja metodyki polega na zapewnieniu KDR sprawnego alarmowania, dowodzenia, wspoldzialania i obiegu informacji przez caly czas trwania dzialania ratowniczego.",
-    "tagi_wspolne": [
-      "lacznosc",
-      "organizacja lacznosci"
-    ],
     "aliasy": [
       "lacznosc na potrzeby kdr",
       "metodyka lacznosci kdr",
@@ -4332,13 +4327,179 @@
       "sztab lacznosc",
       "odcinek bojowy lacznosc"
     ],
+    "prefix": "Organizacja łączności na potrzeby KDR — od poziomu interwencyjnego do sztabu. Nazwy stanowisk kierowania wg rozkazu KG PSP nr 8/2019.",
+    "najpierw": [
+      {
+        "t": "W drodze uzgodnij z SK KP/KM kanał ratowniczo-gaśniczy (KRG) — powinien być przydzielony przed przyjazdem.",
+        "zr": "PP 4/2014",
+        "str": 1
+      },
+      {
+        "t": "W sieci powiatowej (PR) z macierzystym stanowiskiem kierowania pracuje tylko KDR.",
+        "zr": "PP 4/2014",
+        "str": 2
+      },
+      {
+        "t": "Siły spoza powiatu zgłaszają przyjazd w sieci KSW do SK KP/KM właściwego dla miejsca działań lub do PPSiŚ.",
+        "zr": "Rozkaz 8/2019",
+        "str": 8
+      },
+      {
+        "t": "Używaj kryptonimów — nie imion, nazwisk ani funkcji (wyjątek: kanały KRG).",
+        "zr": "PP 4/2014",
+        "str": 1
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "PR — sieć powiatowa",
+        "wartosc": "SK KP/KM ↔ pojazdy w powiecie",
+        "zr": "Rozkaz 8/2019",
+        "str": 8
+      },
+      {
+        "nazwa": "KSW — współdziałanie i alarmowanie",
+        "wartosc": "nasłuch wszystkich SK; zgłaszanie przyjazdu sił spoza powiatu",
+        "zr": "Rozkaz 8/2019",
+        "str": 8
+      },
+      {
+        "nazwa": "KRG — ratowniczo-gaśnicza",
+        "wartosc": "łączność na miejscu akcji; dysponent w powiecie SK KP/KM, nadzór KDR",
+        "zr": "Rozkaz 8/2019",
+        "str": 9
+      },
+      {
+        "nazwa": "KDW — dowodzenia i współdziałania",
+        "wartosc": "uruchamiana doraźnie; dysponent SK KW, nadzór KDR",
+        "zr": "Rozkaz 8/2019",
+        "str": 9
+      },
+      {
+        "nazwa": "KO — operacyjny kierunek radiowy",
+        "wartosc": "SK KP/KM ↔ sztab KDR; dysponent SK KG",
+        "zr": "Rozkaz 8/2019",
+        "str": 9
+      },
+      {
+        "nazwa": "KSWL — statki powietrzne",
+        "wartosc": "kanał U02 — podstawowy do współpracy z zespołem HEMS",
+        "zr": "PP 4/2014",
+        "str": 1
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Odcinki bojowe (poziom taktyczny)",
+        "punkty": [
+          {
+            "t": "Zgłoś do SK KP/KM potrzebę kanałów KRG dla odcinków bojowych.",
+            "zr": "PP 4/2014",
+            "str": 2
+          },
+          {
+            "t": "SK uruchamia przez SK KW sieć KDW i informuje Cię o przydziale KDW i KRG.",
+            "zr": "PP 4/2014",
+            "str": 2
+          },
+          {
+            "t": "KDR ↔ dowódcy odcinków: kanał KDW; dowódcy odcinków ↔ podległe siły: kanały KRG.",
+            "zr": "PP 4/2014",
+            "str": 2
+          },
+          {
+            "t": "Gdy korespondencja blokuje sieć powiatową — uruchom przez SK kierunek KO i zwolnij PR dla innych zdarzeń.",
+            "zr": "PP 4/2014",
+            "str": 2
+          },
+          {
+            "t": "Informacje ważne dla całego terenu (podział na odcinki, zmiany kanałów) podawaj okólnikiem.",
+            "zr": "PP 4/2014",
+            "str": 1
+          }
+        ]
+      },
+      {
+        "etykieta": "Punkt przyjęcia sił i środków (PPSiŚ)",
+        "punkty": [
+          {
+            "t": "Stały nasłuch trzech sieci: KSW, przydzielonego KDW i jednego KRG do dysponowania sił z rejonu koncentracji.",
+            "zr": "PP 4/2014",
+            "str": 2
+          },
+          {
+            "t": "Siły czekające w rejonie koncentracji prowadzą nasłuch na wskazanym KRG.",
+            "zr": "PP 4/2014",
+            "str": 2
+          }
+        ]
+      },
+      {
+        "etykieta": "Sztab akcji",
+        "punkty": [
+          {
+            "t": "Sztab pozyskuje i uruchamia kierunek KO, aby nie blokować sieci PR i PW.",
+            "zr": "PP 4/2014",
+            "str": 2
+          },
+          {
+            "t": "Na zapotrzebowanie KDR sztab zgłasza do SK potrzebę KRG; SK uruchamia KDW i informuje sztab o przydziale.",
+            "zr": "PP 4/2014",
+            "str": 2
+          },
+          {
+            "t": "Od uruchomienia KDW prowadź dokumentację łączności: sieci, kanały i kryptonimy przydzielone siłom.",
+            "zr": "Rozkaz 8/2019",
+            "str": 32
+          }
+        ]
+      },
+      {
+        "etykieta": "Statki powietrzne",
+        "punkty": [
+          {
+            "t": "Zapewnij sprawną wymianę informacji między SK KW, SK KP/KM, KDR i sztabem — statek szybko pokonuje duże odległości.",
+            "zr": "PP 4/2014",
+            "str": 2
+          },
+          {
+            "t": "Sieć KSWL: dysponent komendant wojewódzki PSP, na miejscu działań nadzór sprawuje KDR.",
+            "zr": "Rozkaz 8/2019",
+            "str": 9
+          }
+        ]
+      }
+    ],
+    "nie_rob": [
+      {
+        "t": "Nie zastępuj KSW siecią powiatową przy współpracy z siłami z własnego powiatu w PPSiŚ — wymaga to nasłuchu czwartej sieci.",
+        "zr": "PP 4/2014",
+        "str": 2
+      },
+      {
+        "t": "Nie używaj alternatywnych środków łączności, dopóki działa łączność radiowa UKF.",
+        "zr": "PP 4/2014",
+        "str": 1
+      }
+    ],
+    "tagi_wspolne": [
+      "lacznosc",
+      "organizacja lacznosci"
+    ],
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-lacznosc-kdr-2014",
         "strona": 1,
-        "sekcja": "Materiał szkoleniowy dotyczący organizacji łączności"
+        "sekcja": "Opis Metodyki (karty A, B, C) — s. 1–2"
+      },
+      {
+        "dokument_id": "doc-rozkaz-8-2019-lacznosc",
+        "strona": 8,
+        "sekcja": "Struktura sieci radiowych (s. 8–9), dokumentacja łączności (s. 32)"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-25",
+    "content": "1. NAJPIERW: W drodze uzgodnij z SK KP/KM kanał ratowniczo-gaśniczy (KRG) — powinien być przydzielony przed przyjazdem. W sieci powiatowej (PR) z macierzystym stanowiskiem kierowania pracuje tylko KDR. Siły spoza powiatu zgłaszają przyjazd w sieci KSW do SK KP/KM właściwego dla miejsca działań lub do PPSiŚ. Używaj kryptonimów — nie imion, nazwisk ani funkcji (wyjątek: kanały KRG).\n2. PARAMETRY: PR — sieć powiatowa — SK KP/KM ↔ pojazdy w powiecie; KSW — współdziałanie i alarmowanie — nasłuch wszystkich SK; zgłaszanie przyjazdu sił spoza powiatu; KRG — ratowniczo-gaśnicza — łączność na miejscu akcji; dysponent w powiecie SK KP/KM, nadzór KDR; KDW — dowodzenia i współdziałania — uruchamiana doraźnie; dysponent SK KW, nadzór KDR; KO — operacyjny kierunek radiowy — SK KP/KM ↔ sztab KDR; dysponent SK KG; KSWL — statki powietrzne — kanał U02 — podstawowy do współpracy z zespołem HEMS\n3. ODCINKI BOJOWE (POZIOM TAKTYCZNY): Zgłoś do SK KP/KM potrzebę kanałów KRG dla odcinków bojowych. SK uruchamia przez SK KW sieć KDW i informuje Cię o przydziale KDW i KRG. KDR ↔ dowódcy odcinków: kanał KDW; dowódcy odcinków ↔ podległe siły: kanały KRG. Gdy korespondencja blokuje sieć powiatową — uruchom przez SK kierunek KO i zwolnij PR dla innych zdarzeń. Informacje ważne dla całego terenu (podział na odcinki, zmiany kanałów) podawaj okólnikiem.\n4. PUNKT PRZYJĘCIA SIŁ I ŚRODKÓW (PPSIŚ): Stały nasłuch trzech sieci: KSW, przydzielonego KDW i jednego KRG do dysponowania sił z rejonu koncentracji. Siły czekające w rejonie koncentracji prowadzą nasłuch na wskazanym KRG.\n5. SZTAB AKCJI: Sztab pozyskuje i uruchamia kierunek KO, aby nie blokować sieci PR i PW. Na zapotrzebowanie KDR sztab zgłasza do SK potrzebę KRG; SK uruchamia KDW i informuje sztab o przydziale. Od uruchomienia KDW prowadź dokumentację łączności: sieci, kanały i kryptonimy przydzielone siłom.\n6. STATKI POWIETRZNE: Zapewnij sprawną wymianę informacji między SK KW, SK KP/KM, KDR i sztabem — statek szybko pokonuje duże odległości. Sieć KSWL: dysponent komendant wojewódzki PSP, na miejscu działań nadzór sprawuje KDR.\n7. NIE RÓB: Nie zastępuj KSW siecią powiatową przy współpracy z siłami z własnego powiatu w PPSiŚ — wymaga to nasłuchu czwartej sieci. Nie używaj alternatywnych środków łączności, dopóki działa łączność radiowa UKF."
   },
   {
     "id": "KARTA-SPRZET-POLON-ALFA-RK-100-2",
