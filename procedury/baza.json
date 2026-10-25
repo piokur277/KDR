@@ -560,9 +560,12 @@
   },
   {
     "id": "KARTA-CHEM-Z4-LNG-WYCIEK",
+    "wzorzec": 2,
     "kategoria": "dzialania",
+    "grupa": "cbrn",
+    "zakres": "podstawowy",
     "zrodlo": "Zasady postepowania podczas zdarzen z LNG, KG PSP",
-    "data_aktualizacji": "2025-12",
+    "data_aktualizacji": "2026-10-25",
     "slowo_kluczowe": "wyciek lng bez pozaru",
     "keywords": [
       "wyciek lng",
@@ -573,14 +576,6 @@
       "chmura gazu ziemnego",
       "cieknie lng"
     ],
-    "prefix": "Karta Z4 - Wyciek LNG z cysterny bez pozaru.",
-    "content": "1. KOD / NAZWA: LNG Z4 - wyciek LNG z cysterny bez pozaru.\n2. ROZPOZNANIE: zwroc uwage na pelzajaca wzdluz ziemi chmure gazu oraz zaglebienia, studzienki i obszary poza jej widoczna granica.\n3. STREFA: wyznacz strefe zagrozenia 150 m i bezwzglednie wyeliminuj wszystkie zrodla zaplonu.\n4. SOI: przy probie zatrzymania wycieku pracuj w rekawicach kriogenicznych.\n5. DZIALANIA KRYTYCZNE: rozstaw kurtyny wodne pod katem prostym do kierunku wiatru, aby ograniczyc i rozcienczac chmure LNG. Natychmiast rozpocznij pomiary stezen i kontroluj atmosfere na poziomie DGW.\n6. PROCEDURA SZCZEGOLOWA: bezpieczny limit dla ratownikow przyjeto jako 2,5%, a pomiar alarmowy jako DGW 5%. Jezeli powstalo rozlewisko, ogranicz parowanie przez nalozenie kołdry z piany lekkiej o wysokosci 1,2 m i uzupelniaj ja co minute. Podejmij probe zatrzymania wycieku przez przycisk awaryjny, zawory lub specjalistyczne kolki do urzadzen Ex i kriogenicznych. Zabezpiecz teren i wezwij grupe SPOT z zapasowa cysterna LNG.\n7. CO MOZE POJSC NIE TAK: podanie wody bezposrednio na wyciek lub kaluze LNG natychmiast zintensyfikuje produkcje chmury wybuchowej.\n8. UWAGI OPERACYJNE: kontroluj nie tylko widoczna chmure, ale tez otoczenie, w ktorym moze dojsc do nagromadzenia stezen wybuchowych.",
-    "tagi_wspolne": [
-      "lng",
-      "gaz skroplony",
-      "cysterna lng",
-      "wyciek"
-    ],
     "aliasy": [
       "wyciek lng",
       "gaz ucieka z cysterny",
@@ -590,13 +585,177 @@
       "chmura gazu ziemnego",
       "cieknie lng"
     ],
+    "prefix": "Karta Z4 — wyciek LNG z cysterny bez pożaru.",
+    "najpierw": [
+      {
+        "t": "Wyznacz strefę zagrożenia 150 m wokół cysterny lub zbiornika.",
+        "str": 10
+      },
+      {
+        "t": "Wyeliminuj ze strefy wszystkie źródła zapłonu.",
+        "str": 10
+      },
+      {
+        "t": "Rozpoznanie prowadź zza osłony tarczy balistycznej.",
+        "str": 10
+      },
+      {
+        "t": "Sprawiaj kurtyny wodne prostopadle do kierunku wiatru, od strony zawietrznej.",
+        "str": 10
+      },
+      {
+        "t": "Mierz eksplozymetrem stężenie metanu — także poza widoczną chmurą.",
+        "str": 10
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Strefa zagrożenia",
+        "wartosc": "150 m",
+        "str": 10
+      },
+      {
+        "nazwa": "Bezpieczne stężenie",
+        "wartosc": "do 50% DGW = 2,5%",
+        "str": 10
+      },
+      {
+        "nazwa": "Zakres palności",
+        "wartosc": "DGW 5% – GGW 15%",
+        "str": 10
+      },
+      {
+        "nazwa": "Piana lekka na rozlewisko",
+        "wartosc": "500:1 (±50) · 10 l/(min·m²) · warstwa 1,2 m · co 1 min przez 30 s",
+        "str": 10
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Rozpoznanie",
+        "punkty": [
+          {
+            "t": "Oceń uszkodzenia cysterny.",
+            "str": 10
+          },
+          {
+            "t": "Odczytaj przyrządy na cysternie: poziomowskaz, ciśnieniomierz, temperaturę fazy ciekłej oraz tabliczkę znamionową.",
+            "str": 10
+          },
+          {
+            "t": "Uwzględnij warunki meteorologiczne i terenowe.",
+            "str": 10
+          }
+        ]
+      },
+      {
+        "etykieta": "Ograniczenie chmury gazu",
+        "punkty": [
+          {
+            "t": "Kurtyny i stacjonarne prądy rozproszone rozcieńczają gaz i tworzą barierę.",
+            "str": 10
+          },
+          {
+            "t": "Blisko wycieku gaz ściele się nisko; dalej unosi się (powyżej −107°C jest lżejszy od powietrza).",
+            "str": 10
+          },
+          {
+            "t": "Zorganizuj zaopatrzenie wodne odpowiednie do liczby prądów i kurtyn.",
+            "str": 10
+          },
+          {
+            "t": "W razie potrzeby rozcieńczaj chmurę wentylatorami w wykonaniu Ex.",
+            "str": 10
+          }
+        ]
+      },
+      {
+        "etykieta": "Pomiary",
+        "punkty": [
+          {
+            "t": "Stężenia palne mogą występować na obrzeżach i poza widoczną chmurą.",
+            "str": 10
+          },
+          {
+            "t": "Sprawdzaj przestrzenie zamknięte i częściowo zamknięte — tam może dojść do wybuchu.",
+            "str": 10
+          }
+        ]
+      },
+      {
+        "etykieta": "Rozlewisko",
+        "punkty": [
+          {
+            "t": "Ogranicz odparowanie pianą lekką położoną na powierzchnię wycieku.",
+            "str": 10
+          },
+          {
+            "t": "Na LNG tworzy się tafla lodu i „kominy lodowe”; piana się degraduje — uzupełniaj ją regularnie.",
+            "str": 10
+          }
+        ]
+      },
+      {
+        "etykieta": "Likwidacja wycieku",
+        "punkty": [
+          {
+            "t": "Użyj przycisku awaryjnego — jest po obu stronach cysterny i odcina wypływ, jeśli odbywa się przez zawór.",
+            "str": 10
+          },
+          {
+            "t": "Zakręć zawór awaryjny.",
+            "str": 10
+          },
+          {
+            "t": "Uszczelnianie (kołki, kliny, włóknina, opaska dociskowa) to poziom specjalistyczny: sprzęt Ex i ochrona przed cieczami kriogenicznymi, np. rękawice kriogeniczne.",
+            "str": 11
+          }
+        ]
+      },
+      {
+        "etykieta": "Po opanowaniu wycieku",
+        "punkty": [
+          {
+            "t": "Spróbuj przepompować LNG do zapasowej cysterny przystosowanej do przewozu LNG — przewodami kriogenicznymi.",
+            "str": 11
+          }
+        ]
+      }
+    ],
+    "wsparcie": [
+      {
+        "t": "Uszczelnienie wymaga poziomu specjalistycznego.",
+        "str": 11
+      },
+      {
+        "t": "Przepompowanie — środki firmy transportowej lub SPOT.",
+        "str": 11
+      }
+    ],
+    "nie_rob": [
+      {
+        "t": "Nie podawaj na rozlewisko wody ani piany ciężkiej — ogrzewają LNG i przyspieszają odparowanie.",
+        "str": 10
+      },
+      {
+        "t": "Nie uznawaj granicy widocznej chmury za granicę zagrożenia.",
+        "str": 10
+      }
+    ],
+    "tagi_wspolne": [
+      "lng",
+      "gaz skroplony",
+      "cysterna lng",
+      "wyciek"
+    ],
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-lng-2025",
         "strona": 10,
         "sekcja": "Karta LNG"
       }
-    ]
+    ],
+    "content": "1. NAJPIERW: Wyznacz strefę zagrożenia 150 m wokół cysterny lub zbiornika. Wyeliminuj ze strefy wszystkie źródła zapłonu. Rozpoznanie prowadź zza osłony tarczy balistycznej. Sprawiaj kurtyny wodne prostopadle do kierunku wiatru, od strony zawietrznej. Mierz eksplozymetrem stężenie metanu — także poza widoczną chmurą.\n2. PARAMETRY: Strefa zagrożenia — 150 m; Bezpieczne stężenie — do 50% DGW = 2,5%; Zakres palności — DGW 5% – GGW 15%; Piana lekka na rozlewisko — 500:1 (±50) · 10 l/(min·m²) · warstwa 1,2 m · co 1 min przez 30 s\n3. ROZPOZNANIE: Oceń uszkodzenia cysterny. Odczytaj przyrządy na cysternie: poziomowskaz, ciśnieniomierz, temperaturę fazy ciekłej oraz tabliczkę znamionową. Uwzględnij warunki meteorologiczne i terenowe.\n4. OGRANICZENIE CHMURY GAZU: Kurtyny i stacjonarne prądy rozproszone rozcieńczają gaz i tworzą barierę. Blisko wycieku gaz ściele się nisko; dalej unosi się (powyżej −107°C jest lżejszy od powietrza). Zorganizuj zaopatrzenie wodne odpowiednie do liczby prądów i kurtyn. W razie potrzeby rozcieńczaj chmurę wentylatorami w wykonaniu Ex.\n5. POMIARY: Stężenia palne mogą występować na obrzeżach i poza widoczną chmurą. Sprawdzaj przestrzenie zamknięte i częściowo zamknięte — tam może dojść do wybuchu.\n6. ROZLEWISKO: Ogranicz odparowanie pianą lekką położoną na powierzchnię wycieku. Na LNG tworzy się tafla lodu i „kominy lodowe”; piana się degraduje — uzupełniaj ją regularnie.\n7. LIKWIDACJA WYCIEKU: Użyj przycisku awaryjnego — jest po obu stronach cysterny i odcina wypływ, jeśli odbywa się przez zawór. Zakręć zawór awaryjny. Uszczelnianie (kołki, kliny, włóknina, opaska dociskowa) to poziom specjalistyczny: sprzęt Ex i ochrona przed cieczami kriogenicznymi, np. rękawice kriogeniczne.\n8. PO OPANOWANIU WYCIEKU: Spróbuj przepompować LNG do zapasowej cysterny przystosowanej do przewozu LNG — przewodami kriogenicznymi.\n9. WEZWIJ WSPARCIE, GDY: Uszczelnienie wymaga poziomu specjalistycznego. Przepompowanie — środki firmy transportowej lub SPOT.\n10. NIE RÓB: Nie podawaj na rozlewisko wody ani piany ciężkiej — ogrzewają LNG i przyspieszają odparowanie. Nie uznawaj granicy widocznej chmury za granicę zagrożenia."
   },
   {
     "id": "KARTA-CHEM-Z5-LNG-ZAWORY",
@@ -4543,6 +4702,369 @@
         "sekcja": "Środki ochrony indywidualnej i dekontaminacja"
       }
     ]
+  },
+  {
+    "id": "KARTA-RT-ZAKRES-PODSTAWOWY",
+    "wzorzec": 2,
+    "kategoria": "dzialania",
+    "grupa": "rt",
+    "zakres": "podstawowy",
+    "zrodlo": "KG PSP: Zasady organizacji ratownictwa technicznego w krajowym systemie ratowniczo-gaśniczym, Warszawa, wrzesień 2026 r.",
+    "data_aktualizacji": "2026-10-25",
+    "slowo_kluczowe": "ratownictwo techniczne zakres podstawowy",
+    "keywords": [
+      "zakres podstawowy ratownictwo techniczne",
+      "co robi zastęp ratownictwo techniczne",
+      "uwolnienie uwięzionego",
+      "osoba uwięziona",
+      "stabilizacja i cięcie konstrukcji",
+      "rozpieranie podnoszenie konstrukcji",
+      "miejscowe zagrożenie techniczne",
+      "kiedy wezwać sgrt",
+      "rt zakres podstawowy"
+    ],
+    "aliasy": [
+      "zakres podstawowy ratownictwo techniczne",
+      "co robi zastęp ratownictwo techniczne",
+      "uwolnienie uwięzionego",
+      "osoba uwięziona",
+      "stabilizacja i cięcie konstrukcji",
+      "rozpieranie podnoszenie konstrukcji",
+      "miejscowe zagrożenie techniczne",
+      "kiedy wezwać sgrt",
+      "rt zakres podstawowy"
+    ],
+    "prefix": "Ratownictwo techniczne — zakres podstawowy zastępów KSRG (Zasady KG PSP, 2026).",
+    "najpierw": [
+      {
+        "t": "Rozpoznaj i oceń zagrożenie dla ludzi, zwierząt, środowiska i mienia — życie ludzi to priorytet.",
+        "str": 8
+      },
+      {
+        "t": "Dotrzyj do uwięzionych, udziel KPP i przekaż poszkodowanych ZRM poza strefą zagrożenia.",
+        "str": 8
+      },
+      {
+        "t": "Zapewnij asekurację ratowników w strefie zagrożenia i w jej sąsiedztwie.",
+        "str": 8
+      },
+      {
+        "t": "Ewakuuj ludzi z miejsc zagrożenia życia i zdrowia.",
+        "str": 8
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Gotowość",
+        "wartosc": "min. 1 zastęp · 6 ratowników",
+        "str": 8
+      },
+      {
+        "nazwa": "Strefa zagrożenia",
+        "wartosc": "Zasady nie podają wymiarów — wyznacz z rozpoznania",
+        "str": 6
+      },
+      {
+        "nazwa": "Wsparcie SGRT",
+        "wartosc": "A holownik · B rotator · C żuraw samojezdny",
+        "str": 11
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Działania techniczne",
+        "punkty": [
+          {
+            "t": "Stabilizuj, tnij, rozpieraj, podnoś lub przemieszczaj konstrukcje, instalacje, urządzenia i przeszkody — w ramach posiadanego wyposażenia.",
+            "str": 8
+          },
+          {
+            "t": "Ewakuuj zwierzęta i mienie.",
+            "str": 8
+          },
+          {
+            "t": "Współdziałaj z podmiotami KSRG i innymi podmiotami zdolnymi do ratownictwa technicznego.",
+            "str": 8
+          }
+        ]
+      },
+      {
+        "etykieta": "Bezpieczeństwo",
+        "punkty": [
+          {
+            "t": "KDR stosuje rozporządzenie MSWiA w sprawie warunków BHP strażaków PSP.",
+            "str": 21
+          },
+          {
+            "t": "Odzież specjalna, SOI i wyposażenie osobiste stosownie do czynności.",
+            "str": 21
+          },
+          {
+            "t": "Urządzenia obsługują tylko osoby z wymaganymi uprawnieniami (m.in. UDT, hakowy).",
+            "str": 21
+          },
+          {
+            "t": "W zależności od przebiegu akcji rozważ zabezpieczenie medyczne.",
+            "str": 21
+          }
+        ]
+      }
+    ],
+    "wsparcie": [
+      {
+        "t": "Zadanie przekracza sprzęt lub uprawnienia zastępu — zgłoś SK PSP potrzebę SGRT.",
+        "str": 21
+      }
+    ],
+    "nie_rob": [
+      {
+        "t": "Nie używaj sprzętu niekompletnego, niesprawnego lub bez aktualnych dopuszczeń i przeglądów.",
+        "str": 21
+      },
+      {
+        "t": "Nie dopuszczaj do obsługi urządzeń osób bez uprawnień.",
+        "str": 21
+      },
+      {
+        "t": "Nie pracuj w strefie zagrożenia bez asekuracji.",
+        "str": 8
+      }
+    ],
+    "tagi_wspolne": [
+      "ratownictwo techniczne",
+      "zakres podstawowy",
+      "miejscowe zagrożenie",
+      "SGRT"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-rt-zasady-2026",
+        "strona": 8,
+        "sekcja": "Rozdział 2 — zakres podstawowy (ust. 2.1–2.5); Rozdział 6.1 — bezpieczeństwo (s. 21); def. strefy zagrożenia (s. 6)"
+      }
+    ],
+    "content": "1. NAJPIERW: Rozpoznaj i oceń zagrożenie dla ludzi, zwierząt, środowiska i mienia — życie ludzi to priorytet. Dotrzyj do uwięzionych, udziel KPP i przekaż poszkodowanych ZRM poza strefą zagrożenia. Zapewnij asekurację ratowników w strefie zagrożenia i w jej sąsiedztwie. Ewakuuj ludzi z miejsc zagrożenia życia i zdrowia.\n2. PARAMETRY: Gotowość — min. 1 zastęp · 6 ratowników; Strefa zagrożenia — Zasady nie podają wymiarów — wyznacz z rozpoznania; Wsparcie SGRT — A holownik · B rotator · C żuraw samojezdny\n3. DZIAŁANIA TECHNICZNE: Stabilizuj, tnij, rozpieraj, podnoś lub przemieszczaj konstrukcje, instalacje, urządzenia i przeszkody — w ramach posiadanego wyposażenia. Ewakuuj zwierzęta i mienie. Współdziałaj z podmiotami KSRG i innymi podmiotami zdolnymi do ratownictwa technicznego.\n4. BEZPIECZEŃSTWO: KDR stosuje rozporządzenie MSWiA w sprawie warunków BHP strażaków PSP. Odzież specjalna, SOI i wyposażenie osobiste stosownie do czynności. Urządzenia obsługują tylko osoby z wymaganymi uprawnieniami (m.in. UDT, hakowy). W zależności od przebiegu akcji rozważ zabezpieczenie medyczne.\n5. WEZWIJ WSPARCIE, GDY: Zadanie przekracza sprzęt lub uprawnienia zastępu — zgłoś SK PSP potrzebę SGRT.\n6. NIE RÓB: Nie używaj sprzętu niekompletnego, niesprawnego lub bez aktualnych dopuszczeń i przeglądów. Nie dopuszczaj do obsługi urządzeń osób bez uprawnień. Nie pracuj w strefie zagrożenia bez asekuracji."
+  },
+  {
+    "id": "KARTA-RT-WSPOLPRACA-KDR-SGRT",
+    "wzorzec": 2,
+    "kategoria": "organizacja",
+    "grupa": "rt",
+    "zakres": "specjalistyczny",
+    "zrodlo": "KG PSP: Zasady organizacji ratownictwa technicznego w krajowym systemie ratowniczo-gaśniczym, Warszawa, wrzesień 2026 r.",
+    "data_aktualizacji": "2026-10-25",
+    "slowo_kluczowe": "współpraca kdr z sgrt",
+    "keywords": [
+      "grupa ratownictwa technicznego",
+      "dysponowanie sgrt",
+      "wezwij sgrt",
+      "holownik psp",
+      "rotator",
+      "żuraw samojezdny psp",
+      "poziom a b c sgrt",
+      "dowódca działań sgrt",
+      "ciężki sprzęt ratownictwo techniczne"
+    ],
+    "aliasy": [
+      "grupa ratownictwa technicznego",
+      "dysponowanie sgrt",
+      "wezwij sgrt",
+      "holownik psp",
+      "rotator",
+      "żuraw samojezdny psp",
+      "poziom a b c sgrt",
+      "dowódca działań sgrt",
+      "ciężki sprzęt ratownictwo techniczne"
+    ],
+    "prefix": "Współpraca KDR ze specjalistyczną grupą ratownictwa technicznego (SGRT) — Zasady KG PSP 2026.",
+    "najpierw": [
+      {
+        "t": "Gdy zadanie przekracza sprzęt lub uprawnienia zakresu podstawowego — zgłoś stanowisku kierowania PSP potrzebę SGRT.",
+        "str": 21
+      },
+      {
+        "t": "Zorganizuj punkt przyjęcia sił i środków.",
+        "str": 22
+      },
+      {
+        "t": "Przekaż dowódcy działań SGRT swoją ocenę sytuacji i dokumentację.",
+        "str": 22
+      },
+      {
+        "t": "Wydziel odcinek bojowy dla SGRT — jego dowódcą jest dowódca działań SGRT.",
+        "str": 22
+      },
+      {
+        "t": "Zapewnij kanał dowodzenia i współdziałania oraz osobny kanał ratowniczo-gaśniczy dla SGRT.",
+        "str": 22
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Poziom A",
+        "wartosc": "holownik · min. 6 ratowników · 2 pojazdy",
+        "str": 11
+      },
+      {
+        "nazwa": "Poziom B",
+        "wartosc": "rotator · min. 6 ratowników · 2 pojazdy",
+        "str": 11
+      },
+      {
+        "nazwa": "Poziom C",
+        "wartosc": "żuraw samojezdny · min. 3 ratowników · 2 pojazdy",
+        "str": 11
+      },
+      {
+        "nazwa": "Dysponuje",
+        "wartosc": "powiat: SK KP/KM PSP · poza powiat: SK KW PSP · poza województwo: SK KG PSP",
+        "str": 21
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Zadania KDR",
+        "punkty": [
+          {
+            "t": "Przejmij kierowanie działaniem ratowniczym.",
+            "str": 22
+          },
+          {
+            "t": "W razie potrzeby powołaj sztab akcji.",
+            "str": 22
+          },
+          {
+            "t": "Zapewnij współpracę ze specjalistami z planu ratowniczego powiatu lub województwa.",
+            "str": 22
+          },
+          {
+            "t": "Rozwiń zaplecze logistyczne akcji.",
+            "str": 22
+          },
+          {
+            "t": "Przy dwóch lub więcej SGRT to Ty organizujesz teren działań i decydujesz o liczbie odcinków bojowych.",
+            "str": 23
+          },
+          {
+            "t": "Koordynuj czynności podstawowe i specjalistyczne z innymi podmiotami i służbami na miejscu zdarzenia.",
+            "str": 23
+          }
+        ]
+      },
+      {
+        "etykieta": "Co robi SGRT (poziom A i B)",
+        "punkty": [
+          {
+            "t": "Wszystkie zadania zakresu podstawowego oraz rozpoznanie i identyfikację zagrożenia.",
+            "str": 12
+          },
+          {
+            "t": "Wyznacza i oznakowuje strefę zagrożenia.",
+            "str": 12
+          },
+          {
+            "t": "Włącza lub wyłącza instalacje, urządzenia i media wpływające na bezpieczeństwo — zaworami i bezpiecznikami instalacji obiektu.",
+            "str": 12
+          },
+          {
+            "t": "Priorytetowo wykonuje dostęp do poszkodowanych, KPP lub ewakuację oraz drogi ewakuacji.",
+            "str": 12
+          },
+          {
+            "t": "Stabilizuje, tnie, rozpiera, podnosi i przenosi konstrukcje, urządzenia i przeszkody.",
+            "str": 12
+          },
+          {
+            "t": "Oświetla i zabezpiecza miejsce zdarzenia; ocenia rozmiar zagrożenia i prognozuje jego rozwój.",
+            "str": 12
+          },
+          {
+            "t": "Poziom C wspiera grupy A i B dodatkowym sprzętem, w szczególności żurawiem samojezdnym.",
+            "str": 12
+          }
+        ]
+      },
+      {
+        "etykieta": "Dowodzenie na odcinku SGRT",
+        "punkty": [
+          {
+            "t": "Dowódca działań SGRT odpowiada za zadanie, które mu powierzysz.",
+            "str": 22
+          },
+          {
+            "t": "Dowódca działań SGRT decyduje o technikach, zakresie działań, użyciu sprzętu grupy i zadaniach jej członków.",
+            "str": 23
+          },
+          {
+            "t": "Po przybyciu ocenia: rodzaj zagrożenia i wyniki rozpoznania, zabezpieczenie miejsca, KPP i ewakuację poszkodowanych, potrzebne siły i środki, sposób dotarcia.",
+            "str": 22
+          },
+          {
+            "t": "Udział podmiotów spoza KSRG (np. firmy z ciężkim sprzętem) — tylko w porozumieniu z dowódcą działań SGRT; on nadzoruje bezpieczeństwo tych osób.",
+            "str": 23
+          },
+          {
+            "t": "Zabezpieczenie medyczne: gotowość do podjęcia medycznych działań ratowniczych.",
+            "str": 23
+          }
+        ]
+      },
+      {
+        "etykieta": "Zakończenie",
+        "punkty": [
+          {
+            "t": "Decyzję o zakończeniu podejmuje KDR — dopiero po likwidacji bezpośredniego zagrożenia.",
+            "str": 23
+          },
+          {
+            "t": "Teren, obiekt lub mienie przekaż na podstawie „Potwierdzenia przekazania terenu, obiektu lub mienia objętego działaniem ratowniczym”.",
+            "str": 23
+          }
+        ]
+      }
+    ],
+    "wsparcie": [
+      {
+        "t": "Dowódca działań SGRT wnioskuje o powiększenie składu lub kolejną grupę.",
+        "str": 22
+      },
+      {
+        "t": "Ratujesz życie — przy dysponowaniu uwzględnij najszybszy transport grupy.",
+        "str": 22
+      },
+      {
+        "t": "Przebieg akcji tego wymaga — rozważ zabezpieczenie medyczne działań.",
+        "str": 21
+      }
+    ],
+    "nie_rob": [
+      {
+        "t": "Nie używaj sprzętu niekompletnego, niesprawnego lub bez aktualnych dopuszczeń i przeglądów.",
+        "str": 21
+      },
+      {
+        "t": "Nie dopuszczaj do obsługi urządzeń osób bez uprawnień wymaganych przepisami o dozorze technicznym.",
+        "str": 21
+      },
+      {
+        "t": "Nie kończ działań SGRT przed likwidacją bezpośredniego zagrożenia.",
+        "str": 23
+      }
+    ],
+    "tagi_wspolne": [
+      "ratownictwo techniczne",
+      "zakres specjalistyczny",
+      "SGRT",
+      "organizacja działań"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-rt-zasady-2026",
+        "strona": 21,
+        "sekcja": "Rozdział 3 (s. 11–12) i Rozdział 6 (s. 21–23)"
+      }
+    ],
+    "content": "1. NAJPIERW: Gdy zadanie przekracza sprzęt lub uprawnienia zakresu podstawowego — zgłoś stanowisku kierowania PSP potrzebę SGRT. Zorganizuj punkt przyjęcia sił i środków. Przekaż dowódcy działań SGRT swoją ocenę sytuacji i dokumentację. Wydziel odcinek bojowy dla SGRT — jego dowódcą jest dowódca działań SGRT. Zapewnij kanał dowodzenia i współdziałania oraz osobny kanał ratowniczo-gaśniczy dla SGRT.\n2. PARAMETRY: Poziom A — holownik · min. 6 ratowników · 2 pojazdy; Poziom B — rotator · min. 6 ratowników · 2 pojazdy; Poziom C — żuraw samojezdny · min. 3 ratowników · 2 pojazdy; Dysponuje — powiat: SK KP/KM PSP · poza powiat: SK KW PSP · poza województwo: SK KG PSP\n3. ZADANIA KDR: Przejmij kierowanie działaniem ratowniczym. W razie potrzeby powołaj sztab akcji. Zapewnij współpracę ze specjalistami z planu ratowniczego powiatu lub województwa. Rozwiń zaplecze logistyczne akcji. Przy dwóch lub więcej SGRT to Ty organizujesz teren działań i decydujesz o liczbie odcinków bojowych. Koordynuj czynności podstawowe i specjalistyczne z innymi podmiotami i służbami na miejscu zdarzenia.\n4. CO ROBI SGRT (POZIOM A I B): Wszystkie zadania zakresu podstawowego oraz rozpoznanie i identyfikację zagrożenia. Wyznacza i oznakowuje strefę zagrożenia. Włącza lub wyłącza instalacje, urządzenia i media wpływające na bezpieczeństwo — zaworami i bezpiecznikami instalacji obiektu. Priorytetowo wykonuje dostęp do poszkodowanych, KPP lub ewakuację oraz drogi ewakuacji. Stabilizuje, tnie, rozpiera, podnosi i przenosi konstrukcje, urządzenia i przeszkody. Oświetla i zabezpiecza miejsce zdarzenia; ocenia rozmiar zagrożenia i prognozuje jego rozwój. Poziom C wspiera grupy A i B dodatkowym sprzętem, w szczególności żurawiem samojezdnym.\n5. DOWODZENIE NA ODCINKU SGRT: Dowódca działań SGRT odpowiada za zadanie, które mu powierzysz. Dowódca działań SGRT decyduje o technikach, zakresie działań, użyciu sprzętu grupy i zadaniach jej członków. Po przybyciu ocenia: rodzaj zagrożenia i wyniki rozpoznania, zabezpieczenie miejsca, KPP i ewakuację poszkodowanych, potrzebne siły i środki, sposób dotarcia. Udział podmiotów spoza KSRG (np. firmy z ciężkim sprzętem) — tylko w porozumieniu z dowódcą działań SGRT; on nadzoruje bezpieczeństwo tych osób. Zabezpieczenie medyczne: gotowość do podjęcia medycznych działań ratowniczych.\n6. ZAKOŃCZENIE: Decyzję o zakończeniu podejmuje KDR — dopiero po likwidacji bezpośredniego zagrożenia. Teren, obiekt lub mienie przekaż na podstawie „Potwierdzenia przekazania terenu, obiektu lub mienia objętego działaniem ratowniczym”.\n7. WEZWIJ WSPARCIE, GDY: Dowódca działań SGRT wnioskuje o powiększenie składu lub kolejną grupę. Ratujesz życie — przy dysponowaniu uwzględnij najszybszy transport grupy. Przebieg akcji tego wymaga — rozważ zabezpieczenie medyczne działań.\n8. NIE RÓB: Nie używaj sprzętu niekompletnego, niesprawnego lub bez aktualnych dopuszczeń i przeglądów. Nie dopuszczaj do obsługi urządzeń osób bez uprawnień wymaganych przepisami o dozorze technicznym. Nie kończ działań SGRT przed likwidacją bezpośredniego zagrożenia."
   },
   {
     "id": "WYP-EV-01",

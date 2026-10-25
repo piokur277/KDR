@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-05T12:40:43.930Z",
-  "procedure_count": 116,
-  "unique_direct_terms": 789,
-  "linked_procedure_count": 112,
-  "document_count": 70,
+  "generated_at": "2026-10-25T17:31:11.046Z",
+  "procedure_count": 118,
+  "unique_direct_terms": 809,
+  "linked_procedure_count": 114,
+  "document_count": 71,
   "shared_tags": [
     {
       "tag": "edukacja obywatelska",
@@ -585,6 +585,14 @@
       ]
     },
     {
+      "tag": "miejscowe zagrozenie",
+      "count": 2,
+      "ids": [
+        "KARTA-PV-Z2-MIEJSCOWE-ZAGROZENIE",
+        "KARTA-RT-ZAKRES-PODSTAWOWY"
+      ]
+    },
+    {
       "tag": "oparzenie",
       "count": 2,
       "ids": [
@@ -598,6 +606,14 @@
       "ids": [
         "KARTA-BUD-ORGANIZACJA-DZIALAN-KATASTROFA-BUDOWLANA",
         "KARTA-ORG-ZASADY-ORGANIZOWANIA-DZIALAN-RATOWNICZYCH"
+      ]
+    },
+    {
+      "tag": "ratownictwo techniczne",
+      "count": 2,
+      "ids": [
+        "KARTA-RT-ZAKRES-PODSTAWOWY",
+        "KARTA-RT-WSPOLPRACA-KDR-SGRT"
       ]
     },
     {
@@ -633,6 +649,14 @@
       ]
     },
     {
+      "tag": "sgrt",
+      "count": 2,
+      "ids": [
+        "KARTA-RT-ZAKRES-PODSTAWOWY",
+        "KARTA-RT-WSPOLPRACA-KDR-SGRT"
+      ]
+    },
+    {
       "tag": "strefa zagrozenia",
       "count": 2,
       "ids": [
@@ -662,6 +686,14 @@
       "ids": [
         "WYP-EV-01",
         "WYP-MAS-01"
+      ]
+    },
+    {
+      "tag": "zakres podstawowy",
+      "count": 2,
+      "ids": [
+        "KARTA-CHEM-ZAKRES-PODSTAWOWY-KDR",
+        "KARTA-RT-ZAKRES-PODSTAWOWY"
       ]
     },
     {

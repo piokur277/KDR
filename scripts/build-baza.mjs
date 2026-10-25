@@ -1,5 +1,6 @@
 import { promises as fs } from "node:fs";
 import path from "node:path";
+import { contentFromV2 } from "./karta-v2-content.mjs";
 
 const root = process.cwd();
 const proceduresDir = path.join(root, "procedury");
@@ -96,6 +97,9 @@ for (const file of files) {
     const items = Array.isArray(parsed) ? parsed : [parsed];
 
     for (const item of items) {
+        // Wzorzec v2: pole "content" zawsze odtwarzane z pól strukturalnych,
+        // aby wyszukiwarka i AI widziały dokładnie to, co karta pokazuje.
+        if (Number(item.wzorzec) === 2) item.content = contentFromV2(item);
         validateProcedure(item, file);
         if (idOwners.has(item.id)) throw new Error(`Powtorzony identyfikator ${item.id}: ${idOwners.get(item.id)} oraz ${file}`);
         idOwners.set(item.id, file);

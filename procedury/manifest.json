@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-05T12:40:43.929Z",
-  "count": 116,
+  "generated_at": "2026-10-25T17:31:11.045Z",
+  "count": 118,
   "files": [
     "procedury/acetylen/karta-z1-butle-acetylen.json",
     "procedury/acetylen/karta-z2-butle-acetylen.json",
@@ -110,6 +110,8 @@
     "procedury/ptasiagrypa/informacje-i-zasady-bezpieczenstwa-ptasia-grypa.json",
     "procedury/ptasiagrypa/nadzor-epidemiologiczny-ptasia-grypa.json",
     "procedury/ptasiagrypa/soi-i-dekontaminacja-ptasia-grypa.json",
+    "procedury/techniczne/ratownictwo-techniczne-zakres-podstawowy.json",
+    "procedury/techniczne/wspolpraca-kdr-z-sgrt.json",
     "procedury/wypadek-ev.json",
     "procedury/wypadek-masowy.json",
     "procedury/zatopienie-ev.json",

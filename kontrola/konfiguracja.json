@@ -31,7 +31,8 @@
         "POZ-EV-",
         "WYP-EV-",
         "ZAT-EV-",
-        "KARTA-ACETYLEN-"
+        "KARTA-ACETYLEN-",
+        "KARTA-RT-"
       ]
     },
     {
@@ -139,6 +140,11 @@
         "dokument_id": "doc-r2-radiologia",
         "url": "https://www.gov.pl/attachment/19824078-3ed1-4ffa-80b6-e87dd3153b25",
         "strona": "zasady-organizacji-rat-chem (Załącznik R2)"
+      },
+      {
+        "dokument_id": "doc-rt-zasady-2026",
+        "url": "https://www.gov.pl/attachment/73a0419f-c51c-4b12-8570-4cd5a7989413",
+        "strona": "zasady-organizacji-rat-tech"
       }
     ]
   }

@@ -1,6 +1,6 @@
 {
   "wersja_rejestru": "2.7",
-  "zaktualizowano": "2026-09-05",
+  "zaktualizowano": "2026-10-25",
   "dokumenty": {
     "doc-ev-szp-2023": {
       "tytul": "Standardowe zasady postępowania podczas zdarzeń z samochodami z napędem elektrycznym oraz hybrydowym",
@@ -893,6 +893,19 @@
       "liczba_stron": 21,
       "sha256": "1cbf1b4718a6864ba1e6a3ae13607dbc92a5f721f40299126e0183614b3d0a7e",
       "uwagi": "Starszy materiał wykorzystany wyłącznie do objaśnienia zagrożeń elektrycznych, napięcia krokowego/dotykowego i łuku elektrycznego. Nie użyto dawnych wartości napięć bezpiecznych jako kryteriów operacyjnych."
+    },
+    "doc-rt-zasady-2026": {
+      "id": "doc-rt-zasady-2026",
+      "tytul": "Zasady organizacji ratownictwa technicznego w krajowym systemie ratowniczo-gaśniczym",
+      "wersja": "Wrzesień 2026 (zastępuje wydanie z 2021 r.)",
+      "data_wydania": "2026-09",
+      "rodzaj": "Zasady KG PSP",
+      "plik": "dokumenty/techniczne/zasady-ratownictwa-technicznego-2026-09.pdf",
+      "status_techniczny": "aktywny",
+      "aktualnosc_merytoryczna": "zweryfikowano_2026-10-25",
+      "liczba_stron": 27,
+      "sha256": "83f9a24c95f2fd9b8e805f648eb593ab695180f72e182d9e26764a7afbdcece0",
+      "uwagi": "Pobrano ze strony KG PSP (Ratownictwo techniczne — zasady i inne dokumenty), https://www.gov.pl/attachment/73a0419f-c51c-4b12-8570-4cd5a7989413. Zastępuje wydanie z 2021 r."
     }
   }
 }
