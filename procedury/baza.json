@@ -3837,9 +3837,10 @@
   },
   {
     "id": "KARTA-ORG-AMONIAK-NH3-WARTOSCI-GRANICZNE",
+    "wzorzec": 2,
     "kategoria": "substancja",
-    "zrodlo": "CIOP-PIB, Baza niebezpiecznych substancji chemicznych, Amoniak",
-    "data_aktualizacji": "",
+    "zrodlo": "Messer Polska: Karta charakterystyki – amoniak bezwodny, wersja 6.0 z 07.07.2025",
+    "data_aktualizacji": "2026-10-25",
     "slowo_kluczowe": "amoniak",
     "keywords": [
       "nh3",
@@ -3857,13 +3858,6 @@
       "h314 amoniak",
       "h400"
     ],
-    "prefix": "NH3 / Amoniak - karta zagrozenia operacyjnego.",
-    "content": "1. KOD / NAZWA: NH3 - amoniak; CAS 7664-41-7.\n2. ROZPOZNANIE: bezbarwny gaz o ostrym, charakterystycznym zapachu. Gestosc par wzgledem powietrza wynosi 0,597, czyli gaz jest lzejszy od powietrza. Prog wyczuwalnosci zapachu wedlug CIOP wynosi 0,4-40 mg/m3.\n3. STREFA: brak jednej liczbowej strefy w materiale CIOP; przyjmij natychmiastowe odsuniecie osob z narazenia, eliminacje zrodel zaplonu i dobra wentylacje miejsca zdarzenia. W przypadku plynacego wycieku gazu nie gasic plomienia, jezeli nie mozna bezpiecznie zahamowac wycieku.\n4. SOI: zgodnie z informacja CLP stosowac rekawice ochronne, odziez ochronna, ochrone oczu i twarzy. Ze wzgledu na toksycznosc inhalacyjna i dzialanie zarace nalezy traktowac ekspozycje jako zagrozenie ciezkim urazem.\n5. DZIALANIA KRYTYCZNE: wyprowadzic lub wyniesc poszkodowanego na swieze powietrze i zapewnic mu warunki do swobodnego oddychania. Podawac tlen. Przy narazeniu inhalacyjnym zapewnic spokoj i bezruch, bo wysilek zwieksza ryzyko obrzeku pluc. Przy wycieku wyeliminowac wszystkie zrodla zaplonu.\n6. PROCEDURA SZCZEGOLOWA: klasyfikacja CLP obejmuje H221, H331, H314 i H400. W razie kontaktu ze skora natychmiast zdjac zanieczyszczona odziez i splukiwac skore pod strumieniem wody. W razie dostania sie do oczu plukac ostroznie woda przez kilka minut i natychmiast skierowac do lekarza. Przy zatruciu inhalacyjnym CIOP wskazuje tlen, a przy swiszczacym oddechu Atrovent do inhalacji; przy utrzymujacych sie objawach obrzeku krtani mozliwa jest intubacja i pilny transport do szpitala. Nie stosowac srodkow zobojetniajacych na skore.\n7. WARTOSCI GRANICZNE I PARAMETRY: NDS 14 mg/m3; NDSCh 28 mg/m3; NDSP nie ustalono. Temperatura wrzenia -33,35 C. Temperatura samozaplonu 630 C. Granice wybuchowosci w powietrzu 15-28% obj. Masa czasteczkowa 17,031.\n8. GLOWNE ZAGROZENIA: substancja toksyczna, drazniaca i zaraca. Powoduje oparzenia skory oraz uszkodzenia oczu. W postaci gazu i par moze wywolac bol i lzawienie oczu, kaszel, bol gardla, chrypke, mdlosci, wymioty, dusznosc, obrzek krtani, skurcz oskrzeli, zatrzymanie oddechu i obrzek pluc. Ciekly amoniak powoduje odmrozenia skory.\n9. CO MOZE POJSC NIE TAK: opoznienie ewakuacji ze strefy narazenia, niedoszacowanie ryzyka obrzeku pluc po inhalacji, gaszenie plonacego wycieku bez mozliwosci zatrzymania uwolnienia, oraz stosowanie srodkow zobojetniajacych na skazona skore.\n10. UWAGI OPERACYJNE: z materialu CIOP wynika, ze amoniak wchlania sie przez drogi oddechowe i z przewodu pokarmowego. LC50 dla szczura podano jako 7600 mg/m3 (2 h), a LCL0 jako 1420 mg/m3 (4 h). Odtrutki nie sa znane.",
-    "tagi_wspolne": [
-      "amoniak",
-      "nh3",
-      "substancja chemiczna"
-    ],
     "aliasy": [
       "nh3",
       "amoniak nh3",
@@ -3880,13 +3874,171 @@
       "h314 amoniak",
       "h400"
     ],
+    "prefix": "NH₃ — amoniak bezwodny, CAS 7664-41-7, UN 1005: gaz toksyczny i żrący, łatwopalny, lżejszy od powietrza.",
+    "najpierw": [
+      {
+        "t": "Do strefy w izolującym aparacie oddechowym i odzieży chemoodpornej; monitoruj stężenie.",
+        "zr": "KCh",
+        "str": 5
+      },
+      {
+        "t": "Ewakuuj teren, wyeliminuj źródła zapłonu, wentyluj; jeśli to możliwe — zatrzymaj wyciek.",
+        "zr": "KCh",
+        "str": 5
+      },
+      {
+        "t": "Ograniczaj chmurę mgłą wodną lub rozproszonym prądem wody.",
+        "zr": "KCh",
+        "str": 5
+      },
+      {
+        "t": "Poszkodowanego przenieś w nieskażony obszar (ratownik w aparacie izolującym), zapewnij ciepło i spokój, wezwij lekarza.",
+        "zr": "KCh",
+        "str": 4
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Zwroty H",
+        "wartosc": "H221 · H280 · H314 · H331 · H410 · EUH071 (żrący dla dróg oddechowych)",
+        "zr": "KCh",
+        "str": 2
+      },
+      {
+        "nazwa": "NDS / NDSCh",
+        "wartosc": "14 / 28 mg/m³",
+        "zr": "KCh",
+        "str": 8
+      },
+      {
+        "nazwa": "Granice wybuchowości",
+        "wartosc": "15,4–33,6 % obj.",
+        "zr": "KCh",
+        "str": 10
+      },
+      {
+        "nazwa": "Temperatura samozapłonu",
+        "wartosc": "630°C",
+        "zr": "KCh",
+        "str": 10
+      },
+      {
+        "nazwa": "Gęstość względem powietrza",
+        "wartosc": "0,6 — lżejszy od powietrza",
+        "zr": "KCh",
+        "str": 10
+      },
+      {
+        "nazwa": "Temperatura wrzenia",
+        "wartosc": "−33°C",
+        "zr": "KCh",
+        "str": 10
+      },
+      {
+        "nazwa": "Rozpuszczalność w wodzie",
+        "wartosc": "517 g/l (20°C)",
+        "zr": "KCh",
+        "str": 10
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Pożar",
+        "punkty": [
+          {
+            "t": "Preferowana metoda: odcięcie dopływu gazu.",
+            "zr": "KCh",
+            "str": 4
+          },
+          {
+            "t": "Środki gaśnicze: mgła wodna lub rozproszony prąd wody, piana.",
+            "zr": "KCh",
+            "str": 4
+          },
+          {
+            "t": "Produkty spalania: tlenki azotu.",
+            "zr": "KCh",
+            "str": 4
+          },
+          {
+            "t": "Chłodź zagrożone pojemniki rozproszoną wodą z bezpiecznego miejsca — ogień może je rozerwać.",
+            "zr": "KCh",
+            "str": 4
+          }
+        ]
+      },
+      {
+        "etykieta": "Ochrona ratowników",
+        "punkty": [
+          {
+            "t": "Odzież gazoszczelna, odporna na chemikalia (EN 943-2) z izolującym aparatem oddechowym (EN 137).",
+            "zr": "KCh",
+            "str": 5
+          }
+        ]
+      },
+      {
+        "etykieta": "Poszkodowany",
+        "punkty": [
+          {
+            "t": "Skóra: zdejmij skażoną odzież, przemywaj wodą co najmniej 15 minut.",
+            "zr": "KCh",
+            "str": 4
+          },
+          {
+            "t": "Oczy: natychmiast przemywaj dużą ilością wody co najmniej 15 minut.",
+            "zr": "KCh",
+            "str": 4
+          },
+          {
+            "t": "Przy zatrzymaniu oddechu — resuscytacja krążeniowo-oddechowa.",
+            "zr": "KCh",
+            "str": 4
+          },
+          {
+            "t": "Możliwe ciężkie oparzenia chemiczne skóry i rogówki; po narażeniu możliwy obrzęk płuc.",
+            "zr": "KCh",
+            "str": 4
+          }
+        ]
+      },
+      {
+        "etykieta": "Po uwolnieniu",
+        "punkty": [
+          {
+            "t": "Obszar zlej wodą; skażony sprzęt i miejsce wycieku spłucz obfitą ilością wody.",
+            "zr": "KCh",
+            "str": 5
+          }
+        ]
+      }
+    ],
+    "nie_rob": [
+      {
+        "t": "Nie gaś płomienia wypływającego gazu, chyba że to absolutnie konieczne — grozi wybuchowym powtórnym zapłonem.",
+        "zr": "KCh",
+        "str": 4
+      },
+      {
+        "t": "Nie dopuść, by skażone wody gaśnicze trafiły do kanalizacji.",
+        "zr": "KCh",
+        "str": 4
+      }
+    ],
+    "tagi_wspolne": [
+      "amoniak",
+      "nh3",
+      "substancja chemiczna"
+    ],
     "dokumenty_zrodlowe": [
       {
-        "dokument_id": "doc-sds-amoniak-4-0",
-        "strona": 1,
-        "sekcja": "Karta charakterystyki NH3"
+        "dokument_id": "doc-sds-amoniak-6-0",
+        "strona": 2,
+        "sekcja": "Sekcje 2–9 karty charakterystyki"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-25",
+    "content": "1. NAJPIERW: Do strefy w izolującym aparacie oddechowym i odzieży chemoodpornej; monitoruj stężenie. Ewakuuj teren, wyeliminuj źródła zapłonu, wentyluj; jeśli to możliwe — zatrzymaj wyciek. Ograniczaj chmurę mgłą wodną lub rozproszonym prądem wody. Poszkodowanego przenieś w nieskażony obszar (ratownik w aparacie izolującym), zapewnij ciepło i spokój, wezwij lekarza.\n2. PARAMETRY: Zwroty H — H221 · H280 · H314 · H331 · H410 · EUH071 (żrący dla dróg oddechowych); NDS / NDSCh — 14 / 28 mg/m³; Granice wybuchowości — 15,4–33,6 % obj.; Temperatura samozapłonu — 630°C; Gęstość względem powietrza — 0,6 — lżejszy od powietrza; Temperatura wrzenia — −33°C; Rozpuszczalność w wodzie — 517 g/l (20°C)\n3. POŻAR: Preferowana metoda: odcięcie dopływu gazu. Środki gaśnicze: mgła wodna lub rozproszony prąd wody, piana. Produkty spalania: tlenki azotu. Chłodź zagrożone pojemniki rozproszoną wodą z bezpiecznego miejsca — ogień może je rozerwać.\n4. OCHRONA RATOWNIKÓW: Odzież gazoszczelna, odporna na chemikalia (EN 943-2) z izolującym aparatem oddechowym (EN 137).\n5. POSZKODOWANY: Skóra: zdejmij skażoną odzież, przemywaj wodą co najmniej 15 minut. Oczy: natychmiast przemywaj dużą ilością wody co najmniej 15 minut. Przy zatrzymaniu oddechu — resuscytacja krążeniowo-oddechowa. Możliwe ciężkie oparzenia chemiczne skóry i rogówki; po narażeniu możliwy obrzęk płuc.\n6. PO UWOLNIENIU: Obszar zlej wodą; skażony sprzęt i miejsce wycieku spłucz obfitą ilością wody.\n7. NIE RÓB: Nie gaś płomienia wypływającego gazu, chyba że to absolutnie konieczne — grozi wybuchowym powtórnym zapłonem. Nie dopuść, by skażone wody gaśnicze trafiły do kanalizacji."
   },
   {
     "id": "KARTA-ORG-CBRNE-DODATKOWE-USTALENIA-SZKOLENIA",
@@ -3973,9 +4125,10 @@
   },
   {
     "id": "KARTA-ORG-CO-WARTOSCI-GRANICZNE",
+    "wzorzec": 2,
     "kategoria": "substancja",
-    "zrodlo": "CIOP-PIB, Baza niebezpiecznych substancji chemicznych, Tlenek wegla",
-    "data_aktualizacji": "",
+    "zrodlo": "Messer Polska: Karta charakterystyki – tlenek węgla, wersja 5.1 z 05.03.2026",
+    "data_aktualizacji": "2026-10-25",
     "slowo_kluczowe": "tlenek wegla",
     "keywords": [
       "co",
@@ -3992,14 +4145,6 @@
       "h331 tlenek wegla",
       "h372"
     ],
-    "prefix": "CO / Tlenek wegla - karta zagrozenia operacyjnego.",
-    "content": "1. KOD / NAZWA: CO - tlenek wegla, czad; CAS 630-08-0; synonim monotlenek wegla.\n2. ROZPOZNANIE: gaz bezbarwny i bezwonny, lzejszy lub zblizony gestoscia do powietrza (gestosc wzgledna 0,9678). Dziala toksycznie po wdychaniu i hamuje oddychanie tkankowe przez wiazanie z hemoglobina.\n3. STREFA: brak jednej liczbowej strefy w materiale CIOP; przy podejrzeniu obecnosci przyjac brak bezpiecznego progu zapachowego i koniecznosc szybkiego usuniecia osob z narazenia oraz wentylacji.\n4. SOI: brak szczegolowego doboru SOI w materiale CIOP; przy ratowaniu kluczowe jest unikanie narazenia inhalacyjnego i szybkie podawanie tlenu poszkodowanemu.\n5. DZIALANIA KRYTYCZNE: wyniesc lub wyprowadzic poszkodowanego z miejsca narazenia, zapewnic spokoj i ochrone przed utrata ciepla, jak najszybciej podac tlen i wezwac lekarza. W przypadku utraty przytomnosci ulozyc w pozycji bocznej ustalonej, udroznic drogi oddechowe, a jesli nie oddycha - prowadzic sztuczne oddychanie z jednoczesnym podawaniem tlenu.\n6. PROCEDURA SZCZEGOLOWA: klasyfikacja CLP obejmuje H220, H331 i H372 oraz informacje o skrajnej latwopalnosci, toksycznosci inhalacyjnej i uszkodzeniu narzadow przy narazeniu powtarzanym. W pierwszej pomocy CIOP zaleca kontynuacje podawania tlenu, transport do szpitala bez przerywania tlenoterapii oraz obserwacje szpitalna z kontrola EKG. Dla osoby nieprzytomnej wskazano mozliwosc intubacji i wentylacji workiem AMBU przez personel medyczny.\n7. WARTOSCI GRANICZNE I PARAMETRY: NDS 23 mg/m3, czyli 20 ppm; NDSCh 117 mg/m3, czyli 100 ppm; NDSP nie ustalono. Temperatura samozaplonu 605 C. Granice wybuchowosci w powietrzu: 12,5-75% obj. Masa czasteczkowa 28,01.\n8. GLOWNE ZAGROZENIA: gaz toksyczny i duszacy, dziala przez drogi oddechowe, moze powodowac nieodwracalne uszkodzenie osrodkowego ukladu nerwowego, niewydolnosc wiencowa i zawal u osob ze zmianami w sercu. Przy narazeniu przewleklym moze powodowac zaburzenia krazenia wiencowego, zmiany w EKG, bole i zawroty glowy, zaburzenia pamieci, zmiany osobowosci i neurologiczne.\n9. CO MOZE POJSC NIE TAK: przeoczenie zagrozenia z powodu braku zapachu, opoznienie tlenoterapii, przerwanie podawania tlenu podczas transportu oraz niedoszacowanie ryzyka pozarowo-wybuchowego.\n10. UWAGI OPERACYJNE: z materialu CIOP wynika, ze prog wyczuwalnosci zapachu nie wystepuje, dlatego rozpoznanie musi opierac sie na pomiarach i objawach. LC50 dla szczura podano jako 2114,19 mg/m3 (4 h), a LCL0 dla czlowieka 5850 mg/m3 (5 min).",
-    "tagi_wspolne": [
-      "tlenek wegla",
-      "czad",
-      "co",
-      "substancja chemiczna"
-    ],
     "aliasy": [
       "co",
       "czad",
@@ -4015,13 +4160,141 @@
       "h331 tlenek wegla",
       "h372"
     ],
+    "prefix": "CO — tlenek węgla (czad), CAS 630-08-0, UN 1016: gaz bezwonny, toksyczny, łatwopalny; szkodliwy dla płodu.",
+    "najpierw": [
+      {
+        "t": "Gaz bezwonny — nie wyczujesz go węchem, opieraj się na pomiarach; do strefy w izolującym aparacie oddechowym, chyba że atmosfera jest potwierdzona jako bezpieczna.",
+        "zr": "KCh",
+        "str": 4
+      },
+      {
+        "t": "Ewakuuj teren, wyeliminuj źródła zapłonu, wentyluj; jeśli to możliwe — zatrzymaj wyciek.",
+        "zr": "KCh",
+        "str": 4
+      },
+      {
+        "t": "Poszkodowanego przenieś w nieskażony obszar (ratownik w aparacie izolującym), podaj tlen, zapewnij ciepło i spokój, wezwij lekarza.",
+        "zr": "KCh",
+        "str": 3
+      },
+      {
+        "t": "H360D — może działać szkodliwie na dziecko w łonie matki; uwzględnij to przy kierowaniu do strefy.",
+        "zr": "KCh",
+        "str": 2
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Zwroty H",
+        "wartosc": "H221 · H280 · H331 · H360D · H372",
+        "zr": "KCh",
+        "str": 2
+      },
+      {
+        "nazwa": "NDS / NDSCh",
+        "wartosc": "23 / 117 mg/m³",
+        "zr": "KCh",
+        "str": 7
+      },
+      {
+        "nazwa": "Granice wybuchowości",
+        "wartosc": "10,9–76 % obj.",
+        "zr": "KCh",
+        "str": 8
+      },
+      {
+        "nazwa": "Temperatura samozapłonu",
+        "wartosc": "620°C",
+        "zr": "KCh",
+        "str": 8
+      },
+      {
+        "nazwa": "Gęstość względem powietrza",
+        "wartosc": "1 (jak powietrze)",
+        "zr": "KCh",
+        "str": 9
+      },
+      {
+        "nazwa": "Zapach",
+        "wartosc": "bezwonny",
+        "zr": "KCh",
+        "str": 8
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Pożar",
+        "punkty": [
+          {
+            "t": "Środki gaśnicze: mgła wodna lub rozproszony prąd wody, proszek, CO₂.",
+            "zr": "KCh",
+            "str": 3
+          },
+          {
+            "t": "Chłodź zagrożone butle rozproszoną wodą z bezpiecznego miejsca — ogień może je rozerwać.",
+            "zr": "KCh",
+            "str": 4
+          },
+          {
+            "t": "Jeśli to możliwe, zatrzymaj wypływ gazu; pojemniki usuń z miejsca pożaru, gdy da się to zrobić bez ryzyka.",
+            "zr": "KCh",
+            "str": 4
+          }
+        ]
+      },
+      {
+        "etykieta": "Ochrona ratowników",
+        "punkty": [
+          {
+            "t": "Odzież gazoszczelna, odporna na chemikalia (EN 943-2) z izolującym aparatem oddechowym (EN 137).",
+            "zr": "KCh",
+            "str": 4
+          }
+        ]
+      },
+      {
+        "etykieta": "Poszkodowany",
+        "punkty": [
+          {
+            "t": "Przy zatrzymaniu oddechu — resuscytacja krążeniowo-oddechowa.",
+            "zr": "KCh",
+            "str": 3
+          },
+          {
+            "t": "Objawy: zawroty i bóle głowy, nudności, utrata koordynacji; możliwe skutki opóźnione.",
+            "zr": "KCh",
+            "str": 3
+          }
+        ]
+      }
+    ],
+    "nie_rob": [
+      {
+        "t": "Nie gaś płomienia wypływającego gazu, chyba że to absolutnie konieczne — grozi wybuchowym powtórnym zapłonem.",
+        "zr": "KCh",
+        "str": 4
+      },
+      {
+        "t": "Nie dopuść, by skażone wody gaśnicze trafiły do kanalizacji.",
+        "zr": "KCh",
+        "str": 4
+      }
+    ],
+    "tagi_wspolne": [
+      "tlenek wegla",
+      "czad",
+      "co",
+      "substancja chemiczna"
+    ],
     "dokumenty_zrodlowe": [
       {
-        "dokument_id": "doc-sds-co-2-0",
-        "strona": 1,
-        "sekcja": "Karta charakterystyki CO"
+        "dokument_id": "doc-sds-co-5-1",
+        "strona": 2,
+        "sekcja": "Sekcje 2–9 karty charakterystyki"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-25",
+    "content": "1. NAJPIERW: Gaz bezwonny — nie wyczujesz go węchem, opieraj się na pomiarach; do strefy w izolującym aparacie oddechowym, chyba że atmosfera jest potwierdzona jako bezpieczna. Ewakuuj teren, wyeliminuj źródła zapłonu, wentyluj; jeśli to możliwe — zatrzymaj wyciek. Poszkodowanego przenieś w nieskażony obszar (ratownik w aparacie izolującym), podaj tlen, zapewnij ciepło i spokój, wezwij lekarza. H360D — może działać szkodliwie na dziecko w łonie matki; uwzględnij to przy kierowaniu do strefy.\n2. PARAMETRY: Zwroty H — H221 · H280 · H331 · H360D · H372; NDS / NDSCh — 23 / 117 mg/m³; Granice wybuchowości — 10,9–76 % obj.; Temperatura samozapłonu — 620°C; Gęstość względem powietrza — 1 (jak powietrze); Zapach — bezwonny\n3. POŻAR: Środki gaśnicze: mgła wodna lub rozproszony prąd wody, proszek, CO₂. Chłodź zagrożone butle rozproszoną wodą z bezpiecznego miejsca — ogień może je rozerwać. Jeśli to możliwe, zatrzymaj wypływ gazu; pojemniki usuń z miejsca pożaru, gdy da się to zrobić bez ryzyka.\n4. OCHRONA RATOWNIKÓW: Odzież gazoszczelna, odporna na chemikalia (EN 943-2) z izolującym aparatem oddechowym (EN 137).\n5. POSZKODOWANY: Przy zatrzymaniu oddechu — resuscytacja krążeniowo-oddechowa. Objawy: zawroty i bóle głowy, nudności, utrata koordynacji; możliwe skutki opóźnione.\n6. NIE RÓB: Nie gaś płomienia wypływającego gazu, chyba że to absolutnie konieczne — grozi wybuchowym powtórnym zapłonem. Nie dopuść, by skażone wody gaśnicze trafiły do kanalizacji."
   },
   {
     "id": "KARTA-ORG-DETEKTOR-MSA-ALTAIR-4X",
