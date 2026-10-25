@@ -54,7 +54,8 @@
       "url": "https://www.gov.pl/web/kgpsp/zasady-organizacji-rat-med",
       "opis": "KG PSP — Ratownictwo medyczne: zasady i inne dokumenty (procedury KPP)",
       "dotyczy_kart": [
-        "KARTA-KPP-"
+        "KARTA-KPP-",
+        "WYP-MAS-01"
       ]
     },
     {
@@ -150,6 +151,21 @@
         "dokument_id": "doc-zodr-2013",
         "url": "https://www.gov.pl/attachment/6271c49d-5c46-4a10-891c-a81eeacac88b",
         "strona": "dokumentacja-operacyjna"
+      },
+      {
+        "dokument_id": "doc-zorm-2021",
+        "url": "https://www.gov.pl/attachment/7eab7cb1-e1c5-49a9-84d9-6eb13eb56052",
+        "strona": "zasady-organizacji-rat-med"
+      },
+      {
+        "dokument_id": "doc-zorm-2021-zal2",
+        "url": "https://www.gov.pl/attachment/ee0300b9-4adc-444b-b924-375572ed303e",
+        "strona": "zasady-organizacji-rat-med"
+      },
+      {
+        "dokument_id": "doc-zorm-2021-zal7",
+        "url": "https://www.gov.pl/attachment/5c676a2d-bf0f-4fce-88cb-0006342146af",
+        "strona": "zasady-organizacji-rat-med"
       }
     ]
   }

@@ -142,7 +142,11 @@ function kontrolaOffline() {
         const refs = karta.dokumenty_zrodlowe || [];
         const legacy = String(karta?.pelna_procedura?.plik || "").trim();
 
-        if (!refs.length && !legacy) {
+        if (!refs.length && !legacy && karta.zrodlo_dostepnosc === "niedostepne_publicznie") {
+            dodaj(3, "Źródło niedostępne publicznie",
+                `${karta.id} — dokumentu nie ma na gov.pl ani w repozytorium. Dołącz skan, gdy będzie dostępny.`,
+                { obiekt: karta.id });
+        } else if (!refs.length && !legacy) {
             dodaj(1, "Karta bez dokumentu źródłowego",
                 `${karta.id} — w aplikacji pokazuje „plik niepodłączony”. Podłącz dokument źródłowy w rejestrze.`,
                 { obiekt: karta.id });
