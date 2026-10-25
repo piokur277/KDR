@@ -160,19 +160,6 @@
       "liczba_stron": 17,
       "sha256": "37ceeae85e1d0b8e476ce9525e7a16b853075cdfb746c04c7c2a0f11f2c0b0e0"
     },
-    "doc-sds-hcn-ekos-2006": {
-      "tytul": "Karta charakterystyki niebezpiecznej substancji - Cyjanowodór",
-      "wersja": "Wydanie z 21.08.2006 - wymaga weryfikacji aktualności",
-      "data_wydania": "2006-08-21",
-      "rodzaj": "Karta charakterystyki - dokument archiwalny",
-      "plik": "dokumenty/chemiczne/sds-cyjanowodor-ekos-2006.pdf",
-      "id": "doc-sds-hcn-ekos-2006",
-      "status_techniczny": "aktywny",
-      "aktualnosc_merytoryczna": "wymaga_weryfikacji_dokument_z_2006_roku",
-      "uwagi": "Dokument dotyczy cyjanowodoru HCN, CAS 74-90-8. Zawiera odwołania do przepisów i oznakowania obowiązujących w 2006 r.; przed użyciem operacyjnym należy zweryfikować aktualność.",
-      "liczba_stron": 8,
-      "sha256": "37bb20804a55bc6c4388522f6bf10acd7993b1b1b6938a6d34b0340653c740b6"
-    },
     "doc-acetylen-szp-2020": {
       "tytul": "Standardowe zasady postępowania podczas zdarzeń z udziałem butli z acetylenem",
       "wersja": "Wydanie II",
@@ -1029,6 +1016,19 @@
       "liczba_stron": 48,
       "sha256": "a004debc0c4124ec18b030bbc9071761e8ba4d38366a17a57ff0700222d6b4f5",
       "uwagi": "Pobrano z messer.pl. Zastępuje wcześniejszą wersję z repozytorium (CO 2.0/2020; NH3 4.0/2019)."
+    },
+    "doc-icsc-0492-hcn": {
+      "id": "doc-icsc-0492-hcn",
+      "tytul": "Międzynarodowa Karta Bezpieczeństwa Chemicznego ICSC 0492 – Cyjanowodór, skroplony",
+      "wersja": "Maj 2018 (wersja polska: IMP Łódź, 2018)",
+      "data_wydania": "2018-05",
+      "rodzaj": "Karta ICSC (ILO/WHO)",
+      "plik": "dokumenty/chemiczne/icsc-0492-cyjanowodor-pl-2018.pdf",
+      "status_techniczny": "aktywny",
+      "aktualnosc_merytoryczna": "zweryfikowano_2026-10-25",
+      "liczba_stron": 3,
+      "sha256": "3eeeab56462b7a8c385ffb232dfd80e7eee272de147d1322800258825fbe8e58",
+      "uwagi": "Zapis strony https://chemicalsafety.ilo.org/dyn/icsc/showcard.display?p_card_id=0492&p_version=2&p_lang=pl do PDF z 25.10.2026. Zastępuje kartę charakterystyki EKOS z 2006 r."
     }
   }
 }
