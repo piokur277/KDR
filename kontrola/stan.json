@@ -1,0 +1,397 @@
+{
+  "wersja": 1,
+  "zrodla": {
+    "src-olioc-akademia": {
+      "odcisk": "b3fd275af055355887378075f15a322edbc996aa20670a11ff6d53c6b6ac770e",
+      "linki": {
+        "https://www.gov.pl/attachment/112b807a-416d-437d-b391-66dbd5e4a844": "Alert RCB Alert&#8203;_RCB&#8203;_pdf.pdf 0.21MB",
+        "https://www.gov.pl/attachment/3298caa6-3ee9-4886-aedc-40f2d0ece0cd": "Plakat Akademia OLiOC PNG PLAKAT&#8203;_Akademia&#8203;_OLiOC.png 1.33MB",
+        "https://www.gov.pl/attachment/3d511e47-5450-41d2-9eb9-f5da693be4cd": "Spacer Bezpieczeństwa PNG Spacer&#8203;_Bezpieczeństa&#8203;_-&#8203;_PNG.png 0.62MB",
+        "https://www.gov.pl/attachment/4f17f612-c509-4ab3-8b33-4ba302e52334": "Pakiet uczniowski PNG pakiet&#8203;_uczniowski.png 0.36MB",
+        "https://www.gov.pl/attachment/525423fd-0e11-4756-8263-20806e7c6a34": "Pakiet uczniowski PDF pakiet&#8203;_uczniowski.pdf 4.83MB",
+        "https://www.gov.pl/attachment/819526f0-4cc4-49bc-be14-37799d75fdae": "Karta Planu Rodzinnego PDF karta&#8203;_planu&#8203;_rodzinnego.pdf 3.45MB",
+        "https://www.gov.pl/attachment/9bb63c3d-bc74-4fa0-b90b-2aeff45a2b6f": "Sygnał alarmowy PDF Sygnał&#8203;_alarmowy&#8203;_pdf.pdf 0.78MB",
+        "https://www.gov.pl/attachment/af89439f-5002-4912-a066-92f08765694b": "Karta planu rodzinnego PNG karta&#8203;_planu&#8203;_rodzinnego.png 0.20MB",
+        "https://www.gov.pl/attachment/cc2d0058-e5f9-4ed6-b583-a08ea4bac5af": "Instrukcja Reagowania - PDF instrukcja&#8203;_reagowania&#8203;_pdf.pdf 1.95MB",
+        "https://www.gov.pl/attachment/d9df0fc6-a370-4a2e-b48a-0d61f5c5b312": "Sygnał alarmowy PNG Sygnał&#8203;_alarmowy&#8203;_png.png 0.59MB"
+      },
+      "sprawdzono": "2026-10-25",
+      "zmieniono": "2026-10-25"
+    },
+    "src-olioc-ustawa": {
+      "odcisk": "21d3a63d73a16d62a9003de700ddc34b478d94171e50b9f66dc578f6664e0e5e",
+      "linki": {},
+      "sprawdzono": "2026-10-25",
+      "zmieniono": "2026-10-25"
+    },
+    "src-poradnik-wspolnie": {
+      "odcisk": "8e27de53b205f9849010505b60a5e185c8a450bd5a61a46d2f06bd663cb91412",
+      "linki": {},
+      "sprawdzono": "2026-10-25",
+      "zmieniono": "2026-10-25"
+    },
+    "src-poradnik-przygotuj-siebie": {
+      "odcisk": "adf7e5210fcdf984ada2b3b30d42cd545295ca0e88cbd04098852a7abfe3093b",
+      "linki": {},
+      "sprawdzono": "2026-10-25",
+      "zmieniono": "2026-10-25"
+    },
+    "src-poradnik-szczegolna-pomoc": {
+      "odcisk": "216308a7bc45dc7d89292bdd8ff94fa92a9daf0928e352f8424f56835d850a03",
+      "linki": {},
+      "sprawdzono": "2026-10-25",
+      "zmieniono": "2026-10-25"
+    },
+    "src-poradnik-zwierzeta": {
+      "odcisk": "f966ba44ada0d528fb593819812d3e6475552ef215e5fa1a6f8cd20223008eb1",
+      "linki": {},
+      "sprawdzono": "2026-10-25",
+      "zmieniono": "2026-10-25"
+    },
+    "src-poradnik-otoczenie": {
+      "odcisk": "db4866a18b020b8f6d538598874323516627a66311478ee611e9dfcf1b77efde",
+      "linki": {},
+      "sprawdzono": "2026-10-25",
+      "zmieniono": "2026-10-25"
+    },
+    "src-poradnik-alarmy": {
+      "odcisk": "300d2b6136182df71069380065ad289ed531c7f659f7420cba747350e157c16d",
+      "linki": {},
+      "sprawdzono": "2026-10-25",
+      "zmieniono": "2026-10-25"
+    },
+    "src-poradnik-ewakuacja": {
+      "odcisk": "c9457ffbb463d8e213a1e12c5b287a2b296709aa3cdd24246fbaece24d4dde99",
+      "linki": {},
+      "sprawdzono": "2026-10-25",
+      "zmieniono": "2026-10-25"
+    },
+    "src-poradnik-schronienia": {
+      "odcisk": "498dc5826f356490a32a509e20fde5e0ab0237f3d8bf3f0887269e8b8f92b73f",
+      "linki": {},
+      "sprawdzono": "2026-10-25",
+      "zmieniono": "2026-10-25"
+    },
+    "src-poradnik-pozar": {
+      "odcisk": "75a5449df88ad6d283118b42c014b7303485228a789332b9802c11be0ae77316",
+      "linki": {},
+      "sprawdzono": "2026-10-25",
+      "zmieniono": "2026-10-25"
+    },
+    "src-poradnik-blackout": {
+      "odcisk": "4ff05afc437c8c93c27145dcc28f6f7a30d6dbd0d737537e4841d7d03760f5ae",
+      "linki": {},
+      "sprawdzono": "2026-10-25",
+      "zmieniono": "2026-10-25"
+    },
+    "src-poradnik-cyfrowe": {
+      "odcisk": "c2da29fe246e34e059fa94da01a67b33e7f6a75448e108ead5db329506866b2f",
+      "linki": {},
+      "sprawdzono": "2026-10-25",
+      "zmieniono": "2026-10-25"
+    },
+    "src-poradnik-higiena": {
+      "odcisk": "c90a893f5a312e3829d349e243f8613a280877f0f678055fb2225841f206ca94",
+      "linki": {},
+      "sprawdzono": "2026-10-25",
+      "zmieniono": "2026-10-25"
+    },
+    "src-poradnik-plan": {
+      "odcisk": "a3f766d2f1467e61a5d1673282b08c53af80626654591aa15121a71cb5f27856",
+      "linki": {},
+      "sprawdzono": "2026-10-25",
+      "zmieniono": "2026-10-25"
+    },
+    "src-poradnik-pierwsza-pomoc": {
+      "odcisk": "d641e4381b1af2208ecc77c8a5e5a04bd50495b83ba279abe238b79c3f33fe93",
+      "linki": {},
+      "sprawdzono": "2026-10-25",
+      "zmieniono": "2026-10-25"
+    },
+    "src-kgpsp-czujki-2026": {
+      "odcisk": "0d861776b1fa794f88c1241ff0866f8358858e9c2cb5fa31a522c195825d1a16",
+      "linki": {},
+      "sprawdzono": "2026-10-25",
+      "zmieniono": "2026-10-25"
+    },
+    "src-gis-zywnosc-blackout-2026": {
+      "odcisk": "ea064b4833c1d4a1d0b2418b57b071c14f032946daf272bb919a46a4467b01d1",
+      "linki": {
+        "https://www.gov.pl/attachment/39db4a4b-e8fd-4875-939c-d5a6b6bf0afe": "EFSA Przerwa w dostawie prądu EFSA&#8203;_MSCC&#8203;_infographic&#8203;_power&#8203;_outage&#8203;_–&#8203;_PL&#8203;_20260318v2.pdf 1.97MB"
+      },
+      "sprawdzono": "2026-10-25",
+      "zmieniono": "2026-10-25"
+    },
+    "src-psp-agregat-na-zewnatrz": {
+      "odcisk": "e9d1913e7e2c295b19121a1f89a4fb8ac51ab7e2f5f6064e85a465520591b97d",
+      "linki": {},
+      "sprawdzono": "2026-10-25",
+      "zmieniono": "2026-10-25"
+    },
+    "src-cert-zglos-incydent": {
+      "odcisk": "e501fd238c8987fae8317ee7eeebbce1235106311e1815ed0a441f5abd1b9419",
+      "linki": {},
+      "sprawdzono": "2026-10-25",
+      "zmieniono": "2026-10-25"
+    },
+    "doc-chem-eko-zasady-2025-online": {
+      "odcisk": "7e46868af830f5e1ba994d9346e5de462687f6d62580b6f88dabe6c983cb8553",
+      "linki": {},
+      "sprawdzono": "2026-10-25",
+      "zmieniono": "2026-10-25"
+    },
+    "doc-chem-eko-karta-graficzna-2025-online": {
+      "odcisk": "3a2795ee1db8aaa7e31facf96e0016ec82fe794ab35e8b76855a2300f0ffe560",
+      "linki": {},
+      "sprawdzono": "2026-10-25",
+      "zmieniono": "2026-10-25"
+    },
+    "doc-polon-alfa-rk-100-2-product": {
+      "odcisk": "53687c2f60eaaf39055d03551c93ab0fa83027a402ae4f27a8a1dd981bf269ec",
+      "linki": {
+        "https://polon-alfa.com/wp-content/uploads/2024/01/IO-R120-001-IV.pdf": "https://polon-alfa.com/wp-content/uploads/2024/01/IO-R120-001-IV.pdf",
+        "https://polon-alfa.com/wp-content/uploads/2024/01/kk_RK-100-2_1.pdf": "https://polon-alfa.com/wp-content/uploads/2024/01/kk_RK-100-2_1.pdf",
+        "https://polon-alfa.com/wp-content/uploads/2025/10/kodeks_etyczny_P-A.pdf": "Kodeks etyczny"
+      },
+      "sprawdzono": "2026-10-25",
+      "zmieniono": "2026-10-25"
+    }
+  },
+  "strony": {
+    "kgpsp-baza-wiedzy": {
+      "odcisk": "109f0f3d91e367310bb93f4288e58147031ce458f860097495ce4f8395cc960f",
+      "linki": {},
+      "sprawdzono": "2026-10-25",
+      "zmieniono": "2026-10-25"
+    },
+    "kgpsp-rat-tech-dokumenty": {
+      "odcisk": "b4b44b56212392e26c645ff2e427101aee170170f72ae0ea3191f32da53a493b",
+      "linki": {
+        "https://www.gov.pl/attachment/12c0bf6c-1501-4ad3-8fac-468e35b90565": "Załącznik nr 6 do Zasad...&#8203;_2026 Załącznik&#8203;_nr&#8203;_6&#8203;_do&#8203;_Zasad&#8203;_2026.pdf 0.09MB",
+        "https://www.gov.pl/attachment/15f329b1-f3b4-4068-a437-2d721d49463b": "Załącznik nr 1 do Zasad...&#8203;_2026 Załącznik&#8203;_nr&#8203;_1&#8203;_do&#8203;_Zasad&#8203;_2026.pdf 0.07MB",
+        "https://www.gov.pl/attachment/2d0d1f97-1774-4fa2-a32c-9a9da7a79bad": "Załącznik nr 4 do Zasad...&#8203;_2026 Załącznik&#8203;_nr&#8203;_4&#8203;_do&#8203;_Zasad&#8203;_2026.pdf 0.26MB",
+        "https://www.gov.pl/attachment/34e03b76-dd35-47e1-a905-cda114d39eb4": "Zasady postępowania jednostek w związku ze zdarzeniami na drogach Zasadypostepowania&#8203;_jednostek&#8203;_w&#8203;_związku&#8203;_ze&#8203;_zdarzeniami&#8203;_na&#8203;_drogach.pdf 4.80MB",
+        "https://www.gov.pl/attachment/3be2a59d-654b-4ae0-9ab1-735f17028dd0": "Standardowe zasady postępowania podczas zdarzeń z udziałem butli z acetylenem Standardowe&#8203;_zasady&#8203;_postępowania&#8203;_podczas&#8203;_zdarzeń&#8203;_z&#8203;_udziałem&#8203;_butli&#8203;_z&#8203;_acetylenem.pdf 3.38MB",
+        "https://www.gov.pl/attachment/585e7f67-2d87-44e2-ac71-ed129c686698": "Załącznik nr 2 do Zasad...&#8203;_2026 Załącznik&#8203;_nr&#8203;_2&#8203;_do&#8203;_Zasad&#8203;_2026.pdf 0.18MB",
+        "https://www.gov.pl/attachment/6d46af7e-58b8-4c8d-bf7a-8f7460c92d47": "Załącznik do Porozumienia - Schemat współpracy - część opisowa Załącznik&#8203;_do&#8203;_Porozumienia&#8203;_-&#8203;_Schemat&#8203;_współpracy&#8203;_-&#8203;_część&#8203;_opisowa.docx 0.02MB",
+        "https://www.gov.pl/attachment/73a0419f-c51c-4b12-8570-4cd5a7989413": "Zasady organizacji ratownictwa technicznego w krajowym systemie ratowniczo-gaśniczym&#8203;_2026 Zasady&#8203;_organizacji&#8203;_ratownictwa&#8203;_technicznego&#8203;_w&#8203;_krajowym&#8203;_systemie&#8203;_ratowniczo-gaśniczym&#8203;_2026.pdf 0.32MB",
+        "https://www.gov.pl/attachment/7f492caf-686e-4df7-aec8-909ee86ecd4a": "Standardowe zasady postępowania podczas zdarzeń z samochodami z napędem elektrycznym oraz hybrydowym Zasady&#8203;_sam&#8203;_elektryczne&#8203;_i&#8203;_hybrydowe&#8203;_maj&#8203;_2023.pdf 2.25MB",
+        "https://www.gov.pl/attachment/8877d5f6-2911-432e-8ca5-72596a8712a1": "Porozumienie z Generalną Dyrekcją Dróg Krajowych i Autostrad Porozumienie&#8203;_z&#8203;_Generalną&#8203;_Dyrekcją&#8203;_Dróg&#8203;_Krajowych&#8203;_i&#8203;_Autostrad.pdf 1.83MB",
+        "https://www.gov.pl/attachment/8d6b710f-295c-426f-93f7-ad4150921e18": "Załącznik do Porozumienia - Współpraca na miejscu zdarzenia Załącznik&#8203;_do&#8203;_Porozumienia&#8203;_-&#8203;_Współpraca&#8203;_na&#8203;_miejscu&#8203;_zdarzenia.pdf 5.76MB",
+        "https://www.gov.pl/attachment/905b30ec-ecb7-4eaf-a41a-09c440081d8b": "Załącznik nr 3 do Zasad...&#8203;_2026 Załącznik&#8203;_nr&#8203;_3&#8203;_do&#8203;_Zasad&#8203;_2026.pdf 0.13MB",
+        "https://www.gov.pl/attachment/da70ad85-ce1f-4ef6-8689-7a5a9033df1e": "Załącznik nr 5 do Zasad...&#8203;_2026 Załącznik&#8203;_nr&#8203;_5&#8203;_do&#8203;_Zasad&#8203;_2026.pdf 0.09MB"
+      },
+      "sprawdzono": "2026-10-25",
+      "zmieniono": "2026-10-25"
+    },
+    "kgpsp-rat-chem-dokumenty": {
+      "odcisk": "57049bedcda2c4e9d5d4f313a3dab93c3a61b0523d98f24d8c8160f3dd55d4e3",
+      "linki": {
+        "https://www.gov.pl/attachment/01a80975-659b-4bcf-88d4-42c11189d7a1": "Załącznik nr 11 do Zasad... Załącznik&#8203;_nr&#8203;_11.pdf 0.59MB",
+        "https://www.gov.pl/attachment/0553ada4-6635-46cb-9932-d12bc1eeee06": "Załącznik nr B.2.1 do Zasad... Załącznik&#8203;_nr&#8203;_B21.pdf 0.20MB",
+        "https://www.gov.pl/attachment/0650cbf2-47a1-4355-ad83-0df583e298af": "Załącznik nr B.2.2 do Zasad... Załącznik&#8203;_nr&#8203;_B22.pdf 0.19MB",
+        "https://www.gov.pl/attachment/0660d0b5-75d4-4596-b51e-5bd0d3191095": "Załącznik nr D.8.2 do Zasad... Załącznik&#8203;_nr&#8203;_D82.pdf 0.27MB",
+        "https://www.gov.pl/attachment/0fa25994-5d58-4cc2-846c-83ab45d2ccd2": "Załącznik nr 8 do Zasad... - plan rozwoju sieci jednostek Załącznik&#8203;_nr&#8203;_8&#8203;_plan&#8203;_rozwoju&#8203;_specjalistyczny.xlsx 0.01MB",
+        "https://www.gov.pl/attachment/19824078-3ed1-4ffa-80b6-e87dd3153b25": "Załącznik nr R2 do Zasad... Załącznik&#8203;_nr&#8203;_R2.pdf 0.14MB",
+        "https://www.gov.pl/attachment/28ebe4f5-f1de-4d0e-bf23-055f62304fdb": "Załącznik nr 10 do Zasad... Załącznik&#8203;_nr&#8203;_10.pdf 0.07MB",
+        "https://www.gov.pl/attachment/2d6a2c71-d350-4c74-a26c-52bbbd026b5d": "Załącznik nr B.2.6 do Zasad... Załącznik&#8203;_nr&#8203;_B26.pdf 0.18MB",
+        "https://www.gov.pl/attachment/2f127b6f-4a15-4a9f-a43b-fc37497415f9": "Załącznik nr D.3.1 do Zasad... Załącznik&#8203;_nr&#8203;_D31.pdf 1.04MB",
+        "https://www.gov.pl/attachment/3f04cc1f-0281-4241-a4a7-5bc2aa849708": "Załącznik nr D.6 do Zasad... Załącznik&#8203;_nr&#8203;_D6.pdf 0.41MB",
+        "https://www.gov.pl/attachment/41c5fc35-8560-4a25-9480-d7a3591fd8bb": "Załącznik nr D.3 do Zasad... Załącznik&#8203;_nr&#8203;_D3.pdf 0.18MB",
+        "https://www.gov.pl/attachment/4255f143-78de-4309-a4b1-b37bf32053ef": "Załącznik nr D.5 do Zasad... Załącznik&#8203;_nr&#8203;_D5.pdf 0.54MB",
+        "https://www.gov.pl/attachment/4dfb7619-3f47-4175-aeaf-74de22ecae85": "Standardowe zasady postępowania podczas zdarzeń z udziałem skroplonego gazu ziemnego LNG Zasady&#8203;_LNG.pdf 0.97MB",
+        "https://www.gov.pl/attachment/4fa8abae-ebf0-49e3-9810-a9963dabc7ed": "Załącznik nr B.2.7 do Zasad... Załącznik&#8203;_nr&#8203;_B27.pdf 0.18MB",
+        "https://www.gov.pl/attachment/501246df-52a8-4982-9c50-dc8c45e8a732": "Załącznik nr 1 do Zasad... Załącznik&#8203;_nr&#8203;_1.pdf 0.08MB",
+        "https://www.gov.pl/attachment/5d75e769-8e93-4270-8bbb-5c397880b01f": "Załącznik nr B.1 do Zasad... Załącznik&#8203;_nr&#8203;_B1.pdf 0.19MB",
+        "https://www.gov.pl/attachment/5e8aab4b-dd08-4ae2-a7bb-24f75da534a5": "Zasady poboru próbek przy wykorzystaniu wyposażenia SGRChem-Eko PSP Procedura&#8203;_Sampling.pdf 2.11MB",
+        "https://www.gov.pl/attachment/5f03c132-ec86-402d-b4bc-c9acdf2ae5d0": "Załącznik nr 7 do Zasad...&#8203;_Plan rozwoju&#8203;_podstawowy Załącznik&#8203;_nr&#8203;_7&#8203;_plan&#8203;_rozwoju&#8203;_podstawowy.pdf 0.24MB",
+        "https://www.gov.pl/attachment/5f09fc01-1bc5-4cd6-aa5d-ddb858069b33": "Załącznik nr 6 do Zasad... Załącznik&#8203;_nr&#8203;_6.pdf 0.36MB",
+        "https://www.gov.pl/attachment/627f9b06-311a-4aca-b51a-c6c153b62cf3": "Załącznik nr 3 do Zasad... Załącznik&#8203;_nr&#8203;_3.pdf 0.27MB",
+        "https://www.gov.pl/attachment/6d2a8d60-3604-4c98-9f84-8722efb21f3c": "Załącznik nr 5 do Zasad... Załącznik&#8203;_nr&#8203;_5.pdf 0.28MB",
+        "https://www.gov.pl/attachment/6fe22bb4-d520-42fd-94e3-056c430ec164": "Załącznik nr B.2 do Zasad... Załącznik&#8203;_nr&#8203;_B2.pdf 0.24MB",
+        "https://www.gov.pl/attachment/7a8514fc-567d-4c24-878e-717dae47eddd": "Załącznik nr 2 do Zasad... Załącznik&#8203;_nr&#8203;_2.pdf 0.27MB",
+        "https://www.gov.pl/attachment/7d0b3e83-9d0f-4014-95d9-65dc7f6a6597": "Załącznik nr B.1.1 do Zasad... Załącznik&#8203;_nr&#8203;_B11.pdf 0.17MB",
+        "https://www.gov.pl/attachment/7e0ec01d-c17b-467a-a2a4-ba0194808cf6": "Załącznik nr 4 do Zasad... Załącznik&#8203;_nr&#8203;_4.pdf 0.13MB",
+        "https://www.gov.pl/attachment/84fd3456-6754-43d3-b0eb-b1764379cfa9": "Załącznik nr D.4 do Zasad... Załącznik&#8203;_nr&#8203;_D4.pdf 0.30MB",
+        "https://www.gov.pl/attachment/873ab696-231f-477a-b945-d61ac92a26b4": "Załącznik nr 9 do Zasad... Załącznik&#8203;_nr&#8203;_9.pdf 0.09MB",
+        "https://www.gov.pl/attachment/89034c06-f751-4b01-9f8c-683b80e34eb5": "Zasady organizacji ratownictwa chemicznego i ekologicznego w krajowym systemie ratowniczo-gaśniczym&#8203;_2025 Zasady&#8203;_organizacji&#8203;_ratownictwa&#8203;_chemicznego&#8203;_i&#8203;_ekologicznego&#8203;_w&#8203;_KSRG&#8203;_2025&#8203;_r.pdf 0.40MB",
+        "https://www.gov.pl/attachment/90a43b07-2337-409e-acc2-380ae4518e5a": "Załącznik nr D.1 do Zasad... Załącznik&#8203;_nr&#8203;_D1.pdf 0.35MB",
+        "https://www.gov.pl/attachment/9117d9bc-8a04-4f0a-bb57-2235d36e8bc9": "Załącznik nr R1 do Zasad... Załącznik&#8203;_nr&#8203;_R1.pdf 0.28MB",
+        "https://www.gov.pl/attachment/95491878-c68b-41c5-8aed-341d3d72a0ef": "Załącznik nr B.1.2 do Zasad... Załącznik&#8203;_nr&#8203;_B12.pdf 0.39MB",
+        "https://www.gov.pl/attachment/9dd9a338-5b9f-4966-99ec-82973afb79c3": "Załącznik nr B.2.3 do Zasad... Załącznik&#8203;_nr&#8203;_B23.pdf 0.21MB",
+        "https://www.gov.pl/attachment/9e432043-981d-40f5-aafa-866bc2ba6510": "Załącznik nr D.8 do Zasad... Załącznik&#8203;_nr&#8203;_D8.pdf 0.23MB",
+        "https://www.gov.pl/attachment/a9d70524-4919-49f5-9d1c-7d06bea06f3a": "Załącznik nr D.8.1 do Zasad... Załącznik&#8203;_nr&#8203;_D81.pdf 0.36MB",
+        "https://www.gov.pl/attachment/b1db5a71-d8c0-4778-aa38-a024915bf968": "Załącznik nr R3 do Zasad... Załącznik&#8203;_nr&#8203;_R3.pdf 0.18MB",
+        "https://www.gov.pl/attachment/c269822c-17fc-45d7-b8d5-826ad9a24315": "Załącznik nr D.4.2 do Zasad... Załącznik&#8203;_nr&#8203;_D42.pdf 0.20MB",
+        "https://www.gov.pl/attachment/cb7c4b81-b726-40a2-9c28-733acaf0e298": "Załącznik nr D.3.3 do Zasad... Załącznik&#8203;_nr&#8203;_D33.pdf 0.30MB",
+        "https://www.gov.pl/attachment/cc6b8fc5-6e63-432a-8e3d-7420fb915cfd": "Załącznik nr B.2.8 do Zasad... Załącznik&#8203;_nr&#8203;_B28.pdf 0.19MB",
+        "https://www.gov.pl/attachment/d02b5c9f-40e1-4473-a08e-a3ecc0cb7ca8": "Załącznik nr 7 do Zasad...&#8203;_Plan rozwoju&#8203;_podstawowy Załącznik&#8203;_nr&#8203;_7&#8203;_plan&#8203;_rozwoju&#8203;_podstawowy.xlsx 0.02MB",
+        "https://www.gov.pl/attachment/d34354b0-0762-41f6-88cb-56038e201c52": "Załącznik nr 8 do Zasad... - plan rozwoju sieci jednostek Załącznik&#8203;_nr&#8203;_8&#8203;_plan&#8203;_rozwoju&#8203;_specjalistyczny.pdf 0.17MB",
+        "https://www.gov.pl/attachment/d36020c9-7902-4ff4-8d52-3aaa6275d62d": "Załącznik nr D.7 do Zasad... Załącznik&#8203;_nr&#8203;_D7.pdf 0.25MB",
+        "https://www.gov.pl/attachment/d490fcf4-3764-407f-b183-b715bf95099e": "Załącznik nr D.4.1 do Zasad... Załącznik&#8203;_nr&#8203;_D41.pdf 0.27MB",
+        "https://www.gov.pl/attachment/d52252fa-9537-462c-8198-0a0756fed50c": "Załącznik nr B.2.4 do Zasad... Załącznik&#8203;_nr&#8203;_B24.pdf 0.34MB",
+        "https://www.gov.pl/attachment/d56552c2-b754-4630-a566-759d0884faca": "Standardowe zasady postępowania podczas zdarzeń z udziałem butli z acetylenem Procedura&#8203;_acetylen.pdf 3.37MB",
+        "https://www.gov.pl/attachment/d7f306a7-c271-4416-ad91-c47ae258b3ef": "Załącznik nr B.2.5 do Zasad... Załącznik&#8203;_nr&#8203;_B25.pdf 0.21MB",
+        "https://www.gov.pl/attachment/e26a2641-f412-4143-826b-1909414ca8a0": "Załącznik nr D.5.1 do Zasad... Załącznik&#8203;_nr&#8203;_D51.pdf 0.58MB",
+        "https://www.gov.pl/attachment/e6380064-5a93-4ce7-b7db-72f6577f51b3": "Załącznik nr D.3.2 do Zasad... Załącznik&#8203;_nr&#8203;_D32.pdf 0.26MB",
+        "https://www.gov.pl/attachment/ebf86838-aaec-43f9-9247-e45d7f0e5a64": "Załącznik nr R4 do Zasad... Załącznik&#8203;_nr&#8203;_R4.pdf 0.10MB",
+        "https://www.gov.pl/attachment/ef2d447b-bf60-4f30-b5ee-c9e95e15d0c4": "Załącznik nr D.4.3 do Zasad... Załącznik&#8203;_nr&#8203;_D43.pdf 0.18MB",
+        "https://www.gov.pl/attachment/f6fac4ff-4d30-45a2-9cbe-ad5896dd0daa": "Załącznik nr D.2 do Zasad... Załącznik&#8203;_nr&#8203;_D2.pdf 1.56MB"
+      },
+      "sprawdzono": "2026-10-25",
+      "zmieniono": "2026-10-25"
+    },
+    "kgpsp-rat-med-dokumenty": {
+      "odcisk": "d5bd89d3d8e24f700a87a4c7d4b97806a642406dc7c7cb84c17d65508aa4c812",
+      "linki": {
+        "https://www.gov.pl/attachment/06269d35-0bfd-4f49-899e-c04e8f93d4f8": "Załącznik 8 Załącznik&#8203;_8.pdf 0.51MB",
+        "https://www.gov.pl/attachment/0c905c57-9b86-4c70-bcce-7ca172f2e99a": "Załącznik 10 Załącznik&#8203;_10.pdf 0.53MB",
+        "https://www.gov.pl/attachment/5c676a2d-bf0f-4fce-88cb-0006342146af": "Załącznik 7 Załącznik&#8203;_7.pdf 0.71MB",
+        "https://www.gov.pl/attachment/74bbae5f-67fd-4518-aa12-c76a52850971": "Załącznik 9 Załącznik&#8203;_9.pdf 0.54MB",
+        "https://www.gov.pl/attachment/7eab7cb1-e1c5-49a9-84d9-6eb13eb56052": "Zasady organizacji ratownictwa medycznego w krajowym systemie ratowniczo-gaśniczym Zasad&#8203;_orgratmedw&#8203;_KSRG&#8203;_062021.pdf 1.20MB",
+        "https://www.gov.pl/attachment/8c81ac4f-1723-4d5a-b9fa-7a4e1dbe2847": "Załącznik 1 Załącznik&#8203;_1.pdf 0.95MB",
+        "https://www.gov.pl/attachment/a4d3d91a-f845-4f79-a18a-30c9884e613c": "Załącznik 6 Załącznik&#8203;_6.pdf 0.63MB",
+        "https://www.gov.pl/attachment/c0555d7b-7797-422e-9c6f-903e4e8aacae": "Załącznik 4 Załącznik&#8203;_4.pdf 0.58MB",
+        "https://www.gov.pl/attachment/c2791f16-bae4-42fd-b6ef-a21fc308e7b3": "Załącznik 9 - schemat Załącznik&#8203;_9&#8203;_schemat.pdf 0.17MB",
+        "https://www.gov.pl/attachment/d2c37318-6d6a-46f4-a5fe-a98128bdb1dd": "Załącznik 11 Załącznik&#8203;_11.pdf 0.53MB",
+        "https://www.gov.pl/attachment/ee0300b9-4adc-444b-b924-375572ed303e": "Załącznik 2 Załącznik&#8203;_2.pdf 0.88MB",
+        "https://www.gov.pl/attachment/f87b9218-eba9-428a-9dad-2aea7552bbaa": "Załącznik 5 Załącznik&#8203;_5.pdf 0.68MB",
+        "https://www.gov.pl/attachment/fe579338-fdee-4579-8844-905b94a5b75f": "Załącznik 3 Załącznik&#8203;_3.pdf 0.75MB"
+      },
+      "sprawdzono": "2026-10-25",
+      "zmieniono": "2026-10-25"
+    },
+    "kgpsp-zasady-ksrg": {
+      "odcisk": "238746d2d09493ac285b234666db06a08a23b242b41ff62a3f02926713e1dc14",
+      "linki": {
+        "https://www.gov.pl/attachment/1e16d089-2c90-4b3a-8c74-2d9cec22eb68": "(2026) Zasady organizacji ratownictwa technicznego (2026)&#8203;_Zasady&#8203;_organizacji&#8203;_ratownictwa&#8203;_technicznego[1].zip 1.03MB",
+        "https://www.gov.pl/attachment/3945da87-8999-4e14-9709-e6526196df48": "(2026) Zasady organizacji ratownictwa medycznego (2026)&#8203;_Zasady&#8203;_organizacji&#8203;_ratownictwa&#8203;_medycznego.zip 4.02MB",
+        "https://www.gov.pl/attachment/8a239c6a-098f-444d-8e10-e5c843edc988": "(2020) Zasady organizacji ratownictwa wodnego (2020)&#8203;_Zasady&#8203;_organizacji&#8203;_ratownictwa&#8203;_wodnego&#8203;_w&#8203;_ksrg.zip 28.75MB",
+        "https://www.gov.pl/attachment/c1cd579f-5c29-4b10-a92d-48969397f11e": "(2024) Zasady organizacji ratownictwa wysokościowego Zasady&#8203;_organizacji&#8203;_ratownictwa&#8203;_wysokościowego&#8203;_w&#8203;_KSRG&#8203;_-&#8203;_12042024.pdf 1.19MB",
+        "https://www.gov.pl/attachment/c7db092c-639f-47af-83a6-d89a36fdf586": "(2023) Zasady organizacji działań poszukiwawczo-ratowniczych 2023-zasady-grup-poszukiwawczo-ratowniczych.pdf 22.60MB",
+        "https://www.gov.pl/attachment/e5065248-931e-475b-86a0-db88311149d2": "(2025) Zasady organizacji ratownictwa chemiczno-ekologicznego (2025)&#8203;_Zasady&#8203;_organizacji&#8203;_ratownictwa&#8203;_chemiczno-ekologicznego.zip 12.79MB"
+      },
+      "sprawdzono": "2026-10-25",
+      "zmieniono": "2026-10-25"
+    },
+    "kgpsp-ksrg": {
+      "odcisk": "3d715e619dd1037a3ce60c5e6f30e2b98ff929d19f97a3e01a076a360b59f8b2",
+      "linki": {
+        "https://dziennikustaw.gov.pl/D2026000087201.pdf": "Dz.U. 2026 poz. 872",
+        "https://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU20260000847/O/D20260847.pdf": "Dz.U. 2014 poz. 847"
+      },
+      "sprawdzono": "2026-10-25",
+      "zmieniono": "2026-10-25"
+    },
+    "kgpsp-dokumentacja-operacyjna": {
+      "odcisk": "6c94fe14c77ed53f3bfa5ff53015fabe1f10c4dd99aeecc180923dd6045fe1e7",
+      "linki": {
+        "https://www.gov.pl/attachment/00c1b338-d8d6-494c-86ca-a7dab20dc70f": "Załącznik do Ramowych wytycznych - 6. karta operacji wojewódzkiej Załącznik&#8203;_do&#8203;_Ramowych&#8203;_wytycznych&#8203;_-&#8203;_6&#8203;_karta&#8203;_operacji&#8203;_wojewódzkiej.xlsx 0.02MB",
+        "https://www.gov.pl/attachment/07b5c2d1-7ce8-4eba-8c5c-318c341e0b4b": "Zasady tworzenia przez podmioty ksrg wspólnych zespołów ratowniczych Zasady&#8203;_tworzenia&#8203;_przez&#8203;_podmioty&#8203;_ksrg&#8203;_wspólnych&#8203;_zespołów&#8203;_ratowniczych.pdf 0.95MB",
+        "https://www.gov.pl/attachment/0b132e0f-2642-47d8-b3a6-d72e7548a2f4": "Zasady postępowania służb dyżurnych SK KW PSP oraz KP (M) PSP w przypadku otrzymania ostrzeżeń meteorologicznych lub hydrologicznych Zasady&#8203;_postępowania&#8203;_SK&#8203;_PSP&#8203;_ostrzeżenia&#8203;_meteo&#8203;_hydro&#8203;_2024.pdf 0.22MB",
+        "https://www.gov.pl/attachment/238921e3-f340-4ee5-b677-6a94a021e448": "Załącznik do Ramowych wytycznych - 2. charakterystyki terenu Załącznik&#8203;_do&#8203;_Ramowych&#8203;_wytycznych&#8203;_-&#8203;_2&#8203;_charakterystyki&#8203;_terenu&#8203;_BZ.DOC 0.08MB",
+        "https://www.gov.pl/attachment/24b04ba0-b793-47c7-bbf5-68704668c98d": "Miejscowe zagrożenia - Tabela nr 2 do Ramowych wytycznych (dysponowanie) Miejscowe&#8203;_zagrożenia&#8203;_-&#8203;_Tabela&#8203;_nr&#8203;_2&#8203;_do&#8203;_Ramowych&#8203;_wytycznych.pdf 0.26MB",
+        "https://www.gov.pl/attachment/282897d5-b3ca-47de-99f1-7203b1af1a3a": "Załącznik do Ramowych wytycznych - 4. karta podoperacji Załącznik&#8203;_do&#8203;_Ramowych&#8203;_wytycznych&#8203;_-&#8203;_4&#8203;_karta&#8203;_podoperacji.xlsx 0.02MB",
+        "https://www.gov.pl/attachment/2f2b0693-f65c-44e3-be86-2ce8eb554ade": "Zasady ewidencjonowania zdarzeń w SWD PSP od 1.01.2024 r. Zasady&#8203;_ewidencjonowania&#8203;_zdarzeń&#8203;_w&#8203;_SWD&#8203;_PSP&#8203;_od&#8203;_1012024&#8203;_r.pdf 0.63MB",
+        "https://www.gov.pl/attachment/34e03b76-dd35-47e1-a905-cda114d39eb4": "Zasady postępowania jednostek w związku ze zdarzeniami na drogach Zasadypostepowania&#8203;_jednostek&#8203;_w&#8203;_związku&#8203;_ze&#8203;_zdarzeniami&#8203;_na&#8203;_drogach.pdf 4.80MB",
+        "https://www.gov.pl/attachment/3faa8212-b424-4811-981d-995577dbdeef": "Załącznik do Ramowych wytycznych - 7. harmonogram imprez w poszczególnych dniach Załącznik&#8203;_do&#8203;_Ramowych&#8203;_wytycznych&#8203;_-&#8203;_7&#8203;_harmonogram&#8203;_imprez&#8203;_w&#8203;_poszczególnych&#8203;_dniach&#8203;_BZ.xls 0.06MB",
+        "https://www.gov.pl/attachment/43647265-2e73-46b7-b58c-455a9fe7ead3": "Zasady organizacji centralnego odwodu operacyjnego Zasady&#8203;_&#8203;_organizacji&#8203;_coo&#8203;_ksrg&#8203;_2022.pdf 15.79MB",
+        "https://www.gov.pl/attachment/49f9d158-40d7-4472-9704-a752320c798d": "Załącznik do Ramowych wytycznych - 5. karta operacji powiatowej Załącznik&#8203;_do&#8203;_Ramowych&#8203;_wytycznych&#8203;_-&#8203;_5&#8203;_karta&#8203;_operacji&#8203;_powiatowej.xlsx 0.02MB",
+        "https://www.gov.pl/attachment/5f2a1e87-1ad5-4c0b-bbc1-c676bd32ba6d": "Załącznik do Ramowych wytycznych - 9. bilans sił operacji powiatowej Załącznik&#8203;_do&#8203;_Ramowych&#8203;_wytycznych&#8203;_-&#8203;_9&#8203;_bilans&#8203;_sił&#8203;_operacji&#8203;_powiatowej.xlsx 0.02MB",
+        "https://www.gov.pl/attachment/6271c49d-5c46-4a10-891c-a81eeacac88b": "Zasady organizowania działań ratowniczych Zasady&#8203;_organizowania&#8203;_działań&#8203;_ratowniczych.pdf 4.37MB",
+        "https://www.gov.pl/attachment/6db6489a-3ae0-4e0c-904e-a17204b92568": "Metodyka budowy planu sieci jednostek OSP przewidzianych do włączenia do ksrg Metodyka&#8203;_OSP&#8203;_do&#8203;_ksrg&#8203;_2025.pdf 0.48MB",
+        "https://www.gov.pl/attachment/a53ff81a-7f3f-4d4e-a831-b1b0f1ebb579": "Ramowe wytyczne Komendanta Głównego PSP do opracowywania zasad dysponowania Ramowe&#8203;_wytyczne&#8203;_Komendanta&#8203;_Głównego&#8203;_PSP&#8203;_do&#8203;_opracowywania&#8203;_zasad&#8203;_dysponowania.pdf 3.55MB",
+        "https://www.gov.pl/attachment/a8b5824b-177f-48b7-a26e-6a56318c1f54": "Plan podziału zadań Host Nation Support (HNS) Plan&#8203;_podziału&#8203;_zadań&#8203;_Host&#8203;_Nation&#8203;_Support&#8203;_(HNS).pdf 2.18MB",
+        "https://www.gov.pl/attachment/aaf0df13-8f0d-480d-a60a-c7f6c1158150": "Załącznik do Ramowych wytycznych - 8. harmonogram operacji wojewódzkiej Załącznik&#8203;_do&#8203;_Ramowych&#8203;_wytycznych&#8203;_-&#8203;_8&#8203;_harmonogram&#8203;_operacji&#8203;_wojewódzkiej.xlsx 0.01MB",
+        "https://www.gov.pl/attachment/b52d920b-e840-4924-bffc-22014e3dc256": "Zasady analizowania zdarzeń Zasady&#8203;_analizowania&#8203;_zdarzeń.pdf 10.53MB",
+        "https://www.gov.pl/attachment/b7dd968a-121b-473b-92d4-3c2f11cc4929": "Zasady organizacji sztabu na potrzeby prowadzenia działań ratowniczych Zasady&#8203;_Sztab&#8203;_2025.pdf 0.43MB",
+        "https://www.gov.pl/attachment/ba44b574-a965-427c-ba4c-c84507a054bd": "Załącznik do Ramowych wytycznych - 1. karty charakterystyki obiektu Załącznik&#8203;_do&#8203;_Ramowych&#8203;_wytycznych&#8203;_-&#8203;_1&#8203;_karty&#8203;_charakterystyki&#8203;_obiektu.doc 0.13MB",
+        "https://www.gov.pl/attachment/c822ec11-c7af-4530-b819-5405b696886c": "Załącznik do Ramowych wytycznych - 3. analiza zagrożeń i ocena ryzyka Załącznik&#8203;_do&#8203;_Ramowych&#8203;_wytycznych&#8203;_-&#8203;_3&#8203;_analiza&#8203;_zagrożeń&#8203;_i&#8203;_ocena&#8203;_ryzyka&#8203;_BZ.XLS 0.40MB",
+        "https://www.gov.pl/attachment/cd8a5716-f992-4006-a0e9-70726f734d43": "Ramowe wytyczne do zabezpieczania ważnych imprez, uroczystości lub wydarzeń... Ramowe&#8203;_wytyczne&#8203;_do&#8203;_zabezpieczania&#8203;_ważnych&#8203;_imprez,&#8203;_uroczystości&#8203;_lub&#8203;_wydarzeń.pdf 0.23MB",
+        "https://www.gov.pl/attachment/e6f127ea-0e5d-42b8-832e-54f799803cc9": "Pożary - Tabela nr 1 do Ramowych wytycznych (dysponowanie) Pożary&#8203;_-&#8203;_Tabela&#8203;_nr&#8203;_1&#8203;_do&#8203;_Ramowych&#8203;_wytycznych.pdf 0.27MB",
+        "https://www.gov.pl/attachment/efd7f4da-bdb5-491a-888c-cb7c16a41c0e": "Załącznik do Ramowych wytycznych - 10. bilans sił operacji wojewódzkiej Załącznik&#8203;_do&#8203;_Ramowych&#8203;_wytycznych&#8203;_-&#8203;_10&#8203;_bilans&#8203;_sił&#8203;_operacji&#8203;_wojewódzkiej.xlsx 0.02MB"
+      },
+      "sprawdzono": "2026-10-25",
+      "zmieniono": "2026-10-25"
+    },
+    "olioc-akademia": {
+      "odcisk": "b3fd275af055355887378075f15a322edbc996aa20670a11ff6d53c6b6ac770e",
+      "linki": {
+        "https://www.gov.pl/attachment/112b807a-416d-437d-b391-66dbd5e4a844": "Alert RCB Alert&#8203;_RCB&#8203;_pdf.pdf 0.21MB",
+        "https://www.gov.pl/attachment/3298caa6-3ee9-4886-aedc-40f2d0ece0cd": "Plakat Akademia OLiOC PNG PLAKAT&#8203;_Akademia&#8203;_OLiOC.png 1.33MB",
+        "https://www.gov.pl/attachment/3d511e47-5450-41d2-9eb9-f5da693be4cd": "Spacer Bezpieczeństwa PNG Spacer&#8203;_Bezpieczeństa&#8203;_-&#8203;_PNG.png 0.62MB",
+        "https://www.gov.pl/attachment/4f17f612-c509-4ab3-8b33-4ba302e52334": "Pakiet uczniowski PNG pakiet&#8203;_uczniowski.png 0.36MB",
+        "https://www.gov.pl/attachment/525423fd-0e11-4756-8263-20806e7c6a34": "Pakiet uczniowski PDF pakiet&#8203;_uczniowski.pdf 4.83MB",
+        "https://www.gov.pl/attachment/819526f0-4cc4-49bc-be14-37799d75fdae": "Karta Planu Rodzinnego PDF karta&#8203;_planu&#8203;_rodzinnego.pdf 3.45MB",
+        "https://www.gov.pl/attachment/9bb63c3d-bc74-4fa0-b90b-2aeff45a2b6f": "Sygnał alarmowy PDF Sygnał&#8203;_alarmowy&#8203;_pdf.pdf 0.78MB",
+        "https://www.gov.pl/attachment/af89439f-5002-4912-a066-92f08765694b": "Karta planu rodzinnego PNG karta&#8203;_planu&#8203;_rodzinnego.png 0.20MB",
+        "https://www.gov.pl/attachment/cc2d0058-e5f9-4ed6-b583-a08ea4bac5af": "Instrukcja Reagowania - PDF instrukcja&#8203;_reagowania&#8203;_pdf.pdf 1.95MB",
+        "https://www.gov.pl/attachment/d9df0fc6-a370-4a2e-b48a-0d61f5c5b312": "Sygnał alarmowy PNG Sygnał&#8203;_alarmowy&#8203;_png.png 0.59MB"
+      },
+      "sprawdzono": "2026-10-25",
+      "zmieniono": "2026-10-25"
+    }
+  },
+  "pliki": {
+    "doc-lng-2025": {
+      "odcisk": "ebfd9150ce181ae4f3d404924e7eef479b471b962f6589ef6afbeef43b1247f4",
+      "rozmiar": 1019559,
+      "sprawdzono": "2026-10-25",
+      "zmieniono": "2026-10-25"
+    },
+    "doc-acetylen-szp-2020": {
+      "odcisk": "aad779d8f78a9799423a8963ca14983af30c1533cdc22c49b1b0fb3e3b8e5fb3",
+      "rozmiar": 3538716,
+      "sprawdzono": "2026-10-25",
+      "zmieniono": "2026-10-25"
+    },
+    "doc-ev-szp-2023": {
+      "odcisk": "d63cc02b717c0349a3a36835f0503bf21b13a07694bba81e2e4e9c73a0eb7d00",
+      "rozmiar": 2364035,
+      "sprawdzono": "2026-10-25",
+      "zmieniono": "2026-10-25"
+    },
+    "doc-b1-choroby-zakazne": {
+      "odcisk": "29c01e4d782fa13215f43096e17fef3b6f27d3218665938facd06551949cbd4a",
+      "rozmiar": 197739,
+      "sprawdzono": "2026-10-25",
+      "zmieniono": "2026-10-25"
+    },
+    "doc-b2-przesylka": {
+      "odcisk": "7c3078ac7af24a7693c20bbb4ecd7b9eb715e8de5652e58e3b7468ac78431512",
+      "rozmiar": 250260,
+      "sprawdzono": "2026-10-25",
+      "zmieniono": "2026-10-25"
+    },
+    "doc-b21-przesylka": {
+      "odcisk": "b9958f760e8733d84f896cc5afd31dcb15bee50ce188c046785c1327ba135b2a",
+      "rozmiar": 207815,
+      "sprawdzono": "2026-10-25",
+      "zmieniono": "2026-10-25"
+    },
+    "doc-b22-przesylka": {
+      "odcisk": "e4da22628b09845df755a28ad80ee8682e03948add5506268bae049b93c470b3",
+      "rozmiar": 198721,
+      "sprawdzono": "2026-10-25",
+      "zmieniono": "2026-10-25"
+    },
+    "doc-r1-radiologia": {
+      "odcisk": "b4545a4e3ab8bfa23848d65eafa5c9b3693c8fb3f6e8c29691f066f487a3da7d",
+      "rozmiar": 297365,
+      "sprawdzono": "2026-10-25",
+      "zmieniono": "2026-10-25"
+    },
+    "doc-r2-radiologia": {
+      "odcisk": "9106561089fab8f5ceb2044e930cd0bebf8047f07102833a7e37ae97d618ce94",
+      "rozmiar": 146556,
+      "sprawdzono": "2026-10-25",
+      "zmieniono": "2026-10-25"
+    },
+    "doc-rt-zasady-2026": {
+      "odcisk": "83f9a24c95f2fd9b8e805f648eb593ab695180f72e182d9e26764a7afbdcece0",
+      "rozmiar": 337698,
+      "sprawdzono": "2026-10-25",
+      "zmieniono": "2026-10-25"
+    }
+  }
+}
