@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-25T18:13:00.907Z",
+  "generated_at": "2026-10-25T18:19:13.699Z",
   "registry_version": "2.7",
-  "document_count": 75,
-  "active_document_count": 75,
-  "linked_document_count": 75,
+  "document_count": 78,
+  "active_document_count": 78,
+  "linked_document_count": 78,
   "unlinked_documents": [],
   "documents": [
     {
@@ -313,40 +313,6 @@
           "procedure_id": "KARTA-PV-ROZPOZNANIE-I-ZABEZPIECZENIE",
           "strona": 8,
           "sekcja": "Odpowiednia część SZP instalacji PV"
-        }
-      ]
-    },
-    {
-      "id": "doc-zlota-alga-w3-2023",
-      "tytul": "Procedura monitorowania interwencyjnego Prymnesium parvum - złotej algi",
-      "status_techniczny": "aktywny",
-      "liczba_stron": 11,
-      "liczba_powiazan": 5,
-      "powiazania": [
-        {
-          "procedure_id": "KARTA-ZA-CEL-ZAKRES-MONITOROWANIA",
-          "strona": 4,
-          "sekcja": "Odpowiedni rozdział procedury monitorowania"
-        },
-        {
-          "procedure_id": "KARTA-ZA-CZYNNIKI-RYZYKA",
-          "strona": 5,
-          "sekcja": "Odpowiedni rozdział procedury monitorowania"
-        },
-        {
-          "procedure_id": "KARTA-ZA-POSTEPOWANIE",
-          "strona": 8,
-          "sekcja": "Odpowiedni rozdział procedury monitorowania"
-        },
-        {
-          "procedure_id": "KARTA-ZA-POZIOMY-ALARMOWE",
-          "strona": 7,
-          "sekcja": "Odpowiedni rozdział procedury monitorowania"
-        },
-        {
-          "procedure_id": "KARTA-ZA-WSKAZNIKI-BADANE",
-          "strona": 7,
-          "sekcja": "Odpowiedni rozdział procedury monitorowania"
         }
       ]
     },
@@ -1533,6 +1499,87 @@
           "procedure_id": "WYP-MAS-01",
           "strona": 4,
           "sekcja": "RM zał. 7 — Współpraca z PRM: KMDR, KAM, transport (s. 2–8)"
+        }
+      ]
+    },
+    {
+      "id": "doc-zlota-alga-w4-2025",
+      "tytul": "Procedura monitorowania interwencyjnego Prymnesium parvum - złotej algi",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 12,
+      "liczba_powiazan": 5,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-ZA-CEL-ZAKRES-MONITOROWANIA",
+          "strona": 4,
+          "sekcja": "Proc. pkt 1–5 (s. 4–6)"
+        },
+        {
+          "procedure_id": "KARTA-ZA-CZYNNIKI-RYZYKA",
+          "strona": 6,
+          "sekcja": "Proc. pkt 5.1–5.5 (s. 6–8)"
+        },
+        {
+          "procedure_id": "KARTA-ZA-POSTEPOWANIE",
+          "strona": 9,
+          "sekcja": "Proc. pkt 8 (s. 9–11)"
+        },
+        {
+          "procedure_id": "KARTA-ZA-POZIOMY-ALARMOWE",
+          "strona": 9,
+          "sekcja": "Proc. pkt 7 (s. 8–9)"
+        },
+        {
+          "procedure_id": "KARTA-ZA-WSKAZNIKI-BADANE",
+          "strona": 8,
+          "sekcja": "Proc. pkt 5.3.2, 6"
+        }
+      ]
+    },
+    {
+      "id": "doc-zlota-alga-w4-zal1",
+      "tytul": "Złota alga — zał. 1: wskaźniki fizyko-chemiczne i biologiczne badane w monitoringu interwencyjnym",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 1,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-ZA-WSKAZNIKI-BADANE",
+          "strona": 1,
+          "sekcja": "Zał. 1 — wskaźniki badane"
+        }
+      ]
+    },
+    {
+      "id": "doc-zlota-alga-w4-zal2",
+      "tytul": "Złota alga — zał. 2: wskaźniki objęte oceną i poziomy alarmowe",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 3,
+      "liczba_powiazan": 2,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-ZA-POZIOMY-ALARMOWE",
+          "strona": 2,
+          "sekcja": "Zał. 2 — poziomy alarmowe (s. 2–3)"
+        },
+        {
+          "procedure_id": "KARTA-ZA-WSKAZNIKI-BADANE",
+          "strona": 1,
+          "sekcja": "Zał. 2 — wskaźniki objęte oceną"
+        }
+      ]
+    },
+    {
+      "id": "doc-zlota-alga-w4-zal3",
+      "tytul": "Złota alga — zał. 3: częstotliwość pomiarów i badań",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 2,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-ZA-POSTEPOWANIE",
+          "strona": 1,
+          "sekcja": "Zał. 3 — częstotliwość"
         }
       ]
     }

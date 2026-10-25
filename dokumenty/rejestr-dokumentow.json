@@ -182,18 +182,6 @@
       "liczba_stron": 17,
       "sha256": "37ceeae85e1d0b8e476ce9525e7a16b853075cdfb746c04c7c2a0f11f2c0b0e0"
     },
-    "doc-zlota-alga-w3-2023": {
-      "tytul": "Procedura monitorowania interwencyjnego Prymnesium parvum - złotej algi",
-      "wersja": "Wydanie 3",
-      "data_wydania": "2023-11-07",
-      "rodzaj": "Procedura GIOŚ",
-      "plik": "dokumenty/srodowisko/procedura-zlota-alga-wydanie-3-2023.pdf",
-      "id": "doc-zlota-alga-w3-2023",
-      "status_techniczny": "aktywny",
-      "aktualnosc_merytoryczna": "wedlug_przekazanego_pliku",
-      "liczba_stron": 11,
-      "sha256": "7ba02b8e955fef15c439dd8d5796eacad4729e866edcaf315e29a24c4edfaf9b"
-    },
     "doc-sds-hcn-ekos-2006": {
       "tytul": "Karta charakterystyki niebezpiecznej substancji - Cyjanowodór",
       "wersja": "Wydanie z 21.08.2006 - wymaga weryfikacji aktualności",
@@ -959,6 +947,58 @@
       "liczba_stron": 11,
       "sha256": "d2165654d9b81bff54fa29ed4ab5604c057ffd17d03a3b5bd95ad61183aca5a3",
       "uwagi": "Pobrano ze strony KG PSP Ratownictwo medyczne — zasady, https://www.gov.pl/attachment/5c676a2d-bf0f-4fce-88cb-0006342146af."
+    },
+    "doc-zlota-alga-w4-2025": {
+      "id": "doc-zlota-alga-w4-2025",
+      "tytul": "Procedura monitorowania interwencyjnego Prymnesium parvum - złotej algi",
+      "wersja": "Wydanie 4 (zastępuje wydanie 3 z 07.11.2023)",
+      "data_wydania": "2025-03-04",
+      "rodzaj": "Procedura GIOŚ",
+      "plik": "dokumenty/srodowisko/procedura-zlota-alga-wydanie-4-2025-03-04.pdf",
+      "status_techniczny": "aktywny",
+      "aktualnosc_merytoryczna": "zweryfikowano_2026-10-25",
+      "liczba_stron": 12,
+      "sha256": "356dc8e89bd11a53f3c78e40eff650ce35846b65d4914e537fb8ae3faf4bbaad",
+      "uwagi": "Pobrano ze strony gov.pl/web/odra/opis-procedury, https://www.gov.pl/attachment/fea1d7d2-1537-4fc4-bd3b-05210bd6b22c."
+    },
+    "doc-zlota-alga-w4-zal1": {
+      "id": "doc-zlota-alga-w4-zal1",
+      "tytul": "Złota alga — zał. 1: wskaźniki fizyko-chemiczne i biologiczne badane w monitoringu interwencyjnym",
+      "wersja": "Załącznik nr 1 do wyd. 4",
+      "data_wydania": "2025-03-04",
+      "rodzaj": "Procedura GIOŚ",
+      "plik": "dokumenty/srodowisko/zlota-alga-w4-zal1-wskazniki-badane.pdf",
+      "status_techniczny": "aktywny",
+      "aktualnosc_merytoryczna": "zweryfikowano_2026-10-25",
+      "liczba_stron": 1,
+      "sha256": "4b9538d2de7ef7fc95bc3f5a2414374e3fa9da62b4bcc4254cd49f282f2c5ce6",
+      "uwagi": "Pobrano ze strony gov.pl/web/odra/opis-procedury, https://www.gov.pl/attachment/9cab29cb-f2d4-4ac3-aa7a-bc29497fb63a."
+    },
+    "doc-zlota-alga-w4-zal2": {
+      "id": "doc-zlota-alga-w4-zal2",
+      "tytul": "Złota alga — zał. 2: wskaźniki objęte oceną i poziomy alarmowe",
+      "wersja": "Załącznik nr 2 do wyd. 4",
+      "data_wydania": "2025-03-04",
+      "rodzaj": "Procedura GIOŚ",
+      "plik": "dokumenty/srodowisko/zlota-alga-w4-zal2-poziomy-alarmowe.pdf",
+      "status_techniczny": "aktywny",
+      "aktualnosc_merytoryczna": "zweryfikowano_2026-10-25",
+      "liczba_stron": 3,
+      "sha256": "42a474878ffff1fd8eb3a27c96bcacf4a24c359d2e16e64d3f33bb9f79219eb7",
+      "uwagi": "Pobrano ze strony gov.pl/web/odra/opis-procedury, https://www.gov.pl/attachment/6ad01eb6-aa96-4626-a7a8-d7f0398aed75."
+    },
+    "doc-zlota-alga-w4-zal3": {
+      "id": "doc-zlota-alga-w4-zal3",
+      "tytul": "Złota alga — zał. 3: częstotliwość pomiarów i badań",
+      "wersja": "Załącznik nr 3 do wyd. 4",
+      "data_wydania": "2025-03-04",
+      "rodzaj": "Procedura GIOŚ",
+      "plik": "dokumenty/srodowisko/zlota-alga-w4-zal3-czestotliwosc.pdf",
+      "status_techniczny": "aktywny",
+      "aktualnosc_merytoryczna": "zweryfikowano_2026-10-25",
+      "liczba_stron": 2,
+      "sha256": "865452a6174e1ac33ad924db2617cf2496ca80c763f0b0ae7400a5a4c084ff27",
+      "uwagi": "Pobrano ze strony gov.pl/web/odra/opis-procedury, https://www.gov.pl/attachment/59926cee-7225-4d9f-918e-3787444fc08e."
     }
   }
 }
