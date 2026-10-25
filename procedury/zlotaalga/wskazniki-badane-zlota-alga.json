@@ -1,8 +1,9 @@
 {
   "id": "KARTA-ZA-WSKAZNIKI-BADANE",
+  "wzorzec": 2,
   "kategoria": "dzialania",
-  "zrodlo": "Procedura monitorowania interwencyjnego pod katem wystepowania zlotej algi, GIOS",
-  "data_aktualizacji": "2023-05-08",
+  "zrodlo": "GIOŚ: Procedura monitorowania interwencyjnego Prymnesium parvum „złotej algi”, wydanie 4 z 04.03.2025 r. (z załącznikami 1–3)",
+  "data_aktualizacji": "2026-10-25",
   "slowo_kluczowe": "wskazniki badane zlota alga",
   "keywords": [
     "zlota alga wskazniki",
@@ -11,13 +12,6 @@
     "prymnesium parvum wskazniki",
     "wskazniki fizykochemiczne zlota alga"
   ],
-  "prefix": "Zlota alga - wskazniki fizykochemiczne i biologiczne badane w wodzie i w terenie.",
-  "content": "1. KOD / NAZWA: wskazniki badane w monitoringu interwencyjnym pod katem zlotej algi.\n2. POMIARY TERENOWE: temperatura, przewodnosc elektrolityczna wlasciwa w 20 C, odczyn pH, tlen rozpuszczony oraz nasycenie tlenem.\n3. BADANIA FIZYKO-CHEMICZNE: chlorki, siarczany, sod, azot ogolny, azot Kjeldahla oraz fosfor ogolny.\n4. BADANIA BIOLOGICZNE: fitoplankton pod katem ilosci Prymnesium cf. parvum.\n5. CZULOSC BADANIA BIOLOGICZNEGO: dla punktu badanego w ramach monitoringu i monitoringu interwencyjnego czulosc badania biologicznego powinna wynosic powyzej 10 mln os./l przy przynajmniej 3-minutowym czasie zliczania probki.\n6. UWAGI OPERACYJNE: w procedurze poziomy zagrozenia wyznacza sie lacznie na podstawie pomiarow terenowych, badan fizyko-chemicznych i oznaczen biologicznych.",
-  "tagi_wspolne": [
-    "zlota alga",
-    "prymnesium parvum",
-    "wskazniki"
-  ],
   "aliasy": [
     "zlota alga wskazniki",
     "zlota alga pomiary terenowe",
@@ -25,11 +19,75 @@
     "prymnesium parvum wskazniki",
     "wskazniki fizykochemiczne zlota alga"
   ],
+  "prefix": "Złota alga — wskaźniki badane w monitoringu interwencyjnym (wyd. 4, 2025, zał. 1).",
+  "parametry": [
+    {
+      "nazwa": "Pomiary terenowe",
+      "wartosc": "temperatura · przewodność w 20°C · pH · tlen rozpuszczony · nasycenie tlenem",
+      "zr": "Zał. 1",
+      "str": 1
+    },
+    {
+      "nazwa": "Fizyko-chemiczne",
+      "wartosc": "chlorki · azot azotanowy, azotynowy, amonowy, Kjeldahla, ogólny · fosfor ogólny",
+      "zr": "Zał. 1",
+      "str": 1
+    },
+    {
+      "nazwa": "Biologiczne",
+      "wartosc": "fitoplankton — liczebność Prymnesium cf. parvum",
+      "zr": "Zał. 1",
+      "str": 1
+    }
+  ],
+  "sekcje": [
+    {
+      "etykieta": "Ocena ryzyka",
+      "punkty": [
+        {
+          "t": "Do oceny ryzyka służą tylko: przewodność, pH, tlen, fosfor ogólny, stosunek N:P i liczebność algi.",
+          "zr": "Zał. 2",
+          "str": 1
+        },
+        {
+          "t": "Temperatura, chlorki i formy azotu są badane, by sprawdzić ich związek z toksycznością — nie wpływają na stopień.",
+          "zr": "Zał. 2",
+          "str": 3
+        },
+        {
+          "t": "Siarczanów nie bada się — w polskich wodach nie zaobserwowano ich wpływu na rozwój algi.",
+          "zr": "Proc.",
+          "str": 8
+        },
+        {
+          "t": "Zakres badań (zał. 1) może zmienić GIOŚ w uzgodnieniu z MKiŚ.",
+          "zr": "Proc.",
+          "str": 8
+        }
+      ]
+    }
+  ],
+  "tagi_wspolne": [
+    "zlota alga",
+    "prymnesium parvum",
+    "wskazniki"
+  ],
   "dokumenty_zrodlowe": [
     {
-      "dokument_id": "doc-zlota-alga-w3-2023",
-      "strona": 7,
-      "sekcja": "Odpowiedni rozdział procedury monitorowania"
+      "dokument_id": "doc-zlota-alga-w4-zal1",
+      "strona": 1,
+      "sekcja": "Zał. 1 — wskaźniki badane"
+    },
+    {
+      "dokument_id": "doc-zlota-alga-w4-zal2",
+      "strona": 1,
+      "sekcja": "Zał. 2 — wskaźniki objęte oceną"
+    },
+    {
+      "dokument_id": "doc-zlota-alga-w4-2025",
+      "strona": 8,
+      "sekcja": "Proc. pkt 5.3.2, 6"
     }
-  ]
+  ],
+  "data_przegladu": "2026-10-25"
 }

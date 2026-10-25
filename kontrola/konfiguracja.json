@@ -92,6 +92,14 @@
       "dotyczy_kart": [
         "KARTA-OLIOC-"
       ]
+    },
+    {
+      "id": "gios-odra-procedura",
+      "url": "https://www.gov.pl/web/odra/opis-procedury",
+      "opis": "GIOŚ / Odra — Procedura monitorowania interwencyjnego złotej algi (wydania i załączniki)",
+      "dotyczy_kart": [
+        "KARTA-ZA-"
+      ]
     }
   ],
   "pliki_oficjalne": {
@@ -166,6 +174,26 @@
         "dokument_id": "doc-zorm-2021-zal7",
         "url": "https://www.gov.pl/attachment/5c676a2d-bf0f-4fce-88cb-0006342146af",
         "strona": "zasady-organizacji-rat-med"
+      },
+      {
+        "dokument_id": "doc-zlota-alga-w4-2025",
+        "url": "https://www.gov.pl/attachment/fea1d7d2-1537-4fc4-bd3b-05210bd6b22c",
+        "strona": "odra-opis-procedury"
+      },
+      {
+        "dokument_id": "doc-zlota-alga-w4-zal1",
+        "url": "https://www.gov.pl/attachment/9cab29cb-f2d4-4ac3-aa7a-bc29497fb63a",
+        "strona": "odra-opis-procedury"
+      },
+      {
+        "dokument_id": "doc-zlota-alga-w4-zal2",
+        "url": "https://www.gov.pl/attachment/6ad01eb6-aa96-4626-a7a8-d7f0398aed75",
+        "strona": "odra-opis-procedury"
+      },
+      {
+        "dokument_id": "doc-zlota-alga-w4-zal3",
+        "url": "https://www.gov.pl/attachment/59926cee-7225-4d9f-918e-3787444fc08e",
+        "strona": "odra-opis-procedury"
       }
     ]
   }

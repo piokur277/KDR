@@ -5466,9 +5466,10 @@
   },
   {
     "id": "KARTA-ZA-CEL-ZAKRES-MONITOROWANIA",
+    "wzorzec": 2,
     "kategoria": "organizacja",
-    "zrodlo": "Procedura monitorowania interwencyjnego pod katem wystepowania zlotej algi, GIOS",
-    "data_aktualizacji": "2023-05-08",
+    "zrodlo": "GIOŚ: Procedura monitorowania interwencyjnego Prymnesium parvum „złotej algi”, wydanie 4 z 04.03.2025 r. (z załącznikami 1–3)",
+    "data_aktualizacji": "2026-10-25",
     "slowo_kluczowe": "zlota alga monitoring",
     "keywords": [
       "prymnesium parvum monitoring",
@@ -5477,13 +5478,6 @@
       "zakres procedury zlota alga",
       "zasada metody zlota alga"
     ],
-    "prefix": "Procedura monitorowania interwencyjnego pod katem wystepowania zlotej algi - cel, zakres i zasada.",
-    "content": "1. KOD / NAZWA: procedura monitorowania interwencyjnego pod katem wystepowania zlotej algi, czyli Prymnesium parvum.\n2. CEL PROCEDURY: usystematyzowanie i ujednolicenie sposobu monitorowania interwencyjnego, zwanego dalej monitoringiem, pod katem wystapienia zakwitu zlotej algi.\n3. ZAKRES: metoda jest przeznaczona do niniejszej procedury okreslajacej wskazniki fizykochemiczne i biologiczne w wodzie objetych badaniem, czestotliwosc wykonywania badan, wartosci alarmowe wskaznikow fizykochemicznych i biologicznych oraz sposob postepowania z probkami, od odpowiedniego pobierania probek, poprzez raportowanie wynikow badan, sposob i droge informowania odpowiednich sluzb.\n4. ZASADA METODY: polega na wykonywaniu badan terenowych i laboratoryjnych, ktore umozliwiaja wykrycie ewentualnego ryzyka wystapienia zakwitow haptofitow z gatunku Prymnesium parvum, a nastepnie poinformowanie odpowiednich sluzb.\n5. APARATURA I MATERIAY POMOCNICZE: zarowno do badania wskaznikow fizykochemicznych w terenie, jak i w laboratorium oraz metod pomocniczych nalezy stosowac aparature i materialy pomocnicze okreslone w metodach referencyjnych.\n6. ODNIESIENIE METODYCZNE: wykaz metod referencyjnych znajduje sie w rozporzadzeniu Ministra Infrastruktury z dnia 13 lipca 2021 r. w sprawie form i sposobu prowadzenia monitoringu jednolitych czesci wod powierzchniowych i jednolitych czesci wod podziemnych.",
-    "tagi_wspolne": [
-      "zlota alga",
-      "prymnesium parvum",
-      "monitoring"
-    ],
     "aliasy": [
       "prymnesium parvum monitoring",
       "procedura zlota alga",
@@ -5491,19 +5485,107 @@
       "zakres procedury zlota alga",
       "zasada metody zlota alga"
     ],
+    "prefix": "Złota alga — po co i jak GIOŚ prowadzi monitoring interwencyjny (wyd. 4, 2025).",
+    "najpierw": [
+      {
+        "t": "Przy pomiarach terenowych i poborze próbek w punktach monitoringu interwencyjnego stosuj maseczkę ochronną i rękawice.",
+        "zr": "Proc.",
+        "str": 5
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Odpowiada",
+        "wartosc": "GIOŚ: pomiary terenowe, próbki, badania laboratoryjne, analizy i raporty",
+        "zr": "Proc.",
+        "str": 4
+      },
+      {
+        "nazwa": "Ilości zakwitowe",
+        "wartosc": "> 10 mln komórek/l",
+        "zr": "Proc.",
+        "str": 6
+      },
+      {
+        "nazwa": "Toksyczność zakwitu",
+        "wartosc": "> 50–100 mln komórek/l",
+        "zr": "Proc.",
+        "str": 6
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Cel i zakres",
+        "punkty": [
+          {
+            "t": "Cel: wykryć ryzyko zakwitu złotej algi i poinformować właściwe służby.",
+            "zr": "Proc.",
+            "str": 4
+          },
+          {
+            "t": "Procedura określa badane wskaźniki, częstotliwość badań, poziomy alarmowe, postępowanie z próbkami, czasy, odpowiedzialność i drogę informowania służb.",
+            "zr": "Proc.",
+            "str": 4
+          },
+          {
+            "t": "Metody i aparatura — według metod referencyjnych (rozporządzenie MI z 13.07.2021, Dz.U. 2021 poz. 1576) i procedury PB-01/KLRW.",
+            "zr": "Proc.",
+            "str": 4
+          }
+        ]
+      },
+      {
+        "etykieta": "Punkty monitoringu",
+        "punkty": [
+          {
+            "t": "Punkt może leżeć na rzece, starorzeczu, kanale lub zbiorniku; wyznacza go DMŚ GIOŚ, także na rekomendację Zespołu ds. Odry.",
+            "zr": "Proc.",
+            "str": 5
+          },
+          {
+            "t": "Pierwszorzędne — kluczowe ogniska rozwoju algi i Odra poniżej Kanału Gliwickiego/Kłodnicy.",
+            "zr": "Proc.",
+            "str": 5
+          },
+          {
+            "t": "Drugorzędne — wspomagające; trzeciorzędne (kaskadowe) — uruchamiane po przekroczeniu stopnia ostrzegawczego w punktach 1. i 2. rzędu.",
+            "zr": "Proc.",
+            "str": 5
+          },
+          {
+            "t": "Czwartorzędne — zagrożenie lokalne z wdrożonymi zabezpieczeniami (np. siatki); pięciorzędne — obecność algi tylko podejrzewana.",
+            "zr": "Proc.",
+            "str": 5
+          },
+          {
+            "t": "Wykaz lokalizacji to załącznik nr 4 — aktualizowany osobno przez GIOŚ.",
+            "zr": "Proc.",
+            "str": 5
+          }
+        ]
+      }
+    ],
+    "tagi_wspolne": [
+      "zlota alga",
+      "prymnesium parvum",
+      "monitoring"
+    ],
     "dokumenty_zrodlowe": [
       {
-        "dokument_id": "doc-zlota-alga-w3-2023",
+        "dokument_id": "doc-zlota-alga-w4-2025",
         "strona": 4,
-        "sekcja": "Odpowiedni rozdział procedury monitorowania"
+        "sekcja": "Proc. pkt 1–5 (s. 4–6)"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-25",
+    "content": "1. NAJPIERW: Przy pomiarach terenowych i poborze próbek w punktach monitoringu interwencyjnego stosuj maseczkę ochronną i rękawice.\n2. PARAMETRY: Odpowiada — GIOŚ: pomiary terenowe, próbki, badania laboratoryjne, analizy i raporty; Ilości zakwitowe — > 10 mln komórek/l; Toksyczność zakwitu — > 50–100 mln komórek/l\n3. CEL I ZAKRES: Cel: wykryć ryzyko zakwitu złotej algi i poinformować właściwe służby. Procedura określa badane wskaźniki, częstotliwość badań, poziomy alarmowe, postępowanie z próbkami, czasy, odpowiedzialność i drogę informowania służb. Metody i aparatura — według metod referencyjnych (rozporządzenie MI z 13.07.2021, Dz.U. 2021 poz. 1576) i procedury PB-01/KLRW.\n4. PUNKTY MONITORINGU: Punkt może leżeć na rzece, starorzeczu, kanale lub zbiorniku; wyznacza go DMŚ GIOŚ, także na rekomendację Zespołu ds. Odry. Pierwszorzędne — kluczowe ogniska rozwoju algi i Odra poniżej Kanału Gliwickiego/Kłodnicy. Drugorzędne — wspomagające; trzeciorzędne (kaskadowe) — uruchamiane po przekroczeniu stopnia ostrzegawczego w punktach 1. i 2. rzędu. Czwartorzędne — zagrożenie lokalne z wdrożonymi zabezpieczeniami (np. siatki); pięciorzędne — obecność algi tylko podejrzewana. Wykaz lokalizacji to załącznik nr 4 — aktualizowany osobno przez GIOŚ."
   },
   {
     "id": "KARTA-ZA-CZYNNIKI-RYZYKA",
+    "wzorzec": 2,
     "kategoria": "dzialania",
-    "zrodlo": "Procedura monitorowania interwencyjnego pod katem wystepowania zlotej algi, GIOS",
-    "data_aktualizacji": "2023-05-08",
+    "zrodlo": "GIOŚ: Procedura monitorowania interwencyjnego Prymnesium parvum „złotej algi”, wydanie 4 z 04.03.2025 r. (z załącznikami 1–3)",
+    "data_aktualizacji": "2026-10-25",
     "slowo_kluczowe": "czynniki ryzyka zlota alga",
     "keywords": [
       "zlota alga temperatura",
@@ -5513,13 +5595,6 @@
       "zlota alga n p",
       "prymnesium parvum ryzyko"
     ],
-    "prefix": "Zlota alga - glowne czynniki sprzyjajace wzrostowi i toksycznosci.",
-    "content": "1. KOD / NAZWA: czynniki ryzyka wystepowania zakwitu zlotej algi, czyli Prymnesium parvum.\n2. TEMPERATURA: przy zasoleniu 2,0-2,5 psu optymalny przedzial temperatury wzrostu zlotej algi wynosi 25-28,8 C, a wraz ze spadkiem zasolenia temperatura optymalna dla zakwitu obniza sie.\n3. SUBSTANCJE ODZYWCZE: wzrost substancji odzywczych, zwiazkow azotu i fosforu, sprzyja wzrostowi biomasy komorek i ilosci zakwitowej zlotej algi.\n4. STOSUNEK N:P: utrzymanie stosunku molowego atomow azotu do fosforu na poziomie 12-20 powoduje zwiekszenie gestosci osobnikow, ale zmniejsza ryzyko wystapienia toksycznosci. W warunkach niedoboru skladnikow odzywczych Prymnesium parvum staje sie dominujacy, a toksycznosc wzrasta.\n5. ZASOLENIE: o ryzyku zakwitu swiadczy wzrost zasolenia, ktore opisuje sie na podstawie przewodnosci elektrolitycznej wlasciwej, chlorkow, siarczanow i sodu.\n6. ODCZYN pH: wartosc pH powyzej 8,5 jest znacznie wieksza niz przy nizszym pH, a jej doplyw wraz z obecnoscia napotfitow z rodzaju Prymnesium powoduje wzrost prawdopodobienstwa wystapienia zakwitu zlotej algi.\n7. TLEN ROZPUSZCZONY: wraz z temperatura maleje ilosc tlenu rozpuszczonego w wodzie, jednak w zbiornikach z obecnoscia zlotej algi w ciagu dnia moze wystepowac ponadnormatywna produkcja tlenu pochodzacego z fotosyntezy.\n8. UWAGI OPERACYJNE: ocena ryzyka nie powinna opierac sie na jednym parametrze, ale na lacznej analizie temperatury, zasolenia, odczynu pH, tlenu oraz relacji azotu do fosforu.",
-    "tagi_wspolne": [
-      "zlota alga",
-      "prymnesium parvum",
-      "czynniki ryzyka"
-    ],
     "aliasy": [
       "zlota alga temperatura",
       "zlota alga ph",
@@ -5528,19 +5603,105 @@
       "zlota alga n p",
       "prymnesium parvum ryzyko"
     ],
+    "prefix": "Złota alga — warunki sprzyjające zakwitowi i toksyczności (wyd. 4, 2025).",
+    "parametry": [
+      {
+        "nazwa": "Temperatura",
+        "wartosc": "25–28,8°C przy zasoleniu 20–25 psu; przy niższym zasoleniu optimum spada",
+        "zr": "Proc.",
+        "str": 6
+      },
+      {
+        "nazwa": "Przewodność (20°C)",
+        "wartosc": "ryzyko zakwitu > 1350 µS/cm; zakwity notowano już przy ok. 900",
+        "zr": "Proc.",
+        "str": 7
+      },
+      {
+        "nazwa": "Chlorki",
+        "wartosc": "228 mg/l Cl — poniżej brak ryzyka; zakwit notowano przy ok. 170",
+        "zr": "Proc.",
+        "str": 8
+      },
+      {
+        "nazwa": "Odczyn pH",
+        "wartosc": "> 8,5 wyraźnie wyższa toksyczność; > 8,9 znaczny przyrost algi",
+        "zr": "Proc.",
+        "str": 8
+      },
+      {
+        "nazwa": "Stosunek N:P",
+        "wartosc": "12–20: więcej komórek, mniejsza toksyczność; < 3 decyduje o wzroście algi",
+        "zr": "Proc.",
+        "str": 6
+      },
+      {
+        "nazwa": "Fosfor ogólny",
+        "wartosc": "> 0,75 mg/l przy maksimach algi, potem alga ulega degradacji",
+        "zr": "Proc.",
+        "str": 7
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Jak czytać wskaźniki",
+        "punkty": [
+          {
+            "t": "Niedobór składników odżywczych zwiększa toksyczność — w takich warunkach Prymnesium parvum dominuje.",
+            "zr": "Proc.",
+            "str": 6
+          },
+          {
+            "t": "Wyraźny spadek azotu ogólnego świadczy o rozwoju złotej algi.",
+            "zr": "Proc.",
+            "str": 6
+          },
+          {
+            "t": "Wzrost azotu Kjeldahla prawdopodobnie hamuje rozwój algi — dane wstępne, wymagają potwierdzenia.",
+            "zr": "Proc.",
+            "str": 7
+          },
+          {
+            "t": "Zasolenie (przewodność) jest kluczowym prekursorem toksycznego zakwitu.",
+            "zr": "Proc.",
+            "str": 7
+          },
+          {
+            "t": "Podwyższony tlen rozpuszczony i pH w ciągu dnia mogą wynikać z fotosyntezy podczas zakwitu.",
+            "zr": "Proc.",
+            "str": 8
+          }
+        ]
+      }
+    ],
+    "nie_rob": [
+      {
+        "t": "Nie oceniaj ryzyka po jednym wskaźniku — o stopniu decyduje liczebność algi, a także zmiana parametrów w czasie.",
+        "zr": "Proc.",
+        "str": 10
+      }
+    ],
+    "tagi_wspolne": [
+      "zlota alga",
+      "prymnesium parvum",
+      "czynniki ryzyka"
+    ],
     "dokumenty_zrodlowe": [
       {
-        "dokument_id": "doc-zlota-alga-w3-2023",
-        "strona": 5,
-        "sekcja": "Odpowiedni rozdział procedury monitorowania"
+        "dokument_id": "doc-zlota-alga-w4-2025",
+        "strona": 6,
+        "sekcja": "Proc. pkt 5.1–5.5 (s. 6–8)"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-25",
+    "content": "1. PARAMETRY: Temperatura — 25–28,8°C przy zasoleniu 20–25 psu; przy niższym zasoleniu optimum spada; Przewodność (20°C) — ryzyko zakwitu > 1350 µS/cm; zakwity notowano już przy ok. 900; Chlorki — 228 mg/l Cl — poniżej brak ryzyka; zakwit notowano przy ok. 170; Odczyn pH — > 8,5 wyraźnie wyższa toksyczność; > 8,9 znaczny przyrost algi; Stosunek N:P — 12–20: więcej komórek, mniejsza toksyczność; < 3 decyduje o wzroście algi; Fosfor ogólny — > 0,75 mg/l przy maksimach algi, potem alga ulega degradacji\n2. JAK CZYTAĆ WSKAŹNIKI: Niedobór składników odżywczych zwiększa toksyczność — w takich warunkach Prymnesium parvum dominuje. Wyraźny spadek azotu ogólnego świadczy o rozwoju złotej algi. Wzrost azotu Kjeldahla prawdopodobnie hamuje rozwój algi — dane wstępne, wymagają potwierdzenia. Zasolenie (przewodność) jest kluczowym prekursorem toksycznego zakwitu. Podwyższony tlen rozpuszczony i pH w ciągu dnia mogą wynikać z fotosyntezy podczas zakwitu.\n3. NIE RÓB: Nie oceniaj ryzyka po jednym wskaźniku — o stopniu decyduje liczebność algi, a także zmiana parametrów w czasie."
   },
   {
     "id": "KARTA-ZA-POSTEPOWANIE",
+    "wzorzec": 2,
     "kategoria": "dzialania",
-    "zrodlo": "Procedura monitorowania interwencyjnego pod katem wystepowania zlotej algi, GIOS",
-    "data_aktualizacji": "2023-05-08",
+    "zrodlo": "GIOŚ: Procedura monitorowania interwencyjnego Prymnesium parvum „złotej algi”, wydanie 4 z 04.03.2025 r. (z załącznikami 1–3)",
+    "data_aktualizacji": "2026-10-25",
     "slowo_kluczowe": "postepowanie zlota alga",
     "keywords": [
       "zlota alga etapy",
@@ -5549,13 +5710,6 @@
       "zlota alga etap i ii iii",
       "zlota alga informacja na zewnatrz"
     ],
-    "prefix": "Zlota alga - etapy postepowania po stwierdzeniu poziomu zagrozenia.",
-    "content": "1. KOD / NAZWA: etapy postepowania w monitoringu interwencyjnym pod katem wystepowania zlotej algi.\n2. ETAP I I II: pomiary terenowe oraz pobranie probek przeznaczonych na wykonanie badan wskazanych w procedurze nalezy wykonac metoda referencyjna. Wyniki wpisuje sie do protokolu pobierania i do dedykowanego formularza najpozniej do godziny 9.00 nastepnego dnia.\n3. DODATKOWY POMIAR: w okresie podwyzszonego ryzyka nalezy wykonac dodatkowy trzeci pomiar w zakresie terenowym, obejmujacy temperature, przewodnosc elektrolityczna wlasciwa w 20 C, odczyn pH, tlen rozpuszczony i nasycenie tlenem. Badanie biologiczne nalezy wykonywac dwa razy w tygodniu wraz z badaniami fizyko-chemicznymi.\n4. ETAP III: po stwierdzeniu III stopnia zagrozenia pomiary terenowe wykonuje sie wraz z badaniami fizyko-chemicznymi z czestotliwoscia dwa razy w tygodniu, a w przypadkach wskazanych w procedurze zlecane sa dodatkowe badania laboratoryjne. Czas wykonania etapu wynosi maksymalnie 48 h od pobrania probek.\n5. WERYFIKACJA LABORATORYJNA: komorka merytoryczna GIOS odpowiada za realizacje badan przez CLB dzialajacy na oddziale CLB lub WIOS/GIOS. Jezeli wykonanie badan nie jest mozliwe w laboratorium wiodacym, zleca sie je innemu laboratorium WIOS/GIOS lub CLB zgodnie z procedura.\n6. ETAP IV - INFORMACJA NA ZEWNATRZ: komorka merytoryczna GIOS odpowiedzialna za realizacje, po uzyskaniu informacji o stopniu zagrozenia, przekazuje informacje do wskazanych instytucji i sluzb. Czas wykonania etapu wynosi do 1 h od uzyskania informacji.\n7. ETAP V - INFORMACJA NA ZEWNATRZ: komorka merytoryczna GIOS przekazuje informacje o stopniu zagrozenia po uzyskaniu odpowiednich danych do instytucji zewnetrznych zgodnie z procedura. Czas wykonania etapu wynosi do 4 h od otrzymania danych badan laboratoryjnych.\n8. UWAGI OPERACYJNE: schemat postepowania obejmuje przejscie od monitoringu wskaznikow fizyko-chemicznych i fitoplanktonu, przez wyznaczenie stopnia zagrozenia, do przekazania informacji do ZKIA i wlasciwych instytucji.",
-    "tagi_wspolne": [
-      "zlota alga",
-      "prymnesium parvum",
-      "postepowanie"
-    ],
     "aliasy": [
       "zlota alga etapy",
       "zlota alga postepowanie",
@@ -5563,19 +5717,123 @@
       "zlota alga etap i ii iii",
       "zlota alga informacja na zewnatrz"
     ],
+    "prefix": "Złota alga — etapy monitoringu, czasy i kogo informuje GIOŚ (wyd. 4, 2025).",
+    "najpierw": [
+      {
+        "t": "Informację o przypisanym stopniu GIOŚ przekazuje m.in. do właściwego WCZK, WIOŚ, CZK MKiŚ, Wód Polskich, GDOŚ i GIG — w ciągu 1 h od analizy.",
+        "zr": "Proc.",
+        "str": 11
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "I.1 Pomiary i próbki",
+        "wartosc": "wyniki w formularzu do 9:00 następnego dnia",
+        "zr": "Proc.",
+        "str": 10
+      },
+      {
+        "nazwa": "I.2 Laboratorium",
+        "wartosc": "maks. 48 h od pobrania próbek",
+        "zr": "Proc.",
+        "str": 10
+      },
+      {
+        "nazwa": "II Analiza stopnia",
+        "wartosc": "4 h od zatwierdzonych wyników (KLRW)",
+        "zr": "Proc.",
+        "str": 11
+      },
+      {
+        "nazwa": "III Informacja na zewnątrz",
+        "wartosc": "1 h od informacji z KLRW",
+        "zr": "Proc.",
+        "str": 11
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Etapy",
+        "punkty": [
+          {
+            "t": "I.1 — CLB wykonuje pomiary terenowe i pobiera próbki metodami referencyjnymi; same wyniki terenowe nie są przekazywane dalej.",
+            "zr": "Proc.",
+            "str": 10
+          },
+          {
+            "t": "I.2 — CLB wykonuje badania laboratoryjne, podaje liczebność Prymnesium cf. parvum i organizmy dominujące.",
+            "zr": "Proc.",
+            "str": 10
+          },
+          {
+            "t": "II — KLRW przypisuje stopień ostrzegawczy lub zagrożenia, opiniuje go DMŚ, potem informacja trafia do Wydziału ds. Bezpieczeństwa GIOŚ.",
+            "zr": "Proc.",
+            "str": 10
+          },
+          {
+            "t": "Gdy wskaźniki wskazują III stopień, ale alga nie dominuje — przypisuje się najwyżej II stopień.",
+            "zr": "Proc.",
+            "str": 10
+          },
+          {
+            "t": "III — Wydział ds. Bezpieczeństwa GIOŚ informuje instytucje i zleca dalsze badania z częstotliwością z załącznika nr 3.",
+            "zr": "Proc.",
+            "str": 11
+          }
+        ]
+      },
+      {
+        "etykieta": "Częstotliwość badań",
+        "punkty": [
+          {
+            "t": "Zależy od typu punktu, przypisanego stopnia i pory roku (okres wegetacyjny: kwiecień–październik).",
+            "zr": "Proc.",
+            "str": 11
+          },
+          {
+            "t": "Punkty pierwszorzędne w okresie wegetacyjnym: 2× w tygodniu; przy II lub III stopniu — dodatkowy trzeci pobór w tygodniu.",
+            "zr": "Zał. 3",
+            "str": 1
+          },
+          {
+            "t": "Wzrost o kolejny poziom alarmowy wymusza częstotliwość nowego stopnia; spadek o co najmniej jeden poziom w pierwszym badaniu tygodnia pozwala ją zmniejszyć.",
+            "zr": "Proc.",
+            "str": 11
+          },
+          {
+            "t": "Wynik pierwszego badania w tygodniu jest punktem wyjścia do dalszego postępowania.",
+            "zr": "Proc.",
+            "str": 11
+          }
+        ]
+      }
+    ],
+    "tagi_wspolne": [
+      "zlota alga",
+      "prymnesium parvum",
+      "postepowanie"
+    ],
     "dokumenty_zrodlowe": [
       {
-        "dokument_id": "doc-zlota-alga-w3-2023",
-        "strona": 8,
-        "sekcja": "Odpowiedni rozdział procedury monitorowania"
+        "dokument_id": "doc-zlota-alga-w4-2025",
+        "strona": 9,
+        "sekcja": "Proc. pkt 8 (s. 9–11)"
+      },
+      {
+        "dokument_id": "doc-zlota-alga-w4-zal3",
+        "strona": 1,
+        "sekcja": "Zał. 3 — częstotliwość"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-25",
+    "content": "1. NAJPIERW: Informację o przypisanym stopniu GIOŚ przekazuje m.in. do właściwego WCZK, WIOŚ, CZK MKiŚ, Wód Polskich, GDOŚ i GIG — w ciągu 1 h od analizy.\n2. PARAMETRY: I.1 Pomiary i próbki — wyniki w formularzu do 9:00 następnego dnia; I.2 Laboratorium — maks. 48 h od pobrania próbek; II Analiza stopnia — 4 h od zatwierdzonych wyników (KLRW); III Informacja na zewnątrz — 1 h od informacji z KLRW\n3. ETAPY: I.1 — CLB wykonuje pomiary terenowe i pobiera próbki metodami referencyjnymi; same wyniki terenowe nie są przekazywane dalej. I.2 — CLB wykonuje badania laboratoryjne, podaje liczebność Prymnesium cf. parvum i organizmy dominujące. II — KLRW przypisuje stopień ostrzegawczy lub zagrożenia, opiniuje go DMŚ, potem informacja trafia do Wydziału ds. Bezpieczeństwa GIOŚ. Gdy wskaźniki wskazują III stopień, ale alga nie dominuje — przypisuje się najwyżej II stopień. III — Wydział ds. Bezpieczeństwa GIOŚ informuje instytucje i zleca dalsze badania z częstotliwością z załącznika nr 3.\n4. CZĘSTOTLIWOŚĆ BADAŃ: Zależy od typu punktu, przypisanego stopnia i pory roku (okres wegetacyjny: kwiecień–październik). Punkty pierwszorzędne w okresie wegetacyjnym: 2× w tygodniu; przy II lub III stopniu — dodatkowy trzeci pobór w tygodniu. Wzrost o kolejny poziom alarmowy wymusza częstotliwość nowego stopnia; spadek o co najmniej jeden poziom w pierwszym badaniu tygodnia pozwala ją zmniejszyć. Wynik pierwszego badania w tygodniu jest punktem wyjścia do dalszego postępowania."
   },
   {
     "id": "KARTA-ZA-POZIOMY-ALARMOWE",
+    "wzorzec": 2,
     "kategoria": "dzialania",
-    "zrodlo": "Procedura monitorowania interwencyjnego pod katem wystepowania zlotej algi, GIOS",
-    "data_aktualizacji": "2023-05-08",
+    "zrodlo": "GIOŚ: Procedura monitorowania interwencyjnego Prymnesium parvum „złotej algi”, wydanie 4 z 04.03.2025 r. (z załącznikami 1–3)",
+    "data_aktualizacji": "2026-10-25",
     "slowo_kluczowe": "poziomy alarmowe zlota alga",
     "keywords": [
       "zlota alga poziomy alarmowe",
@@ -5584,13 +5842,6 @@
       "zlota alga rzeki starorzecza",
       "zlota alga kanaly zbiorniki"
     ],
-    "prefix": "Zlota alga - poziomy alarmowe dla kanalow, zbiornikow, rzek i starorzeczy.",
-    "content": "1. KOD / NAZWA: poziomy alarmowe monitoringu interwencyjnego pod katem zlotej algi.\n2. STOPIEN OSTRZEGAWCZY: dla punktu badanego opisuje sie go wtedy, gdy nie przypisano jeszcze stopnia zagrozenia, a czestotliwosc pobierania probek i oznaczen wskazuje na wzrost liczebnosci Prymnesium cf. parvum powyzej 3 mln os./l.\n3. KANALY I ZBIORNIKI NATURALNE ORAZ SZTUCZNE - I STOPIEN ZAGROZENIA: PEW w 20 C >=2400 uS/cm, pH >=7,9, tlen rozpuszczony >=12 mg/l O2, fosfor ogolny >=0,40 mg/l P, stosunek atomow N:P <=12, Prymnesium cf. parvum >=10 mln os./l.\n4. KANALY I ZBIORNIKI NATURALNE ORAZ SZTUCZNE - II STOPIEN ZAGROZENIA: PEW w 20 C >=3800 uS/cm, pH >=8,4, tlen rozpuszczony >=14 mg/l O2, fosfor ogolny >=0,55 mg/l P, stosunek atomow N:P <=3, Prymnesium cf. parvum >=100 mln os./l.\n5. KANALY I ZBIORNIKI NATURALNE ORAZ SZTUCZNE - III STOPIEN ZAGROZENIA: PEW w 20 C >=5500 uS/cm, pH >=8,9, tlen rozpuszczony >=16 mg/l O2, fosfor ogolny >=0,70 mg/l P, stosunek atomow N:P <=1,5, Prymnesium cf. parvum >=300 mln os./l.\n6. RZEKI I STARORZECZA - I STOPIEN ZAGROZENIA: PEW w 20 C >=1350 uS/cm, pH >=7,9, tlen rozpuszczony >=12 mg/l O2, fosfor ogolny >=0,40 mg/l P, stosunek atomow N:P <=23, Prymnesium cf. parvum >=10 mln os./l.\n7. RZEKI I STARORZECZA - II STOPIEN ZAGROZENIA: PEW w 20 C >=1600 uS/cm, pH >=8,4, tlen rozpuszczony >=13 mg/l O2, fosfor ogolny >=0,55 mg/l P, stosunek atomow N:P <=12, Prymnesium cf. parvum >=50 mln os./l.\n8. RZEKI I STARORZECZA - III STOPIEN ZAGROZENIA: PEW w 20 C >=1998 uS/cm, pH >=8,9, tlen rozpuszczony >=14 mg/l O2, fosfor ogolny >=0,70 mg/l P, stosunek atomow N:P <=3, Prymnesium cf. parvum >=100 mln os./l.\n9. UWAGI OPERACYJNE: dla punktu badanego w ramach monitoringu i monitoringu interwencyjnego poziom zagrozenia nalezy wyznaczac na podstawie ostatnich danych terenowych i laboratoryjnych wedlug tabel procedury.",
-    "tagi_wspolne": [
-      "zlota alga",
-      "prymnesium parvum",
-      "poziomy alarmowe"
-    ],
     "aliasy": [
       "zlota alga poziomy alarmowe",
       "prymnesium parvum progi",
@@ -5598,19 +5849,126 @@
       "zlota alga rzeki starorzecza",
       "zlota alga kanaly zbiorniki"
     ],
+    "prefix": "Złota alga — stopnie ostrzegawcze i stopnie zagrożenia (wyd. 4, 2025, zał. 2).",
+    "najpierw": [
+      {
+        "t": "Stopień zagrożenia przypisuje się według liczebności Prymnesium cf. parvum; pH, tlen, fosfor i N:P tylko ilustrują intensywność zakwitu.",
+        "zr": "Zał. 2",
+        "str": 2
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Ostrzegawczy**",
+        "wartosc": "zasolenie: przewodność ≥ 2400 µS/cm (kanały, zbiorniki) · ≥ 1350 µS/cm (rzeki, starorzecza)",
+        "zr": "Zał. 2",
+        "str": 2
+      },
+      {
+        "nazwa": "Ostrzegawczy*",
+        "wartosc": "kanały, zbiorniki ≥ 3 mln os./l · rzeki ≥ 1 mln os./l",
+        "zr": "Zał. 2",
+        "str": 2
+      },
+      {
+        "nazwa": "I stopień — średni zakwit",
+        "wartosc": "kanały, zbiorniki ≥ 10 mln · rzeki ≥ 10 mln os./l",
+        "zr": "Zał. 2",
+        "str": 2
+      },
+      {
+        "nazwa": "II stopień — duży zakwit",
+        "wartosc": "kanały, zbiorniki ≥ 100 mln · rzeki ≥ 50 mln os./l",
+        "zr": "Zał. 2",
+        "str": 2
+      },
+      {
+        "nazwa": "III stopień — bardzo duży",
+        "wartosc": "kanały, zbiorniki ≥ 300 mln · rzeki ≥ 100 mln os./l",
+        "zr": "Zał. 2",
+        "str": 2
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Ryzyko przy stopniach",
+        "punkty": [
+          {
+            "t": "Ostrzegawczy** — ryzyko pojawienia się algi z powodu zasolenia; także w punktach bez stwierdzonej algi.",
+            "zr": "Proc.",
+            "str": 9
+          },
+          {
+            "t": "Ostrzegawczy* — ryzyko zakwitu z powodu obecności algi.",
+            "zr": "Proc.",
+            "str": 9
+          },
+          {
+            "t": "I / II / III stopień — średnie / wysokie / bardzo wysokie ryzyko śnięcia ryb.",
+            "zr": "Proc.",
+            "str": 9
+          }
+        ]
+      },
+      {
+        "etykieta": "Wskaźniki pomocnicze (I / II / III)",
+        "punkty": [
+          {
+            "t": "pH: ≥ 7,9 / ≥ 8,4 / ≥ 8,9 (obie grupy wód).",
+            "zr": "Zał. 2",
+            "str": 2
+          },
+          {
+            "t": "Tlen rozpuszczony: kanały, zbiorniki ≥ 12 / ≥ 14 / ≥ 16 mg/l; rzeki ≥ 12 / ≥ 13 / ≥ 14 mg/l.",
+            "zr": "Zał. 2",
+            "str": 2
+          },
+          {
+            "t": "Fosfor ogólny: ≥ 0,40 / ≥ 0,55 / ≥ 0,70 mg/l P (obie grupy wód).",
+            "zr": "Zał. 2",
+            "str": 2
+          },
+          {
+            "t": "N:P: kanały, zbiorniki ≤ 12 / ≤ 3 / ≤ 1,5; rzeki ≤ 23 / ≤ 12 / ≤ 3.",
+            "zr": "Zał. 2",
+            "str": 2
+          }
+        ]
+      }
+    ],
+    "nie_rob": [
+      {
+        "t": "Nie przypisuj stopnia zagrożenia na podstawie samych wskaźników fizyko-chemicznych.",
+        "zr": "Zał. 2",
+        "str": 2
+      }
+    ],
+    "tagi_wspolne": [
+      "zlota alga",
+      "prymnesium parvum",
+      "poziomy alarmowe"
+    ],
     "dokumenty_zrodlowe": [
       {
-        "dokument_id": "doc-zlota-alga-w3-2023",
-        "strona": 7,
-        "sekcja": "Odpowiedni rozdział procedury monitorowania"
+        "dokument_id": "doc-zlota-alga-w4-zal2",
+        "strona": 2,
+        "sekcja": "Zał. 2 — poziomy alarmowe (s. 2–3)"
+      },
+      {
+        "dokument_id": "doc-zlota-alga-w4-2025",
+        "strona": 9,
+        "sekcja": "Proc. pkt 7 (s. 8–9)"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-25",
+    "content": "1. NAJPIERW: Stopień zagrożenia przypisuje się według liczebności Prymnesium cf. parvum; pH, tlen, fosfor i N:P tylko ilustrują intensywność zakwitu.\n2. PARAMETRY: Ostrzegawczy** — zasolenie: przewodność ≥ 2400 µS/cm (kanały, zbiorniki) · ≥ 1350 µS/cm (rzeki, starorzecza); Ostrzegawczy* — kanały, zbiorniki ≥ 3 mln os./l · rzeki ≥ 1 mln os./l; I stopień — średni zakwit — kanały, zbiorniki ≥ 10 mln · rzeki ≥ 10 mln os./l; II stopień — duży zakwit — kanały, zbiorniki ≥ 100 mln · rzeki ≥ 50 mln os./l; III stopień — bardzo duży — kanały, zbiorniki ≥ 300 mln · rzeki ≥ 100 mln os./l\n3. RYZYKO PRZY STOPNIACH: Ostrzegawczy** — ryzyko pojawienia się algi z powodu zasolenia; także w punktach bez stwierdzonej algi. Ostrzegawczy* — ryzyko zakwitu z powodu obecności algi. I / II / III stopień — średnie / wysokie / bardzo wysokie ryzyko śnięcia ryb.\n4. WSKAŹNIKI POMOCNICZE (I / II / III): pH: ≥ 7,9 / ≥ 8,4 / ≥ 8,9 (obie grupy wód). Tlen rozpuszczony: kanały, zbiorniki ≥ 12 / ≥ 14 / ≥ 16 mg/l; rzeki ≥ 12 / ≥ 13 / ≥ 14 mg/l. Fosfor ogólny: ≥ 0,40 / ≥ 0,55 / ≥ 0,70 mg/l P (obie grupy wód). N:P: kanały, zbiorniki ≤ 12 / ≤ 3 / ≤ 1,5; rzeki ≤ 23 / ≤ 12 / ≤ 3.\n5. NIE RÓB: Nie przypisuj stopnia zagrożenia na podstawie samych wskaźników fizyko-chemicznych."
   },
   {
     "id": "KARTA-ZA-WSKAZNIKI-BADANE",
+    "wzorzec": 2,
     "kategoria": "dzialania",
-    "zrodlo": "Procedura monitorowania interwencyjnego pod katem wystepowania zlotej algi, GIOS",
-    "data_aktualizacji": "2023-05-08",
+    "zrodlo": "GIOŚ: Procedura monitorowania interwencyjnego Prymnesium parvum „złotej algi”, wydanie 4 z 04.03.2025 r. (z załącznikami 1–3)",
+    "data_aktualizacji": "2026-10-25",
     "slowo_kluczowe": "wskazniki badane zlota alga",
     "keywords": [
       "zlota alga wskazniki",
@@ -5619,13 +5977,6 @@
       "prymnesium parvum wskazniki",
       "wskazniki fizykochemiczne zlota alga"
     ],
-    "prefix": "Zlota alga - wskazniki fizykochemiczne i biologiczne badane w wodzie i w terenie.",
-    "content": "1. KOD / NAZWA: wskazniki badane w monitoringu interwencyjnym pod katem zlotej algi.\n2. POMIARY TERENOWE: temperatura, przewodnosc elektrolityczna wlasciwa w 20 C, odczyn pH, tlen rozpuszczony oraz nasycenie tlenem.\n3. BADANIA FIZYKO-CHEMICZNE: chlorki, siarczany, sod, azot ogolny, azot Kjeldahla oraz fosfor ogolny.\n4. BADANIA BIOLOGICZNE: fitoplankton pod katem ilosci Prymnesium cf. parvum.\n5. CZULOSC BADANIA BIOLOGICZNEGO: dla punktu badanego w ramach monitoringu i monitoringu interwencyjnego czulosc badania biologicznego powinna wynosic powyzej 10 mln os./l przy przynajmniej 3-minutowym czasie zliczania probki.\n6. UWAGI OPERACYJNE: w procedurze poziomy zagrozenia wyznacza sie lacznie na podstawie pomiarow terenowych, badan fizyko-chemicznych i oznaczen biologicznych.",
-    "tagi_wspolne": [
-      "zlota alga",
-      "prymnesium parvum",
-      "wskazniki"
-    ],
     "aliasy": [
       "zlota alga wskazniki",
       "zlota alga pomiary terenowe",
@@ -5633,12 +5984,77 @@
       "prymnesium parvum wskazniki",
       "wskazniki fizykochemiczne zlota alga"
     ],
+    "prefix": "Złota alga — wskaźniki badane w monitoringu interwencyjnym (wyd. 4, 2025, zał. 1).",
+    "parametry": [
+      {
+        "nazwa": "Pomiary terenowe",
+        "wartosc": "temperatura · przewodność w 20°C · pH · tlen rozpuszczony · nasycenie tlenem",
+        "zr": "Zał. 1",
+        "str": 1
+      },
+      {
+        "nazwa": "Fizyko-chemiczne",
+        "wartosc": "chlorki · azot azotanowy, azotynowy, amonowy, Kjeldahla, ogólny · fosfor ogólny",
+        "zr": "Zał. 1",
+        "str": 1
+      },
+      {
+        "nazwa": "Biologiczne",
+        "wartosc": "fitoplankton — liczebność Prymnesium cf. parvum",
+        "zr": "Zał. 1",
+        "str": 1
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Ocena ryzyka",
+        "punkty": [
+          {
+            "t": "Do oceny ryzyka służą tylko: przewodność, pH, tlen, fosfor ogólny, stosunek N:P i liczebność algi.",
+            "zr": "Zał. 2",
+            "str": 1
+          },
+          {
+            "t": "Temperatura, chlorki i formy azotu są badane, by sprawdzić ich związek z toksycznością — nie wpływają na stopień.",
+            "zr": "Zał. 2",
+            "str": 3
+          },
+          {
+            "t": "Siarczanów nie bada się — w polskich wodach nie zaobserwowano ich wpływu na rozwój algi.",
+            "zr": "Proc.",
+            "str": 8
+          },
+          {
+            "t": "Zakres badań (zał. 1) może zmienić GIOŚ w uzgodnieniu z MKiŚ.",
+            "zr": "Proc.",
+            "str": 8
+          }
+        ]
+      }
+    ],
+    "tagi_wspolne": [
+      "zlota alga",
+      "prymnesium parvum",
+      "wskazniki"
+    ],
     "dokumenty_zrodlowe": [
       {
-        "dokument_id": "doc-zlota-alga-w3-2023",
-        "strona": 7,
-        "sekcja": "Odpowiedni rozdział procedury monitorowania"
+        "dokument_id": "doc-zlota-alga-w4-zal1",
+        "strona": 1,
+        "sekcja": "Zał. 1 — wskaźniki badane"
+      },
+      {
+        "dokument_id": "doc-zlota-alga-w4-zal2",
+        "strona": 1,
+        "sekcja": "Zał. 2 — wskaźniki objęte oceną"
+      },
+      {
+        "dokument_id": "doc-zlota-alga-w4-2025",
+        "strona": 8,
+        "sekcja": "Proc. pkt 5.3.2, 6"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-25",
+    "content": "1. PARAMETRY: Pomiary terenowe — temperatura · przewodność w 20°C · pH · tlen rozpuszczony · nasycenie tlenem; Fizyko-chemiczne — chlorki · azot azotanowy, azotynowy, amonowy, Kjeldahla, ogólny · fosfor ogólny; Biologiczne — fitoplankton — liczebność Prymnesium cf. parvum\n2. OCENA RYZYKA: Do oceny ryzyka służą tylko: przewodność, pH, tlen, fosfor ogólny, stosunek N:P i liczebność algi. Temperatura, chlorki i formy azotu są badane, by sprawdzić ich związek z toksycznością — nie wpływają na stopień. Siarczanów nie bada się — w polskich wodach nie zaobserwowano ich wpływu na rozwój algi. Zakres badań (zał. 1) może zmienić GIOŚ w uzgodnieniu z MKiŚ."
   }
 ]

@@ -2059,11 +2059,11 @@
     "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
-        "dokument_id": "doc-zlota-alga-w3-2023",
+        "dokument_id": "doc-zlota-alga-w4-2025",
         "strona": 4,
-        "sekcja": "Odpowiedni rozdział procedury monitorowania",
+        "sekcja": "Proc. pkt 1–5 (s. 4–6)",
         "tytul": "Procedura monitorowania interwencyjnego Prymnesium parvum - złotej algi",
-        "plik": "dokumenty/srodowisko/procedura-zlota-alga-wydanie-3-2023.pdf",
+        "plik": "dokumenty/srodowisko/procedura-zlota-alga-wydanie-4-2025-03-04.pdf",
         "typ": "pdf"
       }
     ]
@@ -2074,11 +2074,11 @@
     "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
-        "dokument_id": "doc-zlota-alga-w3-2023",
-        "strona": 5,
-        "sekcja": "Odpowiedni rozdział procedury monitorowania",
+        "dokument_id": "doc-zlota-alga-w4-2025",
+        "strona": 6,
+        "sekcja": "Proc. pkt 5.1–5.5 (s. 6–8)",
         "tytul": "Procedura monitorowania interwencyjnego Prymnesium parvum - złotej algi",
-        "plik": "dokumenty/srodowisko/procedura-zlota-alga-wydanie-3-2023.pdf",
+        "plik": "dokumenty/srodowisko/procedura-zlota-alga-wydanie-4-2025-03-04.pdf",
         "typ": "pdf"
       }
     ]
@@ -2089,11 +2089,19 @@
     "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
-        "dokument_id": "doc-zlota-alga-w3-2023",
-        "strona": 8,
-        "sekcja": "Odpowiedni rozdział procedury monitorowania",
+        "dokument_id": "doc-zlota-alga-w4-2025",
+        "strona": 9,
+        "sekcja": "Proc. pkt 8 (s. 9–11)",
         "tytul": "Procedura monitorowania interwencyjnego Prymnesium parvum - złotej algi",
-        "plik": "dokumenty/srodowisko/procedura-zlota-alga-wydanie-3-2023.pdf",
+        "plik": "dokumenty/srodowisko/procedura-zlota-alga-wydanie-4-2025-03-04.pdf",
+        "typ": "pdf"
+      },
+      {
+        "dokument_id": "doc-zlota-alga-w4-zal3",
+        "strona": 1,
+        "sekcja": "Zał. 3 — częstotliwość",
+        "tytul": "Złota alga — zał. 3: częstotliwość pomiarów i badań",
+        "plik": "dokumenty/srodowisko/zlota-alga-w4-zal3-czestotliwosc.pdf",
         "typ": "pdf"
       }
     ]
@@ -2104,11 +2112,19 @@
     "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
-        "dokument_id": "doc-zlota-alga-w3-2023",
-        "strona": 7,
-        "sekcja": "Odpowiedni rozdział procedury monitorowania",
+        "dokument_id": "doc-zlota-alga-w4-zal2",
+        "strona": 2,
+        "sekcja": "Zał. 2 — poziomy alarmowe (s. 2–3)",
+        "tytul": "Złota alga — zał. 2: wskaźniki objęte oceną i poziomy alarmowe",
+        "plik": "dokumenty/srodowisko/zlota-alga-w4-zal2-poziomy-alarmowe.pdf",
+        "typ": "pdf"
+      },
+      {
+        "dokument_id": "doc-zlota-alga-w4-2025",
+        "strona": 9,
+        "sekcja": "Proc. pkt 7 (s. 8–9)",
         "tytul": "Procedura monitorowania interwencyjnego Prymnesium parvum - złotej algi",
-        "plik": "dokumenty/srodowisko/procedura-zlota-alga-wydanie-3-2023.pdf",
+        "plik": "dokumenty/srodowisko/procedura-zlota-alga-wydanie-4-2025-03-04.pdf",
         "typ": "pdf"
       }
     ]
@@ -2119,11 +2135,27 @@
     "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
-        "dokument_id": "doc-zlota-alga-w3-2023",
-        "strona": 7,
-        "sekcja": "Odpowiedni rozdział procedury monitorowania",
+        "dokument_id": "doc-zlota-alga-w4-zal1",
+        "strona": 1,
+        "sekcja": "Zał. 1 — wskaźniki badane",
+        "tytul": "Złota alga — zał. 1: wskaźniki fizyko-chemiczne i biologiczne badane w monitoringu interwencyjnym",
+        "plik": "dokumenty/srodowisko/zlota-alga-w4-zal1-wskazniki-badane.pdf",
+        "typ": "pdf"
+      },
+      {
+        "dokument_id": "doc-zlota-alga-w4-zal2",
+        "strona": 1,
+        "sekcja": "Zał. 2 — wskaźniki objęte oceną",
+        "tytul": "Złota alga — zał. 2: wskaźniki objęte oceną i poziomy alarmowe",
+        "plik": "dokumenty/srodowisko/zlota-alga-w4-zal2-poziomy-alarmowe.pdf",
+        "typ": "pdf"
+      },
+      {
+        "dokument_id": "doc-zlota-alga-w4-2025",
+        "strona": 8,
+        "sekcja": "Proc. pkt 5.3.2, 6",
         "tytul": "Procedura monitorowania interwencyjnego Prymnesium parvum - złotej algi",
-        "plik": "dokumenty/srodowisko/procedura-zlota-alga-wydanie-3-2023.pdf",
+        "plik": "dokumenty/srodowisko/procedura-zlota-alga-wydanie-4-2025-03-04.pdf",
         "typ": "pdf"
       }
     ]

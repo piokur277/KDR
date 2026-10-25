@@ -1,8 +1,9 @@
 {
   "id": "KARTA-ZA-CEL-ZAKRES-MONITOROWANIA",
+  "wzorzec": 2,
   "kategoria": "organizacja",
-  "zrodlo": "Procedura monitorowania interwencyjnego pod katem wystepowania zlotej algi, GIOS",
-  "data_aktualizacji": "2023-05-08",
+  "zrodlo": "GIOŚ: Procedura monitorowania interwencyjnego Prymnesium parvum „złotej algi”, wydanie 4 z 04.03.2025 r. (z załącznikami 1–3)",
+  "data_aktualizacji": "2026-10-25",
   "slowo_kluczowe": "zlota alga monitoring",
   "keywords": [
     "prymnesium parvum monitoring",
@@ -11,13 +12,6 @@
     "zakres procedury zlota alga",
     "zasada metody zlota alga"
   ],
-  "prefix": "Procedura monitorowania interwencyjnego pod katem wystepowania zlotej algi - cel, zakres i zasada.",
-  "content": "1. KOD / NAZWA: procedura monitorowania interwencyjnego pod katem wystepowania zlotej algi, czyli Prymnesium parvum.\n2. CEL PROCEDURY: usystematyzowanie i ujednolicenie sposobu monitorowania interwencyjnego, zwanego dalej monitoringiem, pod katem wystapienia zakwitu zlotej algi.\n3. ZAKRES: metoda jest przeznaczona do niniejszej procedury okreslajacej wskazniki fizykochemiczne i biologiczne w wodzie objetych badaniem, czestotliwosc wykonywania badan, wartosci alarmowe wskaznikow fizykochemicznych i biologicznych oraz sposob postepowania z probkami, od odpowiedniego pobierania probek, poprzez raportowanie wynikow badan, sposob i droge informowania odpowiednich sluzb.\n4. ZASADA METODY: polega na wykonywaniu badan terenowych i laboratoryjnych, ktore umozliwiaja wykrycie ewentualnego ryzyka wystapienia zakwitow haptofitow z gatunku Prymnesium parvum, a nastepnie poinformowanie odpowiednich sluzb.\n5. APARATURA I MATERIAY POMOCNICZE: zarowno do badania wskaznikow fizykochemicznych w terenie, jak i w laboratorium oraz metod pomocniczych nalezy stosowac aparature i materialy pomocnicze okreslone w metodach referencyjnych.\n6. ODNIESIENIE METODYCZNE: wykaz metod referencyjnych znajduje sie w rozporzadzeniu Ministra Infrastruktury z dnia 13 lipca 2021 r. w sprawie form i sposobu prowadzenia monitoringu jednolitych czesci wod powierzchniowych i jednolitych czesci wod podziemnych.",
-  "tagi_wspolne": [
-    "zlota alga",
-    "prymnesium parvum",
-    "monitoring"
-  ],
   "aliasy": [
     "prymnesium parvum monitoring",
     "procedura zlota alga",
@@ -25,11 +19,97 @@
     "zakres procedury zlota alga",
     "zasada metody zlota alga"
   ],
+  "prefix": "Złota alga — po co i jak GIOŚ prowadzi monitoring interwencyjny (wyd. 4, 2025).",
+  "najpierw": [
+    {
+      "t": "Przy pomiarach terenowych i poborze próbek w punktach monitoringu interwencyjnego stosuj maseczkę ochronną i rękawice.",
+      "zr": "Proc.",
+      "str": 5
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "Odpowiada",
+      "wartosc": "GIOŚ: pomiary terenowe, próbki, badania laboratoryjne, analizy i raporty",
+      "zr": "Proc.",
+      "str": 4
+    },
+    {
+      "nazwa": "Ilości zakwitowe",
+      "wartosc": "> 10 mln komórek/l",
+      "zr": "Proc.",
+      "str": 6
+    },
+    {
+      "nazwa": "Toksyczność zakwitu",
+      "wartosc": "> 50–100 mln komórek/l",
+      "zr": "Proc.",
+      "str": 6
+    }
+  ],
+  "sekcje": [
+    {
+      "etykieta": "Cel i zakres",
+      "punkty": [
+        {
+          "t": "Cel: wykryć ryzyko zakwitu złotej algi i poinformować właściwe służby.",
+          "zr": "Proc.",
+          "str": 4
+        },
+        {
+          "t": "Procedura określa badane wskaźniki, częstotliwość badań, poziomy alarmowe, postępowanie z próbkami, czasy, odpowiedzialność i drogę informowania służb.",
+          "zr": "Proc.",
+          "str": 4
+        },
+        {
+          "t": "Metody i aparatura — według metod referencyjnych (rozporządzenie MI z 13.07.2021, Dz.U. 2021 poz. 1576) i procedury PB-01/KLRW.",
+          "zr": "Proc.",
+          "str": 4
+        }
+      ]
+    },
+    {
+      "etykieta": "Punkty monitoringu",
+      "punkty": [
+        {
+          "t": "Punkt może leżeć na rzece, starorzeczu, kanale lub zbiorniku; wyznacza go DMŚ GIOŚ, także na rekomendację Zespołu ds. Odry.",
+          "zr": "Proc.",
+          "str": 5
+        },
+        {
+          "t": "Pierwszorzędne — kluczowe ogniska rozwoju algi i Odra poniżej Kanału Gliwickiego/Kłodnicy.",
+          "zr": "Proc.",
+          "str": 5
+        },
+        {
+          "t": "Drugorzędne — wspomagające; trzeciorzędne (kaskadowe) — uruchamiane po przekroczeniu stopnia ostrzegawczego w punktach 1. i 2. rzędu.",
+          "zr": "Proc.",
+          "str": 5
+        },
+        {
+          "t": "Czwartorzędne — zagrożenie lokalne z wdrożonymi zabezpieczeniami (np. siatki); pięciorzędne — obecność algi tylko podejrzewana.",
+          "zr": "Proc.",
+          "str": 5
+        },
+        {
+          "t": "Wykaz lokalizacji to załącznik nr 4 — aktualizowany osobno przez GIOŚ.",
+          "zr": "Proc.",
+          "str": 5
+        }
+      ]
+    }
+  ],
+  "tagi_wspolne": [
+    "zlota alga",
+    "prymnesium parvum",
+    "monitoring"
+  ],
   "dokumenty_zrodlowe": [
     {
-      "dokument_id": "doc-zlota-alga-w3-2023",
+      "dokument_id": "doc-zlota-alga-w4-2025",
       "strona": 4,
-      "sekcja": "Odpowiedni rozdział procedury monitorowania"
+      "sekcja": "Proc. pkt 1–5 (s. 4–6)"
     }
-  ]
+  ],
+  "data_przegladu": "2026-10-25"
 }
