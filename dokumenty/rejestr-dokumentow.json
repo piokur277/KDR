@@ -919,6 +919,45 @@
       "liczba_stron": 15,
       "sha256": "bc24a548f4367afea131252b0c4fbd96f6aa2e97740e09f911d11097735ee01f",
       "uwagi": "Skan. Pobrano ze strony KG PSP Dokumentacja operacyjna, https://www.gov.pl/attachment/6271c49d-5c46-4a10-891c-a81eeacac88b. Na dzień 2026-10-25 to jedyne wydanie opublikowane przez KG PSP."
+    },
+    "doc-zorm-2021": {
+      "id": "doc-zorm-2021",
+      "tytul": "Zasady organizacji ratownictwa medycznego w krajowym systemie ratowniczo-gaśniczym",
+      "wersja": "Czerwiec 2021",
+      "data_wydania": "2021-06",
+      "rodzaj": "Zasady KG PSP",
+      "status_techniczny": "aktywny",
+      "aktualnosc_merytoryczna": "zweryfikowano_2026-10-25",
+      "plik": "dokumenty/kpp/zorm-2021/zasady-organizacji-ratownictwa-medycznego-2021-06.pdf",
+      "liczba_stron": 36,
+      "sha256": "3b0d723272b554aa9b4a3ee8b6213119a13e0f982fab4246f7fcf90bce2f936c",
+      "uwagi": "Pobrano ze strony KG PSP Ratownictwo medyczne — zasady, https://www.gov.pl/attachment/7eab7cb1-e1c5-49a9-84d9-6eb13eb56052. Dokument główny."
+    },
+    "doc-zorm-2021-zal2": {
+      "id": "doc-zorm-2021-zal2",
+      "tytul": "Załącznik nr 2 – Segregacja poszkodowanych w zdarzeniach masowych",
+      "wersja": "Czerwiec 2021",
+      "data_wydania": "2021-06",
+      "rodzaj": "Zasady KG PSP",
+      "status_techniczny": "aktywny",
+      "aktualnosc_merytoryczna": "zweryfikowano_2026-10-25",
+      "plik": "dokumenty/kpp/zorm-2021/zal-02-segregacja-zdarzenia-masowe.pdf",
+      "liczba_stron": 8,
+      "sha256": "6a78d15f2a176952da8c17fb519bf112f38b588473d6cce44b4d171be703aea1",
+      "uwagi": "Pobrano ze strony KG PSP Ratownictwo medyczne — zasady, https://www.gov.pl/attachment/ee0300b9-4adc-444b-b924-375572ed303e. Wersja KG PSP ma poprawiony schemat START (> 30/min); kopia na stronie KP PSP Żuromin zawiera błędny opis gałęzi oddechu."
+    },
+    "doc-zorm-2021-zal7": {
+      "id": "doc-zorm-2021-zal7",
+      "tytul": "Załącznik nr 7 – Rekomendowane zasady współpracy z jednostkami systemu PRM",
+      "wersja": "Czerwiec 2021",
+      "data_wydania": "2021-06",
+      "rodzaj": "Zasady KG PSP",
+      "status_techniczny": "aktywny",
+      "aktualnosc_merytoryczna": "zweryfikowano_2026-10-25",
+      "plik": "dokumenty/kpp/zorm-2021/zal-07-wspolpraca-z-prm.pdf",
+      "liczba_stron": 11,
+      "sha256": "d2165654d9b81bff54fa29ed4ab5604c057ffd17d03a3b5bd95ad61183aca5a3",
+      "uwagi": "Pobrano ze strony KG PSP Ratownictwo medyczne — zasady, https://www.gov.pl/attachment/5c676a2d-bf0f-4fce-88cb-0006342146af."
     }
   }
 }

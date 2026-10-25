@@ -1,6 +1,9 @@
 {
   "id": "WYP-MAS-01",
-  "prefix": "Wypadek masowy z udziałem wielu poszkodowanych i możliwym udziałem EV",
+  "wzorzec": 2,
+  "zrodlo": "KG PSP: Zasady organizacji ratownictwa medycznego w KSRG (czerwiec 2021) – zał. 2 i 7; Standardowe zasady postępowania – samochody elektryczne i hybrydowe (maj 2023)",
+  "data_aktualizacji": "2026-10-25",
+  "slowo_kluczowe": "wypadek masowy",
   "keywords": [
     "autobus i elektryk",
     "duzo poszkodowanych",
@@ -14,15 +17,12 @@
     "segregacja medyczna",
     "wypadek autobusu",
     "karambol wielu poszkodowanych",
-    "masowka"
-  ],
-  "content": "1. Ustal dowodzenie, sektory działań i kanały łączności już w pierwszej fazie akcji.\n2. Wykonaj segregację medyczną i oddziel działania ratownicze od rozpoznania technicznego pojazdów.\n3. Każdy pojazd elektryczny oznacz i przypisz do osobnego rozpoznania zagrożeń energetycznych.\n4. Wprowadź strefę dla pojazdów podejrzanych o uszkodzenie baterii trakcyjnej poza głównym obszarem medycznym.\n5. Priorytetem jest życie poszkodowanych, ale bez wchodzenia ratowników w strefę niekontrolowanego pożaru lub napięcia.\n6. Zorganizuj osobne miejsce dla dekontaminacji, chłodzenia pojazdów i czasowej izolacji uszkodzonych EV.\n7. Po opanowaniu fazy medycznej przejdź do stabilizacji, dezaktywacji i przygotowania pojazdów do holowania.",
-  "slowo_kluczowe": "wypadek masowy",
-  "tagi_wspolne": [
-    "wypadek",
-    "zdarzenie masowe",
-    "wielu poszkodowanych",
-    "segregacja medyczna"
+    "masowka",
+    "segregacja start",
+    "jumpstart",
+    "kierujący akcją medyczną",
+    "kmdr",
+    "mobilna baza sprzętu medycznego"
   ],
   "aliasy": [
     "autobus i elektryk",
@@ -39,9 +39,267 @@
     "karambol wielu poszkodowanych",
     "masowka"
   ],
+  "prefix": "Wypadek masowy (wielu poszkodowanych, możliwy udział pojazdów elektrycznych) — segregacja START, współpraca z KAM, bezpieczeństwo przy EV.",
+  "najpierw": [
+    {
+      "t": "Oceń liczbę poszkodowanych segregacją wstępną (START) już w rozpoznaniu.",
+      "zr": "RM zał. 2",
+      "str": 1
+    },
+    {
+      "t": "Przekaż SK PSP: liczbę poszkodowanych, możliwości ZRM na miejscu i — w porozumieniu z KAM — potrzebne siły, w tym mobilną bazę sprzętu medycznego.",
+      "zr": "RM zał. 2",
+      "str": 7
+    },
+    {
+      "t": "Do przybycia ZRM wskaż Koordynatora Medycznych Działań Ratowniczych (KMDR): lekarz, pielęgniarka lub ratownik medyczny.",
+      "zr": "RM zał. 7",
+      "str": 4
+    },
+    {
+      "t": "Wyznacz strefę zagrożenia; do czasu identyfikacji każdy pojazd traktuj jak elektryczny.",
+      "zr": "EV",
+      "str": 9
+    },
+    {
+      "t": "Poszkodowanych w bezpośrednim zagrożeniu życia ewakuuj natychmiast.",
+      "zr": "EV",
+      "str": 9
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "Zdarzenie masowe",
+      "wartosc": "potrzeby z segregacji przekraczają siły i środki obecne na miejscu",
+      "zr": "RM",
+      "str": 11
+    },
+    {
+      "nazwa": "I – czerwony",
+      "wartosc": "oddech > 30/min · brak tętna na t. promieniowej · nawrót kapilarny > 2 s · nie wykonuje poleceń · oddycha dopiero po udrożnieniu",
+      "zr": "RM zał. 2",
+      "str": 2
+    },
+    {
+      "nazwa": "II – żółty",
+      "wartosc": "nie chodzi, oddech < 30/min, krążenie wydolne, wykonuje polecenia",
+      "zr": "RM zał. 2",
+      "str": 2
+    },
+    {
+      "nazwa": "III – zielony",
+      "wartosc": "chodzi samodzielnie",
+      "zr": "RM zał. 2",
+      "str": 2
+    },
+    {
+      "nazwa": "IV – czarny",
+      "wartosc": "nie oddycha mimo udrożnienia dróg oddechowych",
+      "zr": "RM zał. 2",
+      "str": 2
+    },
+    {
+      "nazwa": "Dzieci 1–8 lat",
+      "wartosc": "JumpSTART; dziecko < 1 roku z obrażeniami: zielony → żółty",
+      "zr": "RM zał. 2",
+      "str": 3
+    },
+    {
+      "nazwa": "CBRNE",
+      "wartosc": "segregacja SIEVE",
+      "zr": "RM zał. 2",
+      "str": 1
+    },
+    {
+      "nazwa": "Akumulator EV",
+      "wartosc": "> 50°C lub rośnie: chłodź 10 min, przerwa 3 min, kontrola 30 min",
+      "zr": "EV",
+      "str": 10
+    }
+  ],
+  "sekcje": [
+    {
+      "etykieta": "Segregacja",
+      "punkty": [
+        {
+          "t": "Cel: uratować jak największą liczbę poszkodowanych.",
+          "zr": "RM zał. 2",
+          "str": 1
+        },
+        {
+          "t": "W segregacji wstępnej wykonuj tylko czynności ratujące życie: udrożnienie dróg oddechowych, pozycja boczna bezpieczna, zatamowanie krwotoku.",
+          "zr": "RM zał. 2",
+          "str": 1
+        },
+        {
+          "t": "Brak tętna na tętnicy promieniowej — zatamuj krwotok i oznacz jako I.",
+          "zr": "RM zał. 2",
+          "str": 2
+        },
+        {
+          "t": "U małych dzieci ocena chodzenia jest zawodna; nawrót kapilarny oceniaj na mostku lub czole.",
+          "zr": "RM zał. 2",
+          "str": 3
+        },
+        {
+          "t": "Segregację wtórną (pełne badanie, kolejność transportu) prowadzi najbardziej doświadczony personel medyczny.",
+          "zr": "RM zał. 2",
+          "str": 6
+        }
+      ]
+    },
+    {
+      "etykieta": "Współpraca z KAM",
+      "punkty": [
+        {
+          "t": "Po przybyciu pierwszego ZRM koordynację medyczną przejmuje KAM; jego dane i sposób łączności przekazuje Ci SK PSP.",
+          "zr": "RM zał. 7",
+          "str": 4
+        },
+        {
+          "t": "KAM organizuje segregację medyczną, punkt lub obszar pomocy medycznej i transport pacjentów.",
+          "zr": "RM zał. 7",
+          "str": 6
+        },
+        {
+          "t": "KMDR z ratownikami KSRG działa w strefach zagrożenia dla ZRM i przekazuje informację o wykonaniu dostępu do poszkodowanych.",
+          "zr": "RM zał. 7",
+          "str": 6
+        },
+        {
+          "t": "Wymieniaj z KAM informacje o zagrożeniach, czasie wykonania dostępu i konieczności wycofania ZRM ze strefy.",
+          "zr": "RM zał. 7",
+          "str": 5
+        }
+      ]
+    },
+    {
+      "etykieta": "Pojazdy elektryczne",
+      "punkty": [
+        {
+          "t": "Rozpoznaj napęd każdego pojazdu: zielone tablice, gniazdo ładowania, pomarańczowe przewody, brak wydechu, karta ratownicza.",
+          "zr": "EV",
+          "str": 3
+        },
+        {
+          "t": "W autobusach akumulatory są często na dachu lub z tyłu, w ciężarówkach — przy podwoziu i za kabiną.",
+          "zr": "EV",
+          "str": 3
+        },
+        {
+          "t": "Kolejno: zablokuj ruch pojazdu (kliny), wyłącz tryb „READY”, ustaw „P” lub „N”, zaciągnij hamulec postojowy, na końcu odłącz akumulator 12 V.",
+          "zr": "EV",
+          "str": 5
+        },
+        {
+          "t": "Przy dostępie do poszkodowanych nie tnij i nie rozpieraj w pobliżu przewodów i akumulatorów trakcyjnych — ich położenie sprawdź w karcie ratowniczej.",
+          "zr": "EV",
+          "str": 9
+        },
+        {
+          "t": "Mierz temperaturę akumulatora w wielu miejscach (kamera termowizyjna, pirometr).",
+          "zr": "EV",
+          "str": 9
+        },
+        {
+          "t": "Kontroluj atmosferę przy pojeździe i w nim czujnikiem wielogazowym (wodór, tlenek węgla).",
+          "zr": "EV",
+          "str": 3
+        }
+      ]
+    },
+    {
+      "etykieta": "Transport i zakończenie",
+      "punkty": [
+        {
+          "t": "Sprzętem KSRG przemieszczaj poszkodowanych tylko do miejsca, gdzie PRM może podjąć czynności.",
+          "zr": "RM zał. 7",
+          "str": 7
+        },
+        {
+          "t": "Transport sprzętem KSRG w stanie wyższej konieczności — decyduje wyłącznie KDR; powiadom SK i wpisz uzasadnienie w informacji ze zdarzenia.",
+          "zr": "RM zał. 7",
+          "str": 8
+        },
+        {
+          "t": "Sprzęt przekazany z poszkodowanym uzupełnij na miejscu „sztuka za sztukę”.",
+          "zr": "RM zał. 7",
+          "str": 8
+        },
+        {
+          "t": "Przekazując uszkodzone EV, poinformuj o dozorze, odstawieniu ≥ 5 m od pojazdów i budynków oraz o bezpiecznym holowaniu danego modelu.",
+          "zr": "EV",
+          "str": 14
+        }
+      ]
+    }
+  ],
+  "wsparcie": [
+    {
+      "t": "Potrzebujesz dodatkowych sił — przekaż to przez SDM do SK KP/KM PSP albo do dyspozytora medycznego.",
+      "zr": "RM zał. 7",
+      "str": 2
+    },
+    {
+      "t": "Mobilna baza sprzętu medycznego — wnioskuj przez SK PSP w porozumieniu z KAM.",
+      "zr": "RM zał. 2",
+      "str": 7
+    },
+    {
+      "t": "Grupa Ratownictwa Medycznego (GRMed) — na wniosek KDR przez SK KW PSP.",
+      "zr": "RM",
+      "str": 29
+    }
+  ],
+  "nie_rob": [
+    {
+      "t": "Nie dopuść do niekontrolowanej ewakuacji poszkodowanych — nie przenoś katastrofy do szpitala.",
+      "zr": "RM zał. 2",
+      "str": 6
+    },
+    {
+      "t": "Nie dotykaj, nie demontuj i nie przecinaj elementów wysokiego napięcia ani akumulatora.",
+      "zr": "EV",
+      "str": 4
+    },
+    {
+      "t": "Cisza nie oznacza wyłączonego pojazdu elektrycznego — nie stój przed ani za nim, zanim zablokujesz ruch.",
+      "zr": "EV",
+      "str": 5
+    }
+  ],
+  "tagi_wspolne": [
+    "wypadek",
+    "zdarzenie masowe",
+    "wielu poszkodowanych",
+    "segregacja medyczna"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-zorm-2021-zal2",
+      "strona": 1,
+      "sekcja": "RM zał. 2 — Segregacja poszkodowanych w zdarzeniach masowych (s. 1–7)"
+    },
+    {
+      "dokument_id": "doc-zorm-2021-zal7",
+      "strona": 4,
+      "sekcja": "RM zał. 7 — Współpraca z PRM: KMDR, KAM, transport (s. 2–8)"
+    },
+    {
+      "dokument_id": "doc-zorm-2021",
+      "strona": 11,
+      "sekcja": "RM — def. zdarzenia masowego (s. 11), GRMed (s. 29)"
+    },
+    {
+      "dokument_id": "doc-ev-szp-2023",
+      "strona": 3,
+      "sekcja": "EV — rozpoznanie, dezaktywacja, Z1, przekazanie (s. 3–14)"
+    }
+  ],
+  "data_przegladu": "2026-10-25",
   "pelna_procedura": {
-    "tytul": "Wypadek masowy z udziałem wielu poszkodowanych i możliwym udziałem EV",
-    "plik": "",
-    "strona": null
+    "tytul": "Zasady organizacji ratownictwa medycznego w KSRG — zał. 2 Segregacja poszkodowanych w zdarzeniach masowych",
+    "plik": "dokumenty/kpp/zorm-2021/zal-02-segregacja-zdarzenia-masowe.pdf",
+    "strona": 1
   }
 }
