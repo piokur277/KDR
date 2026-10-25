@@ -112,8 +112,8 @@
       },
       {
         "dokument_id": "doc-acetylen-szp-2020",
-        "url": "https://www.gov.pl/attachment/d56552c2-b754-4630-a566-759d0884faca",
-        "strona": "zasady-organizacji-rat-chem"
+        "url": "https://www.gov.pl/attachment/3be2a59d-654b-4ae0-9ab1-735f17028dd0",
+        "strona": "zasady-organizacji-rat-tech"
       },
       {
         "dokument_id": "doc-ev-szp-2023",
@@ -194,6 +194,11 @@
         "dokument_id": "doc-zlota-alga-w4-zal3",
         "url": "https://www.gov.pl/attachment/59926cee-7225-4d9f-918e-3787444fc08e",
         "strona": "odra-opis-procedury"
+      },
+      {
+        "dokument_id": "doc-hpai-gis-2025",
+        "url": "https://www.gov.pl/attachment/214a6768-a86a-4e76-80ad-24bfef54e207",
+        "strona": "gis"
       }
     ]
   }

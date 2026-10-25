@@ -1978,9 +1978,17 @@
     "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
+        "dokument_id": "doc-hpai-gis-2025",
+        "strona": 1,
+        "sekcja": "GIS 2025 — ryzyko, osoby narażone, higiena (s. 1–2), szczepienia (s. 5)",
+        "tytul": "Wspólne zalecenia GIS, GLW, IMP i CIOP-PIB na temat ochrony osób zawodowo narażonych na kontakt z wysoce zjadliwymi wirusami grypy ptaków",
+        "plik": "dokumenty/biologiczne/grypa-ptakow-wspolne-zalecenia-gis-glw-imp-ciop-2025-04-15.pdf",
+        "typ": "pdf"
+      },
+      {
         "dokument_id": "doc-ptasia-grypa-h5n8",
         "strona": 2,
-        "sekcja": "Informacje i zasady bezpiecznej pracy",
+        "sekcja": "GIS MSWiA 2017 — zasady PSP, BIOHAZARD (s. 2–3)",
         "tytul": "Wytyczne GIS MSWiA w sprawie zjadliwej grypy ptaków typu A H5N8",
         "plik": "dokumenty/biologiczne/ptasia-grypa-h5n8-wytyczne-2017.pdf",
         "typ": "pdf"
@@ -1995,9 +2003,17 @@
       {
         "dokument_id": "doc-ptasia-grypa-h5n8",
         "strona": 4,
-        "sekcja": "Nadzór epidemiologiczny po narażeniu",
+        "sekcja": "GIS MSWiA 2017 — nadzór epidemiologiczny (s. 4)",
         "tytul": "Wytyczne GIS MSWiA w sprawie zjadliwej grypy ptaków typu A H5N8",
         "plik": "dokumenty/biologiczne/ptasia-grypa-h5n8-wytyczne-2017.pdf",
+        "typ": "pdf"
+      },
+      {
+        "dokument_id": "doc-hpai-gis-2025",
+        "strona": 5,
+        "sekcja": "GIS 2025 — obserwacja objawów (s. 5)",
+        "tytul": "Wspólne zalecenia GIS, GLW, IMP i CIOP-PIB na temat ochrony osób zawodowo narażonych na kontakt z wysoce zjadliwymi wirusami grypy ptaków",
+        "plik": "dokumenty/biologiczne/grypa-ptakow-wspolne-zalecenia-gis-glw-imp-ciop-2025-04-15.pdf",
         "typ": "pdf"
       }
     ]
@@ -2008,9 +2024,17 @@
     "miesiac_akademii": null,
     "dokumenty_zrodlowe": [
       {
+        "dokument_id": "doc-hpai-gis-2025",
+        "strona": 3,
+        "sekcja": "GIS 2025 — środki ochrony (s. 3–4), zdejmowanie i postępowanie (s. 5)",
+        "tytul": "Wspólne zalecenia GIS, GLW, IMP i CIOP-PIB na temat ochrony osób zawodowo narażonych na kontakt z wysoce zjadliwymi wirusami grypy ptaków",
+        "plik": "dokumenty/biologiczne/grypa-ptakow-wspolne-zalecenia-gis-glw-imp-ciop-2025-04-15.pdf",
+        "typ": "pdf"
+      },
+      {
         "dokument_id": "doc-ptasia-grypa-h5n8",
         "strona": 3,
-        "sekcja": "Środki ochrony indywidualnej i dekontaminacja",
+        "sekcja": "GIS MSWiA 2017 — dekontaminacja i środki dezynfekcyjne (s. 3–4)",
         "tytul": "Wytyczne GIS MSWiA w sprawie zjadliwej grypy ptaków typu A H5N8",
         "plik": "dokumenty/biologiczne/ptasia-grypa-h5n8-wytyczne-2017.pdf",
         "typ": "pdf"
