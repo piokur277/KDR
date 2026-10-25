@@ -205,8 +205,8 @@
       "status_techniczny": "aktywny",
       "aktualnosc_merytoryczna": "wedlug_przekazanego_pliku",
       "liczba_stron": 11,
-      "sha256": "aad779d8f78a9799423a8963ca14983af30c1533cdc22c49b1b0fb3e3b8e5fb3",
-      "uwagi": "2026-10-25: plik zastąpiony oryginałem z gov.pl (treść i wygląd stron identyczne, różniły się tylko metadane PDF)."
+      "sha256": "e7f382fd97ab9a2f4fb3a1bdf3a1b9f55401a28fbdc1b410809fd85ed2bc6096",
+      "uwagi": "Plik identyczny z kopią na stronie KG PSP Ratownictwo techniczne (https://www.gov.pl/attachment/3be2a59d-654b-4ae0-9ab1-735f17028dd0). Na stronie Ratownictwo chemiczne jest druga kopia o tej samej treści, różniąca się metadanymi PDF."
     },
     "doc-r2-radiologia": {
       "tytul": "Załącznik R.2 - Ochrona radiologiczna oraz działania podczas zdarzeń radiacyjnych - zakres podstawowy",
