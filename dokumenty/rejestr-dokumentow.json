@@ -1108,6 +1108,19 @@
       "liczba_stron": 77,
       "sha256": "3bad1e97cc959f462bfbaff297ce9d513087b4dcfb76c8492fff884762919cb2",
       "uwagi": "Pobrano z gov.pl (KG PSP), https://www.gov.pl/attachment/4ab892ae-f760-4bfc-af6c-b118fa9843fd."
+    },
+    "doc-rozp-ksrg-2026": {
+      "id": "doc-rozp-ksrg-2026",
+      "tytul": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 24 czerwca 2026 r. w sprawie szczegółowej organizacji krajowego systemu ratowniczo-gaśniczego",
+      "wersja": "Dz.U. 2026 poz. 872 — tekst ogłoszony; obowiązuje od 01.07.2026 (uchyliło Dz.U. 2021 poz. 1737)",
+      "data_wydania": "2026-06-24",
+      "rodzaj": "Rozporządzenie MSWiA",
+      "plik": "dokumenty/organizacja/rozporzadzenie-mswia-ksrg-2026-06-24.pdf",
+      "status_techniczny": "aktywny",
+      "aktualnosc_merytoryczna": "zweryfikowano_2026-10-27",
+      "liczba_stron": 68,
+      "sha256": "6dcc8fcd9f474ee7ba44bf40ff6d379b732bd79c619625d5154c04606733e687",
+      "uwagi": "Pobrano z API Sejmu (ELI DU/2026/872), https://api.sejm.gov.pl/eli/acts/DU/2026/872/text.pdf. Status aktu: obowiązujący. § 57: dokumentacja z 2021 r. zachowuje ważność do czasu aktualizacji."
     }
   }
 }

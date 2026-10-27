@@ -133,6 +133,14 @@
       "dotyczy_kart": [
         "KARTA-WYS-"
       ]
+    },
+    {
+      "id": "eli-rozp-ksrg-2026",
+      "url": "https://api.sejm.gov.pl/eli/acts/DU/2026/872",
+      "opis": "ISAP/ELI — status rozporządzenia MSWiA w sprawie KSRG (zmiany, uchylenie)",
+      "dotyczy_kart": [
+        "KARTA-ORG-ZASADY-KIEROWANIA-"
+      ]
     }
   ],
   "pliki_oficjalne": {
@@ -277,6 +285,11 @@
         "dokument_id": "doc-rwys-2024",
         "url": "https://www.gov.pl/attachment/4ab892ae-f760-4bfc-af6c-b118fa9843fd",
         "strona": "zasady-organizacji-rat-wys"
+      },
+      {
+        "dokument_id": "doc-rozp-ksrg-2026",
+        "url": "https://api.sejm.gov.pl/eli/acts/DU/2026/872/text.pdf",
+        "strona": "eli-rozp-ksrg-2026"
       }
     ]
   }
