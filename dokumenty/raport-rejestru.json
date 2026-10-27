@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-27T18:43:32.388Z",
+  "generated_at": "2026-10-27T18:49:51.079Z",
   "registry_version": "2.7",
-  "document_count": 87,
-  "active_document_count": 87,
-  "linked_document_count": 87,
+  "document_count": 86,
+  "active_document_count": 86,
+  "linked_document_count": 86,
   "unlinked_documents": [],
   "documents": [
     {
@@ -1241,20 +1241,6 @@
       ]
     },
     {
-      "id": "doc-bsp-pochodzenia-militarnego",
-      "tytul": "Wytyczne podczas zdarzeń z bezzałogowymi statkami powietrznymi pochodzenia militarnego",
-      "status_techniczny": "aktywny",
-      "liczba_stron": 2,
-      "liczba_powiazan": 1,
-      "powiazania": [
-        {
-          "procedure_id": "KARTA-LOT-BSP-POCHODZENIA-MILITARNEGO",
-          "strona": 1,
-          "sekcja": "Wytyczne podczas zdarzeń z BSP pochodzenia militarnego - strony 1-2"
-        }
-      ]
-    },
-    {
       "id": "doc-msa-altair-4x-manual",
       "tytul": "Instrukcja obsługi ALTAIR 4X - miernik wielogazowy",
       "status_techniczny": "aktywny",
@@ -1279,48 +1265,6 @@
           "procedure_id": "KARTA-CHEM-B22-PODEJRZANA-PRZESYLKA-CBR",
           "strona": 1,
           "sekcja": "Checklista - zadania dla pierwszych PSP i rozpoznanie przesyłki"
-        }
-      ]
-    },
-    {
-      "id": "doc-chem-eko-zasady-2025-online",
-      "tytul": "Zasady organizacji ratownictwa chemicznego i ekologicznego w krajowym systemie ratowniczo-gaśniczym",
-      "status_techniczny": "aktywny",
-      "liczba_stron": 43,
-      "liczba_powiazan": 1,
-      "powiazania": [
-        {
-          "procedure_id": "KARTA-CHEM-ZAKRES-PODSTAWOWY-KDR",
-          "strona": 9,
-          "sekcja": "Rozdziały 2, 5 i 6 - zakres podstawowy, organizacja działań oraz dekontaminacja (styczeń 2025)"
-        }
-      ]
-    },
-    {
-      "id": "doc-chem-eko-karta-graficzna-2025-online",
-      "tytul": "Załącznik nr 11 - Karta graficzna SGRChem",
-      "status_techniczny": "aktywny",
-      "liczba_stron": 4,
-      "liczba_powiazan": 1,
-      "powiazania": [
-        {
-          "procedure_id": "KARTA-CHEM-ZAKRES-PODSTAWOWY-KDR",
-          "strona": 2,
-          "sekcja": "Załącznik nr 11 - karta graficzna, zakres podstawowy"
-        }
-      ]
-    },
-    {
-      "id": "doc-chem-eko-material-szkoleniowy-user",
-      "tytul": "Ratownictwo chemiczno-ekologiczne - materiał szkoleniowy pomocniczy",
-      "status_techniczny": "aktywny",
-      "liczba_stron": 4,
-      "liczba_powiazan": 1,
-      "powiazania": [
-        {
-          "procedure_id": "KARTA-CHEM-ZAKRES-PODSTAWOWY-KDR",
-          "strona": 4,
-          "sekcja": "Materiał szkoleniowy pomocniczy - starsze opracowanie; nie stanowi podstawy wartości liczbowych karty 2025"
         }
       ]
     },
@@ -1361,22 +1305,8 @@
       "powiazania": [
         {
           "procedure_id": "KARTA-EL-PSE-LINIE-STACJE-NN",
-          "strona": 18,
-          "sekcja": "Źródło podstawowe: zagrożenia, organizacja strefy działań, warunki bezpieczeństwa, kontakt CN/RCN"
-        }
-      ]
-    },
-    {
-      "id": "doc-zagrozenia-elektryczne-krakow-2014",
-      "tytul": "Zagrożenia elektryczne - Kraków 2014",
-      "status_techniczny": "aktywny",
-      "liczba_stron": 21,
-      "liczba_powiazan": 1,
-      "powiazania": [
-        {
-          "procedure_id": "KARTA-EL-PSE-LINIE-STACJE-NN",
-          "strona": 10,
-          "sekcja": "Materiał pomocniczy: napięcie dotykowe i krokowe, skutki porażenia, łuk elektryczny"
+          "strona": 20,
+          "sekcja": "Oznakowanie (s. 8–9), zagrożenia (s. 10–17), organizacja strefy działań i warunki bezpieczeństwa (s. 18–23), kontakty CN/RCN (s. 28–30)"
         }
       ]
     },
@@ -1726,6 +1656,62 @@
           "procedure_id": "KARTA-ORG-ZASADY-KIEROWANIA-DZIALANIEM-RATOWNICZYM",
           "strona": 12,
           "sekcja": "Rozdział 6 — Kierowanie działaniem ratowniczym (§ 21–30, s. 12–16); § 2 definicje (s. 2); § 18–19 (s. 11); § 57 (s. 24)"
+        }
+      ]
+    },
+    {
+      "id": "doc-bsp-militarny-v2-2026",
+      "tytul": "Wytyczne podczas zdarzeń z bezzałogowymi statkami powietrznymi pochodzenia militarnego (Załącznik nr 1)",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 3,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-LOT-BSP-POCHODZENIA-MILITARNEGO",
+          "strona": 1,
+          "sekcja": "Wytyczne, wersja 2 (7.09.2026), pkt 1–8 (s. 1–3)"
+        }
+      ]
+    },
+    {
+      "id": "doc-bsp-prezentacja-2026",
+      "tytul": "Bezzałogowe statki powietrzne (BSP) – zagrożenia (prezentacja)",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 10,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-LOT-BSP-POCHODZENIA-MILITARNEGO",
+          "strona": 1,
+          "sekcja": "Prezentacja „BSP – zagrożenia” (s. 1–10)"
+        }
+      ]
+    },
+    {
+      "id": "doc-chem-eko-2025",
+      "tytul": "Zasady organizacji ratownictwa chemicznego i ekologicznego w krajowym systemie ratowniczo-gaśniczym",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 43,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-CHEM-ZAKRES-PODSTAWOWY-KDR",
+          "strona": 9,
+          "sekcja": "Rozdz. 1 definicje (s. 7), rozdz. 2 zakres podstawowy (s. 9–10), rozdz. 5 zasady bezpieczeństwa i organizacja (s. 29–32), rozdz. 6 dekontaminacja (s. 36–37)"
+        }
+      ]
+    },
+    {
+      "id": "doc-chem-eko-2025-zal11",
+      "tytul": "Załącznik nr 11 — Karta graficzna SGRChem-Eko",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 4,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-CHEM-ZAKRES-PODSTAWOWY-KDR",
+          "strona": 1,
+          "sekcja": "Załącznik nr 11 — karta graficzna: poziomy gotowości SGRChem-Eko (s. 1–3)"
         }
       ]
     }

@@ -1,8 +1,10 @@
 {
   "id": "KARTA-CHEM-ZAKRES-PODSTAWOWY-KDR",
+  "wzorzec": 2,
   "kategoria": "dzialania",
-  "zrodlo": "KG PSP: Zasady organizacji ratownictwa chemicznego i ekologicznego w KSRG, Warszawa, styczeń 2025 r.; Załącznik nr 11 - Karta graficzna SGRChem; ujednolicony program szkolenia doskonalącego z ratownictwa chemicznego i ekologicznego w zakresie podstawowym.",
-  "data_aktualizacji": "2025-01",
+  "grupa": "cbrn",
+  "zrodlo": "KG PSP: Zasady organizacji ratownictwa chemicznego i ekologicznego w KSRG, Warszawa, styczeń 2025 r., wraz z Załącznikiem nr 11 — Karta graficzna SGRChem-Eko.",
+  "data_aktualizacji": "2026-10-27",
   "slowo_kluczowe": "ratownictwo chemiczne zakres podstawowy",
   "keywords": [
     "zdarzenie chemiczne",
@@ -29,18 +31,6 @@
     "materiał niebezpieczny",
     "hazmat"
   ],
-  "prefix": "Ratownictwo chemiczne i ekologiczne - pierwsze działania KDR w zakresie podstawowym (KSRG 2025).",
-  "content": "1. KOD / NAZWA: ratownictwo chemiczne i ekologiczne - pierwsze działania KDR w zakresie podstawowym.\n2. PRIORYTET I GRANICE DZIAŁAŃ: priorytetem jest ratowanie życia i zdrowia. Zakres wykonywanych czynności zawsze dostosuj do wyszkolenia, kwalifikacji ratowników oraz posiadanego sprzętu. Nie podejmuj czynności specjalistycznych przekraczających realne możliwości zastępów.\n3. ROZPOZNANIE: zbieraj i analizuj informacje już w czasie dojazdu i po przybyciu. Ustal okoliczności zdarzenia, rodzaj środka transportu i jego oznakowanie ADR/RID, numery UN, dokumenty przewozowe, oznakowanie opakowań i zbiorników wg ADR/CLP, oznakowanie butli i rurociągów oraz objawy u osób narażonych. Nie opieraj decyzji na jednej przesłance; potwierdzaj rozpoznanie dostępnymi źródłami i pomiarami.\n4. STREFY: wyznacz i zabezpiecz strefę zagrożenia. Strefa I (gorąca) obejmuje m.in. obszar wstępnie nierozpoznany, zagrożony wybuchem, odłamkowaniem lub nagłym pożarem, obszar z niebezpiecznym stężeniem tlenu albo toksycznych gazów, par lub aerozoli, a także inne obszary wymagające dodatkowych ochron. Strefa II (chłodna) znajduje się poza strefą I i obejmuje również zaplecze logistyczne. Miejsce dekontaminacji organizuj na granicy stref I i II.\n5. MINIMALNY ZAKRES PODSTAWOWY: rozpoznaj i zabezpiecz miejsce zdarzenia; ewakuuj zagrożonych ludzi i zwierzęta poza strefę; ostrzegaj i informuj o zasadach zachowania; prowadź pomiary dostępnymi przyrządami; ograniczaj skutki emisji materiałów niebezpiecznych, w tym z użyciem kurtyn wodnych, oraz skutki wycieków substancji ropopochodnych; prowadź dekontaminację wstępną i KPP; współdziałaj z innymi podmiotami i wspieraj SGRChem.\n6. DEKONTAMINACJA WSTĘPNA: rozpocznij ją możliwie szybko, na granicy stref. Wobec osoby skażonej obejmuje ona ograniczenie skażenia odsłoniętych części ciała, usunięcie i zabezpieczenie skażonej odzieży oraz zastosowanie ubioru zastępczego. Kolejność działań wobec poszkodowanych: wyznaczenie strefy, ewakuacja ze strefy I do miejsca dekontaminacji, segregacja pierwotna, dekontaminacja, KPP i przekazanie zespołom medycznym.\n7. SGRChem I ORGANIZACJA: jeżeli zakres zdarzenia wymaga wsparcia specjalistycznego, zapewnij współdziałanie z SGRChem. Po jej przybyciu przekaż ocenę sytuacji i posiadaną dokumentację, zorganizuj przyjęcie sił i środków, łączność oraz zaplecze logistyczne zgodnie z organizacją działań przyjętą przez KDR.\n8. ZAKOŃCZENIE I PRZEKAZANIE: decyzję o zakończeniu działań podejmuje KDR po likwidacji bezpośredniego zagrożenia. Teren, obiekt lub mienie przekaż właściwemu właścicielowi, zarządcy, użytkownikowi albo uprawnionemu organowi zgodnie z obowiązującą dokumentacją KSRG.\n9. POWIĄZANE KARTY: jeżeli rozpoznasz konkretną substancję lub scenariusz, przejdź do karty szczegółowej, np. NH3/amoniak, HCl/chlorowodór, LNG, acetylen, MSA Altair 4X, podejrzana przesyłka albo procedury radiacyjne R1/R2.\n10. UWAGA: starszy materiał szkoleniowy dołączony do tej karty ma wyłącznie charakter pomocniczy. Wartości liczbowe stref, NDS/NDSCh i inne dane z tego materiału nie są podstawą niniejszej karty; pierwszeństwo mają aktualne Zasady KG PSP z 2025 r. oraz bieżące dane właściwe dla konkretnej substancji i zdarzenia.",
-  "tagi_wspolne": [
-    "ratownictwo chemiczne",
-    "ratownictwo ekologiczne",
-    "zakres podstawowy",
-    "zdarzenie chemiczne",
-    "substancja niebezpieczna",
-    "strefa zagrożenia",
-    "dekontaminacja wstępna",
-    "SGRChem"
-  ],
   "aliasy": [
     "chemia",
     "zdarzenie chemiczne",
@@ -63,21 +53,237 @@
     "sgrchem eko",
     "hazmat"
   ],
+  "prefix": "Ratownictwo chemiczne i ekologiczne — pierwsze działania KDR w zakresie podstawowym: dojazd, odległości, strefy, dekontaminacja wstępna, SGRChem (Zasady KG PSP 2025).",
+  "najpierw": [
+    {
+      "t": "Dojeżdżaj i ustawiaj pojazdy w miarę możliwości z wiatrem i w górnych partiach terenu, z możliwością wycofania sił.",
+      "zr": "RChE 2025",
+      "str": 29
+    },
+    {
+      "t": "Ratowanie zagrożonych ludzi ma absolutne pierwszeństwo.",
+      "zr": "RChE 2025",
+      "str": 29
+    },
+    {
+      "t": "Rozpoznaj materiał i miejsce zdarzenia; wyznacz strefy I i II dostępnymi przyrządami detekcyjnymi.",
+      "zr": "RChE 2025",
+      "str": 29
+    },
+    {
+      "t": "Zakres czynności dostosuj do kwalifikacji, wyszkolenia i wyposażenia ratowników.",
+      "zr": "RChE 2025",
+      "str": 9
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "Odległość — zagrożenie wybuchem",
+      "wartosc": "min. 150 m od miejsca zdarzenia",
+      "zr": "RChE 2025",
+      "str": 29
+    },
+    {
+      "nazwa": "Odległość — promieniowanie jonizujące",
+      "wartosc": "nie mniej niż wstępny promień strefy I z załączników R",
+      "zr": "RChE 2025",
+      "str": 29
+    },
+    {
+      "nazwa": "Odległość — pozostałe materiały",
+      "wartosc": "min. 50 m; uwzględnij pogodę, teren, infrastrukturę i dynamikę zdarzenia",
+      "zr": "RChE 2025",
+      "str": 29
+    },
+    {
+      "nazwa": "Strefa I (gorąca)",
+      "wartosc": "obszar nierozpoznany, wybuch/odłamki/nagły pożar, za mało lub za dużo tlenu, toksyczne gazy, pary, aerozole, patogeny, moc dawki > 100 µSv/h lub skażenie",
+      "zr": "RChE 2025",
+      "str": 7
+    },
+    {
+      "nazwa": "Strefa II (chłodna)",
+      "wartosc": "działania służb poza strefą I i zaplecze logistyczne; dekontaminacja na granicy stref I i II",
+      "zr": "RChE 2025",
+      "str": 7
+    },
+    {
+      "nazwa": "Skład w strefie I",
+      "wartosc": "min. 2 ratowników z asekuracją; 1 dopuszczalny przy zagrożeniu wybuchem lub skażeniem promieniotwórczym",
+      "zr": "RChE 2025",
+      "str": 30
+    }
+  ],
+  "sekcje": [
+    {
+      "etykieta": "Minimalny zakres podstawowy",
+      "punkty": [
+        {
+          "t": "Rozpoznanie i zabezpieczenie miejsca zdarzenia, wyznaczenie stref; ewakuacja ludzi i zwierząt poza strefę.",
+          "zr": "RChE 2025",
+          "str": 9
+        },
+        {
+          "t": "Ostrzeganie, alarmowanie i informowanie ludzi o zasadach zachowania.",
+          "zr": "RChE 2025",
+          "str": 9
+        },
+        {
+          "t": "Pomiary przyrządami, w tym moc dawki promieniowania i szacowanie dawki efektywnej.",
+          "zr": "RChE 2025",
+          "str": 9
+        },
+        {
+          "t": "Ograniczanie emisji (kurtyny wodne) i skutków wycieku substancji ropopochodnych.",
+          "zr": "RChE 2025",
+          "str": 10
+        },
+        {
+          "t": "Dekontaminacja wstępna i KPP; współdziałanie i czynności pomocnicze, w tym wsparcie SGRChem.",
+          "zr": "RChE 2025",
+          "str": 10
+        }
+      ]
+    },
+    {
+      "etykieta": "Bezpieczeństwo w strefie I",
+      "punkty": [
+        {
+          "t": "Sprzęt ochrony dobierz do atmosfery wybuchowej, stężenia tlenu i toksyn, mocy dawki, pola elektromagnetycznego, właściwości materiału i odporności chemicznej.",
+          "zr": "RChE 2025",
+          "str": 29
+        },
+        {
+          "t": "Asekuracja gotowa do natychmiastowej ewakuacji, stała łączność, kontrola czasu pracy w strefie I.",
+          "zr": "RChE 2025",
+          "str": 30
+        },
+        {
+          "t": "„Reguła 10 minut”: zdarzenie może nagle zmienić charakter (pożar, wybuch, reakcja) — przewiduj rozwój z wyprzedzeniem.",
+          "zr": "RChE 2025",
+          "str": 30
+        },
+        {
+          "t": "Przy wysokim ryzyku — manipulacja zdalna, tarcze balistyczne, drony.",
+          "zr": "RChE 2025",
+          "str": 30
+        },
+        {
+          "t": "Unikaj zbędnej i wtórnej kontaminacji; zapewnij zabezpieczenie medyczne.",
+          "zr": "RChE 2025",
+          "str": 30
+        }
+      ]
+    },
+    {
+      "etykieta": "Dekontaminacja wstępna",
+      "punkty": [
+        {
+          "t": "Kluczowy jest czas — prowadzą ją pierwsze zastępy, na granicy strefy, dostępnym sprzętem.",
+          "zr": "RChE 2025",
+          "str": 37
+        },
+        {
+          "t": "Wobec osoby: umycie lub przetarcie odsłoniętych części ciała, usunięcie i zabezpieczenie odzieży, ubiór zastępczy.",
+          "zr": "RChE 2025",
+          "str": 7
+        },
+        {
+          "t": "Kolejność: strefa → ewakuacja ze strefy I do miejsca dekontaminacji → segregacja pierwotna → dekontaminacja → KPP → przekazanie ZRM.",
+          "zr": "RChE 2025",
+          "str": 37
+        },
+        {
+          "t": "Dekontaminacja właściwa nie jest czynnością ratowniczą — po przekazaniu poszkodowanych organizuje ją ochrona zdrowia.",
+          "zr": "RChE 2025",
+          "str": 37
+        }
+      ]
+    },
+    {
+      "etykieta": "Współpraca z SGRChem",
+      "punkty": [
+        {
+          "t": "Potrzebę SGRChem zgłasza KDR; SK dysponuje grupę po konsultacji z jej dowódcą.",
+          "zr": "RChE 2025",
+          "str": 31
+        },
+        {
+          "t": "KDR: punkt przyjęcia sił, przekazanie oceny sytuacji i dokumentacji dowódcy działań SGRChem, odcinki bojowe, ewentualnie sztab.",
+          "zr": "RChE 2025",
+          "str": 31
+        },
+        {
+          "t": "Odcinkiem ratownictwa specjalistycznego dowodzi dowódca działań SGRChem.",
+          "zr": "RChE 2025",
+          "str": 31
+        },
+        {
+          "t": "Łączność: 2 kanały KRG — pierwszy dla strefy I i asekuracji, drugi dla strefy II.",
+          "zr": "RChE 2025",
+          "str": 32
+        },
+        {
+          "t": "KDR rozwija zaplecze logistyczne, zapewnia neutralizatory i sorbenty.",
+          "zr": "RChE 2025",
+          "str": 32
+        },
+        {
+          "t": "Poziomy SGRChem: A zabezpieczenie chemiczne (min. 8), B rozpoznanie (4), C rozpoznanie specjalne, D dekontaminacja, L laboratorium.",
+          "zr": "Zał. 11 RChE",
+          "str": 1
+        }
+      ]
+    },
+    {
+      "etykieta": "Zakończenie",
+      "punkty": [
+        {
+          "t": "O zakończeniu decyduje KDR; SGRChem przekazuje mu „Informację o działaniach ratowniczych”.",
+          "zr": "RChE 2025",
+          "str": 32
+        },
+        {
+          "t": "Teren przekaż właścicielowi, zarządcy, użytkownikowi, organowi, Policji lub straży gminnej — „Potwierdzeniem przekazania”.",
+          "zr": "RChE 2025",
+          "str": 32
+        }
+      ]
+    }
+  ],
+  "nie_rob": [
+    {
+      "t": "Czynności specjalistycznych w strefie I nie prowadzą ratownicy bez odpowiedniego przeszkolenia.",
+      "zr": "RChE 2025",
+      "str": 30
+    },
+    {
+      "t": "Nie wprowadzaj do strefy I nadmiernej liczby ratowników.",
+      "zr": "RChE 2025",
+      "str": 30
+    }
+  ],
+  "tagi_wspolne": [
+    "ratownictwo chemiczne",
+    "ratownictwo ekologiczne",
+    "zakres podstawowy",
+    "zdarzenie chemiczne",
+    "substancja niebezpieczna",
+    "strefa zagrożenia",
+    "dekontaminacja wstępna",
+    "SGRChem"
+  ],
   "dokumenty_zrodlowe": [
     {
-      "dokument_id": "doc-chem-eko-zasady-2025-online",
+      "dokument_id": "doc-chem-eko-2025",
       "strona": 9,
-      "sekcja": "Rozdziały 2, 5 i 6 - zakres podstawowy, organizacja działań oraz dekontaminacja (styczeń 2025)"
+      "sekcja": "Rozdz. 1 definicje (s. 7), rozdz. 2 zakres podstawowy (s. 9–10), rozdz. 5 zasady bezpieczeństwa i organizacja (s. 29–32), rozdz. 6 dekontaminacja (s. 36–37)"
     },
     {
-      "dokument_id": "doc-chem-eko-karta-graficzna-2025-online",
-      "strona": 2,
-      "sekcja": "Załącznik nr 11 - karta graficzna, zakres podstawowy"
-    },
-    {
-      "dokument_id": "doc-chem-eko-material-szkoleniowy-user",
-      "strona": 4,
-      "sekcja": "Materiał szkoleniowy pomocniczy - starsze opracowanie; nie stanowi podstawy wartości liczbowych karty 2025"
+      "dokument_id": "doc-chem-eko-2025-zal11",
+      "strona": 1,
+      "sekcja": "Załącznik nr 11 — karta graficzna: poziomy gotowości SGRChem-Eko (s. 1–3)"
     }
-  ]
+  ],
+  "data_przegladu": "2026-10-27"
 }

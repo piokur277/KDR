@@ -719,19 +719,6 @@
       "sha256": "5385c303c3525ea7b5b44e25c8d46e378947a50ff97ef6533f89849dc2b43075",
       "uwagi": "Wyodrębniono bez zmiany treści ze strony 21 dokumentu: Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy - Załącznik nr 1."
     },
-    "doc-bsp-pochodzenia-militarnego": {
-      "tytul": "Wytyczne podczas zdarzeń z bezzałogowymi statkami powietrznymi pochodzenia militarnego",
-      "wersja": "Załącznik nr 1 - brak daty na przekazanych stronach",
-      "data_wydania": null,
-      "rodzaj": "Wytyczne dotyczące BSP pochodzenia militarnego",
-      "plik": "dokumenty/lotnicze/wytyczne-bsp-pochodzenia-militarnego.pdf",
-      "id": "doc-bsp-pochodzenia-militarnego",
-      "status_techniczny": "aktywny",
-      "aktualnosc_merytoryczna": "do_potwierdzenia_brak_daty_i_organu_na_przekazanych_stronach",
-      "liczba_stron": 2,
-      "sha256": "4f42a41aaa2d685b52ca368ee95f1e344a200b6b1881f59532e9f2facf241f29",
-      "uwagi": "PDF utworzono z dwóch fotografii przekazanych przez użytkownika. Treść stron nie została zmieniona. Na przekazanych stronach nie widać daty dokumentu ani oznaczenia organu wydającego."
-    },
     "doc-msa-altair-4x-manual": {
       "tytul": "Instrukcja obsługi ALTAIR 4X - miernik wielogazowy",
       "wersja": "Nr zamówieniowy 10106503/03",
@@ -757,45 +744,6 @@
       "liczba_stron": 2,
       "sha256": "6fd2362d4da8dd8143b7a8b95487cfcf2057410ce96b907924ff4cb4618d14eb",
       "uwagi": "Dwustronicowa checklista do działań przy niebezpiecznej/podejrzanej przesyłce. Strona 1 zawiera zadania dla pierwszych zastępów PSP, a strona 2 checklistę rozmowy, opisu przesyłki i poleceń dla osób mających kontakt z przesyłką. Dokument dodano bez zmiany treści."
-    },
-    "doc-chem-eko-zasady-2025-online": {
-      "tytul": "Zasady organizacji ratownictwa chemicznego i ekologicznego w krajowym systemie ratowniczo-gaśniczym",
-      "wersja": "Styczeń 2025",
-      "data_wydania": "2025-01",
-      "rodzaj": "Oficjalne Zasady KG PSP",
-      "plik": "https://www.gov.pl/attachment/89034c06-f751-4b01-9f8c-683b80e34eb5",
-      "typ": "url",
-      "id": "doc-chem-eko-zasady-2025-online",
-      "status_techniczny": "aktywny",
-      "aktualnosc_merytoryczna": "zweryfikowano_2026-08-22",
-      "liczba_stron": 43,
-      "uwagi": "Oficjalny dokument KG PSP. Główna podstawa nowej karty ratownictwa chemicznego i ekologicznego w zakresie podstawowym."
-    },
-    "doc-chem-eko-karta-graficzna-2025-online": {
-      "tytul": "Załącznik nr 11 - Karta graficzna SGRChem",
-      "wersja": "Stan na styczeń 2025",
-      "data_wydania": "2025-01",
-      "rodzaj": "Oficjalna karta graficzna KG PSP",
-      "plik": "https://www.gov.pl/attachment/01a80975-659b-4bcf-88d4-42c11189d7a1",
-      "typ": "url",
-      "id": "doc-chem-eko-karta-graficzna-2025-online",
-      "status_techniczny": "aktywny",
-      "aktualnosc_merytoryczna": "zweryfikowano_2026-08-22",
-      "liczba_stron": 4,
-      "uwagi": "Oficjalny skrót zakresu podstawowego oraz poziomów gotowości SGRChem-Eko."
-    },
-    "doc-chem-eko-material-szkoleniowy-user": {
-      "tytul": "Ratownictwo chemiczno-ekologiczne - materiał szkoleniowy pomocniczy",
-      "wersja": "Materiał przekazany przez użytkownika; data nieustalona",
-      "data_wydania": null,
-      "rodzaj": "Materiał szkoleniowy pomocniczy",
-      "plik": "dokumenty/chem/zasady-chemia-material-szkoleniowy.pdf",
-      "id": "doc-chem-eko-material-szkoleniowy-user",
-      "status_techniczny": "aktywny",
-      "aktualnosc_merytoryczna": "pomocniczy_nie_stanowi_podstawy_procedury_2025",
-      "liczba_stron": 4,
-      "sha256": "0cb4da7a6c54088eda22c8d1bd2b410f0ae21138f1979add27f672721bb0b248",
-      "uwagi": "Dokument zawiera starsze treści szkoleniowe, w tym wartości liczbowe dotyczące stref i parametrów. Nie użyto ich jako podstawy nowej karty. Pierwszeństwo mają Zasady KG PSP ze stycznia 2025 r."
     },
     "doc-polon-alfa-rk-100-2-manual": {
       "tytul": "Radiometr RK-100-2 - Instrukcja obsługi IO-R120-001",
@@ -835,19 +783,6 @@
       "liczba_stron": 31,
       "sha256": "05f523dcd5026145423fe9f04e6af3e0de2df653cde0986ae9779b4bf625bfe9",
       "uwagi": "Źródło podstawowe nowej procedury. Obejmuje stacje i linie PSE 220/400 kV, zagrożenia, organizację strefy działań, pozbawienie napięcia, warunki bezpieczeństwa i komunikację CN/RCN."
-    },
-    "doc-zagrozenia-elektryczne-krakow-2014": {
-      "tytul": "Zagrożenia elektryczne - Kraków 2014",
-      "wersja": "2014",
-      "data_wydania": "2014",
-      "rodzaj": "Materiał szkoleniowy pomocniczy",
-      "plik": "dokumenty/elektryka/zagrozenia-elektryczne-krakow-2014.pdf",
-      "id": "doc-zagrozenia-elektryczne-krakow-2014",
-      "status_techniczny": "aktywny",
-      "aktualnosc_merytoryczna": "pomocniczy_do_pojec_nie_stanowi_podstawy_kryteriow_operacyjnych",
-      "liczba_stron": 21,
-      "sha256": "1cbf1b4718a6864ba1e6a3ae13607dbc92a5f721f40299126e0183614b3d0a7e",
-      "uwagi": "Starszy materiał wykorzystany wyłącznie do objaśnienia zagrożeń elektrycznych, napięcia krokowego/dotykowego i łuku elektrycznego. Nie użyto dawnych wartości napięć bezpiecznych jako kryteriów operacyjnych."
     },
     "doc-rt-zasady-2026": {
       "id": "doc-rt-zasady-2026",
@@ -1121,6 +1056,58 @@
       "liczba_stron": 68,
       "sha256": "6dcc8fcd9f474ee7ba44bf40ff6d379b732bd79c619625d5154c04606733e687",
       "uwagi": "Pobrano z API Sejmu (ELI DU/2026/872), https://api.sejm.gov.pl/eli/acts/DU/2026/872/text.pdf. Status aktu: obowiązujący. § 57: dokumentacja z 2021 r. zachowuje ważność do czasu aktualizacji."
+    },
+    "doc-bsp-militarny-v2-2026": {
+      "id": "doc-bsp-militarny-v2-2026",
+      "tytul": "Wytyczne podczas zdarzeń z bezzałogowymi statkami powietrznymi pochodzenia militarnego (Załącznik nr 1)",
+      "wersja": "wersja 2 — aktualizacja na 7.09.2026",
+      "data_wydania": "2026-09",
+      "rodzaj": "Wytyczne PSP",
+      "plik": "dokumenty/lotnicze/wytyczne-bsp-pochodzenia-militarnego-v2-2026-09-07.pdf",
+      "status_techniczny": "aktywny",
+      "aktualnosc_merytoryczna": "zweryfikowano_2026-10-27",
+      "liczba_stron": 3,
+      "sha256": "7957b45aaf9cc57749280b9240a4d4ba61df5a210e45152e451b0e25ec055c1c",
+      "uwagi": "Pobrano z gov.pl (KP PSP w Kościerzynie), https://www.gov.pl/attachment/367e9dfb-d5de-4e15-a386-995dfbdcad2e. Zastępuje fotografie wersji 1 przekazane wcześniej. Dokument nie wskazuje organu wydającego."
+    },
+    "doc-bsp-prezentacja-2026": {
+      "id": "doc-bsp-prezentacja-2026",
+      "tytul": "Bezzałogowe statki powietrzne (BSP) – zagrożenia (prezentacja)",
+      "wersja": "aktualizacja na 7.09.2026",
+      "data_wydania": "2026-09",
+      "rodzaj": "Materiał szkoleniowy PSP",
+      "plik": "dokumenty/lotnicze/bsp-zagrozenia-prezentacja-2026-09-07.pdf",
+      "status_techniczny": "aktywny",
+      "aktualnosc_merytoryczna": "zweryfikowano_2026-10-27",
+      "liczba_stron": 10,
+      "sha256": "b40e9f274ccbf3edec8d3aac6713e2d5cb55772ffe223e96050333d12be5312a",
+      "uwagi": "Pobrano z gov.pl (KP PSP w Kościerzynie), https://www.gov.pl/attachment/7620f67f-45bb-42b1-959a-211e3bcec659. Opublikowana razem z wytycznymi w wersji 2."
+    },
+    "doc-chem-eko-2025": {
+      "id": "doc-chem-eko-2025",
+      "tytul": "Zasady organizacji ratownictwa chemicznego i ekologicznego w krajowym systemie ratowniczo-gaśniczym",
+      "wersja": "Styczeń 2025",
+      "data_wydania": "2025-01",
+      "rodzaj": "Zasady KG PSP",
+      "plik": "dokumenty/chem/zasady-ratownictwa-chemicznego-ekologicznego-2025-01.pdf",
+      "status_techniczny": "aktywny",
+      "aktualnosc_merytoryczna": "zweryfikowano_2026-10-27",
+      "liczba_stron": 43,
+      "sha256": "7e46868af830f5e1ba994d9346e5de462687f6d62580b6f88dabe6c983cb8553",
+      "uwagi": "Pobrano z gov.pl (KG PSP), https://www.gov.pl/attachment/89034c06-f751-4b01-9f8c-683b80e34eb5. Kopia lokalna zamiast odnośnika — umożliwia wskazanie stron."
+    },
+    "doc-chem-eko-2025-zal11": {
+      "id": "doc-chem-eko-2025-zal11",
+      "tytul": "Załącznik nr 11 — Karta graficzna SGRChem-Eko",
+      "wersja": "Stan na styczeń 2025",
+      "data_wydania": "2025-01",
+      "rodzaj": "Zasady KG PSP — załącznik",
+      "plik": "dokumenty/chem/zasady-chem-eko-2025-zal11-karta-graficzna.pdf",
+      "status_techniczny": "aktywny",
+      "aktualnosc_merytoryczna": "zweryfikowano_2026-10-27",
+      "liczba_stron": 4,
+      "sha256": "3a2795ee1db8aaa7e31facf96e0016ec82fe794ab35e8b76855a2300f0ffe560",
+      "uwagi": "Pobrano z gov.pl (KG PSP), https://www.gov.pl/attachment/01a80975-659b-4bcf-88d4-42c11189d7a1."
     }
   }
 }

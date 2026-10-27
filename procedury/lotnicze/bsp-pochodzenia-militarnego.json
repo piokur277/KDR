@@ -1,9 +1,10 @@
 {
   "id": "KARTA-LOT-BSP-POCHODZENIA-MILITARNEGO",
+  "wzorzec": 2,
   "kategoria": "dzialania",
-  "zrodlo": "Załącznik nr 1: Wytyczne podczas zdarzeń z bezzałogowymi statkami powietrznymi pochodzenia militarnego - materiał przekazany przez użytkownika",
-  "data_aktualizacji": "2026-07-22",
-  "status_zrodla": "materiał przekazany w postaci dwóch fotografii; na przekazanych stronach brak widocznej daty i oznaczenia organu wydającego",
+  "grupa": "cbrn",
+  "zrodlo": "PSP: Załącznik nr 1 — Wytyczne podczas zdarzeń z bezzałogowymi statkami powietrznymi pochodzenia militarnego, wersja 2 (aktualizacja na 7.09.2026) oraz prezentacja „BSP – zagrożenia” (7.09.2026); opublikowane na gov.pl przez KP PSP w Kościerzynie.",
+  "data_aktualizacji": "2026-10-27",
   "slowo_kluczowe": "dron militarny",
   "keywords": [
     "bsp pochodzenia militarnego",
@@ -17,15 +18,6 @@
     "nie dotykaj drona militarnego",
     "mz lotnicze dron"
   ],
-  "prefix": "BSP pochodzenia militarnego - zabezpieczenie miejsca zdarzenia, rozpoznanie z dystansu i przekazanie służbie właściwej.",
-  "content": "1. KOD / NAZWA: zdarzenie z bezzałogowym statkiem powietrznym (BSP) o możliwym pochodzeniu militarnym.\n2. STANOWISKO KIEROWANIA: każde zgłoszenie niezwłocznie przekaż do nadrzędnego stanowiska kierowania PSP. W SWD PSP oznacz zdarzenie flagą „Do wiadomości KG” i przypisz podrodzaj „MZ - Lotnicze”.\n3. ZAŁOŻENIE WSTĘPNE: jeżeli jednostka ochrony przeciwpożarowej jest pierwszą służbą na miejscu, przyjmij, że obiekt może mieć charakter militarny, zawierać materiały wybuchowe i system autodestrukcji, np. zapalnik czasowy.\n4. ZASADA BEZWZGLĘDNA: nie dotykaj, nie ruszaj, nie przenoś. Wyklucz jakąkolwiek manipulację, poruszanie i demontaż elementów. Zgodnie z wytycznymi również użycie telefonu komórkowego w bezpośrednim sąsiedztwie może spowodować detonację.\n5. INNE ZAGROŻENIA: uwzględnij możliwość występowania bojowych środków trujących lub innych substancji niebezpiecznych dla życia i zdrowia ludzi.\n6. BEZPIECZNY DYSTANS: gdy nie ma bezpośredniego zagrożenia życia i zdrowia osób postronnych, ratownicy nie powinni zbliżać się do obiektu. Stosuj zasadę: „Jeżeli Ty widzisz bombę - bomba widzi Ciebie”.\n7. STREFA I EWAKUACJA: niezwłocznie wyznacz strefę niebezpieczną o promieniu co najmniej 150 m od obiektu i ewakuuj osoby z tego obszaru.\n8. ROZPOZNANIE: prowadź wyłącznie z bezpiecznej odległości, korzystając z lornetki, lunety, kamery z przybliżeniem, telefonu z funkcją zoom lub BSP będącego na wyposażeniu jednostki ochrony przeciwpożarowej.\n9. DOKUMENTACJA: zdjęcia i materiały wideo wykonuj wyłącznie w celach służbowych. Przekazuj je tylko przez służbową pocztę elektroniczną. Nie publikuj ani nie wysyłaj przez media społecznościowe, prywatne komunikatory lub inne nieautoryzowane kanały.\n10. PRZEKAZANIE MIEJSCA: po przybyciu Policji lub przedstawicieli Sił Zbrojnych RP jednostki ochrony przeciwpożarowej przestają pełnić rolę służby wiodącej. Formalnie przekaż miejsce zdarzenia właściwemu organowi.\n11. RATOWANIE ŻYCIA: nadrzędnym priorytetem pozostaje ratowanie życia i zdrowia ludzi. Przy bezpośrednim zagrożeniu osób poszkodowanych wytyczne dopuszczają działania wykraczające poza ramowy schemat, z zachowaniem wszelkich możliwych środków ostrożności. Przy zbliżaniu korzystaj w miarę możliwości z naturalnych osłon albo dostępnych tarcz balistycznych.\n12. UWAGA ORGANIZACYJNA: wytyczne mogą być doprecyzowane i rozszerzone na poziomie wojewódzkim lub powiatowym, stosownie do lokalnych procedur i dostępnych sił oraz środków.\n13. UWAGA ŹRÓDŁOWA: na przekazanych stronach nie ma widocznej daty ani oznaczenia organu wydającego. Przed wykorzystaniem operacyjnym należy potwierdzić obowiązywanie materiału oraz lokalne doprecyzowania.",
-  "tagi_wspolne": [
-    "bsp militarny",
-    "dron wojskowy",
-    "zagrożenie wybuchowe",
-    "mz lotnicze",
-    "strefa niebezpieczna 150 m"
-  ],
   "aliasy": [
     "bsp pochodzenia militarnego",
     "bezzałogowy statek powietrzny militarny",
@@ -38,11 +30,182 @@
     "nie dotykaj drona militarnego",
     "mz lotnicze dron"
   ],
+  "prefix": "BSP (dron) o możliwym pochodzeniu militarnym — dojazd, strefa min. 150 m, rozpoznanie z dystansu, przekazanie Policji/SZ RP (wytyczne PSP, wersja 2 z 7.09.2026).",
+  "najpierw": [
+    {
+      "t": "Każde zgłoszenie niezwłocznie przekaż do nadrzędnego SK PSP; w SWD PSP flaga „Do wiadomości KG”, podrodzaj „MZ – Lotnicze”.",
+      "zr": "BSP v2 2026",
+      "str": 1
+    },
+    {
+      "t": "Nie dotykaj, nie ruszaj, nie przenoś — nawet poruszenie, odkręcenie śruby lub telefon komórkowy w pobliżu może spowodować detonację.",
+      "zr": "BSP v2 2026",
+      "str": 1
+    },
+    {
+      "t": "Wyznacz strefę niebezpieczną o promieniu co najmniej 150 m i ewakuuj z niej ludzi; 150 m to minimum — zwiększ wg obiektu, terenu i rozpoznania.",
+      "zr": "BSP v2 2026",
+      "str": 2
+    },
+    {
+      "t": "Bez bezpośredniego zagrożenia życia osób postronnych ratownicy nie zbliżają się do obiektu: „Jeżeli Ty widzisz bombę – bomba widzi Ciebie”.",
+      "zr": "BSP v2 2026",
+      "str": 2
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "Założenie wstępne",
+      "wartosc": "obiekt militarny z materiałem wybuchowym, możliwe systemy autodestrukcji (zapalniki czasowe)",
+      "zr": "BSP v2 2026",
+      "str": 1
+    },
+    {
+      "nazwa": "Strefa niebezpieczna",
+      "wartosc": "min. 150 m od obiektu — wartość minimalna",
+      "zr": "BSP v2 2026",
+      "str": 2
+    },
+    {
+      "nazwa": "Rozpoznanie",
+      "wartosc": "tylko z dystansu: lornetka, luneta, kamera lub telefon z zoomem, BSP jednostki",
+      "zr": "BSP v2 2026",
+      "str": 2
+    },
+    {
+      "nazwa": "Służba wiodąca",
+      "wartosc": "po przybyciu Policji lub SZ RP — formalnie przekaż im miejsce zdarzenia",
+      "zr": "BSP v2 2026",
+      "str": 2
+    }
+  ],
+  "sekcje": [
+    {
+      "etykieta": "Dojazd i ustawienie sił",
+      "punkty": [
+        {
+          "t": "Dojazd planuj z uwzględnieniem kierunku i siły wiatru, ukształtowania terenu i możliwości rozprzestrzeniania aerozolu.",
+          "zr": "BSP v2 2026",
+          "str": 1
+        },
+        {
+          "t": "Pojazdy zatrzymaj poza strefą niebezpieczną, z możliwością natychmiastowego wycofania.",
+          "zr": "BSP v2 2026",
+          "str": 1
+        },
+        {
+          "t": "Punkt dowodzenia i punkt przyjęcia sił — po stronie nawietrznej, poza obszarem rażenia i skażenia.",
+          "zr": "BSP v2 2026",
+          "str": 1
+        },
+        {
+          "t": "Rozpraszaj siły: nie gromadź pojazdów w jednym punkcie ani na jednej osi dojazdu; wykorzystaj osłony terenowe i zabudowę.",
+          "zr": "BSP v2 2026",
+          "str": 1
+        },
+        {
+          "t": "Wyznacz obserwatora przestrzeni powietrznej; ustal sygnał alarmowy i miejsca ukrycia dla wszystkich działających.",
+          "zr": "BSP v2 2026",
+          "str": 1
+        }
+      ]
+    },
+    {
+      "etykieta": "Zagrożenia",
+      "punkty": [
+        {
+          "t": "Obiekt może zawierać bojowe środki trujące lub inne substancje niebezpieczne.",
+          "zr": "BSP v2 2026",
+          "str": 2
+        },
+        {
+          "t": "Zakładaj skażenie CBRN każdego BSP do wykluczenia pomiarami; uprzedź inne służby — części BSP tylko w rękawiczkach.",
+          "zr": "BSP prez. 2026",
+          "str": 3
+        },
+        {
+          "t": "Możliwe środki: chloropikryna, malononitryl, nowiczoki; materiały promieniotwórcze (np. zubożony uran).",
+          "zr": "BSP prez. 2026",
+          "str": 2
+        },
+        {
+          "t": "Wybuch przy pożarze (ogrzanie zapalnika); w pobliżu upadku miny i urządzenia wybuchowe, także reagujące na drgania od kroków.",
+          "zr": "BSP prez. 2026",
+          "str": 4
+        },
+        {
+          "t": "Głowice 40–90 kg materiału wybuchowego; przy 90 kg zasięg odłamkowania ok. 1000 m.",
+          "zr": "BSP prez. 2026",
+          "str": 7
+        },
+        {
+          "t": "Możliwa aktywacja falami radiowymi i wtórne uderzenie w miejsce, gdzie zebrały się służby.",
+          "zr": "BSP prez. 2026",
+          "str": 7
+        },
+        {
+          "t": "Najgroźniejsze są BSP, które nie wybuchły lub nie spłonęły — ryzyko opóźnionej detonacji.",
+          "zr": "BSP prez. 2026",
+          "str": 8
+        }
+      ]
+    },
+    {
+      "etykieta": "Ratowanie życia i organizacja",
+      "punkty": [
+        {
+          "t": "Przy bezpośrednim zagrożeniu poszkodowanych dopuszczalne działania poza wytycznymi, z zachowaniem ostrożności; zbliżaj się za osłonami lub z tarczą balistyczną.",
+          "zr": "BSP v2 2026",
+          "str": 2
+        },
+        {
+          "t": "Zdjęcia i filmy tylko służbowo; przekazuj wyłącznie służbową pocztą elektroniczną.",
+          "zr": "BSP v2 2026",
+          "str": 2
+        },
+        {
+          "t": "Wytyczne mogą być doprecyzowane na poziomie wojewódzkim lub powiatowym.",
+          "zr": "BSP v2 2026",
+          "str": 3
+        }
+      ]
+    }
+  ],
+  "nie_rob": [
+    {
+      "t": "Nie odłączaj baterii, nie obracaj, nie tnij przewodów, nie wchodź w pole widzenia kamery.",
+      "zr": "BSP prez. 2026",
+      "str": 1
+    },
+    {
+      "t": "Nie zbliżaj się z urządzeniami emitującymi fale radiowe.",
+      "zr": "BSP prez. 2026",
+      "str": 7
+    },
+    {
+      "t": "Nie publikuj materiałów w mediach społecznościowych ani prywatnych komunikatorach.",
+      "zr": "BSP v2 2026",
+      "str": 2
+    }
+  ],
+  "tagi_wspolne": [
+    "bsp militarny",
+    "dron wojskowy",
+    "zagrożenie wybuchowe",
+    "mz lotnicze",
+    "strefa niebezpieczna 150 m"
+  ],
   "dokumenty_zrodlowe": [
     {
-      "dokument_id": "doc-bsp-pochodzenia-militarnego",
+      "dokument_id": "doc-bsp-militarny-v2-2026",
       "strona": 1,
-      "sekcja": "Wytyczne podczas zdarzeń z BSP pochodzenia militarnego - strony 1-2"
+      "sekcja": "Wytyczne, wersja 2 (7.09.2026), pkt 1–8 (s. 1–3)"
+    },
+    {
+      "dokument_id": "doc-bsp-prezentacja-2026",
+      "strona": 1,
+      "sekcja": "Prezentacja „BSP – zagrożenia” (s. 1–10)"
     }
-  ]
+  ],
+  "data_przegladu": "2026-10-27"
 }
