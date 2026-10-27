@@ -1,0 +1,5 @@
+ksrg-2026.pdf 1160 HTML document, ASCII text, with very lon
+ksrg-2021.pdf 1158 HTML document, ASCII text, with very lon
+wlaczanie-2026.pdf 1161 HTML document, ASCII text, with very lon
+bsp-gov.pdf 44364 PDF document, version 1.7, 2 page(s)
+bsp-strona.html 28696 HTML document, Unicode text, UTF-8 text,
