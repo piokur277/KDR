@@ -1,8 +1,10 @@
 {
   "id": "KARTA-ACETYLEN-PRZEKAZANIE",
+  "wzorzec": 2,
   "kategoria": "organizacja",
-  "zrodlo": "Standardowe zasady postepowania podczas zdarzen z udzialem butli z acetylenem, KG PSP",
-  "data_aktualizacji": "2020-03-13",
+  "grupa": "cbrn",
+  "zrodlo": "KG PSP: Standardowe zasady postępowania podczas zdarzeń z udziałem butli z acetylenem, wydanie II, 13.03.2020.",
+  "data_aktualizacji": "2026-10-27",
   "slowo_kluczowe": "przekazanie miejsca zdarzenia acetylen",
   "keywords": [
     "przekazanie butli acetylenowej",
@@ -13,13 +15,6 @@
     "po akcji butla acetylenowa",
     "przekazanie acetylen"
   ],
-  "prefix": "Przekazanie miejsca zdarzenia po dzialaniach z udzialem butli z acetylenem.",
-  "content": "1. KOD / NAZWA: przekazanie miejsca zdarzenia po dzialaniach z udzialem butli z acetylenem.\n2. Z1 - PO ZAKONCZENIU CHLODZENIA: po zakonczeniu 24-godzinnego procesu chlodzenia przekaz miejsce zdarzenia wlascicielowi lub uzytkownikowi, sporzadzajac dokument przekazania. Powiadom miejscowy UDT, TDT lub WDT i wpisz do dokumentu czas rozpoczecia oraz zakonczenia chlodzenia, informacje o powiadomieniu oraz zakazie uzytkowania butli do czasu dopuszczenia do eksploatacji.\n3. Z1 - PRZED UKONCZENIEM 24 GODZIN: gdy po dzialaniach butla zostala zanurzona w zbiorniku z woda, przekaz miejsce zdarzenia z wpisaniem czasu rozpoczecia chlodzenia oraz wymaganego czasu jego kontynuacji. Pozostale informacje przekaz jak dla Z1 po zakonczeniu chlodzenia.\n4. Z2 - WARUNKI PRZEKAZANIA: przekaz miejsce zdarzenia po zatrzymaniu wycieku przez zakrecenie zaworu i potwierdzeniu, ze butla jest zimna, albo po oproznieniu butli. W dokumencie podaj informacje o oproznieniu butli, szczegolnie gdy nie pozostalo wymagane cisnienie resztkowe.\n5. Z3 - WARUNKI PRZEKAZANIA: przekaz miejsce zdarzenia po zatrzymaniu wycieku przez zakrecenie zaworu albo po oproznieniu butli. W dokumencie podaj informacje o oproznieniu butli, szczegolnie gdy nie pozostalo wymagane cisnienie resztkowe.\n6. Z4 - WARUNKI PRZEKAZANIA: przekaz miejsce zdarzenia, gdy butle znajduja sie w miejscu bezpiecznym.\n7. UWAGI OPERACYJNE: dokument przekazania powinien odzwierciedlac stan butli i wykonane czynnosci, a w przypadku Z1 rowniez formalne powiadomienie miejscowego UDT, TDT lub WDT.",
-  "tagi_wspolne": [
-    "acetylen",
-    "butla acetylenowa",
-    "przekazanie"
-  ],
   "aliasy": [
     "przekazanie butli acetylenowej",
     "udt tdt wdt acetylen",
@@ -29,11 +24,88 @@
     "po akcji butla acetylenowa",
     "przekazanie acetylen"
   ],
+  "prefix": "Przekazanie miejsca zdarzenia po działaniach z butlami acetylenowymi — warunki dla Z1–Z4, UDT/TDT/WDT (SZP KG PSP 2020).",
+  "najpierw": [
+    {
+      "t": "Z1 — przekaż po zakończeniu 24 h chłodzenia; powiadom UDT, TDT lub WDT.",
+      "zr": "SZP C2H2 2020",
+      "str": 8
+    },
+    {
+      "t": "W potwierdzeniu przekazania wpisz czas rozpoczęcia i zakończenia chłodzenia, powiadomienia oraz zakaz użytkowania butli do dopuszczenia przez UDT/TDT/WDT.",
+      "zr": "SZP C2H2 2020",
+      "str": 8
+    }
+  ],
+  "parametry": [],
+  "sekcje": [
+    {
+      "etykieta": "Z1 — szczegóły",
+      "punkty": [
+        {
+          "t": "Butla zanurzona w zbiorniku przed upływem 24 h — wpisz czas rozpoczęcia chłodzenia i wymagany czas kontynuacji.",
+          "zr": "SZP C2H2 2020",
+          "str": 8
+        },
+        {
+          "t": "Dzierżawca butli — powiadom też firmę-właściciela (dane na naklejkach lub wybite w górnej części płaszcza).",
+          "zr": "SZP C2H2 2020",
+          "str": 8
+        },
+        {
+          "t": "Brak kontaktu z UDT/TDT/WDT — przekaż informację najszybciej, jak to możliwe, i odnotuj w informacji ze zdarzenia.",
+          "zr": "SZP C2H2 2020",
+          "str": 8
+        }
+      ]
+    },
+    {
+      "etykieta": "Z2, Z3, Z4",
+      "punkty": [
+        {
+          "t": "Z2 — po zakręceniu zaworu i potwierdzeniu, że butla jest zimna, albo po opróżnieniu butli.",
+          "zr": "SZP C2H2 2020",
+          "str": 8
+        },
+        {
+          "t": "Z3 — po zakręceniu zaworu albo po opróżnieniu butli.",
+          "zr": "SZP C2H2 2020",
+          "str": 9
+        },
+        {
+          "t": "Opróżnienie butli wpisz do dokumentu — zwłaszcza gdy nie pozostało ciśnienie resztkowe.",
+          "zr": "SZP C2H2 2020",
+          "str": 9
+        },
+        {
+          "t": "Z4 — gdy butle są w miejscu bezpiecznym.",
+          "zr": "SZP C2H2 2020",
+          "str": 9
+        }
+      ]
+    },
+    {
+      "etykieta": "Kontakty",
+      "punkty": [
+        {
+          "t": "Dane producentów i dystrybutorów butli (Air Products, Eurogaz, Linde, Messer) — tabela w SZP; SK KP/KM powinno mieć kontakty lokalne.",
+          "zr": "SZP C2H2 2020",
+          "str": 10
+        }
+      ]
+    }
+  ],
+  "tagi_wspolne": [
+    "acetylen",
+    "butla acetylenowa",
+    "przekazanie"
+  ],
   "dokumenty_zrodlowe": [
     {
       "dokument_id": "doc-acetylen-szp-2020",
       "strona": 8,
-      "sekcja": "Przekazanie miejsca zdarzenia"
+      "sekcja": "Przekazanie miejsca zdarzenia (s. 8–9), informacje dodatkowe (s. 10)"
     }
-  ]
+  ],
+  "data_przegladu": "2026-10-27"
 }

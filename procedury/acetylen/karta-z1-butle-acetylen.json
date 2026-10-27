@@ -1,8 +1,10 @@
 {
   "id": "KARTA-ACETYLEN-Z1",
+  "wzorzec": 2,
   "kategoria": "dzialania",
-  "zrodlo": "Standardowe zasady postepowania podczas zdarzen z udzialem butli z acetylenem, KG PSP",
-  "data_aktualizacji": "2020-03-13",
+  "grupa": "cbrn",
+  "zrodlo": "KG PSP: Standardowe zasady postępowania podczas zdarzeń z udziałem butli z acetylenem, wydanie II, 13.03.2020.",
+  "data_aktualizacji": "2026-10-27",
   "slowo_kluczowe": "butla acetylen po pozarze",
   "keywords": [
     "butla acetylen podgrzana",
@@ -10,8 +12,135 @@
     "chlodzenie butli acetylen 24h",
     "test zwilzania acetylen"
   ],
-  "prefix": "Karta Z1 - Butle poddane dzialaniu ognia/ciepla lub poddane wielokrotnym uderzeniom, szczelne lub nieszczelne.",
-  "content": "1. KOD / NAZWA: Z1 - butle z acetylenem poddane dzialaniu ognia, ciepla lub wielokrotnym uderzeniom, szczelne lub nieszczelne.\n2. ROZPOZNANIE: ostrzez ratownikow, nie zblizaj sie do butli i jej nie przemieszczaj. Traktuj butle jako potencjalnie niestabilna do czasu zakonczenia skutecznego chlodzenia i oceny jej stanu.\n3. STREFA: wyznacz strefe zagrozenia o minimalnym zalecanym promieniu 200 m i przeprowadz ewakuacje. Ogranicz liczbe ratownikow w strefie do niezbednego minimum.\n4. SOI: w promieniu 30 m stosuj ochrone drog oddechowych i oczu.\n5. DZIALANIA KRYTYCZNE: rozpocznij chlodzenie butli rozproszonymi pradami wody, najlepiej ze stanowisk bezobslugowych i z wykorzystaniem dostepnych oslon.\n6. PROCEDURA SZCZEGOLOWA: prowadz chlodzenie co najmniej 1 godzine, a przy utrudnionym dostepie do okolo 50% powierzchni co najmniej 3 godziny. Gdy butla jest nieszczelna i uwalniany acetylen sie spala, prowadz chlodzenie do momentu jej oproznienia, nie gas plomienia palacego sie gazu, monitoruj stezenie gazu w powietrzu oraz zagrozenie wybuchem i eliminuj zrodla zaplonu. Jezeli nie wystepuje zagrozenie zycia ludzkiego, a sytuacja uniemozliwia bezpieczne zastosowanie stanowisk bezobslugowych lub oslon, rozwaz pozostawienie butli w miejscu zdarzenia bez podejmowania dzialan chlodzacych. Po przerwaniu chlodzenia przeprowadz test zwilzania; gdy nad butla unosi sie para wodna albo powierzchnia szybko wysycha, kontynuuj chlodzenie przez kolejna godzine i powtorz test. Gdy powierzchnia pozostaje zimna, sprawdz szczelnosc; butle zimna i szczelna mozna przeniesc do zbiornika z woda dla kontynuacji 24-godzinnego procesu chlodzenia, a butle nieszczelna zaleca sie dalej chlodzic pradami wody lub przeniesc do zbiornika z woda, gdy ryzyko pozarowo-wybuchowe zwiazane z uwalnianiem gazu jest nieznaczne.\n7. CO MOZE POJSC NIE TAK: najwiekszym bledem jest zblizenie sie do butli bez oslon, przedwczesne przerwanie chlodzenia, zgaszenie plomienia uwalnianego acetylenu oraz zignorowanie dodatniego wyniku testu zwilzania.\n8. UWAGI OPERACYJNE: karta obejmuje zarowno butle szczelne, jak i nieszczelne, jesli byly poddane dzialaniu ognia, ciepla lub wielokrotnym uderzeniom.",
+  "aliasy": [
+    "butla acetylen podgrzana",
+    "butla acetylen po uderzeniu",
+    "chlodzenie butli acetylen 24h",
+    "test zwilzania acetylen"
+  ],
+  "prefix": "Acetylen Z1 — butle poddane działaniu ognia, ciepła lub uderzeniom: strefa 200 m, 24-godzinne chłodzenie, test zwilżania (SZP KG PSP 2020).",
+  "najpierw": [
+    {
+      "t": "Strefa zagrożenia — zalecany promień min. 200 m; ewakuuj ludzi, ostrzeż ratowników.",
+      "zr": "SZP C2H2 2020",
+      "str": 3
+    },
+    {
+      "t": "Nie zbliżaj się do butli i jej nie przemieszczaj.",
+      "zr": "SZP C2H2 2020",
+      "str": 3
+    },
+    {
+      "t": "Chłodź prądami wody (zalecane rozproszone) ze stanowisk bezobsługowych (działka, ustabilizowane prądownice), zza osłon.",
+      "zr": "SZP C2H2 2020",
+      "str": 3
+    },
+    {
+      "t": "Bez zagrożenia życia ludzi i bez możliwości stanowisk bezobsługowych lub osłon — rozważ pozostawienie butli bez chłodzenia.",
+      "zr": "SZP C2H2 2020",
+      "str": 3
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "Strefa",
+      "wartosc": "min. 200 m; mniejsza za osłonami; w obiekcie o solidnej konstrukcji granicą mogą być jego ściany",
+      "zr": "SZP C2H2 2020",
+      "str": 3
+    },
+    {
+      "nazwa": "Ochrona w promieniu 30 m",
+      "wartosc": "ochrona dróg oddechowych + ochrona oczu przed błyskiem (przyłbice, okulary metalizowane)",
+      "zr": "SZP C2H2 2020",
+      "str": 3
+    },
+    {
+      "nazwa": "Czas chłodzenia",
+      "wartosc": "min. 1 h (cała powierzchnia mokra); min. 3 h, gdy woda dociera do < ok. 50% powierzchni",
+      "zr": "SZP C2H2 2020",
+      "str": 3
+    },
+    {
+      "nazwa": "Proces łączny",
+      "wartosc": "24 h chłodzenia",
+      "zr": "SZP C2H2 2020",
+      "str": 3
+    }
+  ],
+  "sekcje": [
+    {
+      "etykieta": "Butla nieszczelna",
+      "punkty": [
+        {
+          "t": "Gaz się pali — chłodź do opróżnienia butli, nie gasząc płomienia (szczególnie w obiekcie).",
+          "zr": "SZP C2H2 2020",
+          "str": 3
+        },
+        {
+          "t": "Płomień wolno ugasić tylko, gdy ogrzewa płaszcz tej butli, inne butle lub materiały grożące eskalacją.",
+          "zr": "SZP C2H2 2020",
+          "str": 3
+        },
+        {
+          "t": "Gaz się nie pali — mierz stężenie (zagrożenie wybuchem), usuń źródła zapłonu.",
+          "zr": "SZP C2H2 2020",
+          "str": 3
+        }
+      ]
+    },
+    {
+      "etykieta": "Test zwilżania",
+      "punkty": [
+        {
+          "t": "Przerwij chłodzenie; obserwuj, czy nad butlą unosi się para (lornetka, kamera termowizyjna, oświetlenie).",
+          "zr": "SZP C2H2 2020",
+          "str": 4
+        },
+        {
+          "t": "Para albo powierzchnia wysycha w założonym czasie (np. do 10 min) — chłodź kolejną 1 h i powtórz test.",
+          "zr": "SZP C2H2 2020",
+          "str": 4
+        },
+        {
+          "t": "Nie wysycha — sprawdź organoleptycznie, czy cała powierzchnia jest zimna; ciepłe miejsca = chłodź min. 1 h i powtórz.",
+          "zr": "SZP C2H2 2020",
+          "str": 4
+        },
+        {
+          "t": "Cała zimna — sprawdź szczelność z bliska (dźwięk, bąbelki, uszkodzenia; eksplozymetr, spryskiwacz).",
+          "zr": "SZP C2H2 2020",
+          "str": 4
+        }
+      ]
+    },
+    {
+      "etykieta": "Po teście",
+      "punkty": [
+        {
+          "t": "Zimna i szczelna — można przenieść do zbiornika z wodą (krótka droga, małe zagrożenie dla otoczenia) i kontynuować 24 h.",
+          "zr": "SZP C2H2 2020",
+          "str": 4
+        },
+        {
+          "t": "Nieszczelna — zalecane dalsze chłodzenie prądami wody; zbiornik tylko przy nieznacznym ryzyku pożarowo-wybuchowym.",
+          "zr": "SZP C2H2 2020",
+          "str": 4
+        }
+      ]
+    }
+  ],
+  "nie_rob": [
+    {
+      "t": "Nie przerywaj chłodzenia przed testem zwilżania; nie ignoruj pary ani szybkiego wysychania.",
+      "zr": "SZP C2H2 2020",
+      "str": 4
+    },
+    {
+      "t": "Ogranicz liczbę ratowników w strefie do niezbędnego minimum.",
+      "zr": "SZP C2H2 2020",
+      "str": 3
+    }
+  ],
   "tagi_wspolne": [
     "acetylen",
     "butla acetylenowa",
@@ -19,17 +148,12 @@
     "butla po pozarze",
     "butla podgrzana"
   ],
-  "aliasy": [
-    "butla acetylen podgrzana",
-    "butla acetylen po uderzeniu",
-    "chlodzenie butli acetylen 24h",
-    "test zwilzania acetylen"
-  ],
   "dokumenty_zrodlowe": [
     {
       "dokument_id": "doc-acetylen-szp-2020",
       "strona": 3,
-      "sekcja": "Karta Z1 - butle poddane działaniu ognia, ciepła lub uderzeniom"
+      "sekcja": "Karta Z1 (s. 3–4), algorytm — załącznik nr 1 (s. 11)"
     }
-  ]
+  ],
+  "data_przegladu": "2026-10-27"
 }
