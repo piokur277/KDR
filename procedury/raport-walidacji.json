@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-27T14:18:55.739Z",
-  "procedure_count": 119,
-  "unique_direct_terms": 821,
-  "linked_procedure_count": 117,
-  "document_count": 81,
+  "generated_at": "2026-10-27T14:24:35.303Z",
+  "procedure_count": 120,
+  "unique_direct_terms": 831,
+  "linked_procedure_count": 118,
+  "document_count": 82,
   "shared_tags": [
     {
       "tag": "edukacja obywatelska",
@@ -524,6 +524,15 @@
       ]
     },
     {
+      "tag": "organizacja dzialan",
+      "count": 3,
+      "ids": [
+        "KARTA-BUD-ORGANIZACJA-DZIALAN-KATASTROFA-BUDOWLANA",
+        "KARTA-ORG-ZASADY-ORGANIZACJI-SZTABU",
+        "KARTA-ORG-ZASADY-ORGANIZOWANIA-DZIALAN-RATOWNICZYCH"
+      ]
+    },
+    {
       "tag": "przekazanie",
       "count": 3,
       "ids": [
@@ -607,14 +616,6 @@
       "ids": [
         "KARTA-KPP-OPARZENIE-CHEMICZNE",
         "KARTA-KPP-OPARZENIE-TERMICZNE"
-      ]
-    },
-    {
-      "tag": "organizacja dzialan",
-      "count": 2,
-      "ids": [
-        "KARTA-BUD-ORGANIZACJA-DZIALAN-KATASTROFA-BUDOWLANA",
-        "KARTA-ORG-ZASADY-ORGANIZOWANIA-DZIALAN-RATOWNICZYCH"
       ]
     },
     {

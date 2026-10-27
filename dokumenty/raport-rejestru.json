@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-27T14:18:55.740Z",
+  "generated_at": "2026-10-27T14:24:35.305Z",
   "registry_version": "2.7",
-  "document_count": 81,
-  "active_document_count": 81,
-  "linked_document_count": 81,
+  "document_count": 82,
+  "active_document_count": 82,
+  "linked_document_count": 82,
   "unlinked_documents": [],
   "documents": [
     {
@@ -1627,6 +1627,20 @@
           "procedure_id": "KARTA-RT-ZDARZENIA-NA-DROGACH",
           "strona": 9,
           "sekcja": "Kompetencje (s. 6–9), tryb KDR (s. 9–12), przekazanie terenu (s. 12–13), informacje dodatkowe (s. 15)"
+        }
+      ]
+    },
+    {
+      "id": "doc-sztab-2025",
+      "tytul": "Zasady organizacji sztabu na potrzeby prowadzenia działań ratowniczych",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 23,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-ORG-ZASADY-ORGANIZACJI-SZTABU",
+          "strona": 4,
+          "sekcja": "Wprowadzenie (s. 4), struktura (s. 7–9), zadania (s. 10–13), miejsce (s. 14), wyposażenie (s. 15), tryb pracy (s. 17), dokumentacja (s. 18)"
         }
       ]
     }

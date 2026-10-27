@@ -1,4 +1,4 @@
-const CACHE_NAME = "kdr-ai-v19-7-0-zdarzenia-drogowe";
+const CACHE_NAME = "kdr-ai-v19-7-1-sztab";
 
 const APP_SHELL = [
   "./",
