@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T19:43:16.707Z",
+  "generated_at": "2026-10-27T13:39:20.050Z",
   "registry_version": "2.7",
   "document_count": 80,
   "active_document_count": 80,
@@ -11,7 +11,7 @@
       "tytul": "Standardowe zasady postępowania podczas zdarzeń z samochodami z napędem elektrycznym oraz hybrydowym",
       "status_techniczny": "aktywny",
       "liczba_stron": 15,
-      "liczba_powiazan": 5,
+      "liczba_powiazan": 4,
       "powiazania": [
         {
           "procedure_id": "DEZ-EV-01",
@@ -27,11 +27,6 @@
           "procedure_id": "WYP-EV-01",
           "strona": 9,
           "sekcja": "Karta Z1 - wypadek komunikacyjny"
-        },
-        {
-          "procedure_id": "WYP-MAS-01",
-          "strona": 3,
-          "sekcja": "EV — rozpoznanie, dezaktywacja, Z1, przekazanie (s. 3–14)"
         },
         {
           "procedure_id": "ZAT-EV-01",

@@ -1,0 +1,19 @@
+{
+  "opis": "Zasady spójności tematycznej kart. Sprawdza je scripts/weryfikacja-kart.mjs przy każdej budowie bazy i przy każdym Pull Requeście. Dziedzina dokumentu = folder w dokumenty/<dziedzina>/. Karta może cytować dokumenty tylko z dziedzin dozwolonych dla jej zakładki i tylko z jednej dziedziny – chyba że ma pole \"laczy_dziedziny\" z uzasadnieniem (min. 30 znaków).",
+  "dziedziny_zakladek": {
+    "kpp": ["kpp"],
+    "bio": ["biologiczne", "srodowisko"],
+    "cbrn": ["acetylen", "lng", "chem", "chemiczne", "cbrn", "radiacyjne", "lotnicze"],
+    "rt": ["techniczne"],
+    "ev": ["pojazdy-elektryczne"],
+    "pv": ["fotowoltaika"],
+    "el": ["elektryka"],
+    "bud": ["budowlane"],
+    "org": ["organizacja", "lacznosc"],
+    "sprzet": ["urzadzenia"],
+    "olioc": []
+  },
+  "dziedziny_dozwolone_razem": [
+    ["chem", "chemiczne"]
+  ]
+}

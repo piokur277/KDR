@@ -1,6 +1,7 @@
 import { promises as fs } from "node:fs";
 import path from "node:path";
 import { contentFromV2 } from "./karta-v2-content.mjs";
+import { wczytajZakladki, weryfikujKarty } from "./weryfikacja-kart.mjs";
 
 const root = process.cwd();
 const proceduresDir = path.join(root, "procedury");
@@ -165,6 +166,16 @@ const documentSummary = Object.entries(documentRegistry).map(([id, doc]) => ({
     liczba_powiazan: documentUsage.get(id)?.length || 0,
     powiazania: documentUsage.get(id) || []
 }));
+
+// Weryfikacja spójności tematycznej: jedna karta = jedna zakładka i jedna dziedzina.
+{
+    const html = await fs.readFile(path.join(root, "index.html"), "utf8");
+    const zasady = JSON.parse(await fs.readFile(path.join(root, "kontrola", "zasady-tematyczne.json"), "utf8"));
+    const bledyTematyczne = weryfikujKarty(procedures, documentRegistry, wczytajZakladki(html), zasady);
+    if (bledyTematyczne.length) {
+        throw new Error("Weryfikacja tematyczna kart nie powiodla sie:\n- " + bledyTematyczne.join("\n- "));
+    }
+}
 
 await fs.writeFile(aggregatePath, JSON.stringify(procedures, null, 2) + "\n", "utf8");
 await fs.writeFile(manifestPath, JSON.stringify({ generated_at: new Date().toISOString(), count: procedures.length, files: manifestFiles }, null, 2) + "\n", "utf8");

@@ -1,8 +1,8 @@
 {
   "id": "WYP-MAS-01",
   "wzorzec": 2,
-  "zrodlo": "KG PSP: Zasady organizacji ratownictwa medycznego w KSRG (czerwiec 2021) – zał. 2 i 7; Standardowe zasady postępowania – samochody elektryczne i hybrydowe (maj 2023)",
-  "data_aktualizacji": "2026-10-25",
+  "zrodlo": "KG PSP: Zasady organizacji ratownictwa medycznego w KSRG (czerwiec 2021) – dokument główny, zał. 2 i 7",
+  "data_aktualizacji": "2026-10-27",
   "slowo_kluczowe": "wypadek masowy",
   "keywords": [
     "autobus i elektryk",
@@ -39,7 +39,7 @@
     "karambol wielu poszkodowanych",
     "masowka"
   ],
-  "prefix": "Wypadek masowy (wielu poszkodowanych, możliwy udział pojazdów elektrycznych) — segregacja START, współpraca z KAM, bezpieczeństwo przy EV.",
+  "prefix": "Zdarzenie masowe (wielu poszkodowanych) — segregacja START, współpraca KDR z KAM, transport i zakończenie.",
   "najpierw": [
     {
       "t": "Oceń liczbę poszkodowanych segregacją wstępną (START) już w rozpoznaniu.",
@@ -55,16 +55,6 @@
       "t": "Do przybycia ZRM wskaż Koordynatora Medycznych Działań Ratowniczych (KMDR): lekarz, pielęgniarka lub ratownik medyczny.",
       "zr": "RM zał. 7",
       "str": 4
-    },
-    {
-      "t": "Wyznacz strefę zagrożenia; do czasu identyfikacji każdy pojazd traktuj jak elektryczny.",
-      "zr": "EV",
-      "str": 9
-    },
-    {
-      "t": "Poszkodowanych w bezpośrednim zagrożeniu życia ewakuuj natychmiast.",
-      "zr": "EV",
-      "str": 9
     }
   ],
   "parametry": [
@@ -109,12 +99,6 @@
       "wartosc": "segregacja SIEVE",
       "zr": "RM zał. 2",
       "str": 1
-    },
-    {
-      "nazwa": "Akumulator EV",
-      "wartosc": "> 50°C lub rośnie: chłodź 10 min, przerwa 3 min, kontrola 30 min",
-      "zr": "EV",
-      "str": 10
     }
   ],
   "sekcje": [
@@ -174,41 +158,6 @@
       ]
     },
     {
-      "etykieta": "Pojazdy elektryczne",
-      "punkty": [
-        {
-          "t": "Rozpoznaj napęd każdego pojazdu: zielone tablice, gniazdo ładowania, pomarańczowe przewody, brak wydechu, karta ratownicza.",
-          "zr": "EV",
-          "str": 3
-        },
-        {
-          "t": "W autobusach akumulatory są często na dachu lub z tyłu, w ciężarówkach — przy podwoziu i za kabiną.",
-          "zr": "EV",
-          "str": 3
-        },
-        {
-          "t": "Kolejno: zablokuj ruch pojazdu (kliny), wyłącz tryb „READY”, ustaw „P” lub „N”, zaciągnij hamulec postojowy, na końcu odłącz akumulator 12 V.",
-          "zr": "EV",
-          "str": 5
-        },
-        {
-          "t": "Przy dostępie do poszkodowanych nie tnij i nie rozpieraj w pobliżu przewodów i akumulatorów trakcyjnych — ich położenie sprawdź w karcie ratowniczej.",
-          "zr": "EV",
-          "str": 9
-        },
-        {
-          "t": "Mierz temperaturę akumulatora w wielu miejscach (kamera termowizyjna, pirometr).",
-          "zr": "EV",
-          "str": 9
-        },
-        {
-          "t": "Kontroluj atmosferę przy pojeździe i w nim czujnikiem wielogazowym (wodór, tlenek węgla).",
-          "zr": "EV",
-          "str": 3
-        }
-      ]
-    },
-    {
       "etykieta": "Transport i zakończenie",
       "punkty": [
         {
@@ -225,11 +174,6 @@
           "t": "Sprzęt przekazany z poszkodowanym uzupełnij na miejscu „sztuka za sztukę”.",
           "zr": "RM zał. 7",
           "str": 8
-        },
-        {
-          "t": "Przekazując uszkodzone EV, poinformuj o dozorze, odstawieniu ≥ 5 m od pojazdów i budynków oraz o bezpiecznym holowaniu danego modelu.",
-          "zr": "EV",
-          "str": 14
         }
       ]
     }
@@ -249,6 +193,9 @@
       "t": "Grupa Ratownictwa Medycznego (GRMed) — na wniosek KDR przez SK KW PSP.",
       "zr": "RM",
       "str": 29
+    },
+    {
+      "t": "Na miejscu są pojazdy elektryczne lub hybrydowe — równolegle zastosuj karty „Wypadek pojazdu elektrycznego po kolizji drogowej” i „Dezaktywacja awaryjna pojazdu elektrycznego”."
     }
   ],
   "nie_rob": [
@@ -256,16 +203,6 @@
       "t": "Nie dopuść do niekontrolowanej ewakuacji poszkodowanych — nie przenoś katastrofy do szpitala.",
       "zr": "RM zał. 2",
       "str": 6
-    },
-    {
-      "t": "Nie dotykaj, nie demontuj i nie przecinaj elementów wysokiego napięcia ani akumulatora.",
-      "zr": "EV",
-      "str": 4
-    },
-    {
-      "t": "Cisza nie oznacza wyłączonego pojazdu elektrycznego — nie stój przed ani za nim, zanim zablokujesz ruch.",
-      "zr": "EV",
-      "str": 5
     }
   ],
   "tagi_wspolne": [
@@ -289,17 +226,13 @@
       "dokument_id": "doc-zorm-2021",
       "strona": 11,
       "sekcja": "RM — def. zdarzenia masowego (s. 11), GRMed (s. 29)"
-    },
-    {
-      "dokument_id": "doc-ev-szp-2023",
-      "strona": 3,
-      "sekcja": "EV — rozpoznanie, dezaktywacja, Z1, przekazanie (s. 3–14)"
     }
   ],
-  "data_przegladu": "2026-10-25",
+  "data_przegladu": "2026-10-27",
   "pelna_procedura": {
     "tytul": "Zasady organizacji ratownictwa medycznego w KSRG — zał. 2 Segregacja poszkodowanych w zdarzeniach masowych",
     "plik": "dokumenty/kpp/zorm-2021/zal-02-segregacja-zdarzenia-masowe.pdf",
     "strona": 1
-  }
+  },
+  "grupa": "kpp"
 }

@@ -56,3 +56,19 @@ node kontrola/kontrola-aktualnosci.mjs --tryb=pelny
 ```
 
 Raport: `kontrola/raport.md`.
+
+
+## Weryfikacja przed każdą aktualizacją kart
+
+Każda zmiana kart przechodzi trzy niezależne sprawdzenia:
+
+1. **Przy budowie bazy** (`node scripts/build-baza.mjs`) – budowa zostaje przerwana, gdy:
+   - karta pasuje do żadnej albo do kilku zakładek aplikacji naraz,
+   - pole `"grupa"` przeczy regule zakładki wynikającej z ID karty,
+   - karta cytuje dokumenty z różnych dziedzin (folder `dokumenty/<dziedzina>/`) – czyli łączy dwa tematy,
+   - dziedzina dokumentów nie pasuje do zakładki (`kontrola/zasady-tematyczne.json`).
+   Świadome połączenie dziedzin wymaga w karcie pola `"laczy_dziedziny"` z uzasadnieniem (min. 30 znaków).
+2. **Przy każdym Pull Requeście** (workflow „Weryfikacja kart”) – to samo oraz zgodność danych wbudowanych w `index.html` z bazą; w zakładce *Checks* jest raport: które karty się zmieniły, w jakiej zakładce są, z jakich dokumentów korzystają; zmiana zakładki jest oznaczona ⚠️. **Czerwony ✗ = nie scalać.**
+3. **Przegląd przed zatwierdzeniem** – opis Pull Requesta zawiera raport zmian i podgląd karty w zakładce, w której pojawi się w aplikacji.
+
+Zasada nadrzędna: **jedna karta = jeden temat = jedna zakładka**. Tematy powiązane (np. zdarzenie masowe i pojazdy elektryczne) łączy się odsyłaczem do osobnej karty, nie wspólną treścią.

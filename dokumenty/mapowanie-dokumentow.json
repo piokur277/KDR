@@ -2068,7 +2068,32 @@
     "id": "WYP-MAS-01",
     "procedura": "Wypadek masowy z udziałem wielu poszkodowanych i możliwym udziałem EV",
     "miesiac_akademii": null,
-    "dokumenty_zrodlowe": []
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-zorm-2021-zal2",
+        "strona": 1,
+        "sekcja": "RM zał. 2 — Segregacja poszkodowanych w zdarzeniach masowych (s. 1–7)",
+        "tytul": "Załącznik nr 2 – Segregacja poszkodowanych w zdarzeniach masowych",
+        "plik": "dokumenty/kpp/zorm-2021/zal-02-segregacja-zdarzenia-masowe.pdf",
+        "typ": "pdf"
+      },
+      {
+        "dokument_id": "doc-zorm-2021-zal7",
+        "strona": 4,
+        "sekcja": "RM zał. 7 — Współpraca z PRM: KMDR, KAM, transport (s. 2–8)",
+        "tytul": "Załącznik nr 7 – Rekomendowane zasady współpracy z jednostkami systemu PRM",
+        "plik": "dokumenty/kpp/zorm-2021/zal-07-wspolpraca-z-prm.pdf",
+        "typ": "pdf"
+      },
+      {
+        "dokument_id": "doc-zorm-2021",
+        "strona": 11,
+        "sekcja": "RM — def. zdarzenia masowego (s. 11), GRMed (s. 29)",
+        "tytul": "Zasady organizacji ratownictwa medycznego w krajowym systemie ratowniczo-gaśniczym",
+        "plik": "dokumenty/kpp/zorm-2021/zasady-organizacji-ratownictwa-medycznego-2021-06.pdf",
+        "typ": "pdf"
+      }
+    ]
   },
   {
     "id": "ZAT-EV-01",
