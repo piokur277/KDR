@@ -1,8 +1,10 @@
 {
   "id": "KARTA-BUD-STREFA-I-EWAKUACJA-KATASTROFA-BUDOWLANA",
+  "wzorzec": 2,
   "kategoria": "dzialania",
-  "zrodlo": "Standardowe zasady postepowania podczas katastrofy budowlanej po wystapieniu katastrofy budowlanej, KG PSP",
-  "data_aktualizacji": "2020-09-07",
+  "grupa": "bud",
+  "zrodlo": "KG PSP: Standardowe zasady postępowania po wystąpieniu katastrofy budowlanej, wydanie I, 2020.",
+  "data_aktualizacji": "2026-10-27",
   "slowo_kluczowe": "strefa zagrozenia katastrofa budowlana",
   "keywords": [
     "ewakuacja gruzowisko",
@@ -10,25 +12,114 @@
     "strefa zawalenie budynku",
     "wyznacz strefe gruzowisko"
   ],
-  "prefix": "Katastrofa budowlana - wyznaczanie strefy zagrozenia i ewakuacja ludzi.",
-  "content": "1. KOD / NAZWA: katastrofa budowlana - wyznaczanie strefy zagrozenia i ewakuacja ludzi.\n2. STREFA DLA RATOWNIKOW: przed wprowadzeniem strazakow do dzialan opracuj zasady bezpieczenstwa. Wyznacz strefe zagrozenia, w ktorej beda prowadzone dzialania ratownicze, korzystajac z zasady minimum 3-5 m od brzegu gruzowiska albo, w przypadku niestabilnych elementow, odleglosci rownej co najmniej 150 procent wysokosci najwyzszego niestabilnego elementu obiektu.\n3. OBSZARY NIEBEZPIECZNE: wyznacz jako obszary zamkniete miejsca niestabilne, uszkodzone lub grozace upadkiem elementy, miejsca wystepowania zagrozen mediami lub pozarem oraz inne niebezpieczne strefy.\n4. OZNAKOWANIE I ORGANIZACJA: okresl wejscie i wyjscie do strefy zagrozenia oraz oznacz je czytelnie, wyznacz droge dojazdu dla kolejnych SIS, miejsce zbiorki ratownikow po ewakuacji i sposoby oglaszania alarmowego opuszczenia strefy. Zalecany okolnik radiowy to \"GEJZER\", a sygnal dzwiekowy to 3 krotkie sygnaly powtarzane az do opuszczenia strefy przez uczestnikow akcji.\n5. MONITOROWANIE STABILNOSCI: wyznacz strazaka do monitorowania stabilnosci uszkodzonej konstrukcji i wskaz mu miejsce, z ktorego bedzie mogl obserwowac elementy budynku do czasu przybycia specjalistycznego sprzetu. Jezeli nie ma tachimetru, wykorzystaj proste techniki obserwacji wzrokowej i nasluchiwania pekniec.\n6. WEJSCIA I WYJSCIA: wyznacz strazaka odpowiedzialnego za monitorowanie wejsc i wyjsc ze strefy. Przy poziomie C uzyj identyfikatorow imiennych lub innego systemu sledzenia, wyznacz osobe odpowiedzialna za stala kontrole liczby osob w strefie i, o ile to mozliwe, stosuj jedno miejsce wejscia i wyjscia.\n7. EWAKUACJA I PODPORY: po wyznaczeniu strefy przeszukaj niezawalona czesc obiektu i ewakuuj ludnosc do bezpiecznej strefy. W razie koniecznosci wykorzystaj podpory niestabilnych czesci obiektu poprzez ich stabilizacje przy uzyciu podporek budowlanych. W przypadku braku takiego sprzetu uznaj to miejsce za niebezpieczne i zakaz zblizania sie do czasu ustabilizowania przez ratownikow SGPR.\n8. EWIDENCJA I NADZOR: zapewnij odpowiednie warunki dla osob ewakuowanych i prowadz ewidencje ewakuowanych, jezeli to mozliwe. Wyznacz przedstawiciela nadzoru budowlanego lub specjaliste od dziedziny budownictwa do porozumienia i okreslenia warunkow bezpiecznego wprowadzenia ratownikow.\n9. CO MOZE POJSC NIE TAK: brak sygnalow z gruzowiska nie oznacza braku osob poszkodowanych w gruzowisku. Jezeli nie masz pewnosci co do liczby osob, czekaj na przybycie SGPR. Sprzet i narzedzia do kontroli stabilnosci nie daja gwarancji bezpieczenstwa dzialan i nie zapobiegaja wtornemu zawaleniu; moga jedynie wspomoc oficera bezpieczenstwa w monitorowaniu i ostrzeganiu ratownikow pracujacych na gruzowisku.\n10. UWAGI OPERACYJNE: po ewakuacji okresl priorytety ratownicze, zaznacz miejsca lokalizacji poszkodowanych i wyznacz miejsce organizacji punktu przyjecia SIS oraz osoby odpowiedzialnej za jego obsluge.",
-  "tagi_wspolne": [
-    "katastrofa budowlana",
-    "zawalenie",
-    "strefa zagrozenia",
-    "ewakuacja"
-  ],
   "aliasy": [
     "ewakuacja gruzowisko",
     "katastrofa budowlana ewakuacja",
     "strefa zawalenie budynku",
     "wyznacz strefe gruzowisko"
   ],
+  "prefix": "Katastrofa budowlana — strefa zagrożenia (3–5 m, 150% wysokości), alarm „GEJZER”, kontrola wejść, ewakuacja (SZP KG PSP 2020).",
+  "najpierw": [
+    {
+      "t": "Strefa: min. 3–5 m od brzegu gruzowiska; przy niestabilnych elementach — min. 150% wysokości najwyższego z nich.",
+      "zr": "SZP KB 2020",
+      "str": 3
+    },
+    {
+      "t": "Alarmowe opuszczenie strefy: okólnik radiowy „GEJZER”; 3 krótkie sygnały dźwiękowe po 1 s, powtarzane do opuszczenia strefy.",
+      "zr": "SZP KB 2020",
+      "str": 3
+    },
+    {
+      "t": "Wyznacz strażaka do monitorowania stabilności konstrukcji i miejsce, z którego obserwuje.",
+      "zr": "SZP KB 2020",
+      "str": 3
+    },
+    {
+      "t": "Wyznacz osobę kontrolującą wejścia i wyjścia oraz liczbę osób w strefie.",
+      "zr": "SZP KB 2020",
+      "str": 3
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "Obszary zamknięte",
+      "wartosc": "niestabilne elementy (do 150% ich wysokości), elementy grożące upadkiem, załamania i otwory w stropach, media, pożar",
+      "zr": "SZP KB 2020",
+      "str": 3
+    },
+    {
+      "nazwa": "Wejście/wyjście",
+      "wartosc": "oznacz taśmą biało-czerwoną; w miarę możliwości jedno miejsce",
+      "zr": "SZP KB 2020",
+      "str": 3
+    },
+    {
+      "nazwa": "Ewidencja wejść",
+      "wartosc": "identyfikatory imienne lub karty z numerami — do czasu przyjazdu SGPR poziomu C",
+      "zr": "SZP KB 2020",
+      "str": 3
+    },
+    {
+      "nazwa": "Monitoring stabilności",
+      "wartosc": "do przyjazdu tachimetru: obserwacja, nasłuch, laser kątowy, taśma malarska na pęknięciach",
+      "zr": "SZP KB 2020",
+      "str": 3
+    }
+  ],
+  "sekcje": [
+    {
+      "etykieta": "Organizacja strefy",
+      "punkty": [
+        {
+          "t": "Wyznacz drogę dojazdu dla kolejnych SIS, miejsce zbiórki ratowników po ewakuacji i kierunki ewakuacji.",
+          "zr": "SZP KB 2020",
+          "str": 3
+        },
+        {
+          "t": "Zapoznaj wchodzących z zagrożeniami — pokaż je na gruzowisku.",
+          "zr": "SZP KB 2020",
+          "str": 3
+        }
+      ]
+    },
+    {
+      "etykieta": "Ewakuacja",
+      "punkty": [
+        {
+          "t": "Przeszukaj niezawalone części obiektu i obiekty przyległe; ewakuuj ludzi do punktu w bezpiecznej strefie.",
+          "zr": "SZP KB 2020",
+          "str": 3
+        },
+        {
+          "t": "Niestabilne części — podpory budowlane; brak sprzętu = miejsce niebezpieczne do czasu stabilizacji przez SGPR.",
+          "zr": "SZP KB 2020",
+          "str": 3
+        },
+        {
+          "t": "Warunki dla ewakuowanych (namioty, autobus), ewidencja z wywiadem.",
+          "zr": "SZP KB 2020",
+          "str": 3
+        },
+        {
+          "t": "Z nadzorem budowlanym lub specjalistą budownictwa określ warunki wejścia ratowników na gruzowisko.",
+          "zr": "SZP KB 2020",
+          "str": 3
+        }
+      ]
+    }
+  ],
+  "tagi_wspolne": [
+    "katastrofa budowlana",
+    "zawalenie",
+    "strefa zagrozenia",
+    "ewakuacja"
+  ],
   "dokumenty_zrodlowe": [
     {
       "dokument_id": "doc-katastrofa-budowlana-2020",
       "strona": 3,
-      "sekcja": "Odpowiednia karta SZP katastrofy budowlanej"
+      "sekcja": "Strefa zagrożenia i ewakuacja (s. 3)"
     }
   ],
   "data_przegladu": "2026-10-27"

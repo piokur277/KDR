@@ -1,8 +1,10 @@
 {
   "id": "KARTA-BUD-PRZEKAZANIE-KATASTROFA-BUDOWLANA",
+  "wzorzec": 2,
   "kategoria": "organizacja",
-  "zrodlo": "Standardowe zasady postepowania podczas katastrofy budowlanej po wystapieniu katastrofy budowlanej, KG PSP",
-  "data_aktualizacji": "2020-09-07",
+  "grupa": "bud",
+  "zrodlo": "KG PSP: Standardowe zasady postępowania po wystąpieniu katastrofy budowlanej, wydanie I, 2020.",
+  "data_aktualizacji": "2026-10-27",
   "slowo_kluczowe": "przekazanie miejsca zdarzenia katastrofa budowlana",
   "keywords": [
     "przekazanie gruzowisko",
@@ -10,24 +12,54 @@
     "przekazanie zawalony budynek",
     "przekazanie katastrofa budowlana"
   ],
-  "prefix": "Katastrofa budowlana - przekazanie miejsca zdarzenia po zakonczeniu dzialan.",
-  "content": "1. KOD / NAZWA: katastrofa budowlana - przekazanie miejsca zdarzenia.\n2. DOKUMENTACJA: przekaz miejsce zdarzenia wlascicielowi, uzytkownikowi albo Policji zgodnie z obowiazujacymi zasadami, sporzadzajac wlasciwy dokument przekazania. Dokumentem wskazanym w procedurze jest potwierdzenie przekazania terenu, obiektu lub mienia objetego dzialaniem ratowniczym.\n3. INFORMACJE DLA PRZEJMUJACEGO: przekaz osobie przejmujacej informacje o prowadzonych dzialaniach ratowniczych oraz potencjalnych zagrozeniach, w szczegolnosci o aktualnej sytuacji na terenie akcji, miejscach niebezpiecznych lub mogacych stanowic zagrozenie, elementach konstrukcji i obiektu ewakuowanymi poza obrys obiektu oraz stanie mediow w obiekcie.\n4. OGRANICZENIA I OSTRZEZENIA: zwroc uwage, ze elementy stabilizacji gruzowiska byly wykonywane tylko na potrzebe dzialan ratowniczych i po ich zakonczeniu nie daja gwarancji bezpieczenstwa.\n5. DALSZE POSTEPOWANIE: ustal sposob dalszego postepowania w stosunku do obiektu przez inne sluzby, wlasciciela albo powiadom o tym osobe przejmujaca miejsce zdarzenia.\n6. UWAGI OPERACYJNE: karta konczy faze ratownicza i powinna jasno okreslac stan obiektu, zakres wykonanych zabezpieczen oraz pozostale ograniczenia zwiazane z mozliwoscia dalszego przebywania na terenie katastrofy budowlanej.",
-  "tagi_wspolne": [
-    "katastrofa budowlana",
-    "zawalenie",
-    "przekazanie"
-  ],
   "aliasy": [
     "przekazanie gruzowisko",
     "po akcji katastrofa budowlana",
     "przekazanie zawalony budynek",
     "przekazanie katastrofa budowlana"
   ],
+  "prefix": "Katastrofa budowlana — przekazanie miejsca zdarzenia właścicielowi, użytkownikowi lub Policji (SZP KG PSP 2020).",
+  "najpierw": [
+    {
+      "t": "Przekaż właścicielowi, użytkownikowi lub Policji — „Potwierdzenie przekazania terenu, obiektu lub mienia objętego działaniem ratowniczym”.",
+      "zr": "SZP KB 2020",
+      "str": 8
+    }
+  ],
+  "parametry": [],
+  "sekcje": [
+    {
+      "etykieta": "Przekaż informacje o",
+      "punkty": [
+        {
+          "t": "Aktualnej sytuacji, miejscach niebezpiecznych, elementach konstrukcji wyniesionych poza obrys, stanie mediów.",
+          "zr": "SZP KB 2020",
+          "str": 8
+        },
+        {
+          "t": "Tym, że stabilizacja gruzowiska służyła tylko działaniom ratowniczym i nie gwarantuje bezpieczeństwa.",
+          "zr": "SZP KB 2020",
+          "str": 8
+        },
+        {
+          "t": "Ustalonym dalszym postępowaniu z obiektem (inne służby, właściciel).",
+          "zr": "SZP KB 2020",
+          "str": 8
+        }
+      ]
+    }
+  ],
+  "tagi_wspolne": [
+    "katastrofa budowlana",
+    "zawalenie",
+    "przekazanie"
+  ],
   "dokumenty_zrodlowe": [
     {
       "dokument_id": "doc-katastrofa-budowlana-2020",
       "strona": 8,
-      "sekcja": "Odpowiednia karta SZP katastrofy budowlanej"
+      "sekcja": "Przekazanie miejsca zdarzenia (s. 8)"
     }
-  ]
+  ],
+  "data_przegladu": "2026-10-27"
 }
