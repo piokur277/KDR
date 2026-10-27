@@ -199,12 +199,22 @@
           "str": 12
         },
         {
-          "t": "Poziom strategiczny dla odwodów operacyjnych dopiero powyżej 1 kompanii; nowe definicje: odcinek bojowy, dowódca odcinka bojowego, obszar chroniony.",
+          "t": "Poziom strategiczny dla odwodów operacyjnych dopiero powyżej 1 kompanii.",
+          "zr": "Rozp. KSRG 2026",
+          "str": 12
+        },
+        {
+          "t": "Nowe definicje: odcinek bojowy, dowódca odcinka bojowego, obszar chroniony.",
           "zr": "Rozp. KSRG 2026",
           "str": 2
         },
         {
-          "t": "Dokumentacja opracowana na podstawie rozporządzenia z 2021 r. zachowuje ważność do czasu aktualizacji.",
+          "t": "Plany ratownicze sporządzone wg rozporządzenia z 2021 r. zachowują ważność 1 rok od ostatniej aktualizacji, nie dłużej niż do 30.06.2027.",
+          "zr": "Rozp. KSRG 2026",
+          "str": 24
+        },
+        {
+          "t": "Dokumentacja KG PSP (m.in. organizowanie działań ratowniczych) wydana na podstawie rozporządzenia z 2021 r. zachowuje ważność do czasu aktualizacji.",
           "zr": "Rozp. KSRG 2026",
           "str": 24
         }
