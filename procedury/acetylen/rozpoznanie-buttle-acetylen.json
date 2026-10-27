@@ -1,8 +1,10 @@
 {
   "id": "KARTA-ACETYLEN-ROZPOZNANIE",
+  "wzorzec": 2,
   "kategoria": "rozpoznanie",
-  "zrodlo": "Standardowe zasady postepowania podczas zdarzen z udzialem butli z acetylenem, KG PSP",
-  "data_aktualizacji": "2020-03-13",
+  "grupa": "cbrn",
+  "zrodlo": "KG PSP: Standardowe zasady postępowania podczas zdarzeń z udziałem butli z acetylenem, wydanie II, 13.03.2020.",
+  "data_aktualizacji": "2026-10-27",
   "slowo_kluczowe": "rozpoznanie butli acetylen",
   "keywords": [
     "jak rozpoznac butle z acetylenem",
@@ -11,13 +13,6 @@
     "podejrzenie rozkladu acetylenu",
     "rozpoznanie acetylen"
   ],
-  "prefix": "Rozpoznanie - butle z acetylenem.",
-  "content": "1. KOD / NAZWA: rozpoznanie butli z acetylenem.\n2. ROZPOZNANIE WSTEPNE: pozyskaj od personelu, uczestnikow i swiadkow jak najwiecej informacji o okolicznosciach zdarzenia. Nie zblizaj sie do butli i jej nie przemieszczaj.\n3. OZNAKI ZAGROZENIA: ocen stan butli po oznakach zewnetrznych i otoczeniu; oznaki ogrzania, uszkodzen, plomienia, odglosu wyplywu gazu lub kopcacego plomienia wskazuja na zagrozenie i potrzebe rozpoczecia chlodzenia.\n4. DZIALANIA KRYTYCZNE: gdy nie jestes pewien stanu butli, podaj jak najszybciej rozproszony prad wody na cala powierzchnie i obserwuj parowanie; jesli wystepuje para nad plaszczem, kontynuuj chlodzenie.\n5. KWALIFIKACJA: ocen, czy butla jest szczelna. Butle poddane dzialaniu ognia, ciepla lub wielokrotnym uderzeniom kwalifikuj do Z1. Butle niepoddane tym oddzialywaniom, ale nieszczelne wewnatrz obiektu kwalifikuj do Z2. Butle niepoddane tym oddzialywaniom, ale nieszczelne na zewnatrz obiektu kwalifikuj do Z3. Butle niepoddane tym oddzialywaniom i szczelne kwalifikuj do Z4.\n6. UWAGI OPERACYJNE: przy braku pewnej informacji o stanie butli przyjmij najbardziej niebezpieczny przypadek i prowadz dzialania jak dla karty Z1.",
-  "tagi_wspolne": [
-    "acetylen",
-    "butla acetylenowa",
-    "rozpoznanie"
-  ],
   "aliasy": [
     "jak rozpoznac butle z acetylenem",
     "czy butla acetylen jest szczelna",
@@ -25,11 +20,118 @@
     "podejrzenie rozkladu acetylenu",
     "rozpoznanie acetylen"
   ],
+  "prefix": "Butle z acetylenem — rozpoznanie i kwalifikacja do kart Z1–Z4 (SZP KG PSP 2020).",
+  "najpierw": [
+    {
+      "t": "Nie zbliżaj się do butli i jej nie przemieszczaj.",
+      "zr": "SZP C2H2 2020",
+      "str": 2
+    },
+    {
+      "t": "Nie znasz stanu butli — jak najszybciej podaj rozproszony prąd wody na całą powierzchnię i obserwuj parowanie; para = kontynuuj chłodzenie.",
+      "zr": "SZP C2H2 2020",
+      "str": 2
+    },
+    {
+      "t": "Brak pewnej informacji o stanie butli — maksymalne środki ochrony i działania wg karty Z1.",
+      "zr": "SZP C2H2 2020",
+      "str": 2
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "UN / nr zagrożenia",
+      "wartosc": "UN 1001 lub 3374 · 239",
+      "zr": "SZP C2H2 2020",
+      "str": 1
+    },
+    {
+      "nazwa": "Granice wybuchowości",
+      "wartosc": "2,3–82% obj. w powietrzu; gaz lżejszy od powietrza",
+      "zr": "SZP C2H2 2020",
+      "str": 1
+    },
+    {
+      "nazwa": "Powyżej 65°C w butli",
+      "wartosc": "brak przestrzeni parowej — gwałtowny wzrost ciśnienia, rozerwanie hydrauliczne",
+      "zr": "SZP C2H2 2020",
+      "str": 1
+    },
+    {
+      "nazwa": "Zawartość butli",
+      "wartosc": "8 kg (40 dm³) / 10 kg (50 dm³)",
+      "zr": "SZP C2H2 2020",
+      "str": 1
+    }
+  ],
+  "sekcje": [
+    {
+      "etykieta": "Oznaki zagrożenia",
+      "punkty": [
+        {
+          "t": "Obserwuj z dystansu (lornetka, aparat, kamera z zoomem); pomocniczo kamera termowizyjna lub pirometr.",
+          "zr": "SZP C2H2 2020",
+          "str": 2
+        },
+        {
+          "t": "Okopcenie, złuszczona farba, przebarwienia, nadpalone naklejki, spalone opony wózka, przewody uszkodzone termicznie, zawirowanie powietrza = możliwy rozkład acetylenu lub działanie ognia/ciepła.",
+          "zr": "SZP C2H2 2020",
+          "str": 2
+        },
+        {
+          "t": "Płomień intensywny — zwiększone ciśnienie; żółty lub kopcący — zmniejszone ciśnienie; sadza, ciemny dym, nierówny strumień — rozkład acetylenu.",
+          "zr": "SZP C2H2 2020",
+          "str": 2
+        },
+        {
+          "t": "Szczelność oceniaj wzrokowo z odległości i z informacji personelu oraz świadków.",
+          "zr": "SZP C2H2 2020",
+          "str": 2
+        }
+      ]
+    },
+    {
+      "etykieta": "Kwalifikacja",
+      "punkty": [
+        {
+          "t": "Z1 — butla poddana działaniu ognia, ciepła lub wielokrotnym uderzeniom (szczelna lub nie).",
+          "zr": "SZP C2H2 2020",
+          "str": 2
+        },
+        {
+          "t": "Z2 — niepoddana, nieszczelna, wewnątrz obiektu · Z3 — niepoddana, nieszczelna, na zewnątrz · Z4 — niepoddana, szczelna.",
+          "zr": "SZP C2H2 2020",
+          "str": 2
+        }
+      ]
+    },
+    {
+      "etykieta": "Zagrożenia",
+      "punkty": [
+        {
+          "t": "Wybuch możliwy z dostępem i bez dostępu powietrza; groźny także po usunięciu źródła ciepła, przy upadku z wysokości i wycieku w pomieszczeniu.",
+          "zr": "SZP C2H2 2020",
+          "str": 1
+        },
+        {
+          "t": "Dla ratowników: fala ciśnienia, odłamki, kula ognia, uszkodzenie konstrukcji, uduszenie (mało tlenu w pomieszczeniu).",
+          "zr": "SZP C2H2 2020",
+          "str": 1
+        }
+      ]
+    }
+  ],
+  "tagi_wspolne": [
+    "acetylen",
+    "butla acetylenowa",
+    "rozpoznanie"
+  ],
   "dokumenty_zrodlowe": [
     {
       "dokument_id": "doc-acetylen-szp-2020",
       "strona": 2,
-      "sekcja": "Rozpoznanie"
+      "sekcja": "Charakterystyka (s. 1), rozpoznanie (s. 2)"
     }
-  ]
+  ],
+  "data_przegladu": "2026-10-27"
 }

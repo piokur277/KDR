@@ -1,31 +1,94 @@
 {
   "id": "KARTA-ACETYLEN-Z3",
+  "wzorzec": 2,
   "kategoria": "dzialania",
-  "zrodlo": "Standardowe zasady postepowania podczas zdarzen z udzialem butli z acetylenem, KG PSP",
-  "data_aktualizacji": "2020-03-13",
+  "grupa": "cbrn",
+  "zrodlo": "KG PSP: Standardowe zasady postępowania podczas zdarzeń z udziałem butli z acetylenem, wydanie II, 13.03.2020.",
+  "data_aktualizacji": "2026-10-27",
   "slowo_kluczowe": "nieszczelna butla acetylen na zewnatrz",
   "keywords": [
     "wyciek acetylenu na zewnatrz",
     "acetylen poza budynkiem",
     "karta z3 acetylen"
   ],
-  "prefix": "Karta Z3 - Butle niepoddane dzialaniu ognia/ciepla lub wielokrotnym uderzeniom - nieszczelne, znajdujace sie na zewnatrz obiektu.",
-  "content": "1. KOD / NAZWA: Z3 - butle z acetylenem niepoddane dzialaniu ognia, ciepla lub wielokrotnym uderzeniom, nieszczelne, znajdujace sie na zewnatrz obiektu.\n2. ROZPOZNANIE: potwierdz, ze butla jest nieszczelna i znajduje sie na zewnatrz obiektu. Monitoruj obszar wystepowania mieszaniny wybuchowej.\n3. STREFA: wyznacz promien strefy zagrozenia na podstawie wskazan urzadzen pomiarowych, lecz nie mniejszy niz 30 m, i przeprowadz ewakuacje osob ze strefy.\n4. SOI: ogranicz liczbe ratownikow w strefie do minimum i stosuj ochrone drog oddechowych oraz oczu.\n5. DZIALANIA KRYTYCZNE: wyeliminuj potencjalne zrodla zaplonu, ratownikow przebywajacych w strefie zabezpiecz rozproszonym pradem wody, korzystaj z narzedzi nieiskrzacych i urzadzen w wykonaniu przeciwwybuchowym.\n6. PROCEDURA SZCZEGOLOWA: gdy nie wystepuje zagrozenie wybuchem, podejmij probe zakrecenia zaworu na butli w celu zatrzymania wycieku gazu. Po zakreceniu zaworu sprawdz, czy cala powierzchnia butli pozostaje zimna; jesli nie, przejdz do dzialan z karty Z1, a jesli pozostaje zimna, dopuszcza sie jej przeniesienie w inne bezpieczniejsze miejsce.\n7. CO MOZE POJSC NIE TAK: najwiekszym bledem jest niedoszacowanie strefy, pozostawienie aktywnych zrodel zaplonu oraz przenoszenie butli bez potwierdzenia, ze cala powierzchnia pozostaje zimna.\n8. UWAGI OPERACYJNE: karta dotyczy butli nieszczelnych na zewnatrz obiektu, ale tylko wtedy, gdy nie byly poddane dzialaniu ognia, ciepla lub wielokrotnym uderzeniom.",
-  "tagi_wspolne": [
-    "acetylen",
-    "butla acetylenowa",
-    "wyciek"
-  ],
   "aliasy": [
     "wyciek acetylenu na zewnatrz",
     "acetylen poza budynkiem",
     "karta z3 acetylen"
   ],
+  "prefix": "Acetylen Z3 — butla nieszczelna na zewnątrz obiektu, niepoddana działaniu ognia/ciepła (SZP KG PSP 2020).",
+  "najpierw": [
+    {
+      "t": "Promień strefy wg wskazań przyrządów pomiarowych, nie mniej niż 30 m; ewakuuj ludzi.",
+      "zr": "SZP C2H2 2020",
+      "str": 6
+    },
+    {
+      "t": "Usuń źródła zapłonu; mierz zasięg mieszaniny wybuchowej.",
+      "zr": "SZP C2H2 2020",
+      "str": 6
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "Strefa",
+      "wartosc": "wg pomiarów, min. 30 m",
+      "zr": "SZP C2H2 2020",
+      "str": 6
+    },
+    {
+      "nazwa": "Ochrona w strefie",
+      "wartosc": "ochrona dróg oddechowych + ochrona oczu przed błyskiem",
+      "zr": "SZP C2H2 2020",
+      "str": 6
+    },
+    {
+      "nazwa": "Sprzęt w strefie",
+      "wartosc": "nieiskrzący, przeciwwybuchowy co najmniej EEx IIC T2",
+      "zr": "SZP C2H2 2020",
+      "str": 6
+    }
+  ],
+  "sekcje": [
+    {
+      "etykieta": "Działania",
+      "punkty": [
+        {
+          "t": "Ratowników w strefie osłaniaj rozproszonym prądem wody; narzędzia nieiskrzące, urządzenia przeciwwybuchowe (co najmniej EEx IIC T2).",
+          "zr": "SZP C2H2 2020",
+          "str": 6
+        },
+        {
+          "t": "Bez zagrożenia wybuchem — spróbuj zakręcić zawór.",
+          "zr": "SZP C2H2 2020",
+          "str": 6
+        },
+        {
+          "t": "Po zakręceniu: butla ciepła — karta Z1; cała zimna — można przenieść w bezpieczniejsze miejsce.",
+          "zr": "SZP C2H2 2020",
+          "str": 6
+        }
+      ]
+    }
+  ],
+  "nie_rob": [
+    {
+      "t": "Ogranicz liczbę ratowników w strefie do niezbędnego minimum.",
+      "zr": "SZP C2H2 2020",
+      "str": 6
+    }
+  ],
+  "tagi_wspolne": [
+    "acetylen",
+    "butla acetylenowa",
+    "wyciek"
+  ],
   "dokumenty_zrodlowe": [
     {
       "dokument_id": "doc-acetylen-szp-2020",
       "strona": 6,
-      "sekcja": "Karta Z3 - butla nieszczelna na zewnątrz obiektu"
+      "sekcja": "Karta Z3 (s. 6)"
     }
-  ]
+  ],
+  "data_przegladu": "2026-10-27"
 }
