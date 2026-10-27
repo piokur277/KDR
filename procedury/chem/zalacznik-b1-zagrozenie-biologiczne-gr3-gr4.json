@@ -1,8 +1,10 @@
 {
   "id": "KARTA-CHEM-B1-ZAGROZENIE-BIOLOGICZNE-GR3-GR4",
+  "wzorzec": 2,
   "kategoria": "dzialania",
-  "zrodlo": "Zalacznik nr B.1. Zasady postepowania jednostek organizacyjnych PSP w przypadku podejrzenia zagrozenia chorobami szczegolnie niebezpiecznymi i wysoce zakaznymi",
-  "data_aktualizacji": "",
+  "grupa": "bio",
+  "zrodlo": "KG PSP: Załącznik nr B.1 do Zasad organizacji ratownictwa chemicznego i ekologicznego w KSRG (KG PSP, 2025) — postępowanie PSP przy podejrzeniu chorób szczególnie niebezpiecznych i wysoce zakaźnych.",
+  "data_aktualizacji": "2026-10-27",
   "slowo_kluczowe": "zagrozenie biologiczne grupa 3",
   "keywords": [
     "zagrozenie biologiczne grupa 4",
@@ -14,13 +16,6 @@
     "pis psp biologiczne",
     "odpady biologiczne psp"
   ],
-  "prefix": "Zalacznik B1 - Zasady postepowania PSP przy podejrzeniu zagrozenia chorobami szczegolnie niebezpiecznymi i wysoce zakaznymi.",
-  "content": "1. KOD / NAZWA: B1 - postepowanie PSP przy podejrzeniu zagrozenia biologicznego grupy 3 lub 4.\n2. DYSPONOWANIE: do zdarzen z grupa 3 dysponuje sie SGRChem, JRG PSP w zakresie wsparcia i ratownikow medycznych z odpowiednimi uprawnieniami; do grupy 4 dysponuje sie SGRChem posiadajace przeszkolenie i wyposazenie.\n3. NADZOR: nadzor nad dzialaniami prowadzi Panstwowa Inspekcja Sanitarna, ktora ustala z dowodca SGRChem miejsce dekontaminacji, nadzoruje jego przygotowanie, prowadzi imienne listy uczestnikow dzialan i nadzor epidemiologiczny po zakonczeniu akcji.\n4. ROZPOZNANIE: rozpoznanie i ocene miejsca zdarzenia prowadzi PIS we wspolpracy z PSP i Policja, a przygotowanie miejsca dzialan, w tym ciagu dekontaminacyjnego, odbywa sie zgodnie z uzgodnieniami z PIS.\n5. DZIALANIA KRYTYCZNE: zapewnij przeplyw informacji pomiedzy sluzbami, przygotuj miejsce dzialan i ciag dekontaminacyjny zgodnie z decyzjami PIS oraz uwzglednij mozliwosc kwarantanny ratownikow narazonych na kontakt z patogenem grupy 3 lub 4.\n6. PROCEDURA SZCZEGOLOWA: dekontaminacje miejsc wskazanych przez PIS prowadzi sie pod jej nadzorem. Male powierzchnie bez widocznych zanieczyszczen przemywa sie jednorazowymi sciereczkami do dezynfekcji, a pomieszczenia poddaje zamglawianiu. Powierzchnie i pomieszczenia zanieczyszczone materialem biologicznym najpierw oczyszcza sie, potem dezynfekuje, a zebrany material i sprzet po kontakcie pakuje kolejno w dwa czerwone worki, dekontaminuje, umieszcza w twardosciennym pojemniku, oznakowuje i sklada w wyznaczonym miejscu do czasu odbioru. Dla powierzchni otwartych zbiera sie widoczne zanieczyszczenia, pakuje material i nanosi preparat dekontaminacyjny na duze powierzchnie. Prowadzi sie tez dekontaminacje ratownikow, sil i srodkow oraz sprzetu sluzb.\n7. CO MOZE POJSC NIE TAK: brak uzgodnien z PIS, nieprawidlowe zabezpieczenie odpadow lub pominięcie nadzoru epidemiologicznego po akcji.\n8. UWAGI OPERACYJNE: utylizacji podlega wyposazenie jednorazowe, sprzet uszkodzony oraz elementy wskazane przez PIS. Proces zabezpieczania odpadow nadzoruje PIS.",
-  "tagi_wspolne": [
-    "cbrne",
-    "zagrozenie biologiczne",
-    "biologia"
-  ],
   "aliasy": [
     "zagrozenie biologiczne grupa 4",
     "choroby szczegolnie niebezpieczne",
@@ -31,11 +26,112 @@
     "pis psp biologiczne",
     "odpady biologiczne psp"
   ],
+  "prefix": "Zagrożenie biologiczne grupy 3 lub 4 (choroby szczególnie niebezpieczne) — dysponowanie, nadzór PIS, dekontaminacja, odpady (zał. B.1).",
+  "najpierw": [
+    {
+      "t": "Działania PSP prowadzone są pod nadzorem Państwowej Inspekcji Sanitarnej.",
+      "zr": "Zał. B.1",
+      "str": 1
+    },
+    {
+      "t": "Miejsce dekontaminacji ustala PIS w uzgodnieniu z dowódcą SGRChem; przygotowanie pod nadzorem PIS.",
+      "zr": "Zał. B.1",
+      "str": 1
+    },
+    {
+      "t": "Rozpoznanie i ocenę miejsca prowadzi PIS we współpracy z PSP i Policją.",
+      "zr": "Zał. B.1",
+      "str": 2
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "Grupa 3 — dysponuj",
+      "wartosc": "SGRChem z przeszkoleniem i wyposażeniem; JRG PSP do wsparcia; ratownicy medyczni z uprawnieniami",
+      "zr": "Zał. B.1",
+      "str": 1
+    },
+    {
+      "nazwa": "Grupa 4 — dysponuj",
+      "wartosc": "wyłącznie SGRChem z przeszkoleniem i wyposażeniem",
+      "zr": "Zał. B.1",
+      "str": 1
+    },
+    {
+      "nazwa": "Kwarantanna ratownika",
+      "wartosc": "decyduje PIS (np. po rozszczelnieniu kombinezonu)",
+      "zr": "Zał. B.1",
+      "str": 2
+    }
+  ],
+  "sekcje": [
+    {
+      "etykieta": "Nadzór epidemiologiczny",
+      "punkty": [
+        {
+          "t": "PIS tworzy imienne listy uczestników działań i prowadzi nadzór epidemiologiczny po akcji — także wobec rodzin i osób z codziennego kontaktu.",
+          "zr": "Zał. B.1",
+          "str": 1
+        }
+      ]
+    },
+    {
+      "etykieta": "Dekontaminacja miejsc wskazanych przez PIS",
+      "punkty": [
+        {
+          "t": "Bez widocznych zanieczyszczeń: małe powierzchnie — jednorazowe ściereczki dezynfekcyjne; pomieszczenie — zamgławianie.",
+          "zr": "Zał. B.1",
+          "str": 2
+        },
+        {
+          "t": "Zanieczyszczone materiałem biologicznym: zebrać ściereczkami higroskopijnymi, zdezynfekować powierzchnię, pomieszczenie — fumigacja.",
+          "zr": "Zał. B.1",
+          "str": 2
+        },
+        {
+          "t": "Odpady: czerwony worek → zamknąć, dekontaminować → drugi czerwony worek → dekontaminować → twardościenny pojemnik, oznakowany.",
+          "zr": "Zał. B.1",
+          "str": 2
+        },
+        {
+          "t": "Odpady złożyć w miejscu uzgodnionym z zarządcą, pod nadzorem lub w zamkniętym pomieszczeniu, do odbioru.",
+          "zr": "Zał. B.1",
+          "str": 2
+        },
+        {
+          "t": "Powierzchnie otwarte — po zebraniu zanieczyszczeń preparat dekontaminacyjny na duże powierzchnie.",
+          "zr": "Zał. B.1",
+          "str": 3
+        }
+      ]
+    },
+    {
+      "etykieta": "Po działaniach",
+      "punkty": [
+        {
+          "t": "Dekontaminacja ratowników (zał. D.3), sił i środków (zał. D.2) i sprzętu (zał. D.3).",
+          "zr": "Zał. B.1",
+          "str": 3
+        },
+        {
+          "t": "Utylizacji podlega sprzęt jednorazowy, uszkodzony i wskazany przez PIS; zabezpieczanie odpadów nadzoruje PIS.",
+          "zr": "Zał. B.1",
+          "str": 3
+        }
+      ]
+    }
+  ],
+  "tagi_wspolne": [
+    "cbrne",
+    "zagrozenie biologiczne",
+    "biologia"
+  ],
   "dokumenty_zrodlowe": [
     {
       "dokument_id": "doc-b1-choroby-zakazne",
       "strona": 1,
-      "sekcja": "Załącznik B.1"
+      "sekcja": "Załącznik B.1 (s. 1–3)"
     }
-  ]
+  ],
+  "data_przegladu": "2026-10-27"
 }

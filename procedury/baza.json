@@ -3161,9 +3161,11 @@
   },
   {
     "id": "KARTA-CHEM-B1-ZAGROZENIE-BIOLOGICZNE-GR3-GR4",
+    "wzorzec": 2,
     "kategoria": "dzialania",
-    "zrodlo": "Zalacznik nr B.1. Zasady postepowania jednostek organizacyjnych PSP w przypadku podejrzenia zagrozenia chorobami szczegolnie niebezpiecznymi i wysoce zakaznymi",
-    "data_aktualizacji": "",
+    "grupa": "bio",
+    "zrodlo": "KG PSP: Załącznik nr B.1 do Zasad organizacji ratownictwa chemicznego i ekologicznego w KSRG (KG PSP, 2025) — postępowanie PSP przy podejrzeniu chorób szczególnie niebezpiecznych i wysoce zakaźnych.",
+    "data_aktualizacji": "2026-10-27",
     "slowo_kluczowe": "zagrozenie biologiczne grupa 3",
     "keywords": [
       "zagrozenie biologiczne grupa 4",
@@ -3175,13 +3177,6 @@
       "pis psp biologiczne",
       "odpady biologiczne psp"
     ],
-    "prefix": "Zalacznik B1 - Zasady postepowania PSP przy podejrzeniu zagrozenia chorobami szczegolnie niebezpiecznymi i wysoce zakaznymi.",
-    "content": "1. KOD / NAZWA: B1 - postepowanie PSP przy podejrzeniu zagrozenia biologicznego grupy 3 lub 4.\n2. DYSPONOWANIE: do zdarzen z grupa 3 dysponuje sie SGRChem, JRG PSP w zakresie wsparcia i ratownikow medycznych z odpowiednimi uprawnieniami; do grupy 4 dysponuje sie SGRChem posiadajace przeszkolenie i wyposazenie.\n3. NADZOR: nadzor nad dzialaniami prowadzi Panstwowa Inspekcja Sanitarna, ktora ustala z dowodca SGRChem miejsce dekontaminacji, nadzoruje jego przygotowanie, prowadzi imienne listy uczestnikow dzialan i nadzor epidemiologiczny po zakonczeniu akcji.\n4. ROZPOZNANIE: rozpoznanie i ocene miejsca zdarzenia prowadzi PIS we wspolpracy z PSP i Policja, a przygotowanie miejsca dzialan, w tym ciagu dekontaminacyjnego, odbywa sie zgodnie z uzgodnieniami z PIS.\n5. DZIALANIA KRYTYCZNE: zapewnij przeplyw informacji pomiedzy sluzbami, przygotuj miejsce dzialan i ciag dekontaminacyjny zgodnie z decyzjami PIS oraz uwzglednij mozliwosc kwarantanny ratownikow narazonych na kontakt z patogenem grupy 3 lub 4.\n6. PROCEDURA SZCZEGOLOWA: dekontaminacje miejsc wskazanych przez PIS prowadzi sie pod jej nadzorem. Male powierzchnie bez widocznych zanieczyszczen przemywa sie jednorazowymi sciereczkami do dezynfekcji, a pomieszczenia poddaje zamglawianiu. Powierzchnie i pomieszczenia zanieczyszczone materialem biologicznym najpierw oczyszcza sie, potem dezynfekuje, a zebrany material i sprzet po kontakcie pakuje kolejno w dwa czerwone worki, dekontaminuje, umieszcza w twardosciennym pojemniku, oznakowuje i sklada w wyznaczonym miejscu do czasu odbioru. Dla powierzchni otwartych zbiera sie widoczne zanieczyszczenia, pakuje material i nanosi preparat dekontaminacyjny na duze powierzchnie. Prowadzi sie tez dekontaminacje ratownikow, sil i srodkow oraz sprzetu sluzb.\n7. CO MOZE POJSC NIE TAK: brak uzgodnien z PIS, nieprawidlowe zabezpieczenie odpadow lub pominięcie nadzoru epidemiologicznego po akcji.\n8. UWAGI OPERACYJNE: utylizacji podlega wyposazenie jednorazowe, sprzet uszkodzony oraz elementy wskazane przez PIS. Proces zabezpieczania odpadow nadzoruje PIS.",
-    "tagi_wspolne": [
-      "cbrne",
-      "zagrozenie biologiczne",
-      "biologia"
-    ],
     "aliasy": [
       "zagrozenie biologiczne grupa 4",
       "choroby szczegolnie niebezpieczne",
@@ -3192,19 +3187,123 @@
       "pis psp biologiczne",
       "odpady biologiczne psp"
     ],
+    "prefix": "Zagrożenie biologiczne grupy 3 lub 4 (choroby szczególnie niebezpieczne) — dysponowanie, nadzór PIS, dekontaminacja, odpady (zał. B.1).",
+    "najpierw": [
+      {
+        "t": "Działania PSP prowadzone są pod nadzorem Państwowej Inspekcji Sanitarnej.",
+        "zr": "Zał. B.1",
+        "str": 1
+      },
+      {
+        "t": "Miejsce dekontaminacji ustala PIS w uzgodnieniu z dowódcą SGRChem; przygotowanie pod nadzorem PIS.",
+        "zr": "Zał. B.1",
+        "str": 1
+      },
+      {
+        "t": "Rozpoznanie i ocenę miejsca prowadzi PIS we współpracy z PSP i Policją.",
+        "zr": "Zał. B.1",
+        "str": 2
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Grupa 3 — dysponuj",
+        "wartosc": "SGRChem z przeszkoleniem i wyposażeniem; JRG PSP do wsparcia; ratownicy medyczni z uprawnieniami",
+        "zr": "Zał. B.1",
+        "str": 1
+      },
+      {
+        "nazwa": "Grupa 4 — dysponuj",
+        "wartosc": "wyłącznie SGRChem z przeszkoleniem i wyposażeniem",
+        "zr": "Zał. B.1",
+        "str": 1
+      },
+      {
+        "nazwa": "Kwarantanna ratownika",
+        "wartosc": "decyduje PIS (np. po rozszczelnieniu kombinezonu)",
+        "zr": "Zał. B.1",
+        "str": 2
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Nadzór epidemiologiczny",
+        "punkty": [
+          {
+            "t": "PIS tworzy imienne listy uczestników działań i prowadzi nadzór epidemiologiczny po akcji — także wobec rodzin i osób z codziennego kontaktu.",
+            "zr": "Zał. B.1",
+            "str": 1
+          }
+        ]
+      },
+      {
+        "etykieta": "Dekontaminacja miejsc wskazanych przez PIS",
+        "punkty": [
+          {
+            "t": "Bez widocznych zanieczyszczeń: małe powierzchnie — jednorazowe ściereczki dezynfekcyjne; pomieszczenie — zamgławianie.",
+            "zr": "Zał. B.1",
+            "str": 2
+          },
+          {
+            "t": "Zanieczyszczone materiałem biologicznym: zebrać ściereczkami higroskopijnymi, zdezynfekować powierzchnię, pomieszczenie — fumigacja.",
+            "zr": "Zał. B.1",
+            "str": 2
+          },
+          {
+            "t": "Odpady: czerwony worek → zamknąć, dekontaminować → drugi czerwony worek → dekontaminować → twardościenny pojemnik, oznakowany.",
+            "zr": "Zał. B.1",
+            "str": 2
+          },
+          {
+            "t": "Odpady złożyć w miejscu uzgodnionym z zarządcą, pod nadzorem lub w zamkniętym pomieszczeniu, do odbioru.",
+            "zr": "Zał. B.1",
+            "str": 2
+          },
+          {
+            "t": "Powierzchnie otwarte — po zebraniu zanieczyszczeń preparat dekontaminacyjny na duże powierzchnie.",
+            "zr": "Zał. B.1",
+            "str": 3
+          }
+        ]
+      },
+      {
+        "etykieta": "Po działaniach",
+        "punkty": [
+          {
+            "t": "Dekontaminacja ratowników (zał. D.3), sił i środków (zał. D.2) i sprzętu (zał. D.3).",
+            "zr": "Zał. B.1",
+            "str": 3
+          },
+          {
+            "t": "Utylizacji podlega sprzęt jednorazowy, uszkodzony i wskazany przez PIS; zabezpieczanie odpadów nadzoruje PIS.",
+            "zr": "Zał. B.1",
+            "str": 3
+          }
+        ]
+      }
+    ],
+    "tagi_wspolne": [
+      "cbrne",
+      "zagrozenie biologiczne",
+      "biologia"
+    ],
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-b1-choroby-zakazne",
         "strona": 1,
-        "sekcja": "Załącznik B.1"
+        "sekcja": "Załącznik B.1 (s. 1–3)"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: Działania PSP prowadzone są pod nadzorem Państwowej Inspekcji Sanitarnej. Miejsce dekontaminacji ustala PIS w uzgodnieniu z dowódcą SGRChem; przygotowanie pod nadzorem PIS. Rozpoznanie i ocenę miejsca prowadzi PIS we współpracy z PSP i Policją.\n2. PARAMETRY: Grupa 3 — dysponuj — SGRChem z przeszkoleniem i wyposażeniem; JRG PSP do wsparcia; ratownicy medyczni z uprawnieniami; Grupa 4 — dysponuj — wyłącznie SGRChem z przeszkoleniem i wyposażeniem; Kwarantanna ratownika — decyduje PIS (np. po rozszczelnieniu kombinezonu)\n3. NADZÓR EPIDEMIOLOGICZNY: PIS tworzy imienne listy uczestników działań i prowadzi nadzór epidemiologiczny po akcji — także wobec rodzin i osób z codziennego kontaktu.\n4. DEKONTAMINACJA MIEJSC WSKAZANYCH PRZEZ PIS: Bez widocznych zanieczyszczeń: małe powierzchnie — jednorazowe ściereczki dezynfekcyjne; pomieszczenie — zamgławianie. Zanieczyszczone materiałem biologicznym: zebrać ściereczkami higroskopijnymi, zdezynfekować powierzchnię, pomieszczenie — fumigacja. Odpady: czerwony worek → zamknąć, dekontaminować → drugi czerwony worek → dekontaminować → twardościenny pojemnik, oznakowany. Odpady złożyć w miejscu uzgodnionym z zarządcą, pod nadzorem lub w zamkniętym pomieszczeniu, do odbioru. Powierzchnie otwarte — po zebraniu zanieczyszczeń preparat dekontaminacyjny na duże powierzchnie.\n5. PO DZIAŁANIACH: Dekontaminacja ratowników (zał. D.3), sił i środków (zał. D.2) i sprzętu (zał. D.3). Utylizacji podlega sprzęt jednorazowy, uszkodzony i wskazany przez PIS; zabezpieczanie odpadów nadzoruje PIS."
   },
   {
     "id": "KARTA-CHEM-B22-PODEJRZANA-PRZESYLKA-CBR",
+    "wzorzec": 2,
     "kategoria": "dzialania",
-    "zrodlo": "Zalacznik nr B.2.2. Algorytm postepowania i wspoldzialania w przypadku otrzymania niezidentyfikowanej przesylki, mogacej stanowic zagrozenie chemiczne, biologiczne lub radiacyjne",
-    "data_aktualizacji": "",
+    "grupa": "cbrn",
+    "zrodlo": "KG PSP: Załączniki nr B.2, B.2.1 i B.2.2 do Zasad organizacji ratownictwa chemicznego i ekologicznego w KSRG (KG PSP, 2025) — niezidentyfikowana przesyłka; pomocniczo checklista przekazana przez użytkownika.",
+    "data_aktualizacji": "2026-10-27",
     "slowo_kluczowe": "podejrzana przesylka",
     "keywords": [
       "niezidentyfikowana przesylka",
@@ -3220,12 +3319,6 @@
       "checklista niebezpieczna przesylka",
       "niebezpieczna przesylka checklista"
     ],
-    "prefix": "Zalacznik B2.2 - Algorytm postepowania przy otrzymaniu niezidentyfikowanej przesylki mogacej stanowic zagrozenie chemiczne, biologiczne lub radiacyjne.",
-    "content": "1. KOD / NAZWA: B2.2 - postepowanie przy otrzymaniu niezidentyfikowanej przesylki mogacej stanowic zagrozenie chemiczne, biologiczne lub radiacyjne.\n2. ROZPOZNANIE: rozpoznanie przesylki prowadzi Policja lub PSP wedlug wlasciwosci i rownoczesnie powiadamia pozostale sluzby i instytucje zgodnie z potrzebami.\n3. MATERIAL WYBUCHOWY: dzialania prowadzi Policja, transport realizuje Policja, a dalsze postepowanie obejmuje dzialania minersko-pirotechniczne, zniszczenie albo przekazanie probki do CLKP lub LK KWP.\n4. MATERIAL PROMIENIOTWORCZY: dzialania prowadza PSP i Ekipa Dozymetryczna Prezesa PAA, transport realizuje Ekipa Dozymetryczna Prezesa PAA lub ZUOP, a probke przekazuje sie do Ekipy Dozymetrycznej Prezesa PAA.\n5. MATERIAL CHEMICZNY: dzialania prowadza PSP i Policja, transport realizuje PSP lub Policja, a probke przekazuje sie do wlasciwego laboratorium CLKP, LK KWP lub BBK ABW.\n6. MATERIAL BIOLOGICZNY: dzialania prowadza PIS i PSP, transport realizuje PIS albo PSP, a probke przekazuje sie do laboratorium.\n7. BRUDNA BOMBA I MATERIAL NIEZIDENTYFIKOWANY: brudna bombe traktuje sie jako polaczenie urzadzenia wybuchowego z materialem chemicznym, biologicznym lub promieniotworczym i wlacza odpowiednie sluzby. Jezeli material pozostaje niezidentyfikowany, ale wykluczono urzadzenie wybuchowe i material promieniotworczy, dzialania prowadza PSP, PIS oraz wlasciwe laboratorium, a transport probki realizuje PSP.\n8. UWAGI OPERACYJNE: w razie potrzeby do pilotowania pojazdow przewozacych przesylke mozna wykorzystac Policje. Do wyboru laboratorium i organizacji wsparcia wykorzystuje sie zasoby CLKP, LK KWP oraz BBK ABW zgodnie z algorytmem.",
-    "tagi_wspolne": [
-      "cbrne",
-      "podejrzana przesylka"
-    ],
     "aliasy": [
       "niezidentyfikowana przesylka",
       "przesylka chemiczna",
@@ -3240,34 +3333,191 @@
       "checklista niebezpieczna przesylka",
       "niebezpieczna przesylka checklista"
     ],
-    "dokumenty_zrodlowe": [
+    "prefix": "Niezidentyfikowana (podejrzana) przesyłka CBR — działania PSP, kto prowadzi i przewozi, pakowanie, pierwsze zastępy (zał. B.2, B.2.1, B.2.2).",
+    "najpierw": [
       {
-        "dokument_id": "doc-b22-przesylka",
-        "strona": 1,
-        "sekcja": "Algorytm B.2.2"
+        "t": "SK PSP dysponuje SGRChem poziomu A i B; pozostałe jednostki wspierają SGRChem lub Policję.",
+        "zr": "Zał. B.2",
+        "str": 1
       },
+      {
+        "t": "Przesyłki nie otwieraj pod żadnym pozorem.",
+        "zr": "Zał. B.2",
+        "str": 6
+      },
+      {
+        "t": "Kolejność sprawdzeń: urządzenie wybuchowe — Policja; zagrożenie radiacyjne i chemiczne — PSP; biologiczne — PSP z PIS (bez kontaktu z materiałem).",
+        "zr": "Zał. B.2",
+        "str": 2
+      },
+      {
+        "t": "Pierwsze zastępy: odgrodź miejsce, odseparuj osoby po kontakcie i dozoruj je, zamknij okna, wyłącz wentylację i klimatyzację, czekaj na SGRChem.",
+        "zr": "Checklista (mat. użytk.)",
+        "str": 1
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Materiał wybuchowy lub „brudna bomba”",
+        "wartosc": "działania i transport: Policja; dalej saperzy, zniszczenie lub laboratorium CLKP/LK KWP",
+        "zr": "Zał. B.2.2",
+        "str": 1
+      },
+      {
+        "nazwa": "Materiał promieniotwórczy",
+        "wartosc": "PSP + Ekipa Dozymetryczna Prezesa PAA; transport Ekipa PAA lub ZUOP",
+        "zr": "Zał. B.2.2",
+        "str": 1
+      },
+      {
+        "nazwa": "Materiał chemiczny",
+        "wartosc": "PSP + Policja; transport PSP lub Policja; laboratorium CLKP, LK KWP lub BBK ABW",
+        "zr": "Zał. B.2.2",
+        "str": 1
+      },
+      {
+        "nazwa": "Materiał biologiczny",
+        "wartosc": "PIS + PSP; transport PIS (PSP, gdy PIS nie może); laboratorium",
+        "zr": "Zał. B.2.2",
+        "str": 1
+      },
+      {
+        "nazwa": "Materiał niezidentyfikowany",
+        "wartosc": "(wykluczone urządzenie wybuchowe i materiał promieniotwórczy) PSP, PIS, laboratorium; transport PSP",
+        "zr": "Zał. B.2.2",
+        "str": 1
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Pakowanie przesyłki (3 poziomy)",
+        "punkty": [
+          {
+            "t": "I: przezroczysty worek foliowy → dekontaminacja (zalecane zdjęcia) → drugi worek → dekontaminacja; w razie potrzeby trzeci.",
+            "zr": "Zał. B.2",
+            "str": 6
+          },
+          {
+            "t": "II: opakowanie środkowe twardościenne, szczelne, najdłuższy bok do 20 cm; przy cieczy materiał chłonny; oznaczenia „MATERIAŁ ZAKAŹNY” 6, strzałki, UN 2814.",
+            "zr": "Zał. B.2",
+            "str": 6
+          },
+          {
+            "t": "III: opakowanie zewnętrzne (skrzynia) unieruchomione w pojeździe, oznaczone jak wyżej.",
+            "zr": "Zał. B.2",
+            "str": 7
+          },
+          {
+            "t": "Duża przesyłka — sposób transportu (całość lub próbki) uzgodnij z inspektorem sanitarnym i Laboratorium PSP.",
+            "zr": "Zał. B.2",
+            "str": 6
+          }
+        ]
+      },
+      {
+        "etykieta": "Transport i laboratorium",
+        "punkty": [
+          {
+            "t": "Nieotwarta przesyłka bez zagrożenia wybuchem i istotnego zagrożenia chemicznego — do CLKP, BBK ABW lub LK KWP; decyduje Policja z PIS i PSP.",
+            "zr": "Zał. B.2",
+            "str": 2
+          },
+          {
+            "t": "Transport do Laboratorium PSP: na zlecenie inspektora sanitarnego, po protokole (zał. B.2.4) wypełnionym przez dowódcę SGRChem z PIS.",
+            "zr": "Zał. B.2",
+            "str": 3
+          },
+          {
+            "t": "Gotowość Laboratorium PSP: dowódca → SK KP/KM → SK KW → SK KG PSP; dysponuje i odwołuje tylko SK KG PSP.",
+            "zr": "Zał. B.2",
+            "str": 4
+          }
+        ]
+      },
+      {
+        "etykieta": "Kwalifikacja i dokumentacja",
+        "punkty": [
+          {
+            "t": "Nie jest „niezidentyfikowaną przesyłką”: rozsypany proszek lub rozlana ciecz, porzucone pojemniki, przesyłki rozszczelnione przez nieuwagę obsługi, podrzucone przedmioty.",
+            "zr": "Zał. B.2",
+            "str": 8
+          },
+          {
+            "t": "Podejrzenie ładunku wybuchowego z materiałem CBR — „przypuszczalne podłożenie ładunku wybuchowego”.",
+            "zr": "Zał. B.2",
+            "str": 8
+          },
+          {
+            "t": "Informacja ze zdarzenia: MZ chemiczne, nr ONZ 0000, kod 33 — akcje terrorystyczne.",
+            "zr": "Zał. B.2",
+            "str": 7
+          },
+          {
+            "t": "Działania PSP są wspomagające — możliwe czynności procesowe; uwzględnij zadania innych służb.",
+            "zr": "Zał. B.2",
+            "str": 8
+          }
+        ]
+      },
+      {
+        "etykieta": "Cechy podejrzanej przesyłki",
+        "punkty": [
+          {
+            "t": "Nieoczekiwany nadawca lub stempel, brak nadawcy, uszkodzenie, nakłucia, nacięcia, plamy, wysypujący się proszek lub wyciek.",
+            "zr": "Zał. B.2.1",
+            "str": 2
+          },
+          {
+            "t": "Rozmowa z osobą po kontakcie: pozostać na miejscu, nie dotykać, zamknąć okna, przejść do innego pomieszczenia (najlepiej z łazienką), umyć ręce.",
+            "zr": "Checklista (mat. użytk.)",
+            "str": 2
+          }
+        ]
+      }
+    ],
+    "nie_rob": [
+      {
+        "t": "Nie otwieraj przesyłki.",
+        "zr": "Zał. B.2",
+        "str": 6
+      }
+    ],
+    "tagi_wspolne": [
+      "cbrne",
+      "podejrzana przesylka"
+    ],
+    "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-b2-przesylka",
         "strona": 1,
-        "sekcja": "Zasady działań PSP - Załącznik B.2"
+        "sekcja": "Załącznik B.2 — zasady działań PSP (s. 1–8)"
+      },
+      {
+        "dokument_id": "doc-b22-przesylka",
+        "strona": 1,
+        "sekcja": "Załącznik B.2.2 — algorytm (s. 1)"
       },
       {
         "dokument_id": "doc-b21-przesylka",
-        "strona": 1,
-        "sekcja": "Procedura dla instytucji - Załącznik B.2.1"
+        "strona": 2,
+        "sekcja": "Załącznik B.2.1 — cechy przesyłki (s. 2)"
       },
       {
         "dokument_id": "doc-checklista-niebezpieczna-przesylka",
         "strona": 1,
-        "sekcja": "Checklista - zadania dla pierwszych PSP i rozpoznanie przesyłki"
+        "sekcja": "Materiał pomocniczy użytkownika (s. 1–2)"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: SK PSP dysponuje SGRChem poziomu A i B; pozostałe jednostki wspierają SGRChem lub Policję. Przesyłki nie otwieraj pod żadnym pozorem. Kolejność sprawdzeń: urządzenie wybuchowe — Policja; zagrożenie radiacyjne i chemiczne — PSP; biologiczne — PSP z PIS (bez kontaktu z materiałem). Pierwsze zastępy: odgrodź miejsce, odseparuj osoby po kontakcie i dozoruj je, zamknij okna, wyłącz wentylację i klimatyzację, czekaj na SGRChem.\n2. PARAMETRY: Materiał wybuchowy lub „brudna bomba” — działania i transport: Policja; dalej saperzy, zniszczenie lub laboratorium CLKP/LK KWP; Materiał promieniotwórczy — PSP + Ekipa Dozymetryczna Prezesa PAA; transport Ekipa PAA lub ZUOP; Materiał chemiczny — PSP + Policja; transport PSP lub Policja; laboratorium CLKP, LK KWP lub BBK ABW; Materiał biologiczny — PIS + PSP; transport PIS (PSP, gdy PIS nie może); laboratorium; Materiał niezidentyfikowany — (wykluczone urządzenie wybuchowe i materiał promieniotwórczy) PSP, PIS, laboratorium; transport PSP\n3. PAKOWANIE PRZESYŁKI (3 POZIOMY): I: przezroczysty worek foliowy → dekontaminacja (zalecane zdjęcia) → drugi worek → dekontaminacja; w razie potrzeby trzeci. II: opakowanie środkowe twardościenne, szczelne, najdłuższy bok do 20 cm; przy cieczy materiał chłonny; oznaczenia „MATERIAŁ ZAKAŹNY” 6, strzałki, UN 2814. III: opakowanie zewnętrzne (skrzynia) unieruchomione w pojeździe, oznaczone jak wyżej. Duża przesyłka — sposób transportu (całość lub próbki) uzgodnij z inspektorem sanitarnym i Laboratorium PSP.\n4. TRANSPORT I LABORATORIUM: Nieotwarta przesyłka bez zagrożenia wybuchem i istotnego zagrożenia chemicznego — do CLKP, BBK ABW lub LK KWP; decyduje Policja z PIS i PSP. Transport do Laboratorium PSP: na zlecenie inspektora sanitarnego, po protokole (zał. B.2.4) wypełnionym przez dowódcę SGRChem z PIS. Gotowość Laboratorium PSP: dowódca → SK KP/KM → SK KW → SK KG PSP; dysponuje i odwołuje tylko SK KG PSP.\n5. KWALIFIKACJA I DOKUMENTACJA: Nie jest „niezidentyfikowaną przesyłką”: rozsypany proszek lub rozlana ciecz, porzucone pojemniki, przesyłki rozszczelnione przez nieuwagę obsługi, podrzucone przedmioty. Podejrzenie ładunku wybuchowego z materiałem CBR — „przypuszczalne podłożenie ładunku wybuchowego”. Informacja ze zdarzenia: MZ chemiczne, nr ONZ 0000, kod 33 — akcje terrorystyczne. Działania PSP są wspomagające — możliwe czynności procesowe; uwzględnij zadania innych służb.\n6. CECHY PODEJRZANEJ PRZESYŁKI: Nieoczekiwany nadawca lub stempel, brak nadawcy, uszkodzenie, nakłucia, nacięcia, plamy, wysypujący się proszek lub wyciek. Rozmowa z osobą po kontakcie: pozostać na miejscu, nie dotykać, zamknąć okna, przejść do innego pomieszczenia (najlepiej z łazienką), umyć ręce.\n7. NIE RÓB: Nie otwieraj przesyłki."
   },
   {
     "id": "KARTA-CHEM-R1-OCHRONA-RADIOLOGICZNA",
+    "wzorzec": 2,
     "kategoria": "informacja",
-    "zrodlo": "Zalacznik nr R.1. Ochrona radiologiczna oraz dzialania podczas zdarzen radiacyjnych - podstawowe informacje",
-    "data_aktualizacji": "",
+    "grupa": "cbrn",
+    "zrodlo": "KG PSP: Załącznik nr R.1 do Zasad organizacji ratownictwa chemicznego i ekologicznego w KSRG (KG PSP, 2025) — ochrona radiologiczna, podstawowe informacje.",
+    "data_aktualizacji": "2026-10-27",
     "slowo_kluczowe": "zasady ochrony radiologicznej",
     "keywords": [
       "ochrona radiologiczna",
@@ -3280,13 +3530,6 @@
       "skazenie promieniotworcze",
       "moc dawki"
     ],
-    "prefix": "Zalacznik R1 - Ochrona radiologiczna oraz podstawowe informacje o dzialaniach podczas zdarzen radiacyjnych.",
-    "content": "1. KOD / NAZWA: R1 - ochrona radiologiczna oraz podstawowe informacje o dzialaniach podczas zdarzen radiacyjnych.\n2. ROZPOZNANIE ZAGROZENIA: zdarzenie radiacyjne to nietypowa sytuacja zwiazana ze zrodlem promieniowania jonizujacego, wymagajaca pilnych dzialan interwencyjnych w celu ograniczenia skutkow dla ludzi, mienia lub srodowiska.\n3. STREFA: strefa I (goraca) obejmuje teren, na ktorym moze wystepowac skazenie promieniotworcze i/lub moc dawki przekracza 100 uSv/h. Przy skazeniu 1000 Bq/cm2 dla izotopow gamma i beta, 100 Bq/cm2 dla izotopow alfa lub mocy dawki powyzej 100 uSv/h nalezy niezwlocznie usunac osoby poszkodowane i postronne.\n4. RODZAJE PROMIENIOWANIA: promieniowanie alfa jest slabo przenikliwe i stanowi glownie zagrozenie wewnetrzne; beta jest zagrozeniem zewnetrznym i wewnetrznym; gamma jest bardzo przenikliwe i stanowi zagrozenie zewnetrzne i wewnetrzne; neutronowe jest bardzo przenikliwe i stanowi zagrozenie zewnetrzne.\n5. SOI I OCHRONA: podstawowe zasady zmniejszenia narazenia to skrocenie czasu przebywania w poblizu zrodla, zwiekszenie odleglosci i stosowanie odpowiednich oslon. Przy promieniowaniu alfa, beta i gamma nalezy bezwzglednie stosowac filtrujacy sprzet ochrony ukladu oddechowego oraz minimum ubranie specjalne spelniajace PN-EN 469; przy neutronowym minimum ubranie specjalne spelniajace PN-EN 469.\n6. LIMITY NARAZENIA: dawka pochlonieta przez funkcjonariusza podczas dzialan ratowniczych nie moze przekroczyc 1 mSv rocznie; dopuszcza sie przekroczenie do 5 mSv pod warunkiem zachowania sredniej 1 mSv/rok w kolejnych 5 latach.\n7. TRANSPORT I OZNAKOWANIE: w transporcie materialow promieniotworczych pojazd oznakowuje sie tablicami barwy pomaranczowej oraz nalepkami ostrzegawczymi klasy 7D. Sztuki przesylki klasyfikuje sie do kategorii I-BIALA, II-ZOLTA lub III-ZOLTA w zaleznosci od mocy dawki na powierzchni i wskaznika transportowego.\n8. SPRZET I POMIARY: wskaznik transportowy TI to najwyzszy poziom promieniowania zmierzony w odleglosci 1 metra od zewnetrznych powierzchni sztuki przesylki. Sprzet dozymetryczny musi byc wzorcowany przez akredytowane laboratorium co 12 miesiecy bez kontrolnego zrodla albo co 24 miesiace przy kontrolnym zrodle promieniotworczym.\n9. UWAGI OPERACYJNE: karta ma charakter podstawowej informacji ochronnej i sluzy do szybkiego przypomnienia zasad ograniczania narazenia oraz podstaw oznakowania i pomiarow.",
-    "tagi_wspolne": [
-      "cbrne",
-      "radiacja",
-      "zdarzenie radiacyjne"
-    ],
     "aliasy": [
       "ochrona radiologiczna",
       "informacje o zdarzeniu radiacyjnym",
@@ -3298,19 +3541,120 @@
       "skazenie promieniotworcze",
       "moc dawki"
     ],
+    "prefix": "Ochrona radiologiczna — strefa I (100 µSv/h), rodzaje promieniowania i osłony, limity dawek, transport (zał. R.1).",
+    "najpierw": [
+      {
+        "t": "Strefa I (gorąca): możliwe skażenie promieniotwórcze lub moc dawki > 100 µSv/h.",
+        "zr": "Zał. R.1",
+        "str": 1
+      },
+      {
+        "t": "Czas, odległość, osłona: 2× dalej = 4× bezpieczniej; dawka rośnie proporcjonalnie do czasu.",
+        "zr": "Zał. R.1",
+        "str": 2
+      },
+      {
+        "t": "Alfa, beta, gamma: bezwzględnie filtrujący sprzęt OUO i min. ubranie specjalne PN-EN 469.",
+        "zr": "Zał. R.1",
+        "str": 3
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Usuń ludzi z terenu, gdy",
+        "wartosc": "≥ 1000 Bq/cm² (gamma, beta) · ≥ 100 Bq/cm² (alfa) · moc dawki > 100 µSv/h",
+        "zr": "Zał. R.1",
+        "str": 1
+      },
+      {
+        "nazwa": "Dawka funkcjonariusza",
+        "wartosc": "max 1 mSv/rok; do 5 mSv przy średniej 1 mSv/rok w kolejnych 5 latach",
+        "zr": "Zał. R.1",
+        "str": 3
+      },
+      {
+        "nazwa": "Wzorcowanie przyrządów",
+        "wartosc": "co 12 mies. (bez źródła kontrolnego) / 24 mies. (ze źródłem); akredytowane laboratorium",
+        "zr": "Zał. R.1",
+        "str": 6
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Rodzaje promieniowania",
+        "punkty": [
+          {
+            "t": "Alfa: zasięg do 10 cm, zatrzyma naskórek lub kartka — groźne wewnętrznie (wdychanie, połknięcie).",
+            "zr": "Zał. R.1",
+            "str": 2
+          },
+          {
+            "t": "Beta: zasięg do 10 m; osłony — tworzywa, aluminium, zabudowa; nie stosuj ołowiu (promieniowanie hamowania).",
+            "zr": "Zał. R.1",
+            "str": 2
+          },
+          {
+            "t": "Gamma i neutronowe: nieograniczony zasięg; osłony — beton, ołów, żelazo, zabudowa (tylko osłabiają).",
+            "zr": "Zał. R.1",
+            "str": 2
+          },
+          {
+            "t": "Najgroźniejsze jest narażenie wewnętrzne; maska chroni przed aerozolami, nie przed promieniowaniem zewnętrznym.",
+            "zr": "Zał. R.1",
+            "str": 3
+          }
+        ]
+      },
+      {
+        "etykieta": "Transport (ADR rozdz. 7)",
+        "punkty": [
+          {
+            "t": "Pojazd: 2 tablice pomarańczowe, 3 nalepki 7D (boki i tył).",
+            "zr": "Zał. R.1",
+            "str": 4
+          },
+          {
+            "t": "Kategorie sztuk przesyłki: I-BIAŁA, II-ŻÓŁTA, III-ŻÓŁTA wg mocy dawki na powierzchni i wskaźnika TI.",
+            "zr": "Zał. R.1",
+            "str": 5
+          },
+          {
+            "t": "TI — najwyższa moc dawki 1 m od powierzchni sztuki przesyłki (µSv/h ÷ 10).",
+            "zr": "Zał. R.1",
+            "str": 5
+          }
+        ]
+      }
+    ],
+    "nie_rob": [
+      {
+        "t": "Nie osłaniaj promieniowania beta ołowiem.",
+        "zr": "Zał. R.1",
+        "str": 2
+      }
+    ],
+    "tagi_wspolne": [
+      "cbrne",
+      "radiacja",
+      "zdarzenie radiacyjne"
+    ],
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-r1-radiologia",
         "strona": 1,
-        "sekcja": "Ochrona radiologiczna - podstawowe informacje"
+        "sekcja": "Załącznik R.1 (s. 1–8)"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: Strefa I (gorąca): możliwe skażenie promieniotwórcze lub moc dawki > 100 µSv/h. Czas, odległość, osłona: 2× dalej = 4× bezpieczniej; dawka rośnie proporcjonalnie do czasu. Alfa, beta, gamma: bezwzględnie filtrujący sprzęt OUO i min. ubranie specjalne PN-EN 469.\n2. PARAMETRY: Usuń ludzi z terenu, gdy — ≥ 1000 Bq/cm² (gamma, beta) · ≥ 100 Bq/cm² (alfa) · moc dawki > 100 µSv/h; Dawka funkcjonariusza — max 1 mSv/rok; do 5 mSv przy średniej 1 mSv/rok w kolejnych 5 latach; Wzorcowanie przyrządów — co 12 mies. (bez źródła kontrolnego) / 24 mies. (ze źródłem); akredytowane laboratorium\n3. RODZAJE PROMIENIOWANIA: Alfa: zasięg do 10 cm, zatrzyma naskórek lub kartka — groźne wewnętrznie (wdychanie, połknięcie). Beta: zasięg do 10 m; osłony — tworzywa, aluminium, zabudowa; nie stosuj ołowiu (promieniowanie hamowania). Gamma i neutronowe: nieograniczony zasięg; osłony — beton, ołów, żelazo, zabudowa (tylko osłabiają). Najgroźniejsze jest narażenie wewnętrzne; maska chroni przed aerozolami, nie przed promieniowaniem zewnętrznym.\n4. TRANSPORT (ADR ROZDZ. 7): Pojazd: 2 tablice pomarańczowe, 3 nalepki 7D (boki i tył). Kategorie sztuk przesyłki: I-BIAŁA, II-ŻÓŁTA, III-ŻÓŁTA wg mocy dawki na powierzchni i wskaźnika TI. TI — najwyższa moc dawki 1 m od powierzchni sztuki przesyłki (µSv/h ÷ 10).\n5. NIE RÓB: Nie osłaniaj promieniowania beta ołowiem."
   },
   {
     "id": "KARTA-CHEM-R2-ZDARZENIA-RADIACYJNE-ZAKRES-PODSTAWOWY",
+    "wzorzec": 2,
     "kategoria": "dzialania",
-    "zrodlo": "Zalacznik nr R.2. Ochrona radiologiczna oraz dzialania podczas zdarzen radiacyjnych - zakres podstawowy",
-    "data_aktualizacji": "",
+    "grupa": "cbrn",
+    "zrodlo": "KG PSP: Załącznik nr R.2 do Zasad organizacji ratownictwa chemicznego i ekologicznego w KSRG (KG PSP, 2025) — działania podczas zdarzeń radiacyjnych, zakres podstawowy.",
+    "data_aktualizacji": "2026-10-27",
     "slowo_kluczowe": "dzialania podstawowe zdarzenie radiacyjne",
     "keywords": [
       "zdarzenie radiacyjne zakres podstawowy",
@@ -3324,14 +3668,6 @@
       "pozar materialu promieniotworczego",
       "pozar z materialem promieniotworczym"
     ],
-    "prefix": "Zalacznik R2 - Dzialania podczas zdarzen radiacyjnych w zakresie podstawowym.",
-    "content": "1. KOD / NAZWA: R2 - dzialania podczas zdarzen radiacyjnych w zakresie podstawowym.\n2. ROZPOZNANIE: zakres podstawowy KSRG obejmuje weryfikacje zgloszenia na miejscu, wykonanie pomiarow dozymetrycznych, wyznaczenie strefy I, zabezpieczenie instalacji i mediow, ewakuacje i ratowanie ludzi oraz zwierzat, dostosowanie technik i sprzetu do rodzaju zagrozenia oraz prowadzenie dekontaminacji wstepnej.\n3. STREFA: wyznacz strefe I wokol miejsca zdarzenia, a w obiektach za jej granice przyjmij sciany pomieszczenia lub budynku. Wyznacz tez strefe II dla punktu dowodzenia, zbiorki osob ewakuowanych i kwalifikowanej pierwszej pomocy. Minimalny zalecany promien strefy to 3 m, chyba ze pomiary na granicy wskazuja ponad 100 uSv/h - wtedy strefe nalezy powiekszac.\n4. SOI: przy uwolnieniu materialu promieniotworczego stosuj maksymalne srodki ochrony, minimum odziez zgodna z PN-EN 469 oraz filtrujacy sprzet ochrony ukladu oddechowego. Do strefy potencjalnie niebezpiecznej wprowadzaj minimalna liczbe ratownikow.\n5. DZIALANIA KRYTYCZNE: uruchom miernik mocy dawki i dawkomierz indywidualny przed zblizeniem, prowadz rozpoznanie z wiatrem, nie dotykaj ani nie przemieszczaj uszkodzonego pojemnika, wyznacz strefy i ewakuuj ludzi poza obszar narazenia.\n6. PROCEDURA SZCZEGOLOWA: osoby ewakuowane lub poszkodowane, ktore moga byc skazone promieniotworczo, nalezy rozebrac z odziezy, obuwia, bielizny i bizuterii, zabezpieczyc odziez w podwojnym worku i pozostawic w oznakowanym miejscu strefy kontrolowanej. Rejestruj czas przebywania ratownikow w strefie I oraz moc dawki, wykonuj dokumentacje fotograficzna i traktuj odziez oraz sprzet jako potencjalnie skazony odpad promieniotworczy do czasu oceny przez SGRChem. Przy pozarze wyznacz strefe zagrozenia o minimalnym promieniu 30 m; w pomieszczeniach zamknietych wprowadzaj jedna rote, a w obiektach otwartych rozwaz jednego ratownika z asekuracja. Preferuj proszek lub piane srednia/ciezka, a prady rozproszone wody stosuj tylko w szczegolnych przypadkach z bezpiecznej odleglosci.\n7. DAWKI I EWIDENCJA: do oszacowania dawki skutecznej stosuj wzor Dp = D x t, gdzie D jest moca dawki, a t czasem przebywania ratownika w polu promieniowania. Kazdy funkcjonariusz musi posiadac indywidualna karte ewidencyjna narazenia i prowadzic ewidencje dawek w uSv. Przy dawce jednorazowej lub sumarycznej 1000 uSv nalezy wdrozyc procedure medycyny pracy i powiadomien.\n8. CO MOZE POJSC NIE TAK: zbyt bliskie podejscie bez uruchomionego sprzetu dozymetrycznego, ewakuacja w miejsce stacjonowania sil i srodkow, wprowadzenie zbyt licznej obsady do strefy i uzycie zwartych pradow wody przy pozarze materialu promieniotworczego.\n9. UWAGI OPERACYJNE: przy pozarze pojazdu przewozacego materialy promieniotworcze czas pracy ratownika w strefie zagrozenia nie moze przekroczyc 30 minut. Weryfikacji oszacowanej dawki dokonuje dowodca SGRChem.",
-    "tagi_wspolne": [
-      "cbrne",
-      "radiacja",
-      "zdarzenie radiacyjne",
-      "pozar"
-    ],
     "aliasy": [
       "zdarzenie radiacyjne zakres podstawowy",
       "promieniowanie zakres podstawowy psp",
@@ -3344,13 +3680,149 @@
       "pozar materialu promieniotworczego",
       "pozar z materialem promieniotworczym"
     ],
+    "prefix": "Zdarzenie radiacyjne — zakres podstawowy: rozpoznanie, strefa 3 m / 100 µSv/h, pożar 30 m, dawki ratowników (zał. R.2).",
+    "najpierw": [
+      {
+        "t": "Dojazd z wiatrem; siły i środki min. 50 m od miejsca zdarzenia.",
+        "zr": "Zał. R.2",
+        "str": 2
+      },
+      {
+        "t": "Nie zbliżaj się bez włączonego miernika mocy dawki; uruchom dawkomierz indywidualny.",
+        "zr": "Zał. R.2",
+        "str": 2
+      },
+      {
+        "t": "Nie wiesz, czy materiał się uwolnił — przyjmij, że tak (pesymizacja): PN-EN 469 i min. filtrujący OUO.",
+        "zr": "Zał. R.2",
+        "str": 2
+      },
+      {
+        "t": "Nie dotykaj i nie przemieszczaj uszkodzonego pojemnika.",
+        "zr": "Zał. R.2",
+        "str": 3
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Strefa I",
+        "wartosc": "min. 3 m; zwiększ, aż na granicy będzie ≤ 100 µSv/h; w budynku — ściany pomieszczenia",
+        "zr": "Zał. R.2",
+        "str": 3
+      },
+      {
+        "nazwa": "100 µSv/h dalej niż 1 m",
+        "wartosc": "nie podchodź do pojemnika",
+        "zr": "Zał. R.2",
+        "str": 4
+      },
+      {
+        "nazwa": "Pożar",
+        "wartosc": "strefa min. 30 m; pożar pojazdu — max 30 min pracy w strefie",
+        "zr": "Zał. R.2",
+        "str": 4
+      },
+      {
+        "nazwa": "Dawka 1000 µSv",
+        "wartosc": "jednorazowo: badania lekarskie i odsunięcie od strefy I do końca roku; zgłoszenie do KCKR w 3 dni",
+        "zr": "Zał. R.2",
+        "str": 6
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Strefy i ewakuacja",
+        "punkty": [
+          {
+            "t": "Strefa II (z uwzględnieniem wiatru): punkt dowodzenia, zbiórka ewakuowanych, KPP.",
+            "zr": "Zał. R.2",
+            "str": 1
+          },
+          {
+            "t": "Nigdy nie ewakuuj ludzi w miejsce stacjonowania sił i środków.",
+            "zr": "Zał. R.2",
+            "str": 3
+          },
+          {
+            "t": "Ewakuowanych przekaż ZRM z informacją o podejrzeniu skażenia i pobycie w strefie > 100 µSv/h.",
+            "zr": "Zał. R.2",
+            "str": 2
+          },
+          {
+            "t": "Oznaki skażenia — zdejmij całe ubranie z butami i biżuterią; podwójny worek, oznakowane miejsce.",
+            "zr": "Zał. R.2",
+            "str": 2
+          }
+        ]
+      },
+      {
+        "etykieta": "Pomiary",
+        "punkty": [
+          {
+            "t": "Dawkomierz na wysokości klatki piersiowej, przed pomiarem wskazuje zero.",
+            "zr": "Zał. R.2",
+            "str": 3
+          },
+          {
+            "t": "Miernik włącz przy tle naturalnym, odczekaj min. 10 s; wskazanie nigdy nie może wynosić 0.",
+            "zr": "Zał. R.2",
+            "str": 4
+          },
+          {
+            "t": "Rejestruj czas ratowników w strefie I i moc dawki; dawka = moc dawki × czas (Dp = D × t).",
+            "zr": "Zał. R.2",
+            "str": 5
+          }
+        ]
+      },
+      {
+        "etykieta": "Pożar",
+        "punkty": [
+          {
+            "t": "W pomieszczeniach zamkniętych tylko 1 rota; w otwartych rozważ 1 ratownika z asekuracją.",
+            "zr": "Zał. R.2",
+            "str": 4
+          },
+          {
+            "t": "Proszek lub piana średnia/ciężka; prądy rozproszone wody tylko wyjątkowo, z bezpiecznej odległości; środków jak najmniej.",
+            "zr": "Zał. R.2",
+            "str": 4
+          },
+          {
+            "t": "Po działaniach ratownicy zdejmują SOI i są wyłączeni do oceny skażenia; skażenie mierzy tylko SGRChem.",
+            "zr": "Zał. R.2",
+            "str": 4
+          }
+        ]
+      }
+    ],
+    "nie_rob": [
+      {
+        "t": "Nie stosuj zwartych prądów wody.",
+        "zr": "Zał. R.2",
+        "str": 4
+      },
+      {
+        "t": "Nie prowadź ewakuacji w miejsce stacjonowania sił.",
+        "zr": "Zał. R.2",
+        "str": 3
+      }
+    ],
+    "tagi_wspolne": [
+      "cbrne",
+      "radiacja",
+      "zdarzenie radiacyjne",
+      "pozar"
+    ],
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-r2-radiologia",
         "strona": 1,
-        "sekcja": "Załącznik R.2 - zakres podstawowy"
+        "sekcja": "Załącznik R.2 (s. 1–6)"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: Dojazd z wiatrem; siły i środki min. 50 m od miejsca zdarzenia. Nie zbliżaj się bez włączonego miernika mocy dawki; uruchom dawkomierz indywidualny. Nie wiesz, czy materiał się uwolnił — przyjmij, że tak (pesymizacja): PN-EN 469 i min. filtrujący OUO. Nie dotykaj i nie przemieszczaj uszkodzonego pojemnika.\n2. PARAMETRY: Strefa I — min. 3 m; zwiększ, aż na granicy będzie ≤ 100 µSv/h; w budynku — ściany pomieszczenia; 100 µSv/h dalej niż 1 m — nie podchodź do pojemnika; Pożar — strefa min. 30 m; pożar pojazdu — max 30 min pracy w strefie; Dawka 1000 µSv — jednorazowo: badania lekarskie i odsunięcie od strefy I do końca roku; zgłoszenie do KCKR w 3 dni\n3. STREFY I EWAKUACJA: Strefa II (z uwzględnieniem wiatru): punkt dowodzenia, zbiórka ewakuowanych, KPP. Nigdy nie ewakuuj ludzi w miejsce stacjonowania sił i środków. Ewakuowanych przekaż ZRM z informacją o podejrzeniu skażenia i pobycie w strefie > 100 µSv/h. Oznaki skażenia — zdejmij całe ubranie z butami i biżuterią; podwójny worek, oznakowane miejsce.\n4. POMIARY: Dawkomierz na wysokości klatki piersiowej, przed pomiarem wskazuje zero. Miernik włącz przy tle naturalnym, odczekaj min. 10 s; wskazanie nigdy nie może wynosić 0. Rejestruj czas ratowników w strefie I i moc dawki; dawka = moc dawki × czas (Dp = D × t).\n5. POŻAR: W pomieszczeniach zamkniętych tylko 1 rota; w otwartych rozważ 1 ratownika z asekuracją. Proszek lub piana średnia/ciężka; prądy rozproszone wody tylko wyjątkowo, z bezpiecznej odległości; środków jak najmniej. Po działaniach ratownicy zdejmują SOI i są wyłączeni do oceny skażenia; skażenie mierzy tylko SGRChem.\n6. NIE RÓB: Nie stosuj zwartych prądów wody. Nie prowadź ewakuacji w miejsce stacjonowania sił."
   },
   {
     "id": "DEZ-EV-01",
@@ -7103,9 +7575,11 @@
   },
   {
     "id": "KARTA-ORG-CHLOROWODOR-WARTOSCI-GRANICZNE",
+    "wzorzec": 2,
     "kategoria": "substancja",
-    "zrodlo": "CIOP-PIB, Baza niebezpiecznych substancji chemicznych, Chlorowodor",
-    "data_aktualizacji": "",
+    "grupa": "cbrn",
+    "zrodlo": "Air Liquide Polska: Karta charakterystyki — Chlorowodór, Chlorowodór N28, wersja 6.0 (2022-09-01).",
+    "data_aktualizacji": "2026-10-27",
     "slowo_kluczowe": "chlorowodor",
     "keywords": [
       "hcl",
@@ -7120,13 +7594,6 @@
       "h331 chlorowodor",
       "h314 chlorowodor"
     ],
-    "prefix": "HCl / Chlorowodor - karta zagrozenia operacyjnego.",
-    "content": "1. KOD / NAZWA: HCl - chlorowodor; CAS 7647-01-0.\n2. ROZPOZNANIE: bezbarwny gaz o ostrym, duszacym zapachu. Gestosc par wzgledem powietrza wynosi 1,268, czyli gaz jest ciezszy od powietrza. Prog wyczuwalnosci zapachu wedlug CIOP wynosi 1,5-53 mg/m3.\n3. STREFA: brak jednej liczbowej strefy w materiale CIOP; przyjmij szybkie odsuniecie osob z narazenia i ograniczenie ekspozycji inhalacyjnej. Uwzglednij, ze chlorowodor jako gaz ciezszy od powietrza moze gromadzic sie nizej.\n4. SOI: zgodnie z informacja CLP stosowac rekawice ochronne, odziez ochronna, ochrone oczu i twarzy. Ze wzgledu na toksycznosc inhalacyjna i silne dzialanie zarace nalezy traktowac narazenie jako stan bezposredniego zagrozenia zdrowia.\n5. DZIALANIA KRYTYCZNE: wyniesc zatrutego z miejsca narazenia, ulozyc w pozycji pollezacej lub siedzacej, zapewnic spokoj i bezruch, chronic przed utrata ciepla i podawac tlen. Natychmiast wezwac lekarza. Przy kontakcie ze skora lub oczami natychmiast rozpoczac obfite plukanie woda.\n6. PROCEDURA SZCZEGOLOWA: klasyfikacja CLP obejmuje H331 i H314. W razie zatrucia inhalacyjnego CIOP wskazuje podanie tlenu oraz mozliwosc podania Atroventu przy skurczu glosni. Przy utrzymujacych sie objawach mozliwe jest podanie deksametazonu do inhalacji, hydrokortyzonu i furosemidu oraz transport kareta reanimacyjna. Przy skazeniu skory zdjac odziez i obficie zmywac skore letnia biezaca woda; nie stosowac srodkow zobojetniajacych. Przy skazeniu oczu plukac obficie chlodna woda co najmniej 15 minut. Przy zatruciu droga pokarmowa nie wywolywac wymiotow; podac bialko jaj albo mleko i pilnie przekazac do leczenia.\n7. WARTOSCI GRANICZNE I PARAMETRY: NDS 5 mg/m3; NDSCh 10 mg/m3; NDSP nie ustalono. Temperatura wrzenia -85,03 C. Gestosc par wzgledem powietrza 1,268. Rozpuszczalnosc w wodzie 45,14% wag. Masa czasteczkowa 36,46.\n8. GLOWNE ZAGROZENIA: substancja toksyczna i zaraca. W postaci gazu lub aerozolu kwasu solnego wywoluje bol oczu, lzawienie, zaczerwienienie spojowek, piekacy bol nosa i gardla oraz kaszel. Przy wyzszych stezeniach moze spowodowac skurcz glosni, obrzek krtani i obrzek pluc. Skazenie skory powoduje bolesne oparzenia chemiczne, a skazenie oczu moze prowadzic do utraty wzroku.\n9. CO MOZE POJSC NIE TAK: opoznienie ewakuacji ze strefy narazenia, niedoszacowanie ryzyka obrzeku pluc, zlekcewazenie nagromadzenia gazu przy gruncie oraz stosowanie srodkow zobojetniajacych na skazona skore.\n10. UWAGI OPERACYJNE: z materialu CIOP wynika, ze chlorowodor wchlania sie przez drogi oddechowe, a w postaci roztworu wodnego rowniez z przewodu pokarmowego. LC50 dla szczura podano jako 7146 mg/m3 (30 min). Odtrutki nie sa znane.",
-    "tagi_wspolne": [
-      "chlorowodor",
-      "hcl",
-      "substancja chemiczna"
-    ],
     "aliasy": [
       "hcl",
       "kwas solny gaz",
@@ -7140,13 +7607,113 @@
       "h331 chlorowodor",
       "h314 chlorowodor"
     ],
+    "prefix": "Chlorowodór (HCl) — gaz toksyczny i żrący: UN 1050, NDS/NDSCh, SOI, wyciek i pożar (karta charakterystyki 2022).",
+    "najpierw": [
+      {
+        "t": "Przy wejściu w obszar stosuj izolujący aparat oddechowy, chyba że potwierdzono bezpieczną atmosferę.",
+        "zr": "SDS HCl 6.0",
+        "str": 4
+      },
+      {
+        "t": "Ewakuuj teren, próbuj zatrzymać wyciek, nie dopuść gazu do kanalizacji, piwnic i zagłębień.",
+        "zr": "SDS HCl 6.0",
+        "str": 4
+      },
+      {
+        "t": "Ogranicz opary mgłą wodną lub drobno rozproszonym prądem wody.",
+        "zr": "SDS HCl 6.0",
+        "str": 4
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Identyfikacja",
+        "wartosc": "UN 1050 · ADR kl. 2, kod 2TC · nr zagrożenia 268",
+        "zr": "SDS HCl 6.0",
+        "str": 10
+      },
+      {
+        "nazwa": "NDS / NDSCh",
+        "wartosc": "5 mg/m³ / 10 mg/m³",
+        "zr": "SDS HCl 6.0",
+        "str": 5
+      },
+      {
+        "nazwa": "Gaz",
+        "wartosc": "cięższy od powietrza (1,3); gryzący zapach — próg nie ostrzega wiarygodnie",
+        "zr": "SDS HCl 6.0",
+        "str": 7
+      },
+      {
+        "nazwa": "Klasyfikacja",
+        "wartosc": "H280, H314 (poważne oparzenia skóry i oczu), H331 (toksyczny przy wdychaniu)",
+        "zr": "SDS HCl 6.0",
+        "str": 2
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Pożar",
+        "punkty": [
+          {
+            "t": "Gaz niepalny — gaś otaczający pożar; mgła wodna lub drobno rozproszona woda.",
+            "zr": "SDS HCl 6.0",
+            "str": 3
+          },
+          {
+            "t": "Ogień może rozerwać pojemniki — chłodź je rozpyloną wodą z bezpiecznego miejsca; jeśli bezpiecznie, usuń je.",
+            "zr": "SDS HCl 6.0",
+            "str": 3
+          },
+          {
+            "t": "Strażacy: odzież gazoszczelna odporna na chemikalia (EN 943-2) + izolujący aparat oddechowy (EN 137).",
+            "zr": "SDS HCl 6.0",
+            "str": 3
+          }
+        ]
+      },
+      {
+        "etykieta": "Pierwsza pomoc",
+        "punkty": [
+          {
+            "t": "Wdychanie: w aparacie izolującym wynieś poszkodowanego, ciepło i spokój, lekarz; brak oddechu — RKO.",
+            "zr": "SDS HCl 6.0",
+            "str": 3
+          },
+          {
+            "t": "Skóra: zdejmij odzież, płucz wodą min. 15 min. Oczy: płucz dużą ilością wody min. 15 min.",
+            "zr": "SDS HCl 6.0",
+            "str": 3
+          }
+        ]
+      }
+    ],
+    "nie_rob": [
+      {
+        "t": "Nie stosuj zwartego (silnego) strumienia wody.",
+        "zr": "SDS HCl 6.0",
+        "str": 3
+      },
+      {
+        "t": "Nie dopuść wód gaśniczych do kanalizacji.",
+        "zr": "SDS HCl 6.0",
+        "str": 3
+      }
+    ],
+    "tagi_wspolne": [
+      "chlorowodor",
+      "hcl",
+      "substancja chemiczna"
+    ],
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-sds-hcl-6-0",
-        "strona": 1,
-        "sekcja": "Karta charakterystyki HCl"
+        "strona": 3,
+        "sekcja": "Sekcje 2, 4–6, 8, 9, 14 (s. 2–10)"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: Przy wejściu w obszar stosuj izolujący aparat oddechowy, chyba że potwierdzono bezpieczną atmosferę. Ewakuuj teren, próbuj zatrzymać wyciek, nie dopuść gazu do kanalizacji, piwnic i zagłębień. Ogranicz opary mgłą wodną lub drobno rozproszonym prądem wody.\n2. PARAMETRY: Identyfikacja — UN 1050 · ADR kl. 2, kod 2TC · nr zagrożenia 268; NDS / NDSCh — 5 mg/m³ / 10 mg/m³; Gaz — cięższy od powietrza (1,3); gryzący zapach — próg nie ostrzega wiarygodnie; Klasyfikacja — H280, H314 (poważne oparzenia skóry i oczu), H331 (toksyczny przy wdychaniu)\n3. POŻAR: Gaz niepalny — gaś otaczający pożar; mgła wodna lub drobno rozproszona woda. Ogień może rozerwać pojemniki — chłodź je rozpyloną wodą z bezpiecznego miejsca; jeśli bezpiecznie, usuń je. Strażacy: odzież gazoszczelna odporna na chemikalia (EN 943-2) + izolujący aparat oddechowy (EN 137).\n4. PIERWSZA POMOC: Wdychanie: w aparacie izolującym wynieś poszkodowanego, ciepło i spokój, lekarz; brak oddechu — RKO. Skóra: zdejmij odzież, płucz wodą min. 15 min. Oczy: płucz dużą ilością wody min. 15 min.\n5. NIE RÓB: Nie stosuj zwartego (silnego) strumienia wody. Nie dopuść wód gaśniczych do kanalizacji."
   },
   {
     "id": "KARTA-ORG-CO-WARTOSCI-GRANICZNE",
@@ -7384,9 +7951,11 @@
   },
   {
     "id": "KARTA-ORG-H2S-WARTOSCI-GRANICZNE",
+    "wzorzec": 2,
     "kategoria": "substancja",
-    "zrodlo": "SDS 016 ALP Siarkowodor v4.1, Air Liquide Polska / Alkat",
-    "data_aktualizacji": "2022-12-13",
+    "grupa": "cbrn",
+    "zrodlo": "Air Liquide Polska / Alkat: Karta charakterystyki — Siarkowodór, Siarkowodór N25, wersja 4.1 (2022-12-13).",
+    "data_aktualizacji": "2026-10-27",
     "slowo_kluczowe": "siarkowodor",
     "keywords": [
       "h2s",
@@ -7404,13 +7973,6 @@
       "adr 263",
       "2tf"
     ],
-    "prefix": "H2S / Siarkowodor - karta zagrozenia operacyjnego.",
-    "content": "1. KOD / NAZWA: H2S - siarkowodor; UN 1053; ADR klasa 2, kod klasyfikacyjny 2TF, nr rozpoznawczy zagrozenia 263.\n2. ROZPOZNANIE: bezbarwny, skrajnie latwopalny i silnie toksyczny gaz o zapachu zgnilych jaj; prog zapachu jest niewystarczajacy do ostrzegania przed nadmiernym narazeniem, a przy wyzszych stezeniach moze dojsc do porazenia wechu. Gaz jest ciezszy od powietrza i moze gromadzic sie w przestrzeniach zamknietych oraz ponizej poziomu terenu.\n3. STREFA: brak jednej liczbowej strefy w SDS; unikaj kanalow, piwnic i zaglebien terenu. Przy wycieku ewakuowac teren, zapobiegac gromadzeniu sie gazu w obnieniach i monitorowac stezenie uwolnionego produktu.\n4. SOI: przy dzialaniach ratowniczych stosowac izolujacy aparat oddechowy przy wejsciu w obszar zagrozenia, o ile atmosfera nie zostala potwierdzona jako bezpieczna. Dla strazy pozarnej zalecana odziez ochronna gazoszczelna i odporna na chemikalia wraz z izolujacym aparatem oddechowym. Przy przeladunku i rozlaczaniu polaczen stosowac gogle, rekawice robocze, rekawice chroniace przed zimnem oraz obuwie ochronne; rozwazyc odziez trudnopalna i antyelektrostatyczna.\n5. DZIALANIA KRYTYCZNE: probowac zatrzymac wyciek, ewakuowac teren, wyeliminowac wszystkie zrodla zaplonu, zapewnic wentylacje, nie dopuscic do przedostania sie gazu do kanalizacji i zaglebien terenu, monitorowac stezenie produktu. Do wejscia w strefe stosowac izolujacy aparat oddechowy, chyba ze potwierdzono bezpieczna atmosfere.\n6. PROCEDURA SZCZEGOLOWA: produkt powinien byc stosowany w systemie zamknietym i przy odpowiedniej wentylacji ogolnej oraz miejscowej; instalacje powinny byc szczelne i regularnie sprawdzane. Detektory nalezy stosowac tam, gdzie moze dojsc do uwolnienia gazu toksycznego. W razie pozaru preferowana jest kontrola przez odciecie zrodla gazu; stosowac mgle wodna lub drobno rozproszony strumien wody, suchy proszek albo CO2. Nie stosowac silnego strumienia wody. Nie gasic plomienia wyplywajacego gazu, jezeli nie mozna bezpiecznie zahamowac wycieku. Chlodzic zagrozone pojemniki strumieniem rozpylonej wody z bezpiecznego miejsca.\n7. WARTOSCI GRANICZNE I PARAMETRY: NDS 7 mg/m3; NDSCh 14 mg/m3. DGW 3,9% obj.; GGW 45,5% obj.; temperatura samozaplonu 270 C; wzgledna gestosc pary 1,2.\n8. GLOWNE ZAGROZENIA: wdychanie grozi smiercia, moze powodowac podraznienie drog oddechowych, uszkodzenie centralnego ukladu nerwowego przy narazeniu powtarzanym oraz bardzo toksyczne oddzialywanie na organizmy wodne. Narazenie na ogien moze spowodowac rozerwanie lub wybuch pojemnika.\n9. CO MOZE POJSC NIE TAK: oparcie rozpoznania tylko na zapachu, wejscie bez izolujacego aparatu oddechowego, dopuszczenie do nagromadzenia gazu w obnieniach, gaszenie plomienia bez zatrzymania wycieku oraz uzycie silnego strumienia wody.\n10. UWAGI OPERACYJNE: w przypadku dostania sie do drog oddechowych wyprowadzic poszkodowanego na swieze powietrze, zapewnic warunki do odpoczynku i natychmiast uzyskac pomoc lekarska. W przypadku zaniku oddechu prowadzic resuscytacje. Kontakt z ciecza moze powodowac poparzenia zimnem i odmrozenia.",
-    "tagi_wspolne": [
-      "siarkowodor",
-      "h2s",
-      "substancja chemiczna"
-    ],
     "aliasy": [
       "h2s",
       "wartosci graniczne h2s",
@@ -7427,13 +7989,124 @@
       "adr 263",
       "2tf"
     ],
+    "prefix": "Siarkowodór (H2S) — gaz skrajnie łatwopalny i silnie toksyczny: UN 1053, NDS/NDSCh, granice wybuchowości, wyciek i pożar (karta charakterystyki 2022).",
+    "najpierw": [
+      {
+        "t": "Przy wejściu w obszar stosuj izolujący aparat oddechowy, chyba że potwierdzono bezpieczną atmosferę.",
+        "zr": "SDS H2S 4.1",
+        "str": 4
+      },
+      {
+        "t": "Ewakuuj teren, usuń źródła zapłonu, próbuj zatrzymać wyciek, monitoruj stężenie.",
+        "zr": "SDS H2S 4.1",
+        "str": 4
+      },
+      {
+        "t": "Nie dopuść gazu do kanalizacji, piwnic i zagłębień — gaz cięższy od powietrza gromadzi się nisko i w przestrzeniach zamkniętych.",
+        "zr": "SDS H2S 4.1",
+        "str": 4
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Identyfikacja",
+        "wartosc": "UN 1053 · ADR kl. 2, kod 2TF · nr zagrożenia 263",
+        "zr": "SDS H2S 4.1",
+        "str": 10
+      },
+      {
+        "nazwa": "NDS / NDSCh",
+        "wartosc": "7 mg/m³ / 14 mg/m³",
+        "zr": "SDS H2S 4.1",
+        "str": 5
+      },
+      {
+        "nazwa": "Granice wybuchowości",
+        "wartosc": "DGW 3,9% · GGW 45,5% obj.; samozapłon 270°C",
+        "zr": "SDS H2S 4.1",
+        "str": 7
+      },
+      {
+        "nazwa": "Zapach",
+        "wartosc": "zepsute jajka — słabe właściwości ostrzegawcze, próg zapachu niewystarczający",
+        "zr": "SDS H2S 4.1",
+        "str": 7
+      },
+      {
+        "nazwa": "Klasyfikacja",
+        "wartosc": "H220 skrajnie łatwopalny, H330 wdychanie grozi śmiercią, H335, H400",
+        "zr": "SDS H2S 4.1",
+        "str": 2
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Pożar",
+        "punkty": [
+          {
+            "t": "Preferowane odcięcie źródła gazu; gaś mgłą wodną, drobno rozproszoną wodą, proszkiem lub CO₂.",
+            "zr": "SDS H2S 4.1",
+            "str": 3
+          },
+          {
+            "t": "Nie gaś płomienia wypływającego gazu, chyba że to absolutnie konieczne — groźba wybuchowego ponownego zapłonu.",
+            "zr": "SDS H2S 4.1",
+            "str": 3
+          },
+          {
+            "t": "Chłodź zagrożone pojemniki rozpyloną wodą z bezpiecznego miejsca; produkt spalania: ditlenek siarki.",
+            "zr": "SDS H2S 4.1",
+            "str": 3
+          },
+          {
+            "t": "Strażacy: odzież gazoszczelna odporna na chemikalia (EN 943-2) + izolujący aparat oddechowy (EN 137).",
+            "zr": "SDS H2S 4.1",
+            "str": 3
+          }
+        ]
+      },
+      {
+        "etykieta": "Skutki i pierwsza pomoc",
+        "punkty": [
+          {
+            "t": "Podrażnienie dróg oddechowych, możliwe skutki dla OUN; długotrwałe niskie stężenia — obrzęk płuc.",
+            "zr": "SDS H2S 4.1",
+            "str": 3
+          },
+          {
+            "t": "Wdychanie: w aparacie izolującym wynieś poszkodowanego, ciepło i spokój, lekarz; brak oddechu — RKO.",
+            "zr": "SDS H2S 4.1",
+            "str": 3
+          }
+        ]
+      }
+    ],
+    "nie_rob": [
+      {
+        "t": "Nie stosuj silnego strumienia wody do gaszenia.",
+        "zr": "SDS H2S 4.1",
+        "str": 3
+      },
+      {
+        "t": "CO₂ nie w atmosferze wybuchowej — elektryczność statyczna.",
+        "zr": "SDS H2S 4.1",
+        "str": 3
+      }
+    ],
+    "tagi_wspolne": [
+      "siarkowodor",
+      "h2s",
+      "substancja chemiczna"
+    ],
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-sds-h2s-4-1",
-        "strona": 1,
-        "sekcja": "Karta charakterystyki H2S"
+        "strona": 3,
+        "sekcja": "Sekcje 2, 4–6, 8, 9, 14 (s. 2–10)"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: Przy wejściu w obszar stosuj izolujący aparat oddechowy, chyba że potwierdzono bezpieczną atmosferę. Ewakuuj teren, usuń źródła zapłonu, próbuj zatrzymać wyciek, monitoruj stężenie. Nie dopuść gazu do kanalizacji, piwnic i zagłębień — gaz cięższy od powietrza gromadzi się nisko i w przestrzeniach zamkniętych.\n2. PARAMETRY: Identyfikacja — UN 1053 · ADR kl. 2, kod 2TF · nr zagrożenia 263; NDS / NDSCh — 7 mg/m³ / 14 mg/m³; Granice wybuchowości — DGW 3,9% · GGW 45,5% obj.; samozapłon 270°C; Zapach — zepsute jajka — słabe właściwości ostrzegawcze, próg zapachu niewystarczający; Klasyfikacja — H220 skrajnie łatwopalny, H330 wdychanie grozi śmiercią, H335, H400\n3. POŻAR: Preferowane odcięcie źródła gazu; gaś mgłą wodną, drobno rozproszoną wodą, proszkiem lub CO₂. Nie gaś płomienia wypływającego gazu, chyba że to absolutnie konieczne — groźba wybuchowego ponownego zapłonu. Chłodź zagrożone pojemniki rozpyloną wodą z bezpiecznego miejsca; produkt spalania: ditlenek siarki. Strażacy: odzież gazoszczelna odporna na chemikalia (EN 943-2) + izolujący aparat oddechowy (EN 137).\n4. SKUTKI I PIERWSZA POMOC: Podrażnienie dróg oddechowych, możliwe skutki dla OUN; długotrwałe niskie stężenia — obrzęk płuc. Wdychanie: w aparacie izolującym wynieś poszkodowanego, ciepło i spokój, lekarz; brak oddechu — RKO.\n5. NIE RÓB: Nie stosuj silnego strumienia wody do gaszenia. CO₂ nie w atmosferze wybuchowej — elektryczność statyczna."
   },
   {
     "id": "KARTA-ORG-HCN-WARTOSCI-GRANICZNE",

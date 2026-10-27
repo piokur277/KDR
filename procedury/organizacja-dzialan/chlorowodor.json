@@ -1,8 +1,10 @@
 {
   "id": "KARTA-ORG-CHLOROWODOR-WARTOSCI-GRANICZNE",
+  "wzorzec": 2,
   "kategoria": "substancja",
-  "zrodlo": "CIOP-PIB, Baza niebezpiecznych substancji chemicznych, Chlorowodor",
-  "data_aktualizacji": "",
+  "grupa": "cbrn",
+  "zrodlo": "Air Liquide Polska: Karta charakterystyki — Chlorowodór, Chlorowodór N28, wersja 6.0 (2022-09-01).",
+  "data_aktualizacji": "2026-10-27",
   "slowo_kluczowe": "chlorowodor",
   "keywords": [
     "hcl",
@@ -17,13 +19,6 @@
     "h331 chlorowodor",
     "h314 chlorowodor"
   ],
-  "prefix": "HCl / Chlorowodor - karta zagrozenia operacyjnego.",
-  "content": "1. KOD / NAZWA: HCl - chlorowodor; CAS 7647-01-0.\n2. ROZPOZNANIE: bezbarwny gaz o ostrym, duszacym zapachu. Gestosc par wzgledem powietrza wynosi 1,268, czyli gaz jest ciezszy od powietrza. Prog wyczuwalnosci zapachu wedlug CIOP wynosi 1,5-53 mg/m3.\n3. STREFA: brak jednej liczbowej strefy w materiale CIOP; przyjmij szybkie odsuniecie osob z narazenia i ograniczenie ekspozycji inhalacyjnej. Uwzglednij, ze chlorowodor jako gaz ciezszy od powietrza moze gromadzic sie nizej.\n4. SOI: zgodnie z informacja CLP stosowac rekawice ochronne, odziez ochronna, ochrone oczu i twarzy. Ze wzgledu na toksycznosc inhalacyjna i silne dzialanie zarace nalezy traktowac narazenie jako stan bezposredniego zagrozenia zdrowia.\n5. DZIALANIA KRYTYCZNE: wyniesc zatrutego z miejsca narazenia, ulozyc w pozycji pollezacej lub siedzacej, zapewnic spokoj i bezruch, chronic przed utrata ciepla i podawac tlen. Natychmiast wezwac lekarza. Przy kontakcie ze skora lub oczami natychmiast rozpoczac obfite plukanie woda.\n6. PROCEDURA SZCZEGOLOWA: klasyfikacja CLP obejmuje H331 i H314. W razie zatrucia inhalacyjnego CIOP wskazuje podanie tlenu oraz mozliwosc podania Atroventu przy skurczu glosni. Przy utrzymujacych sie objawach mozliwe jest podanie deksametazonu do inhalacji, hydrokortyzonu i furosemidu oraz transport kareta reanimacyjna. Przy skazeniu skory zdjac odziez i obficie zmywac skore letnia biezaca woda; nie stosowac srodkow zobojetniajacych. Przy skazeniu oczu plukac obficie chlodna woda co najmniej 15 minut. Przy zatruciu droga pokarmowa nie wywolywac wymiotow; podac bialko jaj albo mleko i pilnie przekazac do leczenia.\n7. WARTOSCI GRANICZNE I PARAMETRY: NDS 5 mg/m3; NDSCh 10 mg/m3; NDSP nie ustalono. Temperatura wrzenia -85,03 C. Gestosc par wzgledem powietrza 1,268. Rozpuszczalnosc w wodzie 45,14% wag. Masa czasteczkowa 36,46.\n8. GLOWNE ZAGROZENIA: substancja toksyczna i zaraca. W postaci gazu lub aerozolu kwasu solnego wywoluje bol oczu, lzawienie, zaczerwienienie spojowek, piekacy bol nosa i gardla oraz kaszel. Przy wyzszych stezeniach moze spowodowac skurcz glosni, obrzek krtani i obrzek pluc. Skazenie skory powoduje bolesne oparzenia chemiczne, a skazenie oczu moze prowadzic do utraty wzroku.\n9. CO MOZE POJSC NIE TAK: opoznienie ewakuacji ze strefy narazenia, niedoszacowanie ryzyka obrzeku pluc, zlekcewazenie nagromadzenia gazu przy gruncie oraz stosowanie srodkow zobojetniajacych na skazona skore.\n10. UWAGI OPERACYJNE: z materialu CIOP wynika, ze chlorowodor wchlania sie przez drogi oddechowe, a w postaci roztworu wodnego rowniez z przewodu pokarmowego. LC50 dla szczura podano jako 7146 mg/m3 (30 min). Odtrutki nie sa znane.",
-  "tagi_wspolne": [
-    "chlorowodor",
-    "hcl",
-    "substancja chemiczna"
-  ],
   "aliasy": [
     "hcl",
     "kwas solny gaz",
@@ -37,11 +32,110 @@
     "h331 chlorowodor",
     "h314 chlorowodor"
   ],
+  "prefix": "Chlorowodór (HCl) — gaz toksyczny i żrący: UN 1050, NDS/NDSCh, SOI, wyciek i pożar (karta charakterystyki 2022).",
+  "najpierw": [
+    {
+      "t": "Przy wejściu w obszar stosuj izolujący aparat oddechowy, chyba że potwierdzono bezpieczną atmosferę.",
+      "zr": "SDS HCl 6.0",
+      "str": 4
+    },
+    {
+      "t": "Ewakuuj teren, próbuj zatrzymać wyciek, nie dopuść gazu do kanalizacji, piwnic i zagłębień.",
+      "zr": "SDS HCl 6.0",
+      "str": 4
+    },
+    {
+      "t": "Ogranicz opary mgłą wodną lub drobno rozproszonym prądem wody.",
+      "zr": "SDS HCl 6.0",
+      "str": 4
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "Identyfikacja",
+      "wartosc": "UN 1050 · ADR kl. 2, kod 2TC · nr zagrożenia 268",
+      "zr": "SDS HCl 6.0",
+      "str": 10
+    },
+    {
+      "nazwa": "NDS / NDSCh",
+      "wartosc": "5 mg/m³ / 10 mg/m³",
+      "zr": "SDS HCl 6.0",
+      "str": 5
+    },
+    {
+      "nazwa": "Gaz",
+      "wartosc": "cięższy od powietrza (1,3); gryzący zapach — próg nie ostrzega wiarygodnie",
+      "zr": "SDS HCl 6.0",
+      "str": 7
+    },
+    {
+      "nazwa": "Klasyfikacja",
+      "wartosc": "H280, H314 (poważne oparzenia skóry i oczu), H331 (toksyczny przy wdychaniu)",
+      "zr": "SDS HCl 6.0",
+      "str": 2
+    }
+  ],
+  "sekcje": [
+    {
+      "etykieta": "Pożar",
+      "punkty": [
+        {
+          "t": "Gaz niepalny — gaś otaczający pożar; mgła wodna lub drobno rozproszona woda.",
+          "zr": "SDS HCl 6.0",
+          "str": 3
+        },
+        {
+          "t": "Ogień może rozerwać pojemniki — chłodź je rozpyloną wodą z bezpiecznego miejsca; jeśli bezpiecznie, usuń je.",
+          "zr": "SDS HCl 6.0",
+          "str": 3
+        },
+        {
+          "t": "Strażacy: odzież gazoszczelna odporna na chemikalia (EN 943-2) + izolujący aparat oddechowy (EN 137).",
+          "zr": "SDS HCl 6.0",
+          "str": 3
+        }
+      ]
+    },
+    {
+      "etykieta": "Pierwsza pomoc",
+      "punkty": [
+        {
+          "t": "Wdychanie: w aparacie izolującym wynieś poszkodowanego, ciepło i spokój, lekarz; brak oddechu — RKO.",
+          "zr": "SDS HCl 6.0",
+          "str": 3
+        },
+        {
+          "t": "Skóra: zdejmij odzież, płucz wodą min. 15 min. Oczy: płucz dużą ilością wody min. 15 min.",
+          "zr": "SDS HCl 6.0",
+          "str": 3
+        }
+      ]
+    }
+  ],
+  "nie_rob": [
+    {
+      "t": "Nie stosuj zwartego (silnego) strumienia wody.",
+      "zr": "SDS HCl 6.0",
+      "str": 3
+    },
+    {
+      "t": "Nie dopuść wód gaśniczych do kanalizacji.",
+      "zr": "SDS HCl 6.0",
+      "str": 3
+    }
+  ],
+  "tagi_wspolne": [
+    "chlorowodor",
+    "hcl",
+    "substancja chemiczna"
+  ],
   "dokumenty_zrodlowe": [
     {
       "dokument_id": "doc-sds-hcl-6-0",
-      "strona": 1,
-      "sekcja": "Karta charakterystyki HCl"
+      "strona": 3,
+      "sekcja": "Sekcje 2, 4–6, 8, 9, 14 (s. 2–10)"
     }
-  ]
+  ],
+  "data_przegladu": "2026-10-27"
 }
