@@ -1,8 +1,10 @@
 {
   "id": "KARTA-BUD-INFORMACJE-DODATKOWE-KATASTROFA-BUDOWLANA",
+  "wzorzec": 2,
   "kategoria": "informacje",
-  "zrodlo": "Standardowe zasady postepowania podczas katastrofy budowlanej po wystapieniu katastrofy budowlanej, KG PSP",
-  "data_aktualizacji": "2020-09-07",
+  "grupa": "bud",
+  "zrodlo": "KG PSP: Standardowe zasady postępowania po wystąpieniu katastrofy budowlanej, wydanie I, 2020.",
+  "data_aktualizacji": "2026-10-27",
   "slowo_kluczowe": "katastrofa budowlana informacje dodatkowe",
   "keywords": [
     "zawalenie budynku",
@@ -12,12 +14,6 @@
     "niebezpieczenstwa zawalenia",
     "budowlane"
   ],
-  "prefix": "Katastrofa budowlana - typy zawalen obiektow i podstawowe zagrozenia.",
-  "content": "1. KOD / NAZWA: katastrofa budowlana - informacje dodatkowe o typach zawalen i zagrozeniach.\n2. TYPY ZAWALEN: dokument wskazuje piec podstawowych typow zawalen obiektow budowlanych: typ 1 - zawalenie kondygnacji do wewnatrz obiektu, typ 2 - zawalenie warstwowe i opadniecie stropow, typ 3 - zawalenie calkowite zwane rumowiskiem, typ 4 - zawalenie w wyniku przemieszczenia obiektu lub jego czesci, typ 5 - zawalenie czesci obiektu z wiszacymi elementami i zagruzowaniem.\n3. GLOWNE ZAGROZENIA: naruszona konstrukcja budowlana niesie zagrozenia zwiazane z uszkodzeniem konstrukcji, mediow znajdujacych sie w obiekcie oraz materialow obecnych pod gruzowiskiem.\n4. ZAGROZENIA KONSTRUKCYJNE: niestabilne i ruchome czesci budynku grozace dalszym zawaleniem, odpadnieciem lub osunieciem, duze obciazenia i ciezar elementow budowlanych oraz nieznana nosnosc i wytrzymalosc elementow gruzowiska.\n5. ZAGROZENIA INSTALACYJNE: uwolnienie gazu mogacego tworzyc mieszaniny wybuchowe lub ulec zapaleniu, porazenie pradem elektrycznym oraz wyciek z uszkodzonych instalacji wodnych, ktory moze zalac przestrzenie z osobami.\n6. ZAGROZENIA DODATKOWE: materialy pirotechniczne, substancje chemiczne mogace szkodzic poszkodowanym, zagrozenia biologiczne i radiacyjne zalezne od specyfiki obiektu oraz dzikie lub egzotyczne zwierzeta.\n7. UWAGI OPERACYJNE: karta ma charakter orientacyjny i sluzy do szybkiej identyfikacji typu zawalenia oraz najbardziej prawdopodobnych zagrozen przed rozpoczeciem dzialan szczegolowych.",
-  "tagi_wspolne": [
-    "katastrofa budowlana",
-    "zawalenie"
-  ],
   "aliasy": [
     "zawalenie budynku",
     "typy zawalen",
@@ -26,11 +22,88 @@
     "niebezpieczenstwa zawalenia",
     "budowlane"
   ],
+  "prefix": "Katastrofa budowlana — typy zawaleń i zagrożenia (SZP KG PSP 2020).",
+  "najpierw": [
+    {
+      "t": "Najgroźniejsze: niestabilne i ruchome części budynku grożące dalszym zawaleniem, odpadnięciem lub osunięciem.",
+      "zr": "SZP KB 2020",
+      "str": 1
+    },
+    {
+      "t": "Uszkodzone media: gaz (mieszaniny wybuchowe), prąd, woda — także gorąca — mogąca zalać przestrzenie z ludźmi.",
+      "zr": "SZP KB 2020",
+      "str": 1
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "Typ 1",
+      "wartosc": "zawalenie kondygnacji do wewnątrz obiektu",
+      "zr": "SZP KB 2020",
+      "str": 1
+    },
+    {
+      "nazwa": "Typ 2",
+      "wartosc": "zawalenie warstwowe, opadnięcie stropów",
+      "zr": "SZP KB 2020",
+      "str": 1
+    },
+    {
+      "nazwa": "Typ 3",
+      "wartosc": "zawalenie całkowite — rumowisko",
+      "zr": "SZP KB 2020",
+      "str": 1
+    },
+    {
+      "nazwa": "Typ 4",
+      "wartosc": "zawalenie w wyniku przemieszczenia obiektu lub jego części",
+      "zr": "SZP KB 2020",
+      "str": 1
+    },
+    {
+      "nazwa": "Typ 5",
+      "wartosc": "zawalenie części obiektu z wiszącymi elementami i zagruzowaniem",
+      "zr": "SZP KB 2020",
+      "str": 1
+    }
+  ],
+  "sekcje": [
+    {
+      "etykieta": "Zagrożenia",
+      "punkty": [
+        {
+          "t": "Duże obciążenia i ciężar elementów; nieznana nośność i wytrzymałość gruzowiska.",
+          "zr": "SZP KB 2020",
+          "str": 1
+        },
+        {
+          "t": "Materiały pirotechniczne.",
+          "zr": "SZP KB 2020",
+          "str": 1
+        },
+        {
+          "t": "Zależnie od obiektu: substancje chemiczne (zatrucia, poparzenia), biologiczne (np. szpitale), radiacyjne (pracownie RTG).",
+          "zr": "SZP KB 2020",
+          "str": 1
+        },
+        {
+          "t": "Dzikie lub egzotyczne zwierzęta.",
+          "zr": "SZP KB 2020",
+          "str": 1
+        }
+      ]
+    }
+  ],
+  "tagi_wspolne": [
+    "katastrofa budowlana",
+    "zawalenie"
+  ],
   "dokumenty_zrodlowe": [
     {
       "dokument_id": "doc-katastrofa-budowlana-2020",
       "strona": 1,
-      "sekcja": "Odpowiednia karta SZP katastrofy budowlanej"
+      "sekcja": "Typy zawaleń i zagrożenia (s. 1)"
     }
-  ]
+  ],
+  "data_przegladu": "2026-10-27"
 }

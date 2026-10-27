@@ -1,8 +1,10 @@
 {
   "id": "KARTA-BUD-ORGANIZACJA-DZIALAN-KATASTROFA-BUDOWLANA",
+  "wzorzec": 2,
   "kategoria": "organizacja",
-  "zrodlo": "Standardowe zasady postepowania podczas katastrofy budowlanej po wystapieniu katastrofy budowlanej, KG PSP",
-  "data_aktualizacji": "2020-09-07",
+  "grupa": "bud",
+  "zrodlo": "KG PSP: Standardowe zasady postępowania po wystąpieniu katastrofy budowlanej, wydanie I, 2020.",
+  "data_aktualizacji": "2026-10-27",
   "slowo_kluczowe": "organizacja dzialan katastrofa budowlana",
   "keywords": [
     "gruzowisko organizacja akcji",
@@ -10,24 +12,150 @@
     "rotacja ratownikow gruzowisko",
     "sztab katastrofa budowlana"
   ],
-  "prefix": "Katastrofa budowlana - organizacja dzialan ratowniczych na gruzowisku.",
-  "content": "1. KOD / NAZWA: katastrofa budowlana - organizacja dzialan ratowniczych.\n2. ORGANIZACJA WSTEPNA: ogranicz liczbe ratownikow w strefie zagrozenia do niezbednego minimum. Wyznacz miejsce na organizacje punktu przyjecia SIS oraz osobe odpowiedzialna za jego obsluge. Po ewakuacji okresl priorytety ratownicze i zaznacz miejsca lokalizacji osob zywych albo miejsc, gdzie prawdopodobnie moga przebywac osoby w chwili zdarzenia.\n3. PRZESZUKANIE: przystap do przeszukania obiektu z wykorzystaniem dostepnych metod i sprzetu, zachowujac zasady BHP. W pierwszej kolejnosci wykorzystuj strazakow nawotujacych osoby pod gruzami, megafony, psy ratownicze oraz informacje od przewodnikow psow. Kazdorazowo przed nawolywaniem oglaszaj cisze na gruzowisku.\n4. KONTROLA MIEJSC NIEBEZPIECZNYCH: na kazdym etapie przeszukiwania obiektu upewnij sie, ze niestabilne elementy zostaly wlasciwie zabezpieczone, usuniete lub ustabilizowane, a w razie braku takiej mozliwosci miejsca te zostaly oznaczone i omijane. Przeszukanie wszystkich zlokalizowanych poszkodowanych nalezy powtarzac bezprzyrzadowo.\n5. ZABEZPIECZENIE RATOWNIKOW: podczas odgruzowywania zapewnij ratownikom sprzet ochronny osobistej, a w razie potrzeby takze oddechowej. Upewnij sie, ze przy wejsciu do strefy zagrozenia znajduja sie zespoly zdolne udzielic pomocy odnalezionym lub ewakuowanym poszkodowanym.\n6. ROTACJA I ODWOD: przy wyjsciu ze strefy zagrozenia zapewnij mozliwosc dekontaminacji ratownikow i sprzetu dla osob konczacych zmiane robocza. Zapewnij odwod taktyczny do podmiany pracujacych ratownikow oraz bezpieczna odleglosc od prowadzonych dzialan. Unikaj obecnosci osob zbednych na terenie akcji.\n7. CZAS PRACY: organizuj rotacyjna prace ratownikow, przyjmujac nie wiecej niz 6 godzin pracy w strefie i w warunkach szczegolnie trudnych odpowiednio krotszy czas zmiany, do 4 lub nawet 2 godzin.\n8. SZTAB I ODCINKI: w razie potrzeby utworz zespoly ratownikow z okreslonym zadaniem, wyznacz miejsce dla kierowania taktycznego oraz zorganizuj sztab. Zadysponuj SDC, namiot do pracy sztabu, wyznacz szefa sztabu i osoby odpowiedzialne za kontrole wejsc i wyjsc. Zadbaj o oznakowanie osob funkcyjnych, miejsca obslugi mediow, wsparcia psychologicznego, PPSiS, sztabu oraz miejsca tymczasowej ewakuacji poszkodowanych.\n9. WSPOLDZIALANIE: po dojezdzie SGPR albo SGRT podziel teren akcji na odcinki bojowe, wyznacz dowodce odcinka specjalistycznego oraz grupe ratownicza. Opracuj schemat lacznosci akcji i czas skladania meldunkow. Na biezaco informuj wlasciwe terenowo stanowisko kierowania PSP. W porozumieniu z przedstawicielami zarzadzania kryzysowego zadysponuj ciezki sprzet budowlany oraz do odgruzowywania zniszczonego obiektu.\n10. CO MOZE POJSC NIE TAK: brak ustalenia zasad finansowania moze opoznic wykorzystanie sprzetu. Upewnij sie, ze zasady finansowania uzycia sprzetu zostaly ustalone przed jego uruchomieniem. Informowanie mediow powinno odbywac sie wyłącznie przez wyznaczonego oficera prasowego lub osobe odpowiedzialna za kontakt z mediami.\n11. UWAGI OPERACYJNE: w razie koniecznosci wyznacz osobe do obslugi sprzetu specjalistycznego poza strefa zagrozenia, miejsce skladowania sprzetu oraz osobe do jego obslugi, a przy pracach na wyzszych kondygnacjach uwzglednij mozliwosc wykorzystania podnosnikow lub technik alpinistycznych.",
-  "tagi_wspolne": [
-    "katastrofa budowlana",
-    "zawalenie",
-    "organizacja dzialan"
-  ],
   "aliasy": [
     "gruzowisko organizacja akcji",
     "katastrofa budowlana organizacja",
     "rotacja ratownikow gruzowisko",
     "sztab katastrofa budowlana"
   ],
+  "prefix": "Katastrofa budowlana — organizacja działań: priorytety, przeszukanie, bezpieczeństwo ratowników, zmiany do 6 h, sztab (SZP KG PSP 2020).",
+  "najpierw": [
+    {
+      "t": "Ogranicz liczbę ratowników w strefie do niezbędnego minimum.",
+      "zr": "SZP KB 2020",
+      "str": 4
+    },
+    {
+      "t": "Najpierw przeszukanie przez strażaków nawołujących (megafon), z ciszą na gruzowisku przed każdym nawoływaniem.",
+      "zr": "SZP KB 2020",
+      "str": 4
+    },
+    {
+      "t": "Brak sygnałów z gruzowiska nie oznacza braku poszkodowanych; niepewna liczba osób — czekaj na SGPR.",
+      "zr": "SZP KB 2020",
+      "str": 4
+    },
+    {
+      "t": "Przy wejściu do strefy zespół zdolny udzielić pomocy medycznej poszkodowanym i rannym ratownikom.",
+      "zr": "SZP KB 2020",
+      "str": 4
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "Czas zmiany w strefie",
+      "wartosc": "max 6 h; w trudnych warunkach (upał, mróz, wiatr, ulewa) 4 lub nawet 2 h",
+      "zr": "SZP KB 2020",
+      "str": 5
+    },
+    {
+      "nazwa": "Odgruzowywanie — SOI",
+      "wartosc": "maseczki przeciwpyłowe, ochrona oczu",
+      "zr": "SZP KB 2020",
+      "str": 4
+    },
+    {
+      "nazwa": "Przestrzenie ograniczone",
+      "wartosc": "stała kontrola tlenu, napowietrzanie; w miarę możliwości ODO",
+      "zr": "SZP KB 2020",
+      "str": 4
+    }
+  ],
+  "sekcje": [
+    {
+      "etykieta": "Priorytety i przeszukanie",
+      "punkty": [
+        {
+          "t": "Ewakuuj zlokalizowanych; zabezpiecz niestabilne elementy i otwory komunikacyjne; szukaj tam, gdzie mogli być ludzie; oznacz miejsca, gdzie nie możesz działać.",
+          "zr": "SZP KB 2020",
+          "str": 4
+        },
+        {
+          "t": "Przygotuj teren dla SGPR; przekaż jej dowódcy i koordynatorowi przewodników psów obszary poszukiwań i zagrożenia.",
+          "zr": "SZP KB 2020",
+          "str": 4
+        },
+        {
+          "t": "Na każdym etapie niestabilne elementy zabezpiecz, usuń lub ustabilizuj — albo oznacz i omijaj.",
+          "zr": "SZP KB 2020",
+          "str": 4
+        },
+        {
+          "t": "Po wydobyciu wszystkich zlokalizowanych powtórz przeszukanie bezprzyrządowe.",
+          "zr": "SZP KB 2020",
+          "str": 4
+        },
+        {
+          "t": "Sprzęt do kontroli stabilności nie gwarantuje bezpieczeństwa ani nie zapobiega wtórnemu zawaleniu — wspiera oficera bezpieczeństwa.",
+          "zr": "SZP KB 2020",
+          "str": 4
+        }
+      ]
+    },
+    {
+      "etykieta": "Zaplecze i rotacja",
+      "punkty": [
+        {
+          "t": "Składowisko sprzętu poza strefą: obsługa, tankowanie, drobne naprawy; nie może zakłócać działań.",
+          "zr": "SZP KB 2020",
+          "str": 4
+        },
+        {
+          "t": "Przy wyjściu ze strefy dekontaminacja ratowników i sprzętu; odwód taktyczny do podmiany, z dala od działań.",
+          "zr": "SZP KB 2020",
+          "str": 5
+        }
+      ]
+    },
+    {
+      "etykieta": "Kierowanie",
+      "punkty": [
+        {
+          "t": "Zespoły (odcinki bojowe) z zadaniem i dowódcą; po przybyciu SGPR/SGRT odcinkiem specjalistycznym dowodzi dowódca grupy.",
+          "zr": "SZP KB 2020",
+          "str": 5
+        },
+        {
+          "t": "Kierowanie taktyczne: sztab, SDŁ i namiot, szef sztabu, kontrola wejść do sztabu, oznakowanie funkcji i miejsc (PPSiS, media, wsparcie psychologiczne, ewakuacja).",
+          "zr": "SZP KB 2020",
+          "str": 5
+        },
+        {
+          "t": "Schemat łączności i czas meldunków; bieżące informowanie SK KP/KM.",
+          "zr": "SZP KB 2020",
+          "str": 5
+        },
+        {
+          "t": "Ciężki sprzęt (dźwigi, koparki, ładowarki teleskopowe) w porozumieniu z zarządzaniem kryzysowym — najpierw ustal zasady finansowania.",
+          "zr": "SZP KB 2020",
+          "str": 5
+        },
+        {
+          "t": "Media tylko przez wyznaczonego oficera prasowego.",
+          "zr": "SZP KB 2020",
+          "str": 5
+        }
+      ]
+    }
+  ],
+  "nie_rob": [
+    {
+      "t": "Nie dopuszczaj osób zbędnych na teren akcji.",
+      "zr": "SZP KB 2020",
+      "str": 5
+    }
+  ],
+  "tagi_wspolne": [
+    "katastrofa budowlana",
+    "zawalenie",
+    "organizacja dzialan"
+  ],
   "dokumenty_zrodlowe": [
     {
       "dokument_id": "doc-katastrofa-budowlana-2020",
       "strona": 4,
-      "sekcja": "Odpowiednia karta SZP katastrofy budowlanej"
+      "sekcja": "Organizacja działań ratowniczych (s. 4–5)"
     }
-  ]
+  ],
+  "data_przegladu": "2026-10-27"
 }

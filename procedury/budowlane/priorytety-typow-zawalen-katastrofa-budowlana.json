@@ -1,8 +1,10 @@
 {
   "id": "KARTA-BUD-PRIORYTETY-TYPOW-ZAWALEN",
+  "wzorzec": 2,
   "kategoria": "informacje",
-  "zrodlo": "Standardowe zasady postepowania podczas katastrofy budowlanej po wystapieniu katastrofy budowlanej, KG PSP",
-  "data_aktualizacji": "2020-09-07",
+  "grupa": "bud",
+  "zrodlo": "KG PSP: Standardowe zasady postępowania po wystąpieniu katastrofy budowlanej, wydanie I, 2020.",
+  "data_aktualizacji": "2026-10-27",
   "slowo_kluczowe": "priorytety typow zawalen",
   "keywords": [
     "typy zawalen priorytety",
@@ -12,13 +14,6 @@
     "zawalenie typ 4",
     "zawalenie typ 5"
   ],
-  "prefix": "Katastrofa budowlana - dodatkowe priorytety organizacji dzialan dla roznych typow zawalen.",
-  "content": "1. KOD / NAZWA: katastrofa budowlana - dodatkowe priorytety dzialan dla typow zawalen.\n2. TYP 1 - ZAWALENIE KONDYGNACJI DO WEWNATRZ OBIEKTU: priorytetem jest uzycie psow ratowniczych i elektroniki do lokalizacji osob zywych, stabilizacja naruszonych elementow gruzowiska, monitorowanie stabilnosci oraz ograniczenie wejscia do minimum. Nalezy uwzglednic wysokosc obiektu przy wyznaczaniu granic strefy niebezpiecznej.\n3. TYP 2 - ZAWALENIE WARSTWOWE, OPADNIECIE STROPOW: priorytetem jest uzycie psow ratowniczych i elektroniki, ocena mozliwosci przezycia w malych przestrzeniach, monitorowanie stabilnosci, wykorzystanie ciezkiego sprzetu do unoszenia elementow konstrukcji oraz podnosnikow lub technik alpinistycznych do ewakuacji z wyzszych kondygnacji.\n4. TYP 3 - ZAWALENIE CALKOWITE, RUMOWISKO: priorytetem jest uzycie psow ratowniczych i elektroniki do lokalizacji osob zywych, reczne albo zmechanizowane odgruzowywanie, monitorowanie stabilnosci obiektu, napowietrzanie ciasnych przestrzeni i tuneli oraz bardzo krotki czas na uratowanie poszkodowanych.\n5. TYP 4 - ZAWALENIE W WYNIKU PRZEMIESZCZENIA OBIEKTU LUB JEGO CZESCI: priorytetem jest uzycie psow ratowniczych i elektroniki do lokalizacji osob zywych, monitorowanie stabilnosci obiektu oraz utrzymania droznosci drog ewakuacyjnych, przy jednoczesnym uwzglednieniu wysokosci obiektu przy wyznaczaniu strefy niebezpiecznej.\n6. TYP 5 - ZAWALENIE CZESCI OBIEKTU Z WISZACYMI ELEMENTAMI I ZAGRUZOWANIEM: priorytetem jest uzycie psow ratowniczych i elektroniki do lokalizacji osob zywych, monitorowanie stabilnosci obiektu, przygotowanie stabilizacji naruszonych elementow, zwrocenie uwagi na wysokosc obiektu przy wyznaczaniu granic strefy niebezpiecznej oraz uwzglednienie mozliwosci obecnosci poszkodowanych na wyzszych kondygnacjach.\n7. UWAGI OPERACYJNE: karta ma sluzyc szybkiemu doborowi priorytetow taktycznych zalezenie od dominujacego typu zawalenia i nie zastępuje podstawowych zasad rozpoznania, wyznaczania stref i organizacji akcji.",
-  "tagi_wspolne": [
-    "katastrofa budowlana",
-    "zawalenie",
-    "typy zawalen"
-  ],
   "aliasy": [
     "typy zawalen priorytety",
     "zawalenie typ 1",
@@ -27,11 +22,58 @@
     "zawalenie typ 4",
     "zawalenie typ 5"
   ],
+  "prefix": "Katastrofa budowlana — dodatkowe priorytety dla typów zawaleń 1–5 (SZP KG PSP 2020).",
+  "najpierw": [
+    {
+      "t": "We wszystkich typach: psy ratownicze i urządzenia elektroniczne do lokalizacji żywych oraz monitorowanie stabilności.",
+      "zr": "SZP KB 2020",
+      "str": 6
+    }
+  ],
+  "parametry": [],
+  "sekcje": [
+    {
+      "etykieta": "Typy zawaleń",
+      "punkty": [
+        {
+          "t": "Typ 1 (kondygnacje do wewnątrz): stabilizacja gruzowiska, wejścia do obiektu ograniczone do minimum, strefa wg wysokości obiektu.",
+          "zr": "SZP KB 2020",
+          "str": 6
+        },
+        {
+          "t": "Typ 2 (warstwowe, stropy): ciężki sprzęt i siłowniki pneumatyczne/hydrauliczne; małe przestrzenie — krótki czas; poszkodowani wyżej — podnośniki, techniki alpinistyczne.",
+          "zr": "SZP KB 2020",
+          "str": 6
+        },
+        {
+          "t": "Typ 3 (rumowisko): małe przestrzenie — krótki czas; napowietrzanie ciasnych przestrzeni i tuneli; odgruzowywanie ręczne lub dźwigami.",
+          "zr": "SZP KB 2020",
+          "str": 6
+        },
+        {
+          "t": "Typ 4 (przemieszczenie): możliwe nagłe pogorszenie — utrzymuj drożne drogi ewakuacji; strefa wg wysokości obiektu.",
+          "zr": "SZP KB 2020",
+          "str": 6
+        },
+        {
+          "t": "Typ 5 (wiszące elementy): drożne drogi ewakuacji, stabilizacja elementów, strefa wg wysokości; poszkodowani wyżej — podnośniki, alpinistyka.",
+          "zr": "SZP KB 2020",
+          "str": 6
+        }
+      ]
+    }
+  ],
+  "tagi_wspolne": [
+    "katastrofa budowlana",
+    "zawalenie",
+    "typy zawalen"
+  ],
   "dokumenty_zrodlowe": [
     {
       "dokument_id": "doc-katastrofa-budowlana-2020",
       "strona": 6,
-      "sekcja": "Odpowiednia karta SZP katastrofy budowlanej"
+      "sekcja": "Dodatkowe priorytety dla typów zawaleń (s. 6)"
     }
-  ]
+  ],
+  "data_przegladu": "2026-10-27"
 }

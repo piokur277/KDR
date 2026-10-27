@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T19:11:48.140Z",
+  "generated_at": "2026-10-27T19:19:43.349Z",
   "registry_version": "2.7",
   "document_count": 86,
   "active_document_count": 86,
@@ -153,37 +153,37 @@
         {
           "procedure_id": "KARTA-BUD-INFORMACJE-DODATKOWE-KATASTROFA-BUDOWLANA",
           "strona": 1,
-          "sekcja": "Odpowiednia karta SZP katastrofy budowlanej"
+          "sekcja": "Typy zawaleń i zagrożenia (s. 1)"
         },
         {
           "procedure_id": "KARTA-BUD-ORGANIZACJA-DZIALAN-KATASTROFA-BUDOWLANA",
           "strona": 4,
-          "sekcja": "Odpowiednia karta SZP katastrofy budowlanej"
+          "sekcja": "Organizacja działań ratowniczych (s. 4–5)"
         },
         {
           "procedure_id": "KARTA-BUD-PRIORYTETY-TYPOW-ZAWALEN",
           "strona": 6,
-          "sekcja": "Odpowiednia karta SZP katastrofy budowlanej"
+          "sekcja": "Dodatkowe priorytety dla typów zawaleń (s. 6)"
         },
         {
           "procedure_id": "KARTA-BUD-PRZEKAZANIE-KATASTROFA-BUDOWLANA",
           "strona": 8,
-          "sekcja": "Odpowiednia karta SZP katastrofy budowlanej"
+          "sekcja": "Przekazanie miejsca zdarzenia (s. 8)"
         },
         {
           "procedure_id": "KARTA-BUD-ROZPOZNANIE-KATASTROFA-BUDOWLANA",
           "strona": 2,
-          "sekcja": "Odpowiednia karta SZP katastrofy budowlanej"
+          "sekcja": "Rozpoznanie (s. 2)"
         },
         {
           "procedure_id": "KARTA-BUD-STREFA-I-EWAKUACJA-KATASTROFA-BUDOWLANA",
           "strona": 3,
-          "sekcja": "Odpowiednia karta SZP katastrofy budowlanej"
+          "sekcja": "Strefa zagrożenia i ewakuacja (s. 3)"
         },
         {
           "procedure_id": "KARTA-BUD-ZABEZPIECZENIE-LOGISTYCZNE-KATASTROFA-BUDOWLANA",
           "strona": 7,
-          "sekcja": "Odpowiednia karta SZP katastrofy budowlanej"
+          "sekcja": "Zabezpieczenie logistyczne (s. 7)"
         }
       ]
     },

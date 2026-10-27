@@ -1131,9 +1131,11 @@
   },
   {
     "id": "KARTA-BUD-INFORMACJE-DODATKOWE-KATASTROFA-BUDOWLANA",
+    "wzorzec": 2,
     "kategoria": "informacje",
-    "zrodlo": "Standardowe zasady postepowania podczas katastrofy budowlanej po wystapieniu katastrofy budowlanej, KG PSP",
-    "data_aktualizacji": "2020-09-07",
+    "grupa": "bud",
+    "zrodlo": "KG PSP: Standardowe zasady postępowania po wystąpieniu katastrofy budowlanej, wydanie I, 2020.",
+    "data_aktualizacji": "2026-10-27",
     "slowo_kluczowe": "katastrofa budowlana informacje dodatkowe",
     "keywords": [
       "zawalenie budynku",
@@ -1143,12 +1145,6 @@
       "niebezpieczenstwa zawalenia",
       "budowlane"
     ],
-    "prefix": "Katastrofa budowlana - typy zawalen obiektow i podstawowe zagrozenia.",
-    "content": "1. KOD / NAZWA: katastrofa budowlana - informacje dodatkowe o typach zawalen i zagrozeniach.\n2. TYPY ZAWALEN: dokument wskazuje piec podstawowych typow zawalen obiektow budowlanych: typ 1 - zawalenie kondygnacji do wewnatrz obiektu, typ 2 - zawalenie warstwowe i opadniecie stropow, typ 3 - zawalenie calkowite zwane rumowiskiem, typ 4 - zawalenie w wyniku przemieszczenia obiektu lub jego czesci, typ 5 - zawalenie czesci obiektu z wiszacymi elementami i zagruzowaniem.\n3. GLOWNE ZAGROZENIA: naruszona konstrukcja budowlana niesie zagrozenia zwiazane z uszkodzeniem konstrukcji, mediow znajdujacych sie w obiekcie oraz materialow obecnych pod gruzowiskiem.\n4. ZAGROZENIA KONSTRUKCYJNE: niestabilne i ruchome czesci budynku grozace dalszym zawaleniem, odpadnieciem lub osunieciem, duze obciazenia i ciezar elementow budowlanych oraz nieznana nosnosc i wytrzymalosc elementow gruzowiska.\n5. ZAGROZENIA INSTALACYJNE: uwolnienie gazu mogacego tworzyc mieszaniny wybuchowe lub ulec zapaleniu, porazenie pradem elektrycznym oraz wyciek z uszkodzonych instalacji wodnych, ktory moze zalac przestrzenie z osobami.\n6. ZAGROZENIA DODATKOWE: materialy pirotechniczne, substancje chemiczne mogace szkodzic poszkodowanym, zagrozenia biologiczne i radiacyjne zalezne od specyfiki obiektu oraz dzikie lub egzotyczne zwierzeta.\n7. UWAGI OPERACYJNE: karta ma charakter orientacyjny i sluzy do szybkiej identyfikacji typu zawalenia oraz najbardziej prawdopodobnych zagrozen przed rozpoczeciem dzialan szczegolowych.",
-    "tagi_wspolne": [
-      "katastrofa budowlana",
-      "zawalenie"
-    ],
     "aliasy": [
       "zawalenie budynku",
       "typy zawalen",
@@ -1157,19 +1153,99 @@
       "niebezpieczenstwa zawalenia",
       "budowlane"
     ],
+    "prefix": "Katastrofa budowlana — typy zawaleń i zagrożenia (SZP KG PSP 2020).",
+    "najpierw": [
+      {
+        "t": "Najgroźniejsze: niestabilne i ruchome części budynku grożące dalszym zawaleniem, odpadnięciem lub osunięciem.",
+        "zr": "SZP KB 2020",
+        "str": 1
+      },
+      {
+        "t": "Uszkodzone media: gaz (mieszaniny wybuchowe), prąd, woda — także gorąca — mogąca zalać przestrzenie z ludźmi.",
+        "zr": "SZP KB 2020",
+        "str": 1
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Typ 1",
+        "wartosc": "zawalenie kondygnacji do wewnątrz obiektu",
+        "zr": "SZP KB 2020",
+        "str": 1
+      },
+      {
+        "nazwa": "Typ 2",
+        "wartosc": "zawalenie warstwowe, opadnięcie stropów",
+        "zr": "SZP KB 2020",
+        "str": 1
+      },
+      {
+        "nazwa": "Typ 3",
+        "wartosc": "zawalenie całkowite — rumowisko",
+        "zr": "SZP KB 2020",
+        "str": 1
+      },
+      {
+        "nazwa": "Typ 4",
+        "wartosc": "zawalenie w wyniku przemieszczenia obiektu lub jego części",
+        "zr": "SZP KB 2020",
+        "str": 1
+      },
+      {
+        "nazwa": "Typ 5",
+        "wartosc": "zawalenie części obiektu z wiszącymi elementami i zagruzowaniem",
+        "zr": "SZP KB 2020",
+        "str": 1
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Zagrożenia",
+        "punkty": [
+          {
+            "t": "Duże obciążenia i ciężar elementów; nieznana nośność i wytrzymałość gruzowiska.",
+            "zr": "SZP KB 2020",
+            "str": 1
+          },
+          {
+            "t": "Materiały pirotechniczne.",
+            "zr": "SZP KB 2020",
+            "str": 1
+          },
+          {
+            "t": "Zależnie od obiektu: substancje chemiczne (zatrucia, poparzenia), biologiczne (np. szpitale), radiacyjne (pracownie RTG).",
+            "zr": "SZP KB 2020",
+            "str": 1
+          },
+          {
+            "t": "Dzikie lub egzotyczne zwierzęta.",
+            "zr": "SZP KB 2020",
+            "str": 1
+          }
+        ]
+      }
+    ],
+    "tagi_wspolne": [
+      "katastrofa budowlana",
+      "zawalenie"
+    ],
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-katastrofa-budowlana-2020",
         "strona": 1,
-        "sekcja": "Odpowiednia karta SZP katastrofy budowlanej"
+        "sekcja": "Typy zawaleń i zagrożenia (s. 1)"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: Najgroźniejsze: niestabilne i ruchome części budynku grożące dalszym zawaleniem, odpadnięciem lub osunięciem. Uszkodzone media: gaz (mieszaniny wybuchowe), prąd, woda — także gorąca — mogąca zalać przestrzenie z ludźmi.\n2. PARAMETRY: Typ 1 — zawalenie kondygnacji do wewnątrz obiektu; Typ 2 — zawalenie warstwowe, opadnięcie stropów; Typ 3 — zawalenie całkowite — rumowisko; Typ 4 — zawalenie w wyniku przemieszczenia obiektu lub jego części; Typ 5 — zawalenie części obiektu z wiszącymi elementami i zagruzowaniem\n3. ZAGROŻENIA: Duże obciążenia i ciężar elementów; nieznana nośność i wytrzymałość gruzowiska. Materiały pirotechniczne. Zależnie od obiektu: substancje chemiczne (zatrucia, poparzenia), biologiczne (np. szpitale), radiacyjne (pracownie RTG). Dzikie lub egzotyczne zwierzęta."
   },
   {
     "id": "KARTA-BUD-ORGANIZACJA-DZIALAN-KATASTROFA-BUDOWLANA",
+    "wzorzec": 2,
     "kategoria": "organizacja",
-    "zrodlo": "Standardowe zasady postepowania podczas katastrofy budowlanej po wystapieniu katastrofy budowlanej, KG PSP",
-    "data_aktualizacji": "2020-09-07",
+    "grupa": "bud",
+    "zrodlo": "KG PSP: Standardowe zasady postępowania po wystąpieniu katastrofy budowlanej, wydanie I, 2020.",
+    "data_aktualizacji": "2026-10-27",
     "slowo_kluczowe": "organizacja dzialan katastrofa budowlana",
     "keywords": [
       "gruzowisko organizacja akcji",
@@ -1177,32 +1253,161 @@
       "rotacja ratownikow gruzowisko",
       "sztab katastrofa budowlana"
     ],
-    "prefix": "Katastrofa budowlana - organizacja dzialan ratowniczych na gruzowisku.",
-    "content": "1. KOD / NAZWA: katastrofa budowlana - organizacja dzialan ratowniczych.\n2. ORGANIZACJA WSTEPNA: ogranicz liczbe ratownikow w strefie zagrozenia do niezbednego minimum. Wyznacz miejsce na organizacje punktu przyjecia SIS oraz osobe odpowiedzialna za jego obsluge. Po ewakuacji okresl priorytety ratownicze i zaznacz miejsca lokalizacji osob zywych albo miejsc, gdzie prawdopodobnie moga przebywac osoby w chwili zdarzenia.\n3. PRZESZUKANIE: przystap do przeszukania obiektu z wykorzystaniem dostepnych metod i sprzetu, zachowujac zasady BHP. W pierwszej kolejnosci wykorzystuj strazakow nawotujacych osoby pod gruzami, megafony, psy ratownicze oraz informacje od przewodnikow psow. Kazdorazowo przed nawolywaniem oglaszaj cisze na gruzowisku.\n4. KONTROLA MIEJSC NIEBEZPIECZNYCH: na kazdym etapie przeszukiwania obiektu upewnij sie, ze niestabilne elementy zostaly wlasciwie zabezpieczone, usuniete lub ustabilizowane, a w razie braku takiej mozliwosci miejsca te zostaly oznaczone i omijane. Przeszukanie wszystkich zlokalizowanych poszkodowanych nalezy powtarzac bezprzyrzadowo.\n5. ZABEZPIECZENIE RATOWNIKOW: podczas odgruzowywania zapewnij ratownikom sprzet ochronny osobistej, a w razie potrzeby takze oddechowej. Upewnij sie, ze przy wejsciu do strefy zagrozenia znajduja sie zespoly zdolne udzielic pomocy odnalezionym lub ewakuowanym poszkodowanym.\n6. ROTACJA I ODWOD: przy wyjsciu ze strefy zagrozenia zapewnij mozliwosc dekontaminacji ratownikow i sprzetu dla osob konczacych zmiane robocza. Zapewnij odwod taktyczny do podmiany pracujacych ratownikow oraz bezpieczna odleglosc od prowadzonych dzialan. Unikaj obecnosci osob zbednych na terenie akcji.\n7. CZAS PRACY: organizuj rotacyjna prace ratownikow, przyjmujac nie wiecej niz 6 godzin pracy w strefie i w warunkach szczegolnie trudnych odpowiednio krotszy czas zmiany, do 4 lub nawet 2 godzin.\n8. SZTAB I ODCINKI: w razie potrzeby utworz zespoly ratownikow z okreslonym zadaniem, wyznacz miejsce dla kierowania taktycznego oraz zorganizuj sztab. Zadysponuj SDC, namiot do pracy sztabu, wyznacz szefa sztabu i osoby odpowiedzialne za kontrole wejsc i wyjsc. Zadbaj o oznakowanie osob funkcyjnych, miejsca obslugi mediow, wsparcia psychologicznego, PPSiS, sztabu oraz miejsca tymczasowej ewakuacji poszkodowanych.\n9. WSPOLDZIALANIE: po dojezdzie SGPR albo SGRT podziel teren akcji na odcinki bojowe, wyznacz dowodce odcinka specjalistycznego oraz grupe ratownicza. Opracuj schemat lacznosci akcji i czas skladania meldunkow. Na biezaco informuj wlasciwe terenowo stanowisko kierowania PSP. W porozumieniu z przedstawicielami zarzadzania kryzysowego zadysponuj ciezki sprzet budowlany oraz do odgruzowywania zniszczonego obiektu.\n10. CO MOZE POJSC NIE TAK: brak ustalenia zasad finansowania moze opoznic wykorzystanie sprzetu. Upewnij sie, ze zasady finansowania uzycia sprzetu zostaly ustalone przed jego uruchomieniem. Informowanie mediow powinno odbywac sie wyłącznie przez wyznaczonego oficera prasowego lub osobe odpowiedzialna za kontakt z mediami.\n11. UWAGI OPERACYJNE: w razie koniecznosci wyznacz osobe do obslugi sprzetu specjalistycznego poza strefa zagrozenia, miejsce skladowania sprzetu oraz osobe do jego obslugi, a przy pracach na wyzszych kondygnacjach uwzglednij mozliwosc wykorzystania podnosnikow lub technik alpinistycznych.",
-    "tagi_wspolne": [
-      "katastrofa budowlana",
-      "zawalenie",
-      "organizacja dzialan"
-    ],
     "aliasy": [
       "gruzowisko organizacja akcji",
       "katastrofa budowlana organizacja",
       "rotacja ratownikow gruzowisko",
       "sztab katastrofa budowlana"
     ],
+    "prefix": "Katastrofa budowlana — organizacja działań: priorytety, przeszukanie, bezpieczeństwo ratowników, zmiany do 6 h, sztab (SZP KG PSP 2020).",
+    "najpierw": [
+      {
+        "t": "Ogranicz liczbę ratowników w strefie do niezbędnego minimum.",
+        "zr": "SZP KB 2020",
+        "str": 4
+      },
+      {
+        "t": "Najpierw przeszukanie przez strażaków nawołujących (megafon), z ciszą na gruzowisku przed każdym nawoływaniem.",
+        "zr": "SZP KB 2020",
+        "str": 4
+      },
+      {
+        "t": "Brak sygnałów z gruzowiska nie oznacza braku poszkodowanych; niepewna liczba osób — czekaj na SGPR.",
+        "zr": "SZP KB 2020",
+        "str": 4
+      },
+      {
+        "t": "Przy wejściu do strefy zespół zdolny udzielić pomocy medycznej poszkodowanym i rannym ratownikom.",
+        "zr": "SZP KB 2020",
+        "str": 4
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Czas zmiany w strefie",
+        "wartosc": "max 6 h; w trudnych warunkach (upał, mróz, wiatr, ulewa) 4 lub nawet 2 h",
+        "zr": "SZP KB 2020",
+        "str": 5
+      },
+      {
+        "nazwa": "Odgruzowywanie — SOI",
+        "wartosc": "maseczki przeciwpyłowe, ochrona oczu",
+        "zr": "SZP KB 2020",
+        "str": 4
+      },
+      {
+        "nazwa": "Przestrzenie ograniczone",
+        "wartosc": "stała kontrola tlenu, napowietrzanie; w miarę możliwości ODO",
+        "zr": "SZP KB 2020",
+        "str": 4
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Priorytety i przeszukanie",
+        "punkty": [
+          {
+            "t": "Ewakuuj zlokalizowanych; zabezpiecz niestabilne elementy i otwory komunikacyjne; szukaj tam, gdzie mogli być ludzie; oznacz miejsca, gdzie nie możesz działać.",
+            "zr": "SZP KB 2020",
+            "str": 4
+          },
+          {
+            "t": "Przygotuj teren dla SGPR; przekaż jej dowódcy i koordynatorowi przewodników psów obszary poszukiwań i zagrożenia.",
+            "zr": "SZP KB 2020",
+            "str": 4
+          },
+          {
+            "t": "Na każdym etapie niestabilne elementy zabezpiecz, usuń lub ustabilizuj — albo oznacz i omijaj.",
+            "zr": "SZP KB 2020",
+            "str": 4
+          },
+          {
+            "t": "Po wydobyciu wszystkich zlokalizowanych powtórz przeszukanie bezprzyrządowe.",
+            "zr": "SZP KB 2020",
+            "str": 4
+          },
+          {
+            "t": "Sprzęt do kontroli stabilności nie gwarantuje bezpieczeństwa ani nie zapobiega wtórnemu zawaleniu — wspiera oficera bezpieczeństwa.",
+            "zr": "SZP KB 2020",
+            "str": 4
+          }
+        ]
+      },
+      {
+        "etykieta": "Zaplecze i rotacja",
+        "punkty": [
+          {
+            "t": "Składowisko sprzętu poza strefą: obsługa, tankowanie, drobne naprawy; nie może zakłócać działań.",
+            "zr": "SZP KB 2020",
+            "str": 4
+          },
+          {
+            "t": "Przy wyjściu ze strefy dekontaminacja ratowników i sprzętu; odwód taktyczny do podmiany, z dala od działań.",
+            "zr": "SZP KB 2020",
+            "str": 5
+          }
+        ]
+      },
+      {
+        "etykieta": "Kierowanie",
+        "punkty": [
+          {
+            "t": "Zespoły (odcinki bojowe) z zadaniem i dowódcą; po przybyciu SGPR/SGRT odcinkiem specjalistycznym dowodzi dowódca grupy.",
+            "zr": "SZP KB 2020",
+            "str": 5
+          },
+          {
+            "t": "Kierowanie taktyczne: sztab, SDŁ i namiot, szef sztabu, kontrola wejść do sztabu, oznakowanie funkcji i miejsc (PPSiS, media, wsparcie psychologiczne, ewakuacja).",
+            "zr": "SZP KB 2020",
+            "str": 5
+          },
+          {
+            "t": "Schemat łączności i czas meldunków; bieżące informowanie SK KP/KM.",
+            "zr": "SZP KB 2020",
+            "str": 5
+          },
+          {
+            "t": "Ciężki sprzęt (dźwigi, koparki, ładowarki teleskopowe) w porozumieniu z zarządzaniem kryzysowym — najpierw ustal zasady finansowania.",
+            "zr": "SZP KB 2020",
+            "str": 5
+          },
+          {
+            "t": "Media tylko przez wyznaczonego oficera prasowego.",
+            "zr": "SZP KB 2020",
+            "str": 5
+          }
+        ]
+      }
+    ],
+    "nie_rob": [
+      {
+        "t": "Nie dopuszczaj osób zbędnych na teren akcji.",
+        "zr": "SZP KB 2020",
+        "str": 5
+      }
+    ],
+    "tagi_wspolne": [
+      "katastrofa budowlana",
+      "zawalenie",
+      "organizacja dzialan"
+    ],
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-katastrofa-budowlana-2020",
         "strona": 4,
-        "sekcja": "Odpowiednia karta SZP katastrofy budowlanej"
+        "sekcja": "Organizacja działań ratowniczych (s. 4–5)"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: Ogranicz liczbę ratowników w strefie do niezbędnego minimum. Najpierw przeszukanie przez strażaków nawołujących (megafon), z ciszą na gruzowisku przed każdym nawoływaniem. Brak sygnałów z gruzowiska nie oznacza braku poszkodowanych; niepewna liczba osób — czekaj na SGPR. Przy wejściu do strefy zespół zdolny udzielić pomocy medycznej poszkodowanym i rannym ratownikom.\n2. PARAMETRY: Czas zmiany w strefie — max 6 h; w trudnych warunkach (upał, mróz, wiatr, ulewa) 4 lub nawet 2 h; Odgruzowywanie — SOI — maseczki przeciwpyłowe, ochrona oczu; Przestrzenie ograniczone — stała kontrola tlenu, napowietrzanie; w miarę możliwości ODO\n3. PRIORYTETY I PRZESZUKANIE: Ewakuuj zlokalizowanych; zabezpiecz niestabilne elementy i otwory komunikacyjne; szukaj tam, gdzie mogli być ludzie; oznacz miejsca, gdzie nie możesz działać. Przygotuj teren dla SGPR; przekaż jej dowódcy i koordynatorowi przewodników psów obszary poszukiwań i zagrożenia. Na każdym etapie niestabilne elementy zabezpiecz, usuń lub ustabilizuj — albo oznacz i omijaj. Po wydobyciu wszystkich zlokalizowanych powtórz przeszukanie bezprzyrządowe. Sprzęt do kontroli stabilności nie gwarantuje bezpieczeństwa ani nie zapobiega wtórnemu zawaleniu — wspiera oficera bezpieczeństwa.\n4. ZAPLECZE I ROTACJA: Składowisko sprzętu poza strefą: obsługa, tankowanie, drobne naprawy; nie może zakłócać działań. Przy wyjściu ze strefy dekontaminacja ratowników i sprzętu; odwód taktyczny do podmiany, z dala od działań.\n5. KIEROWANIE: Zespoły (odcinki bojowe) z zadaniem i dowódcą; po przybyciu SGPR/SGRT odcinkiem specjalistycznym dowodzi dowódca grupy. Kierowanie taktyczne: sztab, SDŁ i namiot, szef sztabu, kontrola wejść do sztabu, oznakowanie funkcji i miejsc (PPSiS, media, wsparcie psychologiczne, ewakuacja). Schemat łączności i czas meldunków; bieżące informowanie SK KP/KM. Ciężki sprzęt (dźwigi, koparki, ładowarki teleskopowe) w porozumieniu z zarządzaniem kryzysowym — najpierw ustal zasady finansowania. Media tylko przez wyznaczonego oficera prasowego.\n6. NIE RÓB: Nie dopuszczaj osób zbędnych na teren akcji."
   },
   {
     "id": "KARTA-BUD-PRIORYTETY-TYPOW-ZAWALEN",
+    "wzorzec": 2,
     "kategoria": "informacje",
-    "zrodlo": "Standardowe zasady postepowania podczas katastrofy budowlanej po wystapieniu katastrofy budowlanej, KG PSP",
-    "data_aktualizacji": "2020-09-07",
+    "grupa": "bud",
+    "zrodlo": "KG PSP: Standardowe zasady postępowania po wystąpieniu katastrofy budowlanej, wydanie I, 2020.",
+    "data_aktualizacji": "2026-10-27",
     "slowo_kluczowe": "priorytety typow zawalen",
     "keywords": [
       "typy zawalen priorytety",
@@ -1212,13 +1417,6 @@
       "zawalenie typ 4",
       "zawalenie typ 5"
     ],
-    "prefix": "Katastrofa budowlana - dodatkowe priorytety organizacji dzialan dla roznych typow zawalen.",
-    "content": "1. KOD / NAZWA: katastrofa budowlana - dodatkowe priorytety dzialan dla typow zawalen.\n2. TYP 1 - ZAWALENIE KONDYGNACJI DO WEWNATRZ OBIEKTU: priorytetem jest uzycie psow ratowniczych i elektroniki do lokalizacji osob zywych, stabilizacja naruszonych elementow gruzowiska, monitorowanie stabilnosci oraz ograniczenie wejscia do minimum. Nalezy uwzglednic wysokosc obiektu przy wyznaczaniu granic strefy niebezpiecznej.\n3. TYP 2 - ZAWALENIE WARSTWOWE, OPADNIECIE STROPOW: priorytetem jest uzycie psow ratowniczych i elektroniki, ocena mozliwosci przezycia w malych przestrzeniach, monitorowanie stabilnosci, wykorzystanie ciezkiego sprzetu do unoszenia elementow konstrukcji oraz podnosnikow lub technik alpinistycznych do ewakuacji z wyzszych kondygnacji.\n4. TYP 3 - ZAWALENIE CALKOWITE, RUMOWISKO: priorytetem jest uzycie psow ratowniczych i elektroniki do lokalizacji osob zywych, reczne albo zmechanizowane odgruzowywanie, monitorowanie stabilnosci obiektu, napowietrzanie ciasnych przestrzeni i tuneli oraz bardzo krotki czas na uratowanie poszkodowanych.\n5. TYP 4 - ZAWALENIE W WYNIKU PRZEMIESZCZENIA OBIEKTU LUB JEGO CZESCI: priorytetem jest uzycie psow ratowniczych i elektroniki do lokalizacji osob zywych, monitorowanie stabilnosci obiektu oraz utrzymania droznosci drog ewakuacyjnych, przy jednoczesnym uwzglednieniu wysokosci obiektu przy wyznaczaniu strefy niebezpiecznej.\n6. TYP 5 - ZAWALENIE CZESCI OBIEKTU Z WISZACYMI ELEMENTAMI I ZAGRUZOWANIEM: priorytetem jest uzycie psow ratowniczych i elektroniki do lokalizacji osob zywych, monitorowanie stabilnosci obiektu, przygotowanie stabilizacji naruszonych elementow, zwrocenie uwagi na wysokosc obiektu przy wyznaczaniu granic strefy niebezpiecznej oraz uwzglednienie mozliwosci obecnosci poszkodowanych na wyzszych kondygnacjach.\n7. UWAGI OPERACYJNE: karta ma sluzyc szybkiemu doborowi priorytetow taktycznych zalezenie od dominujacego typu zawalenia i nie zastępuje podstawowych zasad rozpoznania, wyznaczania stref i organizacji akcji.",
-    "tagi_wspolne": [
-      "katastrofa budowlana",
-      "zawalenie",
-      "typy zawalen"
-    ],
     "aliasy": [
       "typy zawalen priorytety",
       "zawalenie typ 1",
@@ -1227,19 +1425,69 @@
       "zawalenie typ 4",
       "zawalenie typ 5"
     ],
+    "prefix": "Katastrofa budowlana — dodatkowe priorytety dla typów zawaleń 1–5 (SZP KG PSP 2020).",
+    "najpierw": [
+      {
+        "t": "We wszystkich typach: psy ratownicze i urządzenia elektroniczne do lokalizacji żywych oraz monitorowanie stabilności.",
+        "zr": "SZP KB 2020",
+        "str": 6
+      }
+    ],
+    "parametry": [],
+    "sekcje": [
+      {
+        "etykieta": "Typy zawaleń",
+        "punkty": [
+          {
+            "t": "Typ 1 (kondygnacje do wewnątrz): stabilizacja gruzowiska, wejścia do obiektu ograniczone do minimum, strefa wg wysokości obiektu.",
+            "zr": "SZP KB 2020",
+            "str": 6
+          },
+          {
+            "t": "Typ 2 (warstwowe, stropy): ciężki sprzęt i siłowniki pneumatyczne/hydrauliczne; małe przestrzenie — krótki czas; poszkodowani wyżej — podnośniki, techniki alpinistyczne.",
+            "zr": "SZP KB 2020",
+            "str": 6
+          },
+          {
+            "t": "Typ 3 (rumowisko): małe przestrzenie — krótki czas; napowietrzanie ciasnych przestrzeni i tuneli; odgruzowywanie ręczne lub dźwigami.",
+            "zr": "SZP KB 2020",
+            "str": 6
+          },
+          {
+            "t": "Typ 4 (przemieszczenie): możliwe nagłe pogorszenie — utrzymuj drożne drogi ewakuacji; strefa wg wysokości obiektu.",
+            "zr": "SZP KB 2020",
+            "str": 6
+          },
+          {
+            "t": "Typ 5 (wiszące elementy): drożne drogi ewakuacji, stabilizacja elementów, strefa wg wysokości; poszkodowani wyżej — podnośniki, alpinistyka.",
+            "zr": "SZP KB 2020",
+            "str": 6
+          }
+        ]
+      }
+    ],
+    "tagi_wspolne": [
+      "katastrofa budowlana",
+      "zawalenie",
+      "typy zawalen"
+    ],
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-katastrofa-budowlana-2020",
         "strona": 6,
-        "sekcja": "Odpowiednia karta SZP katastrofy budowlanej"
+        "sekcja": "Dodatkowe priorytety dla typów zawaleń (s. 6)"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: We wszystkich typach: psy ratownicze i urządzenia elektroniczne do lokalizacji żywych oraz monitorowanie stabilności.\n2. TYPY ZAWALEŃ: Typ 1 (kondygnacje do wewnątrz): stabilizacja gruzowiska, wejścia do obiektu ograniczone do minimum, strefa wg wysokości obiektu. Typ 2 (warstwowe, stropy): ciężki sprzęt i siłowniki pneumatyczne/hydrauliczne; małe przestrzenie — krótki czas; poszkodowani wyżej — podnośniki, techniki alpinistyczne. Typ 3 (rumowisko): małe przestrzenie — krótki czas; napowietrzanie ciasnych przestrzeni i tuneli; odgruzowywanie ręczne lub dźwigami. Typ 4 (przemieszczenie): możliwe nagłe pogorszenie — utrzymuj drożne drogi ewakuacji; strefa wg wysokości obiektu. Typ 5 (wiszące elementy): drożne drogi ewakuacji, stabilizacja elementów, strefa wg wysokości; poszkodowani wyżej — podnośniki, alpinistyka."
   },
   {
     "id": "KARTA-BUD-PRZEKAZANIE-KATASTROFA-BUDOWLANA",
+    "wzorzec": 2,
     "kategoria": "organizacja",
-    "zrodlo": "Standardowe zasady postepowania podczas katastrofy budowlanej po wystapieniu katastrofy budowlanej, KG PSP",
-    "data_aktualizacji": "2020-09-07",
+    "grupa": "bud",
+    "zrodlo": "KG PSP: Standardowe zasady postępowania po wystąpieniu katastrofy budowlanej, wydanie I, 2020.",
+    "data_aktualizacji": "2026-10-27",
     "slowo_kluczowe": "przekazanie miejsca zdarzenia katastrofa budowlana",
     "keywords": [
       "przekazanie gruzowisko",
@@ -1247,32 +1495,65 @@
       "przekazanie zawalony budynek",
       "przekazanie katastrofa budowlana"
     ],
-    "prefix": "Katastrofa budowlana - przekazanie miejsca zdarzenia po zakonczeniu dzialan.",
-    "content": "1. KOD / NAZWA: katastrofa budowlana - przekazanie miejsca zdarzenia.\n2. DOKUMENTACJA: przekaz miejsce zdarzenia wlascicielowi, uzytkownikowi albo Policji zgodnie z obowiazujacymi zasadami, sporzadzajac wlasciwy dokument przekazania. Dokumentem wskazanym w procedurze jest potwierdzenie przekazania terenu, obiektu lub mienia objetego dzialaniem ratowniczym.\n3. INFORMACJE DLA PRZEJMUJACEGO: przekaz osobie przejmujacej informacje o prowadzonych dzialaniach ratowniczych oraz potencjalnych zagrozeniach, w szczegolnosci o aktualnej sytuacji na terenie akcji, miejscach niebezpiecznych lub mogacych stanowic zagrozenie, elementach konstrukcji i obiektu ewakuowanymi poza obrys obiektu oraz stanie mediow w obiekcie.\n4. OGRANICZENIA I OSTRZEZENIA: zwroc uwage, ze elementy stabilizacji gruzowiska byly wykonywane tylko na potrzebe dzialan ratowniczych i po ich zakonczeniu nie daja gwarancji bezpieczenstwa.\n5. DALSZE POSTEPOWANIE: ustal sposob dalszego postepowania w stosunku do obiektu przez inne sluzby, wlasciciela albo powiadom o tym osobe przejmujaca miejsce zdarzenia.\n6. UWAGI OPERACYJNE: karta konczy faze ratownicza i powinna jasno okreslac stan obiektu, zakres wykonanych zabezpieczen oraz pozostale ograniczenia zwiazane z mozliwoscia dalszego przebywania na terenie katastrofy budowlanej.",
-    "tagi_wspolne": [
-      "katastrofa budowlana",
-      "zawalenie",
-      "przekazanie"
-    ],
     "aliasy": [
       "przekazanie gruzowisko",
       "po akcji katastrofa budowlana",
       "przekazanie zawalony budynek",
       "przekazanie katastrofa budowlana"
     ],
+    "prefix": "Katastrofa budowlana — przekazanie miejsca zdarzenia właścicielowi, użytkownikowi lub Policji (SZP KG PSP 2020).",
+    "najpierw": [
+      {
+        "t": "Przekaż właścicielowi, użytkownikowi lub Policji — „Potwierdzenie przekazania terenu, obiektu lub mienia objętego działaniem ratowniczym”.",
+        "zr": "SZP KB 2020",
+        "str": 8
+      }
+    ],
+    "parametry": [],
+    "sekcje": [
+      {
+        "etykieta": "Przekaż informacje o",
+        "punkty": [
+          {
+            "t": "Aktualnej sytuacji, miejscach niebezpiecznych, elementach konstrukcji wyniesionych poza obrys, stanie mediów.",
+            "zr": "SZP KB 2020",
+            "str": 8
+          },
+          {
+            "t": "Tym, że stabilizacja gruzowiska służyła tylko działaniom ratowniczym i nie gwarantuje bezpieczeństwa.",
+            "zr": "SZP KB 2020",
+            "str": 8
+          },
+          {
+            "t": "Ustalonym dalszym postępowaniu z obiektem (inne służby, właściciel).",
+            "zr": "SZP KB 2020",
+            "str": 8
+          }
+        ]
+      }
+    ],
+    "tagi_wspolne": [
+      "katastrofa budowlana",
+      "zawalenie",
+      "przekazanie"
+    ],
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-katastrofa-budowlana-2020",
         "strona": 8,
-        "sekcja": "Odpowiednia karta SZP katastrofy budowlanej"
+        "sekcja": "Przekazanie miejsca zdarzenia (s. 8)"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: Przekaż właścicielowi, użytkownikowi lub Policji — „Potwierdzenie przekazania terenu, obiektu lub mienia objętego działaniem ratowniczym”.\n2. PRZEKAŻ INFORMACJE O: Aktualnej sytuacji, miejscach niebezpiecznych, elementach konstrukcji wyniesionych poza obrys, stanie mediów. Tym, że stabilizacja gruzowiska służyła tylko działaniom ratowniczym i nie gwarantuje bezpieczeństwa. Ustalonym dalszym postępowaniu z obiektem (inne służby, właściciel)."
   },
   {
     "id": "KARTA-BUD-ROZPOZNANIE-KATASTROFA-BUDOWLANA",
+    "wzorzec": 2,
     "kategoria": "dzialania",
-    "zrodlo": "Standardowe zasady postepowania podczas katastrofy budowlanej po wystapieniu katastrofy budowlanej, KG PSP",
-    "data_aktualizacji": "2020-09-07",
+    "grupa": "bud",
+    "zrodlo": "KG PSP: Standardowe zasady postępowania po wystąpieniu katastrofy budowlanej, wydanie I, 2020.",
+    "data_aktualizacji": "2026-10-27",
     "slowo_kluczowe": "rozpoznanie katastrofa budowlana",
     "keywords": [
       "rozpoznanie zawalenie",
@@ -1280,32 +1561,113 @@
       "katastrofa budowlana rozpoznanie",
       "zawalony budynek rozpoznanie"
     ],
-    "prefix": "Katastrofa budowlana - rozpoznanie miejsca zdarzenia.",
-    "content": "1. KOD / NAZWA: katastrofa budowlana - rozpoznanie miejsca zdarzenia.\n2. ROZPOZNANIE WSTEPNE: pozyskaj od personelu obiektu, uczestnikow i swiadkow zdarzenia jak najwiecej informacji o charakterze i przeznaczeniu obiektu, liczbie kondygnacji nadziemnych i podziemnych, przypuszczalnej godzinie zdarzenia, liczbie osob przebywajacych w obiekcie w chwili zdarzenia, mozliwym kontakcie z poszkodowanymi, mediach oraz potencjalnych przyczynach zawalenia.\n3. OCENA OBIEKTU: ustal, czy w obiekcie byly podlaczone media i czy zostaly juz odlaczone. Jezeli media nie zostaly odlaczone albo nie ma pewnosci co do ich stanu, wezwij odpowiednie sluzby i zachowaj szczegolna ostroznosc przy wprowadzaniu ludzi na gruzowisko.\n4. OGLADZINY: dokonaj ogledzin obiektu z kazdej strony zgodnie z zasadami bezpieczenstwa i przy zachowaniu szczegolnej uwagi na niestabilne, uszkodzone elementy konstrukcji i budowlane. Do rozpoznania wysylaj minimum dwoch ratownikow wyposazonych w sprzet pomiarowy i lacznosc.\n5. SZKIC I PRZESZUKANIE: wykonaj szkic obiektu z zaznaczeniem szczegolnych miejsc z punktu widzenia bezpieczenstwa oraz priorytetow ratowniczych. Wykonaj wstepne przeszukanie gruzowiska i jego przesluchanie metoda nawolywania i nasluchiwania.\n6. DYSPOZYCJE DODATKOWE: w przypadku prawdopodobienstwa znajdowania sie osob pod gruzami albo znacznego uszkodzenia obiektu zadysponuj dodatkowe SIS, w szczegolnosci SGPR poziomu A, B i C oraz SGRT, a stosownie do sytuacji inne sluzby i przedstawicieli zarzadzania kryzysowego, pogotowie gazowe i energetyczne, przedstawicieli gminy, miasta lub powiatu, Powiatowego Inspektora Nadzoru Budowlanego, a w razie potrzeby zespol rozpoznania pirotechnicznego Policji albo SGRChem.\n7. ZABEZPIECZENIE DZIALAN: okresl zapotrzebowanie na zespoly PRM. W przypadku zadysponowania smiglowca LPR okresl i przygotuj miejsce do ladowania. Wyznacz punkt przyjecia sil i srodkow oraz przydziel do niego funkcjonariusza wyposazonego w radiotelefon w celu przekazywania informacji o przybylych SIS.\n8. CO MOZE POJSC NIE TAK: nie podejmuj zadnych dzialan ratowniczych w strefie zagrozenia do czasu wlasciwego zabezpieczenia miejsca dzialan oraz ratownikow. W dzialaniach poszukiwawczych z wykorzystaniem psow ratowniczych mozna wykorzystywac tylko zespoly z aktualnym egzaminem klasy I zgodnie z obowiazujacymi przepisami, a przewodnik psa powinien legitymowac sie wlasciwym dokumentem.\n9. UWAGI OPERACYJNE: karta obejmuje rozpoznanie przed wprowadzeniem ratownikow do strefy dzialan i powinna stanowic podstawe do dalszego wyznaczenia stref oraz organizacji akcji.",
-    "tagi_wspolne": [
-      "katastrofa budowlana",
-      "zawalenie",
-      "rozpoznanie"
-    ],
     "aliasy": [
       "rozpoznanie zawalenie",
       "gruzowisko rozpoznanie",
       "katastrofa budowlana rozpoznanie",
       "zawalony budynek rozpoznanie"
     ],
+    "prefix": "Katastrofa budowlana — rozpoznanie: wywiad, oględziny, wyciszenie gruzowiska, dysponowanie SGPR i służb (SZP KG PSP 2020).",
+    "najpierw": [
+      {
+        "t": "Nie podejmuj działań w strefie zagrożenia do czasu zabezpieczenia miejsca działań i ratowników.",
+        "zr": "SZP KB 2020",
+        "str": 2
+      },
+      {
+        "t": "Oględziny ze wszystkich stron; do rozpoznania zawsze min. 2 ratowników z przyrządami pomiarowymi i łącznością.",
+        "zr": "SZP KB 2020",
+        "str": 2
+      },
+      {
+        "t": "Wycisz gruzowisko i przeszukaj je metodą nawoływania i nasłuchiwania.",
+        "zr": "SZP KB 2020",
+        "str": 2
+      },
+      {
+        "t": "Media podłączone i nieodłączone — wezwij służby, szczególna ostrożność przy wejściu na gruzowisko.",
+        "zr": "SZP KB 2020",
+        "str": 2
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Dysponuj",
+        "wartosc": "SGPR poziomu A, B, C i SGRT; pogotowie gazowe i energetyczne, zarządzanie kryzysowe, PINB; rozważ pirotechników Policji, SGRChem",
+        "zr": "SZP KB 2020",
+        "str": 2
+      },
+      {
+        "nazwa": "Psy ratownicze",
+        "wartosc": "tylko zespoły z aktualnym egzaminem klasy I; przewodnik z zaświadczeniem o ważności specjalności",
+        "zr": "SZP KB 2020",
+        "str": 2
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Ustal",
+        "punkty": [
+          {
+            "t": "Charakter obiektu, liczbę kondygnacji (także podziemnych), godzinę zdarzenia.",
+            "zr": "SZP KB 2020",
+            "str": 2
+          },
+          {
+            "t": "Czy i gdzie przebywały osoby, czy mogą tam nadal być, czy był z nimi kontakt — jak i kiedy; oznacz to miejsce.",
+            "zr": "SZP KB 2020",
+            "str": 2
+          },
+          {
+            "t": "Przyczynę zawalenia i ryzyko kolejnych uszkodzeń; media, także własne źródła energii; plan obiektu.",
+            "zr": "SZP KB 2020",
+            "str": 2
+          }
+        ]
+      },
+      {
+        "etykieta": "Dalej",
+        "punkty": [
+          {
+            "t": "Wykonaj szkic z miejscami niebezpiecznymi i priorytetami ratowniczymi.",
+            "zr": "SZP KB 2020",
+            "str": 2
+          },
+          {
+            "t": "Określ potrzeby PRM; przy LPR przygotuj lądowisko.",
+            "zr": "SZP KB 2020",
+            "str": 2
+          },
+          {
+            "t": "Punkt przyjęcia sił — funkcjonariusz z radiotelefonem; ustal sposób i częstotliwość meldowania o przybyłych SIS.",
+            "zr": "SZP KB 2020",
+            "str": 2
+          }
+        ]
+      }
+    ],
+    "tagi_wspolne": [
+      "katastrofa budowlana",
+      "zawalenie",
+      "rozpoznanie"
+    ],
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-katastrofa-budowlana-2020",
         "strona": 2,
-        "sekcja": "Odpowiednia karta SZP katastrofy budowlanej"
+        "sekcja": "Rozpoznanie (s. 2)"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: Nie podejmuj działań w strefie zagrożenia do czasu zabezpieczenia miejsca działań i ratowników. Oględziny ze wszystkich stron; do rozpoznania zawsze min. 2 ratowników z przyrządami pomiarowymi i łącznością. Wycisz gruzowisko i przeszukaj je metodą nawoływania i nasłuchiwania. Media podłączone i nieodłączone — wezwij służby, szczególna ostrożność przy wejściu na gruzowisko.\n2. PARAMETRY: Dysponuj — SGPR poziomu A, B, C i SGRT; pogotowie gazowe i energetyczne, zarządzanie kryzysowe, PINB; rozważ pirotechników Policji, SGRChem; Psy ratownicze — tylko zespoły z aktualnym egzaminem klasy I; przewodnik z zaświadczeniem o ważności specjalności\n3. USTAL: Charakter obiektu, liczbę kondygnacji (także podziemnych), godzinę zdarzenia. Czy i gdzie przebywały osoby, czy mogą tam nadal być, czy był z nimi kontakt — jak i kiedy; oznacz to miejsce. Przyczynę zawalenia i ryzyko kolejnych uszkodzeń; media, także własne źródła energii; plan obiektu.\n4. DALEJ: Wykonaj szkic z miejscami niebezpiecznymi i priorytetami ratowniczymi. Określ potrzeby PRM; przy LPR przygotuj lądowisko. Punkt przyjęcia sił — funkcjonariusz z radiotelefonem; ustal sposób i częstotliwość meldowania o przybyłych SIS."
   },
   {
     "id": "KARTA-BUD-STREFA-I-EWAKUACJA-KATASTROFA-BUDOWLANA",
+    "wzorzec": 2,
     "kategoria": "dzialania",
-    "zrodlo": "Standardowe zasady postepowania podczas katastrofy budowlanej po wystapieniu katastrofy budowlanej, KG PSP",
-    "data_aktualizacji": "2020-09-07",
+    "grupa": "bud",
+    "zrodlo": "KG PSP: Standardowe zasady postępowania po wystąpieniu katastrofy budowlanej, wydanie I, 2020.",
+    "data_aktualizacji": "2026-10-27",
     "slowo_kluczowe": "strefa zagrozenia katastrofa budowlana",
     "keywords": [
       "ewakuacja gruzowisko",
@@ -1313,59 +1675,220 @@
       "strefa zawalenie budynku",
       "wyznacz strefe gruzowisko"
     ],
-    "prefix": "Katastrofa budowlana - wyznaczanie strefy zagrozenia i ewakuacja ludzi.",
-    "content": "1. KOD / NAZWA: katastrofa budowlana - wyznaczanie strefy zagrozenia i ewakuacja ludzi.\n2. STREFA DLA RATOWNIKOW: przed wprowadzeniem strazakow do dzialan opracuj zasady bezpieczenstwa. Wyznacz strefe zagrozenia, w ktorej beda prowadzone dzialania ratownicze, korzystajac z zasady minimum 3-5 m od brzegu gruzowiska albo, w przypadku niestabilnych elementow, odleglosci rownej co najmniej 150 procent wysokosci najwyzszego niestabilnego elementu obiektu.\n3. OBSZARY NIEBEZPIECZNE: wyznacz jako obszary zamkniete miejsca niestabilne, uszkodzone lub grozace upadkiem elementy, miejsca wystepowania zagrozen mediami lub pozarem oraz inne niebezpieczne strefy.\n4. OZNAKOWANIE I ORGANIZACJA: okresl wejscie i wyjscie do strefy zagrozenia oraz oznacz je czytelnie, wyznacz droge dojazdu dla kolejnych SIS, miejsce zbiorki ratownikow po ewakuacji i sposoby oglaszania alarmowego opuszczenia strefy. Zalecany okolnik radiowy to \"GEJZER\", a sygnal dzwiekowy to 3 krotkie sygnaly powtarzane az do opuszczenia strefy przez uczestnikow akcji.\n5. MONITOROWANIE STABILNOSCI: wyznacz strazaka do monitorowania stabilnosci uszkodzonej konstrukcji i wskaz mu miejsce, z ktorego bedzie mogl obserwowac elementy budynku do czasu przybycia specjalistycznego sprzetu. Jezeli nie ma tachimetru, wykorzystaj proste techniki obserwacji wzrokowej i nasluchiwania pekniec.\n6. WEJSCIA I WYJSCIA: wyznacz strazaka odpowiedzialnego za monitorowanie wejsc i wyjsc ze strefy. Przy poziomie C uzyj identyfikatorow imiennych lub innego systemu sledzenia, wyznacz osobe odpowiedzialna za stala kontrole liczby osob w strefie i, o ile to mozliwe, stosuj jedno miejsce wejscia i wyjscia.\n7. EWAKUACJA I PODPORY: po wyznaczeniu strefy przeszukaj niezawalona czesc obiektu i ewakuuj ludnosc do bezpiecznej strefy. W razie koniecznosci wykorzystaj podpory niestabilnych czesci obiektu poprzez ich stabilizacje przy uzyciu podporek budowlanych. W przypadku braku takiego sprzetu uznaj to miejsce za niebezpieczne i zakaz zblizania sie do czasu ustabilizowania przez ratownikow SGPR.\n8. EWIDENCJA I NADZOR: zapewnij odpowiednie warunki dla osob ewakuowanych i prowadz ewidencje ewakuowanych, jezeli to mozliwe. Wyznacz przedstawiciela nadzoru budowlanego lub specjaliste od dziedziny budownictwa do porozumienia i okreslenia warunkow bezpiecznego wprowadzenia ratownikow.\n9. CO MOZE POJSC NIE TAK: brak sygnalow z gruzowiska nie oznacza braku osob poszkodowanych w gruzowisku. Jezeli nie masz pewnosci co do liczby osob, czekaj na przybycie SGPR. Sprzet i narzedzia do kontroli stabilnosci nie daja gwarancji bezpieczenstwa dzialan i nie zapobiegaja wtornemu zawaleniu; moga jedynie wspomoc oficera bezpieczenstwa w monitorowaniu i ostrzeganiu ratownikow pracujacych na gruzowisku.\n10. UWAGI OPERACYJNE: po ewakuacji okresl priorytety ratownicze, zaznacz miejsca lokalizacji poszkodowanych i wyznacz miejsce organizacji punktu przyjecia SIS oraz osoby odpowiedzialnej za jego obsluge.",
-    "tagi_wspolne": [
-      "katastrofa budowlana",
-      "zawalenie",
-      "strefa zagrozenia",
-      "ewakuacja"
-    ],
     "aliasy": [
       "ewakuacja gruzowisko",
       "katastrofa budowlana ewakuacja",
       "strefa zawalenie budynku",
       "wyznacz strefe gruzowisko"
     ],
+    "prefix": "Katastrofa budowlana — strefa zagrożenia (3–5 m, 150% wysokości), alarm „GEJZER”, kontrola wejść, ewakuacja (SZP KG PSP 2020).",
+    "najpierw": [
+      {
+        "t": "Strefa: min. 3–5 m od brzegu gruzowiska; przy niestabilnych elementach — min. 150% wysokości najwyższego z nich.",
+        "zr": "SZP KB 2020",
+        "str": 3
+      },
+      {
+        "t": "Alarmowe opuszczenie strefy: okólnik radiowy „GEJZER”; 3 krótkie sygnały dźwiękowe po 1 s, powtarzane do opuszczenia strefy.",
+        "zr": "SZP KB 2020",
+        "str": 3
+      },
+      {
+        "t": "Wyznacz strażaka do monitorowania stabilności konstrukcji i miejsce, z którego obserwuje.",
+        "zr": "SZP KB 2020",
+        "str": 3
+      },
+      {
+        "t": "Wyznacz osobę kontrolującą wejścia i wyjścia oraz liczbę osób w strefie.",
+        "zr": "SZP KB 2020",
+        "str": 3
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Obszary zamknięte",
+        "wartosc": "niestabilne elementy (do 150% ich wysokości), elementy grożące upadkiem, załamania i otwory w stropach, media, pożar",
+        "zr": "SZP KB 2020",
+        "str": 3
+      },
+      {
+        "nazwa": "Wejście/wyjście",
+        "wartosc": "oznacz taśmą biało-czerwoną; w miarę możliwości jedno miejsce",
+        "zr": "SZP KB 2020",
+        "str": 3
+      },
+      {
+        "nazwa": "Ewidencja wejść",
+        "wartosc": "identyfikatory imienne lub karty z numerami — do czasu przyjazdu SGPR poziomu C",
+        "zr": "SZP KB 2020",
+        "str": 3
+      },
+      {
+        "nazwa": "Monitoring stabilności",
+        "wartosc": "do przyjazdu tachimetru: obserwacja, nasłuch, laser kątowy, taśma malarska na pęknięciach",
+        "zr": "SZP KB 2020",
+        "str": 3
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Organizacja strefy",
+        "punkty": [
+          {
+            "t": "Wyznacz drogę dojazdu dla kolejnych SIS, miejsce zbiórki ratowników po ewakuacji i kierunki ewakuacji.",
+            "zr": "SZP KB 2020",
+            "str": 3
+          },
+          {
+            "t": "Zapoznaj wchodzących z zagrożeniami — pokaż je na gruzowisku.",
+            "zr": "SZP KB 2020",
+            "str": 3
+          }
+        ]
+      },
+      {
+        "etykieta": "Ewakuacja",
+        "punkty": [
+          {
+            "t": "Przeszukaj niezawalone części obiektu i obiekty przyległe; ewakuuj ludzi do punktu w bezpiecznej strefie.",
+            "zr": "SZP KB 2020",
+            "str": 3
+          },
+          {
+            "t": "Niestabilne części — podpory budowlane; brak sprzętu = miejsce niebezpieczne do czasu stabilizacji przez SGPR.",
+            "zr": "SZP KB 2020",
+            "str": 3
+          },
+          {
+            "t": "Warunki dla ewakuowanych (namioty, autobus), ewidencja z wywiadem.",
+            "zr": "SZP KB 2020",
+            "str": 3
+          },
+          {
+            "t": "Z nadzorem budowlanym lub specjalistą budownictwa określ warunki wejścia ratowników na gruzowisko.",
+            "zr": "SZP KB 2020",
+            "str": 3
+          }
+        ]
+      }
+    ],
+    "tagi_wspolne": [
+      "katastrofa budowlana",
+      "zawalenie",
+      "strefa zagrozenia",
+      "ewakuacja"
+    ],
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-katastrofa-budowlana-2020",
         "strona": 3,
-        "sekcja": "Odpowiednia karta SZP katastrofy budowlanej"
+        "sekcja": "Strefa zagrożenia i ewakuacja (s. 3)"
       }
     ],
-    "data_przegladu": "2026-10-27"
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: Strefa: min. 3–5 m od brzegu gruzowiska; przy niestabilnych elementach — min. 150% wysokości najwyższego z nich. Alarmowe opuszczenie strefy: okólnik radiowy „GEJZER”; 3 krótkie sygnały dźwiękowe po 1 s, powtarzane do opuszczenia strefy. Wyznacz strażaka do monitorowania stabilności konstrukcji i miejsce, z którego obserwuje. Wyznacz osobę kontrolującą wejścia i wyjścia oraz liczbę osób w strefie.\n2. PARAMETRY: Obszary zamknięte — niestabilne elementy (do 150% ich wysokości), elementy grożące upadkiem, załamania i otwory w stropach, media, pożar; Wejście/wyjście — oznacz taśmą biało-czerwoną; w miarę możliwości jedno miejsce; Ewidencja wejść — identyfikatory imienne lub karty z numerami — do czasu przyjazdu SGPR poziomu C; Monitoring stabilności — do przyjazdu tachimetru: obserwacja, nasłuch, laser kątowy, taśma malarska na pęknięciach\n3. ORGANIZACJA STREFY: Wyznacz drogę dojazdu dla kolejnych SIS, miejsce zbiórki ratowników po ewakuacji i kierunki ewakuacji. Zapoznaj wchodzących z zagrożeniami — pokaż je na gruzowisku.\n4. EWAKUACJA: Przeszukaj niezawalone części obiektu i obiekty przyległe; ewakuuj ludzi do punktu w bezpiecznej strefie. Niestabilne części — podpory budowlane; brak sprzętu = miejsce niebezpieczne do czasu stabilizacji przez SGPR. Warunki dla ewakuowanych (namioty, autobus), ewidencja z wywiadem. Z nadzorem budowlanym lub specjalistą budownictwa określ warunki wejścia ratowników na gruzowisko."
   },
   {
     "id": "KARTA-BUD-ZABEZPIECZENIE-LOGISTYCZNE-KATASTROFA-BUDOWLANA",
+    "wzorzec": 2,
     "kategoria": "organizacja",
-    "zrodlo": "Standardowe zasady postepowania podczas katastrofy budowlanej po wystapieniu katastrofy budowlanej, KG PSP",
-    "data_aktualizacji": "2020-09-07",
+    "grupa": "bud",
+    "zrodlo": "KG PSP: Standardowe zasady postępowania po wystąpieniu katastrofy budowlanej, wydanie I, 2020.",
+    "data_aktualizacji": "2026-10-27",
     "slowo_kluczowe": "zabezpieczenie logistyczne katastrofa budowlana",
     "keywords": [
       "logistyka gruzowisko",
       "katastrofa budowlana logistyka",
       "zaplecze katastrofa budowlana"
     ],
-    "prefix": "Katastrofa budowlana - zabezpieczenie logistyczne dzialan.",
-    "content": "1. KOD / NAZWA: katastrofa budowlana - zabezpieczenie logistyczne dzialan.\n2. DOJAZD I TEREN AKCJI: bezposrednio po dojezdzie do zdarzenia zapewnij wlasciwe kierowanie ruchem, zachowujac swobodny dostep do strefy zagrozenia, ciezkiego sprzetu burzacego i budowlanego. Zapewnij odpowiednia przestrzen dla terenu akcji i przewiduj duza ilosc SIS oraz srodkow ratowniczych.\n3. ORGANIZACJA ZAPLECZA: wyznacz miejsce do organizacji PPSiS, zadysponuj SDC oraz namiot pneumatyczny z wyposazeniem, wyznacz miejsce oczekiwania SIS do wprowadzenia, miejsca do parkowania pojazdow ratowniczych i innych sluzb wspomagajacych, ladowisko dla smiglowcow LPR, miejsce dla sztabu taktycznego i miejsce do obslugi mediow.\n4. ZABEZPIECZENIE MATERIAŁOWE: wyznacz miejsca do tymczasowej opieki medycznej poszkodowanych, skladowania materialow niezbednych do prowadzenia dzialan, a takze miejsce bezpieczne przy granicy strefy zagrozenia na szybkie uzupelnianie plynow i kalorii przez ratownikow oraz do przekazywania narad dotyczacych dzialan w strefie.\n5. ZABEZPIECZENIE LUDZI: w miejscu oczekiwania SIS zapewnij ratownikom odpowiedni komfort cieplny albo chlodzenie stosownie do warunkow pogodowych. W przypadku upalow zapewnij schronienie przed sloncem i chlodne napoje, a w przypadku niskich temperatur ogrzewane namioty oraz gorace napoje. W porozumieniu z zarzadzaniem kryzysowym zorganizuj wyzywienie w postaci cieplych posilkow po 6 godzinach prowadzonych dzialan oraz zapewnij staly dostep do wody pitnej butelkowanej - minimum 3 litry na osobe na dzien.\n6. CO MOZE POJSC NIE TAK: niewlasciwie zorganizowane zaplecze moze spowolnic rotacje sil, wydluzyc czas wejscia do strefy i pogorszyc warunki bezpieczenstwa ratownikow oraz poszkodowanych.\n7. UWAGI OPERACYJNE: zabezpieczenie logistyczne powinno byc organizowane rownolegle z dzialaniami rozpoznawczymi i ratowniczymi, a jego uklad powinien uwzgledniac mozliwosc dalszej rozbudowy akcji.",
-    "tagi_wspolne": [
-      "katastrofa budowlana",
-      "zawalenie",
-      "logistyka"
-    ],
     "aliasy": [
       "logistyka gruzowisko",
       "katastrofa budowlana logistyka",
       "zaplecze katastrofa budowlana"
     ],
+    "prefix": "Katastrofa budowlana — zabezpieczenie logistyczne: ruch, PPSiS, sztab, lądowisko, wyżywienie i woda (SZP KG PSP 2020).",
+    "najpierw": [
+      {
+        "t": "Z Policją zapewnij kierowanie ruchem i swobodny dojazd do strefy, także ciężkiego sprzętu.",
+        "zr": "SZP KB 2020",
+        "str": 7
+      },
+      {
+        "t": "Zaplanuj dużo miejsca — spodziewaj się dużej ilości sił i środków.",
+        "zr": "SZP KB 2020",
+        "str": 7
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Woda pitna",
+        "wartosc": "butelkowana, min. 3 l na osobę na dzień",
+        "zr": "SZP KB 2020",
+        "str": 7
+      },
+      {
+        "nazwa": "Posiłki",
+        "wartosc": "ciepłe, dwudaniowe — po 6 h działań (z zarządzaniem kryzysowym)",
+        "zr": "SZP KB 2020",
+        "str": 7
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Wyznacz miejsca",
+        "punkty": [
+          {
+            "t": "PPSiS z SDŁ i namiotem pneumatycznym; oczekiwanie SIS i parking pojazdów.",
+            "zr": "SZP KB 2020",
+            "str": 7
+          },
+          {
+            "t": "Lądowisko LPR, sztab taktyczny, obsługa mediów, tymczasowa opieka medyczna (namiot).",
+            "zr": "SZP KB 2020",
+            "str": 7
+          },
+          {
+            "t": "Składowisko materiałów poza strefą (drewno do stabilizacji, podpory, sprzęt do cięcia).",
+            "zr": "SZP KB 2020",
+            "str": 7
+          },
+          {
+            "t": "Na granicy strefy — szybkie uzupełnianie płynów i kalorii, krótkie odprawy.",
+            "zr": "SZP KB 2020",
+            "str": 7
+          }
+        ]
+      },
+      {
+        "etykieta": "Ludzie",
+        "punkty": [
+          {
+            "t": "Komfort cieplny w miejscu oczekiwania: mróz — ogrzewane namioty, gorące napoje; deszcz — suszenie ubrań; upał — cień, chłodne napoje.",
+            "zr": "SZP KB 2020",
+            "str": 7
+          },
+          {
+            "t": "Z zarządzaniem kryzysowym zapewnij schronienie ewakuowanej ludności.",
+            "zr": "SZP KB 2020",
+            "str": 7
+          }
+        ]
+      }
+    ],
+    "tagi_wspolne": [
+      "katastrofa budowlana",
+      "zawalenie",
+      "logistyka"
+    ],
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-katastrofa-budowlana-2020",
         "strona": 7,
-        "sekcja": "Odpowiednia karta SZP katastrofy budowlanej"
+        "sekcja": "Zabezpieczenie logistyczne (s. 7)"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: Z Policją zapewnij kierowanie ruchem i swobodny dojazd do strefy, także ciężkiego sprzętu. Zaplanuj dużo miejsca — spodziewaj się dużej ilości sił i środków.\n2. PARAMETRY: Woda pitna — butelkowana, min. 3 l na osobę na dzień; Posiłki — ciepłe, dwudaniowe — po 6 h działań (z zarządzaniem kryzysowym)\n3. WYZNACZ MIEJSCA: PPSiS z SDŁ i namiotem pneumatycznym; oczekiwanie SIS i parking pojazdów. Lądowisko LPR, sztab taktyczny, obsługa mediów, tymczasowa opieka medyczna (namiot). Składowisko materiałów poza strefą (drewno do stabilizacji, podpory, sprzęt do cięcia). Na granicy strefy — szybkie uzupełnianie płynów i kalorii, krótkie odprawy.\n4. LUDZIE: Komfort cieplny w miejscu oczekiwania: mróz — ogrzewane namioty, gorące napoje; deszcz — suszenie ubrań; upał — cień, chłodne napoje. Z zarządzaniem kryzysowym zapewnij schronienie ewakuowanej ludności."
   },
   {
     "id": "KARTA-CHEM-Z1-LNG-POZAR-ZEW",
