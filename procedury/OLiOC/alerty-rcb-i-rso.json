@@ -1,0 +1,98 @@
+{
+  "id": "KARTA-OLIOC-ALERTY-RCB-I-RSO",
+  "wzorzec": 2,
+  "kategoria": "olioc",
+  "grupa": "olioc",
+  "zrodlo": "Akademia OLiOC: Poznaj Alerty RCB; Akademia OLiOC: Instrukcja reagowania — zagrożenie atakiem z powietrza; MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+  "data_aktualizacji": "2026-10-27",
+  "slowo_kluczowe": "olioc alert rcb i rso",
+  "keywords": [
+    "komunikat ostrzegawczy na telefon",
+    "regionalny system ostrzegania olioc",
+    "jak reagować na alert rcb"
+  ],
+  "aliasy": [
+    "komunikat ostrzegawczy na telefon",
+    "regionalny system ostrzegania olioc",
+    "jak reagować na alert rcb"
+  ],
+  "prefix": "Alerty RCB i RSO — trzy stopnie komunikatów o zagrożeniu atakiem z powietrza.",
+  "najpierw": [
+    {
+      "t": "1 — CZUJNOŚĆ: atak w Ukrainie blisko granicy; możesz usłyszeć samoloty wojskowe i sygnał alarmowy — przygotuj się na kolejne informacje.",
+      "zr": "Alerty RCB",
+      "str": 1
+    },
+    {
+      "t": "2 — GOTOWOŚĆ: większe ryzyko wtargnięcia obiektu — przygotuj się, by znaleźć się w bezpiecznym miejscu.",
+      "zr": "Alerty RCB",
+      "str": 1
+    },
+    {
+      "t": "3 — ALARM: „Zagrożenie atakiem z powietrza. Znajdź bezpieczne miejsce” — działaj teraz.",
+      "zr": "Alerty RCB",
+      "str": 1
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "RSO",
+      "wartosc": "bezpłatna aplikacja — informuje o zagrożeniach na terenie Polski",
+      "zr": "Poradnik 2025",
+      "str": 53
+    }
+  ],
+  "sekcje": [
+    {
+      "etykieta": "Przed alertem",
+      "punkty": [
+        {
+          "t": "Zapoznaj się z Poradnikiem bezpieczeństwa, ustal z rodziną sposób reagowania, sprawdź najbliższe miejsce ukrycia.",
+          "zr": "Alerty RCB",
+          "str": 1
+        },
+        {
+          "t": "Najbliższy punkt schronienia sprawdzisz na gdziesieukryc.pl.",
+          "zr": "Instr. reagowania",
+          "str": 2
+        }
+      ]
+    },
+    {
+      "etykieta": "Po alercie",
+      "punkty": [
+        {
+          "t": "Stosuj się do poleceń służb, treści Alertu RCB i oficjalnych komunikatów.",
+          "zr": "Instr. reagowania",
+          "str": 4
+        }
+      ]
+    }
+  ],
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "Alert RCB",
+    "RSO",
+    "komunikaty ostrzegawcze"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-olioc-alerty-rcb",
+      "strona": 1,
+      "sekcja": "Poznaj Alerty RCB (s. 1)"
+    },
+    {
+      "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+      "strona": 53,
+      "sekcja": "RSO (s. 53)"
+    },
+    {
+      "dokument_id": "doc-olioc-instrukcja-reagowania",
+      "strona": 2,
+      "sekcja": "(s. 2, 4)"
+    }
+  ],
+  "data_przegladu": "2026-10-27"
+}

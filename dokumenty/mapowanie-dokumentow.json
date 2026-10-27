@@ -959,86 +959,90 @@
     ]
   },
   {
-    "id": "KARTA-OLIOC-LIPIEC-02-KOMUNIKATY_OSTRZEGAWCZE",
-    "procedura": "OLiOC - lipiec: Alert RCB, RSO i komunikaty ostrzegawcze.",
-    "miesiac_akademii": "lipiec",
+    "id": "KARTA-OLIOC-ALERTY-RCB-I-RSO",
+    "procedura": "Alerty RCB i RSO — trzy stopnie komunikatów o zagrożeniu atakiem z powietrza.",
     "dokumenty_zrodlowe": [
       {
-        "dokument_id": "src-poradnik-alarmy",
+        "dokument_id": "doc-olioc-alerty-rcb",
         "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Sygnały alarmowe i komunikaty ostrzegawcze",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/sygnaly-alarmowe-i-komunikaty-ostrzegawcze",
-        "typ": "url"
+        "sekcja": "Poznaj Alerty RCB (s. 1)",
+        "tytul": "Poznaj Alerty RCB o zagrożeniu atakiem z powietrza",
+        "plik": "dokumenty/olioc/alerty-rcb-atak-z-powietrza.pdf",
+        "typ": "pdf"
+      },
+      {
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 53,
+        "sekcja": "RSO (s. 53)",
+        "tytul": "Poradnik bezpieczeństwa",
+        "plik": "dokumenty/olioc/poradnik-bezpieczenstwa-2025.pdf",
+        "typ": "pdf"
+      },
+      {
+        "dokument_id": "doc-olioc-instrukcja-reagowania",
+        "strona": 2,
+        "sekcja": "(s. 2, 4)",
+        "tytul": "Instrukcja reagowania — zagrożenie atakiem z powietrza",
+        "plik": "dokumenty/olioc/instrukcja-reagowania-atak-z-powietrza.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
-    "id": "KARTA-OLIOC-LIPIEC-04-OFICJALNE_ZRODLA",
-    "procedura": "OLiOC - lipiec: oficjalne źródła informacji podczas kryzysu.",
-    "miesiac_akademii": "lipiec",
+    "id": "KARTA-OLIOC-OFICJALNE-ZRODLA-INFORMACJI",
+    "procedura": "Oficjalne źródła informacji w kryzysie i weryfikacja wiadomości.",
     "dokumenty_zrodlowe": [
       {
-        "dokument_id": "src-poradnik-alarmy",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Sygnały alarmowe i komunikaty ostrzegawcze",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/sygnaly-alarmowe-i-komunikaty-ostrzegawcze",
-        "typ": "url"
-      },
-      {
-        "dokument_id": "src-poradnik-cyfrowe",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Zagrożenia cyfrowe",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/zagrozenia-cyfrowe",
-        "typ": "url"
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 39,
+        "sekcja": "Zagrożenia cyfrowe — dezinformacja (s. 39), zapasy (s. 22), RSO (s. 53)",
+        "tytul": "Poradnik bezpieczeństwa",
+        "plik": "dokumenty/olioc/poradnik-bezpieczenstwa-2025.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
-    "id": "KARTA-OLIOC-LIPIEC-03-REAKCJA_PO_ALARMIE",
-    "procedura": "OLiOC - lipiec: co zrobić natychmiast po ogłoszeniu alarmu.",
-    "miesiac_akademii": "lipiec",
+    "id": "KARTA-OLIOC-ALARM-ATAK-Z-POWIETRZA",
+    "procedura": "Alarm — zagrożenie atakiem z powietrza: gdzie się schronić w budynku i na zewnątrz.",
     "dokumenty_zrodlowe": [
       {
-        "dokument_id": "src-poradnik-alarmy",
+        "dokument_id": "doc-olioc-sygnal-alarmowy",
         "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Sygnały alarmowe i komunikaty ostrzegawcze",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/sygnaly-alarmowe-i-komunikaty-ostrzegawcze",
-        "typ": "url"
+        "sekcja": "Słyszysz alarm? (s. 1)",
+        "tytul": "Słyszysz alarm? Zagrożenie atakiem z powietrza",
+        "plik": "dokumenty/olioc/sygnal-alarmowy-atak-z-powietrza.pdf",
+        "typ": "pdf"
       },
       {
-        "dokument_id": "src-poradnik-plan",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Plan na kryzys",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/plan-na-kryzys",
-        "typ": "url"
+        "dokument_id": "doc-olioc-instrukcja-reagowania",
+        "strona": 4,
+        "sekcja": "Decyzja podczas alarmu, wybór pomieszczenia (s. 3–10)",
+        "tytul": "Instrukcja reagowania — zagrożenie atakiem z powietrza",
+        "plik": "dokumenty/olioc/instrukcja-reagowania-atak-z-powietrza.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
-    "id": "KARTA-OLIOC-LIPIEC-01-SYGNALY_ALARMOWE",
-    "procedura": "OLiOC - lipiec: sygnały alarmowe i ich znaczenie.",
-    "miesiac_akademii": "lipiec",
+    "id": "KARTA-OLIOC-SYGNALY-ALARMOWE",
+    "procedura": "Sygnały alarmowe — ogłoszenie i odwołanie alarmu.",
     "dokumenty_zrodlowe": [
       {
-        "dokument_id": "src-olioc-akademia",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Akademia OLiOC - program „jeden miesiąc - jeden temat”",
-        "plik": "https://www.gov.pl/web/olioc/akdemia-olioc",
-        "typ": "url"
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 24,
+        "sekcja": "Sygnały alarmowe i komunikaty ostrzegawcze (s. 24, 53)",
+        "tytul": "Poradnik bezpieczeństwa",
+        "plik": "dokumenty/olioc/poradnik-bezpieczenstwa-2025.pdf",
+        "typ": "pdf"
       },
       {
-        "dokument_id": "src-poradnik-alarmy",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Sygnały alarmowe i komunikaty ostrzegawcze",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/sygnaly-alarmowe-i-komunikaty-ostrzegawcze",
-        "typ": "url"
+        "dokument_id": "doc-olioc-instrukcja-reagowania",
+        "strona": 2,
+        "sekcja": "Przygotuj się (s. 2)",
+        "tytul": "Instrukcja reagowania — zagrożenie atakiem z powietrza",
+        "plik": "dokumenty/olioc/instrukcja-reagowania-atak-z-powietrza.pdf",
+        "typ": "pdf"
       }
     ]
   },
@@ -1196,149 +1200,72 @@
     ]
   },
   {
-    "id": "KARTA-OLIOC-MAJ-03-INSTYTUCJE_I_SLUZBY",
-    "procedura": "OLiOC - maj: kto odpowiada za bezpieczeństwo i jak współdziałają służby.",
-    "miesiac_akademii": "maj",
+    "id": "KARTA-OLIOC-INSTYTUCJE-I-SLUZBY",
+    "procedura": "Kto odpowiada za ochronę ludności — instytucje publiczne, służby, wojsko, organizacje społeczne.",
     "dokumenty_zrodlowe": [
       {
-        "dokument_id": "src-olioc-ustawa",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Ustawa o ochronie ludności i obronie cywilnej - informacje MSWiA",
-        "plik": "https://www.gov.pl/web/olioc/ustawa-o-ochronie-ludnosci-i-obronie-cywilnej",
-        "typ": "url"
-      },
-      {
-        "dokument_id": "src-poradnik-wspolnie",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Wspólnie dbamy o nasze bezpieczeństwo",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/wspolnie-dbamy-o-nasze-bezpieczenstwo2",
-        "typ": "url"
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 5,
+        "sekcja": "Rola instytucji, wojska, służb i organizacji (s. 5–6)",
+        "tytul": "Poradnik bezpieczeństwa",
+        "plik": "dokumenty/olioc/poradnik-bezpieczenstwa-2025.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
-    "id": "KARTA-OLIOC-MAJ-05-OBSZARY_PRZYGOTOWANIA",
-    "procedura": "OLiOC - maj: podstawowe obszary przygotowania obywatela.",
-    "miesiac_akademii": "maj",
+    "id": "KARTA-OLIOC-PRZYGOTOWANIE-DOMU-I-RODZINY",
+    "procedura": "Przygotowanie siebie, rodziny i domu na kryzys — przegląd obszarów.",
     "dokumenty_zrodlowe": [
       {
-        "dokument_id": "src-olioc-akademia",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Akademia OLiOC - program „jeden miesiąc - jeden temat”",
-        "plik": "https://www.gov.pl/web/olioc/akdemia-olioc",
-        "typ": "url"
-      },
-      {
-        "dokument_id": "src-poradnik-plan",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Plan na kryzys",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/plan-na-kryzys",
-        "typ": "url"
-      },
-      {
-        "dokument_id": "src-poradnik-przygotuj-siebie",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Przygotuj siebie i najbliższych",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/przygotuj-siebie-i-najblizszych",
-        "typ": "url"
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 11,
+        "sekcja": "Przygotowanie (s. 11–22), Plan na kryzys (s. 46–47), Dekalog (s. 52)",
+        "tytul": "Poradnik bezpieczeństwa",
+        "plik": "dokumenty/olioc/poradnik-bezpieczenstwa-2025.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
-    "id": "KARTA-OLIOC-MAJ-01-PODSTAWY_SYSTEMU",
-    "procedura": "OLiOC - maj: czym są ochrona ludności i obrona cywilna.",
-    "miesiac_akademii": "maj",
+    "id": "KARTA-OLIOC-OCHRONA-LUDNOSCI-I-OBRONA-CYWILNA",
+    "procedura": "Ochrona ludności i obrona cywilna — czym są i kto je tworzy.",
     "dokumenty_zrodlowe": [
       {
-        "dokument_id": "src-olioc-akademia",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Akademia OLiOC - program „jeden miesiąc - jeden temat”",
-        "plik": "https://www.gov.pl/web/olioc/akdemia-olioc",
-        "typ": "url"
-      },
-      {
-        "dokument_id": "src-olioc-ustawa",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Ustawa o ochronie ludności i obronie cywilnej - informacje MSWiA",
-        "plik": "https://www.gov.pl/web/olioc/ustawa-o-ochronie-ludnosci-i-obronie-cywilnej",
-        "typ": "url"
-      },
-      {
-        "dokument_id": "src-poradnik-wspolnie",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Wspólnie dbamy o nasze bezpieczeństwo",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/wspolnie-dbamy-o-nasze-bezpieczenstwo2",
-        "typ": "url"
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 5,
+        "sekcja": "Wspólnie dbamy o nasze bezpieczeństwo (s. 5–6)",
+        "tytul": "Poradnik bezpieczeństwa",
+        "plik": "dokumenty/olioc/poradnik-bezpieczenstwa-2025.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
-    "id": "KARTA-OLIOC-MAJ-02-ROLA_OBYWATELA",
-    "procedura": "OLiOC - maj: rola obywatela, samopomoc i pomoc wzajemna.",
-    "miesiac_akademii": "maj",
+    "id": "KARTA-OLIOC-ROLA-OBYWATELA",
+    "procedura": "Rola obywatela w ochronie ludności — jak możesz się zaangażować.",
     "dokumenty_zrodlowe": [
       {
-        "dokument_id": "src-olioc-akademia",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Akademia OLiOC - program „jeden miesiąc - jeden temat”",
-        "plik": "https://www.gov.pl/web/olioc/akdemia-olioc",
-        "typ": "url"
-      },
-      {
-        "dokument_id": "src-poradnik-wspolnie",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Wspólnie dbamy o nasze bezpieczeństwo",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/wspolnie-dbamy-o-nasze-bezpieczenstwo2",
-        "typ": "url"
-      },
-      {
-        "dokument_id": "src-poradnik-plan",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Plan na kryzys",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/plan-na-kryzys",
-        "typ": "url"
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 7,
+        "sekcja": "Twoja rola (s. 7), Dekalog bezpieczeństwa (s. 52)",
+        "tytul": "Poradnik bezpieczeństwa",
+        "plik": "dokumenty/olioc/poradnik-bezpieczenstwa-2025.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
-    "id": "KARTA-OLIOC-MAJ-04-SIEC_WSPARCIA",
-    "procedura": "OLiOC - maj: lokalna sieć wsparcia i przygotowanie sąsiedzkie.",
-    "miesiac_akademii": "maj",
+    "id": "KARTA-OLIOC-POMOC-SASIEDZKA",
+    "procedura": "Pomoc sąsiedzka i osoby potrzebujące szczególnej pomocy w kryzysie.",
     "dokumenty_zrodlowe": [
       {
-        "dokument_id": "src-poradnik-wspolnie",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Wspólnie dbamy o nasze bezpieczeństwo",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/wspolnie-dbamy-o-nasze-bezpieczenstwo2",
-        "typ": "url"
-      },
-      {
-        "dokument_id": "src-poradnik-szczegolna-pomoc",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Osoby potrzebujące szczególnej pomocy",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/osoby-potrzebujace-szczegolnej-pomocy",
-        "typ": "url"
-      },
-      {
-        "dokument_id": "src-poradnik-plan",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Plan na kryzys",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/plan-na-kryzys",
-        "typ": "url"
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 12,
+        "sekcja": "Osoby potrzebujące szczególnej pomocy (s. 12–13), Twoja rola (s. 7)",
+        "tytul": "Poradnik bezpieczeństwa",
+        "plik": "dokumenty/olioc/poradnik-bezpieczenstwa-2025.pdf",
+        "typ": "pdf"
       }
     ]
   },

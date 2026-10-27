@@ -1,0 +1,75 @@
+{
+  "id": "KARTA-OLIOC-INSTYTUCJE-I-SLUZBY",
+  "wzorzec": 2,
+  "kategoria": "olioc",
+  "grupa": "olioc",
+  "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+  "data_aktualizacji": "2026-10-27",
+  "slowo_kluczowe": "olioc kto odpowiada za ochronę ludności",
+  "keywords": [
+    "instytucje ochrony ludności",
+    "rola gminy powiatu wojewody olioc",
+    "służby w systemie ochrony ludności"
+  ],
+  "aliasy": [
+    "instytucje ochrony ludności",
+    "rola gminy powiatu wojewody olioc",
+    "służby w systemie ochrony ludności"
+  ],
+  "prefix": "Kto odpowiada za ochronę ludności — instytucje publiczne, służby, wojsko, organizacje społeczne.",
+  "najpierw": [
+    {
+      "t": "Wójtowie, burmistrzowie, prezydenci miast, starostowie, wojewodowie i minister spraw wewnętrznych tworzą plany ewakuacji i schronienia oraz koordynują służby.",
+      "zr": "Poradnik 2025",
+      "str": 5
+    },
+    {
+      "t": "Straż pożarna, policja, ratownictwo medyczne i inne służby ratują życie, zdrowie i mienie, ewakuują i zapewniają schronienie.",
+      "zr": "Poradnik 2025",
+      "str": 6
+    }
+  ],
+  "parametry": [],
+  "sekcje": [
+    {
+      "etykieta": "Pozostali",
+      "punkty": [
+        {
+          "t": "Siły Zbrojne bronią suwerenności państwa; w razie napaści uruchamiają plany krajowe i sojusznicze.",
+          "zr": "Poradnik 2025",
+          "str": 6
+        },
+        {
+          "t": "Organizacje społeczne wspierają państwo w pomocy lub same ją organizują — szybko i elastycznie.",
+          "zr": "Poradnik 2025",
+          "str": 6
+        }
+      ]
+    },
+    {
+      "etykieta": "Uwaga",
+      "punkty": [
+        {
+          "t": "Pomoc humanitarna jest zawsze bezpłatna.",
+          "zr": "Poradnik 2025",
+          "str": 6
+        }
+      ]
+    }
+  ],
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "administracja publiczna",
+    "służby ratownicze"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+      "strona": 5,
+      "sekcja": "Rola instytucji, wojska, służb i organizacji (s. 5–6)"
+    }
+  ],
+  "data_przegladu": "2026-10-27"
+}

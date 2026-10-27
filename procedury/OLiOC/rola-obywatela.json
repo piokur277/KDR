@@ -1,0 +1,95 @@
+{
+  "id": "KARTA-OLIOC-ROLA-OBYWATELA",
+  "wzorzec": 2,
+  "kategoria": "olioc",
+  "grupa": "olioc",
+  "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+  "data_aktualizacji": "2026-10-27",
+  "slowo_kluczowe": "olioc rola obywatela w kryzysie",
+  "keywords": [
+    "samopomoc i pomoc wzajemna olioc",
+    "co może zrobić obywatel przed kryzysem",
+    "odpowiedzialność obywatela w ochronie ludności"
+  ],
+  "aliasy": [
+    "samopomoc i pomoc wzajemna olioc",
+    "co może zrobić obywatel przed kryzysem",
+    "odpowiedzialność obywatela w ochronie ludności"
+  ],
+  "prefix": "Rola obywatela w ochronie ludności — jak możesz się zaangażować.",
+  "najpierw": [
+    {
+      "t": "Nawiąż kontakt z sąsiadami — warto wiedzieć, kto może potrzebować wsparcia, a kto może je zaoferować.",
+      "zr": "Poradnik 2025",
+      "str": 7
+    },
+    {
+      "t": "Opracuj i przećwicz rodzinny plan kryzysowy; przygotuj zapasy na minimum 3 dni.",
+      "zr": "Poradnik 2025",
+      "str": 52
+    }
+  ],
+  "parametry": [],
+  "sekcje": [
+    {
+      "etykieta": "Formy zaangażowania",
+      "punkty": [
+        {
+          "t": "Inicjatywy sąsiedzkie, grupy informacyjne, listy kontaktowe.",
+          "zr": "Poradnik 2025",
+          "str": 7
+        },
+        {
+          "t": "Szkolenia, ćwiczenia, budżet obywatelski; działalność w OSP, organizacji humanitarnej, stowarzyszeniu; wolontariat.",
+          "zr": "Poradnik 2025",
+          "str": 7
+        }
+      ]
+    },
+    {
+      "etykieta": "W czasie konfliktu zbrojnego",
+      "punkty": [
+        {
+          "t": "Nadal pracujesz w swoim zawodzie, chyba że otrzymasz inne zadania.",
+          "zr": "Poradnik 2025",
+          "str": 7
+        },
+        {
+          "t": "Przydział mobilizacyjny do obrony cywilnej = zadania ochrony ludzi, mienia, infrastruktury, dóbr kultury; można zgłosić się na ochotnika (urząd wojewódzki).",
+          "zr": "Poradnik 2025",
+          "str": 7
+        }
+      ]
+    },
+    {
+      "etykieta": "Dekalog bezpieczeństwa (wybór)",
+      "punkty": [
+        {
+          "t": "Korzystaj z wiarygodnych, przede wszystkim rządowych źródeł informacji.",
+          "zr": "Poradnik 2025",
+          "str": 52
+        },
+        {
+          "t": "Słuchaj poleceń służb i współdziałaj z innymi.",
+          "zr": "Poradnik 2025",
+          "str": 52
+        }
+      ]
+    }
+  ],
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "samopomoc",
+    "pomoc wzajemna"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+      "strona": 7,
+      "sekcja": "Twoja rola (s. 7), Dekalog bezpieczeństwa (s. 52)"
+    }
+  ],
+  "data_przegladu": "2026-10-27"
+}

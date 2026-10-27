@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-27T19:49:24.660Z",
+  "generated_at": "2026-10-27T19:57:17.647Z",
   "registry_version": "2.7",
-  "document_count": 86,
-  "active_document_count": 86,
-  "linked_document_count": 86,
+  "document_count": 88,
+  "active_document_count": 88,
+  "linked_document_count": 88,
   "unlinked_documents": [],
   "documents": [
     {
@@ -365,7 +365,7 @@
       "tytul": "Akademia OLiOC - program „jeden miesiąc - jeden temat”",
       "status_techniczny": "aktywny",
       "liczba_stron": 1,
-      "liczba_powiazan": 9,
+      "liczba_powiazan": 5,
       "powiazania": [
         {
           "procedure_id": "KARTA-OLIOC-GRUDZIEŃ-01-ZAPASY_72H",
@@ -373,27 +373,7 @@
           "sekcja": "Oficjalne źródło internetowe"
         },
         {
-          "procedure_id": "KARTA-OLIOC-LIPIEC-01-SYGNALY_ALARMOWE",
-          "strona": 1,
-          "sekcja": "Oficjalne źródło internetowe"
-        },
-        {
           "procedure_id": "KARTA-OLIOC-LISTOPAD-01-BLACKOUT_PIERWSZE_DZIALANIA",
-          "strona": 1,
-          "sekcja": "Oficjalne źródło internetowe"
-        },
-        {
-          "procedure_id": "KARTA-OLIOC-MAJ-05-OBSZARY_PRZYGOTOWANIA",
-          "strona": 1,
-          "sekcja": "Oficjalne źródło internetowe"
-        },
-        {
-          "procedure_id": "KARTA-OLIOC-MAJ-01-PODSTAWY_SYSTEMU",
-          "strona": 1,
-          "sekcja": "Oficjalne źródło internetowe"
-        },
-        {
-          "procedure_id": "KARTA-OLIOC-MAJ-02-ROLA_OBYWATELA",
           "strona": 1,
           "sekcja": "Oficjalne źródło internetowe"
         },
@@ -415,67 +395,14 @@
       ]
     },
     {
-      "id": "src-olioc-ustawa",
-      "tytul": "Ustawa o ochronie ludności i obronie cywilnej - informacje MSWiA",
-      "status_techniczny": "aktywny",
-      "liczba_stron": 1,
-      "liczba_powiazan": 2,
-      "powiazania": [
-        {
-          "procedure_id": "KARTA-OLIOC-MAJ-03-INSTYTUCJE_I_SLUZBY",
-          "strona": 1,
-          "sekcja": "Oficjalne źródło internetowe"
-        },
-        {
-          "procedure_id": "KARTA-OLIOC-MAJ-01-PODSTAWY_SYSTEMU",
-          "strona": 1,
-          "sekcja": "Oficjalne źródło internetowe"
-        }
-      ]
-    },
-    {
-      "id": "src-poradnik-wspolnie",
-      "tytul": "Poradnik bezpieczeństwa - Wspólnie dbamy o nasze bezpieczeństwo",
-      "status_techniczny": "aktywny",
-      "liczba_stron": 1,
-      "liczba_powiazan": 4,
-      "powiazania": [
-        {
-          "procedure_id": "KARTA-OLIOC-MAJ-03-INSTYTUCJE_I_SLUZBY",
-          "strona": 1,
-          "sekcja": "Oficjalne źródło internetowe"
-        },
-        {
-          "procedure_id": "KARTA-OLIOC-MAJ-01-PODSTAWY_SYSTEMU",
-          "strona": 1,
-          "sekcja": "Oficjalne źródło internetowe"
-        },
-        {
-          "procedure_id": "KARTA-OLIOC-MAJ-02-ROLA_OBYWATELA",
-          "strona": 1,
-          "sekcja": "Oficjalne źródło internetowe"
-        },
-        {
-          "procedure_id": "KARTA-OLIOC-MAJ-04-SIEC_WSPARCIA",
-          "strona": 1,
-          "sekcja": "Oficjalne źródło internetowe"
-        }
-      ]
-    },
-    {
       "id": "src-poradnik-przygotuj-siebie",
       "tytul": "Poradnik bezpieczeństwa - Przygotuj siebie i najbliższych",
       "status_techniczny": "aktywny",
       "liczba_stron": 1,
-      "liczba_powiazan": 2,
+      "liczba_powiazan": 1,
       "powiazania": [
         {
           "procedure_id": "KARTA-OLIOC-GRUDZIEŃ-04-LEKI_HIGIENA",
-          "strona": 1,
-          "sekcja": "Oficjalne źródło internetowe"
-        },
-        {
-          "procedure_id": "KARTA-OLIOC-MAJ-05-OBSZARY_PRZYGOTOWANIA",
           "strona": 1,
           "sekcja": "Oficjalne źródło internetowe"
         }
@@ -486,15 +413,10 @@
       "tytul": "Poradnik bezpieczeństwa - Osoby potrzebujące szczególnej pomocy",
       "status_techniczny": "aktywny",
       "liczba_stron": 1,
-      "liczba_powiazan": 5,
+      "liczba_powiazan": 4,
       "powiazania": [
         {
           "procedure_id": "KARTA-OLIOC-GRUDZIEŃ-05-SZCZEGOLNE_POTRZEBY_ZAPASY",
-          "strona": 1,
-          "sekcja": "Oficjalne źródło internetowe"
-        },
-        {
-          "procedure_id": "KARTA-OLIOC-MAJ-04-SIEC_WSPARCIA",
           "strona": 1,
           "sekcja": "Oficjalne źródło internetowe"
         },
@@ -578,28 +500,8 @@
       "tytul": "Poradnik bezpieczeństwa - Sygnały alarmowe i komunikaty ostrzegawcze",
       "status_techniczny": "aktywny",
       "liczba_stron": 1,
-      "liczba_powiazan": 5,
+      "liczba_powiazan": 1,
       "powiazania": [
-        {
-          "procedure_id": "KARTA-OLIOC-LIPIEC-02-KOMUNIKATY_OSTRZEGAWCZE",
-          "strona": 1,
-          "sekcja": "Oficjalne źródło internetowe"
-        },
-        {
-          "procedure_id": "KARTA-OLIOC-LIPIEC-04-OFICJALNE_ZRODLA",
-          "strona": 1,
-          "sekcja": "Oficjalne źródło internetowe"
-        },
-        {
-          "procedure_id": "KARTA-OLIOC-LIPIEC-03-REAKCJA_PO_ALARMIE",
-          "strona": 1,
-          "sekcja": "Oficjalne źródło internetowe"
-        },
-        {
-          "procedure_id": "KARTA-OLIOC-LIPIEC-01-SYGNALY_ALARMOWE",
-          "strona": 1,
-          "sekcja": "Oficjalne źródło internetowe"
-        },
         {
           "procedure_id": "KARTA-OLIOC-PAŹDZIERNIK-02-WERYFIKACJA_INFORMACJI",
           "strona": 1,
@@ -753,13 +655,8 @@
       "tytul": "Poradnik bezpieczeństwa - Zagrożenia cyfrowe",
       "status_techniczny": "aktywny",
       "liczba_stron": 1,
-      "liczba_powiazan": 6,
+      "liczba_powiazan": 5,
       "powiazania": [
-        {
-          "procedure_id": "KARTA-OLIOC-LIPIEC-04-OFICJALNE_ZRODLA",
-          "strona": 1,
-          "sekcja": "Oficjalne źródło internetowe"
-        },
         {
           "procedure_id": "KARTA-OLIOC-PAŹDZIERNIK-01-DEZINFORMACJA",
           "strona": 1,
@@ -811,7 +708,7 @@
       "tytul": "Poradnik bezpieczeństwa - Plan na kryzys",
       "status_techniczny": "aktywny",
       "liczba_stron": 1,
-      "liczba_powiazan": 15,
+      "liczba_powiazan": 11,
       "powiazania": [
         {
           "procedure_id": "KARTA-OLIOC-GRUDZIEŃ-04-LEKI_HIGIENA",
@@ -839,27 +736,7 @@
           "sekcja": "Oficjalne źródło internetowe"
         },
         {
-          "procedure_id": "KARTA-OLIOC-LIPIEC-03-REAKCJA_PO_ALARMIE",
-          "strona": 1,
-          "sekcja": "Oficjalne źródło internetowe"
-        },
-        {
           "procedure_id": "KARTA-OLIOC-LISTOPAD-05-BRAK_LACZNOSCI",
-          "strona": 1,
-          "sekcja": "Oficjalne źródło internetowe"
-        },
-        {
-          "procedure_id": "KARTA-OLIOC-MAJ-05-OBSZARY_PRZYGOTOWANIA",
-          "strona": 1,
-          "sekcja": "Oficjalne źródło internetowe"
-        },
-        {
-          "procedure_id": "KARTA-OLIOC-MAJ-02-ROLA_OBYWATELA",
-          "strona": 1,
-          "sekcja": "Oficjalne źródło internetowe"
-        },
-        {
-          "procedure_id": "KARTA-OLIOC-MAJ-04-SIEC_WSPARCIA",
           "strona": 1,
           "sekcja": "Oficjalne źródło internetowe"
         },
@@ -1722,6 +1599,107 @@
           "procedure_id": "KARTA-CHEM-ZAKRES-PODSTAWOWY-KDR",
           "strona": 1,
           "sekcja": "Załącznik nr 11 — karta graficzna: poziomy gotowości SGRChem-Eko (s. 1–3)"
+        }
+      ]
+    },
+    {
+      "id": "doc-poradnik-bezpieczenstwa-2025",
+      "tytul": "Poradnik bezpieczeństwa",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 54,
+      "liczba_powiazan": 8,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-OLIOC-ALERTY-RCB-I-RSO",
+          "strona": 53,
+          "sekcja": "RSO (s. 53)"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-INSTYTUCJE-I-SLUZBY",
+          "strona": 5,
+          "sekcja": "Rola instytucji, wojska, służb i organizacji (s. 5–6)"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-OCHRONA-LUDNOSCI-I-OBRONA-CYWILNA",
+          "strona": 5,
+          "sekcja": "Wspólnie dbamy o nasze bezpieczeństwo (s. 5–6)"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-OFICJALNE-ZRODLA-INFORMACJI",
+          "strona": 39,
+          "sekcja": "Zagrożenia cyfrowe — dezinformacja (s. 39), zapasy (s. 22), RSO (s. 53)"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-POMOC-SASIEDZKA",
+          "strona": 12,
+          "sekcja": "Osoby potrzebujące szczególnej pomocy (s. 12–13), Twoja rola (s. 7)"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-PRZYGOTOWANIE-DOMU-I-RODZINY",
+          "strona": 11,
+          "sekcja": "Przygotowanie (s. 11–22), Plan na kryzys (s. 46–47), Dekalog (s. 52)"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-ROLA-OBYWATELA",
+          "strona": 7,
+          "sekcja": "Twoja rola (s. 7), Dekalog bezpieczeństwa (s. 52)"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-SYGNALY-ALARMOWE",
+          "strona": 24,
+          "sekcja": "Sygnały alarmowe i komunikaty ostrzegawcze (s. 24, 53)"
+        }
+      ]
+    },
+    {
+      "id": "doc-olioc-instrukcja-reagowania",
+      "tytul": "Instrukcja reagowania — zagrożenie atakiem z powietrza",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 12,
+      "liczba_powiazan": 3,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-OLIOC-ALARM-ATAK-Z-POWIETRZA",
+          "strona": 4,
+          "sekcja": "Decyzja podczas alarmu, wybór pomieszczenia (s. 3–10)"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-ALERTY-RCB-I-RSO",
+          "strona": 2,
+          "sekcja": "(s. 2, 4)"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-SYGNALY-ALARMOWE",
+          "strona": 2,
+          "sekcja": "Przygotuj się (s. 2)"
+        }
+      ]
+    },
+    {
+      "id": "doc-olioc-alerty-rcb",
+      "tytul": "Poznaj Alerty RCB o zagrożeniu atakiem z powietrza",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 1,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-OLIOC-ALERTY-RCB-I-RSO",
+          "strona": 1,
+          "sekcja": "Poznaj Alerty RCB (s. 1)"
+        }
+      ]
+    },
+    {
+      "id": "doc-olioc-sygnal-alarmowy",
+      "tytul": "Słyszysz alarm? Zagrożenie atakiem z powietrza",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 1,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-OLIOC-ALARM-ATAK-Z-POWIETRZA",
+          "strona": 1,
+          "sekcja": "Słyszysz alarm? (s. 1)"
         }
       ]
     }

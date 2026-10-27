@@ -1,0 +1,79 @@
+{
+  "id": "KARTA-OLIOC-OFICJALNE-ZRODLA-INFORMACJI",
+  "wzorzec": 2,
+  "kategoria": "olioc",
+  "grupa": "olioc",
+  "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+  "data_aktualizacji": "2026-10-27",
+  "slowo_kluczowe": "olioc oficjalne źródła informacji",
+  "keywords": [
+    "gdzie sprawdzać informacje o zagrożeniu",
+    "wiarygodne komunikaty podczas kryzysu",
+    "radio rso alert rcb informacje"
+  ],
+  "aliasy": [
+    "gdzie sprawdzać informacje o zagrożeniu",
+    "wiarygodne komunikaty podczas kryzysu",
+    "radio rso alert rcb informacje"
+  ],
+  "prefix": "Oficjalne źródła informacji w kryzysie i weryfikacja wiadomości.",
+  "najpierw": [
+    {
+      "t": "Korzystaj z wiarygodnych źródeł, przede wszystkim rządowych: Polskie Radio, Telewizja Polska, rządowe strony, służby państwowe.",
+      "zr": "Poradnik 2025",
+      "str": 39
+    },
+    {
+      "t": "Sprawdzaj informacje w kilku niezależnych źródłach.",
+      "zr": "Poradnik 2025",
+      "str": 39
+    },
+    {
+      "t": "Pobierz aplikację RSO; śledź Alerty RCB.",
+      "zr": "Poradnik 2025",
+      "str": 53
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "Brak prądu i internetu",
+      "wartosc": "radio na baterie lub korbkę w zapasach domowych",
+      "zr": "Poradnik 2025",
+      "str": 22
+    }
+  ],
+  "sekcje": [
+    {
+      "etykieta": "Dezinformacja",
+      "punkty": [
+        {
+          "t": "Nie rozpowszechniaj niesprawdzonych informacji; nie wierz w doniesienia o upadku państwa i kapitulacji.",
+          "zr": "Poradnik 2025",
+          "str": 39
+        }
+      ]
+    }
+  ],
+  "nie_rob": [
+    {
+      "t": "Nie publikuj informacji, zdjęć ani nagrań o lokalizacji i ruchu wojska ani ważnych obiektów (mosty, stacje, magazyny).",
+      "zr": "Poradnik 2025",
+      "str": 39
+    }
+  ],
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "wiarygodne informacje",
+    "komunikacja kryzysowa"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+      "strona": 39,
+      "sekcja": "Zagrożenia cyfrowe — dezinformacja (s. 39), zapasy (s. 22), RSO (s. 53)"
+    }
+  ],
+  "data_przegladu": "2026-10-27"
+}
