@@ -1,32 +1,69 @@
 {
   "id": "KARTA-KPP-OBRAZENIA-GLOWY",
+  "wzorzec": 2,
   "kategoria": "dzialania",
-  "zrodlo": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 7",
-  "data_aktualizacji": "",
+  "grupa": "kpp",
+  "zrodlo": "KG PSP: Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy — Załącznik nr 1 do Zasad organizacji ratownictwa medycznego w KSRG (2021), Procedura 7.",
+  "data_aktualizacji": "2026-10-27",
   "slowo_kluczowe": "obrazenia glowy kpp",
   "keywords": [
     "podejrzenie obrazen glowy kpp",
     "procedura 7 kpp",
     "stabilizacja szyjnego kpp"
   ],
-  "prefix": "KPP - obrazenia i podejrzenie obrazen glowy.",
-  "content": "1. KOD / NAZWA: Procedura 7 - obrazenia i podejrzenie obrazen glowy.\n2. START: wykonaj rozpoznanie miejsca zdarzenia i sekwencje medycznych dzialan ratowniczych z procedury 2.\n3. STABILIZACJA: zastosuj stabilizacje odcinka szyjnego kregoslupa.\n4. RANA GLOWY: jezeli wystepuje rana glowy, zaloz opatrunek oslaniajacy.\n5. EWAKUACJA: w razie koniecznosci ewakuacji unieruchom poszkodowanego na noszach.\n6. USTAWIENIE NOSZY: podczas ewakuacji nosze nalezy uniesc od strony glowy.\n7. UWAGI OPERACYJNE: karta laczy postepowanie z rana glowy z podejrzeniem obrazen odcinka szyjnego kregoslupa.",
+  "aliasy": [
+    "podejrzenie obrazen glowy kpp",
+    "procedura 7 kpp",
+    "stabilizacja szyjnego kpp"
+  ],
+  "prefix": "KPP procedura 7 — obrażenia i podejrzenie obrażeń głowy: stabilizacja szyi, opatrunek, ewakuacja na noszach.",
+  "najpierw": [
+    {
+      "t": "Rozpoznanie miejsca zdarzenia.",
+      "zr": "KPP proc. 7",
+      "str": 1
+    },
+    {
+      "t": "Stabilizacja odcinka szyjnego kręgosłupa.",
+      "zr": "KPP proc. 7",
+      "str": 1
+    },
+    {
+      "t": "Sekwencja medycznych działań ratowniczych (procedura 2).",
+      "zr": "KPP proc. 7",
+      "str": 1
+    }
+  ],
+  "parametry": [],
+  "sekcje": [
+    {
+      "etykieta": "Postępowanie",
+      "punkty": [
+        {
+          "t": "Rana głowy → opatrunek osłaniający.",
+          "zr": "KPP proc. 7",
+          "str": 1
+        },
+        {
+          "t": "Konieczna ewakuacja → unieruchomienie na noszach; nosze unosić od strony głowy.",
+          "zr": "KPP proc. 7",
+          "str": 1
+        }
+      ]
+    }
+  ],
   "tagi_wspolne": [
     "kpp",
     "medyczne dzialania ratownicze",
     "obrazenia",
     "uraz"
   ],
-  "aliasy": [
-    "podejrzenie obrazen glowy kpp",
-    "procedura 7 kpp",
-    "stabilizacja szyjnego kpp"
-  ],
   "dokumenty_zrodlowe": [
     {
       "dokument_id": "doc-kpp-procedura-07",
       "strona": 1,
-      "sekcja": "Procedura nr 7 - Obrażenia i podejrzenie obrażeń głowy"
+      "sekcja": "Procedura nr 7"
     }
-  ]
+  ],
+  "data_przegladu": "2026-10-27"
 }

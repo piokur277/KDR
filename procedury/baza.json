@@ -4640,9 +4640,11 @@
   },
   {
     "id": "KARTA-KPP-AMPUTACJA-URAZOWA",
+    "wzorzec": 2,
     "kategoria": "dzialania",
-    "zrodlo": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 6",
-    "data_aktualizacji": "",
+    "grupa": "kpp",
+    "zrodlo": "KG PSP: Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy — Załącznik nr 1 do Zasad organizacji ratownictwa medycznego w KSRG (2021), Procedura 6.",
+    "data_aktualizacji": "2026-10-27",
     "slowo_kluczowe": "amputacja urazowa kpp",
     "keywords": [
       "kikut kpp",
@@ -4650,27 +4652,88 @@
       "procedura 6 kpp",
       "amputacja czesciowa kpp"
     ],
-    "prefix": "KPP - amputacja urazowa.",
-    "content": "1. KOD / NAZWA: Procedura 6 - amputacja urazowa.\n2. START: wykonaj rozpoznanie miejsca zdarzenia oraz sekwencje medycznych dzialan ratowniczych z procedury 2.\n3. AMPUTACJA CZESCIOWA: zaloz opatrunek jalowy zwilzony sola fizjologiczna i unieruchom konczyne.\n4. KIKUT I KRWAWIENIE: jezeli rana krwawi, postepuj zgodnie z procedura 5 dotyczaca ran krwawiacych.\n5. ODNALEZIONA AMPUTOWANA CZESC CIALA: owin ja w sucha gaze jalowa, umiesc w szczelnym worku plastikowym, wycisnij powietrze, a nastepnie umiesc worek w pojemniku wypelnionym zimna woda, w miare mozliwosci z dodatkiem lodu.\n6. PRZEKAZANIE: amputowana czesc ciala powinna zostac przekazana Zespolowi Ratownictwa Medycznego.\n7. UWAGI OPERACYJNE: karta rozroznia amputacje calkowita i czesciowa, ale w obu przypadkach kluczowe jest opanowanie krwawienia i zabezpieczenie amputowanej czesci ciala.",
-    "tagi_wspolne": [
-      "kpp",
-      "medyczne dzialania ratownicze",
-      "amputacja",
-      "uraz"
-    ],
     "aliasy": [
       "kikut kpp",
       "amputowana czesc ciala kpp",
       "procedura 6 kpp",
       "amputacja czesciowa kpp"
     ],
+    "prefix": "KPP procedura 6 — amputacja urazowa całkowita i częściowa: kikut, amputowana część, przekazanie ZRM.",
+    "najpierw": [
+      {
+        "t": "Rozpoznanie miejsca zdarzenia i procedura 2.",
+        "zr": "KPP proc. 6",
+        "str": 1
+      },
+      {
+        "t": "Kikut po amputacji całkowitej → postępowanie jak przy ranie krwawiącej (procedura 5).",
+        "zr": "KPP proc. 6",
+        "str": 1
+      }
+    ],
+    "parametry": [],
+    "sekcje": [
+      {
+        "etykieta": "Amputacja całkowita — amputowana część",
+        "punkty": [
+          {
+            "t": "Owiń w suchą gazę jałową.",
+            "zr": "KPP proc. 6",
+            "str": 1
+          },
+          {
+            "t": "Umieść w szczelnym worku plastikowym, wyciśnij powietrze.",
+            "zr": "KPP proc. 6",
+            "str": 1
+          },
+          {
+            "t": "Worek włóż do pojemnika z zimną wodą, w miarę możliwości z lodem.",
+            "zr": "KPP proc. 6",
+            "str": 1
+          },
+          {
+            "t": "Przekaż Zespołowi Ratownictwa Medycznego.",
+            "zr": "KPP proc. 6",
+            "str": 1
+          }
+        ]
+      },
+      {
+        "etykieta": "Amputacja częściowa",
+        "punkty": [
+          {
+            "t": "Opatrunek jałowy zwilżony solą fizjologiczną.",
+            "zr": "KPP proc. 6",
+            "str": 1
+          },
+          {
+            "t": "Rana krwawiąca → procedura 5.",
+            "zr": "KPP proc. 6",
+            "str": 1
+          },
+          {
+            "t": "Unieruchom kończynę.",
+            "zr": "KPP proc. 6",
+            "str": 1
+          }
+        ]
+      }
+    ],
+    "tagi_wspolne": [
+      "kpp",
+      "medyczne dzialania ratownicze",
+      "amputacja",
+      "uraz"
+    ],
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-kpp-procedura-06",
         "strona": 1,
-        "sekcja": "Procedura nr 6 - Amputacja urazowa"
+        "sekcja": "Procedura nr 6"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: Rozpoznanie miejsca zdarzenia i procedura 2. Kikut po amputacji całkowitej → postępowanie jak przy ranie krwawiącej (procedura 5).\n2. AMPUTACJA CAŁKOWITA — AMPUTOWANA CZĘŚĆ: Owiń w suchą gazę jałową. Umieść w szczelnym worku plastikowym, wyciśnij powietrze. Worek włóż do pojemnika z zimną wodą, w miarę możliwości z lodem. Przekaż Zespołowi Ratownictwa Medycznego.\n3. AMPUTACJA CZĘŚCIOWA: Opatrunek jałowy zwilżony solą fizjologiczną. Rana krwawiąca → procedura 5. Unieruchom kończynę."
   },
   {
     "id": "KARTA-KPP-KOBIETA-W-CIAZY-ZAGROZENIE",
@@ -4737,35 +4800,73 @@
   },
   {
     "id": "KARTA-KPP-OBRAZENIA-GLOWY",
+    "wzorzec": 2,
     "kategoria": "dzialania",
-    "zrodlo": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 7",
-    "data_aktualizacji": "",
+    "grupa": "kpp",
+    "zrodlo": "KG PSP: Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy — Załącznik nr 1 do Zasad organizacji ratownictwa medycznego w KSRG (2021), Procedura 7.",
+    "data_aktualizacji": "2026-10-27",
     "slowo_kluczowe": "obrazenia glowy kpp",
     "keywords": [
       "podejrzenie obrazen glowy kpp",
       "procedura 7 kpp",
       "stabilizacja szyjnego kpp"
     ],
-    "prefix": "KPP - obrazenia i podejrzenie obrazen glowy.",
-    "content": "1. KOD / NAZWA: Procedura 7 - obrazenia i podejrzenie obrazen glowy.\n2. START: wykonaj rozpoznanie miejsca zdarzenia i sekwencje medycznych dzialan ratowniczych z procedury 2.\n3. STABILIZACJA: zastosuj stabilizacje odcinka szyjnego kregoslupa.\n4. RANA GLOWY: jezeli wystepuje rana glowy, zaloz opatrunek oslaniajacy.\n5. EWAKUACJA: w razie koniecznosci ewakuacji unieruchom poszkodowanego na noszach.\n6. USTAWIENIE NOSZY: podczas ewakuacji nosze nalezy uniesc od strony glowy.\n7. UWAGI OPERACYJNE: karta laczy postepowanie z rana glowy z podejrzeniem obrazen odcinka szyjnego kregoslupa.",
+    "aliasy": [
+      "podejrzenie obrazen glowy kpp",
+      "procedura 7 kpp",
+      "stabilizacja szyjnego kpp"
+    ],
+    "prefix": "KPP procedura 7 — obrażenia i podejrzenie obrażeń głowy: stabilizacja szyi, opatrunek, ewakuacja na noszach.",
+    "najpierw": [
+      {
+        "t": "Rozpoznanie miejsca zdarzenia.",
+        "zr": "KPP proc. 7",
+        "str": 1
+      },
+      {
+        "t": "Stabilizacja odcinka szyjnego kręgosłupa.",
+        "zr": "KPP proc. 7",
+        "str": 1
+      },
+      {
+        "t": "Sekwencja medycznych działań ratowniczych (procedura 2).",
+        "zr": "KPP proc. 7",
+        "str": 1
+      }
+    ],
+    "parametry": [],
+    "sekcje": [
+      {
+        "etykieta": "Postępowanie",
+        "punkty": [
+          {
+            "t": "Rana głowy → opatrunek osłaniający.",
+            "zr": "KPP proc. 7",
+            "str": 1
+          },
+          {
+            "t": "Konieczna ewakuacja → unieruchomienie na noszach; nosze unosić od strony głowy.",
+            "zr": "KPP proc. 7",
+            "str": 1
+          }
+        ]
+      }
+    ],
     "tagi_wspolne": [
       "kpp",
       "medyczne dzialania ratownicze",
       "obrazenia",
       "uraz"
     ],
-    "aliasy": [
-      "podejrzenie obrazen glowy kpp",
-      "procedura 7 kpp",
-      "stabilizacja szyjnego kpp"
-    ],
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-kpp-procedura-07",
         "strona": 1,
-        "sekcja": "Procedura nr 7 - Obrażenia i podejrzenie obrażeń głowy"
+        "sekcja": "Procedura nr 7"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: Rozpoznanie miejsca zdarzenia. Stabilizacja odcinka szyjnego kręgosłupa. Sekwencja medycznych działań ratowniczych (procedura 2).\n2. POSTĘPOWANIE: Rana głowy → opatrunek osłaniający. Konieczna ewakuacja → unieruchomienie na noszach; nosze unosić od strony głowy."
   },
   {
     "id": "KARTA-KPP-OBRAZENIA-KLATKI-PIERSIOWEJ",
@@ -4961,9 +5062,11 @@
   },
   {
     "id": "KARTA-KPP-RANY",
+    "wzorzec": 2,
     "kategoria": "dzialania",
-    "zrodlo": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 5",
-    "data_aktualizacji": "",
+    "grupa": "kpp",
+    "zrodlo": "KG PSP: Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy — Załącznik nr 1 do Zasad organizacji ratownictwa medycznego w KSRG (2021), Procedura 5.",
+    "data_aktualizacji": "2026-10-27",
     "slowo_kluczowe": "rany kpp",
     "keywords": [
       "rana krwawiaca kpp",
@@ -4971,33 +5074,101 @@
       "procedura 5 kpp",
       "opatrunek uciskowy kpp"
     ],
-    "prefix": "KPP - postepowanie przy ranach.",
-    "content": "1. KOD / NAZWA: Procedura 5 - rany.\n2. START: wykonaj rozpoznanie miejsca zdarzenia i sekwencje medycznych dzialan ratowniczych z procedury 2, a nastepnie uwidocznij rane.\n3. RANA NIEKRWAWIACA: zaloz opatrunek oslaniajacy.\n4. RANA KRWAWIACA: zaloz opatrunek uciskowy, niezaleznie od tego, czy rana znajduje sie na konczynie, czy w innej okolicy ciala.\n5. JEZELI KRWOTOK NIE USTAJE: zastosuj opaske zaciskowa.\n6. JEZELI BRAK OPASKI ZACISKOWEJ: wykonaj miejscowe ucisniecie rany oraz ucisk na duza tetnice.\n7. DODATKOWO: w miare mozliwosci unieruchom uszkodzona okolice.\n8. UWAGI OPERACYJNE: najwazniejsze jest szybkie rozroznienie, czy rana krwawi, i niezwloczne przejscie do tamowania krwotoku.",
-    "tagi_wspolne": [
-      "kpp",
-      "medyczne dzialania ratownicze",
-      "rany",
-      "uraz"
-    ],
     "aliasy": [
       "rana krwawiaca kpp",
       "opaska zaciskowa kpp",
       "procedura 5 kpp",
       "opatrunek uciskowy kpp"
     ],
+    "prefix": "KPP procedura 5 — rany: opatrunek osłaniający, uciskowy, opaska zaciskowa, ucisk tętnicy lub miejscowy ucisk rany.",
+    "najpierw": [
+      {
+        "t": "Rozpoznanie miejsca zdarzenia i procedura 2; uwidocznij ranę.",
+        "zr": "KPP proc. 5",
+        "str": 1
+      },
+      {
+        "t": "Rana niekrwawiąca → opatrunek osłaniający.",
+        "zr": "KPP proc. 5",
+        "str": 1
+      },
+      {
+        "t": "Rana krwawiąca → opatrunek uciskowy.",
+        "zr": "KPP proc. 5",
+        "str": 1
+      }
+    ],
+    "parametry": [],
+    "sekcje": [
+      {
+        "etykieta": "Rana krwawiąca — kończyna",
+        "punkty": [
+          {
+            "t": "Opatrunek uciskowy.",
+            "zr": "KPP proc. 5",
+            "str": 1
+          },
+          {
+            "t": "Krwotok nie ustaje → opaska zaciskowa.",
+            "zr": "KPP proc. 5",
+            "str": 1
+          },
+          {
+            "t": "Brak opaski zaciskowej → ucisk na dużą tętnicę.",
+            "zr": "KPP proc. 5",
+            "str": 1
+          }
+        ]
+      },
+      {
+        "etykieta": "Rana krwawiąca — inna okolica ciała",
+        "punkty": [
+          {
+            "t": "Opatrunek uciskowy.",
+            "zr": "KPP proc. 5",
+            "str": 1
+          },
+          {
+            "t": "Nie można go założyć → miejscowe uciśnięcie rany.",
+            "zr": "KPP proc. 5",
+            "str": 1
+          }
+        ]
+      },
+      {
+        "etykieta": "Dalej",
+        "punkty": [
+          {
+            "t": "W miarę możliwości unieruchom uszkodzoną okolicę.",
+            "zr": "KPP proc. 5",
+            "str": 1
+          }
+        ]
+      }
+    ],
+    "tagi_wspolne": [
+      "kpp",
+      "medyczne dzialania ratownicze",
+      "rany",
+      "uraz"
+    ],
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-kpp-procedura-05",
         "strona": 1,
-        "sekcja": "Procedura nr 5 - Rany"
+        "sekcja": "Procedura nr 5"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: Rozpoznanie miejsca zdarzenia i procedura 2; uwidocznij ranę. Rana niekrwawiąca → opatrunek osłaniający. Rana krwawiąca → opatrunek uciskowy.\n2. RANA KRWAWIĄCA — KOŃCZYNA: Opatrunek uciskowy. Krwotok nie ustaje → opaska zaciskowa. Brak opaski zaciskowej → ucisk na dużą tętnicę.\n3. RANA KRWAWIĄCA — INNA OKOLICA CIAŁA: Opatrunek uciskowy. Nie można go założyć → miejscowe uciśnięcie rany.\n4. DALEJ: W miarę możliwości unieruchom uszkodzoną okolicę."
   },
   {
     "id": "KARTA-KPP-RKO-DOROSLI",
+    "wzorzec": 2,
     "kategoria": "dzialania",
-    "zrodlo": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 3",
-    "data_aktualizacji": "",
+    "grupa": "kpp",
+    "zrodlo": "KG PSP: Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy — Załącznik nr 1 do Zasad organizacji ratownictwa medycznego w KSRG (2021), Procedura 3.",
+    "data_aktualizacji": "2026-10-27",
     "slowo_kluczowe": "kpp rko dorosli",
     "keywords": [
       "rko dorosly kpp",
@@ -5005,33 +5176,68 @@
       "procedura 3 kpp",
       "aed dorosly"
     ],
-    "prefix": "KPP - zatrzymanie krazenia u doroslych.",
-    "content": "1. KOD / NAZWA: Procedura 3 - zatrzymanie krazenia u doroslych.\n2. START: wykonaj rozpoznanie miejsca zdarzenia i przejdz przez sekwencje medycznych dzialan ratowniczych z procedury 2.\n3. ROZPOZNANIE: jezeli stwierdzasz brak prawidlowego oddechu, rozpocznij resuscytacje.\n4. RKO: prowadz resuscytacje krazeniowo-oddechowa w schemacie 30:2 albo asynchronicznie, gdy zastosowano wymagany dostepny sprzet nadglosniowy do udroznienia drog oddechowych.\n5. AED: podlacz defibrylator AED i po jego uruchomieniu stosuj sie do polecen urzadzenia.\n6. UWAGI OPERACYJNE: karta dotyczy doroslych i zaklada wykorzystanie dostepnego AED oraz sprzetu nadglosniowego, jesli jest dostepny.",
-    "tagi_wspolne": [
-      "kpp",
-      "medyczne dzialania ratownicze",
-      "rko",
-      "resuscytacja"
-    ],
     "aliasy": [
       "rko dorosly kpp",
       "zatrzymanie krazenia dorosly",
       "procedura 3 kpp",
       "aed dorosly"
     ],
+    "prefix": "KPP procedura 3 — zatrzymanie krążenia u dorosłych: RKO 30:2 lub asynchroniczna, AED.",
+    "najpierw": [
+      {
+        "t": "Rozpoznanie miejsca zdarzenia i sekwencja medycznych działań ratowniczych (procedura 2).",
+        "zr": "KPP proc. 3",
+        "str": 1
+      },
+      {
+        "t": "Brak prawidłowego oddechu → RKO 30:2.",
+        "zr": "KPP proc. 3",
+        "str": 1
+      },
+      {
+        "t": "Defibrylator AED — po włączeniu stosuj się do jego poleceń.",
+        "zr": "KPP proc. 3",
+        "str": 1
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Uciśnięcia : oddechy",
+        "wartosc": "30:2",
+        "zr": "KPP proc. 3",
+        "str": 1
+      },
+      {
+        "nazwa": "RKO asynchroniczna",
+        "wartosc": "wymaga użycia dostępnego sprzętu nadgłośniowego do udrożnienia dróg oddechowych",
+        "zr": "KPP proc. 3",
+        "str": 1
+      }
+    ],
+    "sekcje": [],
+    "tagi_wspolne": [
+      "kpp",
+      "medyczne dzialania ratownicze",
+      "rko",
+      "resuscytacja"
+    ],
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-kpp-procedura-03",
         "strona": 1,
-        "sekcja": "Procedura nr 3 - Zatrzymanie krążenia u dorosłych (RKO)"
+        "sekcja": "Procedura nr 3"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: Rozpoznanie miejsca zdarzenia i sekwencja medycznych działań ratowniczych (procedura 2). Brak prawidłowego oddechu → RKO 30:2. Defibrylator AED — po włączeniu stosuj się do jego poleceń.\n2. PARAMETRY: Uciśnięcia : oddechy — 30:2; RKO asynchroniczna — wymaga użycia dostępnego sprzętu nadgłośniowego do udrożnienia dróg oddechowych"
   },
   {
     "id": "KARTA-KPP-RKO-DZIECI-NIEMOWLETA-NOWORODKI",
+    "wzorzec": 2,
     "kategoria": "dzialania",
-    "zrodlo": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 4",
-    "data_aktualizacji": "",
+    "grupa": "kpp",
+    "zrodlo": "KG PSP: Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy — Załącznik nr 1 do Zasad organizacji ratownictwa medycznego w KSRG (2021), Procedura 4.",
+    "data_aktualizacji": "2026-10-27",
     "slowo_kluczowe": "kpp rko dzieci",
     "keywords": [
       "rko niemowle kpp",
@@ -5039,27 +5245,60 @@
       "procedura 4 kpp",
       "aed dziecko"
     ],
-    "prefix": "KPP - zatrzymanie krazenia u dzieci, niemowlat i noworodkow zaraz po urodzeniu.",
-    "content": "1. KOD / NAZWA: Procedura 4 - zatrzymanie krazenia u dzieci, niemowlat i noworodkow zaraz po urodzeniu.\n2. START: wykonaj rozpoznanie miejsca zdarzenia i przejdz przez sekwencje medycznych dzialan ratowniczych z procedury 2.\n3. ROZPOZNANIE: przy braku prawidlowego oddechu wykonaj 5 oddechow ratowniczych.\n4. DZIECI I NIEMOWLETA: jezeli nadal brak oznak zycia, prowadz resuscytacje krazeniowo-oddechowa w schemacie 15:2 albo asynchronicznie, gdy zastosowano wymagany dostepny sprzet nadglosniowy do udroznienia drog oddechowych.\n5. NOWORODKI ZARAZ PO URODZENIU: prowadz resuscytacje krazeniowo-oddechowa w schemacie 3:1.\n6. AED: uzyj AED zgodnie z zaleceniami producenta i po uruchomieniu stosuj sie do polecen urzadzenia.\n7. UWAGI OPERACYJNE: karta rozroznia dzieci i niemowleta od noworodkow bezposrednio po urodzeniu, dla ktorych stosuje sie odrebny schemat ucisniec i oddechow.",
-    "tagi_wspolne": [
-      "kpp",
-      "medyczne dzialania ratownicze",
-      "rko",
-      "resuscytacja"
-    ],
     "aliasy": [
       "rko niemowle kpp",
       "rko noworodek kpp",
       "procedura 4 kpp",
       "aed dziecko"
     ],
+    "prefix": "KPP procedura 4 — zatrzymanie krążenia u dzieci i noworodków zaraz po urodzeniu: 5 oddechów, RKO 15:2 lub 3:1, AED.",
+    "najpierw": [
+      {
+        "t": "Rozpoznanie miejsca zdarzenia i sekwencja medycznych działań ratowniczych (procedura 2).",
+        "zr": "KPP proc. 4",
+        "str": 1
+      },
+      {
+        "t": "Brak prawidłowego oddechu → 5 oddechów ratowniczych.",
+        "zr": "KPP proc. 4",
+        "str": 1
+      },
+      {
+        "t": "Brak oznak życia → RKO wg wieku; AED zgodnie z zaleceniami producenta.",
+        "zr": "KPP proc. 4",
+        "str": 1
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Dzieci",
+        "wartosc": "RKO 15:2 lub asynchroniczna (z dostępnym sprzętem nadgłośniowym)",
+        "zr": "KPP proc. 4",
+        "str": 1
+      },
+      {
+        "nazwa": "Noworodki bezpośrednio po urodzeniu",
+        "wartosc": "RKO 3:1",
+        "zr": "KPP proc. 4",
+        "str": 1
+      }
+    ],
+    "sekcje": [],
+    "tagi_wspolne": [
+      "kpp",
+      "medyczne dzialania ratownicze",
+      "rko",
+      "resuscytacja"
+    ],
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-kpp-procedura-04",
         "strona": 1,
-        "sekcja": "Procedura nr 4 - Zatrzymanie krążenia u dzieci i noworodków (RKO)"
+        "sekcja": "Procedura nr 4"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: Rozpoznanie miejsca zdarzenia i sekwencja medycznych działań ratowniczych (procedura 2). Brak prawidłowego oddechu → 5 oddechów ratowniczych. Brak oznak życia → RKO wg wieku; AED zgodnie z zaleceniami producenta.\n2. PARAMETRY: Dzieci — RKO 15:2 lub asynchroniczna (z dostępnym sprzętem nadgłośniowym); Noworodki bezpośrednio po urodzeniu — RKO 3:1"
   },
   {
     "id": "KARTA-KPP-SCHEMAT-BADANIA-ABCDE",
@@ -5101,9 +5340,11 @@
   },
   {
     "id": "KARTA-KPP-SEKWENCJA-MEDYCZNYCH-DZIALAN-RATOWNICZYCH",
+    "wzorzec": 2,
     "kategoria": "dzialania",
-    "zrodlo": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 2",
-    "data_aktualizacji": "",
+    "grupa": "kpp",
+    "zrodlo": "KG PSP: Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy — Załącznik nr 1 do Zasad organizacji ratownictwa medycznego w KSRG (2021), Procedura 2.",
+    "data_aktualizacji": "2026-10-27",
     "slowo_kluczowe": "kpp sekwencja",
     "keywords": [
       "procedura 2 kpp",
@@ -5111,32 +5352,105 @@
       "kpp ocena poszkodowanego",
       "kwalifikowana pierwsza pomoc sekwencja"
     ],
-    "prefix": "KPP - sekwencja medycznych dzialan ratowniczych.",
-    "content": "1. KOD / NAZWA: Procedura 2 - sekwencja medycznych dzialan ratowniczych w KPP.\n2. START: ocen ogolne wrazenie i od poczatku zapewniaj wsparcie psychiczne poszkodowanemu.\n3. KROK 1 - RANA KRAWIACA LUB DRGAWKI: jezeli wystepuje rana krwawiaca, przejdz do procedury 5. Jezeli wystepuja drgawki, zabezpiecz poszkodowanego przed obrazeniami wtornymi, szczegolnie glowy.\n4. KROK 2 - SWIADOMOSC: ocen stan swiadomosci.\n5. KROK 3 - DROZNOSC DROG ODDECHOWYCH A: ocen droznosc drog oddechowych i w razie koniecznosci je udroznij, dobierajac sposob udroznienia do mechanizmu zdarzenia.\n6. KROK 4 - ODDECH B: ocen oddech. Jezeli brak prawidlowego oddechu, rozpocznij RKO wedlug procedury 3 lub 4. Jezeli oddech jest obecny, prowadz tlenoterapie wedlug wskazan.\n7. KROK 5 - KRAZENIE C: ocen krazenie.\n8. KROK 6 - WYWIAD I BADANIE: zbierz wywiad ratowniczy oraz ocen poszkodowanego pod katem istniejacych obrazen i dolegliwosci.\n9. KROK 7 - POSTEPOWANIE CELOWANE: wdroz postepowanie adekwatne do dolegliwosci i obrazen stwierdzonych u poszkodowanego.\n10. KROK 8 - WSTRZAS I TERMOIZOLACJA: przy objawach wstrzasu hipowolemicznego uloz poszkodowanego w pozycji lezacej na plasko. Zastosuj termoizolacje.\n11. KROK 9 - PONOWNA OCENA: regularnie oceniaj funkcje zyciowe i dostosowuj postepowanie do aktualnego stanu poszkodowanego.\n12. UWAGI OPERACYJNE: ta karta jest procedura nadrzedna i stanowi punkt wyjscia do kolejnych kart szczegolowych, m.in. RKO, ran, obrazen oraz stanow nieurazowych.",
-    "tagi_wspolne": [
-      "kpp",
-      "medyczne dzialania ratownicze",
-      "sekwencja medyczna"
-    ],
     "aliasy": [
       "procedura 2 kpp",
       "kpp abc",
       "kpp ocena poszkodowanego",
       "kwalifikowana pierwsza pomoc sekwencja"
     ],
+    "prefix": "KPP procedura 2 — sekwencja medycznych działań ratowniczych: ogólne wrażenie, ABC, wywiad, badanie, wstrząs, termoizolacja.",
+    "najpierw": [
+      {
+        "t": "Ocena ogólnego wrażenia: rana krwawiąca → procedura 5; drgawki → zabezpiecz przed obrażeniami wtórnymi, szczególnie głowy.",
+        "zr": "KPP proc. 2",
+        "str": 1
+      },
+      {
+        "t": "Brak prawidłowego oddechu → RKO, procedura 3 lub 4.",
+        "zr": "KPP proc. 2",
+        "str": 1
+      },
+      {
+        "t": "Wsparcie psychiczne przez cały czas działań.",
+        "zr": "KPP proc. 2",
+        "str": 1
+      }
+    ],
+    "parametry": [],
+    "sekcje": [
+      {
+        "etykieta": "Sekwencja",
+        "punkty": [
+          {
+            "t": "Ocena stanu świadomości.",
+            "zr": "KPP proc. 2",
+            "str": 1
+          },
+          {
+            "t": "(A) Drożność dróg oddechowych — udrożnij w razie potrzeby, sposobem dobranym do mechanizmu zdarzenia.",
+            "zr": "KPP proc. 2",
+            "str": 1
+          },
+          {
+            "t": "(B) Ocena oddechu; oddech obecny — tlenoterapia według wskazań.",
+            "zr": "KPP proc. 2",
+            "str": 1
+          },
+          {
+            "t": "(C) Ocena krążenia.",
+            "zr": "KPP proc. 2",
+            "str": 1
+          },
+          {
+            "t": "Wywiad ratowniczy; ocena pod kątem obrażeń i dolegliwości; postępowanie adekwatne do stwierdzonych.",
+            "zr": "KPP proc. 2",
+            "str": 1
+          }
+        ]
+      },
+      {
+        "etykieta": "Dalej",
+        "punkty": [
+          {
+            "t": "Objawy wstrząsu hipowolemicznego → pozycja leżąca na płasko.",
+            "zr": "KPP proc. 2",
+            "str": 1
+          },
+          {
+            "t": "Termoizolacja.",
+            "zr": "KPP proc. 2",
+            "str": 1
+          },
+          {
+            "t": "Regularna ocena funkcji życiowych i postępowanie adekwatne do stanu.",
+            "zr": "KPP proc. 2",
+            "str": 1
+          }
+        ]
+      }
+    ],
+    "tagi_wspolne": [
+      "kpp",
+      "medyczne dzialania ratownicze",
+      "sekwencja medyczna"
+    ],
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-kpp-procedura-02",
         "strona": 1,
-        "sekcja": "Procedura nr 2 - Sekwencja medycznych działań ratowniczych"
+        "sekcja": "Procedura nr 2"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: Ocena ogólnego wrażenia: rana krwawiąca → procedura 5; drgawki → zabezpiecz przed obrażeniami wtórnymi, szczególnie głowy. Brak prawidłowego oddechu → RKO, procedura 3 lub 4. Wsparcie psychiczne przez cały czas działań.\n2. SEKWENCJA: Ocena stanu świadomości. (A) Drożność dróg oddechowych — udrożnij w razie potrzeby, sposobem dobranym do mechanizmu zdarzenia. (B) Ocena oddechu; oddech obecny — tlenoterapia według wskazań. (C) Ocena krążenia. Wywiad ratowniczy; ocena pod kątem obrażeń i dolegliwości; postępowanie adekwatne do stwierdzonych.\n3. DALEJ: Objawy wstrząsu hipowolemicznego → pozycja leżąca na płasko. Termoizolacja. Regularna ocena funkcji życiowych i postępowanie adekwatne do stanu."
   },
   {
     "id": "KARTA-KPP-SEKWENCJA-ZALOZEN-TAKTYCZNYCH",
+    "wzorzec": 2,
     "kategoria": "dzialania",
-    "zrodlo": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 1",
-    "data_aktualizacji": "",
+    "grupa": "kpp",
+    "zrodlo": "KG PSP: Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy — Załącznik nr 1 do Zasad organizacji ratownictwa medycznego w KSRG (2021), Procedura 1.",
+    "data_aktualizacji": "2026-10-27",
     "slowo_kluczowe": "kpp taktyczne",
     "keywords": [
       "sekwencja zalozen taktycznych",
@@ -5144,26 +5458,72 @@
       "rozpoznanie miejsca zdarzenia kpp",
       "kpp dotarcie do poszkodowanego"
     ],
-    "prefix": "KPP - sekwencja zalozen taktycznych w ratownictwie medycznym.",
-    "content": "1. KOD / NAZWA: Procedura 1 - sekwencja zalozen taktycznych w ratownictwie medycznym.\n2. PRZYBYCIE NA MIEJSCE: rozpocznij od przybycia na miejsce zdarzenia i wykonania rozpoznania.\n3. ROZPOZNANIE MIEJSCA ZDARZENIA: uwzglednij zabezpieczenie ratownikow, identyfikacje zagrozen, liczbe poszkodowanych, potrzebne dodatkowe sily i srodki oraz mechanizm zdarzenia.\n4. DOTARCIE DO POSZKODOWANEGO: po ocenie sytuacji podejmij probe bezpiecznego dotarcia do poszkodowanego.\n5. DOSTEP LUB EWAKUACJA: jezeli jest to konieczne, wykonaj dostep do poszkodowanego, a nastepnie podejmij medyczne dzialania ratownicze. Jezeli warunki na to pozwalaja, podejmij medyczne dzialania ratownicze i przygotuj poszkodowanego do ewakuacji.\n6. BRAK MOZLIWOSCI DZIALANIA: gdy medyczne dzialania ratownicze nie moga zostac podjete, postepuj zgodnie z zasadami organizacji ratownictwa medycznego w ksrg wskazanymi w zalaczniku nr 10.\n7. MELDUNEK: na kazdym kluczowym etapie zloz meldunek do Kierujacego Dzialaniem Ratowniczym.\n8. UWAGI OPERACYJNE: karta porzadkuje decyzje taktyczne przed rozpoczeciem szczegolowych medycznych dzialan ratowniczych.",
-    "tagi_wspolne": [
-      "kpp",
-      "medyczne dzialania ratownicze",
-      "zalozenia taktyczne"
-    ],
     "aliasy": [
       "sekwencja zalozen taktycznych",
       "procedura 1 kpp",
       "rozpoznanie miejsca zdarzenia kpp",
       "kpp dotarcie do poszkodowanego"
     ],
+    "prefix": "KPP procedura 1 — sekwencja założeń taktycznych w ratownictwie medycznym: rozpoznanie, dotarcie, wariant działań, meldunek do KDR.",
+    "najpierw": [
+      {
+        "t": "Rozpoznanie miejsca zdarzenia: zabezpieczenie ratowników, identyfikacja zagrożeń, liczba poszkodowanych, potrzebne dodatkowe siły i środki, mechanizm zdarzenia.",
+        "zr": "KPP proc. 1",
+        "str": 1
+      },
+      {
+        "t": "Dotarcie do poszkodowanego.",
+        "zr": "KPP proc. 1",
+        "str": 1
+      },
+      {
+        "t": "Po wybranym wariancie — meldunek do Kierującego Działaniem Ratowniczym.",
+        "zr": "KPP proc. 1",
+        "str": 1
+      }
+    ],
+    "parametry": [],
+    "sekcje": [
+      {
+        "etykieta": "Warianty po dotarciu",
+        "punkty": [
+          {
+            "t": "Ewakuacja i podjęcie medycznych działań ratowniczych.",
+            "zr": "KPP proc. 1",
+            "str": 1
+          },
+          {
+            "t": "Wykonanie dostępu do poszkodowanego i podjęcie medycznych działań ratowniczych.",
+            "zr": "KPP proc. 1",
+            "str": 1
+          },
+          {
+            "t": "Podjęcie medycznych działań ratowniczych i przygotowanie do ewakuacji.",
+            "zr": "KPP proc. 1",
+            "str": 1
+          },
+          {
+            "t": "Niepodjęcie medycznych działań ratowniczych — wg Zasad organizacji ratownictwa medycznego w KSRG, załącznik nr 10.",
+            "zr": "KPP proc. 1",
+            "str": 1
+          }
+        ]
+      }
+    ],
+    "tagi_wspolne": [
+      "kpp",
+      "medyczne dzialania ratownicze",
+      "zalozenia taktyczne"
+    ],
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-kpp-procedura-01",
         "strona": 1,
-        "sekcja": "Procedura nr 1 - Sekwencja założeń taktycznych w ratownictwie medycznym"
+        "sekcja": "Procedura nr 1"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: Rozpoznanie miejsca zdarzenia: zabezpieczenie ratowników, identyfikacja zagrożeń, liczba poszkodowanych, potrzebne dodatkowe siły i środki, mechanizm zdarzenia. Dotarcie do poszkodowanego. Po wybranym wariancie — meldunek do Kierującego Działaniem Ratowniczym.\n2. WARIANTY PO DOTARCIU: Ewakuacja i podjęcie medycznych działań ratowniczych. Wykonanie dostępu do poszkodowanego i podjęcie medycznych działań ratowniczych. Podjęcie medycznych działań ratowniczych i przygotowanie do ewakuacji. Niepodjęcie medycznych działań ratowniczych — wg Zasad organizacji ratownictwa medycznego w KSRG, załącznik nr 10."
   },
   {
     "id": "KARTA-KPP-TONIECIE",

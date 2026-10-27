@@ -1,8 +1,10 @@
 {
   "id": "KARTA-KPP-AMPUTACJA-URAZOWA",
+  "wzorzec": 2,
   "kategoria": "dzialania",
-  "zrodlo": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 6",
-  "data_aktualizacji": "",
+  "grupa": "kpp",
+  "zrodlo": "KG PSP: Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy — Załącznik nr 1 do Zasad organizacji ratownictwa medycznego w KSRG (2021), Procedura 6.",
+  "data_aktualizacji": "2026-10-27",
   "slowo_kluczowe": "amputacja urazowa kpp",
   "keywords": [
     "kikut kpp",
@@ -10,25 +12,85 @@
     "procedura 6 kpp",
     "amputacja czesciowa kpp"
   ],
-  "prefix": "KPP - amputacja urazowa.",
-  "content": "1. KOD / NAZWA: Procedura 6 - amputacja urazowa.\n2. START: wykonaj rozpoznanie miejsca zdarzenia oraz sekwencje medycznych dzialan ratowniczych z procedury 2.\n3. AMPUTACJA CZESCIOWA: zaloz opatrunek jalowy zwilzony sola fizjologiczna i unieruchom konczyne.\n4. KIKUT I KRWAWIENIE: jezeli rana krwawi, postepuj zgodnie z procedura 5 dotyczaca ran krwawiacych.\n5. ODNALEZIONA AMPUTOWANA CZESC CIALA: owin ja w sucha gaze jalowa, umiesc w szczelnym worku plastikowym, wycisnij powietrze, a nastepnie umiesc worek w pojemniku wypelnionym zimna woda, w miare mozliwosci z dodatkiem lodu.\n6. PRZEKAZANIE: amputowana czesc ciala powinna zostac przekazana Zespolowi Ratownictwa Medycznego.\n7. UWAGI OPERACYJNE: karta rozroznia amputacje calkowita i czesciowa, ale w obu przypadkach kluczowe jest opanowanie krwawienia i zabezpieczenie amputowanej czesci ciala.",
-  "tagi_wspolne": [
-    "kpp",
-    "medyczne dzialania ratownicze",
-    "amputacja",
-    "uraz"
-  ],
   "aliasy": [
     "kikut kpp",
     "amputowana czesc ciala kpp",
     "procedura 6 kpp",
     "amputacja czesciowa kpp"
   ],
+  "prefix": "KPP procedura 6 — amputacja urazowa całkowita i częściowa: kikut, amputowana część, przekazanie ZRM.",
+  "najpierw": [
+    {
+      "t": "Rozpoznanie miejsca zdarzenia i procedura 2.",
+      "zr": "KPP proc. 6",
+      "str": 1
+    },
+    {
+      "t": "Kikut po amputacji całkowitej → postępowanie jak przy ranie krwawiącej (procedura 5).",
+      "zr": "KPP proc. 6",
+      "str": 1
+    }
+  ],
+  "parametry": [],
+  "sekcje": [
+    {
+      "etykieta": "Amputacja całkowita — amputowana część",
+      "punkty": [
+        {
+          "t": "Owiń w suchą gazę jałową.",
+          "zr": "KPP proc. 6",
+          "str": 1
+        },
+        {
+          "t": "Umieść w szczelnym worku plastikowym, wyciśnij powietrze.",
+          "zr": "KPP proc. 6",
+          "str": 1
+        },
+        {
+          "t": "Worek włóż do pojemnika z zimną wodą, w miarę możliwości z lodem.",
+          "zr": "KPP proc. 6",
+          "str": 1
+        },
+        {
+          "t": "Przekaż Zespołowi Ratownictwa Medycznego.",
+          "zr": "KPP proc. 6",
+          "str": 1
+        }
+      ]
+    },
+    {
+      "etykieta": "Amputacja częściowa",
+      "punkty": [
+        {
+          "t": "Opatrunek jałowy zwilżony solą fizjologiczną.",
+          "zr": "KPP proc. 6",
+          "str": 1
+        },
+        {
+          "t": "Rana krwawiąca → procedura 5.",
+          "zr": "KPP proc. 6",
+          "str": 1
+        },
+        {
+          "t": "Unieruchom kończynę.",
+          "zr": "KPP proc. 6",
+          "str": 1
+        }
+      ]
+    }
+  ],
+  "tagi_wspolne": [
+    "kpp",
+    "medyczne dzialania ratownicze",
+    "amputacja",
+    "uraz"
+  ],
   "dokumenty_zrodlowe": [
     {
       "dokument_id": "doc-kpp-procedura-06",
       "strona": 1,
-      "sekcja": "Procedura nr 6 - Amputacja urazowa"
+      "sekcja": "Procedura nr 6"
     }
-  ]
+  ],
+  "data_przegladu": "2026-10-27"
 }

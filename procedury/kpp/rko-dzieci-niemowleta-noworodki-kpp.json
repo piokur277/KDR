@@ -1,8 +1,10 @@
 {
   "id": "KARTA-KPP-RKO-DZIECI-NIEMOWLETA-NOWORODKI",
+  "wzorzec": 2,
   "kategoria": "dzialania",
-  "zrodlo": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 4",
-  "data_aktualizacji": "",
+  "grupa": "kpp",
+  "zrodlo": "KG PSP: Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy — Załącznik nr 1 do Zasad organizacji ratownictwa medycznego w KSRG (2021), Procedura 4.",
+  "data_aktualizacji": "2026-10-27",
   "slowo_kluczowe": "kpp rko dzieci",
   "keywords": [
     "rko niemowle kpp",
@@ -10,25 +12,57 @@
     "procedura 4 kpp",
     "aed dziecko"
   ],
-  "prefix": "KPP - zatrzymanie krazenia u dzieci, niemowlat i noworodkow zaraz po urodzeniu.",
-  "content": "1. KOD / NAZWA: Procedura 4 - zatrzymanie krazenia u dzieci, niemowlat i noworodkow zaraz po urodzeniu.\n2. START: wykonaj rozpoznanie miejsca zdarzenia i przejdz przez sekwencje medycznych dzialan ratowniczych z procedury 2.\n3. ROZPOZNANIE: przy braku prawidlowego oddechu wykonaj 5 oddechow ratowniczych.\n4. DZIECI I NIEMOWLETA: jezeli nadal brak oznak zycia, prowadz resuscytacje krazeniowo-oddechowa w schemacie 15:2 albo asynchronicznie, gdy zastosowano wymagany dostepny sprzet nadglosniowy do udroznienia drog oddechowych.\n5. NOWORODKI ZARAZ PO URODZENIU: prowadz resuscytacje krazeniowo-oddechowa w schemacie 3:1.\n6. AED: uzyj AED zgodnie z zaleceniami producenta i po uruchomieniu stosuj sie do polecen urzadzenia.\n7. UWAGI OPERACYJNE: karta rozroznia dzieci i niemowleta od noworodkow bezposrednio po urodzeniu, dla ktorych stosuje sie odrebny schemat ucisniec i oddechow.",
-  "tagi_wspolne": [
-    "kpp",
-    "medyczne dzialania ratownicze",
-    "rko",
-    "resuscytacja"
-  ],
   "aliasy": [
     "rko niemowle kpp",
     "rko noworodek kpp",
     "procedura 4 kpp",
     "aed dziecko"
   ],
+  "prefix": "KPP procedura 4 — zatrzymanie krążenia u dzieci i noworodków zaraz po urodzeniu: 5 oddechów, RKO 15:2 lub 3:1, AED.",
+  "najpierw": [
+    {
+      "t": "Rozpoznanie miejsca zdarzenia i sekwencja medycznych działań ratowniczych (procedura 2).",
+      "zr": "KPP proc. 4",
+      "str": 1
+    },
+    {
+      "t": "Brak prawidłowego oddechu → 5 oddechów ratowniczych.",
+      "zr": "KPP proc. 4",
+      "str": 1
+    },
+    {
+      "t": "Brak oznak życia → RKO wg wieku; AED zgodnie z zaleceniami producenta.",
+      "zr": "KPP proc. 4",
+      "str": 1
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "Dzieci",
+      "wartosc": "RKO 15:2 lub asynchroniczna (z dostępnym sprzętem nadgłośniowym)",
+      "zr": "KPP proc. 4",
+      "str": 1
+    },
+    {
+      "nazwa": "Noworodki bezpośrednio po urodzeniu",
+      "wartosc": "RKO 3:1",
+      "zr": "KPP proc. 4",
+      "str": 1
+    }
+  ],
+  "sekcje": [],
+  "tagi_wspolne": [
+    "kpp",
+    "medyczne dzialania ratownicze",
+    "rko",
+    "resuscytacja"
+  ],
   "dokumenty_zrodlowe": [
     {
       "dokument_id": "doc-kpp-procedura-04",
       "strona": 1,
-      "sekcja": "Procedura nr 4 - Zatrzymanie krążenia u dzieci i noworodków (RKO)"
+      "sekcja": "Procedura nr 4"
     }
-  ]
+  ],
+  "data_przegladu": "2026-10-27"
 }

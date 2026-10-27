@@ -1,8 +1,10 @@
 {
   "id": "KARTA-KPP-RANY",
+  "wzorzec": 2,
   "kategoria": "dzialania",
-  "zrodlo": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 5",
-  "data_aktualizacji": "",
+  "grupa": "kpp",
+  "zrodlo": "KG PSP: Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy — Załącznik nr 1 do Zasad organizacji ratownictwa medycznego w KSRG (2021), Procedura 5.",
+  "data_aktualizacji": "2026-10-27",
   "slowo_kluczowe": "rany kpp",
   "keywords": [
     "rana krwawiaca kpp",
@@ -10,25 +12,90 @@
     "procedura 5 kpp",
     "opatrunek uciskowy kpp"
   ],
-  "prefix": "KPP - postepowanie przy ranach.",
-  "content": "1. KOD / NAZWA: Procedura 5 - rany.\n2. START: wykonaj rozpoznanie miejsca zdarzenia i sekwencje medycznych dzialan ratowniczych z procedury 2, a nastepnie uwidocznij rane.\n3. RANA NIEKRWAWIACA: zaloz opatrunek oslaniajacy.\n4. RANA KRWAWIACA: zaloz opatrunek uciskowy, niezaleznie od tego, czy rana znajduje sie na konczynie, czy w innej okolicy ciala.\n5. JEZELI KRWOTOK NIE USTAJE: zastosuj opaske zaciskowa.\n6. JEZELI BRAK OPASKI ZACISKOWEJ: wykonaj miejscowe ucisniecie rany oraz ucisk na duza tetnice.\n7. DODATKOWO: w miare mozliwosci unieruchom uszkodzona okolice.\n8. UWAGI OPERACYJNE: najwazniejsze jest szybkie rozroznienie, czy rana krwawi, i niezwloczne przejscie do tamowania krwotoku.",
-  "tagi_wspolne": [
-    "kpp",
-    "medyczne dzialania ratownicze",
-    "rany",
-    "uraz"
-  ],
   "aliasy": [
     "rana krwawiaca kpp",
     "opaska zaciskowa kpp",
     "procedura 5 kpp",
     "opatrunek uciskowy kpp"
   ],
+  "prefix": "KPP procedura 5 — rany: opatrunek osłaniający, uciskowy, opaska zaciskowa, ucisk tętnicy lub miejscowy ucisk rany.",
+  "najpierw": [
+    {
+      "t": "Rozpoznanie miejsca zdarzenia i procedura 2; uwidocznij ranę.",
+      "zr": "KPP proc. 5",
+      "str": 1
+    },
+    {
+      "t": "Rana niekrwawiąca → opatrunek osłaniający.",
+      "zr": "KPP proc. 5",
+      "str": 1
+    },
+    {
+      "t": "Rana krwawiąca → opatrunek uciskowy.",
+      "zr": "KPP proc. 5",
+      "str": 1
+    }
+  ],
+  "parametry": [],
+  "sekcje": [
+    {
+      "etykieta": "Rana krwawiąca — kończyna",
+      "punkty": [
+        {
+          "t": "Opatrunek uciskowy.",
+          "zr": "KPP proc. 5",
+          "str": 1
+        },
+        {
+          "t": "Krwotok nie ustaje → opaska zaciskowa.",
+          "zr": "KPP proc. 5",
+          "str": 1
+        },
+        {
+          "t": "Brak opaski zaciskowej → ucisk na dużą tętnicę.",
+          "zr": "KPP proc. 5",
+          "str": 1
+        }
+      ]
+    },
+    {
+      "etykieta": "Rana krwawiąca — inna okolica ciała",
+      "punkty": [
+        {
+          "t": "Opatrunek uciskowy.",
+          "zr": "KPP proc. 5",
+          "str": 1
+        },
+        {
+          "t": "Nie można go założyć → miejscowe uciśnięcie rany.",
+          "zr": "KPP proc. 5",
+          "str": 1
+        }
+      ]
+    },
+    {
+      "etykieta": "Dalej",
+      "punkty": [
+        {
+          "t": "W miarę możliwości unieruchom uszkodzoną okolicę.",
+          "zr": "KPP proc. 5",
+          "str": 1
+        }
+      ]
+    }
+  ],
+  "tagi_wspolne": [
+    "kpp",
+    "medyczne dzialania ratownicze",
+    "rany",
+    "uraz"
+  ],
   "dokumenty_zrodlowe": [
     {
       "dokument_id": "doc-kpp-procedura-05",
       "strona": 1,
-      "sekcja": "Procedura nr 5 - Rany"
+      "sekcja": "Procedura nr 5"
     }
-  ]
+  ],
+  "data_przegladu": "2026-10-27"
 }

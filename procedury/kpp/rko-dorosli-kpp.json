@@ -1,8 +1,10 @@
 {
   "id": "KARTA-KPP-RKO-DOROSLI",
+  "wzorzec": 2,
   "kategoria": "dzialania",
-  "zrodlo": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 3",
-  "data_aktualizacji": "",
+  "grupa": "kpp",
+  "zrodlo": "KG PSP: Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy — Załącznik nr 1 do Zasad organizacji ratownictwa medycznego w KSRG (2021), Procedura 3.",
+  "data_aktualizacji": "2026-10-27",
   "slowo_kluczowe": "kpp rko dorosli",
   "keywords": [
     "rko dorosly kpp",
@@ -10,25 +12,57 @@
     "procedura 3 kpp",
     "aed dorosly"
   ],
-  "prefix": "KPP - zatrzymanie krazenia u doroslych.",
-  "content": "1. KOD / NAZWA: Procedura 3 - zatrzymanie krazenia u doroslych.\n2. START: wykonaj rozpoznanie miejsca zdarzenia i przejdz przez sekwencje medycznych dzialan ratowniczych z procedury 2.\n3. ROZPOZNANIE: jezeli stwierdzasz brak prawidlowego oddechu, rozpocznij resuscytacje.\n4. RKO: prowadz resuscytacje krazeniowo-oddechowa w schemacie 30:2 albo asynchronicznie, gdy zastosowano wymagany dostepny sprzet nadglosniowy do udroznienia drog oddechowych.\n5. AED: podlacz defibrylator AED i po jego uruchomieniu stosuj sie do polecen urzadzenia.\n6. UWAGI OPERACYJNE: karta dotyczy doroslych i zaklada wykorzystanie dostepnego AED oraz sprzetu nadglosniowego, jesli jest dostepny.",
-  "tagi_wspolne": [
-    "kpp",
-    "medyczne dzialania ratownicze",
-    "rko",
-    "resuscytacja"
-  ],
   "aliasy": [
     "rko dorosly kpp",
     "zatrzymanie krazenia dorosly",
     "procedura 3 kpp",
     "aed dorosly"
   ],
+  "prefix": "KPP procedura 3 — zatrzymanie krążenia u dorosłych: RKO 30:2 lub asynchroniczna, AED.",
+  "najpierw": [
+    {
+      "t": "Rozpoznanie miejsca zdarzenia i sekwencja medycznych działań ratowniczych (procedura 2).",
+      "zr": "KPP proc. 3",
+      "str": 1
+    },
+    {
+      "t": "Brak prawidłowego oddechu → RKO 30:2.",
+      "zr": "KPP proc. 3",
+      "str": 1
+    },
+    {
+      "t": "Defibrylator AED — po włączeniu stosuj się do jego poleceń.",
+      "zr": "KPP proc. 3",
+      "str": 1
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "Uciśnięcia : oddechy",
+      "wartosc": "30:2",
+      "zr": "KPP proc. 3",
+      "str": 1
+    },
+    {
+      "nazwa": "RKO asynchroniczna",
+      "wartosc": "wymaga użycia dostępnego sprzętu nadgłośniowego do udrożnienia dróg oddechowych",
+      "zr": "KPP proc. 3",
+      "str": 1
+    }
+  ],
+  "sekcje": [],
+  "tagi_wspolne": [
+    "kpp",
+    "medyczne dzialania ratownicze",
+    "rko",
+    "resuscytacja"
+  ],
   "dokumenty_zrodlowe": [
     {
       "dokument_id": "doc-kpp-procedura-03",
       "strona": 1,
-      "sekcja": "Procedura nr 3 - Zatrzymanie krążenia u dorosłych (RKO)"
+      "sekcja": "Procedura nr 3"
     }
-  ]
+  ],
+  "data_przegladu": "2026-10-27"
 }
