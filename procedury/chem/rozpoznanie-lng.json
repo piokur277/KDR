@@ -1,0 +1,148 @@
+{
+  "id": "KARTA-CHEM-LNG-ROZPOZNANIE",
+  "wzorzec": 2,
+  "kategoria": "dzialania",
+  "grupa": "cbrn",
+  "zrodlo": "KG PSP: Standardowe zasady postępowania podczas zdarzeń z udziałem skroplonego gazu ziemnego (LNG), wydanie I, grudzień 2025.",
+  "data_aktualizacji": "2026-10-27",
+  "slowo_kluczowe": "rozpoznanie lng",
+  "keywords": [
+    "rozpoznanie cysterny lng",
+    "un 1972",
+    "oznakowanie cysterny lng",
+    "dojazd do cysterny lng",
+    "wlasciwosci lng"
+  ],
+  "aliasy": [
+    "rozpoznanie cysterny lng",
+    "un 1972",
+    "oznakowanie cysterny lng",
+    "dojazd do cysterny lng",
+    "wlasciwosci lng"
+  ],
+  "prefix": "LNG — rozpoznanie i dojazd do zdarzenia z cysterną skroplonego gazu ziemnego; właściwości i zagrożenia (SZP KG PSP 2025).",
+  "najpierw": [
+    {
+      "t": "Zatrzymaj pojazdy w bezpiecznej odległości — co najmniej 150 m (zagrożenie wybuchem).",
+      "zr": "SZP LNG 2025",
+      "str": 3
+    },
+    {
+      "t": "Dojeżdżaj w miarę możliwości z wiatrem; zapewnij możliwość wycofania sił.",
+      "zr": "SZP LNG 2025",
+      "str": 3
+    },
+    {
+      "t": "Widoczna chmura nie jest granicą strefy niebezpiecznej — ta jest znacznie większa.",
+      "zr": "SZP LNG 2025",
+      "str": 2
+    },
+    {
+      "t": "Planuj rozwój sytuacji na najbliższe 10 minut.",
+      "zr": "SZP LNG 2025",
+      "str": 4
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "Oznakowanie",
+      "wartosc": "UN 1972 — schłodzony, skroplony gaz ziemny o wysokiej zawartości metanu",
+      "zr": "SZP LNG 2025",
+      "str": 3
+    },
+    {
+      "nazwa": "Transport",
+      "wartosc": "ok. −162°C, ok. 2 bar; zbiornik dwupłaszczowy z próżnią",
+      "zr": "SZP LNG 2025",
+      "str": 2
+    },
+    {
+      "nazwa": "Ciecz → gaz",
+      "wartosc": "1 m³ LNG = 600 m³ gazu",
+      "zr": "SZP LNG 2025",
+      "str": 1
+    },
+    {
+      "nazwa": "Granice wybuchowości",
+      "wartosc": "ok. 4,3–16,2% obj.",
+      "zr": "SZP LNG 2025",
+      "str": 1
+    },
+    {
+      "nazwa": "Pary",
+      "wartosc": "zimne pary cięższe od powietrza (ścielą się, zalegają w zagłębieniach); powyżej ok. −112°C lżejsze",
+      "zr": "SZP LNG 2025",
+      "str": 2
+    }
+  ],
+  "sekcje": [
+    {
+      "etykieta": "Rozpoznanie",
+      "punkty": [
+        {
+          "t": "Przed dojazdem zbierz informacje o substancji; poproś o karty charakterystyki.",
+          "zr": "SZP LNG 2025",
+          "str": 3
+        },
+        {
+          "t": "Uwzględnij pogodę, ukształtowanie terenu i infrastrukturę.",
+          "zr": "SZP LNG 2025",
+          "str": 3
+        },
+        {
+          "t": "Zbierz informacje od personelu, uczestników i świadków.",
+          "zr": "SZP LNG 2025",
+          "str": 3
+        },
+        {
+          "t": "Oceń stan zbiorników z dystansu (lornetka, aparat); szukaj źródeł ognia w pobliżu.",
+          "zr": "SZP LNG 2025",
+          "str": 3
+        },
+        {
+          "t": "Kamera termowizyjna: miejscowe obniżenie temperatury cysterny = możliwe rozszczelnienie zbiornika wewnętrznego.",
+          "zr": "SZP LNG 2025",
+          "str": 4
+        }
+      ]
+    },
+    {
+      "etykieta": "Zagrożenia",
+      "punkty": [
+        {
+          "t": "Odmrożenia, poparzenia, wybuch, uduszenie; LNG wypiera tlen — ODO i tlenomierze.",
+          "zr": "SZP LNG 2025",
+          "str": 2
+        },
+        {
+          "t": "Kontakt z cieczą lub wychłodzonymi elementami — ubranie specjalne i rękawice kriogeniczne.",
+          "zr": "SZP LNG 2025",
+          "str": 2
+        },
+        {
+          "t": "Rollover oraz gwałtowne przejście fazowe przy kontakcie LNG z wodą (RPT).",
+          "zr": "SZP LNG 2025",
+          "str": 2
+        },
+        {
+          "t": "Ogrzanie cysterny powoduje gwałtowny wzrost ciśnienia.",
+          "zr": "SZP LNG 2025",
+          "str": 2
+        }
+      ]
+    }
+  ],
+  "tagi_wspolne": [
+    "lng",
+    "gaz skroplony",
+    "cysterna lng"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-lng-2025",
+      "strona": 1,
+      "sekcja": "Właściwości i niebezpieczeństwa (s. 1–2), rozpoznanie (s. 3–4)"
+    }
+  ],
+  "data_przegladu": "2026-10-27"
+}

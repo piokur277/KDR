@@ -1369,9 +1369,11 @@
   },
   {
     "id": "KARTA-CHEM-Z1-LNG-POZAR-ZEW",
+    "wzorzec": 2,
     "kategoria": "dzialania",
-    "zrodlo": "Zasady postepowania podczas zdarzen z LNG, KG PSP",
-    "data_aktualizacji": "2025-12",
+    "grupa": "cbrn",
+    "zrodlo": "KG PSP: Standardowe zasady postępowania podczas zdarzeń z udziałem skroplonego gazu ziemnego (LNG), wydanie I, grudzień 2025.",
+    "data_aktualizacji": "2026-10-27",
     "slowo_kluczowe": "pozar zewnetrzny cysterny lng",
     "keywords": [
       "pozar cysterny lng",
@@ -1384,14 +1386,6 @@
       "chlodzenie cysterny lng",
       "skroplony gaz ziemny"
     ],
-    "prefix": "Karta Z1 - Pozar zewnetrzny podgrzewajacy cysterne LNG bez wycieku gazu.",
-    "content": "1. KOD / NAZWA: LNG Z1 - pozar zewnetrzny podgrzewajacy cysterne LNG bez wycieku gazu.\n2. ROZPOZNANIE: dokonaj rozpoznania zza tarczy balistycznej, oceniajac wskazania aparatury oraz widoczne uszkodzenia cysterny.\n3. STREFA: wyznacz strefe ewakuacji dla osob postronnych 1,5 km oraz strefe zagrozenia dla ratownikow 300 m.\n4. SOI: w przekazanej procedurze nie wskazano osobnego zestawu SOI; kluczowe jest prowadzenie rozpoznania zza oslony i utrzymywanie bezpiecznego dystansu.\n5. DZIALANIA KRYTYCZNE: natychmiast rozpocznij intensywne chlodzenie bezobslugowymi pradami wody o wydajnosci co najmniej 10 l/min/m2, ale tylko wtedy, gdy powloka cysterny jest nienaruszona.\n6. PROCEDURA SZCZEGOLOWA: chlodzenie uznaje sie za skuteczne, gdy podawana woda nie odparowuje z powierzchni. Kontroluj temperature plaszcza pirometrem lub kamera termowizyjna. Jezeli widoczne sa uszkodzenia armatury, uszczelnij wyciek przy uzyciu klinow lub wlokniny i wezwij SPOT do przepompowania LNG. Pozar zewnetrzny gas po ustabilizowaniu sytuacji, a po zgasnieciu plomienia kontynuuj chlodzenie cysterny jeszcze przez 10-15 minut.\n7. CO MOZE POJSC NIE TAK: jesli woda odparowuje z powierzchni, widoczne sa odksztalcenia, slychac dudnienie lub syczenie albo zadzialal zawor bezpieczenstwa, oznacza to krytyczny wzrost zagrozenia.\n8. UWAGI OPERACYJNE: w sytuacji krytycznej natychmiast wycofaj ratownikow na bezpieczna odleglosc, pozostawiajac dzialka bezobslugowe.",
-    "tagi_wspolne": [
-      "lng",
-      "gaz skroplony",
-      "cysterna lng",
-      "pozar"
-    ],
     "aliasy": [
       "pozar cysterny lng",
       "pozar zewnetrzny lng",
@@ -1403,19 +1397,135 @@
       "chlodzenie cysterny lng",
       "skroplony gaz ziemny"
     ],
+    "prefix": "LNG Z1 — pożar zewnętrzny podgrzewający cysternę LNG (bez spalania LNG): strefy 1,5 km i 300 m, chłodzenie 10 l/min/m² (SZP KG PSP 2025).",
+    "najpierw": [
+      {
+        "t": "Strefa ewakuacji osób postronnych 1,5 km; strefa zagrożenia dla ratowników 300 m.",
+        "zr": "SZP LNG 2025",
+        "str": 5
+      },
+      {
+        "t": "Równocześnie z rozpoznaniem intensywnie chłodź zbiornik dużą ilością wody ze stanowisk bezobsługowych.",
+        "zr": "SZP LNG 2025",
+        "str": 5
+      },
+      {
+        "t": "Rozpoznanie zza tarczy balistycznej: miejsce i faza wycieku, możliwość odcięcia wypływu, poziomowskaz, ciśnieniomierz, temperatura fazy ciekłej, tabliczka znamionowa, pogoda i teren.",
+        "zr": "SZP LNG 2025",
+        "str": 5
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "BLEVE / fireball",
+        "wartosc": "możliwy po ok. 45 min podgrzewania (przy sprawnych zaworach bezpieczeństwa); mało prawdopodobny dzięki izolacji",
+        "zr": "SZP LNG 2025",
+        "str": 5
+      },
+      {
+        "nazwa": "Chłodzenie",
+        "wartosc": "10 l/min na m² zbiornika — tylko gdy powłoka zewnętrzna jest nienaruszona, a ciepło pochodzi z zewnątrz",
+        "zr": "SZP LNG 2025",
+        "str": 5
+      },
+      {
+        "nazwa": "Skuteczne chłodzenie",
+        "wartosc": "woda nie odparowuje z powierzchni zbiornika",
+        "zr": "SZP LNG 2025",
+        "str": 5
+      },
+      {
+        "nazwa": "Po zgaszeniu",
+        "wartosc": "chłodź cysternę jeszcze ok. 10–15 min",
+        "zr": "SZP LNG 2025",
+        "str": 6
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Kontrola chłodzenia",
+        "punkty": [
+          {
+            "t": "Kontroluj temperaturę powłoki zewnętrznej pirometrem lub kamerą termowizyjną.",
+            "zr": "SZP LNG 2025",
+            "str": 5
+          },
+          {
+            "t": "Ścianka sucha (nad poziomem cieczy) nagrzewa się szybciej; stal traci wytrzymałość powyżej 400°C.",
+            "zr": "SZP LNG 2025",
+            "str": 5
+          },
+          {
+            "t": "Zawór bezpieczeństwa w strefie fazy ciekłej wyrzuca ciecz.",
+            "zr": "SZP LNG 2025",
+            "str": 5
+          }
+        ]
+      },
+      {
+        "etykieta": "Chłodzenie nieskuteczne — wycofaj ratowników",
+        "punkty": [
+          {
+            "t": "Oznaki: woda odparowuje, odkształcenia płaszcza, drgania cysterny, dudnienie lub syczenie, zadziałanie zaworu bezpieczeństwa.",
+            "zr": "SZP LNG 2025",
+            "str": 5
+          },
+          {
+            "t": "Rozważ wycofanie ratowników i dalsze chłodzenie prądami bezobsługowymi (działka).",
+            "zr": "SZP LNG 2025",
+            "str": 5
+          }
+        ]
+      },
+      {
+        "etykieta": "Gaszenie i dalej",
+        "punkty": [
+          {
+            "t": "Przy skutecznym chłodzeniu rozważ ugaszenie pożaru prądami wody.",
+            "zr": "SZP LNG 2025",
+            "str": 5
+          },
+          {
+            "t": "Przygotuj kurtyny wodne i wentylatory Ex na wypadek zadziałania zaworu po ugaszeniu.",
+            "zr": "SZP LNG 2025",
+            "str": 6
+          },
+          {
+            "t": "Wyciek z armatury — kołki, kliny, włóknina zwilżona wodą, opaska dociskowa.",
+            "zr": "SZP LNG 2025",
+            "str": 6
+          },
+          {
+            "t": "Po likwidacji wycieku — przepompowanie do zapasowej cysterny lub kontrolowane wypalenie w pochodni (firma transportowa lub SPOT).",
+            "zr": "SZP LNG 2025",
+            "str": 6
+          }
+        ]
+      }
+    ],
+    "tagi_wspolne": [
+      "lng",
+      "gaz skroplony",
+      "cysterna lng",
+      "pozar"
+    ],
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-lng-2025",
         "strona": 5,
-        "sekcja": "Karta LNG"
+        "sekcja": "Karta Z1 — pożar zewnętrzny (s. 5–6)"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: Strefa ewakuacji osób postronnych 1,5 km; strefa zagrożenia dla ratowników 300 m. Równocześnie z rozpoznaniem intensywnie chłodź zbiornik dużą ilością wody ze stanowisk bezobsługowych. Rozpoznanie zza tarczy balistycznej: miejsce i faza wycieku, możliwość odcięcia wypływu, poziomowskaz, ciśnieniomierz, temperatura fazy ciekłej, tabliczka znamionowa, pogoda i teren.\n2. PARAMETRY: BLEVE / fireball — możliwy po ok. 45 min podgrzewania (przy sprawnych zaworach bezpieczeństwa); mało prawdopodobny dzięki izolacji; Chłodzenie — 10 l/min na m² zbiornika — tylko gdy powłoka zewnętrzna jest nienaruszona, a ciepło pochodzi z zewnątrz; Skuteczne chłodzenie — woda nie odparowuje z powierzchni zbiornika; Po zgaszeniu — chłodź cysternę jeszcze ok. 10–15 min\n3. KONTROLA CHŁODZENIA: Kontroluj temperaturę powłoki zewnętrznej pirometrem lub kamerą termowizyjną. Ścianka sucha (nad poziomem cieczy) nagrzewa się szybciej; stal traci wytrzymałość powyżej 400°C. Zawór bezpieczeństwa w strefie fazy ciekłej wyrzuca ciecz.\n4. CHŁODZENIE NIESKUTECZNE — WYCOFAJ RATOWNIKÓW: Oznaki: woda odparowuje, odkształcenia płaszcza, drgania cysterny, dudnienie lub syczenie, zadziałanie zaworu bezpieczeństwa. Rozważ wycofanie ratowników i dalsze chłodzenie prądami bezobsługowymi (działka).\n5. GASZENIE I DALEJ: Przy skutecznym chłodzeniu rozważ ugaszenie pożaru prądami wody. Przygotuj kurtyny wodne i wentylatory Ex na wypadek zadziałania zaworu po ugaszeniu. Wyciek z armatury — kołki, kliny, włóknina zwilżona wodą, opaska dociskowa. Po likwidacji wycieku — przepompowanie do zapasowej cysterny lub kontrolowane wypalenie w pochodni (firma transportowa lub SPOT)."
   },
   {
     "id": "KARTA-CHEM-Z2-LNG-POZAR-STRUM",
+    "wzorzec": 2,
     "kategoria": "dzialania",
-    "zrodlo": "Zasady postepowania podczas zdarzen z LNG, KG PSP",
-    "data_aktualizacji": "2025-12",
+    "grupa": "cbrn",
+    "zrodlo": "KG PSP: Standardowe zasady postępowania podczas zdarzeń z udziałem skroplonego gazu ziemnego (LNG), wydanie I, grudzień 2025.",
+    "data_aktualizacji": "2026-10-27",
     "slowo_kluczowe": "pozar strumieniowy lng",
     "keywords": [
       "jet fire",
@@ -1425,14 +1535,6 @@
       "ogien z cysterny lng",
       "palnik lng"
     ],
-    "prefix": "Karta Z2 - Pozar strumieniowy z wycieku cysterny LNG (Jet Fire).",
-    "content": "1. KOD / NAZWA: LNG Z2 - pozar strumieniowy z wycieku cysterny LNG (Jet Fire).\n2. ROZPOZNANIE: dokonaj rozpoznania zza oslony balistycznej i uwzglednij bardzo silne promieniowanie cieplne, znacznie wyzsze niz przy pozarach benzyny.\n3. STREFA: wyznacz strefe zagrozenia dla ratownikow 300 m.\n4. SOI: stosuj pelne ubranie specjalne z kapturem, ODO i rekawice kriogeniczne.\n5. DZIALANIA KRYTYCZNE: rozstaw kurtyny i prady rozproszone do ograniczenia promieniowania cieplnego oraz prowadz bezobslugowe chlodzenie zbiornika woda z wydajnoscia 10 l/min/m2.\n6. PROCEDURA SZCZEGOLOWA: nie ugaszaj pozaru strumieniowego, jesli nie masz pewnosci, ze odetniesz wyplyw gazu. Nie podawaj wody na zawory bezpieczenstwa ani do wnetrza rozszczelnienia. Prowadz kontrolowane wypalanie ulatniajacego sie gazu i stale kontroluj temperature pozostalej czesci plaszcza.\n7. CO MOZE POJSC NIE TAK: ugaszenie plomienia bez odciecia wyplywu grozi wybuchem chmury. Nieprawidlowe podawanie wody moze podwyzszyc temperature miejsc, ktore same schladzaja sie przez rozprezajacy sie gaz.\n8. UWAGI OPERACYJNE: zwracaj uwage, aby pradem wody nie ogrzewac powierzchni cysterny schladzanej przez wyplywajacy gaz.",
-    "tagi_wspolne": [
-      "lng",
-      "gaz skroplony",
-      "cysterna lng",
-      "pozar"
-    ],
     "aliasy": [
       "jet fire",
       "wyciek i pozar lng",
@@ -1441,19 +1543,111 @@
       "ogien z cysterny lng",
       "palnik lng"
     ],
+    "prefix": "LNG Z2 — pożar strumieniowy (jet fire) z wycieku cysterny: strefa 300 m, kontrolowane wypalanie, chłodzenie bezobsługowe (SZP KG PSP 2025).",
+    "najpierw": [
+      {
+        "t": "Strefa zagrożenia dla ratowników 300 m; po ugaszeniu kontroluj ją przyrządami.",
+        "zr": "SZP LNG 2025",
+        "str": 7
+      },
+      {
+        "t": "Pełne ubranie specjalne z kapturem przeciwogniowym, ODO i rękawice kriogeniczne.",
+        "zr": "SZP LNG 2025",
+        "str": 7
+      },
+      {
+        "t": "Rozpoznanie zza tarczy balistycznej: miejsce i faza wycieku, możliwość odcięcia wypływu, przyrządy na cysternie, tabliczka znamionowa.",
+        "zr": "SZP LNG 2025",
+        "str": 7
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Promieniowanie cieplne",
+        "wartosc": "średnio 220 kW/m² — 157% pożaru benzyny (140 kW/m²)",
+        "zr": "SZP LNG 2025",
+        "str": 7
+      },
+      {
+        "nazwa": "Chłodzenie zbiornika",
+        "wartosc": "10 l/(m²·min) — zaopatrzenie wodne pod tę intensywność",
+        "zr": "SZP LNG 2025",
+        "str": 7
+      },
+      {
+        "nazwa": "Wybuch",
+        "wartosc": "w otwartej przestrzeni mało prawdopodobny; możliwy w przestrzeniach zamkniętych i półzamkniętych",
+        "zr": "SZP LNG 2025",
+        "str": 7
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Działania",
+        "punkty": [
+          {
+            "t": "Kurtyny wodne i stacjonarne prądy rozproszone ograniczają promieniowanie cieplne.",
+            "zr": "SZP LNG 2025",
+            "str": 7
+          },
+          {
+            "t": "Chłodzenie bezobsługowe prądami rozproszonymi tak, by nie ogrzewać miejsc chłodzonych przez rozprężający się gaz.",
+            "zr": "SZP LNG 2025",
+            "str": 7
+          },
+          {
+            "t": "Kontroluj temperaturę zbiornika (pirometr, kamera) i odczyty przyrządów na cysternie.",
+            "zr": "SZP LNG 2025",
+            "str": 7
+          },
+          {
+            "t": "Prowadź kontrolowane wypalanie ulatniającego się gazu.",
+            "zr": "SZP LNG 2025",
+            "str": 7
+          },
+          {
+            "t": "Ewentualnie wentylatory Ex do rozcieńczania gazu.",
+            "zr": "SZP LNG 2025",
+            "str": 7
+          }
+        ]
+      }
+    ],
+    "nie_rob": [
+      {
+        "t": "Nie gaś pożaru, jeśli nie da się odciąć wypływu gazu.",
+        "zr": "SZP LNG 2025",
+        "str": 7
+      },
+      {
+        "t": "Nie podawaj wody na zawory bezpieczeństwa ani do wnętrza zbiornika.",
+        "zr": "SZP LNG 2025",
+        "str": 7
+      }
+    ],
+    "tagi_wspolne": [
+      "lng",
+      "gaz skroplony",
+      "cysterna lng",
+      "pozar"
+    ],
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-lng-2025",
         "strona": 7,
-        "sekcja": "Karta LNG"
+        "sekcja": "Karta Z2 — pożar strumieniowy (s. 7)"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: Strefa zagrożenia dla ratowników 300 m; po ugaszeniu kontroluj ją przyrządami. Pełne ubranie specjalne z kapturem przeciwogniowym, ODO i rękawice kriogeniczne. Rozpoznanie zza tarczy balistycznej: miejsce i faza wycieku, możliwość odcięcia wypływu, przyrządy na cysternie, tabliczka znamionowa.\n2. PARAMETRY: Promieniowanie cieplne — średnio 220 kW/m² — 157% pożaru benzyny (140 kW/m²); Chłodzenie zbiornika — 10 l/(m²·min) — zaopatrzenie wodne pod tę intensywność; Wybuch — w otwartej przestrzeni mało prawdopodobny; możliwy w przestrzeniach zamkniętych i półzamkniętych\n3. DZIAŁANIA: Kurtyny wodne i stacjonarne prądy rozproszone ograniczają promieniowanie cieplne. Chłodzenie bezobsługowe prądami rozproszonymi tak, by nie ogrzewać miejsc chłodzonych przez rozprężający się gaz. Kontroluj temperaturę zbiornika (pirometr, kamera) i odczyty przyrządów na cysternie. Prowadź kontrolowane wypalanie ulatniającego się gazu. Ewentualnie wentylatory Ex do rozcieńczania gazu.\n4. NIE RÓB: Nie gaś pożaru, jeśli nie da się odciąć wypływu gazu. Nie podawaj wody na zawory bezpieczeństwa ani do wnętrza zbiornika."
   },
   {
     "id": "KARTA-CHEM-Z3-LNG-POZAR-ROZLEWISKA",
+    "wzorzec": 2,
     "kategoria": "dzialania",
-    "zrodlo": "Zasady postepowania podczas zdarzen z LNG, KG PSP",
-    "data_aktualizacji": "2025-12",
+    "grupa": "cbrn",
+    "zrodlo": "KG PSP: Standardowe zasady postępowania podczas zdarzeń z udziałem skroplonego gazu ziemnego (LNG), wydanie I, grudzień 2025.",
+    "data_aktualizacji": "2026-10-27",
     "slowo_kluczowe": "pozar rozlewiska lng",
     "keywords": [
       "pool fire",
@@ -1463,14 +1657,6 @@
       "piana na lng",
       "proszek lng"
     ],
-    "prefix": "Karta Z3 - Pozar rozlewiska skroplonego gazu ziemnego LNG (Pool Fire).",
-    "content": "1. KOD / NAZWA: LNG Z3 - pozar rozlewiska skroplonego gazu ziemnego LNG (Pool Fire).\n2. ROZPOZNANIE: rozpoznaj, czy pozar dotyczy samego rozlewiska, czy zagrozone sa tez sasiednie obiekty i korpus cysterny.\n3. STREFA: w przekazanej procedurze nie wskazano jednej liczbowej strefy; kluczowe jest zabezpieczenie otoczenia i kontrola stezen wybuchowych poza widoczna chmura.\n4. SOI: w przekazanej procedurze nie wskazano osobnego zestawu SOI.\n5. DZIALANIA KRYTYCZNE: bezwzglednie nie podawaj wody na rozlewisko LNG. Wode stosuj tylko do schladzania sasiednich obiektow i korpusu cysterny pradami rozproszonymi.\n6. PROCEDURA SZCZEGOLOWA: zalecane jest podanie piany lekkiej 500:1 bezposrednio na rozlewisko z wydajnoscia 10 l/min/m2; podaz uzupelniaj co 1 minute przez 30 sekund. Dopuszczalne jest tez uzycie proszku gasniczego, czesto w kombinacji z piana lekka. Po ewentualnym ugaszeniu monitoruj okolice eksplozymetrem i rozstaw kurtyny wodne.\n7. CO MOZE POJSC NIE TAK: podanie wody bezposrednio na rozlewisko natychmiast spoteguje odparowanie i gwaltownie zwiekszy pozar. Uzycie piany ciezkiej jest zabronione. Ugaszenie rozlewiska proszkiem lub piana wiaze sie z duzym ryzykiem ponownego zaplonu.\n8. UWAGI OPERACYJNE: na powierzchni rozlewiska po podaniu piany lekkiej moze utworzyc sie lod i kominy, co zmniejsza intensywnosc pozaru.",
-    "tagi_wspolne": [
-      "lng",
-      "gaz skroplony",
-      "cysterna lng",
-      "pozar"
-    ],
     "aliasy": [
       "pool fire",
       "pali sie kaluza lng",
@@ -1479,13 +1665,134 @@
       "piana na lng",
       "proszek lng"
     ],
+    "prefix": "LNG Z3 — pożar rozlewiska (pool fire): strefa 300 m, piana lekka 500:1, proszek, zakaz wody i piany ciężkiej (SZP KG PSP 2025).",
+    "najpierw": [
+      {
+        "t": "Strefa zagrożenia dla ratowników 300 m; rozpoznanie zza tarczy balistycznej.",
+        "zr": "SZP LNG 2025",
+        "str": 8
+      },
+      {
+        "t": "Wody na rozlewisko LNG nie podawaj — zwiększa parowanie i pożar.",
+        "zr": "SZP LNG 2025",
+        "str": 8
+      },
+      {
+        "t": "Na rozlewisko piana lekka; środki gaśnicze podawaj zgodnie z kierunkiem wiatru.",
+        "zr": "SZP LNG 2025",
+        "str": 8
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Piana lekka",
+        "wartosc": "500:1 (±50) · 10 l/(min·m²) · warstwa 1,2 m · co 1 min przez 30 s",
+        "zr": "SZP LNG 2025",
+        "str": 9
+      },
+      {
+        "nazwa": "Efekt piany lekkiej",
+        "wartosc": "promieniowanie cieplne mniejsze o ok. 90% w 60 s; tworzy się lód i „kominy lodowe”",
+        "zr": "SZP LNG 2025",
+        "str": 9
+      },
+      {
+        "nazwa": "Zakres palności",
+        "wartosc": "DGW 5% – GGW 15%; stężenia palne także poza widoczną chmurą",
+        "zr": "SZP LNG 2025",
+        "str": 9
+      },
+      {
+        "nazwa": "Promieniowanie cieplne",
+        "wartosc": "średnio 220 kW/m² — 157% pożaru benzyny",
+        "zr": "SZP LNG 2025",
+        "str": 8
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Środki gaśnicze",
+        "punkty": [
+          {
+            "t": "Woda tylko do chłodzenia korpusu cysterny bez wycieku; kontakt z LNG zwiększy pożar.",
+            "zr": "SZP LNG 2025",
+            "str": 8
+          },
+          {
+            "t": "Brak piany lekkiej — piana średnia (mniej skuteczna), podawana łagodnie pośrednio na przeszkodę.",
+            "zr": "SZP LNG 2025",
+            "str": 9
+          },
+          {
+            "t": "Proszek zalecany tylko, gdy zaraz po ugaszeniu można położyć pianę lekką — duże ryzyko ponownego zapłonu.",
+            "zr": "SZP LNG 2025",
+            "str": 9
+          },
+          {
+            "t": "Przy proszku wyznacz obserwatora skuteczności — operator działka może mieć ograniczoną widoczność.",
+            "zr": "SZP LNG 2025",
+            "str": 9
+          },
+          {
+            "t": "Rekomendowane łączenie piany lekkiej i proszku.",
+            "zr": "SZP LNG 2025",
+            "str": 9
+          }
+        ]
+      },
+      {
+        "etykieta": "Obrona i chłodzenie",
+        "punkty": [
+          {
+            "t": "Prądy rozproszone na obiekty w pobliżu — ograniczenie promieniowania.",
+            "zr": "SZP LNG 2025",
+            "str": 9
+          },
+          {
+            "t": "Chłodzenie zbiornika bezobsługowe, bez wody na zawory i do wnętrza zbiornika; kontrolowane wypalanie gazu.",
+            "zr": "SZP LNG 2025",
+            "str": 8
+          }
+        ]
+      },
+      {
+        "etykieta": "Po ugaszeniu",
+        "punkty": [
+          {
+            "t": "Mierz stężenie LNG w powietrzu, rozstaw kurtyny wodne; dalej jak przy wycieku bez pożaru (Z4).",
+            "zr": "SZP LNG 2025",
+            "str": 9
+          }
+        ]
+      }
+    ],
+    "nie_rob": [
+      {
+        "t": "Nie używaj piany ciężkiej.",
+        "zr": "SZP LNG 2025",
+        "str": 9
+      },
+      {
+        "t": "Nie podawaj wody na rozlewisko.",
+        "zr": "SZP LNG 2025",
+        "str": 8
+      }
+    ],
+    "tagi_wspolne": [
+      "lng",
+      "gaz skroplony",
+      "cysterna lng",
+      "pozar"
+    ],
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-lng-2025",
         "strona": 8,
-        "sekcja": "Karta LNG"
+        "sekcja": "Karta Z3 — pożar rozlewiska (s. 8–9)"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: Strefa zagrożenia dla ratowników 300 m; rozpoznanie zza tarczy balistycznej. Wody na rozlewisko LNG nie podawaj — zwiększa parowanie i pożar. Na rozlewisko piana lekka; środki gaśnicze podawaj zgodnie z kierunkiem wiatru.\n2. PARAMETRY: Piana lekka — 500:1 (±50) · 10 l/(min·m²) · warstwa 1,2 m · co 1 min przez 30 s; Efekt piany lekkiej — promieniowanie cieplne mniejsze o ok. 90% w 60 s; tworzy się lód i „kominy lodowe”; Zakres palności — DGW 5% – GGW 15%; stężenia palne także poza widoczną chmurą; Promieniowanie cieplne — średnio 220 kW/m² — 157% pożaru benzyny\n3. ŚRODKI GAŚNICZE: Woda tylko do chłodzenia korpusu cysterny bez wycieku; kontakt z LNG zwiększy pożar. Brak piany lekkiej — piana średnia (mniej skuteczna), podawana łagodnie pośrednio na przeszkodę. Proszek zalecany tylko, gdy zaraz po ugaszeniu można położyć pianę lekką — duże ryzyko ponownego zapłonu. Przy proszku wyznacz obserwatora skuteczności — operator działka może mieć ograniczoną widoczność. Rekomendowane łączenie piany lekkiej i proszku.\n4. OBRONA I CHŁODZENIE: Prądy rozproszone na obiekty w pobliżu — ograniczenie promieniowania. Chłodzenie zbiornika bezobsługowe, bez wody na zawory i do wnętrza zbiornika; kontrolowane wypalanie gazu.\n5. PO UGASZENIU: Mierz stężenie LNG w powietrzu, rozstaw kurtyny wodne; dalej jak przy wycieku bez pożaru (Z4).\n6. NIE RÓB: Nie używaj piany ciężkiej. Nie podawaj wody na rozlewisko."
   },
   {
     "id": "KARTA-CHEM-Z4-LNG-WYCIEK",
@@ -1688,9 +1995,11 @@
   },
   {
     "id": "KARTA-CHEM-Z5-LNG-ZAWORY",
+    "wzorzec": 2,
     "kategoria": "dzialania",
-    "zrodlo": "Zasady postepowania podczas zdarzen z LNG, KG PSP",
-    "data_aktualizacji": "2025-12",
+    "grupa": "cbrn",
+    "zrodlo": "KG PSP: Standardowe zasady postępowania podczas zdarzeń z udziałem skroplonego gazu ziemnego (LNG), wydanie I, grudzień 2025.",
+    "data_aktualizacji": "2026-10-27",
     "slowo_kluczowe": "zrzut cisnienia lng",
     "keywords": [
       "gwizda z cysterny",
@@ -1701,15 +2010,6 @@
       "emisja z zaworow lng",
       "nadcisnienie lng"
     ],
-    "prefix": "Karta Z5 - Emisja gazu LNG przez zawory bezpieczenstwa (Zrzut cisnienia).",
-    "content": "1. KOD / NAZWA: LNG Z5 - emisja gazu LNG przez zawory bezpieczenstwa (zrzut cisnienia).\n2. ROZPOZNANIE: sytuacja moze dotyczyc samoczynnego okresowego wzrostu cisnienia, wyrzucanego przez kominy na dachu cysterny. Oceniaj, czy emisja ma charakter typowego zrzutu, czy przechodzi w regularny wyciek.\n3. STREFA: wyznacz strefe 150 m i usun wszystkie zrodla iskrzenia i zaplonu.\n4. SOI: w przekazanej procedurze nie wskazano osobnego zestawu SOI.\n5. DZIALANIA KRYTYCZNE: stale monitoruj atmosfere eksplozymetrem i sprawdz cala cysterne kamera termowizyjna.\n6. PROCEDURA SZCZEGOLOWA: alarmuj przy 2,5% objetosci. Jezeli widoczne jest nagle miejscowe wychlodzenie plaszcza, traktuj to jako oznake rozszczelnienia powloki prozniowej. Jezeli emisja nie ustepuje, wdroz dzialania jak przy regularnym wycieku i przejdz do procedury Z4, stosujac m.in. kurtyny wodne i wentylatory Ex. Jezeli oprocz wyrzutu gazu z zaworu obserwujesz wyciek fazy plynnej, natychmiast wdroz procedure Z4.\n7. CO MOZE POJSC NIE TAK: bledna ocena samoczynnego zrzutu cisnienia jako zjawiska niegroznego moze opoznic wdrozenie procedury wycieku.\n8. UWAGI OPERACYJNE: kluczowe znaczenie ma rozroznienie miedzy okresowym zrzutem cisnienia a utrzymujacym sie wyciekiem gazu lub fazy plynnej.",
-    "tagi_wspolne": [
-      "lng",
-      "gaz skroplony",
-      "cysterna lng",
-      "zawory",
-      "zrzut cisnienia"
-    ],
     "aliasy": [
       "gwizda z cysterny",
       "syk z cysterny",
@@ -1719,13 +2019,183 @@
       "emisja z zaworow lng",
       "nadcisnienie lng"
     ],
+    "prefix": "LNG Z5 — emisja gazu przez zawory bezpieczeństwa (zrzut ciśnienia) w transporcie lub przy regazyfikacji (SZP KG PSP 2025).",
+    "najpierw": [
+      {
+        "t": "Strefa zagrożenia 150 m wokół cysterny lub zbiornika; usuń źródła zapłonu.",
+        "zr": "SZP LNG 2025",
+        "str": 12
+      },
+      {
+        "t": "Sprawdź zbiornik kamerą termowizyjną — miejscowe wychłodzenie = rozszczelnienie zbiornika wewnętrznego.",
+        "zr": "SZP LNG 2025",
+        "str": 12
+      },
+      {
+        "t": "Mierz stężenie metanu eksplozymetrem, także poza widoczną chmurą i w przestrzeniach zamkniętych.",
+        "zr": "SZP LNG 2025",
+        "str": 12
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Bezpieczne stężenie",
+        "wartosc": "do 50% DGW = 2,5% obj.",
+        "zr": "SZP LNG 2025",
+        "str": 12
+      },
+      {
+        "nazwa": "Zakres palności",
+        "wartosc": "DGW 5% – GGW 15%",
+        "zr": "SZP LNG 2025",
+        "str": 12
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Kiedy przejść do Z4",
+        "punkty": [
+          {
+            "t": "Dodatkowy wyciek fazy ciekłej — działania z karty Z4.",
+            "zr": "SZP LNG 2025",
+            "str": 12
+          },
+          {
+            "t": "Zjawisko nie ustępuje — traktuj jako wyciek fazy gazowej (Z4).",
+            "zr": "SZP LNG 2025",
+            "str": 12
+          }
+        ]
+      },
+      {
+        "etykieta": "Rozpoznanie",
+        "punkty": [
+          {
+            "t": "Uszkodzenia cysterny, poziomowskaz, ciśnieniomierz, temperatura fazy ciekłej, tabliczka znamionowa, pogoda i teren.",
+            "zr": "SZP LNG 2025",
+            "str": 12
+          }
+        ]
+      }
+    ],
+    "tagi_wspolne": [
+      "lng",
+      "gaz skroplony",
+      "cysterna lng",
+      "zawory",
+      "zrzut cisnienia"
+    ],
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-lng-2025",
         "strona": 12,
-        "sekcja": "Karta LNG"
+        "sekcja": "Emisja z zaworów bezpieczeństwa (s. 12)"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: Strefa zagrożenia 150 m wokół cysterny lub zbiornika; usuń źródła zapłonu. Sprawdź zbiornik kamerą termowizyjną — miejscowe wychłodzenie = rozszczelnienie zbiornika wewnętrznego. Mierz stężenie metanu eksplozymetrem, także poza widoczną chmurą i w przestrzeniach zamkniętych.\n2. PARAMETRY: Bezpieczne stężenie — do 50% DGW = 2,5% obj.; Zakres palności — DGW 5% – GGW 15%\n3. KIEDY PRZEJŚĆ DO Z4: Dodatkowy wyciek fazy ciekłej — działania z karty Z4. Zjawisko nie ustępuje — traktuj jako wyciek fazy gazowej (Z4).\n4. ROZPOZNANIE: Uszkodzenia cysterny, poziomowskaz, ciśnieniomierz, temperatura fazy ciekłej, tabliczka znamionowa, pogoda i teren."
+  },
+  {
+    "id": "KARTA-CHEM-LNG-PRZEKAZANIE",
+    "wzorzec": 2,
+    "kategoria": "dzialania",
+    "grupa": "cbrn",
+    "zrodlo": "KG PSP: Standardowe zasady postępowania podczas zdarzeń z udziałem skroplonego gazu ziemnego (LNG), wydanie I, grudzień 2025.",
+    "data_aktualizacji": "2026-10-27",
+    "slowo_kluczowe": "przekazanie miejsca zdarzenia lng",
+    "keywords": [
+      "przekazanie cysterny lng",
+      "dozor cysterny lng",
+      "po akcji lng"
+    ],
+    "aliasy": [
+      "przekazanie cysterny lng",
+      "dozor cysterny lng",
+      "po akcji lng"
+    ],
+    "prefix": "LNG — przekazanie miejsca zdarzenia po pożarze lub wycieku: dozór, pomiary, odległości 5 m i 20 m, przepompowanie (SZP KG PSP 2025).",
+    "najpierw": [
+      {
+        "t": "Przekaż właścicielowi lub użytkownikowi cysterny, zarządcy drogi, Policji lub innej instytucji — „Potwierdzenie przekazania terenu, obiektu lub mienia”.",
+        "zr": "SZP LNG 2025",
+        "str": 13
+      },
+      {
+        "t": "Poinformuj o działaniach z udziałem LNG, zagrożeniach i sposobie postępowania.",
+        "zr": "SZP LNG 2025",
+        "str": 13
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Cysterna od rowów, zagłębień, studzienek, odpływów",
+        "wartosc": "min. 5 m, na otwartej przestrzeni",
+        "zr": "SZP LNG 2025",
+        "str": 13
+      },
+      {
+        "nazwa": "Cysterna od pojazdów, materiałów palnych, budynków",
+        "wartosc": "min. 20 m",
+        "zr": "SZP LNG 2025",
+        "str": 13
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Przekaż informacje o",
+        "punkty": [
+          {
+            "t": "Dozorze cysterny i pomiarach atmosfery (metan, eksplozymetr) — możliwe niewidoczne uszkodzenia, utrata próżni, nieszczelna armatura.",
+            "zr": "SZP LNG 2025",
+            "str": 13
+          },
+          {
+            "t": "Kontroli temperatury powłoki zewnętrznej (pirometr, kamera).",
+            "zr": "SZP LNG 2025",
+            "str": 13
+          },
+          {
+            "t": "Zabezpieczeniu miejsca przed osobami postronnymi.",
+            "zr": "SZP LNG 2025",
+            "str": 13
+          },
+          {
+            "t": "Przepompowaniu gazu do zapasowej cysterny lub wypaleniu w pochodni (firma transportowa lub SPOT).",
+            "zr": "SZP LNG 2025",
+            "str": 13
+          }
+        ]
+      },
+      {
+        "etykieta": "Dodatkowo po wycieku (Z4, Z5)",
+        "punkty": [
+          {
+            "t": "Sprawdzeniu zagłębień, odpływów i studzienek — LNG zamknięty pod lodem, zalegające pary.",
+            "zr": "SZP LNG 2025",
+            "str": 14
+          },
+          {
+            "t": "Stosowaniu środków ochrony osobistej adekwatnych do zagrożenia.",
+            "zr": "SZP LNG 2025",
+            "str": 14
+          }
+        ]
+      }
+    ],
+    "tagi_wspolne": [
+      "lng",
+      "gaz skroplony",
+      "cysterna lng"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-lng-2025",
+        "strona": 13,
+        "sekcja": "Przekazanie miejsca zdarzenia (s. 13–14)"
+      }
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: Przekaż właścicielowi lub użytkownikowi cysterny, zarządcy drogi, Policji lub innej instytucji — „Potwierdzenie przekazania terenu, obiektu lub mienia”. Poinformuj o działaniach z udziałem LNG, zagrożeniach i sposobie postępowania.\n2. PARAMETRY: Cysterna od rowów, zagłębień, studzienek, odpływów — min. 5 m, na otwartej przestrzeni; Cysterna od pojazdów, materiałów palnych, budynków — min. 20 m\n3. PRZEKAŻ INFORMACJE O: Dozorze cysterny i pomiarach atmosfery (metan, eksplozymetr) — możliwe niewidoczne uszkodzenia, utrata próżni, nieszczelna armatura. Kontroli temperatury powłoki zewnętrznej (pirometr, kamera). Zabezpieczeniu miejsca przed osobami postronnymi. Przepompowaniu gazu do zapasowej cysterny lub wypaleniu w pochodni (firma transportowa lub SPOT).\n4. DODATKOWO PO WYCIEKU (Z4, Z5): Sprawdzeniu zagłębień, odpływów i studzienek — LNG zamknięty pod lodem, zalegające pary. Stosowaniu środków ochrony osobistej adekwatnych do zagrożenia."
   },
   {
     "id": "KARTA-CHEM-ZAKRES-PODSTAWOWY-KDR",
@@ -2016,6 +2486,155 @@
     ],
     "data_przegladu": "2026-10-27",
     "content": "1. NAJPIERW: Dojeżdżaj i ustawiaj pojazdy w miarę możliwości z wiatrem i w górnych partiach terenu, z możliwością wycofania sił. Ratowanie zagrożonych ludzi ma absolutne pierwszeństwo. Rozpoznaj materiał i miejsce zdarzenia; wyznacz strefy I i II dostępnymi przyrządami detekcyjnymi. Zakres czynności dostosuj do kwalifikacji, wyszkolenia i wyposażenia ratowników.\n2. PARAMETRY: Odległość — zagrożenie wybuchem — min. 150 m od miejsca zdarzenia; Odległość — promieniowanie jonizujące — nie mniej niż wstępny promień strefy I z załączników R; Odległość — pozostałe materiały — min. 50 m; uwzględnij pogodę, teren, infrastrukturę i dynamikę zdarzenia; Strefa I (gorąca) — obszar nierozpoznany, wybuch/odłamki/nagły pożar, za mało lub za dużo tlenu, toksyczne gazy, pary, aerozole, patogeny, moc dawki > 100 µSv/h lub skażenie; Strefa II (chłodna) — działania służb poza strefą I i zaplecze logistyczne; dekontaminacja na granicy stref I i II; Skład w strefie I — min. 2 ratowników z asekuracją; 1 dopuszczalny przy zagrożeniu wybuchem lub skażeniem promieniotwórczym\n3. MINIMALNY ZAKRES PODSTAWOWY: Rozpoznanie i zabezpieczenie miejsca zdarzenia, wyznaczenie stref; ewakuacja ludzi i zwierząt poza strefę. Ostrzeganie, alarmowanie i informowanie ludzi o zasadach zachowania. Pomiary przyrządami, w tym moc dawki promieniowania i szacowanie dawki efektywnej. Ograniczanie emisji (kurtyny wodne) i skutków wycieku substancji ropopochodnych. Dekontaminacja wstępna i KPP; współdziałanie i czynności pomocnicze, w tym wsparcie SGRChem.\n4. BEZPIECZEŃSTWO W STREFIE I: Sprzęt ochrony dobierz do atmosfery wybuchowej, stężenia tlenu i toksyn, mocy dawki, pola elektromagnetycznego, właściwości materiału i odporności chemicznej. Asekuracja gotowa do natychmiastowej ewakuacji, stała łączność, kontrola czasu pracy w strefie I. „Reguła 10 minut”: zdarzenie może nagle zmienić charakter (pożar, wybuch, reakcja) — przewiduj rozwój z wyprzedzeniem. Przy wysokim ryzyku — manipulacja zdalna, tarcze balistyczne, drony. Unikaj zbędnej i wtórnej kontaminacji; zapewnij zabezpieczenie medyczne.\n5. DEKONTAMINACJA WSTĘPNA: Kluczowy jest czas — prowadzą ją pierwsze zastępy, na granicy strefy, dostępnym sprzętem. Wobec osoby: umycie lub przetarcie odsłoniętych części ciała, usunięcie i zabezpieczenie odzieży, ubiór zastępczy. Kolejność: strefa → ewakuacja ze strefy I do miejsca dekontaminacji → segregacja pierwotna → dekontaminacja → KPP → przekazanie ZRM. Dekontaminacja właściwa nie jest czynnością ratowniczą — po przekazaniu poszkodowanych organizuje ją ochrona zdrowia.\n6. WSPÓŁPRACA Z SGRCHEM: Potrzebę SGRChem zgłasza KDR; SK dysponuje grupę po konsultacji z jej dowódcą. KDR: punkt przyjęcia sił, przekazanie oceny sytuacji i dokumentacji dowódcy działań SGRChem, odcinki bojowe, ewentualnie sztab. Odcinkiem ratownictwa specjalistycznego dowodzi dowódca działań SGRChem. Łączność: 2 kanały KRG — pierwszy dla strefy I i asekuracji, drugi dla strefy II. KDR rozwija zaplecze logistyczne, zapewnia neutralizatory i sorbenty. Poziomy SGRChem: A zabezpieczenie chemiczne (min. 8), B rozpoznanie (4), C rozpoznanie specjalne, D dekontaminacja, L laboratorium.\n7. ZAKOŃCZENIE: O zakończeniu decyduje KDR; SGRChem przekazuje mu „Informację o działaniach ratowniczych”. Teren przekaż właścicielowi, zarządcy, użytkownikowi, organowi, Policji lub straży gminnej — „Potwierdzeniem przekazania”.\n8. NIE RÓB: Czynności specjalistycznych w strefie I nie prowadzą ratownicy bez odpowiedniego przeszkolenia. Nie wprowadzaj do strefy I nadmiernej liczby ratowników."
+  },
+  {
+    "id": "KARTA-CHEM-LNG-ROZPOZNANIE",
+    "wzorzec": 2,
+    "kategoria": "dzialania",
+    "grupa": "cbrn",
+    "zrodlo": "KG PSP: Standardowe zasady postępowania podczas zdarzeń z udziałem skroplonego gazu ziemnego (LNG), wydanie I, grudzień 2025.",
+    "data_aktualizacji": "2026-10-27",
+    "slowo_kluczowe": "rozpoznanie lng",
+    "keywords": [
+      "rozpoznanie cysterny lng",
+      "un 1972",
+      "oznakowanie cysterny lng",
+      "dojazd do cysterny lng",
+      "wlasciwosci lng"
+    ],
+    "aliasy": [
+      "rozpoznanie cysterny lng",
+      "un 1972",
+      "oznakowanie cysterny lng",
+      "dojazd do cysterny lng",
+      "wlasciwosci lng"
+    ],
+    "prefix": "LNG — rozpoznanie i dojazd do zdarzenia z cysterną skroplonego gazu ziemnego; właściwości i zagrożenia (SZP KG PSP 2025).",
+    "najpierw": [
+      {
+        "t": "Zatrzymaj pojazdy w bezpiecznej odległości — co najmniej 150 m (zagrożenie wybuchem).",
+        "zr": "SZP LNG 2025",
+        "str": 3
+      },
+      {
+        "t": "Dojeżdżaj w miarę możliwości z wiatrem; zapewnij możliwość wycofania sił.",
+        "zr": "SZP LNG 2025",
+        "str": 3
+      },
+      {
+        "t": "Widoczna chmura nie jest granicą strefy niebezpiecznej — ta jest znacznie większa.",
+        "zr": "SZP LNG 2025",
+        "str": 2
+      },
+      {
+        "t": "Planuj rozwój sytuacji na najbliższe 10 minut.",
+        "zr": "SZP LNG 2025",
+        "str": 4
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Oznakowanie",
+        "wartosc": "UN 1972 — schłodzony, skroplony gaz ziemny o wysokiej zawartości metanu",
+        "zr": "SZP LNG 2025",
+        "str": 3
+      },
+      {
+        "nazwa": "Transport",
+        "wartosc": "ok. −162°C, ok. 2 bar; zbiornik dwupłaszczowy z próżnią",
+        "zr": "SZP LNG 2025",
+        "str": 2
+      },
+      {
+        "nazwa": "Ciecz → gaz",
+        "wartosc": "1 m³ LNG = 600 m³ gazu",
+        "zr": "SZP LNG 2025",
+        "str": 1
+      },
+      {
+        "nazwa": "Granice wybuchowości",
+        "wartosc": "ok. 4,3–16,2% obj.",
+        "zr": "SZP LNG 2025",
+        "str": 1
+      },
+      {
+        "nazwa": "Pary",
+        "wartosc": "zimne pary cięższe od powietrza (ścielą się, zalegają w zagłębieniach); powyżej ok. −112°C lżejsze",
+        "zr": "SZP LNG 2025",
+        "str": 2
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Rozpoznanie",
+        "punkty": [
+          {
+            "t": "Przed dojazdem zbierz informacje o substancji; poproś o karty charakterystyki.",
+            "zr": "SZP LNG 2025",
+            "str": 3
+          },
+          {
+            "t": "Uwzględnij pogodę, ukształtowanie terenu i infrastrukturę.",
+            "zr": "SZP LNG 2025",
+            "str": 3
+          },
+          {
+            "t": "Zbierz informacje od personelu, uczestników i świadków.",
+            "zr": "SZP LNG 2025",
+            "str": 3
+          },
+          {
+            "t": "Oceń stan zbiorników z dystansu (lornetka, aparat); szukaj źródeł ognia w pobliżu.",
+            "zr": "SZP LNG 2025",
+            "str": 3
+          },
+          {
+            "t": "Kamera termowizyjna: miejscowe obniżenie temperatury cysterny = możliwe rozszczelnienie zbiornika wewnętrznego.",
+            "zr": "SZP LNG 2025",
+            "str": 4
+          }
+        ]
+      },
+      {
+        "etykieta": "Zagrożenia",
+        "punkty": [
+          {
+            "t": "Odmrożenia, poparzenia, wybuch, uduszenie; LNG wypiera tlen — ODO i tlenomierze.",
+            "zr": "SZP LNG 2025",
+            "str": 2
+          },
+          {
+            "t": "Kontakt z cieczą lub wychłodzonymi elementami — ubranie specjalne i rękawice kriogeniczne.",
+            "zr": "SZP LNG 2025",
+            "str": 2
+          },
+          {
+            "t": "Rollover oraz gwałtowne przejście fazowe przy kontakcie LNG z wodą (RPT).",
+            "zr": "SZP LNG 2025",
+            "str": 2
+          },
+          {
+            "t": "Ogrzanie cysterny powoduje gwałtowny wzrost ciśnienia.",
+            "zr": "SZP LNG 2025",
+            "str": 2
+          }
+        ]
+      }
+    ],
+    "tagi_wspolne": [
+      "lng",
+      "gaz skroplony",
+      "cysterna lng"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-lng-2025",
+        "strona": 1,
+        "sekcja": "Właściwości i niebezpieczeństwa (s. 1–2), rozpoznanie (s. 3–4)"
+      }
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: Zatrzymaj pojazdy w bezpiecznej odległości — co najmniej 150 m (zagrożenie wybuchem). Dojeżdżaj w miarę możliwości z wiatrem; zapewnij możliwość wycofania sił. Widoczna chmura nie jest granicą strefy niebezpiecznej — ta jest znacznie większa. Planuj rozwój sytuacji na najbliższe 10 minut.\n2. PARAMETRY: Oznakowanie — UN 1972 — schłodzony, skroplony gaz ziemny o wysokiej zawartości metanu; Transport — ok. −162°C, ok. 2 bar; zbiornik dwupłaszczowy z próżnią; Ciecz → gaz — 1 m³ LNG = 600 m³ gazu; Granice wybuchowości — ok. 4,3–16,2% obj.; Pary — zimne pary cięższe od powietrza (ścielą się, zalegają w zagłębieniach); powyżej ok. −112°C lżejsze\n3. ROZPOZNANIE: Przed dojazdem zbierz informacje o substancji; poproś o karty charakterystyki. Uwzględnij pogodę, ukształtowanie terenu i infrastrukturę. Zbierz informacje od personelu, uczestników i świadków. Oceń stan zbiorników z dystansu (lornetka, aparat); szukaj źródeł ognia w pobliżu. Kamera termowizyjna: miejscowe obniżenie temperatury cysterny = możliwe rozszczelnienie zbiornika wewnętrznego.\n4. ZAGROŻENIA: Odmrożenia, poparzenia, wybuch, uduszenie; LNG wypiera tlen — ODO i tlenomierze. Kontakt z cieczą lub wychłodzonymi elementami — ubranie specjalne i rękawice kriogeniczne. Rollover oraz gwałtowne przejście fazowe przy kontakcie LNG z wodą (RPT). Ogrzanie cysterny powoduje gwałtowny wzrost ciśnienia."
   },
   {
     "id": "KARTA-CHEM-B1-ZAGROZENIE-BIOLOGICZNE-GR3-GR4",
