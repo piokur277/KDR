@@ -7105,6 +7105,321 @@
     "content": "1. NAJPIERW: W rozpoznaniu wstępnym zidentyfikuj zagrożenia dla życia, zdrowia, środowiska i mienia. Ustal: czy na miejscu są zarządca drogi, Policja lub straż gminna oraz czy potrzebne są działania ratownicze, czy tylko zabezpieczenie i oznakowanie. Każdą decyzję — także o powrocie do miejsca stacjonowania — zgłoś do SK KP/KM PSP.\n2. PARAMETRY: Są służby + działania ratownicze — prowadź działania ratownicze (gaszenie, RT, RChem/REko, KPP); Są służby + tylko zabezpieczenie — wskaż, że to zadanie zarządcy drogi lub Policji; poinformuj SK; wracaj; Brak służb + działania ratownicze — prowadź działania; SK wzywa zarządcę drogi lub Policję; Brak służb + tylko zabezpieczenie — ostrzeż użytkowników drogi; SK wzywa zarządcę drogi lub Policję; Nic nie jest potrzebne — poinformuj SK; wracaj\n3. KTO ZA CO ODPOWIADA: KDR może wstrzymać ruch drogowy i zakazać przebywania osób w rejonie działań. Przejezdność drogi zapewnia zarządca drogi; PSP nie wykonuje robót porządkowych ani utrzymaniowych. Substancja zagraża życiu, zdrowiu lub środowisku — to ratownictwo chemiczne lub ekologiczne PSP; usuwanie odpadów tylko dla bezpieczeństwa ruchu — zarządca drogi. Policja: kieruje ruchem, usuwa pojazdy utrudniające akcję, wprowadza ograniczenia i objazdy. Zarządca drogi: zamyka drogi, wyznacza objazdy, wykonuje roboty interwencyjne; jest posiadaczem odpadów w pasie drogowym. Zarządcy: krajowe i autostrady — GDDKiA (lub spółka); wojewódzkie — zarząd województwa; powiatowe — zarząd powiatu; gminne — wójt, burmistrz lub prezydent; w miastach na prawach powiatu (poza A i S) — prezydent miasta.\n4. POMOC INNYM PODMIOTOM: Możesz użyć sił do pomocy innym podmiotom na miejscu — poinformuj SK; jeśli prowadzono działania ratownicze, najpierw przekaż teren. Pomoc nie może obniżyć gotowości operacyjnej powiatu — np. zostaw tylko część sił albo wnioskuj o OSP. Siły pozostawione do pomocy SK może w każdej chwili zadysponować.\n5. PRZEKAZANIE TERENU: Po działaniach przekaż teren właścicielowi, zarządcy, przedstawicielowi administracji, Policji lub straży gminnej; gdy ich brak — zgłoś to do SK. Jest przedstawiciel zarządcy drogi — przekaż teren jemu. Gdy było tylko zabezpieczenie i oznakowanie — przekazanie następuje z chwilą przybycia odpowiedzialnych za bezpieczeństwo ruchu.\n6. ODMOWA PRZEJĘCIA TERENU: Zgłoś odmowę do SK i odnotuj ją w informacji ze zdarzenia. Teren bez zagrożeń — wracasz; teren może stwarzać zagrożenia — dalszy tryb ustalasz z SK (ewentualnie z PCZK lub WCZK). SK wzywa kolejno: zarządcę drogi, Policję, pozostałe podmioty. Zarządca odmawia przybycia przy zagrożeniu ruchu — SK informuje go o odpowiedzialności z art. 72 Kodeksu wykroczeń.\n7. NIE RÓB: Nie wykonuj robót porządkowych ani utrzymaniowych drogi — to zadanie zarządcy drogi. Nie pozostawiaj sił do pomocy innym podmiotom kosztem gotowości operacyjnej powiatu."
   },
   {
+    "id": "KARTA-WOD-WSPOLPRACA-SGRWN-SGS",
+    "wzorzec": 2,
+    "kategoria": "dzialania",
+    "grupa": "wod",
+    "zrodlo": "KG PSP: Zasady organizacji ratownictwa wodno-nurkowego w KSRG, Warszawa, 12.08.2026 (zastępują zasady ratownictwa wodnego z 2020 r.)",
+    "data_aktualizacji": "2026-10-27",
+    "slowo_kluczowe": "wspolpraca kdr z sgrw-n",
+    "keywords": [
+      "sgrw-n",
+      "grupa wodno-nurkowa",
+      "nurkowie psp",
+      "sgs",
+      "grupa sonarowa",
+      "sonar",
+      "wypadek nurkowy"
+    ],
+    "aliasy": [
+      "sgrw-n",
+      "grupa wodno-nurkowa",
+      "nurkowie psp",
+      "sgs",
+      "grupa sonarowa",
+      "sonar",
+      "wypadek nurkowy"
+    ],
+    "prefix": "Współpraca KDR ze specjalistyczną grupą wodno-nurkową (SGRW-N) i sonarową (SGS) — poziomy, zadania KDR, dowodzenie (Zasady KG PSP 2026).",
+    "najpierw": [
+      {
+        "t": "Przed przybyciem SGRW-N: rozpoznanie, oznakowanie miejsca zdarzenia na wodzie, wskazanie miejsca wodowania łodzi.",
+        "zr": "RW-N 2026",
+        "str": 45
+      },
+      {
+        "t": "Zapewnij grupie strefę pracy i dostęp do akwenu; nadzoruj bezpieczeństwo miejsca do jej przybycia.",
+        "zr": "RW-N 2026",
+        "str": 45
+      },
+      {
+        "t": "Przy ratowaniu życia SK uwzględnia najszybszy transport grupy (także lotniczy).",
+        "zr": "RW-N 2026",
+        "str": 61
+      },
+      {
+        "t": "SGRW-N i SGS tworzą odrębny odcinek bojowy.",
+        "zr": "RW-N 2026",
+        "str": 60
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Status działań ratowniczych",
+        "wartosc": "człowiek pod wodą bez dostępu powietrza do 120 min; później — działania wspomagające (niepilne)",
+        "zr": "RW-N 2026",
+        "str": 60
+      },
+      {
+        "nazwa": "SGRW-N poziom A",
+        "wartosc": "ratowanie życia: tonący, wypadki na wodzie, pod lodem · min. 2 ratowników + kierowca · niezwłocznie",
+        "zr": "RW-N 2026",
+        "str": 16
+      },
+      {
+        "nazwa": "SGRW-N AB / ABC / ABCchem",
+        "wartosc": "+ ratownictwo techniczne pod wodą, lokalizacja obiektów · ABC: min. 5 ratowników, ≤ 60 min · ABCchem: wody skażone",
+        "zr": "RW-N 2026",
+        "str": 16
+      },
+      {
+        "nazwa": "SGS",
+        "wartosc": "A — sonar holowany · B — sonar dookólny, naprowadzanie nurka · C — pojazd podwodny ROV · min. 3 ratowników",
+        "zr": "RW-N 2026",
+        "str": 17
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Dowodzenie",
+        "punkty": [
+          {
+            "t": "Pracami podwodnymi przy ratowaniu życia kieruje dowodzący działaniami SGRW-N (DDR), podległy KDR poziomu taktycznego.",
+            "zr": "RW-N 2026",
+            "str": 60
+          },
+          {
+            "t": "Kilka SGRW-N na jednym odcinku — dowodzi nurek o najwyższych kwalifikacjach; przy równych kwalifikacjach wyznacza go KDR.",
+            "zr": "RW-N 2026",
+            "str": 62
+          },
+          {
+            "t": "DDR SGRW-N analizuje ryzyko i decyduje o podjęciu lub odstąpieniu od prac podwodnych; może powiększyć skład lub zgłosić potrzebę kolejnej grupy.",
+            "zr": "RW-N 2026",
+            "str": 62
+          },
+          {
+            "t": "Prace ratownicze: min. 2 młodszych nurków; jeden pełni funkcję DDR lub nurka asekuracyjnego.",
+            "zr": "RW-N 2026",
+            "str": 62
+          }
+        ]
+      },
+      {
+        "etykieta": "Po upływie czasu ratowniczego",
+        "punkty": [
+          {
+            "t": "Gdy działania nurkowe tracą status ratowniczych — KDR uzyskuje od SK, które dysponowało grupę, zgodę na kontynuację jako poszukiwawczych.",
+            "zr": "RW-N 2026",
+            "str": 61
+          }
+        ]
+      },
+      {
+        "etykieta": "Wypadek nurkowy",
+        "punkty": [
+          {
+            "t": "Zabezpieczenie medyczne prac podwodnych: zestaw R-1, min. 1500 l tlenu, AED.",
+            "zr": "RW-N 2026",
+            "str": 63
+          },
+          {
+            "t": "O transporcie do komory dekompresyjnej decyduje kierownik ZRM; przy transporcie lotniczym lądowisko przygotowuje KDR.",
+            "zr": "RW-N 2026",
+            "str": 63
+          },
+          {
+            "t": "Konsultacje: Krajowy Ośrodek Medycyny Hiperbarycznej w Gdyni, tel. całodobowy (58) 622 51 63.",
+            "zr": "RW-N 2026",
+            "str": 63
+          }
+        ]
+      }
+    ],
+    "tagi_wspolne": [
+      "ratownictwo wodne",
+      "SGRW-N"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-rwn-2026",
+        "strona": 15,
+        "sekcja": "Część 3 — SGRW-N i SGS (s. 15–19), zał. 2 (s. 45), zał. 11 — prace podwodne (s. 60–63)"
+      }
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: Przed przybyciem SGRW-N: rozpoznanie, oznakowanie miejsca zdarzenia na wodzie, wskazanie miejsca wodowania łodzi. Zapewnij grupie strefę pracy i dostęp do akwenu; nadzoruj bezpieczeństwo miejsca do jej przybycia. Przy ratowaniu życia SK uwzględnia najszybszy transport grupy (także lotniczy). SGRW-N i SGS tworzą odrębny odcinek bojowy.\n2. PARAMETRY: Status działań ratowniczych — człowiek pod wodą bez dostępu powietrza do 120 min; później — działania wspomagające (niepilne); SGRW-N poziom A — ratowanie życia: tonący, wypadki na wodzie, pod lodem · min. 2 ratowników + kierowca · niezwłocznie; SGRW-N AB / ABC / ABCchem — + ratownictwo techniczne pod wodą, lokalizacja obiektów · ABC: min. 5 ratowników, ≤ 60 min · ABCchem: wody skażone; SGS — A — sonar holowany · B — sonar dookólny, naprowadzanie nurka · C — pojazd podwodny ROV · min. 3 ratowników\n3. DOWODZENIE: Pracami podwodnymi przy ratowaniu życia kieruje dowodzący działaniami SGRW-N (DDR), podległy KDR poziomu taktycznego. Kilka SGRW-N na jednym odcinku — dowodzi nurek o najwyższych kwalifikacjach; przy równych kwalifikacjach wyznacza go KDR. DDR SGRW-N analizuje ryzyko i decyduje o podjęciu lub odstąpieniu od prac podwodnych; może powiększyć skład lub zgłosić potrzebę kolejnej grupy. Prace ratownicze: min. 2 młodszych nurków; jeden pełni funkcję DDR lub nurka asekuracyjnego.\n4. PO UPŁYWIE CZASU RATOWNICZEGO: Gdy działania nurkowe tracą status ratowniczych — KDR uzyskuje od SK, które dysponowało grupę, zgodę na kontynuację jako poszukiwawczych.\n5. WYPADEK NURKOWY: Zabezpieczenie medyczne prac podwodnych: zestaw R-1, min. 1500 l tlenu, AED. O transporcie do komory dekompresyjnej decyduje kierownik ZRM; przy transporcie lotniczym lądowisko przygotowuje KDR. Konsultacje: Krajowy Ośrodek Medycyny Hiperbarycznej w Gdyni, tel. całodobowy (58) 622 51 63."
+  },
+  {
+    "id": "KARTA-WOD-ZAKRES-PODSTAWOWY",
+    "wzorzec": 2,
+    "kategoria": "dzialania",
+    "grupa": "wod",
+    "zrodlo": "KG PSP: Zasady organizacji ratownictwa wodno-nurkowego w KSRG, Warszawa, 12.08.2026 (zastępują zasady ratownictwa wodnego z 2020 r.)",
+    "data_aktualizacji": "2026-10-27",
+    "slowo_kluczowe": "ratownictwo wodne zakres podstawowy",
+    "keywords": [
+      "ratownictwo lodowe",
+      "tonący",
+      "człowiek pod lodem",
+      "załamanie lodu",
+      "ratownictwo powodziowe",
+      "woda szybkopłynąca",
+      "nurkowanie na wstrzymanym oddechu"
+    ],
+    "aliasy": [
+      "ratownictwo lodowe",
+      "tonący",
+      "człowiek pod lodem",
+      "załamanie lodu",
+      "ratownictwo powodziowe",
+      "woda szybkopłynąca",
+      "nurkowanie na wstrzymanym oddechu"
+    ],
+    "prefix": "Ratownictwo wodne i lodowe — zakres podstawowy JRG i OSP oraz zasady bezpieczeństwa ratowników (Zasady KG PSP 2026).",
+    "najpierw": [
+      {
+        "t": "Ratownik na lodzie: suchy skafander, urządzenie wypornościowe, kask, lina asekuracyjna zamocowana trwale; zabiera sprzęt do ratownictwa lodowego.",
+        "zr": "RW-N 2026",
+        "str": 44
+      },
+      {
+        "t": "Ratownik w wodzie: suchy lub neoprenowy skafander, urządzenie wypornościowe (albo boja SP / pas „węgorz”), asekuracja liną z brzegu lub łodzi.",
+        "zr": "RW-N 2026",
+        "str": 44
+      },
+      {
+        "t": "Każdy na wodzie, przy brzegu, na łodzi i na lodzie: środek wypornościowy, sygnalizacja wizualna lub dźwiękowa, nóż ratowniczy.",
+        "zr": "RW-N 2026",
+        "str": 43
+      },
+      {
+        "t": "Oznacz miejsce działań; w miarę możliwości powiadom właściciela drogi wodnej.",
+        "zr": "RW-N 2026",
+        "str": 43
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Kto realizuje",
+        "wartosc": "wszystkie JRG PSP; OSP wytypowane i spełniające standardy",
+        "zr": "RW-N 2026",
+        "str": 9
+      },
+      {
+        "nazwa": "Gotowość",
+        "wartosc": "min. 6 ratowników, w tym ≥ 2 z kwalifikacjami ratownictwa wodnego; wyposażenie osobiste dla ≥ 2",
+        "zr": "RW-N 2026",
+        "str": 9
+      },
+      {
+        "nazwa": "Szczególne warunki",
+        "wartosc": "noc, zła pogoda, prąd > 0,5 m/s, przestrzenie zamknięte — sprzęt i łączność odpowiednie do zagrożeń",
+        "zr": "RW-N 2026",
+        "str": 43
+      },
+      {
+        "nazwa": "Lina asekuracyjna na lodzie",
+        "wartosc": "mocowana na brzegu, na lodzie nośnym (śruba lodowa) albo do sań lodowych lub trapu",
+        "zr": "RW-N 2026",
+        "str": 44
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Zadania zakresu podstawowego",
+        "punkty": [
+          {
+            "t": "Rozpoznanie i ocena zagrożenia dla życia, zdrowia, mienia i środowiska.",
+            "zr": "RW-N 2026",
+            "str": 9
+          },
+          {
+            "t": "Pomoc tonącym (także na lodzie) i ludziom na wodach powodziowych: dotarcie, ewakuacja ze strefy, medyczne działania ratownicze, przekazanie ZRM.",
+            "zr": "RW-N 2026",
+            "str": 9
+          },
+          {
+            "t": "Asekuracja ratowników działających na wodzie, lodzie i na brzegu; ewakuacja zwierząt; ograniczanie zagrożeń dla środowiska wodnego.",
+            "zr": "RW-N 2026",
+            "str": 10
+          },
+          {
+            "t": "Na morzu działania prowadzi i koordynuje Morska Służba Poszukiwania i Ratownictwa (SAR) — KSRG wspiera na wezwanie.",
+            "zr": "RW-N 2026",
+            "str": 10
+          }
+        ]
+      },
+      {
+        "etykieta": "Bezpieczeństwo w wodzie",
+        "punkty": [
+          {
+            "t": "Na rzekach ratownik w wodzie zakłada kask; w wodzie szybkopłynącej i powodziowej — obowiązkowo urządzenie wypornościowe.",
+            "zr": "RW-N 2026",
+            "str": 44
+          },
+          {
+            "t": "Łódź: środki wypornościowe dla każdej osoby; za bezpieczeństwo łodzi i osób odpowiada prowadzący jednostkę.",
+            "zr": "RW-N 2026",
+            "str": 43
+          },
+          {
+            "t": "Przy powodzi zapewnij oświetlenie terenu, sprzęt nawigacyjny, łączność, rezerwę suchej odzieży, odpoczynek i zmiany strażaków.",
+            "zr": "RW-N 2026",
+            "str": 43
+          }
+        ]
+      },
+      {
+        "etykieta": "Nurkowanie na wstrzymanym oddechu",
+        "punkty": [
+          {
+            "t": "Tylko ratownik przeszkolony, na wodzie bez lodu, bez ryzyka uwięzienia, z liną asekuracyjną i boją SP / pasem „węgorz”.",
+            "zr": "RW-N 2026",
+            "str": 45
+          },
+          {
+            "t": "Przerwij przy wyczerpaniu ratownika, gdy głębokość przekracza jego możliwości albo gdy KDR lub ratownik oceni zagrożenie życia.",
+            "zr": "RW-N 2026",
+            "str": 45
+          }
+        ]
+      }
+    ],
+    "wsparcie": [
+      {
+        "t": "Potrzebny nurek, sonar lub działania pod wodą — karta „Współpraca KDR z SGRW-N i SGS”.",
+        "zr": "RW-N 2026",
+        "str": 45
+      }
+    ],
+    "nie_rob": [
+      {
+        "t": "Nie wykonuj zadań samowolnie ani bez wymaganych zabezpieczeń.",
+        "zr": "RW-N 2026",
+        "str": 43
+      },
+      {
+        "t": "Nie nurkuj na wstrzymanym oddechu pod lodem.",
+        "zr": "RW-N 2026",
+        "str": 45
+      }
+    ],
+    "tagi_wspolne": [
+      "ratownictwo wodne"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-rwn-2026",
+        "strona": 9,
+        "sekcja": "Część 2 (s. 9–14), zał. 2 — zasady bezpieczeństwa (s. 43–45)"
+      }
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: Ratownik na lodzie: suchy skafander, urządzenie wypornościowe, kask, lina asekuracyjna zamocowana trwale; zabiera sprzęt do ratownictwa lodowego. Ratownik w wodzie: suchy lub neoprenowy skafander, urządzenie wypornościowe (albo boja SP / pas „węgorz”), asekuracja liną z brzegu lub łodzi. Każdy na wodzie, przy brzegu, na łodzi i na lodzie: środek wypornościowy, sygnalizacja wizualna lub dźwiękowa, nóż ratowniczy. Oznacz miejsce działań; w miarę możliwości powiadom właściciela drogi wodnej.\n2. PARAMETRY: Kto realizuje — wszystkie JRG PSP; OSP wytypowane i spełniające standardy; Gotowość — min. 6 ratowników, w tym ≥ 2 z kwalifikacjami ratownictwa wodnego; wyposażenie osobiste dla ≥ 2; Szczególne warunki — noc, zła pogoda, prąd > 0,5 m/s, przestrzenie zamknięte — sprzęt i łączność odpowiednie do zagrożeń; Lina asekuracyjna na lodzie — mocowana na brzegu, na lodzie nośnym (śruba lodowa) albo do sań lodowych lub trapu\n3. ZADANIA ZAKRESU PODSTAWOWEGO: Rozpoznanie i ocena zagrożenia dla życia, zdrowia, mienia i środowiska. Pomoc tonącym (także na lodzie) i ludziom na wodach powodziowych: dotarcie, ewakuacja ze strefy, medyczne działania ratownicze, przekazanie ZRM. Asekuracja ratowników działających na wodzie, lodzie i na brzegu; ewakuacja zwierząt; ograniczanie zagrożeń dla środowiska wodnego. Na morzu działania prowadzi i koordynuje Morska Służba Poszukiwania i Ratownictwa (SAR) — KSRG wspiera na wezwanie.\n4. BEZPIECZEŃSTWO W WODZIE: Na rzekach ratownik w wodzie zakłada kask; w wodzie szybkopłynącej i powodziowej — obowiązkowo urządzenie wypornościowe. Łódź: środki wypornościowe dla każdej osoby; za bezpieczeństwo łodzi i osób odpowiada prowadzący jednostkę. Przy powodzi zapewnij oświetlenie terenu, sprzęt nawigacyjny, łączność, rezerwę suchej odzieży, odpoczynek i zmiany strażaków.\n5. NURKOWANIE NA WSTRZYMANYM ODDECHU: Tylko ratownik przeszkolony, na wodzie bez lodu, bez ryzyka uwięzienia, z liną asekuracyjną i boją SP / pasem „węgorz”. Przerwij przy wyczerpaniu ratownika, gdy głębokość przekracza jego możliwości albo gdy KDR lub ratownik oceni zagrożenie życia.\n6. WEZWIJ WSPARCIE, GDY: Potrzebny nurek, sonar lub działania pod wodą — karta „Współpraca KDR z SGRW-N i SGS”.\n7. NIE RÓB: Nie wykonuj zadań samowolnie ani bez wymaganych zabezpieczeń. Nie nurkuj na wstrzymanym oddechu pod lodem."
+  },
+  {
     "id": "WYP-EV-01",
     "wzorzec": 2,
     "zrodlo": "KG PSP: Standardowe zasady postępowania podczas zdarzeń z samochodami z napędem elektrycznym oraz hybrydowym, wydanie drugie, maj 2023",
@@ -7504,6 +7819,149 @@
     },
     "grupa": "kpp",
     "content": "1. NAJPIERW: Oceń liczbę poszkodowanych segregacją wstępną (START) już w rozpoznaniu. Przekaż SK PSP: liczbę poszkodowanych, możliwości ZRM na miejscu i — w porozumieniu z KAM — potrzebne siły, w tym mobilną bazę sprzętu medycznego. Do przybycia ZRM wskaż Koordynatora Medycznych Działań Ratowniczych (KMDR): lekarz, pielęgniarka lub ratownik medyczny.\n2. PARAMETRY: Zdarzenie masowe — potrzeby z segregacji przekraczają siły i środki obecne na miejscu; I – czerwony — oddech > 30/min · brak tętna na t. promieniowej · nawrót kapilarny > 2 s · nie wykonuje poleceń · oddycha dopiero po udrożnieniu; II – żółty — nie chodzi, oddech < 30/min, krążenie wydolne, wykonuje polecenia; III – zielony — chodzi samodzielnie; IV – czarny — nie oddycha mimo udrożnienia dróg oddechowych; Dzieci 1–8 lat — JumpSTART; dziecko < 1 roku z obrażeniami: zielony → żółty; CBRNE — segregacja SIEVE\n3. SEGREGACJA: Cel: uratować jak największą liczbę poszkodowanych. W segregacji wstępnej wykonuj tylko czynności ratujące życie: udrożnienie dróg oddechowych, pozycja boczna bezpieczna, zatamowanie krwotoku. Brak tętna na tętnicy promieniowej — zatamuj krwotok i oznacz jako I. U małych dzieci ocena chodzenia jest zawodna; nawrót kapilarny oceniaj na mostku lub czole. Segregację wtórną (pełne badanie, kolejność transportu) prowadzi najbardziej doświadczony personel medyczny.\n4. WSPÓŁPRACA Z KAM: Po przybyciu pierwszego ZRM koordynację medyczną przejmuje KAM; jego dane i sposób łączności przekazuje Ci SK PSP. KAM organizuje segregację medyczną, punkt lub obszar pomocy medycznej i transport pacjentów. KMDR z ratownikami KSRG działa w strefach zagrożenia dla ZRM i przekazuje informację o wykonaniu dostępu do poszkodowanych. Wymieniaj z KAM informacje o zagrożeniach, czasie wykonania dostępu i konieczności wycofania ZRM ze strefy.\n5. TRANSPORT I ZAKOŃCZENIE: Sprzętem KSRG przemieszczaj poszkodowanych tylko do miejsca, gdzie PRM może podjąć czynności. Transport sprzętem KSRG w stanie wyższej konieczności — decyduje wyłącznie KDR; powiadom SK i wpisz uzasadnienie w informacji ze zdarzenia. Sprzęt przekazany z poszkodowanym uzupełnij na miejscu „sztuka za sztukę”.\n6. WEZWIJ WSPARCIE, GDY: Potrzebujesz dodatkowych sił — przekaż to przez SDM do SK KP/KM PSP albo do dyspozytora medycznego. Mobilna baza sprzętu medycznego — wnioskuj przez SK PSP w porozumieniu z KAM. Grupa Ratownictwa Medycznego (GRMed) — na wniosek KDR przez SK KW PSP. Na miejscu są pojazdy elektryczne lub hybrydowe — równolegle zastosuj karty „Wypadek pojazdu elektrycznego po kolizji drogowej” i „Dezaktywacja awaryjna pojazdu elektrycznego”.\n7. NIE RÓB: Nie dopuść do niekontrolowanej ewakuacji poszkodowanych — nie przenoś katastrofy do szpitala."
+  },
+  {
+    "id": "KARTA-WYS-RATOWNICTWO-WYSOKOSCIOWE",
+    "wzorzec": 2,
+    "kategoria": "dzialania",
+    "grupa": "wys",
+    "zrodlo": "KG PSP: Zasady organizacji ratownictwa wysokościowego w KSRG, Warszawa, 12.04.2024",
+    "data_aktualizacji": "2026-10-27",
+    "slowo_kluczowe": "ratownictwo wysokosciowe",
+    "keywords": [
+      "ratownictwo wysokościowe zakres podstawowy",
+      "sgrw",
+      "grupa ratownictwa wysokościowego",
+      "techniki linowe",
+      "ewakuacja z wysokości",
+      "ewakuacja z kolejki linowej",
+      "ewakuacja z drzewa"
+    ],
+    "aliasy": [
+      "ratownictwo wysokościowe zakres podstawowy",
+      "sgrw",
+      "grupa ratownictwa wysokościowego",
+      "techniki linowe",
+      "ewakuacja z wysokości",
+      "ewakuacja z kolejki linowej",
+      "ewakuacja z drzewa"
+    ],
+    "prefix": "Ratownictwo wysokościowe — zakres podstawowy i współpraca KDR z SGRW (Zasady KG PSP 2024).",
+    "najpierw": [
+      {
+        "t": "Dotarcie do miejsca działań tylko z asekuracją i środkami ograniczającymi spadanie (sprzęt z zał. 3 i 3a).",
+        "zr": "RWys 2024",
+        "str": 7
+      },
+      {
+        "t": "Zabezpiecz poszkodowanego przed upadkiem: lina, pętla do asekuracji, uprząż ewakuacyjna.",
+        "zr": "RWys 2024",
+        "str": 7
+      },
+      {
+        "t": "Kolej linowa, drzewo, konstrukcja — techniki dedykowane tylko przez ratowników z dodatkowym szkoleniem; w innym razie wezwij SGRW.",
+        "zr": "RWys 2024",
+        "str": 7
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Zakres podstawowy",
+        "wartosc": "wszystkie JRG PSP; OSP spełniające standardy · min. 3 ratowników, niezwłocznie",
+        "zr": "RWys 2024",
+        "str": 7
+      },
+      {
+        "nazwa": "SGRW poziom A",
+        "wartosc": "min. 3 ratowników (w tym dowódca) · niezwłocznie",
+        "zr": "RWys 2024",
+        "str": 12
+      },
+      {
+        "nazwa": "SGRW poziom B",
+        "wartosc": "min. 5 ratowników (w tym dowódca) · niezwłocznie",
+        "zr": "RWys 2024",
+        "str": 12
+      },
+      {
+        "nazwa": "Poziom S (AS / BS)",
+        "wartosc": "działania z pokładu śmigłowca; skład może być mniejszy, min. 1 ratownik śmigłowcowy — operator",
+        "zr": "RWys 2024",
+        "str": 13
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Zadania zakresu podstawowego",
+        "punkty": [
+          {
+            "t": "Praca w podparciu i środki ograniczające poruszanie się ratownika.",
+            "zr": "RWys 2024",
+            "str": 7
+          },
+          {
+            "t": "Ewakuacja osób, zwierząt i mienia: wyciągnięcie, opuszczenie, wyprowadzenie lub zejście.",
+            "zr": "RWys 2024",
+            "str": 7
+          }
+        ]
+      },
+      {
+        "etykieta": "Współpraca z SGRW",
+        "punkty": [
+          {
+            "t": "SGRW wykonuje zadania zakresu podstawowego i wykraczające poza niego technikami linowymi; poziom S — z pokładu śmigłowca.",
+            "zr": "RWys 2024",
+            "str": 11
+          },
+          {
+            "t": "Przy działaniach różnych pododdziałów SGRW tworzy odrębny odcinek bojowy podległy KDR.",
+            "zr": "RWys 2024",
+            "str": 20
+          },
+          {
+            "t": "Dowodzący SGRW określa skład grupy, może go powiększyć lub polecić zadysponowanie kolejnej grupy.",
+            "zr": "RWys 2024",
+            "str": 20
+          },
+          {
+            "t": "Czynności podstawowe i specjalistyczne koordynuje na miejscu KDR, a w systemie — SK PSP.",
+            "zr": "RWys 2024",
+            "str": 20
+          }
+        ]
+      },
+      {
+        "etykieta": "Sprzęt",
+        "punkty": [
+          {
+            "t": "Sprzęt do ratownictwa wysokościowego: normy PN/EN, CE, przechowywany jako zestaw w worach, przegląd co najmniej raz na 12 miesięcy.",
+            "zr": "RWys 2024",
+            "str": 8
+          }
+        ]
+      }
+    ],
+    "nie_rob": [
+      {
+        "t": "Nie stosuj technik ewakuacji z kolei linowych, drzew i konstrukcji bez wymaganego szkolenia.",
+        "zr": "RWys 2024",
+        "str": 8
+      }
+    ],
+    "tagi_wspolne": [
+      "wysokości",
+      "asekuracja linowa"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-rwys-2024",
+        "strona": 6,
+        "sekcja": "Część 2 (s. 6–10), część 3 — SGRW (s. 10–20)"
+      }
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: Dotarcie do miejsca działań tylko z asekuracją i środkami ograniczającymi spadanie (sprzęt z zał. 3 i 3a). Zabezpiecz poszkodowanego przed upadkiem: lina, pętla do asekuracji, uprząż ewakuacyjna. Kolej linowa, drzewo, konstrukcja — techniki dedykowane tylko przez ratowników z dodatkowym szkoleniem; w innym razie wezwij SGRW.\n2. PARAMETRY: Zakres podstawowy — wszystkie JRG PSP; OSP spełniające standardy · min. 3 ratowników, niezwłocznie; SGRW poziom A — min. 3 ratowników (w tym dowódca) · niezwłocznie; SGRW poziom B — min. 5 ratowników (w tym dowódca) · niezwłocznie; Poziom S (AS / BS) — działania z pokładu śmigłowca; skład może być mniejszy, min. 1 ratownik śmigłowcowy — operator\n3. ZADANIA ZAKRESU PODSTAWOWEGO: Praca w podparciu i środki ograniczające poruszanie się ratownika. Ewakuacja osób, zwierząt i mienia: wyciągnięcie, opuszczenie, wyprowadzenie lub zejście.\n4. WSPÓŁPRACA Z SGRW: SGRW wykonuje zadania zakresu podstawowego i wykraczające poza niego technikami linowymi; poziom S — z pokładu śmigłowca. Przy działaniach różnych pododdziałów SGRW tworzy odrębny odcinek bojowy podległy KDR. Dowodzący SGRW określa skład grupy, może go powiększyć lub polecić zadysponowanie kolejnej grupy. Czynności podstawowe i specjalistyczne koordynuje na miejscu KDR, a w systemie — SK PSP.\n5. SPRZĘT: Sprzęt do ratownictwa wysokościowego: normy PN/EN, CE, przechowywany jako zestaw w worach, przegląd co najmniej raz na 12 miesięcy.\n6. NIE RÓB: Nie stosuj technik ewakuacji z kolei linowych, drzew i konstrukcji bez wymaganego szkolenia."
   },
   {
     "id": "ZAT-EV-01",

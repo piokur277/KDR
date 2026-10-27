@@ -117,6 +117,22 @@
       "dotyczy_kart": [
         "KARTA-BUD-"
       ]
+    },
+    {
+      "id": "kgpsp-rat-wodne-dokumenty",
+      "url": "https://www.gov.pl/web/kgpsp/zasady-organizacji-rat-wodne",
+      "opis": "KG PSP — Ratownictwo wodne: zasady i inne dokumenty",
+      "dotyczy_kart": [
+        "KARTA-WOD-"
+      ]
+    },
+    {
+      "id": "kgpsp-rat-wys-dokumenty",
+      "url": "https://www.gov.pl/web/kgpsp/zasady-organizacji-rat-wys",
+      "opis": "KG PSP — Ratownictwo wysokościowe: zasady i inne dokumenty",
+      "dotyczy_kart": [
+        "KARTA-WYS-"
+      ]
     }
   ],
   "pliki_oficjalne": {
@@ -251,6 +267,16 @@
         "dokument_id": "doc-dpr-2023-zal12",
         "url": "https://www.gov.pl/attachment/59ec5a52-70b4-448b-932c-d0a90555d921",
         "strona": "zasady-organizacji-dpr"
+      },
+      {
+        "dokument_id": "doc-rwn-2026",
+        "url": "https://www.gov.pl/attachment/3e623c2c-c0bb-44e5-8e18-4e50f373339b",
+        "strona": "zasady-organizacji-rat-wodne"
+      },
+      {
+        "dokument_id": "doc-rwys-2024",
+        "url": "https://www.gov.pl/attachment/4ab892ae-f760-4bfc-af6c-b118fa9843fd",
+        "strona": "zasady-organizacji-rat-wys"
       }
     ]
   }

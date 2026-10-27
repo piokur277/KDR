@@ -2299,5 +2299,50 @@
         "typ": "pdf"
       }
     ]
+  },
+  {
+    "id": "KARTA-WOD-ZAKRES-PODSTAWOWY",
+    "procedura": "Ratownictwo wodne i lodowe — zakres podstawowy JRG i OSP oraz zasady bezpieczeństwa ratowników (Zasady KG PSP 2026).",
+    "miesiac_akademii": null,
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-rwn-2026",
+        "strona": 9,
+        "sekcja": "Część 2 (s. 9–14), zał. 2 — zasady bezpieczeństwa (s. 43–45)",
+        "tytul": "Zasady organizacji ratownictwa wodno-nurkowego w krajowym systemie ratowniczo-gaśniczym",
+        "plik": "dokumenty/wodne/zasady-ratownictwa-wodno-nurkowego-2026-08.pdf",
+        "typ": "pdf"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-WOD-WSPOLPRACA-SGRWN-SGS",
+    "procedura": "Współpraca KDR ze specjalistyczną grupą wodno-nurkową (SGRW-N) i sonarową (SGS) — poziomy, zadania KDR, dowodzenie (Zasady KG PSP 2026).",
+    "miesiac_akademii": null,
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-rwn-2026",
+        "strona": 15,
+        "sekcja": "Część 3 — SGRW-N i SGS (s. 15–19), zał. 2 (s. 45), zał. 11 — prace podwodne (s. 60–63)",
+        "tytul": "Zasady organizacji ratownictwa wodno-nurkowego w krajowym systemie ratowniczo-gaśniczym",
+        "plik": "dokumenty/wodne/zasady-ratownictwa-wodno-nurkowego-2026-08.pdf",
+        "typ": "pdf"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-WYS-RATOWNICTWO-WYSOKOSCIOWE",
+    "procedura": "Ratownictwo wysokościowe — zakres podstawowy i współpraca KDR z SGRW (Zasady KG PSP 2024).",
+    "miesiac_akademii": null,
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-rwys-2024",
+        "strona": 6,
+        "sekcja": "Część 2 (s. 6–10), część 3 — SGRW (s. 10–20)",
+        "tytul": "Zasady organizacji ratownictwa wysokościowego w krajowym systemie ratowniczo-gaśniczym",
+        "plik": "dokumenty/wysokosciowe/zasady-ratownictwa-wysokosciowego-2024-04.pdf",
+        "typ": "pdf"
+      }
+    ]
   }
 ]

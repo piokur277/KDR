@@ -1,0 +1,142 @@
+{
+  "id": "KARTA-WYS-RATOWNICTWO-WYSOKOSCIOWE",
+  "wzorzec": 2,
+  "kategoria": "dzialania",
+  "grupa": "wys",
+  "zrodlo": "KG PSP: Zasady organizacji ratownictwa wysokościowego w KSRG, Warszawa, 12.04.2024",
+  "data_aktualizacji": "2026-10-27",
+  "slowo_kluczowe": "ratownictwo wysokosciowe",
+  "keywords": [
+    "ratownictwo wysokościowe zakres podstawowy",
+    "sgrw",
+    "grupa ratownictwa wysokościowego",
+    "techniki linowe",
+    "ewakuacja z wysokości",
+    "ewakuacja z kolejki linowej",
+    "ewakuacja z drzewa"
+  ],
+  "aliasy": [
+    "ratownictwo wysokościowe zakres podstawowy",
+    "sgrw",
+    "grupa ratownictwa wysokościowego",
+    "techniki linowe",
+    "ewakuacja z wysokości",
+    "ewakuacja z kolejki linowej",
+    "ewakuacja z drzewa"
+  ],
+  "prefix": "Ratownictwo wysokościowe — zakres podstawowy i współpraca KDR z SGRW (Zasady KG PSP 2024).",
+  "najpierw": [
+    {
+      "t": "Dotarcie do miejsca działań tylko z asekuracją i środkami ograniczającymi spadanie (sprzęt z zał. 3 i 3a).",
+      "zr": "RWys 2024",
+      "str": 7
+    },
+    {
+      "t": "Zabezpiecz poszkodowanego przed upadkiem: lina, pętla do asekuracji, uprząż ewakuacyjna.",
+      "zr": "RWys 2024",
+      "str": 7
+    },
+    {
+      "t": "Kolej linowa, drzewo, konstrukcja — techniki dedykowane tylko przez ratowników z dodatkowym szkoleniem; w innym razie wezwij SGRW.",
+      "zr": "RWys 2024",
+      "str": 7
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "Zakres podstawowy",
+      "wartosc": "wszystkie JRG PSP; OSP spełniające standardy · min. 3 ratowników, niezwłocznie",
+      "zr": "RWys 2024",
+      "str": 7
+    },
+    {
+      "nazwa": "SGRW poziom A",
+      "wartosc": "min. 3 ratowników (w tym dowódca) · niezwłocznie",
+      "zr": "RWys 2024",
+      "str": 12
+    },
+    {
+      "nazwa": "SGRW poziom B",
+      "wartosc": "min. 5 ratowników (w tym dowódca) · niezwłocznie",
+      "zr": "RWys 2024",
+      "str": 12
+    },
+    {
+      "nazwa": "Poziom S (AS / BS)",
+      "wartosc": "działania z pokładu śmigłowca; skład może być mniejszy, min. 1 ratownik śmigłowcowy — operator",
+      "zr": "RWys 2024",
+      "str": 13
+    }
+  ],
+  "sekcje": [
+    {
+      "etykieta": "Zadania zakresu podstawowego",
+      "punkty": [
+        {
+          "t": "Praca w podparciu i środki ograniczające poruszanie się ratownika.",
+          "zr": "RWys 2024",
+          "str": 7
+        },
+        {
+          "t": "Ewakuacja osób, zwierząt i mienia: wyciągnięcie, opuszczenie, wyprowadzenie lub zejście.",
+          "zr": "RWys 2024",
+          "str": 7
+        }
+      ]
+    },
+    {
+      "etykieta": "Współpraca z SGRW",
+      "punkty": [
+        {
+          "t": "SGRW wykonuje zadania zakresu podstawowego i wykraczające poza niego technikami linowymi; poziom S — z pokładu śmigłowca.",
+          "zr": "RWys 2024",
+          "str": 11
+        },
+        {
+          "t": "Przy działaniach różnych pododdziałów SGRW tworzy odrębny odcinek bojowy podległy KDR.",
+          "zr": "RWys 2024",
+          "str": 20
+        },
+        {
+          "t": "Dowodzący SGRW określa skład grupy, może go powiększyć lub polecić zadysponowanie kolejnej grupy.",
+          "zr": "RWys 2024",
+          "str": 20
+        },
+        {
+          "t": "Czynności podstawowe i specjalistyczne koordynuje na miejscu KDR, a w systemie — SK PSP.",
+          "zr": "RWys 2024",
+          "str": 20
+        }
+      ]
+    },
+    {
+      "etykieta": "Sprzęt",
+      "punkty": [
+        {
+          "t": "Sprzęt do ratownictwa wysokościowego: normy PN/EN, CE, przechowywany jako zestaw w worach, przegląd co najmniej raz na 12 miesięcy.",
+          "zr": "RWys 2024",
+          "str": 8
+        }
+      ]
+    }
+  ],
+  "nie_rob": [
+    {
+      "t": "Nie stosuj technik ewakuacji z kolei linowych, drzew i konstrukcji bez wymaganego szkolenia.",
+      "zr": "RWys 2024",
+      "str": 8
+    }
+  ],
+  "tagi_wspolne": [
+    "wysokości",
+    "asekuracja linowa"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-rwys-2024",
+      "strona": 6,
+      "sekcja": "Część 2 (s. 6–10), część 3 — SGRW (s. 10–20)"
+    }
+  ],
+  "data_przegladu": "2026-10-27"
+}

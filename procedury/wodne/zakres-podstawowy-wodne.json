@@ -1,0 +1,168 @@
+{
+  "id": "KARTA-WOD-ZAKRES-PODSTAWOWY",
+  "wzorzec": 2,
+  "kategoria": "dzialania",
+  "grupa": "wod",
+  "zrodlo": "KG PSP: Zasady organizacji ratownictwa wodno-nurkowego w KSRG, Warszawa, 12.08.2026 (zastępują zasady ratownictwa wodnego z 2020 r.)",
+  "data_aktualizacji": "2026-10-27",
+  "slowo_kluczowe": "ratownictwo wodne zakres podstawowy",
+  "keywords": [
+    "ratownictwo lodowe",
+    "tonący",
+    "człowiek pod lodem",
+    "załamanie lodu",
+    "ratownictwo powodziowe",
+    "woda szybkopłynąca",
+    "nurkowanie na wstrzymanym oddechu"
+  ],
+  "aliasy": [
+    "ratownictwo lodowe",
+    "tonący",
+    "człowiek pod lodem",
+    "załamanie lodu",
+    "ratownictwo powodziowe",
+    "woda szybkopłynąca",
+    "nurkowanie na wstrzymanym oddechu"
+  ],
+  "prefix": "Ratownictwo wodne i lodowe — zakres podstawowy JRG i OSP oraz zasady bezpieczeństwa ratowników (Zasady KG PSP 2026).",
+  "najpierw": [
+    {
+      "t": "Ratownik na lodzie: suchy skafander, urządzenie wypornościowe, kask, lina asekuracyjna zamocowana trwale; zabiera sprzęt do ratownictwa lodowego.",
+      "zr": "RW-N 2026",
+      "str": 44
+    },
+    {
+      "t": "Ratownik w wodzie: suchy lub neoprenowy skafander, urządzenie wypornościowe (albo boja SP / pas „węgorz”), asekuracja liną z brzegu lub łodzi.",
+      "zr": "RW-N 2026",
+      "str": 44
+    },
+    {
+      "t": "Każdy na wodzie, przy brzegu, na łodzi i na lodzie: środek wypornościowy, sygnalizacja wizualna lub dźwiękowa, nóż ratowniczy.",
+      "zr": "RW-N 2026",
+      "str": 43
+    },
+    {
+      "t": "Oznacz miejsce działań; w miarę możliwości powiadom właściciela drogi wodnej.",
+      "zr": "RW-N 2026",
+      "str": 43
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "Kto realizuje",
+      "wartosc": "wszystkie JRG PSP; OSP wytypowane i spełniające standardy",
+      "zr": "RW-N 2026",
+      "str": 9
+    },
+    {
+      "nazwa": "Gotowość",
+      "wartosc": "min. 6 ratowników, w tym ≥ 2 z kwalifikacjami ratownictwa wodnego; wyposażenie osobiste dla ≥ 2",
+      "zr": "RW-N 2026",
+      "str": 9
+    },
+    {
+      "nazwa": "Szczególne warunki",
+      "wartosc": "noc, zła pogoda, prąd > 0,5 m/s, przestrzenie zamknięte — sprzęt i łączność odpowiednie do zagrożeń",
+      "zr": "RW-N 2026",
+      "str": 43
+    },
+    {
+      "nazwa": "Lina asekuracyjna na lodzie",
+      "wartosc": "mocowana na brzegu, na lodzie nośnym (śruba lodowa) albo do sań lodowych lub trapu",
+      "zr": "RW-N 2026",
+      "str": 44
+    }
+  ],
+  "sekcje": [
+    {
+      "etykieta": "Zadania zakresu podstawowego",
+      "punkty": [
+        {
+          "t": "Rozpoznanie i ocena zagrożenia dla życia, zdrowia, mienia i środowiska.",
+          "zr": "RW-N 2026",
+          "str": 9
+        },
+        {
+          "t": "Pomoc tonącym (także na lodzie) i ludziom na wodach powodziowych: dotarcie, ewakuacja ze strefy, medyczne działania ratownicze, przekazanie ZRM.",
+          "zr": "RW-N 2026",
+          "str": 9
+        },
+        {
+          "t": "Asekuracja ratowników działających na wodzie, lodzie i na brzegu; ewakuacja zwierząt; ograniczanie zagrożeń dla środowiska wodnego.",
+          "zr": "RW-N 2026",
+          "str": 10
+        },
+        {
+          "t": "Na morzu działania prowadzi i koordynuje Morska Służba Poszukiwania i Ratownictwa (SAR) — KSRG wspiera na wezwanie.",
+          "zr": "RW-N 2026",
+          "str": 10
+        }
+      ]
+    },
+    {
+      "etykieta": "Bezpieczeństwo w wodzie",
+      "punkty": [
+        {
+          "t": "Na rzekach ratownik w wodzie zakłada kask; w wodzie szybkopłynącej i powodziowej — obowiązkowo urządzenie wypornościowe.",
+          "zr": "RW-N 2026",
+          "str": 44
+        },
+        {
+          "t": "Łódź: środki wypornościowe dla każdej osoby; za bezpieczeństwo łodzi i osób odpowiada prowadzący jednostkę.",
+          "zr": "RW-N 2026",
+          "str": 43
+        },
+        {
+          "t": "Przy powodzi zapewnij oświetlenie terenu, sprzęt nawigacyjny, łączność, rezerwę suchej odzieży, odpoczynek i zmiany strażaków.",
+          "zr": "RW-N 2026",
+          "str": 43
+        }
+      ]
+    },
+    {
+      "etykieta": "Nurkowanie na wstrzymanym oddechu",
+      "punkty": [
+        {
+          "t": "Tylko ratownik przeszkolony, na wodzie bez lodu, bez ryzyka uwięzienia, z liną asekuracyjną i boją SP / pasem „węgorz”.",
+          "zr": "RW-N 2026",
+          "str": 45
+        },
+        {
+          "t": "Przerwij przy wyczerpaniu ratownika, gdy głębokość przekracza jego możliwości albo gdy KDR lub ratownik oceni zagrożenie życia.",
+          "zr": "RW-N 2026",
+          "str": 45
+        }
+      ]
+    }
+  ],
+  "wsparcie": [
+    {
+      "t": "Potrzebny nurek, sonar lub działania pod wodą — karta „Współpraca KDR z SGRW-N i SGS”.",
+      "zr": "RW-N 2026",
+      "str": 45
+    }
+  ],
+  "nie_rob": [
+    {
+      "t": "Nie wykonuj zadań samowolnie ani bez wymaganych zabezpieczeń.",
+      "zr": "RW-N 2026",
+      "str": 43
+    },
+    {
+      "t": "Nie nurkuj na wstrzymanym oddechu pod lodem.",
+      "zr": "RW-N 2026",
+      "str": 45
+    }
+  ],
+  "tagi_wspolne": [
+    "ratownictwo wodne"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-rwn-2026",
+      "strona": 9,
+      "sekcja": "Część 2 (s. 9–14), zał. 2 — zasady bezpieczeństwa (s. 43–45)"
+    }
+  ],
+  "data_przegladu": "2026-10-27"
+}

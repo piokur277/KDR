@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-27T14:33:11.218Z",
-  "procedure_count": 123,
-  "unique_direct_terms": 851,
-  "linked_procedure_count": 121,
-  "document_count": 84,
+  "generated_at": "2026-10-27T15:00:05.973Z",
+  "procedure_count": 126,
+  "unique_direct_terms": 875,
+  "linked_procedure_count": 124,
+  "document_count": 86,
   "shared_tags": [
     {
       "tag": "edukacja obywatelska",
@@ -627,6 +627,14 @@
       "ids": [
         "KARTA-BUD-DPR-WSPOLPRACA-SGPR",
         "KARTA-BUD-DPR-ZAKRES-PODSTAWOWY"
+      ]
+    },
+    {
+      "tag": "ratownictwo wodne",
+      "count": 2,
+      "ids": [
+        "KARTA-WOD-WSPOLPRACA-SGRWN-SGS",
+        "KARTA-WOD-ZAKRES-PODSTAWOWY"
       ]
     },
     {
