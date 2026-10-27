@@ -1,0 +1,131 @@
+{
+  "id": "KARTA-BUD-DPR-ZAKRES-PODSTAWOWY",
+  "wzorzec": 2,
+  "kategoria": "dzialania",
+  "zrodlo": "KG PSP: Zasady organizacji działań poszukiwawczo-ratowniczych w KSRG (2023, nowelizacja grudzień 2023) z załącznikami",
+  "data_aktualizacji": "2026-10-27",
+  "slowo_kluczowe": "dzialania poszukiwawczo-ratownicze zakres podstawowy",
+  "keywords": [
+    "działania poszukiwawczo-ratownicze",
+    "lokalizacja osób zasypanych",
+    "osoby zasypane w gruzowisku",
+    "dpr zakres podstawowy",
+    "poszukiwania pod gruzami"
+  ],
+  "aliasy": [
+    "działania poszukiwawczo-ratownicze",
+    "lokalizacja osób zasypanych",
+    "osoby zasypane w gruzowisku",
+    "dpr zakres podstawowy",
+    "poszukiwania pod gruzami"
+  ],
+  "prefix": "Działania poszukiwawczo-ratownicze — zakres podstawowy JRG i OSP (Zasady KG PSP 2023).",
+  "najpierw": [
+    {
+      "t": "Rozpoznaj zagrożenia i określ wielkość strefy zagrożenia.",
+      "zr": "DPR 2023",
+      "str": 6
+    },
+    {
+      "t": "Wstępnie ustal liczbę osób zaginionych.",
+      "zr": "DPR 2023",
+      "str": 6
+    },
+    {
+      "t": "Zabezpiecz i oświetl miejsce zdarzenia.",
+      "zr": "DPR 2023",
+      "str": 6
+    },
+    {
+      "t": "Gdy potrzebna jest lokalizacja przyrządowa, psy ratownicze lub działania specjalistyczne — zgłoś do SK potrzebę SGPR.",
+      "zr": "DPR 2023",
+      "str": 8
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "Kto realizuje",
+      "wartosc": "wszystkie JRG PSP; OSP i inne podmioty, które zadeklarowały tę zdolność",
+      "zr": "DPR 2023",
+      "str": 5
+    },
+    {
+      "nazwa": "Gotowość",
+      "wartosc": "min. 6 strażaków, niezwłoczny czas alarmowania",
+      "zr": "DPR 2023",
+      "str": 6
+    },
+    {
+      "nazwa": "Lokalizacja w zakresie podstawowym",
+      "wartosc": "bez metody przyrządowej i bez psów ratowniczych",
+      "zr": "DPR 2023",
+      "str": 6
+    }
+  ],
+  "sekcje": [
+    {
+      "etykieta": "Zadania zakresu podstawowego",
+      "punkty": [
+        {
+          "t": "Lokalizuj osoby w miejscach niedostępnych, docieraj do poszkodowanych posiadanym sprzętem, udzielaj KPP, ewakuuj ze strefy zagrożenia.",
+          "zr": "DPR 2023",
+          "str": 6
+        },
+        {
+          "t": "Zabezpiecz konstrukcję w zakresie niezbędnym dla bezpieczeństwa ratowników i ewakuacji poszkodowanych.",
+          "zr": "DPR 2023",
+          "str": 6
+        },
+        {
+          "t": "Zabezpiecz instalacje techniczne w obiekcie i związane z obiektem.",
+          "zr": "DPR 2023",
+          "str": 6
+        },
+        {
+          "t": "Wykonuj dostęp do zlokalizowanych poszkodowanych; ewakuuj zwierzęta i mienie; współdziałaj z innymi podmiotami.",
+          "zr": "DPR 2023",
+          "str": 6
+        }
+      ]
+    },
+    {
+      "etykieta": "Współdziałanie z SGPR",
+      "punkty": [
+        {
+          "t": "SGPR wspiera lokalizację osób zasypanych metodą przyrządową i psami ratowniczymi oraz działania specjalistyczne.",
+          "zr": "DPR 2023",
+          "str": 8
+        },
+        {
+          "t": "Do działań z psami dysponowani są wyłącznie przewodnicy z psami z ważną specjalnością gruzowiskową.",
+          "zr": "DPR 2023",
+          "str": 8
+        },
+        {
+          "t": "Gdy SGPR jest dysponowana śmigłowcem — jednostka zakresu podstawowego przygotowuje lądowisko.",
+          "zr": "DPR 2023",
+          "str": 8
+        }
+      ]
+    }
+  ],
+  "wsparcie": [
+    {
+      "t": "Szczegóły współpracy z SGPR — karta „Współpraca KDR z SGPR”; bezpieczeństwo na gruzowisku — karta „Bezpieczeństwo działań na gruzowisku”.",
+      "zr": "DPR 2023",
+      "str": 8
+    }
+  ],
+  "tagi_wspolne": [
+    "katastrofa budowlana",
+    "poszukiwania"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-dpr-2023",
+      "strona": 5,
+      "sekcja": "Część 2 — zakres podstawowy (s. 5–8)"
+    }
+  ],
+  "data_przegladu": "2026-10-27"
+}

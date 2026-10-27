@@ -1,0 +1,160 @@
+{
+  "id": "KARTA-BUD-BEZPIECZENSTWO-DZIALAN-GRUZOWISKO",
+  "wzorzec": 2,
+  "kategoria": "dzialania",
+  "zrodlo": "KG PSP: Zasady organizacji działań poszukiwawczo-ratowniczych w KSRG (2023, nowelizacja grudzień 2023) z załącznikami",
+  "data_aktualizacji": "2026-10-27",
+  "slowo_kluczowe": "bezpieczenstwo dzialan na gruzowisku",
+  "keywords": [
+    "gejzer",
+    "cisza na gruzowisku",
+    "obszar zamknięty gruzowisko",
+    "oficer bezpieczeństwa",
+    "sygnały alarmowe na gruzowisku",
+    "oznakowanie poszkodowanych w gruzowisku"
+  ],
+  "aliasy": [
+    "gejzer",
+    "cisza na gruzowisku",
+    "obszar zamknięty gruzowisko",
+    "oficer bezpieczeństwa",
+    "sygnały alarmowe na gruzowisku",
+    "oznakowanie poszkodowanych w gruzowisku"
+  ],
+  "prefix": "Bezpieczeństwo działań podczas katastrofy budowlanej — strefa, obszary zamknięte, sygnały, monitorowanie (Metodyka KG PSP 2023).",
+  "najpierw": [
+    {
+      "t": "O strefie zagrożenia decyduje KDR (wspierany przez dowódcę SGPR i oficera bezpieczeństwa); granica ≥ 3–5 m od brzegu gruzowiska.",
+      "zr": "Metodyka bezp.",
+      "str": 2
+    },
+    {
+      "t": "Niestabilne elementy pionowe: obszar zamknięty na co najmniej 1,5 wysokości elementu.",
+      "zr": "Metodyka bezp.",
+      "str": 2
+    },
+    {
+      "t": "Wyznacz obserwatorów stabilności, zapewnij niezależną łączność i sygnał alarmowy, drogi ewakuacji i strefę bezpieczną.",
+      "zr": "Metodyka bezp.",
+      "str": 3
+    },
+    {
+      "t": "W strefie tylko ratownicy skierowani do zadań — po zarejestrowaniu wejścia.",
+      "zr": "Metodyka bezp.",
+      "str": 4
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "„GEJZER” — natychmiastowa ewakuacja",
+      "wartosc": "3 sygnały po 1 s (powtarzane); radio i megafon: „GEJZER”",
+      "zr": "Metodyka bezp.",
+      "str": 10
+    },
+    {
+      "nazwa": "„OMEGA” / „CISZA NA GRUZOWISKU”",
+      "wartosc": "1 sygnał 3 s",
+      "zr": "Metodyka bezp.",
+      "str": 10
+    },
+    {
+      "nazwa": "„WZNÓW DZIAŁANIA”",
+      "wartosc": "sygnał 3 s + sygnał 1 s",
+      "zr": "Metodyka bezp.",
+      "str": 10
+    },
+    {
+      "nazwa": "Ryzyko III / IV",
+      "wartosc": "III — wyznacz obszar zamknięty · IV — sytuacja krytyczna, całkowity zakaz dostępu",
+      "zr": "Metodyka bezp.",
+      "str": 8
+    },
+    {
+      "nazwa": "Kolory oznakowania",
+      "wartosc": "czerwony — zagrożenie · pomarańczowy — informacja · niebieski — monitorowanie · zielony — bezpieczna droga",
+      "zr": "Metodyka bezp.",
+      "str": 14
+    }
+  ],
+  "sekcje": [
+    {
+      "etykieta": "Postępowanie z zagrożeniem",
+      "punkty": [
+        {
+          "t": "Unikanie — nie wprowadzaj ratowników, jeśli to zbędne; usuwanie — bez naruszania stabilności gruzowiska; ograniczenie — wejście do obszaru zamkniętego tylko z pełnym monitorowaniem; monitorowanie.",
+          "zr": "Metodyka bezp.",
+          "str": 4
+        },
+        {
+          "t": "Kontroluj, czy stosowane techniki ratownicze nie pogarszają stabilności gruzowiska.",
+          "zr": "Metodyka bezp.",
+          "str": 3
+        },
+        {
+          "t": "Zagrożenia dodatkowe: pożar, zadymienie, wyciek materiałów niebezpiecznych, media (woda, prąd, gaz), butle z gazem.",
+          "zr": "Metodyka bezp.",
+          "str": 3
+        }
+      ]
+    },
+    {
+      "etykieta": "Po alarmowej ewakuacji",
+      "punkty": [
+        {
+          "t": "W strefie bezpiecznej sprawdź stan osobowy — czy wszyscy się wycofali i czy ktoś nie potrzebuje pomocy.",
+          "zr": "Metodyka bezp.",
+          "str": 4
+        }
+      ]
+    },
+    {
+      "etykieta": "Monitorowanie",
+      "punkty": [
+        {
+          "t": "Początkowe — ratownicy obserwatorzy (bez przyrządów); specjalistyczne — oficerowie bezpieczeństwa SGPR poziomu C; zaawansowane — konstruktorzy, rzeczoznawcy, nadzór budowlany.",
+          "zr": "Metodyka bezp.",
+          "str": 8
+        }
+      ]
+    },
+    {
+      "etykieta": "Oznakowanie poszkodowanych",
+      "punkty": [
+        {
+          "t": "Oznacz miejsce, gdy dotarcie lub ewakuacja nie nastąpi od razu: duże „V” ok. 50 cm, jaskrawy kolor, strzałka dokładnie do miejsca, jak najbliżej poszkodowanego.",
+          "zr": "DPR 2023",
+          "str": 98
+        },
+        {
+          "t": "Oznakowanie INSARAG stosują wyłącznie SGPR poziomu C (USAR).",
+          "zr": "DPR 2023",
+          "str": 98
+        }
+      ]
+    }
+  ],
+  "nie_rob": [
+    {
+      "t": "Nie wchodź do obszaru zamkniętego bez wyznaczonego sposobu działania i monitorowania.",
+      "zr": "Metodyka bezp.",
+      "str": 4
+    }
+  ],
+  "tagi_wspolne": [
+    "katastrofa budowlana",
+    "bezpieczenstwo ratownikow"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-dpr-2023-zal12",
+      "strona": 1,
+      "sekcja": "Metodyka bezpieczeństwa działań podczas katastrof budowlanych (s. 1–14)"
+    },
+    {
+      "dokument_id": "doc-dpr-2023",
+      "strona": 97,
+      "sekcja": "Zał. 11 — oznakowanie terenu działań i obiektów (s. 97–98)"
+    }
+  ],
+  "data_przegladu": "2026-10-27"
+}

@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-27T14:24:35.303Z",
-  "procedure_count": 120,
-  "unique_direct_terms": 831,
-  "linked_procedure_count": 118,
-  "document_count": 82,
+  "generated_at": "2026-10-27T14:33:11.218Z",
+  "procedure_count": 123,
+  "unique_direct_terms": 851,
+  "linked_procedure_count": 121,
+  "document_count": 84,
   "shared_tags": [
     {
       "tag": "edukacja obywatelska",
@@ -201,6 +201,22 @@
       ]
     },
     {
+      "tag": "katastrofa budowlana",
+      "count": 10,
+      "ids": [
+        "KARTA-BUD-BEZPIECZENSTWO-DZIALAN-GRUZOWISKO",
+        "KARTA-BUD-DPR-WSPOLPRACA-SGPR",
+        "KARTA-BUD-DPR-ZAKRES-PODSTAWOWY",
+        "KARTA-BUD-INFORMACJE-DODATKOWE-KATASTROFA-BUDOWLANA",
+        "KARTA-BUD-ORGANIZACJA-DZIALAN-KATASTROFA-BUDOWLANA",
+        "KARTA-BUD-PRIORYTETY-TYPOW-ZAWALEN",
+        "KARTA-BUD-PRZEKAZANIE-KATASTROFA-BUDOWLANA",
+        "KARTA-BUD-ROZPOZNANIE-KATASTROFA-BUDOWLANA",
+        "KARTA-BUD-STREFA-I-EWAKUACJA-KATASTROFA-BUDOWLANA",
+        "KARTA-BUD-ZABEZPIECZENIE-LOGISTYCZNE-KATASTROFA-BUDOWLANA"
+      ]
+    },
+    {
       "tag": "akademia olioc wrzesien",
       "count": 8,
       "ids": [
@@ -253,19 +269,6 @@
         "KARTA-OLIOC-LISTOPAD-04-BRAK_WODY",
         "KARTA-OLIOC-LISTOPAD-02-SWIATLO_ENERGIA",
         "KARTA-OLIOC-LISTOPAD-06-ZYWNOSC_BEZ_PRADU"
-      ]
-    },
-    {
-      "tag": "katastrofa budowlana",
-      "count": 7,
-      "ids": [
-        "KARTA-BUD-INFORMACJE-DODATKOWE-KATASTROFA-BUDOWLANA",
-        "KARTA-BUD-ORGANIZACJA-DZIALAN-KATASTROFA-BUDOWLANA",
-        "KARTA-BUD-PRIORYTETY-TYPOW-ZAWALEN",
-        "KARTA-BUD-PRZEKAZANIE-KATASTROFA-BUDOWLANA",
-        "KARTA-BUD-ROZPOZNANIE-KATASTROFA-BUDOWLANA",
-        "KARTA-BUD-STREFA-I-EWAKUACJA-KATASTROFA-BUDOWLANA",
-        "KARTA-BUD-ZABEZPIECZENIE-LOGISTYCZNE-KATASTROFA-BUDOWLANA"
       ]
     },
     {
@@ -616,6 +619,14 @@
       "ids": [
         "KARTA-KPP-OPARZENIE-CHEMICZNE",
         "KARTA-KPP-OPARZENIE-TERMICZNE"
+      ]
+    },
+    {
+      "tag": "poszukiwania",
+      "count": 2,
+      "ids": [
+        "KARTA-BUD-DPR-WSPOLPRACA-SGPR",
+        "KARTA-BUD-DPR-ZAKRES-PODSTAWOWY"
       ]
     },
     {

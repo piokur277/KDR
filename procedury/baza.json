@@ -202,6 +202,457 @@
     ]
   },
   {
+    "id": "KARTA-BUD-BEZPIECZENSTWO-DZIALAN-GRUZOWISKO",
+    "wzorzec": 2,
+    "kategoria": "dzialania",
+    "zrodlo": "KG PSP: Zasady organizacji działań poszukiwawczo-ratowniczych w KSRG (2023, nowelizacja grudzień 2023) z załącznikami",
+    "data_aktualizacji": "2026-10-27",
+    "slowo_kluczowe": "bezpieczenstwo dzialan na gruzowisku",
+    "keywords": [
+      "gejzer",
+      "cisza na gruzowisku",
+      "obszar zamknięty gruzowisko",
+      "oficer bezpieczeństwa",
+      "sygnały alarmowe na gruzowisku",
+      "oznakowanie poszkodowanych w gruzowisku"
+    ],
+    "aliasy": [
+      "gejzer",
+      "cisza na gruzowisku",
+      "obszar zamknięty gruzowisko",
+      "oficer bezpieczeństwa",
+      "sygnały alarmowe na gruzowisku",
+      "oznakowanie poszkodowanych w gruzowisku"
+    ],
+    "prefix": "Bezpieczeństwo działań podczas katastrofy budowlanej — strefa, obszary zamknięte, sygnały, monitorowanie (Metodyka KG PSP 2023).",
+    "najpierw": [
+      {
+        "t": "O strefie zagrożenia decyduje KDR (wspierany przez dowódcę SGPR i oficera bezpieczeństwa); granica ≥ 3–5 m od brzegu gruzowiska.",
+        "zr": "Metodyka bezp.",
+        "str": 2
+      },
+      {
+        "t": "Niestabilne elementy pionowe: obszar zamknięty na co najmniej 1,5 wysokości elementu.",
+        "zr": "Metodyka bezp.",
+        "str": 2
+      },
+      {
+        "t": "Wyznacz obserwatorów stabilności, zapewnij niezależną łączność i sygnał alarmowy, drogi ewakuacji i strefę bezpieczną.",
+        "zr": "Metodyka bezp.",
+        "str": 3
+      },
+      {
+        "t": "W strefie tylko ratownicy skierowani do zadań — po zarejestrowaniu wejścia.",
+        "zr": "Metodyka bezp.",
+        "str": 4
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "„GEJZER” — natychmiastowa ewakuacja",
+        "wartosc": "3 sygnały po 1 s (powtarzane); radio i megafon: „GEJZER”",
+        "zr": "Metodyka bezp.",
+        "str": 10
+      },
+      {
+        "nazwa": "„OMEGA” / „CISZA NA GRUZOWISKU”",
+        "wartosc": "1 sygnał 3 s",
+        "zr": "Metodyka bezp.",
+        "str": 10
+      },
+      {
+        "nazwa": "„WZNÓW DZIAŁANIA”",
+        "wartosc": "sygnał 3 s + sygnał 1 s",
+        "zr": "Metodyka bezp.",
+        "str": 10
+      },
+      {
+        "nazwa": "Ryzyko III / IV",
+        "wartosc": "III — wyznacz obszar zamknięty · IV — sytuacja krytyczna, całkowity zakaz dostępu",
+        "zr": "Metodyka bezp.",
+        "str": 8
+      },
+      {
+        "nazwa": "Kolory oznakowania",
+        "wartosc": "czerwony — zagrożenie · pomarańczowy — informacja · niebieski — monitorowanie · zielony — bezpieczna droga",
+        "zr": "Metodyka bezp.",
+        "str": 14
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Postępowanie z zagrożeniem",
+        "punkty": [
+          {
+            "t": "Unikanie — nie wprowadzaj ratowników, jeśli to zbędne; usuwanie — bez naruszania stabilności gruzowiska; ograniczenie — wejście do obszaru zamkniętego tylko z pełnym monitorowaniem; monitorowanie.",
+            "zr": "Metodyka bezp.",
+            "str": 4
+          },
+          {
+            "t": "Kontroluj, czy stosowane techniki ratownicze nie pogarszają stabilności gruzowiska.",
+            "zr": "Metodyka bezp.",
+            "str": 3
+          },
+          {
+            "t": "Zagrożenia dodatkowe: pożar, zadymienie, wyciek materiałów niebezpiecznych, media (woda, prąd, gaz), butle z gazem.",
+            "zr": "Metodyka bezp.",
+            "str": 3
+          }
+        ]
+      },
+      {
+        "etykieta": "Po alarmowej ewakuacji",
+        "punkty": [
+          {
+            "t": "W strefie bezpiecznej sprawdź stan osobowy — czy wszyscy się wycofali i czy ktoś nie potrzebuje pomocy.",
+            "zr": "Metodyka bezp.",
+            "str": 4
+          }
+        ]
+      },
+      {
+        "etykieta": "Monitorowanie",
+        "punkty": [
+          {
+            "t": "Początkowe — ratownicy obserwatorzy (bez przyrządów); specjalistyczne — oficerowie bezpieczeństwa SGPR poziomu C; zaawansowane — konstruktorzy, rzeczoznawcy, nadzór budowlany.",
+            "zr": "Metodyka bezp.",
+            "str": 8
+          }
+        ]
+      },
+      {
+        "etykieta": "Oznakowanie poszkodowanych",
+        "punkty": [
+          {
+            "t": "Oznacz miejsce, gdy dotarcie lub ewakuacja nie nastąpi od razu: duże „V” ok. 50 cm, jaskrawy kolor, strzałka dokładnie do miejsca, jak najbliżej poszkodowanego.",
+            "zr": "DPR 2023",
+            "str": 98
+          },
+          {
+            "t": "Oznakowanie INSARAG stosują wyłącznie SGPR poziomu C (USAR).",
+            "zr": "DPR 2023",
+            "str": 98
+          }
+        ]
+      }
+    ],
+    "nie_rob": [
+      {
+        "t": "Nie wchodź do obszaru zamkniętego bez wyznaczonego sposobu działania i monitorowania.",
+        "zr": "Metodyka bezp.",
+        "str": 4
+      }
+    ],
+    "tagi_wspolne": [
+      "katastrofa budowlana",
+      "bezpieczenstwo ratownikow"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-dpr-2023-zal12",
+        "strona": 1,
+        "sekcja": "Metodyka bezpieczeństwa działań podczas katastrof budowlanych (s. 1–14)"
+      },
+      {
+        "dokument_id": "doc-dpr-2023",
+        "strona": 97,
+        "sekcja": "Zał. 11 — oznakowanie terenu działań i obiektów (s. 97–98)"
+      }
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: O strefie zagrożenia decyduje KDR (wspierany przez dowódcę SGPR i oficera bezpieczeństwa); granica ≥ 3–5 m od brzegu gruzowiska. Niestabilne elementy pionowe: obszar zamknięty na co najmniej 1,5 wysokości elementu. Wyznacz obserwatorów stabilności, zapewnij niezależną łączność i sygnał alarmowy, drogi ewakuacji i strefę bezpieczną. W strefie tylko ratownicy skierowani do zadań — po zarejestrowaniu wejścia.\n2. PARAMETRY: „GEJZER” — natychmiastowa ewakuacja — 3 sygnały po 1 s (powtarzane); radio i megafon: „GEJZER”; „OMEGA” / „CISZA NA GRUZOWISKU” — 1 sygnał 3 s; „WZNÓW DZIAŁANIA” — sygnał 3 s + sygnał 1 s; Ryzyko III / IV — III — wyznacz obszar zamknięty · IV — sytuacja krytyczna, całkowity zakaz dostępu; Kolory oznakowania — czerwony — zagrożenie · pomarańczowy — informacja · niebieski — monitorowanie · zielony — bezpieczna droga\n3. POSTĘPOWANIE Z ZAGROŻENIEM: Unikanie — nie wprowadzaj ratowników, jeśli to zbędne; usuwanie — bez naruszania stabilności gruzowiska; ograniczenie — wejście do obszaru zamkniętego tylko z pełnym monitorowaniem; monitorowanie. Kontroluj, czy stosowane techniki ratownicze nie pogarszają stabilności gruzowiska. Zagrożenia dodatkowe: pożar, zadymienie, wyciek materiałów niebezpiecznych, media (woda, prąd, gaz), butle z gazem.\n4. PO ALARMOWEJ EWAKUACJI: W strefie bezpiecznej sprawdź stan osobowy — czy wszyscy się wycofali i czy ktoś nie potrzebuje pomocy.\n5. MONITOROWANIE: Początkowe — ratownicy obserwatorzy (bez przyrządów); specjalistyczne — oficerowie bezpieczeństwa SGPR poziomu C; zaawansowane — konstruktorzy, rzeczoznawcy, nadzór budowlany.\n6. OZNAKOWANIE POSZKODOWANYCH: Oznacz miejsce, gdy dotarcie lub ewakuacja nie nastąpi od razu: duże „V” ok. 50 cm, jaskrawy kolor, strzałka dokładnie do miejsca, jak najbliżej poszkodowanego. Oznakowanie INSARAG stosują wyłącznie SGPR poziomu C (USAR).\n7. NIE RÓB: Nie wchodź do obszaru zamkniętego bez wyznaczonego sposobu działania i monitorowania."
+  },
+  {
+    "id": "KARTA-BUD-DPR-WSPOLPRACA-SGPR",
+    "wzorzec": 2,
+    "kategoria": "dzialania",
+    "zrodlo": "KG PSP: Zasady organizacji działań poszukiwawczo-ratowniczych w KSRG (2023, nowelizacja grudzień 2023) z załącznikami",
+    "data_aktualizacji": "2026-10-27",
+    "slowo_kluczowe": "wspolpraca kdr z sgpr",
+    "keywords": [
+      "sgpr",
+      "grupa poszukiwawczo-ratownicza",
+      "psy ratownicze gruzowisko",
+      "geofon",
+      "dowódca sgpr",
+      "kiedy wezwać sgpr"
+    ],
+    "aliasy": [
+      "sgpr",
+      "grupa poszukiwawczo-ratownicza",
+      "psy ratownicze gruzowisko",
+      "geofon",
+      "dowódca sgpr",
+      "kiedy wezwać sgpr"
+    ],
+    "prefix": "Współpraca KDR ze specjalistyczną grupą poszukiwawczo-ratowniczą (SGPR) — poziomy A, B, C i dowodzenie (Zasady KG PSP 2023).",
+    "najpierw": [
+      {
+        "t": "Dowódca SGPR melduje się w sztabie lub u KDR: liczba ratowników, psów, urządzeń lokalizacyjnych i czas do pełnej gotowości.",
+        "zr": "DPR 2023",
+        "str": 31
+      },
+      {
+        "t": "Wyznacz z nim miejsce rozlokowania SGPR.",
+        "zr": "DPR 2023",
+        "str": 31
+      },
+      {
+        "t": "Psy wprowadź na gruzowisko jak najwcześniej — po rozpoznaniu, ocenie stabilności i likwidacji zagrożeń wtórnych (pożar, gaz, prąd).",
+        "zr": "DPR 2023",
+        "str": 31
+      },
+      {
+        "t": "Zapewnij SGPR niezbędne warunki do podjęcia działań.",
+        "zr": "DPR 2023",
+        "str": 17
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Poziom A",
+        "wartosc": "lokalizacja przyrządowa (geofon, kamera wziernikowa) i KPP · min. 3 strażaków · alarmowanie niezwłoczne",
+        "zr": "DPR 2023",
+        "str": 9
+      },
+      {
+        "nazwa": "Poziom B",
+        "wartosc": "poszukiwanie z psami ratowniczymi i KPP · min. 3 ratowników z 2 psami · alarmowanie ≤ 90 min",
+        "zr": "DPR 2023",
+        "str": 9
+      },
+      {
+        "nazwa": "Poziom C",
+        "wartosc": "zakres podstawowy + A + B + cięcie, przebicia, podnoszenie elementów do 20 t, stabilizacja, techniki alpinistyczne · min. 8 ratowników (+4 w ≤ 180 min) · alarmowanie ≤ 90 min",
+        "zr": "DPR 2023",
+        "str": 9
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Dowodzenie",
+        "punkty": [
+          {
+            "t": "Przy podziale na odcinki dowódca SGPR jest dowódcą odcinka specjalistycznego (lokalizacja, dostęp, ewakuacja w strefie zagrożenia).",
+            "zr": "DPR 2023",
+            "str": 32
+          },
+          {
+            "t": "KDR wydaje polecenia dowódcy SGPR; dowódca decyduje, jak grupa wykona zadanie.",
+            "zr": "DPR 2023",
+            "str": 32
+          },
+          {
+            "t": "Przy więcej niż jednej SGPR dowodzącego działaniami SGPR wyznacza KDR.",
+            "zr": "DPR 2023",
+            "str": 17
+          },
+          {
+            "t": "Dowodzący SGPR może powiększyć skład lub zgłosić KDR potrzebę kolejnej SGPR; do wsparcia można dysponować SGRT.",
+            "zr": "DPR 2023",
+            "str": 16
+          },
+          {
+            "t": "Po działaniach dowodzący SGPR przekazuje KDR „Informację o działaniach ratowniczych” grupy.",
+            "zr": "DPR 2023",
+            "str": 17
+          }
+        ]
+      },
+      {
+        "etykieta": "Uprawnienia dowódcy SGPR",
+        "punkty": [
+          {
+            "t": "Określa strefę zagrożenia i obszary zamknięte, dzieli teren na sektory, ustala kolejność metod poszukiwania.",
+            "zr": "DPR 2023",
+            "str": 32
+          },
+          {
+            "t": "Może żądać wyłączenia maszyn, wycofania ekip i obserwatorów oraz wstrzymania ruchu — dla pracy psów i urządzeń nasłuchowych.",
+            "zr": "DPR 2023",
+            "str": 33
+          },
+          {
+            "t": "Może wstrzymać poszukiwania przy zbyt dużym zagrożeniu lub zmęczeniu bądź kontuzji psów.",
+            "zr": "DPR 2023",
+            "str": 33
+          }
+        ]
+      },
+      {
+        "etykieta": "Gdy SGPR wspiera inne służby",
+        "punkty": [
+          {
+            "t": "Poszukiwania w terenie i na akwenach — dowódca z ramienia Policji; kopalnia — Kierownik Akcji Ratowniczej; góry i lawiny — GOPR / TOPR; tereny MON — Wojsko Polskie.",
+            "zr": "DPR 2023",
+            "str": 32
+          }
+        ]
+      },
+      {
+        "etykieta": "Wsparcie SGPR przez jednostki podstawowe",
+        "punkty": [
+          {
+            "t": "Poszukiwania bezprzyrządowe lub przyrządowe, dostęp sprzętem podstawowym, ręczne odgruzowywanie.",
+            "zr": "DPR 2023",
+            "str": 33
+          },
+          {
+            "t": "Obsługa sprzętu (drabina, podnośnik, dźwig), ewakuacja i transport poszkodowanych, wsparcie logistyczne.",
+            "zr": "DPR 2023",
+            "str": 33
+          }
+        ]
+      }
+    ],
+    "tagi_wspolne": [
+      "katastrofa budowlana",
+      "poszukiwania",
+      "SGPR"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-dpr-2023",
+        "strona": 9,
+        "sekcja": "Część 3 — SGPR (s. 9–17), zał. 5 — zadania SGPR i współdziałanie (s. 31–33)"
+      }
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: Dowódca SGPR melduje się w sztabie lub u KDR: liczba ratowników, psów, urządzeń lokalizacyjnych i czas do pełnej gotowości. Wyznacz z nim miejsce rozlokowania SGPR. Psy wprowadź na gruzowisko jak najwcześniej — po rozpoznaniu, ocenie stabilności i likwidacji zagrożeń wtórnych (pożar, gaz, prąd). Zapewnij SGPR niezbędne warunki do podjęcia działań.\n2. PARAMETRY: Poziom A — lokalizacja przyrządowa (geofon, kamera wziernikowa) i KPP · min. 3 strażaków · alarmowanie niezwłoczne; Poziom B — poszukiwanie z psami ratowniczymi i KPP · min. 3 ratowników z 2 psami · alarmowanie ≤ 90 min; Poziom C — zakres podstawowy + A + B + cięcie, przebicia, podnoszenie elementów do 20 t, stabilizacja, techniki alpinistyczne · min. 8 ratowników (+4 w ≤ 180 min) · alarmowanie ≤ 90 min\n3. DOWODZENIE: Przy podziale na odcinki dowódca SGPR jest dowódcą odcinka specjalistycznego (lokalizacja, dostęp, ewakuacja w strefie zagrożenia). KDR wydaje polecenia dowódcy SGPR; dowódca decyduje, jak grupa wykona zadanie. Przy więcej niż jednej SGPR dowodzącego działaniami SGPR wyznacza KDR. Dowodzący SGPR może powiększyć skład lub zgłosić KDR potrzebę kolejnej SGPR; do wsparcia można dysponować SGRT. Po działaniach dowodzący SGPR przekazuje KDR „Informację o działaniach ratowniczych” grupy.\n4. UPRAWNIENIA DOWÓDCY SGPR: Określa strefę zagrożenia i obszary zamknięte, dzieli teren na sektory, ustala kolejność metod poszukiwania. Może żądać wyłączenia maszyn, wycofania ekip i obserwatorów oraz wstrzymania ruchu — dla pracy psów i urządzeń nasłuchowych. Może wstrzymać poszukiwania przy zbyt dużym zagrożeniu lub zmęczeniu bądź kontuzji psów.\n5. GDY SGPR WSPIERA INNE SŁUŻBY: Poszukiwania w terenie i na akwenach — dowódca z ramienia Policji; kopalnia — Kierownik Akcji Ratowniczej; góry i lawiny — GOPR / TOPR; tereny MON — Wojsko Polskie.\n6. WSPARCIE SGPR PRZEZ JEDNOSTKI PODSTAWOWE: Poszukiwania bezprzyrządowe lub przyrządowe, dostęp sprzętem podstawowym, ręczne odgruzowywanie. Obsługa sprzętu (drabina, podnośnik, dźwig), ewakuacja i transport poszkodowanych, wsparcie logistyczne."
+  },
+  {
+    "id": "KARTA-BUD-DPR-ZAKRES-PODSTAWOWY",
+    "wzorzec": 2,
+    "kategoria": "dzialania",
+    "zrodlo": "KG PSP: Zasady organizacji działań poszukiwawczo-ratowniczych w KSRG (2023, nowelizacja grudzień 2023) z załącznikami",
+    "data_aktualizacji": "2026-10-27",
+    "slowo_kluczowe": "dzialania poszukiwawczo-ratownicze zakres podstawowy",
+    "keywords": [
+      "działania poszukiwawczo-ratownicze",
+      "lokalizacja osób zasypanych",
+      "osoby zasypane w gruzowisku",
+      "dpr zakres podstawowy",
+      "poszukiwania pod gruzami"
+    ],
+    "aliasy": [
+      "działania poszukiwawczo-ratownicze",
+      "lokalizacja osób zasypanych",
+      "osoby zasypane w gruzowisku",
+      "dpr zakres podstawowy",
+      "poszukiwania pod gruzami"
+    ],
+    "prefix": "Działania poszukiwawczo-ratownicze — zakres podstawowy JRG i OSP (Zasady KG PSP 2023).",
+    "najpierw": [
+      {
+        "t": "Rozpoznaj zagrożenia i określ wielkość strefy zagrożenia.",
+        "zr": "DPR 2023",
+        "str": 6
+      },
+      {
+        "t": "Wstępnie ustal liczbę osób zaginionych.",
+        "zr": "DPR 2023",
+        "str": 6
+      },
+      {
+        "t": "Zabezpiecz i oświetl miejsce zdarzenia.",
+        "zr": "DPR 2023",
+        "str": 6
+      },
+      {
+        "t": "Gdy potrzebna jest lokalizacja przyrządowa, psy ratownicze lub działania specjalistyczne — zgłoś do SK potrzebę SGPR.",
+        "zr": "DPR 2023",
+        "str": 8
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Kto realizuje",
+        "wartosc": "wszystkie JRG PSP; OSP i inne podmioty, które zadeklarowały tę zdolność",
+        "zr": "DPR 2023",
+        "str": 5
+      },
+      {
+        "nazwa": "Gotowość",
+        "wartosc": "min. 6 strażaków, niezwłoczny czas alarmowania",
+        "zr": "DPR 2023",
+        "str": 6
+      },
+      {
+        "nazwa": "Lokalizacja w zakresie podstawowym",
+        "wartosc": "bez metody przyrządowej i bez psów ratowniczych",
+        "zr": "DPR 2023",
+        "str": 6
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Zadania zakresu podstawowego",
+        "punkty": [
+          {
+            "t": "Lokalizuj osoby w miejscach niedostępnych, docieraj do poszkodowanych posiadanym sprzętem, udzielaj KPP, ewakuuj ze strefy zagrożenia.",
+            "zr": "DPR 2023",
+            "str": 6
+          },
+          {
+            "t": "Zabezpiecz konstrukcję w zakresie niezbędnym dla bezpieczeństwa ratowników i ewakuacji poszkodowanych.",
+            "zr": "DPR 2023",
+            "str": 6
+          },
+          {
+            "t": "Zabezpiecz instalacje techniczne w obiekcie i związane z obiektem.",
+            "zr": "DPR 2023",
+            "str": 6
+          },
+          {
+            "t": "Wykonuj dostęp do zlokalizowanych poszkodowanych; ewakuuj zwierzęta i mienie; współdziałaj z innymi podmiotami.",
+            "zr": "DPR 2023",
+            "str": 6
+          }
+        ]
+      },
+      {
+        "etykieta": "Współdziałanie z SGPR",
+        "punkty": [
+          {
+            "t": "SGPR wspiera lokalizację osób zasypanych metodą przyrządową i psami ratowniczymi oraz działania specjalistyczne.",
+            "zr": "DPR 2023",
+            "str": 8
+          },
+          {
+            "t": "Do działań z psami dysponowani są wyłącznie przewodnicy z psami z ważną specjalnością gruzowiskową.",
+            "zr": "DPR 2023",
+            "str": 8
+          },
+          {
+            "t": "Gdy SGPR jest dysponowana śmigłowcem — jednostka zakresu podstawowego przygotowuje lądowisko.",
+            "zr": "DPR 2023",
+            "str": 8
+          }
+        ]
+      }
+    ],
+    "wsparcie": [
+      {
+        "t": "Szczegóły współpracy z SGPR — karta „Współpraca KDR z SGPR”; bezpieczeństwo na gruzowisku — karta „Bezpieczeństwo działań na gruzowisku”.",
+        "zr": "DPR 2023",
+        "str": 8
+      }
+    ],
+    "tagi_wspolne": [
+      "katastrofa budowlana",
+      "poszukiwania"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-dpr-2023",
+        "strona": 5,
+        "sekcja": "Część 2 — zakres podstawowy (s. 5–8)"
+      }
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: Rozpoznaj zagrożenia i określ wielkość strefy zagrożenia. Wstępnie ustal liczbę osób zaginionych. Zabezpiecz i oświetl miejsce zdarzenia. Gdy potrzebna jest lokalizacja przyrządowa, psy ratownicze lub działania specjalistyczne — zgłoś do SK potrzebę SGPR.\n2. PARAMETRY: Kto realizuje — wszystkie JRG PSP; OSP i inne podmioty, które zadeklarowały tę zdolność; Gotowość — min. 6 strażaków, niezwłoczny czas alarmowania; Lokalizacja w zakresie podstawowym — bez metody przyrządowej i bez psów ratowniczych\n3. ZADANIA ZAKRESU PODSTAWOWEGO: Lokalizuj osoby w miejscach niedostępnych, docieraj do poszkodowanych posiadanym sprzętem, udzielaj KPP, ewakuuj ze strefy zagrożenia. Zabezpiecz konstrukcję w zakresie niezbędnym dla bezpieczeństwa ratowników i ewakuacji poszkodowanych. Zabezpiecz instalacje techniczne w obiekcie i związane z obiektem. Wykonuj dostęp do zlokalizowanych poszkodowanych; ewakuuj zwierzęta i mienie; współdziałaj z innymi podmiotami.\n4. WSPÓŁDZIAŁANIE Z SGPR: SGPR wspiera lokalizację osób zasypanych metodą przyrządową i psami ratowniczymi oraz działania specjalistyczne. Do działań z psami dysponowani są wyłącznie przewodnicy z psami z ważną specjalnością gruzowiskową. Gdy SGPR jest dysponowana śmigłowcem — jednostka zakresu podstawowego przygotowuje lądowisko.\n5. WEZWIJ WSPARCIE, GDY: Szczegóły współpracy z SGPR — karta „Współpraca KDR z SGPR”; bezpieczeństwo na gruzowisku — karta „Bezpieczeństwo działań na gruzowisku”."
+  },
+  {
     "id": "KARTA-BUD-INFORMACJE-DODATKOWE-KATASTROFA-BUDOWLANA",
     "kategoria": "informacje",
     "zrodlo": "Standardowe zasady postepowania podczas katastrofy budowlanej po wystapieniu katastrofy budowlanej, KG PSP",
@@ -386,7 +837,7 @@
       "wyznacz strefe gruzowisko"
     ],
     "prefix": "Katastrofa budowlana - wyznaczanie strefy zagrozenia i ewakuacja ludzi.",
-    "content": "1. KOD / NAZWA: katastrofa budowlana - wyznaczanie strefy zagrozenia i ewakuacja ludzi.\n2. STREFA DLA RATOWNIKOW: przed wprowadzeniem strazakow do dzialan opracuj zasady bezpieczenstwa. Wyznacz strefe zagrozenia, w ktorej beda prowadzone dzialania ratownicze, korzystajac z zasady minimum 3-5 m od brzegu gruzowiska albo, w przypadku niestabilnych elementow, odleglosci rownej co najmniej 150 procent wysokosci najwyzszego niestabilnego elementu obiektu.\n3. OBSZARY NIEBEZPIECZNE: wyznacz jako obszary zamkniete miejsca niestabilne, uszkodzone lub grozace upadkiem elementy, miejsca wystepowania zagrozen mediami lub pozarem oraz inne niebezpieczne strefy.\n4. OZNAKOWANIE I ORGANIZACJA: okresl wejscie i wyjscie do strefy zagrozenia oraz oznacz je czytelnie, wyznacz droge dojazdu dla kolejnych SIS, miejsce zbiorki ratownikow po ewakuacji i sposoby oglaszania alarmowego opuszczenia strefy. Zalecane haslo radiowe to okrzyk radiowy \"gesi zer\", a sygnal dzwiekowy to 3 krotkie sygnaly powtarzane az do opuszczenia strefy przez uczestnikow akcji.\n5. MONITOROWANIE STABILNOSCI: wyznacz strazaka do monitorowania stabilnosci uszkodzonej konstrukcji i wskaz mu miejsce, z ktorego bedzie mogl obserwowac elementy budynku do czasu przybycia specjalistycznego sprzetu. Jezeli nie ma tachimetru, wykorzystaj proste techniki obserwacji wzrokowej i nasluchiwania pekniec.\n6. WEJSCIA I WYJSCIA: wyznacz strazaka odpowiedzialnego za monitorowanie wejsc i wyjsc ze strefy. Przy poziomie C uzyj identyfikatorow imiennych lub innego systemu sledzenia, wyznacz osobe odpowiedzialna za stala kontrole liczby osob w strefie i, o ile to mozliwe, stosuj jedno miejsce wejscia i wyjscia.\n7. EWAKUACJA I PODPORY: po wyznaczeniu strefy przeszukaj niezawalona czesc obiektu i ewakuuj ludnosc do bezpiecznej strefy. W razie koniecznosci wykorzystaj podpory niestabilnych czesci obiektu poprzez ich stabilizacje przy uzyciu podporek budowlanych. W przypadku braku takiego sprzetu uznaj to miejsce za niebezpieczne i zakaz zblizania sie do czasu ustabilizowania przez ratownikow SGPR.\n8. EWIDENCJA I NADZOR: zapewnij odpowiednie warunki dla osob ewakuowanych i prowadz ewidencje ewakuowanych, jezeli to mozliwe. Wyznacz przedstawiciela nadzoru budowlanego lub specjaliste od dziedziny budownictwa do porozumienia i okreslenia warunkow bezpiecznego wprowadzenia ratownikow.\n9. CO MOZE POJSC NIE TAK: brak sygnalow z gruzowiska nie oznacza braku osob poszkodowanych w gruzowisku. Jezeli nie masz pewnosci co do liczby osob, czekaj na przybycie SGPR. Sprzet i narzedzia do kontroli stabilnosci nie daja gwarancji bezpieczenstwa dzialan i nie zapobiegaja wtornemu zawaleniu; moga jedynie wspomoc oficera bezpieczenstwa w monitorowaniu i ostrzeganiu ratownikow pracujacych na gruzowisku.\n10. UWAGI OPERACYJNE: po ewakuacji okresl priorytety ratownicze, zaznacz miejsca lokalizacji poszkodowanych i wyznacz miejsce organizacji punktu przyjecia SIS oraz osoby odpowiedzialnej za jego obsluge.",
+    "content": "1. KOD / NAZWA: katastrofa budowlana - wyznaczanie strefy zagrozenia i ewakuacja ludzi.\n2. STREFA DLA RATOWNIKOW: przed wprowadzeniem strazakow do dzialan opracuj zasady bezpieczenstwa. Wyznacz strefe zagrozenia, w ktorej beda prowadzone dzialania ratownicze, korzystajac z zasady minimum 3-5 m od brzegu gruzowiska albo, w przypadku niestabilnych elementow, odleglosci rownej co najmniej 150 procent wysokosci najwyzszego niestabilnego elementu obiektu.\n3. OBSZARY NIEBEZPIECZNE: wyznacz jako obszary zamkniete miejsca niestabilne, uszkodzone lub grozace upadkiem elementy, miejsca wystepowania zagrozen mediami lub pozarem oraz inne niebezpieczne strefy.\n4. OZNAKOWANIE I ORGANIZACJA: okresl wejscie i wyjscie do strefy zagrozenia oraz oznacz je czytelnie, wyznacz droge dojazdu dla kolejnych SIS, miejsce zbiorki ratownikow po ewakuacji i sposoby oglaszania alarmowego opuszczenia strefy. Zalecany okolnik radiowy to \"GEJZER\", a sygnal dzwiekowy to 3 krotkie sygnaly powtarzane az do opuszczenia strefy przez uczestnikow akcji.\n5. MONITOROWANIE STABILNOSCI: wyznacz strazaka do monitorowania stabilnosci uszkodzonej konstrukcji i wskaz mu miejsce, z ktorego bedzie mogl obserwowac elementy budynku do czasu przybycia specjalistycznego sprzetu. Jezeli nie ma tachimetru, wykorzystaj proste techniki obserwacji wzrokowej i nasluchiwania pekniec.\n6. WEJSCIA I WYJSCIA: wyznacz strazaka odpowiedzialnego za monitorowanie wejsc i wyjsc ze strefy. Przy poziomie C uzyj identyfikatorow imiennych lub innego systemu sledzenia, wyznacz osobe odpowiedzialna za stala kontrole liczby osob w strefie i, o ile to mozliwe, stosuj jedno miejsce wejscia i wyjscia.\n7. EWAKUACJA I PODPORY: po wyznaczeniu strefy przeszukaj niezawalona czesc obiektu i ewakuuj ludnosc do bezpiecznej strefy. W razie koniecznosci wykorzystaj podpory niestabilnych czesci obiektu poprzez ich stabilizacje przy uzyciu podporek budowlanych. W przypadku braku takiego sprzetu uznaj to miejsce za niebezpieczne i zakaz zblizania sie do czasu ustabilizowania przez ratownikow SGPR.\n8. EWIDENCJA I NADZOR: zapewnij odpowiednie warunki dla osob ewakuowanych i prowadz ewidencje ewakuowanych, jezeli to mozliwe. Wyznacz przedstawiciela nadzoru budowlanego lub specjaliste od dziedziny budownictwa do porozumienia i okreslenia warunkow bezpiecznego wprowadzenia ratownikow.\n9. CO MOZE POJSC NIE TAK: brak sygnalow z gruzowiska nie oznacza braku osob poszkodowanych w gruzowisku. Jezeli nie masz pewnosci co do liczby osob, czekaj na przybycie SGPR. Sprzet i narzedzia do kontroli stabilnosci nie daja gwarancji bezpieczenstwa dzialan i nie zapobiegaja wtornemu zawaleniu; moga jedynie wspomoc oficera bezpieczenstwa w monitorowaniu i ostrzeganiu ratownikow pracujacych na gruzowisku.\n10. UWAGI OPERACYJNE: po ewakuacji okresl priorytety ratownicze, zaznacz miejsca lokalizacji poszkodowanych i wyznacz miejsce organizacji punktu przyjecia SIS oraz osoby odpowiedzialnej za jego obsluge.",
     "tagi_wspolne": [
       "katastrofa budowlana",
       "zawalenie",
@@ -405,7 +856,8 @@
         "strona": 3,
         "sekcja": "Odpowiednia karta SZP katastrofy budowlanej"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-27"
   },
   {
     "id": "KARTA-BUD-ZABEZPIECZENIE-LOGISTYCZNE-KATASTROFA-BUDOWLANA",

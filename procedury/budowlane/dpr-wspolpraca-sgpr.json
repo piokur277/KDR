@@ -1,0 +1,157 @@
+{
+  "id": "KARTA-BUD-DPR-WSPOLPRACA-SGPR",
+  "wzorzec": 2,
+  "kategoria": "dzialania",
+  "zrodlo": "KG PSP: Zasady organizacji działań poszukiwawczo-ratowniczych w KSRG (2023, nowelizacja grudzień 2023) z załącznikami",
+  "data_aktualizacji": "2026-10-27",
+  "slowo_kluczowe": "wspolpraca kdr z sgpr",
+  "keywords": [
+    "sgpr",
+    "grupa poszukiwawczo-ratownicza",
+    "psy ratownicze gruzowisko",
+    "geofon",
+    "dowódca sgpr",
+    "kiedy wezwać sgpr"
+  ],
+  "aliasy": [
+    "sgpr",
+    "grupa poszukiwawczo-ratownicza",
+    "psy ratownicze gruzowisko",
+    "geofon",
+    "dowódca sgpr",
+    "kiedy wezwać sgpr"
+  ],
+  "prefix": "Współpraca KDR ze specjalistyczną grupą poszukiwawczo-ratowniczą (SGPR) — poziomy A, B, C i dowodzenie (Zasady KG PSP 2023).",
+  "najpierw": [
+    {
+      "t": "Dowódca SGPR melduje się w sztabie lub u KDR: liczba ratowników, psów, urządzeń lokalizacyjnych i czas do pełnej gotowości.",
+      "zr": "DPR 2023",
+      "str": 31
+    },
+    {
+      "t": "Wyznacz z nim miejsce rozlokowania SGPR.",
+      "zr": "DPR 2023",
+      "str": 31
+    },
+    {
+      "t": "Psy wprowadź na gruzowisko jak najwcześniej — po rozpoznaniu, ocenie stabilności i likwidacji zagrożeń wtórnych (pożar, gaz, prąd).",
+      "zr": "DPR 2023",
+      "str": 31
+    },
+    {
+      "t": "Zapewnij SGPR niezbędne warunki do podjęcia działań.",
+      "zr": "DPR 2023",
+      "str": 17
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "Poziom A",
+      "wartosc": "lokalizacja przyrządowa (geofon, kamera wziernikowa) i KPP · min. 3 strażaków · alarmowanie niezwłoczne",
+      "zr": "DPR 2023",
+      "str": 9
+    },
+    {
+      "nazwa": "Poziom B",
+      "wartosc": "poszukiwanie z psami ratowniczymi i KPP · min. 3 ratowników z 2 psami · alarmowanie ≤ 90 min",
+      "zr": "DPR 2023",
+      "str": 9
+    },
+    {
+      "nazwa": "Poziom C",
+      "wartosc": "zakres podstawowy + A + B + cięcie, przebicia, podnoszenie elementów do 20 t, stabilizacja, techniki alpinistyczne · min. 8 ratowników (+4 w ≤ 180 min) · alarmowanie ≤ 90 min",
+      "zr": "DPR 2023",
+      "str": 9
+    }
+  ],
+  "sekcje": [
+    {
+      "etykieta": "Dowodzenie",
+      "punkty": [
+        {
+          "t": "Przy podziale na odcinki dowódca SGPR jest dowódcą odcinka specjalistycznego (lokalizacja, dostęp, ewakuacja w strefie zagrożenia).",
+          "zr": "DPR 2023",
+          "str": 32
+        },
+        {
+          "t": "KDR wydaje polecenia dowódcy SGPR; dowódca decyduje, jak grupa wykona zadanie.",
+          "zr": "DPR 2023",
+          "str": 32
+        },
+        {
+          "t": "Przy więcej niż jednej SGPR dowodzącego działaniami SGPR wyznacza KDR.",
+          "zr": "DPR 2023",
+          "str": 17
+        },
+        {
+          "t": "Dowodzący SGPR może powiększyć skład lub zgłosić KDR potrzebę kolejnej SGPR; do wsparcia można dysponować SGRT.",
+          "zr": "DPR 2023",
+          "str": 16
+        },
+        {
+          "t": "Po działaniach dowodzący SGPR przekazuje KDR „Informację o działaniach ratowniczych” grupy.",
+          "zr": "DPR 2023",
+          "str": 17
+        }
+      ]
+    },
+    {
+      "etykieta": "Uprawnienia dowódcy SGPR",
+      "punkty": [
+        {
+          "t": "Określa strefę zagrożenia i obszary zamknięte, dzieli teren na sektory, ustala kolejność metod poszukiwania.",
+          "zr": "DPR 2023",
+          "str": 32
+        },
+        {
+          "t": "Może żądać wyłączenia maszyn, wycofania ekip i obserwatorów oraz wstrzymania ruchu — dla pracy psów i urządzeń nasłuchowych.",
+          "zr": "DPR 2023",
+          "str": 33
+        },
+        {
+          "t": "Może wstrzymać poszukiwania przy zbyt dużym zagrożeniu lub zmęczeniu bądź kontuzji psów.",
+          "zr": "DPR 2023",
+          "str": 33
+        }
+      ]
+    },
+    {
+      "etykieta": "Gdy SGPR wspiera inne służby",
+      "punkty": [
+        {
+          "t": "Poszukiwania w terenie i na akwenach — dowódca z ramienia Policji; kopalnia — Kierownik Akcji Ratowniczej; góry i lawiny — GOPR / TOPR; tereny MON — Wojsko Polskie.",
+          "zr": "DPR 2023",
+          "str": 32
+        }
+      ]
+    },
+    {
+      "etykieta": "Wsparcie SGPR przez jednostki podstawowe",
+      "punkty": [
+        {
+          "t": "Poszukiwania bezprzyrządowe lub przyrządowe, dostęp sprzętem podstawowym, ręczne odgruzowywanie.",
+          "zr": "DPR 2023",
+          "str": 33
+        },
+        {
+          "t": "Obsługa sprzętu (drabina, podnośnik, dźwig), ewakuacja i transport poszkodowanych, wsparcie logistyczne.",
+          "zr": "DPR 2023",
+          "str": 33
+        }
+      ]
+    }
+  ],
+  "tagi_wspolne": [
+    "katastrofa budowlana",
+    "poszukiwania",
+    "SGPR"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-dpr-2023",
+      "strona": 9,
+      "sekcja": "Część 3 — SGPR (s. 9–17), zał. 5 — zadania SGPR i współdziałanie (s. 31–33)"
+    }
+  ],
+  "data_przegladu": "2026-10-27"
+}
