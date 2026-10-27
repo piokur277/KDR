@@ -1043,6 +1043,19 @@
       "liczba_stron": 15,
       "sha256": "6654b00b40c37abf6ca6b6807104e12202e7710111b2bab4fe2e4a0cba76bd21",
       "uwagi": "Skan. Pobrano z gov.pl (KG PSP: Ratownictwo techniczne i Dokumentacja operacyjna), https://www.gov.pl/attachment/34e03b76-dd35-47e1-a905-cda114d39eb4. Przywołane przepisy (np. rozporządzenie o KSRG z 2011 r.) częściowo nieaktualne – karta nie cytuje paragrafów. Uzupełniająco na tej samej stronie: porozumienie PSP–GDDKiA (2017)."
+    },
+    "doc-sztab-2025": {
+      "id": "doc-sztab-2025",
+      "tytul": "Zasady organizacji sztabu na potrzeby prowadzenia działań ratowniczych",
+      "wersja": "Styczeń 2025",
+      "data_wydania": "2025-01",
+      "rodzaj": "Zasady KG PSP",
+      "plik": "dokumenty/organizacja/zasady-organizacji-sztabu-2025-01.pdf",
+      "status_techniczny": "aktywny",
+      "aktualnosc_merytoryczna": "zweryfikowano_2026-10-27",
+      "liczba_stron": 23,
+      "sha256": "5ed6b6bfb9058454f494869cc21eb943aeb4d78ff76c0b4fdcc358c6ca16ee5c",
+      "uwagi": "Pobrano z gov.pl (KG PSP: Dokumentacja operacyjna), https://www.gov.pl/attachment/b7dd968a-121b-473b-92d4-3c2f11cc4929."
     }
   }
 }

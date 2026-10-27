@@ -5197,6 +5197,227 @@
     "zrodlo_dostepnosc": "niedostepne_publicznie"
   },
   {
+    "id": "KARTA-ORG-ZASADY-ORGANIZACJI-SZTABU",
+    "wzorzec": 2,
+    "kategoria": "organizacja",
+    "zrodlo": "KG PSP: Zasady organizacji sztabu na potrzeby prowadzenia działań ratowniczych, Warszawa, styczeń 2025",
+    "data_aktualizacji": "2026-10-27",
+    "slowo_kluczowe": "organizacja sztabu",
+    "keywords": [
+      "sztab akcji",
+      "powołanie sztabu",
+      "szef sztabu",
+      "zespoły sztabu",
+      "raport sytuacyjny",
+      "karta manipulacyjna",
+      "miejsce pracy sztabu",
+      "wyposażenie sztabu",
+      "obozowisko"
+    ],
+    "aliasy": [
+      "sztab akcji",
+      "powołanie sztabu",
+      "szef sztabu",
+      "zespoły sztabu",
+      "raport sytuacyjny",
+      "karta manipulacyjna",
+      "miejsce pracy sztabu",
+      "wyposażenie sztabu",
+      "obozowisko"
+    ],
+    "prefix": "Sztab na potrzeby działań ratowniczych — kiedy powołać, struktura, zadania zespołów, miejsce i wyposażenie (Zasady KG PSP, styczeń 2025).",
+    "najpierw": [
+      {
+        "t": "Kierowanie strategiczne — sztab powinien być powołany; interwencyjne i taktyczne — może być powołany.",
+        "zr": "Sztab 2025",
+        "str": 4
+      },
+      {
+        "t": "Wyznacz Szefa sztabu; strukturę i skład sztabu określa on w uzgodnieniu z Tobą.",
+        "zr": "Sztab 2025",
+        "str": 7
+      },
+      {
+        "t": "Siły do sztabu dysponuje SK PSP na wniosek Szefa sztabu uzgodniony z KDR.",
+        "zr": "Sztab 2025",
+        "str": 8
+      },
+      {
+        "t": "Miejsce pracy sztabu wybiera Szef sztabu w porozumieniu z KDR — bezpieczne wobec prognozy rozwoju zdarzenia, z łącznością, blisko działań i PPSiŚ.",
+        "zr": "Sztab 2025",
+        "str": 14
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Struktura",
+        "wartosc": "KDR → Szef sztabu → zespoły: operacyjny (OP), łączności (IT), logistyki (LOG), prasowy (MEDIA); w razie potrzeby kolejne",
+        "zr": "Sztab 2025",
+        "str": 7
+      },
+      {
+        "nazwa": "KMDR",
+        "wartosc": "w zespole operacyjnym — koordynuje zabezpieczenie medyczne działań",
+        "zr": "Sztab 2025",
+        "str": 8
+      },
+      {
+        "nazwa": "Zastępstwo Szefa sztabu",
+        "wartosc": "zastępca Szefa sztabu lub szef zespołu operacyjnego",
+        "zr": "Sztab 2025",
+        "str": 7
+      },
+      {
+        "nazwa": "Kamizelki",
+        "wartosc": "Szef sztabu i szefowie 4 zespołów; przy PPSiŚ / obozowisku także ich szefowie",
+        "zr": "Sztab 2025",
+        "str": 9
+      },
+      {
+        "nazwa": "Wyposażenie — każdy sztab",
+        "wartosc": "SLRR, dron, pojazdy do przewozu osób, quad",
+        "zr": "Sztab 2025",
+        "str": 15
+      },
+      {
+        "nazwa": "Działania > 12 h — dodatkowo",
+        "wartosc": "SLDł, SDł, moduł sztabowy, SLKw, Starlink",
+        "zr": "Sztab 2025",
+        "str": 15
+      },
+      {
+        "nazwa": "Wg poziomu kierowania",
+        "wartosc": "taktyczny: SLDł, SLKw, Starlink · strategiczny: SDł, moduł sztabowy, SLKw, Starlink",
+        "zr": "Sztab 2025",
+        "str": 15
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Zespół operacyjny",
+        "punkty": [
+          {
+            "t": "Organizuje teren akcji: struktura dowodzenia, koncepcja odcinków bojowych, PPSiŚ, zaopatrzenie wodne, trasy dojazdu i powrotu.",
+            "zr": "Sztab 2025",
+            "str": 10
+          },
+          {
+            "t": "Koncepcja łączności dla KDR: kanały dowodzenia (także przemienniki mobilne) i współdziałania ze służbami.",
+            "zr": "Sztab 2025",
+            "str": 11
+          },
+          {
+            "t": "Mapy i wizualizacja sytuacji, analizy GIS (także z danych zespołu dronowego).",
+            "zr": "Sztab 2025",
+            "str": 11
+          },
+          {
+            "t": "Raporty sytuacyjne wg wzoru (zał. 1), karta zdarzenia i karta manipulacyjna na bieżąco.",
+            "zr": "Sztab 2025",
+            "str": 11
+          },
+          {
+            "t": "Zespół rozpoznania na miejscu działań w stałym kontakcie ze sztabem.",
+            "zr": "Sztab 2025",
+            "str": 11
+          },
+          {
+            "t": "Analiza i prognoza sytuacji, propozycja zamiaru taktycznego, zapotrzebowanie na wsparcie innych służb.",
+            "zr": "Sztab 2025",
+            "str": 11
+          },
+          {
+            "t": "Ciągłość pracy sztabu (zmiany obsady); ostrzeganie i ewakuacja ludności z Policją.",
+            "zr": "Sztab 2025",
+            "str": 12
+          }
+        ]
+      },
+      {
+        "etykieta": "Łączność, logistyka, media",
+        "punkty": [
+          {
+            "t": "Łączność (IT): zaplecze teleinformatyczne, SDł z uwzględnieniem zasięgów, programowanie radiotelefonów, schemat łączności, transmisja obrazu z dronów, dostęp do SWD PSP.",
+            "zr": "Sztab 2025",
+            "str": 12
+          },
+          {
+            "t": "Logistyka (LOG): zakwaterowanie lub obozowisko (regulamin — zał. 2), wyżywienie, sanitariaty, paliwa, środki gaśnicze i sorbenty, rezerwy sprzętu, punkt medyczny, dozór nocny.",
+            "zr": "Sztab 2025",
+            "str": 12
+          },
+          {
+            "t": "Prasowy (MEDIA): bezpieczne miejsce dla mediów, cykliczne briefingi, dokumentacja zdjęciowa, monitoring mediów, współpraca z rzecznikami.",
+            "zr": "Sztab 2025",
+            "str": 13
+          }
+        ]
+      },
+      {
+        "etykieta": "Tryb pracy",
+        "punkty": [
+          {
+            "t": "Podział na zmiany, osoba odpowiedzialna za każde zadanie, kontrola dostępu, cykliczne odprawy.",
+            "zr": "Sztab 2025",
+            "str": 17
+          },
+          {
+            "t": "Obieg informacji: KDR — sztab — dowódcy odcinków — stanowiska kierowania PSP; bieżąca karta manipulacyjna.",
+            "zr": "Sztab 2025",
+            "str": 17
+          },
+          {
+            "t": "W PPSiŚ trzy urządzenia do jednoczesnej łączności radiowej (SLRR z modułem łączności lub SLDł).",
+            "zr": "Sztab 2025",
+            "str": 17
+          }
+        ]
+      },
+      {
+        "etykieta": "Dokumentacja",
+        "punkty": [
+          {
+            "t": "Korzystaj z planów ratowniczych (np. plany operacyjno-ratownicze zakładów), dokumentacji odwodów i procedur.",
+            "zr": "Sztab 2025",
+            "str": 18
+          },
+          {
+            "t": "Sztab prowadzi: decyzje i protokoły, kartę manipulacyjną (polecenia KDR), zestawienie SiS, informacje z odcinków, wykaz potrzeb, raporty sytuacyjne, mapy sytuacyjne.",
+            "zr": "Sztab 2025",
+            "str": 18
+          }
+        ]
+      }
+    ],
+    "wsparcie": [
+      {
+        "t": "Do sztabu doraźnego: siły sąsiednich KP/KM i KW PSP (grupy operacyjne), sztaby odwodów, a eksperci z kraju — przez SK Komendanta Głównego PSP.",
+        "zr": "Sztab 2025",
+        "str": 6
+      }
+    ],
+    "nie_rob": [
+      {
+        "t": "Nie wybieraj miejsca sztabu bez oceny bezpieczeństwa ratowników wobec prognozowanego rozwoju sytuacji.",
+        "zr": "Sztab 2025",
+        "str": 14
+      }
+    ],
+    "tagi_wspolne": [
+      "organizacja dzialan",
+      "sztab"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-sztab-2025",
+        "strona": 4,
+        "sekcja": "Wprowadzenie (s. 4), struktura (s. 7–9), zadania (s. 10–13), miejsce (s. 14), wyposażenie (s. 15), tryb pracy (s. 17), dokumentacja (s. 18)"
+      }
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: Kierowanie strategiczne — sztab powinien być powołany; interwencyjne i taktyczne — może być powołany. Wyznacz Szefa sztabu; strukturę i skład sztabu określa on w uzgodnieniu z Tobą. Siły do sztabu dysponuje SK PSP na wniosek Szefa sztabu uzgodniony z KDR. Miejsce pracy sztabu wybiera Szef sztabu w porozumieniu z KDR — bezpieczne wobec prognozy rozwoju zdarzenia, z łącznością, blisko działań i PPSiŚ.\n2. PARAMETRY: Struktura — KDR → Szef sztabu → zespoły: operacyjny (OP), łączności (IT), logistyki (LOG), prasowy (MEDIA); w razie potrzeby kolejne; KMDR — w zespole operacyjnym — koordynuje zabezpieczenie medyczne działań; Zastępstwo Szefa sztabu — zastępca Szefa sztabu lub szef zespołu operacyjnego; Kamizelki — Szef sztabu i szefowie 4 zespołów; przy PPSiŚ / obozowisku także ich szefowie; Wyposażenie — każdy sztab — SLRR, dron, pojazdy do przewozu osób, quad; Działania > 12 h — dodatkowo — SLDł, SDł, moduł sztabowy, SLKw, Starlink; Wg poziomu kierowania — taktyczny: SLDł, SLKw, Starlink · strategiczny: SDł, moduł sztabowy, SLKw, Starlink\n3. ZESPÓŁ OPERACYJNY: Organizuje teren akcji: struktura dowodzenia, koncepcja odcinków bojowych, PPSiŚ, zaopatrzenie wodne, trasy dojazdu i powrotu. Koncepcja łączności dla KDR: kanały dowodzenia (także przemienniki mobilne) i współdziałania ze służbami. Mapy i wizualizacja sytuacji, analizy GIS (także z danych zespołu dronowego). Raporty sytuacyjne wg wzoru (zał. 1), karta zdarzenia i karta manipulacyjna na bieżąco. Zespół rozpoznania na miejscu działań w stałym kontakcie ze sztabem. Analiza i prognoza sytuacji, propozycja zamiaru taktycznego, zapotrzebowanie na wsparcie innych służb. Ciągłość pracy sztabu (zmiany obsady); ostrzeganie i ewakuacja ludności z Policją.\n4. ŁĄCZNOŚĆ, LOGISTYKA, MEDIA: Łączność (IT): zaplecze teleinformatyczne, SDł z uwzględnieniem zasięgów, programowanie radiotelefonów, schemat łączności, transmisja obrazu z dronów, dostęp do SWD PSP. Logistyka (LOG): zakwaterowanie lub obozowisko (regulamin — zał. 2), wyżywienie, sanitariaty, paliwa, środki gaśnicze i sorbenty, rezerwy sprzętu, punkt medyczny, dozór nocny. Prasowy (MEDIA): bezpieczne miejsce dla mediów, cykliczne briefingi, dokumentacja zdjęciowa, monitoring mediów, współpraca z rzecznikami.\n5. TRYB PRACY: Podział na zmiany, osoba odpowiedzialna za każde zadanie, kontrola dostępu, cykliczne odprawy. Obieg informacji: KDR — sztab — dowódcy odcinków — stanowiska kierowania PSP; bieżąca karta manipulacyjna. W PPSiŚ trzy urządzenia do jednoczesnej łączności radiowej (SLRR z modułem łączności lub SLDł).\n6. DOKUMENTACJA: Korzystaj z planów ratowniczych (np. plany operacyjno-ratownicze zakładów), dokumentacji odwodów i procedur. Sztab prowadzi: decyzje i protokoły, kartę manipulacyjną (polecenia KDR), zestawienie SiS, informacje z odcinków, wykaz potrzeb, raporty sytuacyjne, mapy sytuacyjne.\n7. WEZWIJ WSPARCIE, GDY: Do sztabu doraźnego: siły sąsiednich KP/KM i KW PSP (grupy operacyjne), sztaby odwodów, a eksperci z kraju — przez SK Komendanta Głównego PSP.\n8. NIE RÓB: Nie wybieraj miejsca sztabu bez oceny bezpieczeństwa ratowników wobec prognozowanego rozwoju sytuacji."
+  },
+  {
     "id": "KARTA-ORG-ZASADY-ORGANIZOWANIA-DZIALAN-RATOWNICZYCH",
     "kategoria": "organizacja",
     "zrodlo": "Zasady organizowania dzialan ratowniczych, Komenda Glowna Panstwowej Strazy Pozarnej, Warszawa 2013",
