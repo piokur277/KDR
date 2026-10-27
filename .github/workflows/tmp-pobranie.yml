@@ -11,15 +11,31 @@ jobs:
       - uses: actions/checkout@v4
       - name: Pobierz
         run: |
-          mkdir -p tmp-aux && cd tmp-aux && rm -f log.txt
+          mkdir -p tmp-olioc && cd tmp-olioc && rm -f log.txt
           get(){ curl -sSL --retry 3 -A "Mozilla/5.0" -o "$1" "$2" && echo "$1 $(stat -c%s "$1") $(file -b "$1" | cut -c1-40)" >> log.txt; }
-          get bsp-v2.pdf "https://www.gov.pl/attachment/367e9dfb-d5de-4e15-a386-995dfbdcad2e"
-          get bsp-prezentacja.pdf "https://www.gov.pl/attachment/7620f67f-45bb-42b1-959a-211e3bcec659"
-          get chem-eko-2025.pdf "https://www.gov.pl/attachment/89034c06-f751-4b01-9f8c-683b80e34eb5"
-          get chem-eko-zal11.pdf "https://www.gov.pl/attachment/01a80975-659b-4bcf-88d4-42c11189d7a1"
-          get chem-strona.html "https://www.gov.pl/web/kgpsp/zasady-organizacji-rat-chem-eko"
+          get src-olioc-akademia.html "https://www.gov.pl/web/olioc/akdemia-olioc"
+          get src-olioc-ustawa.html "https://www.gov.pl/web/olioc/ustawa-o-ochronie-ludnosci-i-obronie-cywilnej"
+          get src-poradnik-wspolnie.html "https://www.gov.pl/web/poradnikbezpieczenstwa/wspolnie-dbamy-o-nasze-bezpieczenstwo2"
+          get src-poradnik-przygotuj-siebie.html "https://www.gov.pl/web/poradnikbezpieczenstwa/przygotuj-siebie-i-najblizszych"
+          get src-poradnik-szczegolna-pomoc.html "https://www.gov.pl/web/poradnikbezpieczenstwa/osoby-potrzebujace-szczegolnej-pomocy"
+          get src-poradnik-zwierzeta.html "https://www.gov.pl/web/poradnikbezpieczenstwa/zadbaj-o-zwierzeta"
+          get src-poradnik-otoczenie.html "https://www.gov.pl/web/poradnikbezpieczenstwa/przygotuj-swoje-otoczenie"
+          get src-poradnik-alarmy.html "https://www.gov.pl/web/poradnikbezpieczenstwa/sygnaly-alarmowe-i-komunikaty-ostrzegawcze"
+          get src-poradnik-ewakuacja.html "https://www.gov.pl/web/poradnikbezpieczenstwa/ewakuacja"
+          get src-poradnik-schronienia.html "https://www.gov.pl/web/poradnikbezpieczenstwa/schronienia"
+          get src-poradnik-pozar.html "https://www.gov.pl/web/poradnikbezpieczenstwa/pozar"
+          get src-poradnik-blackout.html "https://www.gov.pl/web/poradnikbezpieczenstwa/dlugotrwaly-brak-pradu-blackout"
+          get src-poradnik-cyfrowe.html "https://www.gov.pl/web/poradnikbezpieczenstwa/zagrozenia-cyfrowe"
+          get src-poradnik-higiena.html "https://www.gov.pl/web/poradnikbezpieczenstwa/higiena-w-kryzysie"
+          get src-poradnik-plan.html "https://www.gov.pl/web/poradnikbezpieczenstwa/plan-na-kryzys"
+          get src-poradnik-pierwsza-pomoc.html "https://www.gov.pl/web/poradnikbezpieczenstwa/pierwsza-pomoc"
+          get src-kgpsp-czujki-2026.html "https://www.gov.pl/web/kgpsp/obowiazek-instalowania-autonomicznych-czujek-dymu-i-czadu"
+          get src-gis-zywnosc-blackout-2026.html "https://www.gov.pl/web/gis/przerwa-w-dostawie-pradu-pamietaj-o-bezpieczenstwie-zywnosci"
+          get src-psp-agregat-na-zewnatrz.html "https://www.gov.pl/web/kppsp-gizycko/silny-wiatr---uwaga"
+          get src-cert-zglos-incydent.html "https://incydent.cert.pl/"
+          get poradnik-start.html "https://www.gov.pl/web/poradnikbezpieczenstwa"
           cat log.txt
       - name: Zapisz
         run: |
           git config user.name tmp && git config user.email tmp@users.noreply.github.com
-          git add tmp-aux && git commit -m "Tymczasowe: aux" && git push
+          git add tmp-olioc && git commit -m "Tymczasowe: olioc" && git push
