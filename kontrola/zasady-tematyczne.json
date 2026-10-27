@@ -39,7 +39,9 @@
     "sprzet": [
       "urzadzenia"
     ],
-    "olioc": [],
+    "olioc": [
+      "olioc"
+    ],
     "wod": [
       "wodne"
     ],

@@ -1,0 +1,88 @@
+{
+  "id": "KARTA-OLIOC-SYGNALY-ALARMOWE",
+  "wzorzec": 2,
+  "kategoria": "olioc",
+  "grupa": "olioc",
+  "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025; Akademia OLiOC: Instrukcja reagowania — zagrożenie atakiem z powietrza.",
+  "data_aktualizacji": "2026-10-27",
+  "slowo_kluczowe": "olioc sygnały alarmowe",
+  "keywords": [
+    "modulowany dźwięk syreny trzy minuty",
+    "jednostajny dźwięk syreny odwołanie alarmu",
+    "jak rozpoznać alarm syreną"
+  ],
+  "aliasy": [
+    "modulowany dźwięk syreny trzy minuty",
+    "jednostajny dźwięk syreny odwołanie alarmu",
+    "jak rozpoznać alarm syreną"
+  ],
+  "prefix": "Sygnały alarmowe — ogłoszenie i odwołanie alarmu.",
+  "najpierw": [
+    {
+      "t": "Ogłoszenie alarmu: ciągły, modulowany dźwięk syreny przez 3 minuty.",
+      "zr": "Poradnik 2025",
+      "str": 24
+    },
+    {
+      "t": "Odwołanie alarmu: ciągły, jednostajny dźwięk syreny przez 3 minuty.",
+      "zr": "Poradnik 2025",
+      "str": 24
+    },
+    {
+      "t": "Po usłyszeniu sygnału włącz radio lub telewizor i stosuj się do komunikatów.",
+      "zr": "Poradnik 2025",
+      "str": 24
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "Rodzaje sygnałów",
+      "wartosc": "w Polsce obecnie tylko dwa",
+      "zr": "Poradnik 2025",
+      "str": 24
+    },
+    {
+      "nazwa": "Ćwiczenia",
+      "wartosc": "zapowiadane odpowiednio wcześniej",
+      "zr": "Poradnik 2025",
+      "str": 24
+    }
+  ],
+  "sekcje": [
+    {
+      "etykieta": "Kanały ostrzegania",
+      "punkty": [
+        {
+          "t": "Syreny, megafony, radio, telewizja, internet, aplikacja RSO, Alerty RCB, bezpośredni kontakt.",
+          "zr": "Poradnik 2025",
+          "str": 24
+        },
+        {
+          "t": "Znaczenie sygnałów sprawdzisz m.in. w aplikacji mObywatel i na stronie gov.pl/web/rcb/sygnaly-alarmowe3.",
+          "zr": "Instr. reagowania",
+          "str": 2
+        }
+      ]
+    }
+  ],
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "alarmowanie",
+    "syreny alarmowe"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+      "strona": 24,
+      "sekcja": "Sygnały alarmowe i komunikaty ostrzegawcze (s. 24, 53)"
+    },
+    {
+      "dokument_id": "doc-olioc-instrukcja-reagowania",
+      "strona": 2,
+      "sekcja": "Przygotuj się (s. 2)"
+    }
+  ],
+  "data_przegladu": "2026-10-27"
+}

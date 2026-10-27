@@ -1,0 +1,70 @@
+{
+  "id": "KARTA-OLIOC-OCHRONA-LUDNOSCI-I-OBRONA-CYWILNA",
+  "wzorzec": 2,
+  "kategoria": "olioc",
+  "grupa": "olioc",
+  "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+  "data_aktualizacji": "2026-10-27",
+  "slowo_kluczowe": "olioc czym jest ochrona ludności",
+  "keywords": [
+    "różnica ochrona ludności obrona cywilna",
+    "podstawy systemu olioc",
+    "ochrona ludności w czasie pokoju i wojny"
+  ],
+  "aliasy": [
+    "różnica ochrona ludności obrona cywilna",
+    "podstawy systemu olioc",
+    "ochrona ludności w czasie pokoju i wojny"
+  ],
+  "prefix": "Ochrona ludności i obrona cywilna — czym są i kto je tworzy.",
+  "najpierw": [
+    {
+      "t": "W czasie pokoju działa system ochrony ludności: chroni ludzi, zdrowie, mienie, infrastrukturę, środowisko, zwierzęta i dobra kultury.",
+      "zr": "Poradnik 2025",
+      "str": 5
+    },
+    {
+      "t": "Po ogłoszeniu stanu wojennego lub wybuchu wojny system automatycznie przekształca się w obronę cywilną.",
+      "zr": "Poradnik 2025",
+      "str": 5
+    },
+    {
+      "t": "Obrona cywilna nie jest częścią Sił Zbrojnych — chroni wszystkich przed skutkami działań wojennych.",
+      "zr": "Poradnik 2025",
+      "str": 5
+    }
+  ],
+  "parametry": [],
+  "sekcje": [
+    {
+      "etykieta": "Do zapamiętania",
+      "punkty": [
+        {
+          "t": "Odpowiedzialność za przetrwanie i ograniczenie skutków kryzysu to wspólne zadanie, nie tylko władz.",
+          "zr": "Poradnik 2025",
+          "str": 5
+        },
+        {
+          "t": "Pomoc humanitarna jest zawsze bezpłatna — nikt nie może żądać za nią pieniędzy ani przysług.",
+          "zr": "Poradnik 2025",
+          "str": 6
+        }
+      ]
+    }
+  ],
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "podstawy OLiOC",
+    "system bezpieczeństwa"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+      "strona": 5,
+      "sekcja": "Wspólnie dbamy o nasze bezpieczeństwo (s. 5–6)"
+    }
+  ],
+  "data_przegladu": "2026-10-27"
+}

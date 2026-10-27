@@ -212,32 +212,6 @@
       "liczba_stron": 1,
       "uwagi": "Oficjalne źródło internetowe. Wymaga okresowej kontroli aktualności adresu i treści."
     },
-    "src-olioc-ustawa": {
-      "tytul": "Ustawa o ochronie ludności i obronie cywilnej - informacje MSWiA",
-      "wersja": "Źródło internetowe, zweryfikowane 2026-07-17",
-      "data_wydania": "2025-01-01",
-      "rodzaj": "Oficjalna informacja prawna MSWiA",
-      "plik": "https://www.gov.pl/web/olioc/ustawa-o-ochronie-ludnosci-i-obronie-cywilnej",
-      "typ": "url",
-      "id": "src-olioc-ustawa",
-      "status_techniczny": "aktywny",
-      "aktualnosc_merytoryczna": "zweryfikowano_2026-07-17",
-      "liczba_stron": 1,
-      "uwagi": "Oficjalne źródło internetowe. Wymaga okresowej kontroli aktualności adresu i treści."
-    },
-    "src-poradnik-wspolnie": {
-      "tytul": "Poradnik bezpieczeństwa - Wspólnie dbamy o nasze bezpieczeństwo",
-      "wersja": "Źródło internetowe, zweryfikowane 2026-07-17",
-      "data_wydania": null,
-      "rodzaj": "Poradnik MSWiA, MON i RCB",
-      "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/wspolnie-dbamy-o-nasze-bezpieczenstwo2",
-      "typ": "url",
-      "id": "src-poradnik-wspolnie",
-      "status_techniczny": "aktywny",
-      "aktualnosc_merytoryczna": "zweryfikowano_2026-07-17",
-      "liczba_stron": 1,
-      "uwagi": "Oficjalne źródło internetowe. Wymaga okresowej kontroli aktualności adresu i treści."
-    },
     "src-poradnik-przygotuj-siebie": {
       "tytul": "Poradnik bezpieczeństwa - Przygotuj siebie i najbliższych",
       "wersja": "Źródło internetowe, zweryfikowane 2026-07-17",
@@ -1108,6 +1082,58 @@
       "liczba_stron": 4,
       "sha256": "3a2795ee1db8aaa7e31facf96e0016ec82fe794ab35e8b76855a2300f0ffe560",
       "uwagi": "Pobrano z gov.pl (KG PSP), https://www.gov.pl/attachment/01a80975-659b-4bcf-88d4-42c11189d7a1."
+    },
+    "doc-poradnik-bezpieczenstwa-2025": {
+      "id": "doc-poradnik-bezpieczenstwa-2025",
+      "tytul": "Poradnik bezpieczeństwa",
+      "wersja": "Nr publikacji 1/2025",
+      "data_wydania": "2025-08",
+      "rodzaj": "Poradnik rządowy (MSWiA)",
+      "plik": "dokumenty/olioc/poradnik-bezpieczenstwa-2025.pdf",
+      "status_techniczny": "aktywny",
+      "aktualnosc_merytoryczna": "zweryfikowano_2026-10-27",
+      "liczba_stron": 54,
+      "sha256": "60572931cb18fa50d16a20baf5fc0d64217dd583b6db1c207e82183dbf1a41ae",
+      "uwagi": "Pobrano z gov.pl/web/poradnikbezpieczenstwa, https://www.gov.pl/attachment/fa491036-8872-457c-95e4-d1292e4a8203. ISBN 978-83-976775-0-0."
+    },
+    "doc-olioc-instrukcja-reagowania": {
+      "id": "doc-olioc-instrukcja-reagowania",
+      "tytul": "Instrukcja reagowania — zagrożenie atakiem z powietrza",
+      "wersja": "Akademia OLiOC — materiał",
+      "data_wydania": "2026",
+      "rodzaj": "Materiał edukacyjny MSWiA (Akademia OLiOC)",
+      "plik": "dokumenty/olioc/instrukcja-reagowania-atak-z-powietrza.pdf",
+      "status_techniczny": "aktywny",
+      "aktualnosc_merytoryczna": "zweryfikowano_2026-10-27",
+      "liczba_stron": 12,
+      "sha256": "596eb6d25da2c17d0337eff7534457a90adfcf852cc3f9c3cb593a9927de22b4",
+      "uwagi": "Pobrano ze strony Akademii OLiOC, https://www.gov.pl/attachment/cc2d0058-e5f9-4ed6-b583-a08ea4bac5af."
+    },
+    "doc-olioc-alerty-rcb": {
+      "id": "doc-olioc-alerty-rcb",
+      "tytul": "Poznaj Alerty RCB o zagrożeniu atakiem z powietrza",
+      "wersja": "Akademia OLiOC — materiał",
+      "data_wydania": "2026",
+      "rodzaj": "Materiał edukacyjny MSWiA (Akademia OLiOC)",
+      "plik": "dokumenty/olioc/alerty-rcb-atak-z-powietrza.pdf",
+      "status_techniczny": "aktywny",
+      "aktualnosc_merytoryczna": "zweryfikowano_2026-10-27",
+      "liczba_stron": 1,
+      "sha256": "df2ecf8f5b4d0f8107508f0f1a535af7cbdaa07b36cbefe5f3516680c22ef0c8",
+      "uwagi": "Pobrano ze strony Akademii OLiOC, https://www.gov.pl/attachment/112b807a-416d-437d-b391-66dbd5e4a844."
+    },
+    "doc-olioc-sygnal-alarmowy": {
+      "id": "doc-olioc-sygnal-alarmowy",
+      "tytul": "Słyszysz alarm? Zagrożenie atakiem z powietrza",
+      "wersja": "Akademia OLiOC — materiał",
+      "data_wydania": "2026",
+      "rodzaj": "Materiał edukacyjny MSWiA (Akademia OLiOC)",
+      "plik": "dokumenty/olioc/sygnal-alarmowy-atak-z-powietrza.pdf",
+      "status_techniczny": "aktywny",
+      "aktualnosc_merytoryczna": "zweryfikowano_2026-10-27",
+      "liczba_stron": 1,
+      "sha256": "2149a1e7225c58118328cb35f1116c182a8bdd2526219950252a2168ea93ce96",
+      "uwagi": "Pobrano ze strony Akademii OLiOC, https://www.gov.pl/attachment/9bb63c3d-bc74-4fa0-b90b-2aeff45a2b6f."
     }
   }
 }

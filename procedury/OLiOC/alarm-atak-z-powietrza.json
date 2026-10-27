@@ -1,0 +1,124 @@
+{
+  "id": "KARTA-OLIOC-ALARM-ATAK-Z-POWIETRZA",
+  "wzorzec": 2,
+  "kategoria": "olioc",
+  "grupa": "olioc",
+  "zrodlo": "Akademia OLiOC: Słyszysz alarm?; Akademia OLiOC: Instrukcja reagowania — zagrożenie atakiem z powietrza.",
+  "data_aktualizacji": "2026-10-27",
+  "slowo_kluczowe": "olioc co robić po alarmie",
+  "keywords": [
+    "pierwsze działania po syrenie alarmowej",
+    "reakcja obywatela na alarm",
+    "postępowanie po komunikacie ostrzegawczym"
+  ],
+  "aliasy": [
+    "pierwsze działania po syrenie alarmowej",
+    "reakcja obywatela na alarm",
+    "postępowanie po komunikacie ostrzegawczym"
+  ],
+  "prefix": "Alarm — zagrożenie atakiem z powietrza: gdzie się schronić w budynku i na zewnątrz.",
+  "najpierw": [
+    {
+      "t": "W budynku: idź do punktu schronienia; jeśli go nie ma — do pomieszczenia jak najniżej lub bez okien, oddzielonego dwiema ścianami od zewnątrz.",
+      "zr": "Sygnał alarmowy",
+      "str": 1
+    },
+    {
+      "t": "Na zewnątrz: idź do najbliższego punktu schronienia (gdziesieukryc.pl); może to być garaż podziemny, piwnica, tunel, przejście podziemne.",
+      "zr": "Sygnał alarmowy",
+      "str": 1
+    },
+    {
+      "t": "Nie używaj wind — tylko schody. Zabierz plecak ewakuacyjny i leki.",
+      "zr": "Instr. reagowania",
+      "str": 4
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "Zasada dwóch ścian",
+      "wartosc": "co najmniej dwie solidne ściany między Tobą a przestrzenią zewnętrzną",
+      "zr": "Instr. reagowania",
+      "str": 7
+    }
+  ],
+  "sekcje": [
+    {
+      "etykieta": "Decyzja podczas alarmu",
+      "punkty": [
+        {
+          "t": "Punkt schronienia dostępny, droga bezpieczna i jest czas — idź tam.",
+          "zr": "Instr. reagowania",
+          "str": 4
+        },
+        {
+          "t": "Długie przebywanie na zewnątrz w drodze do schronu — nie próbuj za wszelką cenę; zostań w budynku.",
+          "zr": "Instr. reagowania",
+          "str": 4
+        },
+        {
+          "t": "Eksplozja na otwartym terenie — padnij, najlepiej w zagłębieniu, osłoń głowę.",
+          "zr": "Instr. reagowania",
+          "str": 5
+        },
+        {
+          "t": "W pojeździe — opuść go i idź do schronienia; zaparkuj tak, by nie blokować służb.",
+          "zr": "Instr. reagowania",
+          "str": 5
+        }
+      ]
+    },
+    {
+      "etykieta": "Wybór pomieszczenia",
+      "punkty": [
+        {
+          "t": "Z dala od balkonów i ścian zewnętrznych, blisko środka budynku, bez kotła, butli gazowych, luster i ciężkich przedmiotów, bez okien.",
+          "zr": "Instr. reagowania",
+          "str": 6
+        },
+        {
+          "t": "Dobre: korytarz wewnętrzny, przedpokój, łazienka bez okna i kotła, garderoba, piwnica, garaż podziemny.",
+          "zr": "Instr. reagowania",
+          "str": 7
+        },
+        {
+          "t": "Piwnica: drożne wejście, solidne stropy, oświetlenie awaryjne, wentylacja, bezpieczne wyjście; nie z pęknięciami, jednym wyjściem lub instalacją gazową.",
+          "zr": "Instr. reagowania",
+          "str": 8
+        }
+      ]
+    }
+  ],
+  "nie_rob": [
+    {
+      "t": "Nie wybieraj klatki schodowej z dużymi oknami.",
+      "zr": "Instr. reagowania",
+      "str": 7
+    },
+    {
+      "t": "W garażu podziemnym nie uruchamiaj silników i nie blokuj przejść.",
+      "zr": "Instr. reagowania",
+      "str": 9
+    }
+  ],
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "reakcja na alarm",
+    "bezpieczeństwo rodziny"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-olioc-sygnal-alarmowy",
+      "strona": 1,
+      "sekcja": "Słyszysz alarm? (s. 1)"
+    },
+    {
+      "dokument_id": "doc-olioc-instrukcja-reagowania",
+      "strona": 4,
+      "sekcja": "Decyzja podczas alarmu, wybór pomieszczenia (s. 3–10)"
+    }
+  ],
+  "data_przegladu": "2026-10-27"
+}

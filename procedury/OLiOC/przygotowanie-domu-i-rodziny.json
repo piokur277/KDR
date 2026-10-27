@@ -1,0 +1,100 @@
+{
+  "id": "KARTA-OLIOC-PRZYGOTOWANIE-DOMU-I-RODZINY",
+  "wzorzec": 2,
+  "kategoria": "olioc",
+  "grupa": "olioc",
+  "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+  "data_aktualizacji": "2026-10-27",
+  "slowo_kluczowe": "olioc obszary przygotowania obywatela",
+  "keywords": [
+    "co przygotować na sytuację kryzysową olioc",
+    "podstawowe przygotowanie rodziny do kryzysu",
+    "najważniejsze elementy gotowości obywatelskiej"
+  ],
+  "aliasy": [
+    "co przygotować na sytuację kryzysową olioc",
+    "podstawowe przygotowanie rodziny do kryzysu",
+    "najważniejsze elementy gotowości obywatelskiej"
+  ],
+  "prefix": "Przygotowanie siebie, rodziny i domu na kryzys — przegląd obszarów.",
+  "najpierw": [
+    {
+      "t": "Przygotuj domowe zapasy na minimum 3 dni i regularnie je przeglądaj.",
+      "zr": "Poradnik 2025",
+      "str": 52
+    },
+    {
+      "t": "Opracuj i przećwicz rodzinny plan kryzysowy: kontakty, miejsca i terminy spotkań na wypadek rozdzielenia.",
+      "zr": "Poradnik 2025",
+      "str": 47
+    },
+    {
+      "t": "Skompletuj plecak ewakuacyjny; sprawdź najbliższe miejsce schronienia.",
+      "zr": "Poradnik 2025",
+      "str": 52
+    }
+  ],
+  "parametry": [],
+  "sekcje": [
+    {
+      "etykieta": "Zdrowie",
+      "punkty": [
+        {
+          "t": "Miej niezbędne leki i urządzenia wspomagające; poinformuj bliskich o chorobach i alergiach; dokumentacja medyczna w jednym miejscu.",
+          "zr": "Poradnik 2025",
+          "str": 11
+        },
+        {
+          "t": "Postaraj się o kartę grupy krwi i noś ją przy sobie.",
+          "zr": "Poradnik 2025",
+          "str": 11
+        }
+      ]
+    },
+    {
+      "etykieta": "Dom",
+      "punkty": [
+        {
+          "t": "Oznacz miejsca odcięcia gazu, prądu i wody; przećwicz ich wyłączanie.",
+          "zr": "Poradnik 2025",
+          "str": 18
+        },
+        {
+          "t": "Czujki dymu, czadu i gazu; gaśnica i koc gaśniczy; regularne przeglądy instalacji.",
+          "zr": "Poradnik 2025",
+          "str": 18
+        },
+        {
+          "t": "Najbezpieczniejsze miejsce w domu: z dala od okien, przy ścianach nośnych, w centralnych pomieszczeniach.",
+          "zr": "Poradnik 2025",
+          "str": 18
+        }
+      ]
+    },
+    {
+      "etykieta": "Rodzina",
+      "punkty": [
+        {
+          "t": "Dzieciom i seniorom przygotuj identyfikatory z imieniem, nazwiskiem i telefonem; zwierzęta zaczipuj.",
+          "zr": "Poradnik 2025",
+          "str": 52
+        }
+      ]
+    }
+  ],
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "gotowość cywilna",
+    "odporność społeczna"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+      "strona": 11,
+      "sekcja": "Przygotowanie (s. 11–22), Plan na kryzys (s. 46–47), Dekalog (s. 52)"
+    }
+  ],
+  "data_przegladu": "2026-10-27"
+}

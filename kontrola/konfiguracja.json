@@ -149,6 +149,14 @@
       "dotyczy_kart": [
         "KARTA-LOT-BSP-"
       ]
+    },
+    {
+      "id": "poradnik-bezpieczenstwa",
+      "url": "https://www.gov.pl/web/poradnikbezpieczenstwa",
+      "opis": "MSWiA — Poradnik bezpieczeństwa (nowe wydanie PDF)",
+      "dotyczy_kart": [
+        "KARTA-OLIOC-"
+      ]
     }
   ],
   "pliki_oficjalne": {
@@ -323,6 +331,26 @@
         "dokument_id": "doc-pv-szp-2022",
         "url": "https://www.gov.pl/attachment/8de63237-d46f-43c3-8864-c3035e7249b1",
         "strona": "baza-wiedzy"
+      },
+      {
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "url": "https://www.gov.pl/attachment/fa491036-8872-457c-95e4-d1292e4a8203",
+        "strona": "poradnikbezpieczenstwa"
+      },
+      {
+        "dokument_id": "doc-olioc-instrukcja-reagowania",
+        "url": "https://www.gov.pl/attachment/cc2d0058-e5f9-4ed6-b583-a08ea4bac5af",
+        "strona": "olioc/akdemia-olioc"
+      },
+      {
+        "dokument_id": "doc-olioc-alerty-rcb",
+        "url": "https://www.gov.pl/attachment/112b807a-416d-437d-b391-66dbd5e4a844",
+        "strona": "olioc/akdemia-olioc"
+      },
+      {
+        "dokument_id": "doc-olioc-sygnal-alarmowy",
+        "url": "https://www.gov.pl/attachment/9bb63c3d-bc74-4fa0-b90b-2aeff45a2b6f",
+        "strona": "olioc/akdemia-olioc"
       }
     ]
   }

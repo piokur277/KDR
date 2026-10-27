@@ -6618,6 +6618,230 @@
     "content": "1. NAJPIERW: Każde zgłoszenie niezwłocznie przekaż do nadrzędnego SK PSP; w SWD PSP flaga „Do wiadomości KG”, podrodzaj „MZ – Lotnicze”. Nie dotykaj, nie ruszaj, nie przenoś — nawet poruszenie, odkręcenie śruby lub telefon komórkowy w pobliżu może spowodować detonację. Wyznacz strefę niebezpieczną o promieniu co najmniej 150 m i ewakuuj z niej ludzi; 150 m to minimum — zwiększ wg obiektu, terenu i rozpoznania. Bez bezpośredniego zagrożenia życia osób postronnych ratownicy nie zbliżają się do obiektu: „Jeżeli Ty widzisz bombę – bomba widzi Ciebie”.\n2. PARAMETRY: Założenie wstępne — obiekt militarny z materiałem wybuchowym, możliwe systemy autodestrukcji (zapalniki czasowe); Strefa niebezpieczna — min. 150 m od obiektu — wartość minimalna; Rozpoznanie — tylko z dystansu: lornetka, luneta, kamera lub telefon z zoomem, BSP jednostki; Służba wiodąca — po przybyciu Policji lub SZ RP — formalnie przekaż im miejsce zdarzenia\n3. DOJAZD I USTAWIENIE SIŁ: Dojazd planuj z uwzględnieniem kierunku i siły wiatru, ukształtowania terenu i możliwości rozprzestrzeniania aerozolu. Pojazdy zatrzymaj poza strefą niebezpieczną, z możliwością natychmiastowego wycofania. Punkt dowodzenia i punkt przyjęcia sił — po stronie nawietrznej, poza obszarem rażenia i skażenia. Rozpraszaj siły: nie gromadź pojazdów w jednym punkcie ani na jednej osi dojazdu; wykorzystaj osłony terenowe i zabudowę. Wyznacz obserwatora przestrzeni powietrznej; ustal sygnał alarmowy i miejsca ukrycia dla wszystkich działających.\n4. ZAGROŻENIA: Obiekt może zawierać bojowe środki trujące lub inne substancje niebezpieczne. Zakładaj skażenie CBRN każdego BSP do wykluczenia pomiarami; uprzedź inne służby — części BSP tylko w rękawiczkach. Możliwe środki: chloropikryna, malononitryl, nowiczoki; materiały promieniotwórcze (np. zubożony uran). Wybuch przy pożarze (ogrzanie zapalnika); w pobliżu upadku miny i urządzenia wybuchowe, także reagujące na drgania od kroków. Głowice 40–90 kg materiału wybuchowego; przy 90 kg zasięg odłamkowania ok. 1000 m. Możliwa aktywacja falami radiowymi i wtórne uderzenie w miejsce, gdzie zebrały się służby. Najgroźniejsze są BSP, które nie wybuchły lub nie spłonęły — ryzyko opóźnionej detonacji.\n5. RATOWANIE ŻYCIA I ORGANIZACJA: Przy bezpośrednim zagrożeniu poszkodowanych dopuszczalne działania poza wytycznymi, z zachowaniem ostrożności; zbliżaj się za osłonami lub z tarczą balistyczną. Zdjęcia i filmy tylko służbowo; przekazuj wyłącznie służbową pocztą elektroniczną. Wytyczne mogą być doprecyzowane na poziomie wojewódzkim lub powiatowym.\n6. NIE RÓB: Nie odłączaj baterii, nie obracaj, nie tnij przewodów, nie wchodź w pole widzenia kamery. Nie zbliżaj się z urządzeniami emitującymi fale radiowe. Nie publikuj materiałów w mediach społecznościowych ani prywatnych komunikatorach."
   },
   {
+    "id": "KARTA-OLIOC-ALARM-ATAK-Z-POWIETRZA",
+    "wzorzec": 2,
+    "kategoria": "olioc",
+    "grupa": "olioc",
+    "zrodlo": "Akademia OLiOC: Słyszysz alarm?; Akademia OLiOC: Instrukcja reagowania — zagrożenie atakiem z powietrza.",
+    "data_aktualizacji": "2026-10-27",
+    "slowo_kluczowe": "olioc co robić po alarmie",
+    "keywords": [
+      "pierwsze działania po syrenie alarmowej",
+      "reakcja obywatela na alarm",
+      "postępowanie po komunikacie ostrzegawczym"
+    ],
+    "aliasy": [
+      "pierwsze działania po syrenie alarmowej",
+      "reakcja obywatela na alarm",
+      "postępowanie po komunikacie ostrzegawczym"
+    ],
+    "prefix": "Alarm — zagrożenie atakiem z powietrza: gdzie się schronić w budynku i na zewnątrz.",
+    "najpierw": [
+      {
+        "t": "W budynku: idź do punktu schronienia; jeśli go nie ma — do pomieszczenia jak najniżej lub bez okien, oddzielonego dwiema ścianami od zewnątrz.",
+        "zr": "Sygnał alarmowy",
+        "str": 1
+      },
+      {
+        "t": "Na zewnątrz: idź do najbliższego punktu schronienia (gdziesieukryc.pl); może to być garaż podziemny, piwnica, tunel, przejście podziemne.",
+        "zr": "Sygnał alarmowy",
+        "str": 1
+      },
+      {
+        "t": "Nie używaj wind — tylko schody. Zabierz plecak ewakuacyjny i leki.",
+        "zr": "Instr. reagowania",
+        "str": 4
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Zasada dwóch ścian",
+        "wartosc": "co najmniej dwie solidne ściany między Tobą a przestrzenią zewnętrzną",
+        "zr": "Instr. reagowania",
+        "str": 7
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Decyzja podczas alarmu",
+        "punkty": [
+          {
+            "t": "Punkt schronienia dostępny, droga bezpieczna i jest czas — idź tam.",
+            "zr": "Instr. reagowania",
+            "str": 4
+          },
+          {
+            "t": "Długie przebywanie na zewnątrz w drodze do schronu — nie próbuj za wszelką cenę; zostań w budynku.",
+            "zr": "Instr. reagowania",
+            "str": 4
+          },
+          {
+            "t": "Eksplozja na otwartym terenie — padnij, najlepiej w zagłębieniu, osłoń głowę.",
+            "zr": "Instr. reagowania",
+            "str": 5
+          },
+          {
+            "t": "W pojeździe — opuść go i idź do schronienia; zaparkuj tak, by nie blokować służb.",
+            "zr": "Instr. reagowania",
+            "str": 5
+          }
+        ]
+      },
+      {
+        "etykieta": "Wybór pomieszczenia",
+        "punkty": [
+          {
+            "t": "Z dala od balkonów i ścian zewnętrznych, blisko środka budynku, bez kotła, butli gazowych, luster i ciężkich przedmiotów, bez okien.",
+            "zr": "Instr. reagowania",
+            "str": 6
+          },
+          {
+            "t": "Dobre: korytarz wewnętrzny, przedpokój, łazienka bez okna i kotła, garderoba, piwnica, garaż podziemny.",
+            "zr": "Instr. reagowania",
+            "str": 7
+          },
+          {
+            "t": "Piwnica: drożne wejście, solidne stropy, oświetlenie awaryjne, wentylacja, bezpieczne wyjście; nie z pęknięciami, jednym wyjściem lub instalacją gazową.",
+            "zr": "Instr. reagowania",
+            "str": 8
+          }
+        ]
+      }
+    ],
+    "nie_rob": [
+      {
+        "t": "Nie wybieraj klatki schodowej z dużymi oknami.",
+        "zr": "Instr. reagowania",
+        "str": 7
+      },
+      {
+        "t": "W garażu podziemnym nie uruchamiaj silników i nie blokuj przejść.",
+        "zr": "Instr. reagowania",
+        "str": 9
+      }
+    ],
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "reakcja na alarm",
+      "bezpieczeństwo rodziny"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-olioc-sygnal-alarmowy",
+        "strona": 1,
+        "sekcja": "Słyszysz alarm? (s. 1)"
+      },
+      {
+        "dokument_id": "doc-olioc-instrukcja-reagowania",
+        "strona": 4,
+        "sekcja": "Decyzja podczas alarmu, wybór pomieszczenia (s. 3–10)"
+      }
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: W budynku: idź do punktu schronienia; jeśli go nie ma — do pomieszczenia jak najniżej lub bez okien, oddzielonego dwiema ścianami od zewnątrz. Na zewnątrz: idź do najbliższego punktu schronienia (gdziesieukryc.pl); może to być garaż podziemny, piwnica, tunel, przejście podziemne. Nie używaj wind — tylko schody. Zabierz plecak ewakuacyjny i leki.\n2. PARAMETRY: Zasada dwóch ścian — co najmniej dwie solidne ściany między Tobą a przestrzenią zewnętrzną\n3. DECYZJA PODCZAS ALARMU: Punkt schronienia dostępny, droga bezpieczna i jest czas — idź tam. Długie przebywanie na zewnątrz w drodze do schronu — nie próbuj za wszelką cenę; zostań w budynku. Eksplozja na otwartym terenie — padnij, najlepiej w zagłębieniu, osłoń głowę. W pojeździe — opuść go i idź do schronienia; zaparkuj tak, by nie blokować służb.\n4. WYBÓR POMIESZCZENIA: Z dala od balkonów i ścian zewnętrznych, blisko środka budynku, bez kotła, butli gazowych, luster i ciężkich przedmiotów, bez okien. Dobre: korytarz wewnętrzny, przedpokój, łazienka bez okna i kotła, garderoba, piwnica, garaż podziemny. Piwnica: drożne wejście, solidne stropy, oświetlenie awaryjne, wentylacja, bezpieczne wyjście; nie z pęknięciami, jednym wyjściem lub instalacją gazową.\n5. NIE RÓB: Nie wybieraj klatki schodowej z dużymi oknami. W garażu podziemnym nie uruchamiaj silników i nie blokuj przejść."
+  },
+  {
+    "id": "KARTA-OLIOC-ALERTY-RCB-I-RSO",
+    "wzorzec": 2,
+    "kategoria": "olioc",
+    "grupa": "olioc",
+    "zrodlo": "Akademia OLiOC: Poznaj Alerty RCB; Akademia OLiOC: Instrukcja reagowania — zagrożenie atakiem z powietrza; MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+    "data_aktualizacji": "2026-10-27",
+    "slowo_kluczowe": "olioc alert rcb i rso",
+    "keywords": [
+      "komunikat ostrzegawczy na telefon",
+      "regionalny system ostrzegania olioc",
+      "jak reagować na alert rcb"
+    ],
+    "aliasy": [
+      "komunikat ostrzegawczy na telefon",
+      "regionalny system ostrzegania olioc",
+      "jak reagować na alert rcb"
+    ],
+    "prefix": "Alerty RCB i RSO — trzy stopnie komunikatów o zagrożeniu atakiem z powietrza.",
+    "najpierw": [
+      {
+        "t": "1 — CZUJNOŚĆ: atak w Ukrainie blisko granicy; możesz usłyszeć samoloty wojskowe i sygnał alarmowy — przygotuj się na kolejne informacje.",
+        "zr": "Alerty RCB",
+        "str": 1
+      },
+      {
+        "t": "2 — GOTOWOŚĆ: większe ryzyko wtargnięcia obiektu — przygotuj się, by znaleźć się w bezpiecznym miejscu.",
+        "zr": "Alerty RCB",
+        "str": 1
+      },
+      {
+        "t": "3 — ALARM: „Zagrożenie atakiem z powietrza. Znajdź bezpieczne miejsce” — działaj teraz.",
+        "zr": "Alerty RCB",
+        "str": 1
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "RSO",
+        "wartosc": "bezpłatna aplikacja — informuje o zagrożeniach na terenie Polski",
+        "zr": "Poradnik 2025",
+        "str": 53
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Przed alertem",
+        "punkty": [
+          {
+            "t": "Zapoznaj się z Poradnikiem bezpieczeństwa, ustal z rodziną sposób reagowania, sprawdź najbliższe miejsce ukrycia.",
+            "zr": "Alerty RCB",
+            "str": 1
+          },
+          {
+            "t": "Najbliższy punkt schronienia sprawdzisz na gdziesieukryc.pl.",
+            "zr": "Instr. reagowania",
+            "str": 2
+          }
+        ]
+      },
+      {
+        "etykieta": "Po alercie",
+        "punkty": [
+          {
+            "t": "Stosuj się do poleceń służb, treści Alertu RCB i oficjalnych komunikatów.",
+            "zr": "Instr. reagowania",
+            "str": 4
+          }
+        ]
+      }
+    ],
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "Alert RCB",
+      "RSO",
+      "komunikaty ostrzegawcze"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-olioc-alerty-rcb",
+        "strona": 1,
+        "sekcja": "Poznaj Alerty RCB (s. 1)"
+      },
+      {
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 53,
+        "sekcja": "RSO (s. 53)"
+      },
+      {
+        "dokument_id": "doc-olioc-instrukcja-reagowania",
+        "strona": 2,
+        "sekcja": "(s. 2, 4)"
+      }
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: 1 — CZUJNOŚĆ: atak w Ukrainie blisko granicy; możesz usłyszeć samoloty wojskowe i sygnał alarmowy — przygotuj się na kolejne informacje. 2 — GOTOWOŚĆ: większe ryzyko wtargnięcia obiektu — przygotuj się, by znaleźć się w bezpiecznym miejscu. 3 — ALARM: „Zagrożenie atakiem z powietrza. Znajdź bezpieczne miejsce” — działaj teraz.\n2. PARAMETRY: RSO — bezpłatna aplikacja — informuje o zagrożeniach na terenie Polski\n3. PRZED ALERTEM: Zapoznaj się z Poradnikiem bezpieczeństwa, ustal z rodziną sposób reagowania, sprawdź najbliższe miejsce ukrycia. Najbliższy punkt schronienia sprawdzisz na gdziesieukryc.pl.\n4. PO ALERCIE: Stosuj się do poleceń służb, treści Alertu RCB i oficjalnych komunikatów."
+  },
+  {
     "id": "KARTA-OLIOC-GRUDZIEŃ-04-LEKI_HIGIENA",
     "kategoria": "olioc",
     "miesiac_akademii": "grudzień",
@@ -6889,172 +7113,80 @@
     ]
   },
   {
-    "id": "KARTA-OLIOC-LIPIEC-02-KOMUNIKATY_OSTRZEGAWCZE",
+    "id": "KARTA-OLIOC-INSTYTUCJE-I-SLUZBY",
+    "wzorzec": 2,
     "kategoria": "olioc",
-    "miesiac_akademii": "lipiec",
-    "grupa_docelowa": "obywatel",
-    "status_zrodla": "oficjalne",
-    "data_aktualizacji": "2026-07-17",
-    "data_weryfikacji_zrodel": "2026-07-17",
-    "zrodlo": "Poradnik bezpieczeństwa - Sygnały alarmowe i komunikaty ostrzegawcze",
-    "slowo_kluczowe": "olioc alert rcb i rso",
+    "grupa": "olioc",
+    "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+    "data_aktualizacji": "2026-10-27",
+    "slowo_kluczowe": "olioc kto odpowiada za ochronę ludności",
     "keywords": [
-      "komunikat ostrzegawczy na telefon",
-      "regionalny system ostrzegania olioc",
-      "jak reagować na alert rcb"
-    ],
-    "prefix": "OLiOC - lipiec: Alert RCB, RSO i komunikaty ostrzegawcze.",
-    "content": "1. Przeczytaj cały komunikat: rodzaj zagrożenia, obszar, czas i wymagane działanie.\n2. Sprawdź, czy komunikat dotyczy miejsca, w którym jesteś lub do którego zmierzasz.\n3. Wykonaj polecenia bez zwłoki, zwłaszcza dotyczące ewakuacji, pozostania w budynku lub zabezpieczenia mienia.\n4. Przekaż informację domownikom i osobom, które mogą nie mieć telefonu lub dostępu do mediów.\n5. Nie odpowiadaj na Alert RCB i nie klikaj linków z nieznanych wiadomości podszywających się pod służby.\n6. Aktualizacje sytuacji sprawdzaj w oficjalnych kanałach rządowych, samorządowych i służb.",
-    "tagi_wspolne": [
-      "OLiOC",
-      "ochrona ludności",
-      "edukacja obywatelska",
-      "Akademia OLiOC lipiec",
-      "Alert RCB",
-      "RSO",
-      "komunikaty ostrzegawcze"
+      "instytucje ochrony ludności",
+      "rola gminy powiatu wojewody olioc",
+      "służby w systemie ochrony ludności"
     ],
     "aliasy": [
-      "komunikat ostrzegawczy na telefon",
-      "regionalny system ostrzegania olioc",
-      "jak reagować na alert rcb"
+      "instytucje ochrony ludności",
+      "rola gminy powiatu wojewody olioc",
+      "służby w systemie ochrony ludności"
     ],
-    "dokumenty_zrodlowe": [
+    "prefix": "Kto odpowiada za ochronę ludności — instytucje publiczne, służby, wojsko, organizacje społeczne.",
+    "najpierw": [
       {
-        "dokument_id": "src-poradnik-alarmy",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      }
-    ]
-  },
-  {
-    "id": "KARTA-OLIOC-LIPIEC-04-OFICJALNE_ZRODLA",
-    "kategoria": "olioc",
-    "miesiac_akademii": "lipiec",
-    "grupa_docelowa": "obywatel",
-    "status_zrodla": "oficjalne",
-    "data_aktualizacji": "2026-07-17",
-    "data_weryfikacji_zrodel": "2026-07-17",
-    "zrodlo": "Poradnik bezpieczeństwa - Sygnały alarmowe i komunikaty ostrzegawcze; Poradnik bezpieczeństwa - Zagrożenia cyfrowe",
-    "slowo_kluczowe": "olioc oficjalne źródła informacji",
-    "keywords": [
-      "gdzie sprawdzać informacje o zagrożeniu",
-      "wiarygodne komunikaty podczas kryzysu",
-      "radio rso alert rcb informacje"
-    ],
-    "prefix": "OLiOC - lipiec: oficjalne źródła informacji podczas kryzysu.",
-    "content": "1. Korzystaj z Alertów RCB, RSO, stron gov.pl, urzędu wojewódzkiego, gminy i oficjalnych profili służb.\n2. Słuchaj radia i telewizji publicznej, zwłaszcza gdy internet działa niestabilnie.\n3. Sprawdź tę samą informację w co najmniej dwóch oficjalnych kanałach.\n4. Zwracaj uwagę na datę, godzinę, obszar obowiązywania i autora komunikatu.\n5. Nie przekazuj dalej zrzutów ekranu bez linku do źródła i informacji o czasie publikacji.\n6. W razie braku internetu używaj radia bateryjnego i lokalnych komunikatów głosowych.",
-    "tagi_wspolne": [
-      "OLiOC",
-      "ochrona ludności",
-      "edukacja obywatelska",
-      "Akademia OLiOC lipiec",
-      "wiarygodne informacje",
-      "komunikacja kryzysowa"
-    ],
-    "aliasy": [
-      "gdzie sprawdzać informacje o zagrożeniu",
-      "wiarygodne komunikaty podczas kryzysu",
-      "radio rso alert rcb informacje"
-    ],
-    "dokumenty_zrodlowe": [
-      {
-        "dokument_id": "src-poradnik-alarmy",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
+        "t": "Wójtowie, burmistrzowie, prezydenci miast, starostowie, wojewodowie i minister spraw wewnętrznych tworzą plany ewakuacji i schronienia oraz koordynują służby.",
+        "zr": "Poradnik 2025",
+        "str": 5
       },
       {
-        "dokument_id": "src-poradnik-cyfrowe",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
+        "t": "Straż pożarna, policja, ratownictwo medyczne i inne służby ratują życie, zdrowie i mienie, ewakuują i zapewniają schronienie.",
+        "zr": "Poradnik 2025",
+        "str": 6
       }
-    ]
-  },
-  {
-    "id": "KARTA-OLIOC-LIPIEC-03-REAKCJA_PO_ALARMIE",
-    "kategoria": "olioc",
-    "miesiac_akademii": "lipiec",
-    "grupa_docelowa": "obywatel",
-    "status_zrodla": "oficjalne",
-    "data_aktualizacji": "2026-07-17",
-    "data_weryfikacji_zrodel": "2026-07-17",
-    "zrodlo": "Poradnik bezpieczeństwa - Sygnały alarmowe i komunikaty ostrzegawcze; Poradnik bezpieczeństwa - Plan na kryzys",
-    "slowo_kluczowe": "olioc co robić po alarmie",
-    "keywords": [
-      "pierwsze działania po syrenie alarmowej",
-      "reakcja obywatela na alarm",
-      "postępowanie po komunikacie ostrzegawczym"
     ],
-    "prefix": "OLiOC - lipiec: co zrobić natychmiast po ogłoszeniu alarmu.",
-    "content": "1. Zachowaj spokój i ustal, czego dotyczy alarm.\n2. Zbierz domowników, uruchom rodzinny plan i przygotuj telefon, radio, dokumenty oraz plecak.\n3. Zależnie od komunikatu: pozostań w budynku, uszczelnij pomieszczenie, przejdź do schronienia albo rozpocznij ewakuację.\n4. Pomóż dzieciom, seniorom i osobom wymagającym wsparcia.\n5. Ogranicz połączenia telefoniczne i korzystanie z sieci, aby nie przeciążać łączności.\n6. Nie opuszczaj bezpiecznego miejsca, dopóki nie usłyszysz odwołania alarmu albo polecenia służb.",
+    "parametry": [],
+    "sekcje": [
+      {
+        "etykieta": "Pozostali",
+        "punkty": [
+          {
+            "t": "Siły Zbrojne bronią suwerenności państwa; w razie napaści uruchamiają plany krajowe i sojusznicze.",
+            "zr": "Poradnik 2025",
+            "str": 6
+          },
+          {
+            "t": "Organizacje społeczne wspierają państwo w pomocy lub same ją organizują — szybko i elastycznie.",
+            "zr": "Poradnik 2025",
+            "str": 6
+          }
+        ]
+      },
+      {
+        "etykieta": "Uwaga",
+        "punkty": [
+          {
+            "t": "Pomoc humanitarna jest zawsze bezpłatna.",
+            "zr": "Poradnik 2025",
+            "str": 6
+          }
+        ]
+      }
+    ],
     "tagi_wspolne": [
       "OLiOC",
       "ochrona ludności",
       "edukacja obywatelska",
-      "Akademia OLiOC lipiec",
-      "reakcja na alarm",
-      "bezpieczeństwo rodziny"
-    ],
-    "aliasy": [
-      "pierwsze działania po syrenie alarmowej",
-      "reakcja obywatela na alarm",
-      "postępowanie po komunikacie ostrzegawczym"
+      "administracja publiczna",
+      "służby ratownicze"
     ],
     "dokumenty_zrodlowe": [
       {
-        "dokument_id": "src-poradnik-alarmy",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      },
-      {
-        "dokument_id": "src-poradnik-plan",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 5,
+        "sekcja": "Rola instytucji, wojska, służb i organizacji (s. 5–6)"
       }
-    ]
-  },
-  {
-    "id": "KARTA-OLIOC-LIPIEC-01-SYGNALY_ALARMOWE",
-    "kategoria": "olioc",
-    "miesiac_akademii": "lipiec",
-    "grupa_docelowa": "obywatel",
-    "status_zrodla": "oficjalne",
-    "data_aktualizacji": "2026-07-17",
-    "data_weryfikacji_zrodel": "2026-07-17",
-    "zrodlo": "Akademia OLiOC - program „jeden miesiąc - jeden temat”; Poradnik bezpieczeństwa - Sygnały alarmowe i komunikaty ostrzegawcze",
-    "slowo_kluczowe": "olioc sygnały alarmowe",
-    "keywords": [
-      "modulowany dźwięk syreny trzy minuty",
-      "jednostajny dźwięk syreny odwołanie alarmu",
-      "jak rozpoznać alarm syreną"
     ],
-    "prefix": "OLiOC - lipiec: sygnały alarmowe i ich znaczenie.",
-    "content": "1. Ogłoszenie alarmu: modulowany dźwięk syreny trwający 3 minuty.\n2. Odwołanie alarmu: ciągły, jednostajny dźwięk syreny trwający 3 minuty.\n3. Po usłyszeniu syreny przerwij wykonywane czynności i sprawdź oficjalny komunikat.\n4. Włącz radio, telewizję lub oficjalny serwis internetowy; sprawdź Alert RCB i RSO.\n5. Nie dzwoń na 112 tylko po to, aby zapytać o znaczenie syreny - numer musi pozostać dostępny dla osób zagrożonych.\n6. Ćwiczenia syren są wcześniej zapowiadane; podczas rzeczywistego alarmu wykonuj polecenia władz i służb.",
-    "tagi_wspolne": [
-      "OLiOC",
-      "ochrona ludności",
-      "edukacja obywatelska",
-      "Akademia OLiOC lipiec",
-      "alarmowanie",
-      "syreny alarmowe"
-    ],
-    "aliasy": [
-      "modulowany dźwięk syreny trzy minuty",
-      "jednostajny dźwięk syreny odwołanie alarmu",
-      "jak rozpoznać alarm syreną"
-    ],
-    "dokumenty_zrodlowe": [
-      {
-        "dokument_id": "src-olioc-akademia",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      },
-      {
-        "dokument_id": "src-poradnik-alarmy",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      }
-    ]
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: Wójtowie, burmistrzowie, prezydenci miast, starostowie, wojewodowie i minister spraw wewnętrznych tworzą plany ewakuacji i schronienia oraz koordynują służby. Straż pożarna, policja, ratownictwo medyczne i inne służby ratują życie, zdrowie i mienie, ewakuują i zapewniają schronienie.\n2. POZOSTALI: Siły Zbrojne bronią suwerenności państwa; w razie napaści uruchamiają plany krajowe i sojusznicze. Organizacje społeczne wspierają państwo w pomocy lub same ją organizują — szybko i elastycznie.\n3. UWAGA: Pomoc humanitarna jest zawsze bezpłatna."
   },
   {
     "id": "KARTA-OLIOC-LISTOPAD-07-AGREGAT",
@@ -7357,239 +7489,155 @@
     ]
   },
   {
-    "id": "KARTA-OLIOC-MAJ-03-INSTYTUCJE_I_SLUZBY",
+    "id": "KARTA-OLIOC-OCHRONA-LUDNOSCI-I-OBRONA-CYWILNA",
+    "wzorzec": 2,
     "kategoria": "olioc",
-    "miesiac_akademii": "maj",
-    "grupa_docelowa": "obywatel",
-    "status_zrodla": "oficjalne",
-    "data_aktualizacji": "2026-07-17",
-    "data_weryfikacji_zrodel": "2026-07-17",
-    "zrodlo": "Ustawa o ochronie ludności i obronie cywilnej - informacje MSWiA; Poradnik bezpieczeństwa - Wspólnie dbamy o nasze bezpieczeństwo",
-    "slowo_kluczowe": "olioc kto odpowiada za ochronę ludności",
-    "keywords": [
-      "instytucje ochrony ludności",
-      "rola gminy powiatu wojewody olioc",
-      "służby w systemie ochrony ludności"
-    ],
-    "prefix": "OLiOC - maj: kto odpowiada za bezpieczeństwo i jak współdziałają służby.",
-    "content": "1. Wójt, burmistrz lub prezydent miasta organizuje działania ochrony ludności na poziomie gminy.\n2. Starosta i wojewoda koordynują działania na wyższych poziomach, a minister właściwy do spraw wewnętrznych odpowiada za poziom centralny.\n3. Służby ratownicze ratują życie i mienie, prowadzą ewakuację, alarmowanie i działania specjalistyczne.\n4. Organizacje społeczne i wolontariusze mogą wspierać pomoc humanitarną, logistykę i opiekę nad ludnością.\n5. Obywatel powinien znać komunikaty lokalnych władz i wskazane miejsca uzyskania pomocy.\n6. Pomoc humanitarna jest bezpłatna - nie przekazuj pieniędzy ani dokumentów osobom, które żądają zapłaty za rzekomą pomoc.",
-    "tagi_wspolne": [
-      "OLiOC",
-      "ochrona ludności",
-      "edukacja obywatelska",
-      "Akademia OLiOC maj",
-      "administracja publiczna",
-      "służby ratownicze"
-    ],
-    "aliasy": [
-      "instytucje ochrony ludności",
-      "rola gminy powiatu wojewody olioc",
-      "służby w systemie ochrony ludności"
-    ],
-    "dokumenty_zrodlowe": [
-      {
-        "dokument_id": "src-olioc-ustawa",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      },
-      {
-        "dokument_id": "src-poradnik-wspolnie",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      }
-    ]
-  },
-  {
-    "id": "KARTA-OLIOC-MAJ-05-OBSZARY_PRZYGOTOWANIA",
-    "kategoria": "olioc",
-    "miesiac_akademii": "maj",
-    "grupa_docelowa": "obywatel",
-    "status_zrodla": "oficjalne",
-    "data_aktualizacji": "2026-07-17",
-    "data_weryfikacji_zrodel": "2026-07-17",
-    "zrodlo": "Akademia OLiOC - program „jeden miesiąc - jeden temat”; Poradnik bezpieczeństwa - Plan na kryzys; Poradnik bezpieczeństwa - Przygotuj siebie i najbliższych",
-    "slowo_kluczowe": "olioc obszary przygotowania obywatela",
-    "keywords": [
-      "co przygotować na sytuację kryzysową olioc",
-      "podstawowe przygotowanie rodziny do kryzysu",
-      "najważniejsze elementy gotowości obywatelskiej"
-    ],
-    "prefix": "OLiOC - maj: podstawowe obszary przygotowania obywatela.",
-    "content": "1. INFORMACJA: poznaj sygnały alarmowe i oficjalne kanały ostrzegania.\n2. RODZINA: opracuj kontakty, miejsca spotkania i sposób działania po rozdzieleniu.\n3. ZDROWIE: zgromadź leki, dokumentację medyczną i informacje o alergiach.\n4. EWAKUACJA: przygotuj plecak, dokumenty, transport i potrzeby zwierząt.\n5. DOM: znajdź zawory mediów, wyjścia, czujki, gaśnicę i bezpieczne pomieszczenie.\n6. ZAPASY: przygotuj wodę, żywność, higienę, światło, łączność i gotówkę na minimum 72 godziny.",
-    "tagi_wspolne": [
-      "OLiOC",
-      "ochrona ludności",
-      "edukacja obywatelska",
-      "Akademia OLiOC maj",
-      "gotowość cywilna",
-      "odporność społeczna"
-    ],
-    "aliasy": [
-      "co przygotować na sytuację kryzysową olioc",
-      "podstawowe przygotowanie rodziny do kryzysu",
-      "najważniejsze elementy gotowości obywatelskiej"
-    ],
-    "dokumenty_zrodlowe": [
-      {
-        "dokument_id": "src-olioc-akademia",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      },
-      {
-        "dokument_id": "src-poradnik-plan",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      },
-      {
-        "dokument_id": "src-poradnik-przygotuj-siebie",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      }
-    ]
-  },
-  {
-    "id": "KARTA-OLIOC-MAJ-01-PODSTAWY_SYSTEMU",
-    "kategoria": "olioc",
-    "miesiac_akademii": "maj",
-    "grupa_docelowa": "obywatel",
-    "status_zrodla": "oficjalne",
-    "data_aktualizacji": "2026-07-17",
-    "data_weryfikacji_zrodel": "2026-07-17",
-    "zrodlo": "Akademia OLiOC - program „jeden miesiąc - jeden temat”; Ustawa o ochronie ludności i obronie cywilnej - informacje MSWiA; Poradnik bezpieczeństwa - Wspólnie dbamy o nasze bezpieczeństwo",
+    "grupa": "olioc",
+    "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+    "data_aktualizacji": "2026-10-27",
     "slowo_kluczowe": "olioc czym jest ochrona ludności",
     "keywords": [
       "różnica ochrona ludności obrona cywilna",
       "podstawy systemu olioc",
       "ochrona ludności w czasie pokoju i wojny"
     ],
-    "prefix": "OLiOC - maj: czym są ochrona ludności i obrona cywilna.",
-    "content": "1. CEL: zrozumieć, kto i w jakim celu organizuje ochronę ludności.\n2. Ochrona ludności działa w czasie pokoju i służy ochronie życia, zdrowia, mienia, infrastruktury, środowiska i zwierząt.\n3. Po ogłoszeniu stanu wojennego i w czasie wojny system ochrony ludności przekształca się w obronę cywilną.\n4. Obrona cywilna ma chronić ludność cywilną przed skutkami działań zbrojnych; nie jest częścią Sił Zbrojnych.\n5. System opiera się na administracji, PSP i OSP, ratownictwie medycznym, policji, zarządzaniu kryzysowym, podmiotach leczniczych i organizacjach społecznych.\n6. DO ZAPAMIĘTANIA: przygotowany obywatel ogranicza skutki kryzysu i odciąża służby w pierwszej fazie zdarzenia.",
-    "tagi_wspolne": [
-      "OLiOC",
-      "ochrona ludności",
-      "edukacja obywatelska",
-      "Akademia OLiOC maj",
-      "podstawy OLiOC",
-      "system bezpieczeństwa"
-    ],
     "aliasy": [
       "różnica ochrona ludności obrona cywilna",
       "podstawy systemu olioc",
       "ochrona ludności w czasie pokoju i wojny"
     ],
-    "dokumenty_zrodlowe": [
+    "prefix": "Ochrona ludności i obrona cywilna — czym są i kto je tworzy.",
+    "najpierw": [
       {
-        "dokument_id": "src-olioc-akademia",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
+        "t": "W czasie pokoju działa system ochrony ludności: chroni ludzi, zdrowie, mienie, infrastrukturę, środowisko, zwierzęta i dobra kultury.",
+        "zr": "Poradnik 2025",
+        "str": 5
       },
       {
-        "dokument_id": "src-olioc-ustawa",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
+        "t": "Po ogłoszeniu stanu wojennego lub wybuchu wojny system automatycznie przekształca się w obronę cywilną.",
+        "zr": "Poradnik 2025",
+        "str": 5
       },
       {
-        "dokument_id": "src-poradnik-wspolnie",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
+        "t": "Obrona cywilna nie jest częścią Sił Zbrojnych — chroni wszystkich przed skutkami działań wojennych.",
+        "zr": "Poradnik 2025",
+        "str": 5
       }
-    ]
-  },
-  {
-    "id": "KARTA-OLIOC-MAJ-02-ROLA_OBYWATELA",
-    "kategoria": "olioc",
-    "miesiac_akademii": "maj",
-    "grupa_docelowa": "obywatel",
-    "status_zrodla": "oficjalne",
-    "data_aktualizacji": "2026-07-17",
-    "data_weryfikacji_zrodel": "2026-07-17",
-    "zrodlo": "Akademia OLiOC - program „jeden miesiąc - jeden temat”; Poradnik bezpieczeństwa - Wspólnie dbamy o nasze bezpieczeństwo; Poradnik bezpieczeństwa - Plan na kryzys",
-    "slowo_kluczowe": "olioc rola obywatela w kryzysie",
-    "keywords": [
-      "samopomoc i pomoc wzajemna olioc",
-      "co może zrobić obywatel przed kryzysem",
-      "odpowiedzialność obywatela w ochronie ludności"
     ],
-    "prefix": "OLiOC - maj: rola obywatela, samopomoc i pomoc wzajemna.",
-    "content": "1. PRZED ZAGROŻENIEM: poznaj lokalne alarmy, miejsca schronienia, drogi ewakuacji i numery alarmowe.\n2. Przygotuj rodzinny plan kryzysowy, plecak ewakuacyjny i zapasy na minimum 3 dni.\n3. Ustal, kto w rodzinie lub sąsiedztwie może potrzebować pomocy, a kto może jej udzielić.\n4. W CZASIE ZAGROŻENIA: dbaj najpierw o własne bezpieczeństwo, stosuj się do poleceń służb i pomagaj w granicach swoich możliwości.\n5. Nie blokuj dróg, nie rozpowszechniaj plotek i nie podejmuj działań, które narażają innych.\n6. DO ZAPAMIĘTANIA: samopomoc oznacza przygotowanie siebie, a pomoc wzajemna - bezpieczne wsparcie innych.",
+    "parametry": [],
+    "sekcje": [
+      {
+        "etykieta": "Do zapamiętania",
+        "punkty": [
+          {
+            "t": "Odpowiedzialność za przetrwanie i ograniczenie skutków kryzysu to wspólne zadanie, nie tylko władz.",
+            "zr": "Poradnik 2025",
+            "str": 5
+          },
+          {
+            "t": "Pomoc humanitarna jest zawsze bezpłatna — nikt nie może żądać za nią pieniędzy ani przysług.",
+            "zr": "Poradnik 2025",
+            "str": 6
+          }
+        ]
+      }
+    ],
     "tagi_wspolne": [
       "OLiOC",
       "ochrona ludności",
       "edukacja obywatelska",
-      "Akademia OLiOC maj",
-      "samopomoc",
-      "pomoc wzajemna"
-    ],
-    "aliasy": [
-      "samopomoc i pomoc wzajemna olioc",
-      "co może zrobić obywatel przed kryzysem",
-      "odpowiedzialność obywatela w ochronie ludności"
+      "podstawy OLiOC",
+      "system bezpieczeństwa"
     ],
     "dokumenty_zrodlowe": [
       {
-        "dokument_id": "src-olioc-akademia",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      },
-      {
-        "dokument_id": "src-poradnik-wspolnie",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      },
-      {
-        "dokument_id": "src-poradnik-plan",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 5,
+        "sekcja": "Wspólnie dbamy o nasze bezpieczeństwo (s. 5–6)"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: W czasie pokoju działa system ochrony ludności: chroni ludzi, zdrowie, mienie, infrastrukturę, środowisko, zwierzęta i dobra kultury. Po ogłoszeniu stanu wojennego lub wybuchu wojny system automatycznie przekształca się w obronę cywilną. Obrona cywilna nie jest częścią Sił Zbrojnych — chroni wszystkich przed skutkami działań wojennych.\n2. DO ZAPAMIĘTANIA: Odpowiedzialność za przetrwanie i ograniczenie skutków kryzysu to wspólne zadanie, nie tylko władz. Pomoc humanitarna jest zawsze bezpłatna — nikt nie może żądać za nią pieniędzy ani przysług."
   },
   {
-    "id": "KARTA-OLIOC-MAJ-04-SIEC_WSPARCIA",
+    "id": "KARTA-OLIOC-OFICJALNE-ZRODLA-INFORMACJI",
+    "wzorzec": 2,
     "kategoria": "olioc",
-    "miesiac_akademii": "maj",
-    "grupa_docelowa": "obywatel",
-    "status_zrodla": "oficjalne",
-    "data_aktualizacji": "2026-07-17",
-    "data_weryfikacji_zrodel": "2026-07-17",
-    "zrodlo": "Poradnik bezpieczeństwa - Wspólnie dbamy o nasze bezpieczeństwo; Poradnik bezpieczeństwa - Osoby potrzebujące szczególnej pomocy; Poradnik bezpieczeństwa - Plan na kryzys",
-    "slowo_kluczowe": "olioc lokalna sieć wsparcia",
+    "grupa": "olioc",
+    "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+    "data_aktualizacji": "2026-10-27",
+    "slowo_kluczowe": "olioc oficjalne źródła informacji",
     "keywords": [
-      "pomoc sąsiedzka w kryzysie",
-      "lista kontaktów sąsiedzkich",
-      "organizacja sąsiadów na kryzys"
+      "gdzie sprawdzać informacje o zagrożeniu",
+      "wiarygodne komunikaty podczas kryzysu",
+      "radio rso alert rcb informacje"
     ],
-    "prefix": "OLiOC - maj: lokalna sieć wsparcia i przygotowanie sąsiedzkie.",
-    "content": "1. Poznaj sąsiadów i ustal prosty sposób przekazywania ostrzeżeń.\n2. Zidentyfikuj osoby starsze, chore, samotne i z niepełnosprawnościami, które mogą wymagać wsparcia.\n3. Ustal osoby do kontaktu, ale nie publikuj list zawierających dane wrażliwe.\n4. Podziel role: przekazanie informacji, sprawdzenie potrzeb, pomoc w ewakuacji i kontakt ze służbami.\n5. Nie wchodź do strefy zagrożenia i nie podejmuj zadań wymagających specjalistycznych kwalifikacji.\n6. Ćwicz prosty scenariusz: brak łączności, konieczność ewakuacji i miejsce wspólnej zbiórki.",
+    "aliasy": [
+      "gdzie sprawdzać informacje o zagrożeniu",
+      "wiarygodne komunikaty podczas kryzysu",
+      "radio rso alert rcb informacje"
+    ],
+    "prefix": "Oficjalne źródła informacji w kryzysie i weryfikacja wiadomości.",
+    "najpierw": [
+      {
+        "t": "Korzystaj z wiarygodnych źródeł, przede wszystkim rządowych: Polskie Radio, Telewizja Polska, rządowe strony, służby państwowe.",
+        "zr": "Poradnik 2025",
+        "str": 39
+      },
+      {
+        "t": "Sprawdzaj informacje w kilku niezależnych źródłach.",
+        "zr": "Poradnik 2025",
+        "str": 39
+      },
+      {
+        "t": "Pobierz aplikację RSO; śledź Alerty RCB.",
+        "zr": "Poradnik 2025",
+        "str": 53
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Brak prądu i internetu",
+        "wartosc": "radio na baterie lub korbkę w zapasach domowych",
+        "zr": "Poradnik 2025",
+        "str": 22
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Dezinformacja",
+        "punkty": [
+          {
+            "t": "Nie rozpowszechniaj niesprawdzonych informacji; nie wierz w doniesienia o upadku państwa i kapitulacji.",
+            "zr": "Poradnik 2025",
+            "str": 39
+          }
+        ]
+      }
+    ],
+    "nie_rob": [
+      {
+        "t": "Nie publikuj informacji, zdjęć ani nagrań o lokalizacji i ruchu wojska ani ważnych obiektów (mosty, stacje, magazyny).",
+        "zr": "Poradnik 2025",
+        "str": 39
+      }
+    ],
     "tagi_wspolne": [
       "OLiOC",
       "ochrona ludności",
       "edukacja obywatelska",
-      "Akademia OLiOC maj",
-      "pomoc sąsiedzka",
-      "lokalna społeczność"
-    ],
-    "aliasy": [
-      "pomoc sąsiedzka w kryzysie",
-      "lista kontaktów sąsiedzkich",
-      "organizacja sąsiadów na kryzys"
+      "wiarygodne informacje",
+      "komunikacja kryzysowa"
     ],
     "dokumenty_zrodlowe": [
       {
-        "dokument_id": "src-poradnik-wspolnie",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      },
-      {
-        "dokument_id": "src-poradnik-szczegolna-pomoc",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      },
-      {
-        "dokument_id": "src-poradnik-plan",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 39,
+        "sekcja": "Zagrożenia cyfrowe — dezinformacja (s. 39), zapasy (s. 22), RSO (s. 53)"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: Korzystaj z wiarygodnych źródeł, przede wszystkim rządowych: Polskie Radio, Telewizja Polska, rządowe strony, służby państwowe. Sprawdzaj informacje w kilku niezależnych źródłach. Pobierz aplikację RSO; śledź Alerty RCB.\n2. PARAMETRY: Brak prądu i internetu — radio na baterie lub korbkę w zapasach domowych\n3. DEZINFORMACJA: Nie rozpowszechniaj niesprawdzonych informacji; nie wierz w doniesienia o upadku państwa i kapitulacji.\n4. NIE RÓB: Nie publikuj informacji, zdjęć ani nagrań o lokalizacji i ruchu wojska ani ważnych obiektów (mosty, stacje, magazyny)."
   },
   {
     "id": "KARTA-OLIOC-PAŹDZIERNIK-01-DEZINFORMACJA",
@@ -7803,6 +7851,289 @@
         "sekcja": "Oficjalne źródło internetowe"
       }
     ]
+  },
+  {
+    "id": "KARTA-OLIOC-POMOC-SASIEDZKA",
+    "wzorzec": 2,
+    "kategoria": "olioc",
+    "grupa": "olioc",
+    "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+    "data_aktualizacji": "2026-10-27",
+    "slowo_kluczowe": "olioc lokalna sieć wsparcia",
+    "keywords": [
+      "pomoc sąsiedzka w kryzysie",
+      "lista kontaktów sąsiedzkich",
+      "organizacja sąsiadów na kryzys"
+    ],
+    "aliasy": [
+      "pomoc sąsiedzka w kryzysie",
+      "lista kontaktów sąsiedzkich",
+      "organizacja sąsiadów na kryzys"
+    ],
+    "prefix": "Pomoc sąsiedzka i osoby potrzebujące szczególnej pomocy w kryzysie.",
+    "najpierw": [
+      {
+        "t": "Pomóż osobom starszym, chorym i z niepełnosprawnościami — przekaż im najważniejsze informacje i wyjaśnij, co trzeba zrobić.",
+        "zr": "Poradnik 2025",
+        "str": 12
+      },
+      {
+        "t": "W razie nagłego zagrożenia poinformuj służby o osobie wymagającej szczególnej pomocy przy ewakuacji.",
+        "zr": "Poradnik 2025",
+        "str": 12
+      }
+    ],
+    "parametry": [],
+    "sekcje": [
+      {
+        "etykieta": "Przygotowanie",
+        "punkty": [
+          {
+            "t": "Ustal z osobą wspieraną sposób działania w kryzysie; pomóż spakować plecak ewakuacyjny.",
+            "zr": "Poradnik 2025",
+            "str": 12
+          },
+          {
+            "t": "Sprawdź zapas leków i baterii do urządzeń wspomagających (aparat słuchowy, sensor cukru).",
+            "zr": "Poradnik 2025",
+            "str": 12
+          },
+          {
+            "t": "Zaangażuj się w inicjatywy sąsiedzkie i listy kontaktowe.",
+            "zr": "Poradnik 2025",
+            "str": 7
+          }
+        ]
+      },
+      {
+        "etykieta": "Dzieci",
+        "punkty": [
+          {
+            "t": "Rozmawiaj z dziećmi o zagrożeniach stosownie do wieku: szczerze, bez drastycznych szczegółów.",
+            "zr": "Poradnik 2025",
+            "str": 13
+          },
+          {
+            "t": "Wytłumacz dziecku jego zadania w kryzysie i przećwiczcie je razem.",
+            "zr": "Poradnik 2025",
+            "str": 13
+          }
+        ]
+      }
+    ],
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "pomoc sąsiedzka",
+      "lokalna społeczność"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 12,
+        "sekcja": "Osoby potrzebujące szczególnej pomocy (s. 12–13), Twoja rola (s. 7)"
+      }
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: Pomóż osobom starszym, chorym i z niepełnosprawnościami — przekaż im najważniejsze informacje i wyjaśnij, co trzeba zrobić. W razie nagłego zagrożenia poinformuj służby o osobie wymagającej szczególnej pomocy przy ewakuacji.\n2. PRZYGOTOWANIE: Ustal z osobą wspieraną sposób działania w kryzysie; pomóż spakować plecak ewakuacyjny. Sprawdź zapas leków i baterii do urządzeń wspomagających (aparat słuchowy, sensor cukru). Zaangażuj się w inicjatywy sąsiedzkie i listy kontaktowe.\n3. DZIECI: Rozmawiaj z dziećmi o zagrożeniach stosownie do wieku: szczerze, bez drastycznych szczegółów. Wytłumacz dziecku jego zadania w kryzysie i przećwiczcie je razem."
+  },
+  {
+    "id": "KARTA-OLIOC-PRZYGOTOWANIE-DOMU-I-RODZINY",
+    "wzorzec": 2,
+    "kategoria": "olioc",
+    "grupa": "olioc",
+    "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+    "data_aktualizacji": "2026-10-27",
+    "slowo_kluczowe": "olioc obszary przygotowania obywatela",
+    "keywords": [
+      "co przygotować na sytuację kryzysową olioc",
+      "podstawowe przygotowanie rodziny do kryzysu",
+      "najważniejsze elementy gotowości obywatelskiej"
+    ],
+    "aliasy": [
+      "co przygotować na sytuację kryzysową olioc",
+      "podstawowe przygotowanie rodziny do kryzysu",
+      "najważniejsze elementy gotowości obywatelskiej"
+    ],
+    "prefix": "Przygotowanie siebie, rodziny i domu na kryzys — przegląd obszarów.",
+    "najpierw": [
+      {
+        "t": "Przygotuj domowe zapasy na minimum 3 dni i regularnie je przeglądaj.",
+        "zr": "Poradnik 2025",
+        "str": 52
+      },
+      {
+        "t": "Opracuj i przećwicz rodzinny plan kryzysowy: kontakty, miejsca i terminy spotkań na wypadek rozdzielenia.",
+        "zr": "Poradnik 2025",
+        "str": 47
+      },
+      {
+        "t": "Skompletuj plecak ewakuacyjny; sprawdź najbliższe miejsce schronienia.",
+        "zr": "Poradnik 2025",
+        "str": 52
+      }
+    ],
+    "parametry": [],
+    "sekcje": [
+      {
+        "etykieta": "Zdrowie",
+        "punkty": [
+          {
+            "t": "Miej niezbędne leki i urządzenia wspomagające; poinformuj bliskich o chorobach i alergiach; dokumentacja medyczna w jednym miejscu.",
+            "zr": "Poradnik 2025",
+            "str": 11
+          },
+          {
+            "t": "Postaraj się o kartę grupy krwi i noś ją przy sobie.",
+            "zr": "Poradnik 2025",
+            "str": 11
+          }
+        ]
+      },
+      {
+        "etykieta": "Dom",
+        "punkty": [
+          {
+            "t": "Oznacz miejsca odcięcia gazu, prądu i wody; przećwicz ich wyłączanie.",
+            "zr": "Poradnik 2025",
+            "str": 18
+          },
+          {
+            "t": "Czujki dymu, czadu i gazu; gaśnica i koc gaśniczy; regularne przeglądy instalacji.",
+            "zr": "Poradnik 2025",
+            "str": 18
+          },
+          {
+            "t": "Najbezpieczniejsze miejsce w domu: z dala od okien, przy ścianach nośnych, w centralnych pomieszczeniach.",
+            "zr": "Poradnik 2025",
+            "str": 18
+          }
+        ]
+      },
+      {
+        "etykieta": "Rodzina",
+        "punkty": [
+          {
+            "t": "Dzieciom i seniorom przygotuj identyfikatory z imieniem, nazwiskiem i telefonem; zwierzęta zaczipuj.",
+            "zr": "Poradnik 2025",
+            "str": 52
+          }
+        ]
+      }
+    ],
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "gotowość cywilna",
+      "odporność społeczna"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 11,
+        "sekcja": "Przygotowanie (s. 11–22), Plan na kryzys (s. 46–47), Dekalog (s. 52)"
+      }
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: Przygotuj domowe zapasy na minimum 3 dni i regularnie je przeglądaj. Opracuj i przećwicz rodzinny plan kryzysowy: kontakty, miejsca i terminy spotkań na wypadek rozdzielenia. Skompletuj plecak ewakuacyjny; sprawdź najbliższe miejsce schronienia.\n2. ZDROWIE: Miej niezbędne leki i urządzenia wspomagające; poinformuj bliskich o chorobach i alergiach; dokumentacja medyczna w jednym miejscu. Postaraj się o kartę grupy krwi i noś ją przy sobie.\n3. DOM: Oznacz miejsca odcięcia gazu, prądu i wody; przećwicz ich wyłączanie. Czujki dymu, czadu i gazu; gaśnica i koc gaśniczy; regularne przeglądy instalacji. Najbezpieczniejsze miejsce w domu: z dala od okien, przy ścianach nośnych, w centralnych pomieszczeniach.\n4. RODZINA: Dzieciom i seniorom przygotuj identyfikatory z imieniem, nazwiskiem i telefonem; zwierzęta zaczipuj."
+  },
+  {
+    "id": "KARTA-OLIOC-ROLA-OBYWATELA",
+    "wzorzec": 2,
+    "kategoria": "olioc",
+    "grupa": "olioc",
+    "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+    "data_aktualizacji": "2026-10-27",
+    "slowo_kluczowe": "olioc rola obywatela w kryzysie",
+    "keywords": [
+      "samopomoc i pomoc wzajemna olioc",
+      "co może zrobić obywatel przed kryzysem",
+      "odpowiedzialność obywatela w ochronie ludności"
+    ],
+    "aliasy": [
+      "samopomoc i pomoc wzajemna olioc",
+      "co może zrobić obywatel przed kryzysem",
+      "odpowiedzialność obywatela w ochronie ludności"
+    ],
+    "prefix": "Rola obywatela w ochronie ludności — jak możesz się zaangażować.",
+    "najpierw": [
+      {
+        "t": "Nawiąż kontakt z sąsiadami — warto wiedzieć, kto może potrzebować wsparcia, a kto może je zaoferować.",
+        "zr": "Poradnik 2025",
+        "str": 7
+      },
+      {
+        "t": "Opracuj i przećwicz rodzinny plan kryzysowy; przygotuj zapasy na minimum 3 dni.",
+        "zr": "Poradnik 2025",
+        "str": 52
+      }
+    ],
+    "parametry": [],
+    "sekcje": [
+      {
+        "etykieta": "Formy zaangażowania",
+        "punkty": [
+          {
+            "t": "Inicjatywy sąsiedzkie, grupy informacyjne, listy kontaktowe.",
+            "zr": "Poradnik 2025",
+            "str": 7
+          },
+          {
+            "t": "Szkolenia, ćwiczenia, budżet obywatelski; działalność w OSP, organizacji humanitarnej, stowarzyszeniu; wolontariat.",
+            "zr": "Poradnik 2025",
+            "str": 7
+          }
+        ]
+      },
+      {
+        "etykieta": "W czasie konfliktu zbrojnego",
+        "punkty": [
+          {
+            "t": "Nadal pracujesz w swoim zawodzie, chyba że otrzymasz inne zadania.",
+            "zr": "Poradnik 2025",
+            "str": 7
+          },
+          {
+            "t": "Przydział mobilizacyjny do obrony cywilnej = zadania ochrony ludzi, mienia, infrastruktury, dóbr kultury; można zgłosić się na ochotnika (urząd wojewódzki).",
+            "zr": "Poradnik 2025",
+            "str": 7
+          }
+        ]
+      },
+      {
+        "etykieta": "Dekalog bezpieczeństwa (wybór)",
+        "punkty": [
+          {
+            "t": "Korzystaj z wiarygodnych, przede wszystkim rządowych źródeł informacji.",
+            "zr": "Poradnik 2025",
+            "str": 52
+          },
+          {
+            "t": "Słuchaj poleceń służb i współdziałaj z innymi.",
+            "zr": "Poradnik 2025",
+            "str": 52
+          }
+        ]
+      }
+    ],
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "samopomoc",
+      "pomoc wzajemna"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 7,
+        "sekcja": "Twoja rola (s. 7), Dekalog bezpieczeństwa (s. 52)"
+      }
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: Nawiąż kontakt z sąsiadami — warto wiedzieć, kto może potrzebować wsparcia, a kto może je zaoferować. Opracuj i przećwicz rodzinny plan kryzysowy; przygotuj zapasy na minimum 3 dni.\n2. FORMY ZAANGAŻOWANIA: Inicjatywy sąsiedzkie, grupy informacyjne, listy kontaktowe. Szkolenia, ćwiczenia, budżet obywatelski; działalność w OSP, organizacji humanitarnej, stowarzyszeniu; wolontariat.\n3. W CZASIE KONFLIKTU ZBROJNEGO: Nadal pracujesz w swoim zawodzie, chyba że otrzymasz inne zadania. Przydział mobilizacyjny do obrony cywilnej = zadania ochrony ludzi, mienia, infrastruktury, dóbr kultury; można zgłosić się na ochotnika (urząd wojewódzki).\n4. DEKALOG BEZPIECZEŃSTWA (WYBÓR): Korzystaj z wiarygodnych, przede wszystkim rządowych źródeł informacji. Słuchaj poleceń służb i współdziałaj z innymi."
   },
   {
     "id": "KARTA-OLIOC-SIERPIEŃ-03-EWAKUACJA_RODZINY",
@@ -8062,6 +8393,95 @@
         "sekcja": "Oficjalne źródło internetowe"
       }
     ]
+  },
+  {
+    "id": "KARTA-OLIOC-SYGNALY-ALARMOWE",
+    "wzorzec": 2,
+    "kategoria": "olioc",
+    "grupa": "olioc",
+    "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025; Akademia OLiOC: Instrukcja reagowania — zagrożenie atakiem z powietrza.",
+    "data_aktualizacji": "2026-10-27",
+    "slowo_kluczowe": "olioc sygnały alarmowe",
+    "keywords": [
+      "modulowany dźwięk syreny trzy minuty",
+      "jednostajny dźwięk syreny odwołanie alarmu",
+      "jak rozpoznać alarm syreną"
+    ],
+    "aliasy": [
+      "modulowany dźwięk syreny trzy minuty",
+      "jednostajny dźwięk syreny odwołanie alarmu",
+      "jak rozpoznać alarm syreną"
+    ],
+    "prefix": "Sygnały alarmowe — ogłoszenie i odwołanie alarmu.",
+    "najpierw": [
+      {
+        "t": "Ogłoszenie alarmu: ciągły, modulowany dźwięk syreny przez 3 minuty.",
+        "zr": "Poradnik 2025",
+        "str": 24
+      },
+      {
+        "t": "Odwołanie alarmu: ciągły, jednostajny dźwięk syreny przez 3 minuty.",
+        "zr": "Poradnik 2025",
+        "str": 24
+      },
+      {
+        "t": "Po usłyszeniu sygnału włącz radio lub telewizor i stosuj się do komunikatów.",
+        "zr": "Poradnik 2025",
+        "str": 24
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Rodzaje sygnałów",
+        "wartosc": "w Polsce obecnie tylko dwa",
+        "zr": "Poradnik 2025",
+        "str": 24
+      },
+      {
+        "nazwa": "Ćwiczenia",
+        "wartosc": "zapowiadane odpowiednio wcześniej",
+        "zr": "Poradnik 2025",
+        "str": 24
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Kanały ostrzegania",
+        "punkty": [
+          {
+            "t": "Syreny, megafony, radio, telewizja, internet, aplikacja RSO, Alerty RCB, bezpośredni kontakt.",
+            "zr": "Poradnik 2025",
+            "str": 24
+          },
+          {
+            "t": "Znaczenie sygnałów sprawdzisz m.in. w aplikacji mObywatel i na stronie gov.pl/web/rcb/sygnaly-alarmowe3.",
+            "zr": "Instr. reagowania",
+            "str": 2
+          }
+        ]
+      }
+    ],
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "alarmowanie",
+      "syreny alarmowe"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 24,
+        "sekcja": "Sygnały alarmowe i komunikaty ostrzegawcze (s. 24, 53)"
+      },
+      {
+        "dokument_id": "doc-olioc-instrukcja-reagowania",
+        "strona": 2,
+        "sekcja": "Przygotuj się (s. 2)"
+      }
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: Ogłoszenie alarmu: ciągły, modulowany dźwięk syreny przez 3 minuty. Odwołanie alarmu: ciągły, jednostajny dźwięk syreny przez 3 minuty. Po usłyszeniu sygnału włącz radio lub telewizor i stosuj się do komunikatów.\n2. PARAMETRY: Rodzaje sygnałów — w Polsce obecnie tylko dwa; Ćwiczenia — zapowiadane odpowiednio wcześniej\n3. KANAŁY OSTRZEGANIA: Syreny, megafony, radio, telewizja, internet, aplikacja RSO, Alerty RCB, bezpośredni kontakt. Znaczenie sygnałów sprawdzisz m.in. w aplikacji mObywatel i na stronie gov.pl/web/rcb/sygnaly-alarmowe3."
   },
   {
     "id": "KARTA-OLIOC-WRZESIEŃ-04-AED_OBYWATEL",

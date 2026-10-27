@@ -1,0 +1,85 @@
+{
+  "id": "KARTA-OLIOC-POMOC-SASIEDZKA",
+  "wzorzec": 2,
+  "kategoria": "olioc",
+  "grupa": "olioc",
+  "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+  "data_aktualizacji": "2026-10-27",
+  "slowo_kluczowe": "olioc lokalna sieć wsparcia",
+  "keywords": [
+    "pomoc sąsiedzka w kryzysie",
+    "lista kontaktów sąsiedzkich",
+    "organizacja sąsiadów na kryzys"
+  ],
+  "aliasy": [
+    "pomoc sąsiedzka w kryzysie",
+    "lista kontaktów sąsiedzkich",
+    "organizacja sąsiadów na kryzys"
+  ],
+  "prefix": "Pomoc sąsiedzka i osoby potrzebujące szczególnej pomocy w kryzysie.",
+  "najpierw": [
+    {
+      "t": "Pomóż osobom starszym, chorym i z niepełnosprawnościami — przekaż im najważniejsze informacje i wyjaśnij, co trzeba zrobić.",
+      "zr": "Poradnik 2025",
+      "str": 12
+    },
+    {
+      "t": "W razie nagłego zagrożenia poinformuj służby o osobie wymagającej szczególnej pomocy przy ewakuacji.",
+      "zr": "Poradnik 2025",
+      "str": 12
+    }
+  ],
+  "parametry": [],
+  "sekcje": [
+    {
+      "etykieta": "Przygotowanie",
+      "punkty": [
+        {
+          "t": "Ustal z osobą wspieraną sposób działania w kryzysie; pomóż spakować plecak ewakuacyjny.",
+          "zr": "Poradnik 2025",
+          "str": 12
+        },
+        {
+          "t": "Sprawdź zapas leków i baterii do urządzeń wspomagających (aparat słuchowy, sensor cukru).",
+          "zr": "Poradnik 2025",
+          "str": 12
+        },
+        {
+          "t": "Zaangażuj się w inicjatywy sąsiedzkie i listy kontaktowe.",
+          "zr": "Poradnik 2025",
+          "str": 7
+        }
+      ]
+    },
+    {
+      "etykieta": "Dzieci",
+      "punkty": [
+        {
+          "t": "Rozmawiaj z dziećmi o zagrożeniach stosownie do wieku: szczerze, bez drastycznych szczegółów.",
+          "zr": "Poradnik 2025",
+          "str": 13
+        },
+        {
+          "t": "Wytłumacz dziecku jego zadania w kryzysie i przećwiczcie je razem.",
+          "zr": "Poradnik 2025",
+          "str": 13
+        }
+      ]
+    }
+  ],
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "pomoc sąsiedzka",
+    "lokalna społeczność"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+      "strona": 12,
+      "sekcja": "Osoby potrzebujące szczególnej pomocy (s. 12–13), Twoja rola (s. 7)"
+    }
+  ],
+  "data_przegladu": "2026-10-27"
+}
