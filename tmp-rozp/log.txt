@@ -1,5 +1,6 @@
-ksrg-2026.pdf 1160 HTML document, ASCII text, with very lon
-ksrg-2021.pdf 1158 HTML document, ASCII text, with very lon
-wlaczanie-2026.pdf 1161 HTML document, ASCII text, with very lon
-bsp-gov.pdf 44364 PDF document, version 1.7, 2 page(s)
-bsp-strona.html 28696 HTML document, Unicode text, UTF-8 text,
+ksrg-2026.pdf 2833339 PDF document, version 1.4, 68 page(s)
+ksrg-2021.pdf 3828973 PDF document, version 1.6 (zip deflate e
+wlaczanie-2026.pdf 182625 PDF document, version 1.7, 3 page(s)
+ksrg-2026-dz.pdf 2833339 PDF document, version 1.4, 68 page(s)
+ksrg-2026-info.json 1041 JSON text data
+ksrg-2021-info.json 1226 JSON text data
