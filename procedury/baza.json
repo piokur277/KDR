@@ -1076,7 +1076,10 @@
   },
   {
     "id": "DEZ-EV-01",
-    "prefix": "Dezaktywacja awaryjna pojazdu elektrycznego lub hybrydowego",
+    "wzorzec": 2,
+    "zrodlo": "KG PSP: Standardowe zasady postępowania podczas zdarzeń z samochodami z napędem elektrycznym oraz hybrydowym, wydanie drugie, maj 2023",
+    "data_aktualizacji": "2026-10-27",
+    "slowo_kluczowe": "dezaktywacja samochodu elektrycznego",
     "keywords": [
       "dezaktywacja ev",
       "odlaczenie wysokiego napiecia",
@@ -1087,14 +1090,6 @@
       "wylaczenie samochodu elektrycznego",
       "dezaktywacja tesli",
       "wylaczenie wysokiego napiecia ev"
-    ],
-    "content": "1. Podejdź do pojazdu tylko po rozpoznaniu stabilności i braku bezpośredniego zagrożenia pożarowego.\n2. Ustaw przekładnię na PARK, zaciągnij hamulec postojowy i wyłącz zapłon.\n3. Odsuń klucz lub telefon-klucz co najmniej 5 metrów od pojazdu.\n4. Odłącz akumulator 12V lub aktywuj fabryczny punkt odłączenia zgodnie z kartą ratowniczą danego modelu.\n5. W przypadku obecności pętli ratowniczej lub wtyku serwisowego użyj tylko wskazanego przez producenta sposobu dezaktywacji.\n6. Odczekaj czas wymagany przez producenta na rozładowanie kondensatorów układu HV.\n7. Po dezaktywacji nadal traktuj przewody pomarańczowe i baterię jako element niebezpieczny i nienaruszalny.",
-    "slowo_kluczowe": "dezaktywacja samochodu elektrycznego",
-    "tagi_wspolne": [
-      "pojazd elektryczny",
-      "samochod elektryczny",
-      "ev",
-      "dezaktywacja"
     ],
     "aliasy": [
       "dezaktywacja ev",
@@ -1107,13 +1102,148 @@
       "dezaktywacja tesli",
       "wylaczenie wysokiego napiecia ev"
     ],
+    "prefix": "Dezaktywacja i zabezpieczenie samochodu elektrycznego lub hybrydowego — kolejność wg SZP KG PSP (2023).",
+    "najpierw": [
+      {
+        "t": "Do pełnej identyfikacji zakładaj, że pojazd ma napęd elektryczny.",
+        "zr": "SZP EV",
+        "str": 4
+      },
+      {
+        "t": "Przed zablokowaniem ruchu nie stój przed ani za pojazdem — pracującego silnika elektrycznego nie słychać.",
+        "zr": "SZP EV",
+        "str": 5
+      },
+      {
+        "t": "Pozyskaj kartę ratowniczą modelu (RescueCode, Euro Rescue, Crash Recovery System, kod QR, karta w pojeździe).",
+        "zr": "SZP EV",
+        "str": 3
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Napięcie ogniw (DC)",
+        "wartosc": "200–950 V",
+        "zr": "SZP EV",
+        "str": 2
+      },
+      {
+        "nazwa": "Napięcie silnika (AC)",
+        "wartosc": "400–650 V",
+        "zr": "SZP EV",
+        "str": 2
+      },
+      {
+        "nazwa": "Prąd po wyłączeniu WN",
+        "wartosc": "utrzymuje się kilka–kilkanaście minut",
+        "zr": "SZP EV",
+        "str": 7
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Działania obowiązkowe — kolejno",
+        "punkty": [
+          {
+            "t": "Zablokuj ruch pojazdu do przodu i do tyłu (kliny); dodatkowo włóż do gniazda niepodłączoną wtyczkę kabla ładowania.",
+            "zr": "SZP EV",
+            "str": 5
+          },
+          {
+            "t": "Gdy świeci „READY” / „POWER ON” — wyłącz silnik przyciskiem lub kluczykiem.",
+            "zr": "SZP EV",
+            "str": 5
+          },
+          {
+            "t": "Ustaw „N” lub „P”, zaciągnij hamulec postojowy.",
+            "zr": "SZP EV",
+            "str": 6
+          },
+          {
+            "t": "Na końcu odłącz akumulator 12 V: najpierw biegun ujemny; zabezpiecz przewody przed zwarciem.",
+            "zr": "SZP EV",
+            "str": 6
+          }
+        ]
+      },
+      {
+        "etykieta": "Uwaga przy 12 V",
+        "punkty": [
+          {
+            "t": "Za wczesne odłączenie 12 V może uniemożliwić otwarcie drzwi i bagażnika, przesunięcie fotela, kierownicy oraz obsługę hamulca postojowego.",
+            "zr": "SZP EV",
+            "str": 6
+          },
+          {
+            "t": "W niektórych pojazdach odłączenie 12 V nie wyłącza układu WN — pojazd może nadal ruszyć.",
+            "zr": "SZP EV",
+            "str": 6
+          }
+        ]
+      },
+      {
+        "etykieta": "Działania alternatywne (wg karty ratowniczej)",
+        "punkty": [
+          {
+            "t": "Wyjmij wyłącznik awaryjny WN („zwora”, rozłącznik serwisowy) albo przetnij wskazaną pętlę w dwóch miejscach (wytnij odcinek).",
+            "zr": "SZP EV",
+            "str": 7
+          },
+          {
+            "t": "Przy tej czynności: hełm z opuszczoną przyłbicą i rękawice dielektryczne — ryzyko łuku elektrycznego.",
+            "zr": "SZP EV",
+            "str": 7
+          },
+          {
+            "t": "Jeśli karta ratownicza tak wskazuje — wyjmij bezpiecznik układu WN (może być w kilku miejscach).",
+            "zr": "SZP EV",
+            "str": 8
+          }
+        ]
+      },
+      {
+        "etykieta": "Kluczyk lub karta",
+        "punkty": [
+          {
+            "t": "Odsuń kluczyk na wskazaną odległość (zwykle 5 m) tylko, gdy karta ratownicza na to pozwala; przy wątpliwościach zaniechaj.",
+            "zr": "SZP EV",
+            "str": 5
+          },
+          {
+            "t": "Bez rozpoznania kluczyka system bezkluczykowy może zamknąć drzwi, szyby lub dach.",
+            "zr": "SZP EV",
+            "str": 5
+          }
+        ]
+      }
+    ],
+    "nie_rob": [
+      {
+        "t": "Nie utożsamiaj pomarańczowych przewodów WN z pętlą do przecięcia (zwykle czerwona).",
+        "zr": "SZP EV",
+        "str": 7
+      },
+      {
+        "t": "Nie demontuj, nie przecinaj, nie zgniataj elementów WN i akumulatora, nie otwieraj obudowy.",
+        "zr": "SZP EV",
+        "str": 4
+      }
+    ],
+    "tagi_wspolne": [
+      "pojazd elektryczny",
+      "samochod elektryczny",
+      "ev",
+      "dezaktywacja"
+    ],
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-ev-szp-2023",
         "strona": 5,
-        "sekcja": "Dezaktywacja i zabezpieczenie samochodu"
+        "sekcja": "Dezaktywacja i zabezpieczenie samochodu (s. 5–8)"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: Do pełnej identyfikacji zakładaj, że pojazd ma napęd elektryczny. Przed zablokowaniem ruchu nie stój przed ani za pojazdem — pracującego silnika elektrycznego nie słychać. Pozyskaj kartę ratowniczą modelu (RescueCode, Euro Rescue, Crash Recovery System, kod QR, karta w pojeździe).\n2. PARAMETRY: Napięcie ogniw (DC) — 200–950 V; Napięcie silnika (AC) — 400–650 V; Prąd po wyłączeniu WN — utrzymuje się kilka–kilkanaście minut\n3. DZIAŁANIA OBOWIĄZKOWE — KOLEJNO: Zablokuj ruch pojazdu do przodu i do tyłu (kliny); dodatkowo włóż do gniazda niepodłączoną wtyczkę kabla ładowania. Gdy świeci „READY” / „POWER ON” — wyłącz silnik przyciskiem lub kluczykiem. Ustaw „N” lub „P”, zaciągnij hamulec postojowy. Na końcu odłącz akumulator 12 V: najpierw biegun ujemny; zabezpiecz przewody przed zwarciem.\n4. UWAGA PRZY 12 V: Za wczesne odłączenie 12 V może uniemożliwić otwarcie drzwi i bagażnika, przesunięcie fotela, kierownicy oraz obsługę hamulca postojowego. W niektórych pojazdach odłączenie 12 V nie wyłącza układu WN — pojazd może nadal ruszyć.\n5. DZIAŁANIA ALTERNATYWNE (WG KARTY RATOWNICZEJ): Wyjmij wyłącznik awaryjny WN („zwora”, rozłącznik serwisowy) albo przetnij wskazaną pętlę w dwóch miejscach (wytnij odcinek). Przy tej czynności: hełm z opuszczoną przyłbicą i rękawice dielektryczne — ryzyko łuku elektrycznego. Jeśli karta ratownicza tak wskazuje — wyjmij bezpiecznik układu WN (może być w kilku miejscach).\n6. KLUCZYK LUB KARTA: Odsuń kluczyk na wskazaną odległość (zwykle 5 m) tylko, gdy karta ratownicza na to pozwala; przy wątpliwościach zaniechaj. Bez rozpoznania kluczyka system bezkluczykowy może zamknąć drzwi, szyby lub dach.\n7. NIE RÓB: Nie utożsamiaj pomarańczowych przewodów WN z pętlą do przecięcia (zwykle czerwona). Nie demontuj, nie przecinaj, nie zgniataj elementów WN i akumulatora, nie otwieraj obudowy."
   },
   {
     "id": "KARTA-PV-INFORMACJE-DODATKOWE",
@@ -5116,7 +5246,10 @@
   },
   {
     "id": "POZ-EV-01",
-    "prefix": "Pożar lub termiczne uszkodzenie baterii trakcyjnej EV",
+    "wzorzec": 2,
+    "zrodlo": "KG PSP: Standardowe zasady postępowania podczas zdarzeń z samochodami z napędem elektrycznym oraz hybrydowym, wydanie drugie, maj 2023",
+    "data_aktualizacji": "2026-10-27",
+    "slowo_kluczowe": "pozar samochodu elektrycznego",
     "keywords": [
       "pozar ev",
       "pozar baterii",
@@ -5130,14 +5263,6 @@
       "pozar tesli",
       "pozar baterii trakcyjnej",
       "thermal runaway ev"
-    ],
-    "content": "1. Natychmiast wyznacz szeroką strefę bezpieczeństwa i usuń osoby postronne.\n2. Potwierdź, czy pożar dotyczy kabiny, komory silnika czy baterii trakcyjnej.\n3. Przy oznakach runaway: gęsty biały dym, trzaski, intensywny wzrost temperatury, gazowanie akumulatora.\n4. Chłodź dużą ilością wody, kierując prądy na obszar baterii i podwozie; celem jest obniżanie temperatury, nie krótkie tłumienie płomienia.\n5. Nie stosuj działań polegających na rozcinaniu lub przebijaniu obudowy baterii bez specjalistycznej procedury i sprzętu.\n6. Monitoruj temperaturę kamerą termowizyjną oraz możliwość ponownego zapłonu przez długi czas po ugaszeniu.\n7. Jeżeli pożaru nie można ustabilizować, przygotuj miejsce do długotrwałego chłodzenia i izolacji pojazdu.\n8. Po ugaszeniu przekaż informację o konieczności nadzoru transportowego i obserwacji pożarowej.",
-    "slowo_kluczowe": "pozar samochodu elektrycznego",
-    "tagi_wspolne": [
-      "pojazd elektryczny",
-      "samochod elektryczny",
-      "ev",
-      "pozar"
     ],
     "aliasy": [
       "pozar ev",
@@ -5153,13 +5278,159 @@
       "pozar baterii trakcyjnej",
       "thermal runaway ev"
     ],
+    "prefix": "Pożar samochodu elektrycznego lub hybrydowego — karta Z2 SZP KG PSP (2023).",
+    "najpierw": [
+      {
+        "t": "Ustaw sprzęt i działaj od strony nawietrznej; wyznacz strefę zagrożenia.",
+        "zr": "SZP EV",
+        "str": 11
+      },
+      {
+        "t": "SOI: aparat oddechowy, kompletne ubranie specjalne, kominiarka, rękawice, hełm, buty.",
+        "zr": "SZP EV",
+        "str": 11
+      },
+      {
+        "t": "Ewakuuj osoby ze strefy przy bezpośrednim zagrożeniu życia lub zdrowia.",
+        "zr": "SZP EV",
+        "str": 11
+      },
+      {
+        "t": "Gaś wodą (małe pożary: woda lub gaśnice ABC / AB); widoczny pożar akumulatora — woda bezpośrednio na akumulator.",
+        "zr": "SZP EV",
+        "str": 11
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Prąd rozproszony (PWT Ø52 Turbo)",
+        "wartosc": "kąt ≥ 30°, odległość ≥ 1 m od elementów pod napięciem",
+        "zr": "SZP EV",
+        "str": 11
+      },
+      {
+        "nazwa": "Prąd zwarty (PWT Ø52 Turbo)",
+        "wartosc": "≤ 250 l/min: ≥ 5 m · > 250 l/min: ≥ 10 m",
+        "zr": "SZP EV",
+        "str": 11
+      },
+      {
+        "nazwa": "Chłodzenie akumulatora",
+        "wartosc": "> 50°C lub rośnie: woda 10 min → przerwa 3 min → pomiar; kontrola 30 min",
+        "zr": "SZP EV",
+        "str": 12
+      },
+      {
+        "nazwa": "Czas chłodzenia",
+        "wartosc": "kilka–kilkanaście godzin (średnio ok. 7 h); nawrót nawet po 20 h",
+        "zr": "SZP EV",
+        "str": 12
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Oznaki zapalenia akumulatora (thermal runaway)",
+        "punkty": [
+          {
+            "t": "Syczenie, gwizd, wybuch fizyczny; ciemny aerozol pod ciśnieniem; jasny palny gaz rozkładowy; płomienie 3–5 m.",
+            "zr": "SZP EV",
+            "str": 11
+          },
+          {
+            "t": "Uwolnienia spodziewane od spodu pojazdu (płyta podłogowa) i we wnętrzu (kokpit, bagażnik).",
+            "zr": "SZP EV",
+            "str": 11
+          }
+        ]
+      },
+      {
+        "etykieta": "Działania",
+        "punkty": [
+          {
+            "t": "W pomieszczeniach zamkniętych użyj wentylatora osiowego i podchodź od jego strony.",
+            "zr": "SZP EV",
+            "str": 11
+          },
+          {
+            "t": "Po ugaszeniu wnętrza sprawdź, czy akumulator nie przechodzi w niestabilność termiczną — pomiary na obudowie przez 30 min.",
+            "zr": "SZP EV",
+            "str": 12
+          },
+          {
+            "t": "Przy pożarze akumulatora zapewnij znacznie więcej wody niż przy aucie spalinowym; otwory w obudowie wykorzystaj do podania wody z bezpiecznej odległości.",
+            "zr": "SZP EV",
+            "str": 12
+          },
+          {
+            "t": "Kontroluj atmosferę czujnikiem wielogazowym (wodór, tlenek węgla).",
+            "zr": "SZP EV",
+            "str": 12
+          },
+          {
+            "t": "Po ugaszeniu: dezaktywacja (jeśli możliwa) i kontrola obudowy akumulatora.",
+            "zr": "SZP EV",
+            "str": 12
+          }
+        ]
+      },
+      {
+        "etykieta": "Kontener",
+        "punkty": [
+          {
+            "t": "Zatapianie w kontenerze tylko, gdy inne techniki zawiodą; woda najwyżej do górnej krawędzi akumulatora; rozważ suchą kwarantannę.",
+            "zr": "SZP EV",
+            "str": 12
+          },
+          {
+            "t": "Po zalaniu wodą zadysponuj SGRChem (poziom B) do pobrania próbek.",
+            "zr": "SZP EV",
+            "str": 12
+          }
+        ]
+      },
+      {
+        "etykieta": "Przekazanie",
+        "punkty": [
+          {
+            "t": "Po pożarze akumulatora: duże ryzyko nawrotu — dozór, ≥ 5 m od pojazdów i budynków, wentylacja, ochrona przed elektrolitem, utylizacja akumulatora.",
+            "zr": "SZP EV",
+            "str": 14
+          }
+        ]
+      }
+    ],
+    "nie_rob": [
+      {
+        "t": "Nie stosuj piany ciężkiej, średniej ani lekkiej — chyba że wymaga tego np. rozlewisko paliwa.",
+        "zr": "SZP EV",
+        "str": 11
+      },
+      {
+        "t": "Nie ingeruj w strukturę akumulatora — grozi porażeniem.",
+        "zr": "SZP EV",
+        "str": 12
+      },
+      {
+        "t": "Nie zatapiaj pojazdu prewencyjnie.",
+        "zr": "SZP EV",
+        "str": 12
+      }
+    ],
+    "tagi_wspolne": [
+      "pojazd elektryczny",
+      "samochod elektryczny",
+      "ev",
+      "pozar"
+    ],
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-ev-szp-2023",
         "strona": 11,
-        "sekcja": "Karta Z2 - pożar"
+        "sekcja": "Karta Z2 — pożar (s. 11–12), przekazanie (s. 14)"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: Ustaw sprzęt i działaj od strony nawietrznej; wyznacz strefę zagrożenia. SOI: aparat oddechowy, kompletne ubranie specjalne, kominiarka, rękawice, hełm, buty. Ewakuuj osoby ze strefy przy bezpośrednim zagrożeniu życia lub zdrowia. Gaś wodą (małe pożary: woda lub gaśnice ABC / AB); widoczny pożar akumulatora — woda bezpośrednio na akumulator.\n2. PARAMETRY: Prąd rozproszony (PWT Ø52 Turbo) — kąt ≥ 30°, odległość ≥ 1 m od elementów pod napięciem; Prąd zwarty (PWT Ø52 Turbo) — ≤ 250 l/min: ≥ 5 m · > 250 l/min: ≥ 10 m; Chłodzenie akumulatora — > 50°C lub rośnie: woda 10 min → przerwa 3 min → pomiar; kontrola 30 min; Czas chłodzenia — kilka–kilkanaście godzin (średnio ok. 7 h); nawrót nawet po 20 h\n3. OZNAKI ZAPALENIA AKUMULATORA (THERMAL RUNAWAY): Syczenie, gwizd, wybuch fizyczny; ciemny aerozol pod ciśnieniem; jasny palny gaz rozkładowy; płomienie 3–5 m. Uwolnienia spodziewane od spodu pojazdu (płyta podłogowa) i we wnętrzu (kokpit, bagażnik).\n4. DZIAŁANIA: W pomieszczeniach zamkniętych użyj wentylatora osiowego i podchodź od jego strony. Po ugaszeniu wnętrza sprawdź, czy akumulator nie przechodzi w niestabilność termiczną — pomiary na obudowie przez 30 min. Przy pożarze akumulatora zapewnij znacznie więcej wody niż przy aucie spalinowym; otwory w obudowie wykorzystaj do podania wody z bezpiecznej odległości. Kontroluj atmosferę czujnikiem wielogazowym (wodór, tlenek węgla). Po ugaszeniu: dezaktywacja (jeśli możliwa) i kontrola obudowy akumulatora.\n5. KONTENER: Zatapianie w kontenerze tylko, gdy inne techniki zawiodą; woda najwyżej do górnej krawędzi akumulatora; rozważ suchą kwarantannę. Po zalaniu wodą zadysponuj SGRChem (poziom B) do pobrania próbek.\n6. PRZEKAZANIE: Po pożarze akumulatora: duże ryzyko nawrotu — dozór, ≥ 5 m od pojazdów i budynków, wentylacja, ochrona przed elektrolitem, utylizacja akumulatora.\n7. NIE RÓB: Nie stosuj piany ciężkiej, średniej ani lekkiej — chyba że wymaga tego np. rozlewisko paliwa. Nie ingeruj w strukturę akumulatora — grozi porażeniem. Nie zatapiaj pojazdu prewencyjnie."
   },
   {
     "id": "KARTA-PTASIA-GRYPA-INFORMACJE-I-ZASADY",
@@ -5954,7 +6225,10 @@
   },
   {
     "id": "WYP-EV-01",
-    "prefix": "Wypadek pojazdu elektrycznego po kolizji drogowej",
+    "wzorzec": 2,
+    "zrodlo": "KG PSP: Standardowe zasady postępowania podczas zdarzeń z samochodami z napędem elektrycznym oraz hybrydowym, wydanie drugie, maj 2023",
+    "data_aktualizacji": "2026-10-27",
+    "slowo_kluczowe": "wypadek samochodu elektrycznego",
     "keywords": [
       "wypadek ev",
       "kolizja ev",
@@ -5966,14 +6240,6 @@
       "kolizja samochodu elektrycznego",
       "wypadek tesli",
       "uszkodzona bateria trakcyjna po kolizji"
-    ],
-    "content": "1. Zabezpiecz miejsce zdarzenia, wyznacz strefę działań i zatrzymaj ruch.\n2. Rozpoznaj pojazd: marka, model, oznaczenia EV, miejsce akumulatora trakcyjnego.\n3. Sprawdź zagrożenia dodatkowe: dym, syk, wyciek, uszkodzone przewody pomarańczowe, deformacja podwozia.\n4. Unieś maskę lub uzyskaj dostęp zgodnie z kartą ratowniczą tylko wtedy, gdy jest to bezpieczne.\n5. Unieruchom pojazd, wybierz pozycję PARK, zaciągnij hamulec, wyłącz zapłon i odsuń klucz minimum 5 metrów.\n6. Jeśli producent przewiduje pętlę ratowniczą lub punkt odłączenia 12V, wykonaj dezaktywację zgodnie z procedurą modelu.\n7. Nie przecinaj przewodów wysokiego napięcia i nie naruszaj obudowy baterii.\n8. Ewakuuj poszkodowanych standardowo, stale obserwując temperaturę i oznaki uszkodzenia baterii.\n9. Po zakończeniu działań przekaż pojazd do strefy obserwacji z informacją o ryzyku wtórnego zapłonu.",
-    "slowo_kluczowe": "wypadek samochodu elektrycznego",
-    "tagi_wspolne": [
-      "pojazd elektryczny",
-      "samochod elektryczny",
-      "ev",
-      "wypadek"
     ],
     "aliasy": [
       "wypadek ev",
@@ -5987,13 +6253,137 @@
       "wypadek tesli",
       "uszkodzona bateria trakcyjna po kolizji"
     ],
+    "prefix": "Wypadek komunikacyjny samochodu elektrycznego lub hybrydowego — karta Z1 SZP KG PSP (2023).",
+    "najpierw": [
+      {
+        "t": "Ustaw pojazdy ratownicze tak, by zabezpieczyć miejsce działań; wyznacz strefę zagrożenia.",
+        "zr": "SZP EV",
+        "str": 9
+      },
+      {
+        "t": "Poszkodowanych w bezpośrednim zagrożeniu życia ewakuuj natychmiast.",
+        "zr": "SZP EV",
+        "str": 9
+      },
+      {
+        "t": "Brak pewności co do napędu = zakładaj instalację wysokiego napięcia.",
+        "zr": "SZP EV",
+        "str": 9
+      },
+      {
+        "t": "Załóż, że automatyczna dezaktywacja (poduszki, napinacze) nie zadziałała — wykonaj ją ręcznie (karta „Dezaktywacja”).",
+        "zr": "SZP EV",
+        "str": 9
+      },
+      {
+        "t": "Przygotuj linię gaśniczą lub gaśnicę oraz kamerę termowizyjną lub pirometr.",
+        "zr": "SZP EV",
+        "str": 9
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Chłodzenie akumulatora",
+        "wartosc": "> 50°C lub rośnie: woda 10 min → przerwa 3 min → pomiar",
+        "zr": "SZP EV",
+        "str": 10
+      },
+      {
+        "nazwa": "Kontrola po chłodzeniu",
+        "wartosc": "30 min; ponów przy wzroście temperatury",
+        "zr": "SZP EV",
+        "str": 10
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Rozpoznanie",
+        "punkty": [
+          {
+            "t": "Duże zniszczenia mogą oznaczać uszkodzenie akumulatora lub układu WN — ryzyko porażenia przez karoserię.",
+            "zr": "SZP EV",
+            "str": 9
+          },
+          {
+            "t": "Kontroluj temperaturę akumulatora w wielu miejscach; możliwy wyciek płynu chłodzącego i elektrolitu (drażniący, palny, żrący).",
+            "zr": "SZP EV",
+            "str": 9
+          },
+          {
+            "t": "Odłącz pojazd od stacji ładowania (wyłącznik bezpieczeństwa lub dyspozytor stacji).",
+            "zr": "SZP EV",
+            "str": 3
+          }
+        ]
+      },
+      {
+        "etykieta": "Działania ratownicze",
+        "punkty": [
+          {
+            "t": "Techniki, kierunki ewakuacji i dostęp — jak dla standardowego samochodu osobowego.",
+            "zr": "SZP EV",
+            "str": 9
+          },
+          {
+            "t": "Przy dostępie unikaj cięcia i rozpierania w pobliżu przewodów, komponentów i akumulatora — położenie z karty ratowniczej.",
+            "zr": "SZP EV",
+            "str": 9
+          },
+          {
+            "t": "Stosuj SOI chroniące przed porażeniem; sprzęt z certyfikatem elektroizolacyjności (np. rękawice).",
+            "zr": "SZP EV",
+            "str": 9
+          },
+          {
+            "t": "Wycieki z akumulatora usuwaj standardowym sorbentem.",
+            "zr": "SZP EV",
+            "str": 10
+          },
+          {
+            "t": "Przy podnoszeniu wybierz punkty podparcia omijające akumulator i elementy WN.",
+            "zr": "SZP EV",
+            "str": 10
+          }
+        ]
+      },
+      {
+        "etykieta": "Przekazanie",
+        "punkty": [
+          {
+            "t": "Przekaż na „Potwierdzeniu przekazania terenu…” i poinformuj o: dozorze, odstawieniu ≥ 5 m od pojazdów, materiałów palnych i budynków, bezpiecznym holowaniu modelu.",
+            "zr": "SZP EV",
+            "str": 14
+          },
+          {
+            "t": "Przy uszkodzonym akumulatorze dodatkowo: wentylacja wnętrza, ochrona przed wyciekiem elektrolitu, SOI, utylizacja przez wyspecjalizowaną firmę.",
+            "zr": "SZP EV",
+            "str": 14
+          }
+        ]
+      }
+    ],
+    "nie_rob": [
+      {
+        "t": "Nie dotykaj, nie demontuj i nie ingeruj w uszkodzone elementy układu WN.",
+        "zr": "SZP EV",
+        "str": 9
+      }
+    ],
+    "tagi_wspolne": [
+      "pojazd elektryczny",
+      "samochod elektryczny",
+      "ev",
+      "wypadek"
+    ],
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-ev-szp-2023",
         "strona": 9,
-        "sekcja": "Karta Z1 - wypadek komunikacyjny"
+        "sekcja": "Karta Z1 — wypadek komunikacyjny (s. 9–10), przekazanie (s. 14)"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: Ustaw pojazdy ratownicze tak, by zabezpieczyć miejsce działań; wyznacz strefę zagrożenia. Poszkodowanych w bezpośrednim zagrożeniu życia ewakuuj natychmiast. Brak pewności co do napędu = zakładaj instalację wysokiego napięcia. Załóż, że automatyczna dezaktywacja (poduszki, napinacze) nie zadziałała — wykonaj ją ręcznie (karta „Dezaktywacja”). Przygotuj linię gaśniczą lub gaśnicę oraz kamerę termowizyjną lub pirometr.\n2. PARAMETRY: Chłodzenie akumulatora — > 50°C lub rośnie: woda 10 min → przerwa 3 min → pomiar; Kontrola po chłodzeniu — 30 min; ponów przy wzroście temperatury\n3. ROZPOZNANIE: Duże zniszczenia mogą oznaczać uszkodzenie akumulatora lub układu WN — ryzyko porażenia przez karoserię. Kontroluj temperaturę akumulatora w wielu miejscach; możliwy wyciek płynu chłodzącego i elektrolitu (drażniący, palny, żrący). Odłącz pojazd od stacji ładowania (wyłącznik bezpieczeństwa lub dyspozytor stacji).\n4. DZIAŁANIA RATOWNICZE: Techniki, kierunki ewakuacji i dostęp — jak dla standardowego samochodu osobowego. Przy dostępie unikaj cięcia i rozpierania w pobliżu przewodów, komponentów i akumulatora — położenie z karty ratowniczej. Stosuj SOI chroniące przed porażeniem; sprzęt z certyfikatem elektroizolacyjności (np. rękawice). Wycieki z akumulatora usuwaj standardowym sorbentem. Przy podnoszeniu wybierz punkty podparcia omijające akumulator i elementy WN.\n5. PRZEKAZANIE: Przekaż na „Potwierdzeniu przekazania terenu…” i poinformuj o: dozorze, odstawieniu ≥ 5 m od pojazdów, materiałów palnych i budynków, bezpiecznym holowaniu modelu. Przy uszkodzonym akumulatorze dodatkowo: wentylacja wnętrza, ochrona przed wyciekiem elektrolitu, SOI, utylizacja przez wyspecjalizowaną firmę.\n6. NIE RÓB: Nie dotykaj, nie demontuj i nie ingeruj w uszkodzone elementy układu WN."
   },
   {
     "id": "WYP-MAS-01",
@@ -6236,7 +6626,10 @@
   },
   {
     "id": "ZAT-EV-01",
-    "prefix": "Pojazd elektryczny po zalaniu lub zatopieniu",
+    "wzorzec": 2,
+    "zrodlo": "KG PSP: Standardowe zasady postępowania podczas zdarzeń z samochodami z napędem elektrycznym oraz hybrydowym, wydanie drugie, maj 2023",
+    "data_aktualizacji": "2026-10-27",
+    "slowo_kluczowe": "zatopienie samochodu elektrycznego",
     "keywords": [
       "zatopienie ev",
       "elektryk w wodzie",
@@ -6246,14 +6639,6 @@
       "podtopiony elektryk",
       "zalany pojazd elektryczny",
       "samochod elektryczny w wodzie"
-    ],
-    "content": "1. Traktuj pojazd jako potencjalnie będący pod napięciem do czasu pełnego rozpoznania.\n2. Nie wchodź do wody bez zabezpieczenia i oceny ryzyka porażenia oraz warunków hydrologicznych.\n3. Ewakuację ludzi wykonuj priorytetowo, stosując techniki wodno-ratownicze właściwe dla miejsca zdarzenia.\n4. Po wydobyciu ustaw pojazd w strefie izolowanej i nie uruchamiaj żadnych układów elektrycznych.\n5. Wyłącz zapłon, odsuń klucz i rozważ dezaktywację niskiego napięcia tylko jeśli producent i warunki na to pozwalają.\n6. Obserwuj wzrost temperatury, dymienie i bulgotanie akumulatora; zagrożenie może pojawić się z opóźnieniem.\n7. Zorganizuj nadzór po akcji oraz poinformuj właściciela i holownik o ryzyku wtórnego pożaru.",
-    "slowo_kluczowe": "zatopienie samochodu elektrycznego",
-    "tagi_wspolne": [
-      "pojazd elektryczny",
-      "samochod elektryczny",
-      "ev",
-      "zatopienie"
     ],
     "aliasy": [
       "zatopienie ev",
@@ -6265,13 +6650,84 @@
       "zalany pojazd elektryczny",
       "samochod elektryczny w wodzie"
     ],
+    "prefix": "Samochód elektryczny lub hybrydowy zatopiony w wodzie — karta Z3 SZP KG PSP (2023).",
+    "najpierw": [
+      {
+        "t": "Postępuj jak przy standardowym samochodzie spalinowym.",
+        "zr": "SZP EV",
+        "str": 13
+      },
+      {
+        "t": "Zatopiony samochód elektryczny nie stwarza zagrożenia porażenia prądem ani zwiększonego zanieczyszczenia wody.",
+        "zr": "SZP EV",
+        "str": 13
+      },
+      {
+        "t": "Poszkodowanych w bezpośrednim zagrożeniu życia ewakuuj natychmiast; gdy ewakuacja niemożliwa — wyciągnij samochód z osobami.",
+        "zr": "SZP EV",
+        "str": 13
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Oznaka zwarcia akumulatora",
+        "wartosc": "parowanie wody",
+        "zr": "SZP EV",
+        "str": 13
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Działania",
+        "punkty": [
+          {
+            "t": "Zabezpiecz wycieki płynów eksploatacyjnych przed rozprzestrzenianiem się na wodzie.",
+            "zr": "SZP EV",
+            "str": 13
+          },
+          {
+            "t": "Przy wydobyciu wyznacz punkty mocowania omijające akumulator i elementy WN.",
+            "zr": "SZP EV",
+            "str": 13
+          }
+        ]
+      },
+      {
+        "etykieta": "Po wydobyciu",
+        "punkty": [
+          {
+            "t": "Wykonaj dezaktywację i zabezpieczenie (karta „Dezaktywacja”).",
+            "zr": "SZP EV",
+            "str": 13
+          },
+          {
+            "t": "Kontroluj temperaturę akumulatora (kamera termowizyjna, pirometr) i bądź gotowy na pożar akumulatora (karta „Pożar”).",
+            "zr": "SZP EV",
+            "str": 13
+          },
+          {
+            "t": "Przekaż z informacją o dozorze, odstawieniu ≥ 5 m od pojazdów i budynków i bezpiecznym holowaniu modelu.",
+            "zr": "SZP EV",
+            "str": 14
+          }
+        ]
+      }
+    ],
+    "tagi_wspolne": [
+      "pojazd elektryczny",
+      "samochod elektryczny",
+      "ev",
+      "zatopienie"
+    ],
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-ev-szp-2023",
         "strona": 13,
-        "sekcja": "Karta Z3 - zatopienie samochodu w wodzie"
+        "sekcja": "Karta Z3 — zatopienie (s. 13), przekazanie (s. 14)"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: Postępuj jak przy standardowym samochodzie spalinowym. Zatopiony samochód elektryczny nie stwarza zagrożenia porażenia prądem ani zwiększonego zanieczyszczenia wody. Poszkodowanych w bezpośrednim zagrożeniu życia ewakuuj natychmiast; gdy ewakuacja niemożliwa — wyciągnij samochód z osobami.\n2. PARAMETRY: Oznaka zwarcia akumulatora — parowanie wody\n3. DZIAŁANIA: Zabezpiecz wycieki płynów eksploatacyjnych przed rozprzestrzenianiem się na wodzie. Przy wydobyciu wyznacz punkty mocowania omijające akumulator i elementy WN.\n4. PO WYDOBYCIU: Wykonaj dezaktywację i zabezpieczenie (karta „Dezaktywacja”). Kontroluj temperaturę akumulatora (kamera termowizyjna, pirometr) i bądź gotowy na pożar akumulatora (karta „Pożar”). Przekaż z informacją o dozorze, odstawieniu ≥ 5 m od pojazdów i budynków i bezpiecznym holowaniu modelu."
   },
   {
     "id": "KARTA-ZA-CEL-ZAKRES-MONITOROWANIA",

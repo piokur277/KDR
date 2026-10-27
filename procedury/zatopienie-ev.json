@@ -1,6 +1,9 @@
 {
   "id": "ZAT-EV-01",
-  "prefix": "Pojazd elektryczny po zalaniu lub zatopieniu",
+  "wzorzec": 2,
+  "zrodlo": "KG PSP: Standardowe zasady postępowania podczas zdarzeń z samochodami z napędem elektrycznym oraz hybrydowym, wydanie drugie, maj 2023",
+  "data_aktualizacji": "2026-10-27",
+  "slowo_kluczowe": "zatopienie samochodu elektrycznego",
   "keywords": [
     "zatopienie ev",
     "elektryk w wodzie",
@@ -10,14 +13,6 @@
     "podtopiony elektryk",
     "zalany pojazd elektryczny",
     "samochod elektryczny w wodzie"
-  ],
-  "content": "1. Traktuj pojazd jako potencjalnie będący pod napięciem do czasu pełnego rozpoznania.\n2. Nie wchodź do wody bez zabezpieczenia i oceny ryzyka porażenia oraz warunków hydrologicznych.\n3. Ewakuację ludzi wykonuj priorytetowo, stosując techniki wodno-ratownicze właściwe dla miejsca zdarzenia.\n4. Po wydobyciu ustaw pojazd w strefie izolowanej i nie uruchamiaj żadnych układów elektrycznych.\n5. Wyłącz zapłon, odsuń klucz i rozważ dezaktywację niskiego napięcia tylko jeśli producent i warunki na to pozwalają.\n6. Obserwuj wzrost temperatury, dymienie i bulgotanie akumulatora; zagrożenie może pojawić się z opóźnieniem.\n7. Zorganizuj nadzór po akcji oraz poinformuj właściciela i holownik o ryzyku wtórnego pożaru.",
-  "slowo_kluczowe": "zatopienie samochodu elektrycznego",
-  "tagi_wspolne": [
-    "pojazd elektryczny",
-    "samochod elektryczny",
-    "ev",
-    "zatopienie"
   ],
   "aliasy": [
     "zatopienie ev",
@@ -29,11 +24,81 @@
     "zalany pojazd elektryczny",
     "samochod elektryczny w wodzie"
   ],
+  "prefix": "Samochód elektryczny lub hybrydowy zatopiony w wodzie — karta Z3 SZP KG PSP (2023).",
+  "najpierw": [
+    {
+      "t": "Postępuj jak przy standardowym samochodzie spalinowym.",
+      "zr": "SZP EV",
+      "str": 13
+    },
+    {
+      "t": "Zatopiony samochód elektryczny nie stwarza zagrożenia porażenia prądem ani zwiększonego zanieczyszczenia wody.",
+      "zr": "SZP EV",
+      "str": 13
+    },
+    {
+      "t": "Poszkodowanych w bezpośrednim zagrożeniu życia ewakuuj natychmiast; gdy ewakuacja niemożliwa — wyciągnij samochód z osobami.",
+      "zr": "SZP EV",
+      "str": 13
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "Oznaka zwarcia akumulatora",
+      "wartosc": "parowanie wody",
+      "zr": "SZP EV",
+      "str": 13
+    }
+  ],
+  "sekcje": [
+    {
+      "etykieta": "Działania",
+      "punkty": [
+        {
+          "t": "Zabezpiecz wycieki płynów eksploatacyjnych przed rozprzestrzenianiem się na wodzie.",
+          "zr": "SZP EV",
+          "str": 13
+        },
+        {
+          "t": "Przy wydobyciu wyznacz punkty mocowania omijające akumulator i elementy WN.",
+          "zr": "SZP EV",
+          "str": 13
+        }
+      ]
+    },
+    {
+      "etykieta": "Po wydobyciu",
+      "punkty": [
+        {
+          "t": "Wykonaj dezaktywację i zabezpieczenie (karta „Dezaktywacja”).",
+          "zr": "SZP EV",
+          "str": 13
+        },
+        {
+          "t": "Kontroluj temperaturę akumulatora (kamera termowizyjna, pirometr) i bądź gotowy na pożar akumulatora (karta „Pożar”).",
+          "zr": "SZP EV",
+          "str": 13
+        },
+        {
+          "t": "Przekaż z informacją o dozorze, odstawieniu ≥ 5 m od pojazdów i budynków i bezpiecznym holowaniu modelu.",
+          "zr": "SZP EV",
+          "str": 14
+        }
+      ]
+    }
+  ],
+  "tagi_wspolne": [
+    "pojazd elektryczny",
+    "samochod elektryczny",
+    "ev",
+    "zatopienie"
+  ],
   "dokumenty_zrodlowe": [
     {
       "dokument_id": "doc-ev-szp-2023",
       "strona": 13,
-      "sekcja": "Karta Z3 - zatopienie samochodu w wodzie"
+      "sekcja": "Karta Z3 — zatopienie (s. 13), przekazanie (s. 14)"
     }
-  ]
+  ],
+  "data_przegladu": "2026-10-27"
 }

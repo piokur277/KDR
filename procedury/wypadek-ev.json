@@ -1,6 +1,9 @@
 {
   "id": "WYP-EV-01",
-  "prefix": "Wypadek pojazdu elektrycznego po kolizji drogowej",
+  "wzorzec": 2,
+  "zrodlo": "KG PSP: Standardowe zasady postępowania podczas zdarzeń z samochodami z napędem elektrycznym oraz hybrydowym, wydanie drugie, maj 2023",
+  "data_aktualizacji": "2026-10-27",
+  "slowo_kluczowe": "wypadek samochodu elektrycznego",
   "keywords": [
     "wypadek ev",
     "kolizja ev",
@@ -12,14 +15,6 @@
     "kolizja samochodu elektrycznego",
     "wypadek tesli",
     "uszkodzona bateria trakcyjna po kolizji"
-  ],
-  "content": "1. Zabezpiecz miejsce zdarzenia, wyznacz strefę działań i zatrzymaj ruch.\n2. Rozpoznaj pojazd: marka, model, oznaczenia EV, miejsce akumulatora trakcyjnego.\n3. Sprawdź zagrożenia dodatkowe: dym, syk, wyciek, uszkodzone przewody pomarańczowe, deformacja podwozia.\n4. Unieś maskę lub uzyskaj dostęp zgodnie z kartą ratowniczą tylko wtedy, gdy jest to bezpieczne.\n5. Unieruchom pojazd, wybierz pozycję PARK, zaciągnij hamulec, wyłącz zapłon i odsuń klucz minimum 5 metrów.\n6. Jeśli producent przewiduje pętlę ratowniczą lub punkt odłączenia 12V, wykonaj dezaktywację zgodnie z procedurą modelu.\n7. Nie przecinaj przewodów wysokiego napięcia i nie naruszaj obudowy baterii.\n8. Ewakuuj poszkodowanych standardowo, stale obserwując temperaturę i oznaki uszkodzenia baterii.\n9. Po zakończeniu działań przekaż pojazd do strefy obserwacji z informacją o ryzyku wtórnego zapłonu.",
-  "slowo_kluczowe": "wypadek samochodu elektrycznego",
-  "tagi_wspolne": [
-    "pojazd elektryczny",
-    "samochod elektryczny",
-    "ev",
-    "wypadek"
   ],
   "aliasy": [
     "wypadek ev",
@@ -33,11 +28,134 @@
     "wypadek tesli",
     "uszkodzona bateria trakcyjna po kolizji"
   ],
+  "prefix": "Wypadek komunikacyjny samochodu elektrycznego lub hybrydowego — karta Z1 SZP KG PSP (2023).",
+  "najpierw": [
+    {
+      "t": "Ustaw pojazdy ratownicze tak, by zabezpieczyć miejsce działań; wyznacz strefę zagrożenia.",
+      "zr": "SZP EV",
+      "str": 9
+    },
+    {
+      "t": "Poszkodowanych w bezpośrednim zagrożeniu życia ewakuuj natychmiast.",
+      "zr": "SZP EV",
+      "str": 9
+    },
+    {
+      "t": "Brak pewności co do napędu = zakładaj instalację wysokiego napięcia.",
+      "zr": "SZP EV",
+      "str": 9
+    },
+    {
+      "t": "Załóż, że automatyczna dezaktywacja (poduszki, napinacze) nie zadziałała — wykonaj ją ręcznie (karta „Dezaktywacja”).",
+      "zr": "SZP EV",
+      "str": 9
+    },
+    {
+      "t": "Przygotuj linię gaśniczą lub gaśnicę oraz kamerę termowizyjną lub pirometr.",
+      "zr": "SZP EV",
+      "str": 9
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "Chłodzenie akumulatora",
+      "wartosc": "> 50°C lub rośnie: woda 10 min → przerwa 3 min → pomiar",
+      "zr": "SZP EV",
+      "str": 10
+    },
+    {
+      "nazwa": "Kontrola po chłodzeniu",
+      "wartosc": "30 min; ponów przy wzroście temperatury",
+      "zr": "SZP EV",
+      "str": 10
+    }
+  ],
+  "sekcje": [
+    {
+      "etykieta": "Rozpoznanie",
+      "punkty": [
+        {
+          "t": "Duże zniszczenia mogą oznaczać uszkodzenie akumulatora lub układu WN — ryzyko porażenia przez karoserię.",
+          "zr": "SZP EV",
+          "str": 9
+        },
+        {
+          "t": "Kontroluj temperaturę akumulatora w wielu miejscach; możliwy wyciek płynu chłodzącego i elektrolitu (drażniący, palny, żrący).",
+          "zr": "SZP EV",
+          "str": 9
+        },
+        {
+          "t": "Odłącz pojazd od stacji ładowania (wyłącznik bezpieczeństwa lub dyspozytor stacji).",
+          "zr": "SZP EV",
+          "str": 3
+        }
+      ]
+    },
+    {
+      "etykieta": "Działania ratownicze",
+      "punkty": [
+        {
+          "t": "Techniki, kierunki ewakuacji i dostęp — jak dla standardowego samochodu osobowego.",
+          "zr": "SZP EV",
+          "str": 9
+        },
+        {
+          "t": "Przy dostępie unikaj cięcia i rozpierania w pobliżu przewodów, komponentów i akumulatora — położenie z karty ratowniczej.",
+          "zr": "SZP EV",
+          "str": 9
+        },
+        {
+          "t": "Stosuj SOI chroniące przed porażeniem; sprzęt z certyfikatem elektroizolacyjności (np. rękawice).",
+          "zr": "SZP EV",
+          "str": 9
+        },
+        {
+          "t": "Wycieki z akumulatora usuwaj standardowym sorbentem.",
+          "zr": "SZP EV",
+          "str": 10
+        },
+        {
+          "t": "Przy podnoszeniu wybierz punkty podparcia omijające akumulator i elementy WN.",
+          "zr": "SZP EV",
+          "str": 10
+        }
+      ]
+    },
+    {
+      "etykieta": "Przekazanie",
+      "punkty": [
+        {
+          "t": "Przekaż na „Potwierdzeniu przekazania terenu…” i poinformuj o: dozorze, odstawieniu ≥ 5 m od pojazdów, materiałów palnych i budynków, bezpiecznym holowaniu modelu.",
+          "zr": "SZP EV",
+          "str": 14
+        },
+        {
+          "t": "Przy uszkodzonym akumulatorze dodatkowo: wentylacja wnętrza, ochrona przed wyciekiem elektrolitu, SOI, utylizacja przez wyspecjalizowaną firmę.",
+          "zr": "SZP EV",
+          "str": 14
+        }
+      ]
+    }
+  ],
+  "nie_rob": [
+    {
+      "t": "Nie dotykaj, nie demontuj i nie ingeruj w uszkodzone elementy układu WN.",
+      "zr": "SZP EV",
+      "str": 9
+    }
+  ],
+  "tagi_wspolne": [
+    "pojazd elektryczny",
+    "samochod elektryczny",
+    "ev",
+    "wypadek"
+  ],
   "dokumenty_zrodlowe": [
     {
       "dokument_id": "doc-ev-szp-2023",
       "strona": 9,
-      "sekcja": "Karta Z1 - wypadek komunikacyjny"
+      "sekcja": "Karta Z1 — wypadek komunikacyjny (s. 9–10), przekazanie (s. 14)"
     }
-  ]
+  ],
+  "data_przegladu": "2026-10-27"
 }

@@ -1,4 +1,4 @@
-const CACHE_NAME = "kdr-ai-v19-6-9-weryfikacja";
+const CACHE_NAME = "kdr-ai-v19-6-10-karty-ev";
 
 const APP_SHELL = [
   "./",
