@@ -1,31 +1,88 @@
 {
   "id": "KARTA-KPP-KOBIETA-W-CIAZY-ZAGROZENIE",
+  "wzorzec": 2,
   "kategoria": "dzialania",
-  "zrodlo": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 19",
-  "data_aktualizacji": "",
+  "grupa": "kpp",
+  "zrodlo": "KG PSP: Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy — Załącznik nr 1 do Zasad organizacji ratownictwa medycznego w KSRG (2021), Procedura 19.",
+  "data_aktualizacji": "2026-10-27",
   "slowo_kluczowe": "kobieta w ciazy kpp",
   "keywords": [
     "ciaza zagrozenie zycia kpp",
     "procedura 19 kpp",
     "resuscytacja ciaza kpp"
   ],
-  "prefix": "KPP - kobieta w widocznej ciazy w stanie zagrozenia zycia lub zdrowia.",
-  "content": "1. KOD / NAZWA: Procedura 19 - kobieta w widocznej ciazy w stanie zagrozenia zycia lub zdrowia.\n2. START: wykonaj rozpoznanie miejsca zdarzenia i sekwencje medycznych dzialan ratowniczych z procedury 2.\n3. PRZYTOMNA: uloz poszkodowana w pozycji wygodnej dla niej.\n4. CIALO OBCE W DROGACH ODDECHOWYCH: zachecaj do kaszlu. Jezeli kaszel jest nieefektywny, wykonaj do 5 uderzen w okolice miedzy lopatkowa, a jesli dalej sa nieefektywne - do 5 ucisniec klatki piersiowej.\n5. URAZOWY MECHANIZM ZDARZENIA LUB WSKAZANIA DO RESUSCYTACJI: uloz poszkodowana na wznak z uniesieniem biodra prawego albo z przesunieciem brzucha w lewa strone. Resuscytacje prowadz w tej pozycji.\n6. NIEPRZYTOMNA BEZ WSKAZAN DO RESUSCYTACJI I BEZ URAZOWEGO MECHANIZMU: uloz poszkodowana na lewym boku.\n7. UWAGI OPERACYJNE: procedura laczy postepowanie urazowe i nieurazowe oraz uwzglednia odrebne ulozenie w czasie resuscytacji.",
-  "tagi_wspolne": [
-    "kpp",
-    "medyczne dzialania ratownicze",
-    "kobieta w ciazy"
-  ],
   "aliasy": [
     "ciaza zagrozenie zycia kpp",
     "procedura 19 kpp",
     "resuscytacja ciaza kpp"
   ],
+  "prefix": "KPP procedura 19 — kobieta w widocznej ciąży: pozycje wg przytomności, urazu i wskazań do resuscytacji.",
+  "najpierw": [
+    {
+      "t": "Rozpoznanie miejsca zdarzenia i sekwencja medycznych działań ratowniczych (procedura 2).",
+      "zr": "KPP proc. 19",
+      "str": 1
+    },
+    {
+      "t": "Pozycja na wznak z uniesieniem prawego biodra lub przesunięciem brzucha w lewą stronę — przy unieruchomieniu i przy resuscytacji.",
+      "zr": "KPP proc. 19",
+      "str": 1
+    }
+  ],
+  "parametry": [],
+  "sekcje": [
+    {
+      "etykieta": "Przytomna",
+      "punkty": [
+        {
+          "t": "Bez urazowego mechanizmu → pozycja wygodna dla poszkodowanej.",
+          "zr": "KPP proc. 19",
+          "str": 1
+        },
+        {
+          "t": "Ciało obce w drogach oddechowych → zachęć do kaszlu; nieefektywny → do 5 uderzeń międzyłopatkowo; nieefektywne → do 5 uciśnięć klatki piersiowej.",
+          "zr": "KPP proc. 19",
+          "str": 1
+        },
+        {
+          "t": "Urazowy mechanizm → unieruchomienie na wznak z uniesieniem prawego biodra lub przesunięciem brzucha w lewo.",
+          "zr": "KPP proc. 19",
+          "str": 1
+        }
+      ]
+    },
+    {
+      "etykieta": "Nieprzytomna",
+      "punkty": [
+        {
+          "t": "Wskazania do resuscytacji (z urazem lub bez) → resuscytacja na wznak z uniesieniem prawego biodra lub przesunięciem brzucha w lewo.",
+          "zr": "KPP proc. 19",
+          "str": 1
+        },
+        {
+          "t": "Urazowy mechanizm, bez wskazań do resuscytacji → unieruchomienie na wznak z uniesieniem prawego biodra lub przesunięciem brzucha w lewo.",
+          "zr": "KPP proc. 19",
+          "str": 1
+        },
+        {
+          "t": "Bez urazu i bez wskazań do resuscytacji → pozycja na lewym boku.",
+          "zr": "KPP proc. 19",
+          "str": 1
+        }
+      ]
+    }
+  ],
+  "tagi_wspolne": [
+    "kpp",
+    "medyczne dzialania ratownicze",
+    "kobieta w ciazy"
+  ],
   "dokumenty_zrodlowe": [
     {
       "dokument_id": "doc-kpp-procedura-19",
       "strona": 1,
-      "sekcja": "Procedura nr 19 - Kobieta w widocznej ciąży w stanie zagrożenia życia lub zdrowia"
+      "sekcja": "Procedura nr 19"
     }
-  ]
+  ],
+  "data_przegladu": "2026-10-27"
 }

@@ -1,31 +1,77 @@
 {
   "id": "KARTA-KPP-WYCHLODZENIE",
+  "wzorzec": 2,
   "kategoria": "dzialania",
-  "zrodlo": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 17",
-  "data_aktualizacji": "",
+  "grupa": "kpp",
+  "zrodlo": "KG PSP: Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy — Załącznik nr 1 do Zasad organizacji ratownictwa medycznego w KSRG (2021), Procedura 17.",
+  "data_aktualizacji": "2026-10-27",
   "slowo_kluczowe": "wychlodzenie kpp",
   "keywords": [
     "procedura 17 kpp",
     "termoizolacja kpp",
-    "ocena oddechu 60 sekund"
+    "ocena oddechu 60 sekund",
+    "hipotermia",
+    "wychlodzony poszkodowany"
   ],
-  "prefix": "KPP - wychlodzenie.",
-  "content": "1. KOD / NAZWA: Procedura 17 - wychlodzenie.\n2. START: wykonaj rozpoznanie miejsca zdarzenia i sekwencje medycznych dzialan ratowniczych, uwzgledniajac ocene oddechu i tetna przez 60 sekund.\n3. EWAKUACJA: ewakuuj poszkodowanego.\n4. MOKRA ODZIEZ: usun mokre elementy odziezy przez rozciecie oraz osusz skore, nie narazajac dodatkowo poszkodowanego na wychlodzenie i ruch.\n5. TERMOIZOLACJA: zastosuj termoizolacje.\n6. POZYCJA: uloz poszkodowanego w pozycji poziomej.\n7. UWAGI OPERACYJNE: w procedurze podkreslono ostrozne obchodzenie sie z poszkodowanym i wydluzona ocene funkcji zyciowych.",
+  "aliasy": [
+    "procedura 17 kpp",
+    "termoizolacja kpp",
+    "ocena oddechu 60 sekund",
+    "hipotermia",
+    "wychlodzony poszkodowany"
+  ],
+  "prefix": "KPP procedura 17 — wychłodzenie: ocena oddechu i tętna 60 s, ewakuacja, mokra odzież, pozycja pozioma, termoizolacja.",
+  "najpierw": [
+    {
+      "t": "Rozpoznanie miejsca zdarzenia.",
+      "zr": "KPP proc. 17",
+      "str": 1
+    },
+    {
+      "t": "Sekwencja medycznych działań ratowniczych (procedura 2), w tym ocena oddechu / tętna przez 60 sekund.",
+      "zr": "KPP proc. 17",
+      "str": 1
+    }
+  ],
+  "parametry": [],
+  "sekcje": [
+    {
+      "etykieta": "Kolejno",
+      "punkty": [
+        {
+          "t": "Ewakuacja.",
+          "zr": "KPP proc. 17",
+          "str": 1
+        },
+        {
+          "t": "Usunięcie mokrej odzieży przez rozcięcie i osuszenie skóry — bez dodatkowego narażania na wychłodzenie i ruch.",
+          "zr": "KPP proc. 17",
+          "str": 1
+        },
+        {
+          "t": "Ułożenie w pozycji poziomej.",
+          "zr": "KPP proc. 17",
+          "str": 1
+        },
+        {
+          "t": "Termoizolacja.",
+          "zr": "KPP proc. 17",
+          "str": 1
+        }
+      ]
+    }
+  ],
   "tagi_wspolne": [
     "kpp",
     "medyczne dzialania ratownicze",
     "wychlodzenie"
   ],
-  "aliasy": [
-    "procedura 17 kpp",
-    "termoizolacja kpp",
-    "ocena oddechu 60 sekund"
-  ],
   "dokumenty_zrodlowe": [
     {
       "dokument_id": "doc-kpp-procedura-17",
       "strona": 1,
-      "sekcja": "Procedura nr 17 - Wychłodzenie"
+      "sekcja": "Procedura nr 17"
     }
-  ]
+  ],
+  "data_przegladu": "2026-10-27"
 }
