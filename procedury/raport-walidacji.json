@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-27T13:52:47.335Z",
-  "procedure_count": 118,
-  "unique_direct_terms": 811,
-  "linked_procedure_count": 116,
-  "document_count": 80,
+  "generated_at": "2026-10-27T14:18:55.739Z",
+  "procedure_count": 119,
+  "unique_direct_terms": 821,
+  "linked_procedure_count": 117,
+  "document_count": 81,
   "shared_tags": [
     {
       "tag": "edukacja obywatelska",
@@ -551,6 +551,15 @@
       ]
     },
     {
+      "tag": "ratownictwo techniczne",
+      "count": 3,
+      "ids": [
+        "KARTA-RT-ZAKRES-PODSTAWOWY",
+        "KARTA-RT-WSPOLPRACA-KDR-SGRT",
+        "KARTA-RT-ZDARZENIA-NA-DROGACH"
+      ]
+    },
+    {
       "tag": "rozpoznanie",
       "count": 3,
       "ids": [
@@ -606,14 +615,6 @@
       "ids": [
         "KARTA-BUD-ORGANIZACJA-DZIALAN-KATASTROFA-BUDOWLANA",
         "KARTA-ORG-ZASADY-ORGANIZOWANIA-DZIALAN-RATOWNICZYCH"
-      ]
-    },
-    {
-      "tag": "ratownictwo techniczne",
-      "count": 2,
-      "ids": [
-        "KARTA-RT-ZAKRES-PODSTAWOWY",
-        "KARTA-RT-WSPOLPRACA-KDR-SGRT"
       ]
     },
     {

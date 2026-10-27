@@ -1,4 +1,4 @@
-const CACHE_NAME = "kdr-ai-v19-6-10-karty-ev";
+const CACHE_NAME = "kdr-ai-v19-7-0-zdarzenia-drogowe";
 
 const APP_SHELL = [
   "./",

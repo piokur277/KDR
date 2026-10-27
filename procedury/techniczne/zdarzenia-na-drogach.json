@@ -1,0 +1,207 @@
+{
+  "id": "KARTA-RT-ZDARZENIA-NA-DROGACH",
+  "wzorzec": 2,
+  "kategoria": "dzialania",
+  "grupa": "rt",
+  "zrodlo": "KG PSP: Zasady postępowania jednostek ochrony przeciwpożarowej w związku ze zdarzeniami na drogach, Warszawa, listopad 2012",
+  "data_aktualizacji": "2026-10-27",
+  "slowo_kluczowe": "zdarzenia na drogach",
+  "keywords": [
+    "zdarzenie na drodze",
+    "współpraca z zarządcą drogi",
+    "zarządca drogi",
+    "przekazanie terenu zarządcy drogi",
+    "odmowa przejęcia terenu",
+    "plama oleju na jezdni",
+    "zabezpieczenie i oznakowanie miejsca zdarzenia",
+    "kto sprząta drogę po wypadku",
+    "gddkia"
+  ],
+  "aliasy": [
+    "zdarzenie na drodze",
+    "współpraca z zarządcą drogi",
+    "zarządca drogi",
+    "przekazanie terenu zarządcy drogi",
+    "odmowa przejęcia terenu",
+    "plama oleju na jezdni",
+    "zabezpieczenie i oznakowanie miejsca zdarzenia",
+    "kto sprząta drogę po wypadku",
+    "gddkia"
+  ],
+  "prefix": "Zdarzenia na drogach — tryb działania KDR wobec zarządcy drogi i Policji, przekazanie terenu (Zasady KG PSP 2012).",
+  "najpierw": [
+    {
+      "t": "W rozpoznaniu wstępnym zidentyfikuj zagrożenia dla życia, zdrowia, środowiska i mienia.",
+      "zr": "Zasady 2012",
+      "str": 9
+    },
+    {
+      "t": "Ustal: czy na miejscu są zarządca drogi, Policja lub straż gminna oraz czy potrzebne są działania ratownicze, czy tylko zabezpieczenie i oznakowanie.",
+      "zr": "Zasady 2012",
+      "str": 10
+    },
+    {
+      "t": "Każdą decyzję — także o powrocie do miejsca stacjonowania — zgłoś do SK KP/KM PSP.",
+      "zr": "Zasady 2012",
+      "str": 10
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "Są służby + działania ratownicze",
+      "wartosc": "prowadź działania ratownicze (gaszenie, RT, RChem/REko, KPP)",
+      "zr": "Zasady 2012",
+      "str": 10
+    },
+    {
+      "nazwa": "Są służby + tylko zabezpieczenie",
+      "wartosc": "wskaż, że to zadanie zarządcy drogi lub Policji; poinformuj SK; wracaj",
+      "zr": "Zasady 2012",
+      "str": 10
+    },
+    {
+      "nazwa": "Brak służb + działania ratownicze",
+      "wartosc": "prowadź działania; SK wzywa zarządcę drogi lub Policję",
+      "zr": "Zasady 2012",
+      "str": 11
+    },
+    {
+      "nazwa": "Brak służb + tylko zabezpieczenie",
+      "wartosc": "ostrzeż użytkowników drogi; SK wzywa zarządcę drogi lub Policję",
+      "zr": "Zasady 2012",
+      "str": 11
+    },
+    {
+      "nazwa": "Nic nie jest potrzebne",
+      "wartosc": "poinformuj SK; wracaj",
+      "zr": "Zasady 2012",
+      "str": 11
+    }
+  ],
+  "sekcje": [
+    {
+      "etykieta": "Kto za co odpowiada",
+      "punkty": [
+        {
+          "t": "KDR może wstrzymać ruch drogowy i zakazać przebywania osób w rejonie działań.",
+          "zr": "Zasady 2012",
+          "str": 6
+        },
+        {
+          "t": "Przejezdność drogi zapewnia zarządca drogi; PSP nie wykonuje robót porządkowych ani utrzymaniowych.",
+          "zr": "Zasady 2012",
+          "str": 7
+        },
+        {
+          "t": "Substancja zagraża życiu, zdrowiu lub środowisku — to ratownictwo chemiczne lub ekologiczne PSP; usuwanie odpadów tylko dla bezpieczeństwa ruchu — zarządca drogi.",
+          "zr": "Zasady 2012",
+          "str": 7
+        },
+        {
+          "t": "Policja: kieruje ruchem, usuwa pojazdy utrudniające akcję, wprowadza ograniczenia i objazdy.",
+          "zr": "Zasady 2012",
+          "str": 7
+        },
+        {
+          "t": "Zarządca drogi: zamyka drogi, wyznacza objazdy, wykonuje roboty interwencyjne; jest posiadaczem odpadów w pasie drogowym.",
+          "zr": "Zasady 2012",
+          "str": 8
+        },
+        {
+          "t": "Zarządcy: krajowe i autostrady — GDDKiA (lub spółka); wojewódzkie — zarząd województwa; powiatowe — zarząd powiatu; gminne — wójt, burmistrz lub prezydent; w miastach na prawach powiatu (poza A i S) — prezydent miasta.",
+          "zr": "Zasady 2012",
+          "str": 8
+        }
+      ]
+    },
+    {
+      "etykieta": "Pomoc innym podmiotom",
+      "punkty": [
+        {
+          "t": "Możesz użyć sił do pomocy innym podmiotom na miejscu — poinformuj SK; jeśli prowadzono działania ratownicze, najpierw przekaż teren.",
+          "zr": "Zasady 2012",
+          "str": 11
+        },
+        {
+          "t": "Pomoc nie może obniżyć gotowości operacyjnej powiatu — np. zostaw tylko część sił albo wnioskuj o OSP.",
+          "zr": "Zasady 2012",
+          "str": 11
+        },
+        {
+          "t": "Siły pozostawione do pomocy SK może w każdej chwili zadysponować.",
+          "zr": "Zasady 2012",
+          "str": 12
+        }
+      ]
+    },
+    {
+      "etykieta": "Przekazanie terenu",
+      "punkty": [
+        {
+          "t": "Po działaniach przekaż teren właścicielowi, zarządcy, przedstawicielowi administracji, Policji lub straży gminnej; gdy ich brak — zgłoś to do SK.",
+          "zr": "Zasady 2012",
+          "str": 12
+        },
+        {
+          "t": "Jest przedstawiciel zarządcy drogi — przekaż teren jemu.",
+          "zr": "Zasady 2012",
+          "str": 12
+        },
+        {
+          "t": "Gdy było tylko zabezpieczenie i oznakowanie — przekazanie następuje z chwilą przybycia odpowiedzialnych za bezpieczeństwo ruchu.",
+          "zr": "Zasady 2012",
+          "str": 12
+        }
+      ]
+    },
+    {
+      "etykieta": "Odmowa przejęcia terenu",
+      "punkty": [
+        {
+          "t": "Zgłoś odmowę do SK i odnotuj ją w informacji ze zdarzenia.",
+          "zr": "Zasady 2012",
+          "str": 12
+        },
+        {
+          "t": "Teren bez zagrożeń — wracasz; teren może stwarzać zagrożenia — dalszy tryb ustalasz z SK (ewentualnie z PCZK lub WCZK).",
+          "zr": "Zasady 2012",
+          "str": 13
+        },
+        {
+          "t": "SK wzywa kolejno: zarządcę drogi, Policję, pozostałe podmioty.",
+          "zr": "Zasady 2012",
+          "str": 13
+        },
+        {
+          "t": "Zarządca odmawia przybycia przy zagrożeniu ruchu — SK informuje go o odpowiedzialności z art. 72 Kodeksu wykroczeń.",
+          "zr": "Zasady 2012",
+          "str": 15
+        }
+      ]
+    }
+  ],
+  "nie_rob": [
+    {
+      "t": "Nie wykonuj robót porządkowych ani utrzymaniowych drogi — to zadanie zarządcy drogi.",
+      "zr": "Zasady 2012",
+      "str": 7
+    },
+    {
+      "t": "Nie pozostawiaj sił do pomocy innym podmiotom kosztem gotowości operacyjnej powiatu.",
+      "zr": "Zasady 2012",
+      "str": 11
+    }
+  ],
+  "tagi_wspolne": [
+    "ratownictwo techniczne",
+    "zdarzenia drogowe"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-zasady-drogi-2012",
+      "strona": 9,
+      "sekcja": "Kompetencje (s. 6–9), tryb KDR (s. 9–12), przekazanie terenu (s. 12–13), informacje dodatkowe (s. 15)"
+    }
+  ],
+  "data_przegladu": "2026-10-27"
+}
