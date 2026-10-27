@@ -1,32 +1,69 @@
 {
   "id": "KARTA-KPP-OBRAZENIA-MIEDNICY",
+  "wzorzec": 2,
   "kategoria": "dzialania",
-  "zrodlo": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 11",
-  "data_aktualizacji": "",
+  "grupa": "kpp",
+  "zrodlo": "KG PSP: Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy — Załącznik nr 1 do Zasad organizacji ratownictwa medycznego w KSRG (2021), Procedura 11.",
+  "data_aktualizacji": "2026-10-27",
   "slowo_kluczowe": "obrazenia miednicy kpp",
   "keywords": [
     "miednica kpp",
     "procedura 11 kpp",
     "nosze podbierakowe miednica"
   ],
-  "prefix": "KPP - obrazenia i podejrzenie obrazen miednicy.",
-  "content": "1. KOD / NAZWA: Procedura 11 - obrazenia i podejrzenie obrazen miednicy.\n2. START: wykonaj rozpoznanie miejsca zdarzenia i sekwencje medycznych dzialan ratowniczych z procedury 2.\n3. STABILIZACJA: rozwaz stabilizacje miednicy.\n4. TRANSPORT NA NOSZACH: preferowane jest uzycie noszy podbierakowych.\n5. JEZELI BRAK NOSZY PODBIERAKOWYCH: zastosuj technike wielu rak.\n6. UNIERUCHOMIENIE: po przeniesieniu unieruchom poszkodowanego na noszach.\n7. UWAGI OPERACYJNE: karta skupia sie na jak najmniej urazowym przeniesieniu i stabilizacji.",
+  "aliasy": [
+    "miednica kpp",
+    "procedura 11 kpp",
+    "nosze podbierakowe miednica"
+  ],
+  "prefix": "KPP procedura 11 — obrażenia miednicy: stabilizacja, nosze podbierakowe lub technika „wielu rąk”.",
+  "najpierw": [
+    {
+      "t": "Rozpoznanie miejsca zdarzenia i sekwencja medycznych działań ratowniczych (procedura 2).",
+      "zr": "KPP proc. 11",
+      "str": 1
+    },
+    {
+      "t": "Rozważ stabilizację miednicy.",
+      "zr": "KPP proc. 11",
+      "str": 1
+    }
+  ],
+  "parametry": [],
+  "sekcje": [
+    {
+      "etykieta": "Przeniesienie",
+      "punkty": [
+        {
+          "t": "Użyj noszy podbierakowych.",
+          "zr": "KPP proc. 11",
+          "str": 1
+        },
+        {
+          "t": "Brak noszy podbierakowych → technika „wielu rąk”.",
+          "zr": "KPP proc. 11",
+          "str": 1
+        },
+        {
+          "t": "Unieruchomienie na noszach.",
+          "zr": "KPP proc. 11",
+          "str": 1
+        }
+      ]
+    }
+  ],
   "tagi_wspolne": [
     "kpp",
     "medyczne dzialania ratownicze",
     "obrazenia",
     "uraz"
   ],
-  "aliasy": [
-    "miednica kpp",
-    "procedura 11 kpp",
-    "nosze podbierakowe miednica"
-  ],
   "dokumenty_zrodlowe": [
     {
       "dokument_id": "doc-kpp-procedura-11",
       "strona": 1,
-      "sekcja": "Procedura nr 11 - Obrażenia i podejrzenie obrażeń miednicy"
+      "sekcja": "Procedura nr 11"
     }
-  ]
+  ],
+  "data_przegladu": "2026-10-27"
 }

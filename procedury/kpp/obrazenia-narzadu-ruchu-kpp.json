@@ -1,8 +1,10 @@
 {
   "id": "KARTA-KPP-OBRAZENIA-NARZADU-RUCHU",
+  "wzorzec": 2,
   "kategoria": "dzialania",
-  "zrodlo": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 12",
-  "data_aktualizacji": "",
+  "grupa": "kpp",
+  "zrodlo": "KG PSP: Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy — Załącznik nr 1 do Zasad organizacji ratownictwa medycznego w KSRG (2021), Procedura 12.",
+  "data_aktualizacji": "2026-10-27",
   "slowo_kluczowe": "obrazenia narzadu ruchu kpp",
   "keywords": [
     "konczyna kpp",
@@ -10,25 +12,90 @@
     "procedura 12 kpp",
     "wyciag delikatny kpp"
   ],
-  "prefix": "KPP - obrazenia i podejrzenie obrazen narzadu ruchu.",
-  "content": "1. KOD / NAZWA: Procedura 12 - obrazenia i podejrzenie obrazen narzadu ruchu.\n2. START: wykonaj rozpoznanie miejsca zdarzenia i sekwencje medycznych dzialan ratowniczych z procedury 2.\n3. STABILIZACJA WSTEPNA: zastosuj reczna stabilizacje konczyny i ocen odniesione obrazenia.\n4. OCENA DYSTALNA: ocen krazenie i czucie ponizej miejsca uszkodzenia.\n5. ZNIEKSZTALCENIE OBRYSU KONCZYNY: rozwaz zastosowanie delikatnego wyciagu.\n6. OPOR PODCZAS WYCIAGU: jezeli podczas stosowania wyciagu pojawia sie opor, przerwij wyciag i unieruchom konczyne w pozycji zastanej.\n7. RANA: jezeli wystepuje przerwanie ciaglosci skory, zaloz opatrunek jalowy oslaniajacy na rane.\n8. UNIERUCHOMIENIE: jezeli nie ma oporu podczas delikatnego wyciagu i warunki na to pozwalaja, unieruchom konczyne w pozycji zblizonej do fizjologicznej. W przeciwnym razie unieruchom w pozycji zastanej.\n9. PONOWNA OCENA: po unieruchomieniu ponownie ocen krazenie i czucie ponizej miejsca uszkodzenia.\n10. UWAGI OPERACYJNE: karta laczy decyzje dotyczace delikatnego wyciagu, rany i wyboru pozycji unieruchomienia.",
-  "tagi_wspolne": [
-    "kpp",
-    "medyczne dzialania ratownicze",
-    "obrazenia",
-    "uraz"
-  ],
   "aliasy": [
     "konczyna kpp",
     "zlamanie kpp",
     "procedura 12 kpp",
     "wyciag delikatny kpp"
   ],
+  "prefix": "KPP procedura 12 — obrażenia narządu ruchu: stabilizacja, krążenie i czucie, delikatny wyciąg, unieruchomienie.",
+  "najpierw": [
+    {
+      "t": "Rozpoznanie miejsca zdarzenia i sekwencja medycznych działań ratowniczych (procedura 2).",
+      "zr": "KPP proc. 12",
+      "str": 1
+    },
+    {
+      "t": "Ręczna stabilizacja kończyny; ocena obrażeń.",
+      "zr": "KPP proc. 12",
+      "str": 1
+    },
+    {
+      "t": "Ocena krążenia i czucia poniżej miejsca uszkodzenia.",
+      "zr": "KPP proc. 12",
+      "str": 1
+    }
+  ],
+  "parametry": [],
+  "sekcje": [
+    {
+      "etykieta": "Zniekształcenie obrysu kończyny",
+      "punkty": [
+        {
+          "t": "Zastosuj delikatny wyciąg.",
+          "zr": "KPP proc. 12",
+          "str": 1
+        },
+        {
+          "t": "Opór podczas wyciągu → rana lub przerwanie ciągłości skóry: opatrunek jałowy osłonowy; unieruchomienie w pozycji zastanej.",
+          "zr": "KPP proc. 12",
+          "str": 1
+        },
+        {
+          "t": "Brak oporu → jak bez zniekształcenia.",
+          "zr": "KPP proc. 12",
+          "str": 1
+        }
+      ]
+    },
+    {
+      "etykieta": "Bez zniekształcenia lub bez oporu",
+      "punkty": [
+        {
+          "t": "Rana → opatrunek jałowy osłonowy.",
+          "zr": "KPP proc. 12",
+          "str": 1
+        },
+        {
+          "t": "Unieruchomienie w pozycji zbliżonej do fizjologicznej.",
+          "zr": "KPP proc. 12",
+          "str": 1
+        }
+      ]
+    },
+    {
+      "etykieta": "Na koniec",
+      "punkty": [
+        {
+          "t": "Ponowna ocena krążenia i czucia poniżej miejsca uszkodzenia.",
+          "zr": "KPP proc. 12",
+          "str": 1
+        }
+      ]
+    }
+  ],
+  "tagi_wspolne": [
+    "kpp",
+    "medyczne dzialania ratownicze",
+    "obrazenia",
+    "uraz"
+  ],
   "dokumenty_zrodlowe": [
     {
       "dokument_id": "doc-kpp-procedura-12",
       "strona": 1,
-      "sekcja": "Procedura nr 12 - Obrażenia i podejrzenie obrażeń narządu ruchu"
+      "sekcja": "Procedura nr 12"
     }
-  ]
+  ],
+  "data_przegladu": "2026-10-27"
 }

@@ -1,32 +1,69 @@
 {
   "id": "KARTA-KPP-OBRAZENIA-BRZUCHA",
+  "wzorzec": 2,
   "kategoria": "dzialania",
-  "zrodlo": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 10",
-  "data_aktualizacji": "",
+  "grupa": "kpp",
+  "zrodlo": "KG PSP: Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy — Załącznik nr 1 do Zasad organizacji ratownictwa medycznego w KSRG (2021), Procedura 10.",
+  "data_aktualizacji": "2026-10-27",
   "slowo_kluczowe": "obrazenia brzucha kpp",
   "keywords": [
     "rana brzucha kpp",
     "wytrzewienie kpp",
     "procedura 10 kpp"
   ],
-  "prefix": "KPP - obrazenia i podejrzenie obrazen brzucha.",
-  "content": "1. KOD / NAZWA: Procedura 10 - obrazenia i podejrzenie obrazen brzucha.\n2. START: wykonaj rozpoznanie miejsca zdarzenia i sekwencje medycznych dzialan ratowniczych z procedury 2.\n3. RANA BRZUCHA Z WYTRZEWIENIEM: zaloz wilgotny opatrunek oslaniajacy i przykryj go folia.\n4. RANA BRZUCHA BEZ WYTRZEWIENIA: zaloz opatrunek oslaniajacy.\n5. POZYCJA: uloz poszkodowanego w pozycji lezacej z nogami ugietymi w kolanach.\n6. WYJATEK: jezeli jednoczesnie wystepuja obrazenia miednicy i lub konczyn dolnych, poszkodowanego nalezy ulozyc w pozycji lezacej na plasko.\n7. UWAGI OPERACYJNE: w tej karcie kluczowe jest rozroznienie, czy wystepuje wytrzewienie.",
+  "aliasy": [
+    "rana brzucha kpp",
+    "wytrzewienie kpp",
+    "procedura 10 kpp"
+  ],
+  "prefix": "KPP procedura 10 — obrażenia brzucha: wytrzewienie, opatrunek osłaniający, pozycja z ugiętymi kolanami.",
+  "najpierw": [
+    {
+      "t": "Rozpoznanie miejsca zdarzenia i sekwencja medycznych działań ratowniczych (procedura 2).",
+      "zr": "KPP proc. 10",
+      "str": 1
+    },
+    {
+      "t": "Rana z wytrzewieniem → wilgotny opatrunek osłaniający przykryty folią.",
+      "zr": "KPP proc. 10",
+      "str": 1
+    },
+    {
+      "t": "Rana bez wytrzewienia → opatrunek osłaniający.",
+      "zr": "KPP proc. 10",
+      "str": 1
+    }
+  ],
+  "parametry": [],
+  "sekcje": [
+    {
+      "etykieta": "Pozycja",
+      "punkty": [
+        {
+          "t": "Leżąca z nogami ugiętymi w kolanach.",
+          "zr": "KPP proc. 10",
+          "str": 1
+        },
+        {
+          "t": "Współistniejące obrażenia miednicy lub kończyn dolnych → leżąca na płasko.",
+          "zr": "KPP proc. 10",
+          "str": 1
+        }
+      ]
+    }
+  ],
   "tagi_wspolne": [
     "kpp",
     "medyczne dzialania ratownicze",
     "obrazenia",
     "uraz"
   ],
-  "aliasy": [
-    "rana brzucha kpp",
-    "wytrzewienie kpp",
-    "procedura 10 kpp"
-  ],
   "dokumenty_zrodlowe": [
     {
       "dokument_id": "doc-kpp-procedura-10",
       "strona": 1,
-      "sekcja": "Procedura nr 10 - Obrażenia i podejrzenie obrażeń brzucha"
+      "sekcja": "Procedura nr 10"
     }
-  ]
+  ],
+  "data_przegladu": "2026-10-27"
 }
