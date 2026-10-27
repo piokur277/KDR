@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-27T13:52:47.337Z",
+  "generated_at": "2026-10-27T14:18:55.740Z",
   "registry_version": "2.7",
-  "document_count": 80,
-  "active_document_count": 80,
-  "linked_document_count": 80,
+  "document_count": 81,
+  "active_document_count": 81,
+  "linked_document_count": 81,
   "unlinked_documents": [],
   "documents": [
     {
@@ -1613,6 +1613,20 @@
           "procedure_id": "KARTA-ORG-HCN-WARTOSCI-GRANICZNE",
           "strona": 1,
           "sekcja": "ICSC 0492 — zagrożenia, pierwsza pomoc, wycieki (s. 1), właściwości i normatywy (s. 3)"
+        }
+      ]
+    },
+    {
+      "id": "doc-zasady-drogi-2012",
+      "tytul": "Zasady postępowania jednostek ochrony przeciwpożarowej w związku ze zdarzeniami na drogach",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 15,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-RT-ZDARZENIA-NA-DROGACH",
+          "strona": 9,
+          "sekcja": "Kompetencje (s. 6–9), tryb KDR (s. 9–12), przekazanie terenu (s. 12–13), informacje dodatkowe (s. 15)"
         }
       ]
     }

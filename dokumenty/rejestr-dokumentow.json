@@ -1,6 +1,6 @@
 {
   "wersja_rejestru": "2.7",
-  "zaktualizowano": "2026-10-25",
+  "zaktualizowano": "2026-10-27",
   "dokumenty": {
     "doc-ev-szp-2023": {
       "tytul": "Standardowe zasady postępowania podczas zdarzeń z samochodami z napędem elektrycznym oraz hybrydowym",
@@ -1030,6 +1030,19 @@
       "liczba_stron": 3,
       "sha256": "3eeeab56462b7a8c385ffb232dfd80e7eee272de147d1322800258825fbe8e58",
       "uwagi": "Zapis strony https://chemicalsafety.ilo.org/dyn/icsc/showcard.display?p_card_id=0492&p_version=2&p_lang=pl do PDF z 25.10.2026. Zastępuje kartę charakterystyki EKOS z 2006 r."
+    },
+    "doc-zasady-drogi-2012": {
+      "id": "doc-zasady-drogi-2012",
+      "tytul": "Zasady postępowania jednostek ochrony przeciwpożarowej w związku ze zdarzeniami na drogach",
+      "wersja": "Listopad 2012",
+      "data_wydania": "2012-11",
+      "rodzaj": "Zasady KG PSP",
+      "plik": "dokumenty/techniczne/zasady-postepowania-zdarzenia-na-drogach-2012-11.pdf",
+      "status_techniczny": "aktywny",
+      "aktualnosc_merytoryczna": "zweryfikowano_2026-10-27",
+      "liczba_stron": 15,
+      "sha256": "6654b00b40c37abf6ca6b6807104e12202e7710111b2bab4fe2e4a0cba76bd21",
+      "uwagi": "Skan. Pobrano z gov.pl (KG PSP: Ratownictwo techniczne i Dokumentacja operacyjna), https://www.gov.pl/attachment/34e03b76-dd35-47e1-a905-cda114d39eb4. Przywołane przepisy (np. rozporządzenie o KSRG z 2011 r.) częściowo nieaktualne – karta nie cytuje paragrafów. Uzupełniająco na tej samej stronie: porozumienie PSP–GDDKiA (2017)."
     }
   }
 }
