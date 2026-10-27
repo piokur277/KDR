@@ -1,0 +1,250 @@
+{
+  "id": "KARTA-ORG-ZASADY-KIEROWANIA-DZIALANIEM-RATOWNICZYM",
+  "wzorzec": 2,
+  "kategoria": "dzialania",
+  "grupa": "org",
+  "zrodlo": "Rozporządzenie MSWiA z 24.06.2026 w sprawie szczegółowej organizacji KSRG (Dz.U. 2026 poz. 872), rozdział 6 — obowiązuje od 01.07.2026, zastąpiło rozporządzenie z 17.09.2021 (Dz.U. 2021 poz. 1737)",
+  "data_aktualizacji": "2026-10-27",
+  "slowo_kluczowe": "poziomy kierowania działaniem ratowniczym",
+  "keywords": [
+    "kierowanie interwencyjne",
+    "kierowanie taktyczne",
+    "kierowanie strategiczne",
+    "kolejność przejmowania kierowania",
+    "przejęcie kierowania",
+    "kto przejmuje kierowanie",
+    "rozporządzenie ksrg 2026",
+    "koordynator medycznych działań ratowniczych",
+    "dowódca odcinka bojowego"
+  ],
+  "aliasy": [
+    "kierowanie interwencyjne",
+    "kierowanie taktyczne",
+    "kierowanie strategiczne",
+    "kolejność przejmowania kierowania",
+    "przejęcie kierowania",
+    "kto przejmuje kierowanie",
+    "rozporządzenie ksrg 2026",
+    "koordynator medycznych działań ratowniczych",
+    "dowódca odcinka bojowego"
+  ],
+  "prefix": "Poziomy kierowania działaniem ratowniczym, kolejność przejmowania i zadania KDR — rozporządzenie MSWiA w sprawie KSRG z 24.06.2026 (od 01.07.2026).",
+  "najpierw": [
+    {
+      "t": "Przejęcie kierowania interwencyjnego, taktycznego lub strategicznego zgłoś do właściwego SK i odnotuj w dokumentacji.",
+      "zr": "Rozp. KSRG 2026",
+      "str": 15
+    },
+    {
+      "t": "Kierujący działaniem ratowniczym musi być oznakowany w sposób widoczny dla innych uczestników działań.",
+      "zr": "Rozp. KSRG 2026",
+      "str": 12
+    },
+    {
+      "t": "Zdarzenie CBRNE: zabezpieczenie dowodów może mieć priorytet przed działaniami niezwiązanymi z bezpośrednim ratowaniem życia — decyzja w uzgodnieniu z kierującym działaniami antyterrorystycznymi.",
+      "zr": "Rozp. KSRG 2026",
+      "str": 12
+    },
+    {
+      "t": "Kierowanie ustaje po przekazaniu poszkodowanych PRM oraz terenu lub obiektu właścicielowi, zarządcy, organowi, Policji lub straży gminnej; gdy nie ma komu — zgłoś to do SK.",
+      "zr": "Rozp. KSRG 2026",
+      "str": 12
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "Interwencyjny",
+      "wartosc": "w strefie zagrożenia lub działań · siły do 1 kompanii",
+      "zr": "Rozp. KSRG 2026",
+      "str": 12
+    },
+    {
+      "nazwa": "Taktyczny",
+      "wartosc": "na granicy strefy lub poza nią · siły do 1 batalionu albo z co najmniej jedną specjalistyczną grupą ratowniczą",
+      "zr": "Rozp. KSRG 2026",
+      "str": 12
+    },
+    {
+      "nazwa": "Strategiczny",
+      "wartosc": "siły powyżej 1 batalionu albo odwody operacyjne (wojewódzkie, centralny) powyżej 1 kompanii",
+      "zr": "Rozp. KSRG 2026",
+      "str": 12
+    },
+    {
+      "nazwa": "Kolejność — interwencyjny",
+      "wartosc": "strażak ratownik OSP → komendant gminny (jeśli strażak ratownik OSP) → strażak JOP → dowódca zastępu PSP → dowódca sekcji → zastępca dowódcy zmiany → dowódca zmiany → zastępca dowódcy JRG → dowódca JRG",
+      "zr": "Rozp. KSRG 2026",
+      "str": 12
+    },
+    {
+      "nazwa": "Kolejność — taktyczny",
+      "wartosc": "zastępca dowódcy JRG → dowódca JRG → oficer lub aspirant wyznaczony przez KP/KM → zastępca KP/KM → KP/KM",
+      "zr": "Rozp. KSRG 2026",
+      "str": 13
+    },
+    {
+      "nazwa": "Kolejność — strategiczny",
+      "wartosc": "oficer wyznaczony przez KW → zastępca KW → KW → oficer wyznaczony przez KG → zastępca KG → KG",
+      "zr": "Rozp. KSRG 2026",
+      "str": 13
+    }
+  ],
+  "sekcje": [
+    {
+      "etykieta": "Zasady przejmowania",
+      "punkty": [
+        {
+          "t": "Brak uprawnionego ratownika JOP — kierowanie interwencyjne przejmuje ratownik podmiotu KSRG niebędącego JOP.",
+          "zr": "Rozp. KSRG 2026",
+          "str": 13
+        },
+        {
+          "t": "Specjalistyczna grupa ratownicza — kierowanie interwencyjne w jej części zadań organizuje jej dowódca.",
+          "zr": "Rozp. KSRG 2026",
+          "str": 13
+        },
+        {
+          "t": "Kilka osób tej samej hierarchii — kierowanie przejmuje osoba, dla której miejsce zdarzenia jest przyporządkowane administracyjnie.",
+          "zr": "Rozp. KSRG 2026",
+          "str": 15
+        },
+        {
+          "t": "Uruchomienie kierowania wyższego poziomu nie zmniejsza obowiązków kierujących na niższym poziomie.",
+          "zr": "Rozp. KSRG 2026",
+          "str": 15
+        },
+        {
+          "t": "Zakłady ze służbą ratowniczą lub strażą zakładową — kierowanie interwencyjne i taktyczne wg planów działań ratowniczych zakładu.",
+          "zr": "Rozp. KSRG 2026",
+          "str": 15
+        }
+      ]
+    },
+    {
+      "etykieta": "Kierowanie interwencyjne — zadania",
+      "punkty": [
+        {
+          "t": "Rodzaj zagrożeń i strefa zagrożenia; zadania dla rot i pododdziałów; poszukiwanie poszkodowanych i medyczne działania ratownicze.",
+          "zr": "Rozp. KSRG 2026",
+          "str": 14
+        },
+        {
+          "t": "Ewakuacja ludności i zwierząt, dekontaminacja wstępna, kontrola czasu pracy w ubraniach ochronnych i sprzęcie ochrony układu oddechowego.",
+          "zr": "Rozp. KSRG 2026",
+          "str": 14
+        },
+        {
+          "t": "Łączność, zapotrzebowanie na siły i środki, wsparcie logistyczne, meldunki do SK, współdziałanie z KMDR, KAM, mediami i innymi podmiotami.",
+          "zr": "Rozp. KSRG 2026",
+          "str": 14
+        }
+      ]
+    },
+    {
+      "etykieta": "Kierowanie taktyczne — zadania",
+      "punkty": [
+        {
+          "t": "Prowadzone ze stałego lub ruchomego stanowiska dowodzenia, z którego można ocenić rozwój sytuacji.",
+          "zr": "Rozp. KSRG 2026",
+          "str": 13
+        },
+        {
+          "t": "Podział na odcinki bojowe i zadania dla ich dowódców; oznakowane miejsce kierowania; zmiany sił w strefie; punkty przyjęcia sił i środków.",
+          "zr": "Rozp. KSRG 2026",
+          "str": 14
+        },
+        {
+          "t": "Współdziałanie z mediami albo wyznaczenie oficera prasowego; ograniczanie skutków stresu pourazowego ratowników.",
+          "zr": "Rozp. KSRG 2026",
+          "str": 14
+        }
+      ]
+    },
+    {
+      "etykieta": "Sztab",
+      "punkty": [
+        {
+          "t": "KDR poziomu interwencyjnego i taktycznego może powołać sztab; na poziomie strategicznym powołanie sztabu należy do zadań kierującego.",
+          "zr": "Rozp. KSRG 2026",
+          "str": 15
+        },
+        {
+          "t": "Nowe zadanie sztabu: zbieranie danych o warunkach ochrony ppoż. obiektu — dojazd, zaopatrzenie w wodę, zabezpieczenia, instrukcja bezpieczeństwa pożarowego, plany i dokumentacja.",
+          "zr": "Rozp. KSRG 2026",
+          "str": 16
+        }
+      ]
+    },
+    {
+      "etykieta": "Medyczne działania ratownicze",
+      "punkty": [
+        {
+          "t": "Do przybycia ZRM lub LZRM KDR może wskazać koordynatora medycznych działań ratowniczych — osobę z kwalifikacjami do udzielania świadczeń zdrowotnych.",
+          "zr": "Rozp. KSRG 2026",
+          "str": 11
+        },
+        {
+          "t": "Po przybyciu ZRM koordynację przejmuje kierujący akcją medyczną.",
+          "zr": "Rozp. KSRG 2026",
+          "str": 11
+        }
+      ]
+    },
+    {
+      "etykieta": "Zmiany od 01.07.2026 (względem 2021)",
+      "punkty": [
+        {
+          "t": "Interwencyjny: „strażak ratownik OSP” zamiast „członek OSP”; taktyczny i strategiczny: dodani zastępcy komendantów (KP/KM, KW, KG).",
+          "zr": "Rozp. KSRG 2026",
+          "str": 12
+        },
+        {
+          "t": "Poziom strategiczny dla odwodów operacyjnych dopiero powyżej 1 kompanii.",
+          "zr": "Rozp. KSRG 2026",
+          "str": 12
+        },
+        {
+          "t": "Nowe definicje: odcinek bojowy, dowódca odcinka bojowego, obszar chroniony.",
+          "zr": "Rozp. KSRG 2026",
+          "str": 2
+        },
+        {
+          "t": "Plany ratownicze sporządzone wg rozporządzenia z 2021 r. zachowują ważność 1 rok od ostatniej aktualizacji, nie dłużej niż do 30.06.2027.",
+          "zr": "Rozp. KSRG 2026",
+          "str": 24
+        },
+        {
+          "t": "Dokumentacja KG PSP (m.in. organizowanie działań ratowniczych) wydana na podstawie rozporządzenia z 2021 r. zachowuje ważność do czasu aktualizacji.",
+          "zr": "Rozp. KSRG 2026",
+          "str": 24
+        }
+      ]
+    }
+  ],
+  "wsparcie": [
+    {
+      "t": "KDR może korzystać z wiedzy ekspertów i specjalistów do spraw ratownictwa wpisanych do wykazu z art. 14fa ustawy o ochronie przeciwpożarowej.",
+      "zr": "Rozp. KSRG 2026",
+      "str": 11
+    }
+  ],
+  "nie_rob": [
+    {
+      "t": "Nie stosuj tych zasad kierowania do działań prowadzonych na podstawie prawa lotniczego, morskiego, górniczego ani w ratownictwie górskim i narciarskim.",
+      "zr": "Rozp. KSRG 2026",
+      "str": 16
+    }
+  ],
+  "tagi_wspolne": [
+    "kierowanie działaniem ratowniczym",
+    "KSRG"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-rozp-ksrg-2026",
+      "strona": 12,
+      "sekcja": "Rozdział 6 — Kierowanie działaniem ratowniczym (§ 21–30, s. 12–16); § 2 definicje (s. 2); § 18–19 (s. 11); § 57 (s. 24)"
+    }
+  ],
+  "data_przegladu": "2026-10-27"
+}

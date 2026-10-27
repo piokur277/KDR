@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-27T15:00:05.973Z",
+  "generated_at": "2026-10-27T18:43:32.388Z",
   "registry_version": "2.7",
-  "document_count": 86,
-  "active_document_count": 86,
-  "linked_document_count": 86,
+  "document_count": 87,
+  "active_document_count": 87,
+  "linked_document_count": 87,
   "unlinked_documents": [],
   "documents": [
     {
@@ -1712,6 +1712,20 @@
           "procedure_id": "KARTA-WYS-RATOWNICTWO-WYSOKOSCIOWE",
           "strona": 6,
           "sekcja": "Część 2 (s. 6–10), część 3 — SGRW (s. 10–20)"
+        }
+      ]
+    },
+    {
+      "id": "doc-rozp-ksrg-2026",
+      "tytul": "Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 24 czerwca 2026 r. w sprawie szczegółowej organizacji krajowego systemu ratowniczo-gaśniczego",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 68,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-ORG-ZASADY-KIEROWANIA-DZIALANIEM-RATOWNICZYM",
+          "strona": 12,
+          "sekcja": "Rozdział 6 — Kierowanie działaniem ratowniczym (§ 21–30, s. 12–16); § 2 definicje (s. 2); § 18–19 (s. 11); § 57 (s. 24)"
         }
       ]
     }
