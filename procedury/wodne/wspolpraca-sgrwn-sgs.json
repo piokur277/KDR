@@ -1,0 +1,145 @@
+{
+  "id": "KARTA-WOD-WSPOLPRACA-SGRWN-SGS",
+  "wzorzec": 2,
+  "kategoria": "dzialania",
+  "grupa": "wod",
+  "zrodlo": "KG PSP: Zasady organizacji ratownictwa wodno-nurkowego w KSRG, Warszawa, 12.08.2026 (zastępują zasady ratownictwa wodnego z 2020 r.)",
+  "data_aktualizacji": "2026-10-27",
+  "slowo_kluczowe": "wspolpraca kdr z sgrw-n",
+  "keywords": [
+    "sgrw-n",
+    "grupa wodno-nurkowa",
+    "nurkowie psp",
+    "sgs",
+    "grupa sonarowa",
+    "sonar",
+    "wypadek nurkowy"
+  ],
+  "aliasy": [
+    "sgrw-n",
+    "grupa wodno-nurkowa",
+    "nurkowie psp",
+    "sgs",
+    "grupa sonarowa",
+    "sonar",
+    "wypadek nurkowy"
+  ],
+  "prefix": "Współpraca KDR ze specjalistyczną grupą wodno-nurkową (SGRW-N) i sonarową (SGS) — poziomy, zadania KDR, dowodzenie (Zasady KG PSP 2026).",
+  "najpierw": [
+    {
+      "t": "Przed przybyciem SGRW-N: rozpoznanie, oznakowanie miejsca zdarzenia na wodzie, wskazanie miejsca wodowania łodzi.",
+      "zr": "RW-N 2026",
+      "str": 45
+    },
+    {
+      "t": "Zapewnij grupie strefę pracy i dostęp do akwenu; nadzoruj bezpieczeństwo miejsca do jej przybycia.",
+      "zr": "RW-N 2026",
+      "str": 45
+    },
+    {
+      "t": "Przy ratowaniu życia SK uwzględnia najszybszy transport grupy (także lotniczy).",
+      "zr": "RW-N 2026",
+      "str": 61
+    },
+    {
+      "t": "SGRW-N i SGS tworzą odrębny odcinek bojowy.",
+      "zr": "RW-N 2026",
+      "str": 60
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "Status działań ratowniczych",
+      "wartosc": "człowiek pod wodą bez dostępu powietrza do 120 min; później — działania wspomagające (niepilne)",
+      "zr": "RW-N 2026",
+      "str": 60
+    },
+    {
+      "nazwa": "SGRW-N poziom A",
+      "wartosc": "ratowanie życia: tonący, wypadki na wodzie, pod lodem · min. 2 ratowników + kierowca · niezwłocznie",
+      "zr": "RW-N 2026",
+      "str": 16
+    },
+    {
+      "nazwa": "SGRW-N AB / ABC / ABCchem",
+      "wartosc": "+ ratownictwo techniczne pod wodą, lokalizacja obiektów · ABC: min. 5 ratowników, ≤ 60 min · ABCchem: wody skażone",
+      "zr": "RW-N 2026",
+      "str": 16
+    },
+    {
+      "nazwa": "SGS",
+      "wartosc": "A — sonar holowany · B — sonar dookólny, naprowadzanie nurka · C — pojazd podwodny ROV · min. 3 ratowników",
+      "zr": "RW-N 2026",
+      "str": 17
+    }
+  ],
+  "sekcje": [
+    {
+      "etykieta": "Dowodzenie",
+      "punkty": [
+        {
+          "t": "Pracami podwodnymi przy ratowaniu życia kieruje dowodzący działaniami SGRW-N (DDR), podległy KDR poziomu taktycznego.",
+          "zr": "RW-N 2026",
+          "str": 60
+        },
+        {
+          "t": "Kilka SGRW-N na jednym odcinku — dowodzi nurek o najwyższych kwalifikacjach; przy równych kwalifikacjach wyznacza go KDR.",
+          "zr": "RW-N 2026",
+          "str": 62
+        },
+        {
+          "t": "DDR SGRW-N analizuje ryzyko i decyduje o podjęciu lub odstąpieniu od prac podwodnych; może powiększyć skład lub zgłosić potrzebę kolejnej grupy.",
+          "zr": "RW-N 2026",
+          "str": 62
+        },
+        {
+          "t": "Prace ratownicze: min. 2 młodszych nurków; jeden pełni funkcję DDR lub nurka asekuracyjnego.",
+          "zr": "RW-N 2026",
+          "str": 62
+        }
+      ]
+    },
+    {
+      "etykieta": "Po upływie czasu ratowniczego",
+      "punkty": [
+        {
+          "t": "Gdy działania nurkowe tracą status ratowniczych — KDR uzyskuje od SK, które dysponowało grupę, zgodę na kontynuację jako poszukiwawczych.",
+          "zr": "RW-N 2026",
+          "str": 61
+        }
+      ]
+    },
+    {
+      "etykieta": "Wypadek nurkowy",
+      "punkty": [
+        {
+          "t": "Zabezpieczenie medyczne prac podwodnych: zestaw R-1, min. 1500 l tlenu, AED.",
+          "zr": "RW-N 2026",
+          "str": 63
+        },
+        {
+          "t": "O transporcie do komory dekompresyjnej decyduje kierownik ZRM; przy transporcie lotniczym lądowisko przygotowuje KDR.",
+          "zr": "RW-N 2026",
+          "str": 63
+        },
+        {
+          "t": "Konsultacje: Krajowy Ośrodek Medycyny Hiperbarycznej w Gdyni, tel. całodobowy (58) 622 51 63.",
+          "zr": "RW-N 2026",
+          "str": 63
+        }
+      ]
+    }
+  ],
+  "tagi_wspolne": [
+    "ratownictwo wodne",
+    "SGRW-N"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-rwn-2026",
+      "strona": 15,
+      "sekcja": "Część 3 — SGRW-N i SGS (s. 15–19), zał. 2 (s. 45), zał. 11 — prace podwodne (s. 60–63)"
+    }
+  ],
+  "data_przegladu": "2026-10-27"
+}

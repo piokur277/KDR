@@ -1082,6 +1082,32 @@
       "liczba_stron": 20,
       "sha256": "4f082162fc9e1726f57ef4bb41af5c60b951ed19ae6b130ee3a9ebb88bb4e576",
       "uwagi": "Skan. Pobrano z gov.pl (KG PSP: Działania poszukiwawczo-ratownicze – zasady), https://www.gov.pl/attachment/59ec5a52-70b4-448b-932c-d0a90555d921."
+    },
+    "doc-rwn-2026": {
+      "id": "doc-rwn-2026",
+      "tytul": "Zasady organizacji ratownictwa wodno-nurkowego w krajowym systemie ratowniczo-gaśniczym",
+      "wersja": "12.08.2026 (zastępuje zasady ratownictwa wodnego z 12.2020)",
+      "data_wydania": "2026-08",
+      "rodzaj": "Zasady KG PSP",
+      "plik": "dokumenty/wodne/zasady-ratownictwa-wodno-nurkowego-2026-08.pdf",
+      "status_techniczny": "aktywny",
+      "aktualnosc_merytoryczna": "zweryfikowano_2026-10-27",
+      "liczba_stron": 89,
+      "sha256": "c2665b4744882595f693e17b49961a860e55736567cfa2221a626b1351925a98",
+      "uwagi": "Pobrano z gov.pl (KG PSP), https://www.gov.pl/attachment/3e623c2c-c0bb-44e5-8e18-4e50f373339b."
+    },
+    "doc-rwys-2024": {
+      "id": "doc-rwys-2024",
+      "tytul": "Zasady organizacji ratownictwa wysokościowego w krajowym systemie ratowniczo-gaśniczym",
+      "wersja": "12.04.2024 (zastępuje wydanie z 09.2020)",
+      "data_wydania": "2024-04",
+      "rodzaj": "Zasady KG PSP",
+      "plik": "dokumenty/wysokosciowe/zasady-ratownictwa-wysokosciowego-2024-04.pdf",
+      "status_techniczny": "aktywny",
+      "aktualnosc_merytoryczna": "zweryfikowano_2026-10-27",
+      "liczba_stron": 77,
+      "sha256": "3bad1e97cc959f462bfbaff297ce9d513087b4dcfb76c8492fff884762919cb2",
+      "uwagi": "Pobrano z gov.pl (KG PSP), https://www.gov.pl/attachment/4ab892ae-f760-4bfc-af6c-b118fa9843fd."
     }
   }
 }
