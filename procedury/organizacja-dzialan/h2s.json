@@ -1,8 +1,10 @@
 {
   "id": "KARTA-ORG-H2S-WARTOSCI-GRANICZNE",
+  "wzorzec": 2,
   "kategoria": "substancja",
-  "zrodlo": "SDS 016 ALP Siarkowodor v4.1, Air Liquide Polska / Alkat",
-  "data_aktualizacji": "2022-12-13",
+  "grupa": "cbrn",
+  "zrodlo": "Air Liquide Polska / Alkat: Karta charakterystyki — Siarkowodór, Siarkowodór N25, wersja 4.1 (2022-12-13).",
+  "data_aktualizacji": "2026-10-27",
   "slowo_kluczowe": "siarkowodor",
   "keywords": [
     "h2s",
@@ -20,13 +22,6 @@
     "adr 263",
     "2tf"
   ],
-  "prefix": "H2S / Siarkowodor - karta zagrozenia operacyjnego.",
-  "content": "1. KOD / NAZWA: H2S - siarkowodor; UN 1053; ADR klasa 2, kod klasyfikacyjny 2TF, nr rozpoznawczy zagrozenia 263.\n2. ROZPOZNANIE: bezbarwny, skrajnie latwopalny i silnie toksyczny gaz o zapachu zgnilych jaj; prog zapachu jest niewystarczajacy do ostrzegania przed nadmiernym narazeniem, a przy wyzszych stezeniach moze dojsc do porazenia wechu. Gaz jest ciezszy od powietrza i moze gromadzic sie w przestrzeniach zamknietych oraz ponizej poziomu terenu.\n3. STREFA: brak jednej liczbowej strefy w SDS; unikaj kanalow, piwnic i zaglebien terenu. Przy wycieku ewakuowac teren, zapobiegac gromadzeniu sie gazu w obnieniach i monitorowac stezenie uwolnionego produktu.\n4. SOI: przy dzialaniach ratowniczych stosowac izolujacy aparat oddechowy przy wejsciu w obszar zagrozenia, o ile atmosfera nie zostala potwierdzona jako bezpieczna. Dla strazy pozarnej zalecana odziez ochronna gazoszczelna i odporna na chemikalia wraz z izolujacym aparatem oddechowym. Przy przeladunku i rozlaczaniu polaczen stosowac gogle, rekawice robocze, rekawice chroniace przed zimnem oraz obuwie ochronne; rozwazyc odziez trudnopalna i antyelektrostatyczna.\n5. DZIALANIA KRYTYCZNE: probowac zatrzymac wyciek, ewakuowac teren, wyeliminowac wszystkie zrodla zaplonu, zapewnic wentylacje, nie dopuscic do przedostania sie gazu do kanalizacji i zaglebien terenu, monitorowac stezenie produktu. Do wejscia w strefe stosowac izolujacy aparat oddechowy, chyba ze potwierdzono bezpieczna atmosfere.\n6. PROCEDURA SZCZEGOLOWA: produkt powinien byc stosowany w systemie zamknietym i przy odpowiedniej wentylacji ogolnej oraz miejscowej; instalacje powinny byc szczelne i regularnie sprawdzane. Detektory nalezy stosowac tam, gdzie moze dojsc do uwolnienia gazu toksycznego. W razie pozaru preferowana jest kontrola przez odciecie zrodla gazu; stosowac mgle wodna lub drobno rozproszony strumien wody, suchy proszek albo CO2. Nie stosowac silnego strumienia wody. Nie gasic plomienia wyplywajacego gazu, jezeli nie mozna bezpiecznie zahamowac wycieku. Chlodzic zagrozone pojemniki strumieniem rozpylonej wody z bezpiecznego miejsca.\n7. WARTOSCI GRANICZNE I PARAMETRY: NDS 7 mg/m3; NDSCh 14 mg/m3. DGW 3,9% obj.; GGW 45,5% obj.; temperatura samozaplonu 270 C; wzgledna gestosc pary 1,2.\n8. GLOWNE ZAGROZENIA: wdychanie grozi smiercia, moze powodowac podraznienie drog oddechowych, uszkodzenie centralnego ukladu nerwowego przy narazeniu powtarzanym oraz bardzo toksyczne oddzialywanie na organizmy wodne. Narazenie na ogien moze spowodowac rozerwanie lub wybuch pojemnika.\n9. CO MOZE POJSC NIE TAK: oparcie rozpoznania tylko na zapachu, wejscie bez izolujacego aparatu oddechowego, dopuszczenie do nagromadzenia gazu w obnieniach, gaszenie plomienia bez zatrzymania wycieku oraz uzycie silnego strumienia wody.\n10. UWAGI OPERACYJNE: w przypadku dostania sie do drog oddechowych wyprowadzic poszkodowanego na swieze powietrze, zapewnic warunki do odpoczynku i natychmiast uzyskac pomoc lekarska. W przypadku zaniku oddechu prowadzic resuscytacje. Kontakt z ciecza moze powodowac poparzenia zimnem i odmrozenia.",
-  "tagi_wspolne": [
-    "siarkowodor",
-    "h2s",
-    "substancja chemiczna"
-  ],
   "aliasy": [
     "h2s",
     "wartosci graniczne h2s",
@@ -43,11 +38,121 @@
     "adr 263",
     "2tf"
   ],
+  "prefix": "Siarkowodór (H2S) — gaz skrajnie łatwopalny i silnie toksyczny: UN 1053, NDS/NDSCh, granice wybuchowości, wyciek i pożar (karta charakterystyki 2022).",
+  "najpierw": [
+    {
+      "t": "Przy wejściu w obszar stosuj izolujący aparat oddechowy, chyba że potwierdzono bezpieczną atmosferę.",
+      "zr": "SDS H2S 4.1",
+      "str": 4
+    },
+    {
+      "t": "Ewakuuj teren, usuń źródła zapłonu, próbuj zatrzymać wyciek, monitoruj stężenie.",
+      "zr": "SDS H2S 4.1",
+      "str": 4
+    },
+    {
+      "t": "Nie dopuść gazu do kanalizacji, piwnic i zagłębień — gaz cięższy od powietrza gromadzi się nisko i w przestrzeniach zamkniętych.",
+      "zr": "SDS H2S 4.1",
+      "str": 4
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "Identyfikacja",
+      "wartosc": "UN 1053 · ADR kl. 2, kod 2TF · nr zagrożenia 263",
+      "zr": "SDS H2S 4.1",
+      "str": 10
+    },
+    {
+      "nazwa": "NDS / NDSCh",
+      "wartosc": "7 mg/m³ / 14 mg/m³",
+      "zr": "SDS H2S 4.1",
+      "str": 5
+    },
+    {
+      "nazwa": "Granice wybuchowości",
+      "wartosc": "DGW 3,9% · GGW 45,5% obj.; samozapłon 270°C",
+      "zr": "SDS H2S 4.1",
+      "str": 7
+    },
+    {
+      "nazwa": "Zapach",
+      "wartosc": "zepsute jajka — słabe właściwości ostrzegawcze, próg zapachu niewystarczający",
+      "zr": "SDS H2S 4.1",
+      "str": 7
+    },
+    {
+      "nazwa": "Klasyfikacja",
+      "wartosc": "H220 skrajnie łatwopalny, H330 wdychanie grozi śmiercią, H335, H400",
+      "zr": "SDS H2S 4.1",
+      "str": 2
+    }
+  ],
+  "sekcje": [
+    {
+      "etykieta": "Pożar",
+      "punkty": [
+        {
+          "t": "Preferowane odcięcie źródła gazu; gaś mgłą wodną, drobno rozproszoną wodą, proszkiem lub CO₂.",
+          "zr": "SDS H2S 4.1",
+          "str": 3
+        },
+        {
+          "t": "Nie gaś płomienia wypływającego gazu, chyba że to absolutnie konieczne — groźba wybuchowego ponownego zapłonu.",
+          "zr": "SDS H2S 4.1",
+          "str": 3
+        },
+        {
+          "t": "Chłodź zagrożone pojemniki rozpyloną wodą z bezpiecznego miejsca; produkt spalania: ditlenek siarki.",
+          "zr": "SDS H2S 4.1",
+          "str": 3
+        },
+        {
+          "t": "Strażacy: odzież gazoszczelna odporna na chemikalia (EN 943-2) + izolujący aparat oddechowy (EN 137).",
+          "zr": "SDS H2S 4.1",
+          "str": 3
+        }
+      ]
+    },
+    {
+      "etykieta": "Skutki i pierwsza pomoc",
+      "punkty": [
+        {
+          "t": "Podrażnienie dróg oddechowych, możliwe skutki dla OUN; długotrwałe niskie stężenia — obrzęk płuc.",
+          "zr": "SDS H2S 4.1",
+          "str": 3
+        },
+        {
+          "t": "Wdychanie: w aparacie izolującym wynieś poszkodowanego, ciepło i spokój, lekarz; brak oddechu — RKO.",
+          "zr": "SDS H2S 4.1",
+          "str": 3
+        }
+      ]
+    }
+  ],
+  "nie_rob": [
+    {
+      "t": "Nie stosuj silnego strumienia wody do gaszenia.",
+      "zr": "SDS H2S 4.1",
+      "str": 3
+    },
+    {
+      "t": "CO₂ nie w atmosferze wybuchowej — elektryczność statyczna.",
+      "zr": "SDS H2S 4.1",
+      "str": 3
+    }
+  ],
+  "tagi_wspolne": [
+    "siarkowodor",
+    "h2s",
+    "substancja chemiczna"
+  ],
   "dokumenty_zrodlowe": [
     {
       "dokument_id": "doc-sds-h2s-4-1",
-      "strona": 1,
-      "sekcja": "Karta charakterystyki H2S"
+      "strona": 3,
+      "sekcja": "Sekcje 2, 4–6, 8, 9, 14 (s. 2–10)"
     }
-  ]
+  ],
+  "data_przegladu": "2026-10-27"
 }

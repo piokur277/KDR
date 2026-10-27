@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T19:19:43.349Z",
+  "generated_at": "2026-10-27T19:29:18.700Z",
   "registry_version": "2.7",
   "document_count": 86,
   "active_document_count": 86,
@@ -68,8 +68,8 @@
       "powiazania": [
         {
           "procedure_id": "KARTA-ORG-H2S-WARTOSCI-GRANICZNE",
-          "strona": 1,
-          "sekcja": "Karta charakterystyki H2S"
+          "strona": 3,
+          "sekcja": "Sekcje 2, 4–6, 8, 9, 14 (s. 2–10)"
         }
       ]
     },
@@ -83,7 +83,7 @@
         {
           "procedure_id": "KARTA-CHEM-B1-ZAGROZENIE-BIOLOGICZNE-GR3-GR4",
           "strona": 1,
-          "sekcja": "Załącznik B.1"
+          "sekcja": "Załącznik B.1 (s. 1–3)"
         }
       ]
     },
@@ -97,7 +97,7 @@
         {
           "procedure_id": "KARTA-CHEM-B22-PODEJRZANA-PRZESYLKA-CBR",
           "strona": 1,
-          "sekcja": "Zasady działań PSP - Załącznik B.2"
+          "sekcja": "Załącznik B.2 — zasady działań PSP (s. 1–8)"
         }
       ]
     },
@@ -110,8 +110,8 @@
       "powiazania": [
         {
           "procedure_id": "KARTA-CHEM-B22-PODEJRZANA-PRZESYLKA-CBR",
-          "strona": 1,
-          "sekcja": "Procedura dla instytucji - Załącznik B.2.1"
+          "strona": 2,
+          "sekcja": "Załącznik B.2.1 — cechy przesyłki (s. 2)"
         }
       ]
     },
@@ -125,7 +125,7 @@
         {
           "procedure_id": "KARTA-CHEM-B22-PODEJRZANA-PRZESYLKA-CBR",
           "strona": 1,
-          "sekcja": "Algorytm B.2.2"
+          "sekcja": "Załącznik B.2.2 — algorytm (s. 1)"
         }
       ]
     },
@@ -139,7 +139,7 @@
         {
           "procedure_id": "KARTA-CHEM-R1-OCHRONA-RADIOLOGICZNA",
           "strona": 1,
-          "sekcja": "Ochrona radiologiczna - podstawowe informacje"
+          "sekcja": "Załącznik R.1 (s. 1–8)"
         }
       ]
     },
@@ -240,8 +240,8 @@
       "powiazania": [
         {
           "procedure_id": "KARTA-ORG-CHLOROWODOR-WARTOSCI-GRANICZNE",
-          "strona": 1,
-          "sekcja": "Karta charakterystyki HCl"
+          "strona": 3,
+          "sekcja": "Sekcje 2, 4–6, 8, 9, 14 (s. 2–10)"
         }
       ]
     },
@@ -342,7 +342,7 @@
         {
           "procedure_id": "KARTA-CHEM-R2-ZDARZENIA-RADIACYJNE-ZAKRES-PODSTAWOWY",
           "strona": 1,
-          "sekcja": "Załącznik R.2 - zakres podstawowy"
+          "sekcja": "Załącznik R.2 (s. 1–6)"
         }
       ]
     },
@@ -1274,7 +1274,7 @@
         {
           "procedure_id": "KARTA-CHEM-B22-PODEJRZANA-PRZESYLKA-CBR",
           "strona": 1,
-          "sekcja": "Checklista - zadania dla pierwszych PSP i rozpoznanie przesyłki"
+          "sekcja": "Materiał pomocniczy użytkownika (s. 1–2)"
         }
       ]
     },

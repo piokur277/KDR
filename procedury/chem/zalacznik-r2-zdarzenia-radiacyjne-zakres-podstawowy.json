@@ -1,8 +1,10 @@
 {
   "id": "KARTA-CHEM-R2-ZDARZENIA-RADIACYJNE-ZAKRES-PODSTAWOWY",
+  "wzorzec": 2,
   "kategoria": "dzialania",
-  "zrodlo": "Zalacznik nr R.2. Ochrona radiologiczna oraz dzialania podczas zdarzen radiacyjnych - zakres podstawowy",
-  "data_aktualizacji": "",
+  "grupa": "cbrn",
+  "zrodlo": "KG PSP: Załącznik nr R.2 do Zasad organizacji ratownictwa chemicznego i ekologicznego w KSRG (KG PSP, 2025) — działania podczas zdarzeń radiacyjnych, zakres podstawowy.",
+  "data_aktualizacji": "2026-10-27",
   "slowo_kluczowe": "dzialania podstawowe zdarzenie radiacyjne",
   "keywords": [
     "zdarzenie radiacyjne zakres podstawowy",
@@ -16,14 +18,6 @@
     "pozar materialu promieniotworczego",
     "pozar z materialem promieniotworczym"
   ],
-  "prefix": "Zalacznik R2 - Dzialania podczas zdarzen radiacyjnych w zakresie podstawowym.",
-  "content": "1. KOD / NAZWA: R2 - dzialania podczas zdarzen radiacyjnych w zakresie podstawowym.\n2. ROZPOZNANIE: zakres podstawowy KSRG obejmuje weryfikacje zgloszenia na miejscu, wykonanie pomiarow dozymetrycznych, wyznaczenie strefy I, zabezpieczenie instalacji i mediow, ewakuacje i ratowanie ludzi oraz zwierzat, dostosowanie technik i sprzetu do rodzaju zagrozenia oraz prowadzenie dekontaminacji wstepnej.\n3. STREFA: wyznacz strefe I wokol miejsca zdarzenia, a w obiektach za jej granice przyjmij sciany pomieszczenia lub budynku. Wyznacz tez strefe II dla punktu dowodzenia, zbiorki osob ewakuowanych i kwalifikowanej pierwszej pomocy. Minimalny zalecany promien strefy to 3 m, chyba ze pomiary na granicy wskazuja ponad 100 uSv/h - wtedy strefe nalezy powiekszac.\n4. SOI: przy uwolnieniu materialu promieniotworczego stosuj maksymalne srodki ochrony, minimum odziez zgodna z PN-EN 469 oraz filtrujacy sprzet ochrony ukladu oddechowego. Do strefy potencjalnie niebezpiecznej wprowadzaj minimalna liczbe ratownikow.\n5. DZIALANIA KRYTYCZNE: uruchom miernik mocy dawki i dawkomierz indywidualny przed zblizeniem, prowadz rozpoznanie z wiatrem, nie dotykaj ani nie przemieszczaj uszkodzonego pojemnika, wyznacz strefy i ewakuuj ludzi poza obszar narazenia.\n6. PROCEDURA SZCZEGOLOWA: osoby ewakuowane lub poszkodowane, ktore moga byc skazone promieniotworczo, nalezy rozebrac z odziezy, obuwia, bielizny i bizuterii, zabezpieczyc odziez w podwojnym worku i pozostawic w oznakowanym miejscu strefy kontrolowanej. Rejestruj czas przebywania ratownikow w strefie I oraz moc dawki, wykonuj dokumentacje fotograficzna i traktuj odziez oraz sprzet jako potencjalnie skazony odpad promieniotworczy do czasu oceny przez SGRChem. Przy pozarze wyznacz strefe zagrozenia o minimalnym promieniu 30 m; w pomieszczeniach zamknietych wprowadzaj jedna rote, a w obiektach otwartych rozwaz jednego ratownika z asekuracja. Preferuj proszek lub piane srednia/ciezka, a prady rozproszone wody stosuj tylko w szczegolnych przypadkach z bezpiecznej odleglosci.\n7. DAWKI I EWIDENCJA: do oszacowania dawki skutecznej stosuj wzor Dp = D x t, gdzie D jest moca dawki, a t czasem przebywania ratownika w polu promieniowania. Kazdy funkcjonariusz musi posiadac indywidualna karte ewidencyjna narazenia i prowadzic ewidencje dawek w uSv. Przy dawce jednorazowej lub sumarycznej 1000 uSv nalezy wdrozyc procedure medycyny pracy i powiadomien.\n8. CO MOZE POJSC NIE TAK: zbyt bliskie podejscie bez uruchomionego sprzetu dozymetrycznego, ewakuacja w miejsce stacjonowania sil i srodkow, wprowadzenie zbyt licznej obsady do strefy i uzycie zwartych pradow wody przy pozarze materialu promieniotworczego.\n9. UWAGI OPERACYJNE: przy pozarze pojazdu przewozacego materialy promieniotworcze czas pracy ratownika w strefie zagrozenia nie moze przekroczyc 30 minut. Weryfikacji oszacowanej dawki dokonuje dowodca SGRChem.",
-  "tagi_wspolne": [
-    "cbrne",
-    "radiacja",
-    "zdarzenie radiacyjne",
-    "pozar"
-  ],
   "aliasy": [
     "zdarzenie radiacyjne zakres podstawowy",
     "promieniowanie zakres podstawowy psp",
@@ -36,11 +30,146 @@
     "pozar materialu promieniotworczego",
     "pozar z materialem promieniotworczym"
   ],
+  "prefix": "Zdarzenie radiacyjne — zakres podstawowy: rozpoznanie, strefa 3 m / 100 µSv/h, pożar 30 m, dawki ratowników (zał. R.2).",
+  "najpierw": [
+    {
+      "t": "Dojazd z wiatrem; siły i środki min. 50 m od miejsca zdarzenia.",
+      "zr": "Zał. R.2",
+      "str": 2
+    },
+    {
+      "t": "Nie zbliżaj się bez włączonego miernika mocy dawki; uruchom dawkomierz indywidualny.",
+      "zr": "Zał. R.2",
+      "str": 2
+    },
+    {
+      "t": "Nie wiesz, czy materiał się uwolnił — przyjmij, że tak (pesymizacja): PN-EN 469 i min. filtrujący OUO.",
+      "zr": "Zał. R.2",
+      "str": 2
+    },
+    {
+      "t": "Nie dotykaj i nie przemieszczaj uszkodzonego pojemnika.",
+      "zr": "Zał. R.2",
+      "str": 3
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "Strefa I",
+      "wartosc": "min. 3 m; zwiększ, aż na granicy będzie ≤ 100 µSv/h; w budynku — ściany pomieszczenia",
+      "zr": "Zał. R.2",
+      "str": 3
+    },
+    {
+      "nazwa": "100 µSv/h dalej niż 1 m",
+      "wartosc": "nie podchodź do pojemnika",
+      "zr": "Zał. R.2",
+      "str": 4
+    },
+    {
+      "nazwa": "Pożar",
+      "wartosc": "strefa min. 30 m; pożar pojazdu — max 30 min pracy w strefie",
+      "zr": "Zał. R.2",
+      "str": 4
+    },
+    {
+      "nazwa": "Dawka 1000 µSv",
+      "wartosc": "jednorazowo: badania lekarskie i odsunięcie od strefy I do końca roku; zgłoszenie do KCKR w 3 dni",
+      "zr": "Zał. R.2",
+      "str": 6
+    }
+  ],
+  "sekcje": [
+    {
+      "etykieta": "Strefy i ewakuacja",
+      "punkty": [
+        {
+          "t": "Strefa II (z uwzględnieniem wiatru): punkt dowodzenia, zbiórka ewakuowanych, KPP.",
+          "zr": "Zał. R.2",
+          "str": 1
+        },
+        {
+          "t": "Nigdy nie ewakuuj ludzi w miejsce stacjonowania sił i środków.",
+          "zr": "Zał. R.2",
+          "str": 3
+        },
+        {
+          "t": "Ewakuowanych przekaż ZRM z informacją o podejrzeniu skażenia i pobycie w strefie > 100 µSv/h.",
+          "zr": "Zał. R.2",
+          "str": 2
+        },
+        {
+          "t": "Oznaki skażenia — zdejmij całe ubranie z butami i biżuterią; podwójny worek, oznakowane miejsce.",
+          "zr": "Zał. R.2",
+          "str": 2
+        }
+      ]
+    },
+    {
+      "etykieta": "Pomiary",
+      "punkty": [
+        {
+          "t": "Dawkomierz na wysokości klatki piersiowej, przed pomiarem wskazuje zero.",
+          "zr": "Zał. R.2",
+          "str": 3
+        },
+        {
+          "t": "Miernik włącz przy tle naturalnym, odczekaj min. 10 s; wskazanie nigdy nie może wynosić 0.",
+          "zr": "Zał. R.2",
+          "str": 4
+        },
+        {
+          "t": "Rejestruj czas ratowników w strefie I i moc dawki; dawka = moc dawki × czas (Dp = D × t).",
+          "zr": "Zał. R.2",
+          "str": 5
+        }
+      ]
+    },
+    {
+      "etykieta": "Pożar",
+      "punkty": [
+        {
+          "t": "W pomieszczeniach zamkniętych tylko 1 rota; w otwartych rozważ 1 ratownika z asekuracją.",
+          "zr": "Zał. R.2",
+          "str": 4
+        },
+        {
+          "t": "Proszek lub piana średnia/ciężka; prądy rozproszone wody tylko wyjątkowo, z bezpiecznej odległości; środków jak najmniej.",
+          "zr": "Zał. R.2",
+          "str": 4
+        },
+        {
+          "t": "Po działaniach ratownicy zdejmują SOI i są wyłączeni do oceny skażenia; skażenie mierzy tylko SGRChem.",
+          "zr": "Zał. R.2",
+          "str": 4
+        }
+      ]
+    }
+  ],
+  "nie_rob": [
+    {
+      "t": "Nie stosuj zwartych prądów wody.",
+      "zr": "Zał. R.2",
+      "str": 4
+    },
+    {
+      "t": "Nie prowadź ewakuacji w miejsce stacjonowania sił.",
+      "zr": "Zał. R.2",
+      "str": 3
+    }
+  ],
+  "tagi_wspolne": [
+    "cbrne",
+    "radiacja",
+    "zdarzenie radiacyjne",
+    "pozar"
+  ],
   "dokumenty_zrodlowe": [
     {
       "dokument_id": "doc-r2-radiologia",
       "strona": 1,
-      "sekcja": "Załącznik R.2 - zakres podstawowy"
+      "sekcja": "Załącznik R.2 (s. 1–6)"
     }
-  ]
+  ],
+  "data_przegladu": "2026-10-27"
 }

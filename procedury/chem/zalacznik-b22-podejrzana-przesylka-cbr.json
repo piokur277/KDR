@@ -1,8 +1,10 @@
 {
   "id": "KARTA-CHEM-B22-PODEJRZANA-PRZESYLKA-CBR",
+  "wzorzec": 2,
   "kategoria": "dzialania",
-  "zrodlo": "Zalacznik nr B.2.2. Algorytm postepowania i wspoldzialania w przypadku otrzymania niezidentyfikowanej przesylki, mogacej stanowic zagrozenie chemiczne, biologiczne lub radiacyjne",
-  "data_aktualizacji": "",
+  "grupa": "cbrn",
+  "zrodlo": "KG PSP: Załączniki nr B.2, B.2.1 i B.2.2 do Zasad organizacji ratownictwa chemicznego i ekologicznego w KSRG (KG PSP, 2025) — niezidentyfikowana przesyłka; pomocniczo checklista przekazana przez użytkownika.",
+  "data_aktualizacji": "2026-10-27",
   "slowo_kluczowe": "podejrzana przesylka",
   "keywords": [
     "niezidentyfikowana przesylka",
@@ -18,12 +20,6 @@
     "checklista niebezpieczna przesylka",
     "niebezpieczna przesylka checklista"
   ],
-  "prefix": "Zalacznik B2.2 - Algorytm postepowania przy otrzymaniu niezidentyfikowanej przesylki mogacej stanowic zagrozenie chemiczne, biologiczne lub radiacyjne.",
-  "content": "1. KOD / NAZWA: B2.2 - postepowanie przy otrzymaniu niezidentyfikowanej przesylki mogacej stanowic zagrozenie chemiczne, biologiczne lub radiacyjne.\n2. ROZPOZNANIE: rozpoznanie przesylki prowadzi Policja lub PSP wedlug wlasciwosci i rownoczesnie powiadamia pozostale sluzby i instytucje zgodnie z potrzebami.\n3. MATERIAL WYBUCHOWY: dzialania prowadzi Policja, transport realizuje Policja, a dalsze postepowanie obejmuje dzialania minersko-pirotechniczne, zniszczenie albo przekazanie probki do CLKP lub LK KWP.\n4. MATERIAL PROMIENIOTWORCZY: dzialania prowadza PSP i Ekipa Dozymetryczna Prezesa PAA, transport realizuje Ekipa Dozymetryczna Prezesa PAA lub ZUOP, a probke przekazuje sie do Ekipy Dozymetrycznej Prezesa PAA.\n5. MATERIAL CHEMICZNY: dzialania prowadza PSP i Policja, transport realizuje PSP lub Policja, a probke przekazuje sie do wlasciwego laboratorium CLKP, LK KWP lub BBK ABW.\n6. MATERIAL BIOLOGICZNY: dzialania prowadza PIS i PSP, transport realizuje PIS albo PSP, a probke przekazuje sie do laboratorium.\n7. BRUDNA BOMBA I MATERIAL NIEZIDENTYFIKOWANY: brudna bombe traktuje sie jako polaczenie urzadzenia wybuchowego z materialem chemicznym, biologicznym lub promieniotworczym i wlacza odpowiednie sluzby. Jezeli material pozostaje niezidentyfikowany, ale wykluczono urzadzenie wybuchowe i material promieniotworczy, dzialania prowadza PSP, PIS oraz wlasciwe laboratorium, a transport probki realizuje PSP.\n8. UWAGI OPERACYJNE: w razie potrzeby do pilotowania pojazdow przewozacych przesylke mozna wykorzystac Policje. Do wyboru laboratorium i organizacji wsparcia wykorzystuje sie zasoby CLKP, LK KWP oraz BBK ABW zgodnie z algorytmem.",
-  "tagi_wspolne": [
-    "cbrne",
-    "podejrzana przesylka"
-  ],
   "aliasy": [
     "niezidentyfikowana przesylka",
     "przesylka chemiczna",
@@ -38,26 +34,180 @@
     "checklista niebezpieczna przesylka",
     "niebezpieczna przesylka checklista"
   ],
-  "dokumenty_zrodlowe": [
+  "prefix": "Niezidentyfikowana (podejrzana) przesyłka CBR — działania PSP, kto prowadzi i przewozi, pakowanie, pierwsze zastępy (zał. B.2, B.2.1, B.2.2).",
+  "najpierw": [
     {
-      "dokument_id": "doc-b22-przesylka",
-      "strona": 1,
-      "sekcja": "Algorytm B.2.2"
+      "t": "SK PSP dysponuje SGRChem poziomu A i B; pozostałe jednostki wspierają SGRChem lub Policję.",
+      "zr": "Zał. B.2",
+      "str": 1
     },
+    {
+      "t": "Przesyłki nie otwieraj pod żadnym pozorem.",
+      "zr": "Zał. B.2",
+      "str": 6
+    },
+    {
+      "t": "Kolejność sprawdzeń: urządzenie wybuchowe — Policja; zagrożenie radiacyjne i chemiczne — PSP; biologiczne — PSP z PIS (bez kontaktu z materiałem).",
+      "zr": "Zał. B.2",
+      "str": 2
+    },
+    {
+      "t": "Pierwsze zastępy: odgrodź miejsce, odseparuj osoby po kontakcie i dozoruj je, zamknij okna, wyłącz wentylację i klimatyzację, czekaj na SGRChem.",
+      "zr": "Checklista (mat. użytk.)",
+      "str": 1
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "Materiał wybuchowy lub „brudna bomba”",
+      "wartosc": "działania i transport: Policja; dalej saperzy, zniszczenie lub laboratorium CLKP/LK KWP",
+      "zr": "Zał. B.2.2",
+      "str": 1
+    },
+    {
+      "nazwa": "Materiał promieniotwórczy",
+      "wartosc": "PSP + Ekipa Dozymetryczna Prezesa PAA; transport Ekipa PAA lub ZUOP",
+      "zr": "Zał. B.2.2",
+      "str": 1
+    },
+    {
+      "nazwa": "Materiał chemiczny",
+      "wartosc": "PSP + Policja; transport PSP lub Policja; laboratorium CLKP, LK KWP lub BBK ABW",
+      "zr": "Zał. B.2.2",
+      "str": 1
+    },
+    {
+      "nazwa": "Materiał biologiczny",
+      "wartosc": "PIS + PSP; transport PIS (PSP, gdy PIS nie może); laboratorium",
+      "zr": "Zał. B.2.2",
+      "str": 1
+    },
+    {
+      "nazwa": "Materiał niezidentyfikowany",
+      "wartosc": "(wykluczone urządzenie wybuchowe i materiał promieniotwórczy) PSP, PIS, laboratorium; transport PSP",
+      "zr": "Zał. B.2.2",
+      "str": 1
+    }
+  ],
+  "sekcje": [
+    {
+      "etykieta": "Pakowanie przesyłki (3 poziomy)",
+      "punkty": [
+        {
+          "t": "I: przezroczysty worek foliowy → dekontaminacja (zalecane zdjęcia) → drugi worek → dekontaminacja; w razie potrzeby trzeci.",
+          "zr": "Zał. B.2",
+          "str": 6
+        },
+        {
+          "t": "II: opakowanie środkowe twardościenne, szczelne, najdłuższy bok do 20 cm; przy cieczy materiał chłonny; oznaczenia „MATERIAŁ ZAKAŹNY” 6, strzałki, UN 2814.",
+          "zr": "Zał. B.2",
+          "str": 6
+        },
+        {
+          "t": "III: opakowanie zewnętrzne (skrzynia) unieruchomione w pojeździe, oznaczone jak wyżej.",
+          "zr": "Zał. B.2",
+          "str": 7
+        },
+        {
+          "t": "Duża przesyłka — sposób transportu (całość lub próbki) uzgodnij z inspektorem sanitarnym i Laboratorium PSP.",
+          "zr": "Zał. B.2",
+          "str": 6
+        }
+      ]
+    },
+    {
+      "etykieta": "Transport i laboratorium",
+      "punkty": [
+        {
+          "t": "Nieotwarta przesyłka bez zagrożenia wybuchem i istotnego zagrożenia chemicznego — do CLKP, BBK ABW lub LK KWP; decyduje Policja z PIS i PSP.",
+          "zr": "Zał. B.2",
+          "str": 2
+        },
+        {
+          "t": "Transport do Laboratorium PSP: na zlecenie inspektora sanitarnego, po protokole (zał. B.2.4) wypełnionym przez dowódcę SGRChem z PIS.",
+          "zr": "Zał. B.2",
+          "str": 3
+        },
+        {
+          "t": "Gotowość Laboratorium PSP: dowódca → SK KP/KM → SK KW → SK KG PSP; dysponuje i odwołuje tylko SK KG PSP.",
+          "zr": "Zał. B.2",
+          "str": 4
+        }
+      ]
+    },
+    {
+      "etykieta": "Kwalifikacja i dokumentacja",
+      "punkty": [
+        {
+          "t": "Nie jest „niezidentyfikowaną przesyłką”: rozsypany proszek lub rozlana ciecz, porzucone pojemniki, przesyłki rozszczelnione przez nieuwagę obsługi, podrzucone przedmioty.",
+          "zr": "Zał. B.2",
+          "str": 8
+        },
+        {
+          "t": "Podejrzenie ładunku wybuchowego z materiałem CBR — „przypuszczalne podłożenie ładunku wybuchowego”.",
+          "zr": "Zał. B.2",
+          "str": 8
+        },
+        {
+          "t": "Informacja ze zdarzenia: MZ chemiczne, nr ONZ 0000, kod 33 — akcje terrorystyczne.",
+          "zr": "Zał. B.2",
+          "str": 7
+        },
+        {
+          "t": "Działania PSP są wspomagające — możliwe czynności procesowe; uwzględnij zadania innych służb.",
+          "zr": "Zał. B.2",
+          "str": 8
+        }
+      ]
+    },
+    {
+      "etykieta": "Cechy podejrzanej przesyłki",
+      "punkty": [
+        {
+          "t": "Nieoczekiwany nadawca lub stempel, brak nadawcy, uszkodzenie, nakłucia, nacięcia, plamy, wysypujący się proszek lub wyciek.",
+          "zr": "Zał. B.2.1",
+          "str": 2
+        },
+        {
+          "t": "Rozmowa z osobą po kontakcie: pozostać na miejscu, nie dotykać, zamknąć okna, przejść do innego pomieszczenia (najlepiej z łazienką), umyć ręce.",
+          "zr": "Checklista (mat. użytk.)",
+          "str": 2
+        }
+      ]
+    }
+  ],
+  "nie_rob": [
+    {
+      "t": "Nie otwieraj przesyłki.",
+      "zr": "Zał. B.2",
+      "str": 6
+    }
+  ],
+  "tagi_wspolne": [
+    "cbrne",
+    "podejrzana przesylka"
+  ],
+  "dokumenty_zrodlowe": [
     {
       "dokument_id": "doc-b2-przesylka",
       "strona": 1,
-      "sekcja": "Zasady działań PSP - Załącznik B.2"
+      "sekcja": "Załącznik B.2 — zasady działań PSP (s. 1–8)"
+    },
+    {
+      "dokument_id": "doc-b22-przesylka",
+      "strona": 1,
+      "sekcja": "Załącznik B.2.2 — algorytm (s. 1)"
     },
     {
       "dokument_id": "doc-b21-przesylka",
-      "strona": 1,
-      "sekcja": "Procedura dla instytucji - Załącznik B.2.1"
+      "strona": 2,
+      "sekcja": "Załącznik B.2.1 — cechy przesyłki (s. 2)"
     },
     {
       "dokument_id": "doc-checklista-niebezpieczna-przesylka",
       "strona": 1,
-      "sekcja": "Checklista - zadania dla pierwszych PSP i rozpoznanie przesyłki"
+      "sekcja": "Materiał pomocniczy użytkownika (s. 1–2)"
     }
-  ]
+  ],
+  "data_przegladu": "2026-10-27"
 }

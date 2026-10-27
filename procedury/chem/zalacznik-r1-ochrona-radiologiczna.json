@@ -1,8 +1,10 @@
 {
   "id": "KARTA-CHEM-R1-OCHRONA-RADIOLOGICZNA",
+  "wzorzec": 2,
   "kategoria": "informacja",
-  "zrodlo": "Zalacznik nr R.1. Ochrona radiologiczna oraz dzialania podczas zdarzen radiacyjnych - podstawowe informacje",
-  "data_aktualizacji": "",
+  "grupa": "cbrn",
+  "zrodlo": "KG PSP: Załącznik nr R.1 do Zasad organizacji ratownictwa chemicznego i ekologicznego w KSRG (KG PSP, 2025) — ochrona radiologiczna, podstawowe informacje.",
+  "data_aktualizacji": "2026-10-27",
   "slowo_kluczowe": "zasady ochrony radiologicznej",
   "keywords": [
     "ochrona radiologiczna",
@@ -15,13 +17,6 @@
     "skazenie promieniotworcze",
     "moc dawki"
   ],
-  "prefix": "Zalacznik R1 - Ochrona radiologiczna oraz podstawowe informacje o dzialaniach podczas zdarzen radiacyjnych.",
-  "content": "1. KOD / NAZWA: R1 - ochrona radiologiczna oraz podstawowe informacje o dzialaniach podczas zdarzen radiacyjnych.\n2. ROZPOZNANIE ZAGROZENIA: zdarzenie radiacyjne to nietypowa sytuacja zwiazana ze zrodlem promieniowania jonizujacego, wymagajaca pilnych dzialan interwencyjnych w celu ograniczenia skutkow dla ludzi, mienia lub srodowiska.\n3. STREFA: strefa I (goraca) obejmuje teren, na ktorym moze wystepowac skazenie promieniotworcze i/lub moc dawki przekracza 100 uSv/h. Przy skazeniu 1000 Bq/cm2 dla izotopow gamma i beta, 100 Bq/cm2 dla izotopow alfa lub mocy dawki powyzej 100 uSv/h nalezy niezwlocznie usunac osoby poszkodowane i postronne.\n4. RODZAJE PROMIENIOWANIA: promieniowanie alfa jest slabo przenikliwe i stanowi glownie zagrozenie wewnetrzne; beta jest zagrozeniem zewnetrznym i wewnetrznym; gamma jest bardzo przenikliwe i stanowi zagrozenie zewnetrzne i wewnetrzne; neutronowe jest bardzo przenikliwe i stanowi zagrozenie zewnetrzne.\n5. SOI I OCHRONA: podstawowe zasady zmniejszenia narazenia to skrocenie czasu przebywania w poblizu zrodla, zwiekszenie odleglosci i stosowanie odpowiednich oslon. Przy promieniowaniu alfa, beta i gamma nalezy bezwzglednie stosowac filtrujacy sprzet ochrony ukladu oddechowego oraz minimum ubranie specjalne spelniajace PN-EN 469; przy neutronowym minimum ubranie specjalne spelniajace PN-EN 469.\n6. LIMITY NARAZENIA: dawka pochlonieta przez funkcjonariusza podczas dzialan ratowniczych nie moze przekroczyc 1 mSv rocznie; dopuszcza sie przekroczenie do 5 mSv pod warunkiem zachowania sredniej 1 mSv/rok w kolejnych 5 latach.\n7. TRANSPORT I OZNAKOWANIE: w transporcie materialow promieniotworczych pojazd oznakowuje sie tablicami barwy pomaranczowej oraz nalepkami ostrzegawczymi klasy 7D. Sztuki przesylki klasyfikuje sie do kategorii I-BIALA, II-ZOLTA lub III-ZOLTA w zaleznosci od mocy dawki na powierzchni i wskaznika transportowego.\n8. SPRZET I POMIARY: wskaznik transportowy TI to najwyzszy poziom promieniowania zmierzony w odleglosci 1 metra od zewnetrznych powierzchni sztuki przesylki. Sprzet dozymetryczny musi byc wzorcowany przez akredytowane laboratorium co 12 miesiecy bez kontrolnego zrodla albo co 24 miesiace przy kontrolnym zrodle promieniotworczym.\n9. UWAGI OPERACYJNE: karta ma charakter podstawowej informacji ochronnej i sluzy do szybkiego przypomnienia zasad ograniczania narazenia oraz podstaw oznakowania i pomiarow.",
-  "tagi_wspolne": [
-    "cbrne",
-    "radiacja",
-    "zdarzenie radiacyjne"
-  ],
   "aliasy": [
     "ochrona radiologiczna",
     "informacje o zdarzeniu radiacyjnym",
@@ -33,11 +28,109 @@
     "skazenie promieniotworcze",
     "moc dawki"
   ],
+  "prefix": "Ochrona radiologiczna — strefa I (100 µSv/h), rodzaje promieniowania i osłony, limity dawek, transport (zał. R.1).",
+  "najpierw": [
+    {
+      "t": "Strefa I (gorąca): możliwe skażenie promieniotwórcze lub moc dawki > 100 µSv/h.",
+      "zr": "Zał. R.1",
+      "str": 1
+    },
+    {
+      "t": "Czas, odległość, osłona: 2× dalej = 4× bezpieczniej; dawka rośnie proporcjonalnie do czasu.",
+      "zr": "Zał. R.1",
+      "str": 2
+    },
+    {
+      "t": "Alfa, beta, gamma: bezwzględnie filtrujący sprzęt OUO i min. ubranie specjalne PN-EN 469.",
+      "zr": "Zał. R.1",
+      "str": 3
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "Usuń ludzi z terenu, gdy",
+      "wartosc": "≥ 1000 Bq/cm² (gamma, beta) · ≥ 100 Bq/cm² (alfa) · moc dawki > 100 µSv/h",
+      "zr": "Zał. R.1",
+      "str": 1
+    },
+    {
+      "nazwa": "Dawka funkcjonariusza",
+      "wartosc": "max 1 mSv/rok; do 5 mSv przy średniej 1 mSv/rok w kolejnych 5 latach",
+      "zr": "Zał. R.1",
+      "str": 3
+    },
+    {
+      "nazwa": "Wzorcowanie przyrządów",
+      "wartosc": "co 12 mies. (bez źródła kontrolnego) / 24 mies. (ze źródłem); akredytowane laboratorium",
+      "zr": "Zał. R.1",
+      "str": 6
+    }
+  ],
+  "sekcje": [
+    {
+      "etykieta": "Rodzaje promieniowania",
+      "punkty": [
+        {
+          "t": "Alfa: zasięg do 10 cm, zatrzyma naskórek lub kartka — groźne wewnętrznie (wdychanie, połknięcie).",
+          "zr": "Zał. R.1",
+          "str": 2
+        },
+        {
+          "t": "Beta: zasięg do 10 m; osłony — tworzywa, aluminium, zabudowa; nie stosuj ołowiu (promieniowanie hamowania).",
+          "zr": "Zał. R.1",
+          "str": 2
+        },
+        {
+          "t": "Gamma i neutronowe: nieograniczony zasięg; osłony — beton, ołów, żelazo, zabudowa (tylko osłabiają).",
+          "zr": "Zał. R.1",
+          "str": 2
+        },
+        {
+          "t": "Najgroźniejsze jest narażenie wewnętrzne; maska chroni przed aerozolami, nie przed promieniowaniem zewnętrznym.",
+          "zr": "Zał. R.1",
+          "str": 3
+        }
+      ]
+    },
+    {
+      "etykieta": "Transport (ADR rozdz. 7)",
+      "punkty": [
+        {
+          "t": "Pojazd: 2 tablice pomarańczowe, 3 nalepki 7D (boki i tył).",
+          "zr": "Zał. R.1",
+          "str": 4
+        },
+        {
+          "t": "Kategorie sztuk przesyłki: I-BIAŁA, II-ŻÓŁTA, III-ŻÓŁTA wg mocy dawki na powierzchni i wskaźnika TI.",
+          "zr": "Zał. R.1",
+          "str": 5
+        },
+        {
+          "t": "TI — najwyższa moc dawki 1 m od powierzchni sztuki przesyłki (µSv/h ÷ 10).",
+          "zr": "Zał. R.1",
+          "str": 5
+        }
+      ]
+    }
+  ],
+  "nie_rob": [
+    {
+      "t": "Nie osłaniaj promieniowania beta ołowiem.",
+      "zr": "Zał. R.1",
+      "str": 2
+    }
+  ],
+  "tagi_wspolne": [
+    "cbrne",
+    "radiacja",
+    "zdarzenie radiacyjne"
+  ],
   "dokumenty_zrodlowe": [
     {
       "dokument_id": "doc-r1-radiologia",
       "strona": 1,
-      "sekcja": "Ochrona radiologiczna - podstawowe informacje"
+      "sekcja": "Załącznik R.1 (s. 1–8)"
     }
-  ]
+  ],
+  "data_przegladu": "2026-10-27"
 }
