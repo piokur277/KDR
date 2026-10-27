@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T19:35:05.031Z",
+  "generated_at": "2026-10-27T19:40:07.112Z",
   "registry_version": "2.7",
   "document_count": 86,
   "active_document_count": 86,
@@ -980,7 +980,7 @@
         {
           "procedure_id": "KARTA-KPP-SEKWENCJA-ZALOZEN-TAKTYCZNYCH",
           "strona": 1,
-          "sekcja": "Procedura nr 1 - Sekwencja założeń taktycznych w ratownictwie medycznym"
+          "sekcja": "Procedura nr 1"
         }
       ]
     },
@@ -994,7 +994,7 @@
         {
           "procedure_id": "KARTA-KPP-SEKWENCJA-MEDYCZNYCH-DZIALAN-RATOWNICZYCH",
           "strona": 1,
-          "sekcja": "Procedura nr 2 - Sekwencja medycznych działań ratowniczych"
+          "sekcja": "Procedura nr 2"
         }
       ]
     },
@@ -1008,7 +1008,7 @@
         {
           "procedure_id": "KARTA-KPP-RKO-DOROSLI",
           "strona": 1,
-          "sekcja": "Procedura nr 3 - Zatrzymanie krążenia u dorosłych (RKO)"
+          "sekcja": "Procedura nr 3"
         }
       ]
     },
@@ -1022,7 +1022,7 @@
         {
           "procedure_id": "KARTA-KPP-RKO-DZIECI-NIEMOWLETA-NOWORODKI",
           "strona": 1,
-          "sekcja": "Procedura nr 4 - Zatrzymanie krążenia u dzieci i noworodków (RKO)"
+          "sekcja": "Procedura nr 4"
         }
       ]
     },
@@ -1036,7 +1036,7 @@
         {
           "procedure_id": "KARTA-KPP-RANY",
           "strona": 1,
-          "sekcja": "Procedura nr 5 - Rany"
+          "sekcja": "Procedura nr 5"
         }
       ]
     },
@@ -1050,7 +1050,7 @@
         {
           "procedure_id": "KARTA-KPP-AMPUTACJA-URAZOWA",
           "strona": 1,
-          "sekcja": "Procedura nr 6 - Amputacja urazowa"
+          "sekcja": "Procedura nr 6"
         }
       ]
     },
@@ -1064,7 +1064,7 @@
         {
           "procedure_id": "KARTA-KPP-OBRAZENIA-GLOWY",
           "strona": 1,
-          "sekcja": "Procedura nr 7 - Obrażenia i podejrzenie obrażeń głowy"
+          "sekcja": "Procedura nr 7"
         }
       ]
     },
