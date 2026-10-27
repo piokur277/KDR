@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T19:29:18.700Z",
+  "generated_at": "2026-10-27T19:35:05.031Z",
   "registry_version": "2.7",
   "document_count": 86,
   "active_document_count": 86,
@@ -1260,7 +1260,7 @@
         {
           "procedure_id": "KARTA-ORG-DETEKTOR-MSA-ALTAIR-4X",
           "strona": 55,
-          "sekcja": "Ustawione fabrycznie progi oraz punkty zadalne alarmów; pełna instrukcja obsługi ma 78 stron"
+          "sekcja": "Przepisy bezpieczeństwa (s. 8–9), alarmy (s. 25–27), test funkcjonalny (s. 43), progi fabryczne (s. 55)"
         }
       ]
     },
@@ -1287,8 +1287,8 @@
       "powiazania": [
         {
           "procedure_id": "KARTA-SPRZET-POLON-ALFA-RK-100-2",
-          "strona": 11,
-          "sekcja": "Pełna instrukcja obsługi (51 stron): klawiatura, wyświetlacz, sonda zewnętrzna, alarmy, tryby pomiarowe, konserwacja"
+          "strona": 7,
+          "sekcja": "Dane techniczne (s. 7), sonda (s. 13–14), sygnalizacje (s. 15–20), pomiary (s. 22–28)"
         }
       ]
     },
@@ -1302,7 +1302,7 @@
         {
           "procedure_id": "KARTA-SPRZET-POLON-ALFA-RK-100-2",
           "strona": 1,
-          "sekcja": "Aktualna strona producenta RK-100-2 i dane techniczne"
+          "sekcja": "Aktualna strona producenta"
         }
       ]
     },
@@ -1349,7 +1349,7 @@
         {
           "procedure_id": "KARTA-ORG-ZASADY-ORGANIZOWANIA-DZIALAN-RATOWNICZYCH",
           "strona": 4,
-          "sekcja": "Wstęp pkt 1 (s. 4); zakres działań (s. 7); uprawnienia KDR (s. 9); kierowanie, rozpoznanie, ciągłość (s. 10–12); odwód, odcinki bojowe, sztab (s. 12–13); zakończenie działań (s. 14)"
+          "sekcja": "Zasady ogólne (s. 4–8), działania ratownicze (s. 8–14), zakończenie (s. 14)"
         }
       ]
     },

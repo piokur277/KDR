@@ -7890,8 +7890,12 @@
   },
   {
     "id": "KARTA-ORG-DETEKTOR-MSA-ALTAIR-4X",
-    "zrodlo": "Dane przekazane przez użytkownika; dołączona instrukcja obsługi producenta MSA ALTAIR 4X, nr zamówieniowy 10106503/03",
-    "data_aktualizacji": "2026-07-25",
+    "wzorzec": 2,
+    "kategoria": "informacja",
+    "grupa": "sprzet",
+    "zrodlo": "MSA: Instrukcja obsługi ALTAIR 4X — miernik wielogazowy, nr zamówieniowy 10106503/03.",
+    "data_aktualizacji": "2026-10-27",
+    "slowo_kluczowe": "detektor msa",
     "keywords": [
       "msa altair 4x",
       "detektor wielogazowy msa",
@@ -7909,14 +7913,6 @@
       "kalibracja msa altair 4x",
       "test obciążeniowy msa altair 4x",
       "test bump msa altair 4x"
-    ],
-    "prefix": "Detektor wielogazowy MSA Altair 4X - progi alarmowe i sygnalizacja.",
-    "content": "1. Detektor wielogazowy: Altair 4X.\n2. Alarm niski: 10% DGW; 19,5% O2; 25 ppm CO; 10 ppm H2S.\n3. Alarm niski: sygnal dzwiekowy pulsacyjny ok. 95 dB.\n4. Alarm wysoki: 20% DGW; 18% O2; 100 ppm CO; 15 ppm H2S.",
-    "slowo_kluczowe": "detektor msa",
-    "tagi_wspolne": [
-      "detektor",
-      "msa",
-      "pomiary gazow"
     ],
     "aliasy": [
       "msa altair 4x",
@@ -7936,18 +7932,134 @@
       "test obciążeniowy msa altair 4x",
       "test bump msa altair 4x"
     ],
-    "pelna_procedura": {
-      "tytul": "Instrukcja obsługi MSA ALTAIR 4X - miernik wielogazowy",
-      "plik": "dokumenty/urzadzenia/msa-altair-4x-instrukcja-obslugi.pdf",
-      "strona": 55
-    },
+    "prefix": "Detektor wielogazowy MSA Altair 4X — progi alarmowe, reakcja na alarm, ograniczenia pomiaru, test funkcjonalny (instrukcja producenta).",
+    "najpierw": [
+      {
+        "t": "Alarm podczas pracy — niezwłocznie opuść obszar zagrożenia.",
+        "zr": "MSA Altair 4X",
+        "str": 25
+      },
+      {
+        "t": "„XXX” zamiast odczytu gazów palnych = > 100% DGW: niebezpieczeństwo wybuchu, natychmiast opuść strefę.",
+        "zr": "MSA Altair 4X",
+        "str": 8
+      },
+      {
+        "t": "Dokładne progi sprawdź na swoim przyrządzie lub w świadectwie kalibracji — zależą od ustawień.",
+        "zr": "MSA Altair 4X",
+        "str": 55
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Gazy palne (EX)",
+        "wartosc": "alarm niski 10% DGW · wysoki 20% DGW (fabrycznie)",
+        "zr": "MSA Altair 4X",
+        "str": 55
+      },
+      {
+        "nazwa": "O₂",
+        "wartosc": "alarm niski 19,5% · wysoki 23,0% (fabrycznie)",
+        "zr": "MSA Altair 4X",
+        "str": 55
+      },
+      {
+        "nazwa": "CO",
+        "wartosc": "niski 25 ppm · wysoki 100 ppm · STEL 100 · TWA 25",
+        "zr": "MSA Altair 4X",
+        "str": 55
+      },
+      {
+        "nazwa": "H₂S",
+        "wartosc": "niski 10 ppm · wysoki 15 ppm · STEL 15 · TWA 10",
+        "zr": "MSA Altair 4X",
+        "str": 55
+      },
+      {
+        "nazwa": "Sygnał dźwiękowy",
+        "wartosc": "95 dBA z 30 cm",
+        "zr": "MSA Altair 4X",
+        "str": 53
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Alarmy",
+        "punkty": [
+          {
+            "t": "Rodzaje: alarm niski, wysoki, STEL i TWA; alarm = podświetlenie, wibracja, pulsująca ikona.",
+            "zr": "MSA Altair 4X",
+            "str": 25
+          },
+          {
+            "t": "Alarm niedoboru tlenu jest blokowany — nie kasuje się sam; przy trwającej przyczynie przycisk wycisza go tylko na 5 s.",
+            "zr": "MSA Altair 4X",
+            "str": 26
+          },
+          {
+            "t": "Po przekroczeniu 100% DGW czujnik gazów palnych wyłącza się; wskazanie kasuje tylko wyłączenie i włączenie przyrządu na świeżym powietrzu.",
+            "zr": "MSA Altair 4X",
+            "str": 27
+          }
+        ]
+      },
+      {
+        "etykieta": "Ograniczenia pomiaru",
+        "punkty": [
+          {
+            "t": "Odczyty gazów palnych są wiarygodne tylko przy > 10% O₂ (czujnik katalityczny).",
+            "zr": "MSA Altair 4X",
+            "str": 8
+          },
+          {
+            "t": "Nie używaj w atmosferze z niedoborem lub nadmiarem tlenu, redukującej, obojętnej, z palną mgłą lub pyłem, ani dla par cieczy o temperaturze zapłonu > 38°C.",
+            "zr": "MSA Altair 4X",
+            "str": 8
+          },
+          {
+            "t": "Po uderzeniu lub upadku sprawdź kalibrację; odczekaj na ustabilizowanie wskazań.",
+            "zr": "MSA Altair 4X",
+            "str": 8
+          },
+          {
+            "t": "Fałszywe alarmy O₂ możliwe przy zmianie ciśnienia lub skrajnej temperaturze.",
+            "zr": "MSA Altair 4X",
+            "str": 26
+          }
+        ]
+      },
+      {
+        "etykieta": "Test funkcjonalny (bump test)",
+        "punkty": [
+          {
+            "t": "Gaz kalibracyjny → „BUMP TEST?” → „BUMP PASS” lub „BUMP ERROR”; przy błędzie wykonaj kalibrację.",
+            "zr": "MSA Altair 4X",
+            "str": 43
+          }
+        ]
+      }
+    ],
+    "nie_rob": [
+      {
+        "t": "Nie zasłaniaj ani nie przedmuchuj sprężonym powietrzem otworów czujników.",
+        "zr": "MSA Altair 4X",
+        "str": 9
+      }
+    ],
+    "tagi_wspolne": [
+      "detektor",
+      "msa",
+      "pomiary gazow"
+    ],
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-msa-altair-4x-manual",
         "strona": 55,
-        "sekcja": "Ustawione fabrycznie progi oraz punkty zadalne alarmów; pełna instrukcja obsługi ma 78 stron"
+        "sekcja": "Przepisy bezpieczeństwa (s. 8–9), alarmy (s. 25–27), test funkcjonalny (s. 43), progi fabryczne (s. 55)"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: Alarm podczas pracy — niezwłocznie opuść obszar zagrożenia. „XXX” zamiast odczytu gazów palnych = > 100% DGW: niebezpieczeństwo wybuchu, natychmiast opuść strefę. Dokładne progi sprawdź na swoim przyrządzie lub w świadectwie kalibracji — zależą od ustawień.\n2. PARAMETRY: Gazy palne (EX) — alarm niski 10% DGW · wysoki 20% DGW (fabrycznie); O₂ — alarm niski 19,5% · wysoki 23,0% (fabrycznie); CO — niski 25 ppm · wysoki 100 ppm · STEL 100 · TWA 25; H₂S — niski 10 ppm · wysoki 15 ppm · STEL 15 · TWA 10; Sygnał dźwiękowy — 95 dBA z 30 cm\n3. ALARMY: Rodzaje: alarm niski, wysoki, STEL i TWA; alarm = podświetlenie, wibracja, pulsująca ikona. Alarm niedoboru tlenu jest blokowany — nie kasuje się sam; przy trwającej przyczynie przycisk wycisza go tylko na 5 s. Po przekroczeniu 100% DGW czujnik gazów palnych wyłącza się; wskazanie kasuje tylko wyłączenie i włączenie przyrządu na świeżym powietrzu.\n4. OGRANICZENIA POMIARU: Odczyty gazów palnych są wiarygodne tylko przy > 10% O₂ (czujnik katalityczny). Nie używaj w atmosferze z niedoborem lub nadmiarem tlenu, redukującej, obojętnej, z palną mgłą lub pyłem, ani dla par cieczy o temperaturze zapłonu > 38°C. Po uderzeniu lub upadku sprawdź kalibrację; odczekaj na ustabilizowanie wskazań. Fałszywe alarmy O₂ możliwe przy zmianie ciśnienia lub skrajnej temperaturze.\n5. TEST FUNKCJONALNY (BUMP TEST): Gaz kalibracyjny → „BUMP TEST?” → „BUMP PASS” lub „BUMP ERROR”; przy błędzie wykonaj kalibrację.\n6. NIE RÓB: Nie zasłaniaj ani nie przedmuchuj sprężonym powietrzem otworów czujników."
   },
   {
     "id": "KARTA-ORG-H2S-WARTOSCI-GRANICZNE",
@@ -8776,9 +8888,11 @@
   },
   {
     "id": "KARTA-SPRZET-POLON-ALFA-RK-100-2",
+    "wzorzec": 2,
     "kategoria": "informacja",
-    "zrodlo": "POLON-ALFA: Radiometr RK-100-2, Instrukcja obsługi IO-R120-001, Edycja IV; aktualna strona producenta RK-100-2 zweryfikowana 2026-08-30.",
-    "data_aktualizacji": "2026-08-30",
+    "grupa": "sprzet",
+    "zrodlo": "POLON-ALFA: Radiometr RK-100-2, Instrukcja obsługi IO-R120-001, Edycja IV.",
+    "data_aktualizacji": "2026-10-27",
     "slowo_kluczowe": "radiometr rk 100 2",
     "keywords": [
       "polon rk 100",
@@ -8804,17 +8918,6 @@
       "BAT rk 100",
       "pomiar 100 sekund rk 100",
       "alfa beta gamma rk 100"
-    ],
-    "prefix": "Radiometr POLON-ALFA RK-100-2 - obsługa, pomiar dawki i skażeń oraz interpretacja wskazań.",
-    "content": "1. URZĄDZENIE I ZASTOSOWANIE: RK-100-2 jest przenośnym radiometrem. Sonda wewnętrzna służy do pomiaru mocy przestrzennego równoważnika dawki i równoważnika dawki (Sv/h, Sv) oraz mocy dawki pochłoniętej i dawki pochłoniętej (Gy/h, Gy) promieniowania X i gamma. Po podłączeniu sondy zewnętrznej przyrząd może służyć do oceny skażeń powierzchni alfa, beta i gamma.\n2. PRZED UŻYCIEM: sprawdź stan mechaniczny, baterie oraz ewentualną sondę zewnętrzną. Sondę zewnętrzną podłączaj i odłączaj wyłącznie przy wyłączonym radiometrze. Po włączeniu urządzenie wykonuje autotest; przez kilka sekund wyświetla wszystkie elementy ekranu i może pokazywać „---” do czasu uzyskania gotowego pomiaru.\n3. KLAWISZE: zasilanie - włączenie/wyłączenie; POMIAR - przełączanie wielkości pomiarowych; przycisk podświetlenia - podświetlenie ekranu i klawiatury; przycisk wyboru funkcji specjalnych - wybór PAMIĘĆ/PRÓG/sygnalizacja/IR; F - aktywacja/obsługa funkcji specjalnej; P - pomiar precyzyjny uśredniony w czasie 100 s.\n4. PODSTAWOWY POMIAR PROMIENIOWANIA: dla oceny mocy przestrzennego równoważnika dawki wybierz przyciskiem POMIAR jednostkę Sv/h. Odczyt jest realizowany przez detektory wewnętrzne i nie zależy od podłączenia sondy zewnętrznej. Zakres sondy wewnętrznej wynosi do 50 mSv/h. Dla mocy dawki pochłoniętej wybierz Gy/h; zakres do 50 mGy/h.\n5. DAWKA SKUMULOWANA: tryby Sv i Gy pokazują dawkę kumulowaną od chwili włączenia lub od skasowania poprzedniego cyklu. Jeżeli podczas pracy wystąpiło przekroczenie zakresu mocy dawki, symbol „E” przy dawce skumulowanej oznacza, że wynik może być zaniżony.\n6. POMIAR 100 s: przy niskich poziomach i dużym rozrzucie wskazań użyj przycisku P. Funkcja uśrednia pomiar przez 100 s i jest dostępna dla mocy dawki, mocy równoważnika dawki oraz pomiarów skażeń.\n7. SONDA ZEWNĘTRZNA - WAŻNE: wskazania z sondy zewnętrznej są prezentowane jako imp/s (s-1) albo Bq/cm2. Założenie filtru gamma nie powoduje automatycznego przeliczenia wskazania na Sv/h. Do pomiaru skażeń nie używaj filtru gamma.\n8. ROZRÓŻNIANIE SKŁADOWYCH SKAŻENIA: bez osłon sonda mierzy alfa+beta+gamma; z osłoną alfa mierzy beta+gamma; z osłoną beta mierzy zasadniczo gamma. Porównanie trzech pomiarów może pomóc ocenić dominujący rodzaj promieniowania.\n9. TRYBY SKAŻEŃ: pomiar względny wskazuje s-1. Przeliczenie na Bq/cm2 wymaga znajomości izotopu, biegu własnego i współczynnika czułości ze świadectwa sprawdzenia. Pomiar bezwzględny Bq/cm2 jest miarodajny tylko wtedy, gdy w pamięci urządzenia wprowadzono właściwy współczynnik dla danego izotopu. Tryb różnicowy odnosi wynik do zapamiętanego tła/poziomu odniesienia.\n10. SYMBOLE I KOMUNIKATY: P - aktywna sonda zewnętrzna; BAT - rozładowane baterie, po stałym zapaleniu wymień je; trójkąt ostrzegawczy - ostrzeżenie/błąd; „Er” po starcie - błąd kanału (0: Gy, 1: Sv, 2: sonda zewnętrzna); „Err” w trakcie pomiaru - błąd detektora; „rnG” - przekroczenie zakresu pomiarowego; „---” - brak sondy zewnętrznej albo pomiar jeszcze niegotowy; PAMIĘĆ - zapis/odczyt pomiaru; PRÓG - ustawienie progu alarmowego; IR - komunikacja podczerwienią; symbol uśredniania - pomiar 100 s; symbol różnicowy - pomiar względem poziomu odniesienia.\n11. ALARMY: przekroczenie wybranego progu uruchamia sygnalizację akustyczną, przy czym radiometr śledzi jednocześnie tylko jeden próg wybrany przez użytkownika. „rnG” oznacza przekroczenie zakresu urządzenia - nie traktuj takiego wskazania jako wartości liczbowej.\n12. OCHRONA SONDY: sonda powierzchniowa jest delikatna. Nie stawiaj jej bez osłon lub tylko z filtrem gamma na trawie, kamieniach ani ostrych powierzchniach. Po pracy przechowuj sondę zewnętrzną z założoną osłoną beta, która chroni ją mechanicznie.\n13. PO PRACY: po pomiarach i ewentualnym odkażeniu umieść radiometr w opakowaniu. Po pracy w wilgoci lub mrozie wytrzyj i osusz powierzchnie. Przy dłuższym magazynowaniu wyjmij baterie.\n14. UWAGA OPERACYJNA PSP: karta opisuje obsługę przyrządu, a nie wyznacza samodzielnie stref ani dopuszczalnego narażenia ratowników. Progi z dodatku A instrukcji producenta mają charakter nastaw urządzenia i nie zastępują aktualnych zasad ochrony radiologicznej oraz kart R1/R2 stosowanych w KSRG.",
-    "tagi_wspolne": [
-      "radiacja",
-      "radiometr",
-      "dozymetr",
-      "sprzęt pomiarowy",
-      "skażenie promieniotwórcze",
-      "moc dawki",
-      "Polon-Alfa"
     ],
     "aliasy": [
       "polon rk 100",
@@ -8845,23 +8948,135 @@
       "BAT rk 100",
       "pomiar 100 s rk 100"
     ],
-    "pelna_procedura": {
-      "tytul": "Instrukcja obsługi POLON-ALFA RK-100-2 - Edycja IV",
-      "plik": "dokumenty/urzadzenia/polon-alfa-rk-100-2-instrukcja-obslugi.pdf",
-      "strona": 11
-    },
+    "prefix": "Radiometr POLON-ALFA RK-100-2 — obsługa: moc dawki, skażenia sondą zewnętrzną, komunikaty i alarmy (instrukcja producenta).",
+    "najpierw": [
+      {
+        "t": "Moc dawki: przyciskiem wyboru ustaw Sv/h — mierzą detektory wewnętrzne, niezależnie od sondy zewnętrznej.",
+        "zr": "RK-100-2 IO",
+        "str": 22
+      },
+      {
+        "t": "Po włączeniu „– – –” przez kilka–kilkanaście sekund = pomiar jeszcze niegotowy.",
+        "zr": "RK-100-2 IO",
+        "str": 20
+      },
+      {
+        "t": "„rnG” = przekroczenie zakresu — nie traktuj jako wartości liczbowej.",
+        "zr": "RK-100-2 IO",
+        "str": 18
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Sonda wewnętrzna",
+        "wartosc": "moc równoważnika dawki do 50 mSv/h; moc dawki pochłoniętej do 50 mGy/h",
+        "zr": "RK-100-2 IO",
+        "str": 7
+      },
+      {
+        "nazwa": "Sonda zewnętrzna",
+        "wartosc": "skażenia α, β, γ; wskazania zawsze w imp/s lub Bq/cm² — filtr γ nie przelicza na Sv/h",
+        "zr": "RK-100-2 IO",
+        "str": 7
+      },
+      {
+        "nazwa": "Pomiar uśredniony",
+        "wartosc": "100 s — przy niskim poziomie i rozrzucie wskazań",
+        "zr": "RK-100-2 IO",
+        "str": 28
+      },
+      {
+        "nazwa": "Próg alarmowy",
+        "wartosc": "śledzony jest tylko jeden próg wybrany przez użytkownika",
+        "zr": "RK-100-2 IO",
+        "str": 19
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Sonda zewnętrzna",
+        "punkty": [
+          {
+            "t": "Podłączaj i odłączaj tylko przy wyłączonym przyrządzie; odłączenie w trakcie = sygnalizacja uszkodzenia.",
+            "zr": "RK-100-2 IO",
+            "str": 14
+          },
+          {
+            "t": "Bez osłon: α+β+γ; osłona z okienkiem foliowym: β+γ; lita osłona aluminiowa: γ — trzy pomiary wskazują dominujące promieniowanie.",
+            "zr": "RK-100-2 IO",
+            "str": 24
+          },
+          {
+            "t": "Pomiarów skażeń nie wykonuj z filtrem γ.",
+            "zr": "RK-100-2 IO",
+            "str": 24
+          },
+          {
+            "t": "Bq/cm² miarodajne tylko z właściwym współczynnikiem izotopu (świadectwo sprawdzenia).",
+            "zr": "RK-100-2 IO",
+            "str": 7
+          },
+          {
+            "t": "Sonda jest delikatna — nie stawiaj jej bez osłon na trawie, kamieniach, ostrych przedmiotach.",
+            "zr": "RK-100-2 IO",
+            "str": 14
+          }
+        ]
+      },
+      {
+        "etykieta": "Komunikaty",
+        "punkty": [
+          {
+            "t": "„BAT” na stałe — bezwarunkowo wymień baterie; przy dalszym spadku przyrząd się wyłączy.",
+            "zr": "RK-100-2 IO",
+            "str": 17
+          },
+          {
+            "t": "„Er” po włączeniu — błąd kanału; „Err” w trakcie — błąd detektora.",
+            "zr": "RK-100-2 IO",
+            "str": 15
+          },
+          {
+            "t": "Brak lub uszkodzenie sondy zewnętrznej sygnalizowane z opóźnieniem ok. 2 min.",
+            "zr": "RK-100-2 IO",
+            "str": 20
+          }
+        ]
+      },
+      {
+        "etykieta": "Uwaga operacyjna",
+        "punkty": [
+          {
+            "t": "Instrukcja opisuje obsługę przyrządu — strefy i dopuszczalne dawki wyznaczaj wg kart R1 i R2 (zasady KG PSP).",
+            "zr": "RK-100-2 IO",
+            "str": 7
+          }
+        ]
+      }
+    ],
+    "tagi_wspolne": [
+      "radiacja",
+      "radiometr",
+      "dozymetr",
+      "sprzęt pomiarowy",
+      "skażenie promieniotwórcze",
+      "moc dawki",
+      "Polon-Alfa"
+    ],
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-polon-alfa-rk-100-2-manual",
-        "strona": 11,
-        "sekcja": "Pełna instrukcja obsługi (51 stron): klawiatura, wyświetlacz, sonda zewnętrzna, alarmy, tryby pomiarowe, konserwacja"
+        "strona": 7,
+        "sekcja": "Dane techniczne (s. 7), sonda (s. 13–14), sygnalizacje (s. 15–20), pomiary (s. 22–28)"
       },
       {
         "dokument_id": "doc-polon-alfa-rk-100-2-product",
         "strona": 1,
-        "sekcja": "Aktualna strona producenta RK-100-2 i dane techniczne"
+        "sekcja": "Aktualna strona producenta"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: Moc dawki: przyciskiem wyboru ustaw Sv/h — mierzą detektory wewnętrzne, niezależnie od sondy zewnętrznej. Po włączeniu „– – –” przez kilka–kilkanaście sekund = pomiar jeszcze niegotowy. „rnG” = przekroczenie zakresu — nie traktuj jako wartości liczbowej.\n2. PARAMETRY: Sonda wewnętrzna — moc równoważnika dawki do 50 mSv/h; moc dawki pochłoniętej do 50 mGy/h; Sonda zewnętrzna — skażenia α, β, γ; wskazania zawsze w imp/s lub Bq/cm² — filtr γ nie przelicza na Sv/h; Pomiar uśredniony — 100 s — przy niskim poziomie i rozrzucie wskazań; Próg alarmowy — śledzony jest tylko jeden próg wybrany przez użytkownika\n3. SONDA ZEWNĘTRZNA: Podłączaj i odłączaj tylko przy wyłączonym przyrządzie; odłączenie w trakcie = sygnalizacja uszkodzenia. Bez osłon: α+β+γ; osłona z okienkiem foliowym: β+γ; lita osłona aluminiowa: γ — trzy pomiary wskazują dominujące promieniowanie. Pomiarów skażeń nie wykonuj z filtrem γ. Bq/cm² miarodajne tylko z właściwym współczynnikiem izotopu (świadectwo sprawdzenia). Sonda jest delikatna — nie stawiaj jej bez osłon na trawie, kamieniach, ostrych przedmiotach.\n4. KOMUNIKATY: „BAT” na stałe — bezwarunkowo wymień baterie; przy dalszym spadku przyrząd się wyłączy. „Er” po włączeniu — błąd kanału; „Err” w trakcie — błąd detektora. Brak lub uszkodzenie sondy zewnętrznej sygnalizowane z opóźnieniem ok. 2 min.\n5. UWAGA OPERACYJNA: Instrukcja opisuje obsługę przyrządu — strefy i dopuszczalne dawki wyznaczaj wg kart R1 i R2 (zasady KG PSP)."
   },
   {
     "id": "KARTA-ORG-WYTYCZNE-WSPOLDZIALANIA-CBRNE",
@@ -9374,9 +9589,11 @@
   },
   {
     "id": "KARTA-ORG-ZASADY-ORGANIZOWANIA-DZIALAN-RATOWNICZYCH",
+    "wzorzec": 2,
     "kategoria": "organizacja",
-    "zrodlo": "Zasady organizowania dzialan ratowniczych, Komenda Glowna Panstwowej Strazy Pozarnej, Warszawa 2013",
-    "data_aktualizacji": "2013-03",
+    "grupa": "org",
+    "zrodlo": "KG PSP: Zasady organizowania działań ratowniczych, Warszawa, marzec 2013 (dokumentacja KG PSP — zachowuje ważność do aktualizacji, § 57 ust. 2 rozporządzenia KSRG z 24.06.2026).",
+    "data_aktualizacji": "2026-10-27",
     "slowo_kluczowe": "organizacja dzialan ratowniczych",
     "keywords": [
       "zasady organizowania dzialan",
@@ -9389,12 +9606,6 @@
       "odwod akcji",
       "lacznosc alarmowanie"
     ],
-    "prefix": "Zasady organizowania dzialan ratowniczych - karta organizacyjna dla KDR.",
-    "content": "1. CEL DOKUMENTU: uporzadkowanie zasad kierowania dzialaniami ratowniczymi na wszystkich poziomach kierowania oraz ujednolicenie sposobu realizacji zadan przez jednostki uczestniczace w dzialaniach.\n2. KIEDY STOSOWAC: podczas organizowania i prowadzenia dzialan ratowniczych na poziomie interwencyjnym i taktycznym, od chwili przybycia pierwszych sil i srodkow do formalnego zakonczenia dzialan.\n3. ZAKRES DZIALAN RATOWNICZYCH: do dzialan w ksrg zalicza sie m.in. ewakuacje ludzi, zwierzat i mienia, ocenianie i prognozowanie zagrozen, oswietlenie miejsca zdarzenia, stabilizowanie i podnoszenie konstrukcji, ograniczanie i neutralizacje substancji niebezpiecznych, zabezpieczenie miejsca wycieku, dekontaminacje wstepna, uruchamianie dodatkowych sil i srodkow oraz oddymianie stref zagrozenia.\n4. POZIOMY REALIZACJI: czynnosci ratownicze prowadzi sie na poziomie podstawowym przez podmioty ksrg w danych dziedzinach ratownictwa oraz na poziomie specjalistycznym przez odpowiednio przeszkolone podmioty i grupy specjalistyczne.\n5. UPRAWNIENIA KDR: KDR moze m.in. zarzadzic ewakuacje ludzi lub mienia, wstrzymac komunikacje, zakazac przebywania w rejonie dzialan, przejac czasowo niezbedne pojazdy, sprzet i srodki, organizowac prace wyburzeniowe i rozbiorkowe, korzystac z informacji od dyzurnych oraz organizowac miejsce prowadzenia dzialan i strefy zagrozenia.\n6. PROWADZENIE DZIALAN: kierowanie dzialaniem ratowniczym polega na rozpoznaniu, ocenie sytuacji, wyborze celu i zamiaru taktycznego, doborze adekwatnych technik, wykorzystaniu dostepnych zasobow oraz stalym monitorowaniu sytuacji i korygowaniu sposobu prowadzenia akcji.\n7. ROZPOZNANIE I CEL: rozpoznanie musi byc prowadzone przez caly czas trwania akcji, a pozyskane dane nalezy stale weryfikowac i wykorzystywac do aktualizacji oceny sytuacji oraz zamiaru taktycznego. Celem glownym jest ratowanie ludzi, zwierzat, srodowiska i mienia przy wykorzystaniu sil i srodkow dostepnych na miejscu.\n8. CIAGLOSC KIEROWANIA: dzialania ratownicze powinny byc realizowane nieprzerwanie do czasu osiagniecia zamierzonych celow, a KDR odpowiada za zapewnienie ciaglosci kierowania na poszczegolnych poziomach.\n9. ORGANIZACJA STRUKTURY DZIALAN: w razie potrzeby KDR organizuje odwod, wyznacza strukture dowodzenia, miejsce koncentracji, zapewnia lacznosc i alarmowanie, moze dzielic teren akcji na odcinki bojowe i powolywac sztab akcji.\n10. UWAGI OPERACYJNE: kierowanie dzialaniem rozpoczyna sie z chwila przybycia pierwszych sil i srodkow i konczy po ustaleniu, ze dzialania ratownicze zostaly zakonczone.",
-    "tagi_wspolne": [
-      "organizacja dzialan",
-      "dzialania ratownicze"
-    ],
     "aliasy": [
       "zasady organizowania dzialan",
       "kdr organizacja dzialan",
@@ -9406,19 +9617,154 @@
       "odwod akcji",
       "lacznosc alarmowanie"
     ],
-    "pelna_procedura": {
-      "tytul": "Zasady organizowania dzialan ratowniczych, Komenda Glowna Panstwowej Strazy Pozarnej, Warszawa 2013",
-      "plik": "dokumenty/organizacja/zasady-organizowania-dzialan-ratowniczych-2013-03.pdf",
-      "strona": 4
-    },
+    "prefix": "Zasady organizowania działań ratowniczych — uprawnienia KDR, rozpoznanie, cel i zamiar, ciągłość, struktura dowodzenia, zakończenie (KG PSP 2013).",
+    "najpierw": [
+      {
+        "t": "Cel główny w kolejności: ludzie, zwierzęta, środowisko, mienie — osiągalny siłami na terenie akcji.",
+        "zr": "ZODR 2013",
+        "str": 11
+      },
+      {
+        "t": "W rozpoznaniu załóż wystąpienie zagrożenia i dobierz do tego ochronę indywidualną.",
+        "zr": "ZODR 2013",
+        "str": 11
+      },
+      {
+        "t": "Przejęcie kierowania poprzedź zapoznaniem z oceną sytuacji, zamiarem i siłami; zgłoś je do SK PSP.",
+        "zr": "ZODR 2013",
+        "str": 12
+      },
+      {
+        "t": "Zawsze uwzględniaj najbardziej niekorzystny rozwój sytuacji.",
+        "zr": "ZODR 2013",
+        "str": 12
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Rozpiętość kierowania",
+        "wartosc": "KDR-owi nie powinno podlegać bezpośrednio więcej niż 8 dowódców niższego poziomu",
+        "zr": "ZODR 2013",
+        "str": 13
+      },
+      {
+        "nazwa": "Kierowanie",
+        "wartosc": "jednoosobowe; poziom interwencyjny, taktyczny lub strategiczny",
+        "zr": "ZODR 2013",
+        "str": 10
+      },
+      {
+        "nazwa": "Odwód",
+        "wartosc": "wielkość i rodzaj sił, dowódca, miejsce koncentracji, łączność i alarmowanie",
+        "zr": "ZODR 2013",
+        "str": 12
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Uprawnienia KDR (pkt 11)",
+        "punkty": [
+          {
+            "t": "Ewakuacja ludzi (panika, możliwe odcięcie drogi ewakuacji) i mienia; zakaz przebywania osób postronnych.",
+            "zr": "ZODR 2013",
+            "str": 8
+          },
+          {
+            "t": "Prace wyburzeniowe i rozbiórkowe; wstrzymanie ruchu lądowego.",
+            "zr": "ZODR 2013",
+            "str": 9
+          },
+          {
+            "t": "Przyjęcie w użytkowanie pojazdów, sprzętu, ujęć wody, środków gaśniczych, nieruchomości — z wyjątkiem misji dyplomatycznych i urzędów konsularnych.",
+            "zr": "ZODR 2013",
+            "str": 9
+          },
+          {
+            "t": "Odstąpienie od zasad uznanych za bezpieczne, z dostępnymi zabezpieczeniami, gdy istnieje prawdopodobieństwo uratowania życia (sprzęt zastępczy, siła ratownika, ochotnik).",
+            "zr": "ZODR 2013",
+            "str": 9
+          },
+          {
+            "t": "Uprawnienia ograniczone do stanu wyższej konieczności (art. 26 KK); zarządzenia mogą mieć rygor natychmiastowej wykonalności.",
+            "zr": "ZODR 2013",
+            "str": 10
+          }
+        ]
+      },
+      {
+        "etykieta": "Prowadzenie działań",
+        "punkty": [
+          {
+            "t": "Wstępna koncepcja możliwa w czasie dojazdu; dane ze zgłoszenia zweryfikuj na miejscu.",
+            "zr": "ZODR 2013",
+            "str": 10
+          },
+          {
+            "t": "Rozpoznanie jest ciągłe przez całą akcję — przechodzi w monitorowanie sytuacji.",
+            "zr": "ZODR 2013",
+            "str": 11
+          },
+          {
+            "t": "Po rozpoznaniu, ocenie i wyborze celu KDR określa zamiar taktyczny i przekazuje go rozkazem bojowym.",
+            "zr": "ZODR 2013",
+            "str": 11
+          },
+          {
+            "t": "Działania prowadź nieprzerwanie do osiągnięcia celów; brak możliwości kierowania = przejęcie przez inną uprawnioną osobę.",
+            "zr": "ZODR 2013",
+            "str": 12
+          }
+        ]
+      },
+      {
+        "etykieta": "Organizacja terenu akcji",
+        "punkty": [
+          {
+            "t": "Wyznacz strefę zagrożenia i obszar, w którym ratownicy mogą przebywać bez dodatkowej ochrony.",
+            "zr": "ZODR 2013",
+            "str": 13
+          },
+          {
+            "t": "Odcinki bojowe i sztab wg rozporządzenia KSRG; struktura łączności odpowiada strukturze kierowania.",
+            "zr": "ZODR 2013",
+            "str": 13
+          },
+          {
+            "t": "Zadania dla podmiotów współdziałających ustal z ich uprawnionym przedstawicielem (kompetencje, możliwości, gotowość).",
+            "zr": "ZODR 2013",
+            "str": 14
+          }
+        ]
+      },
+      {
+        "etykieta": "Zakończenie",
+        "punkty": [
+          {
+            "t": "O czasie i formie zakończenia decyduje KDR; kierowanie ustaje po przekazaniu poszkodowanych ZRM i pisemnym przekazaniu terenu.",
+            "zr": "ZODR 2013",
+            "str": 14
+          },
+          {
+            "t": "Brak osoby przejmującej lub odmowa przejęcia — zgłoś to do SK.",
+            "zr": "ZODR 2013",
+            "str": 14
+          }
+        ]
+      }
+    ],
+    "tagi_wspolne": [
+      "organizacja dzialan",
+      "dzialania ratownicze"
+    ],
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-zodr-2013",
         "strona": 4,
-        "sekcja": "Wstęp pkt 1 (s. 4); zakres działań (s. 7); uprawnienia KDR (s. 9); kierowanie, rozpoznanie, ciągłość (s. 10–12); odwód, odcinki bojowe, sztab (s. 12–13); zakończenie działań (s. 14)"
+        "sekcja": "Zasady ogólne (s. 4–8), działania ratownicze (s. 8–14), zakończenie (s. 14)"
       }
     ],
-    "data_przegladu": "2026-10-25"
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: Cel główny w kolejności: ludzie, zwierzęta, środowisko, mienie — osiągalny siłami na terenie akcji. W rozpoznaniu załóż wystąpienie zagrożenia i dobierz do tego ochronę indywidualną. Przejęcie kierowania poprzedź zapoznaniem z oceną sytuacji, zamiarem i siłami; zgłoś je do SK PSP. Zawsze uwzględniaj najbardziej niekorzystny rozwój sytuacji.\n2. PARAMETRY: Rozpiętość kierowania — KDR-owi nie powinno podlegać bezpośrednio więcej niż 8 dowódców niższego poziomu; Kierowanie — jednoosobowe; poziom interwencyjny, taktyczny lub strategiczny; Odwód — wielkość i rodzaj sił, dowódca, miejsce koncentracji, łączność i alarmowanie\n3. UPRAWNIENIA KDR (PKT 11): Ewakuacja ludzi (panika, możliwe odcięcie drogi ewakuacji) i mienia; zakaz przebywania osób postronnych. Prace wyburzeniowe i rozbiórkowe; wstrzymanie ruchu lądowego. Przyjęcie w użytkowanie pojazdów, sprzętu, ujęć wody, środków gaśniczych, nieruchomości — z wyjątkiem misji dyplomatycznych i urzędów konsularnych. Odstąpienie od zasad uznanych za bezpieczne, z dostępnymi zabezpieczeniami, gdy istnieje prawdopodobieństwo uratowania życia (sprzęt zastępczy, siła ratownika, ochotnik). Uprawnienia ograniczone do stanu wyższej konieczności (art. 26 KK); zarządzenia mogą mieć rygor natychmiastowej wykonalności.\n4. PROWADZENIE DZIAŁAŃ: Wstępna koncepcja możliwa w czasie dojazdu; dane ze zgłoszenia zweryfikuj na miejscu. Rozpoznanie jest ciągłe przez całą akcję — przechodzi w monitorowanie sytuacji. Po rozpoznaniu, ocenie i wyborze celu KDR określa zamiar taktyczny i przekazuje go rozkazem bojowym. Działania prowadź nieprzerwanie do osiągnięcia celów; brak możliwości kierowania = przejęcie przez inną uprawnioną osobę.\n5. ORGANIZACJA TERENU AKCJI: Wyznacz strefę zagrożenia i obszar, w którym ratownicy mogą przebywać bez dodatkowej ochrony. Odcinki bojowe i sztab wg rozporządzenia KSRG; struktura łączności odpowiada strukturze kierowania. Zadania dla podmiotów współdziałających ustal z ich uprawnionym przedstawicielem (kompetencje, możliwości, gotowość).\n6. ZAKOŃCZENIE: O czasie i formie zakończenia decyduje KDR; kierowanie ustaje po przekazaniu poszkodowanych ZRM i pisemnym przekazaniu terenu. Brak osoby przejmującej lub odmowa przejęcia — zgłoś to do SK."
   },
   {
     "id": "POZ-EV-01",

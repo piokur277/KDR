@@ -1,7 +1,11 @@
 {
   "id": "KARTA-ORG-DETEKTOR-MSA-ALTAIR-4X",
-  "zrodlo": "Dane przekazane przez użytkownika; dołączona instrukcja obsługi producenta MSA ALTAIR 4X, nr zamówieniowy 10106503/03",
-  "data_aktualizacji": "2026-07-25",
+  "wzorzec": 2,
+  "kategoria": "informacja",
+  "grupa": "sprzet",
+  "zrodlo": "MSA: Instrukcja obsługi ALTAIR 4X — miernik wielogazowy, nr zamówieniowy 10106503/03.",
+  "data_aktualizacji": "2026-10-27",
+  "slowo_kluczowe": "detektor msa",
   "keywords": [
     "msa altair 4x",
     "detektor wielogazowy msa",
@@ -19,14 +23,6 @@
     "kalibracja msa altair 4x",
     "test obciążeniowy msa altair 4x",
     "test bump msa altair 4x"
-  ],
-  "prefix": "Detektor wielogazowy MSA Altair 4X - progi alarmowe i sygnalizacja.",
-  "content": "1. Detektor wielogazowy: Altair 4X.\n2. Alarm niski: 10% DGW; 19,5% O2; 25 ppm CO; 10 ppm H2S.\n3. Alarm niski: sygnal dzwiekowy pulsacyjny ok. 95 dB.\n4. Alarm wysoki: 20% DGW; 18% O2; 100 ppm CO; 15 ppm H2S.",
-  "slowo_kluczowe": "detektor msa",
-  "tagi_wspolne": [
-    "detektor",
-    "msa",
-    "pomiary gazow"
   ],
   "aliasy": [
     "msa altair 4x",
@@ -46,16 +42,131 @@
     "test obciążeniowy msa altair 4x",
     "test bump msa altair 4x"
   ],
-  "pelna_procedura": {
-    "tytul": "Instrukcja obsługi MSA ALTAIR 4X - miernik wielogazowy",
-    "plik": "dokumenty/urzadzenia/msa-altair-4x-instrukcja-obslugi.pdf",
-    "strona": 55
-  },
+  "prefix": "Detektor wielogazowy MSA Altair 4X — progi alarmowe, reakcja na alarm, ograniczenia pomiaru, test funkcjonalny (instrukcja producenta).",
+  "najpierw": [
+    {
+      "t": "Alarm podczas pracy — niezwłocznie opuść obszar zagrożenia.",
+      "zr": "MSA Altair 4X",
+      "str": 25
+    },
+    {
+      "t": "„XXX” zamiast odczytu gazów palnych = > 100% DGW: niebezpieczeństwo wybuchu, natychmiast opuść strefę.",
+      "zr": "MSA Altair 4X",
+      "str": 8
+    },
+    {
+      "t": "Dokładne progi sprawdź na swoim przyrządzie lub w świadectwie kalibracji — zależą od ustawień.",
+      "zr": "MSA Altair 4X",
+      "str": 55
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "Gazy palne (EX)",
+      "wartosc": "alarm niski 10% DGW · wysoki 20% DGW (fabrycznie)",
+      "zr": "MSA Altair 4X",
+      "str": 55
+    },
+    {
+      "nazwa": "O₂",
+      "wartosc": "alarm niski 19,5% · wysoki 23,0% (fabrycznie)",
+      "zr": "MSA Altair 4X",
+      "str": 55
+    },
+    {
+      "nazwa": "CO",
+      "wartosc": "niski 25 ppm · wysoki 100 ppm · STEL 100 · TWA 25",
+      "zr": "MSA Altair 4X",
+      "str": 55
+    },
+    {
+      "nazwa": "H₂S",
+      "wartosc": "niski 10 ppm · wysoki 15 ppm · STEL 15 · TWA 10",
+      "zr": "MSA Altair 4X",
+      "str": 55
+    },
+    {
+      "nazwa": "Sygnał dźwiękowy",
+      "wartosc": "95 dBA z 30 cm",
+      "zr": "MSA Altair 4X",
+      "str": 53
+    }
+  ],
+  "sekcje": [
+    {
+      "etykieta": "Alarmy",
+      "punkty": [
+        {
+          "t": "Rodzaje: alarm niski, wysoki, STEL i TWA; alarm = podświetlenie, wibracja, pulsująca ikona.",
+          "zr": "MSA Altair 4X",
+          "str": 25
+        },
+        {
+          "t": "Alarm niedoboru tlenu jest blokowany — nie kasuje się sam; przy trwającej przyczynie przycisk wycisza go tylko na 5 s.",
+          "zr": "MSA Altair 4X",
+          "str": 26
+        },
+        {
+          "t": "Po przekroczeniu 100% DGW czujnik gazów palnych wyłącza się; wskazanie kasuje tylko wyłączenie i włączenie przyrządu na świeżym powietrzu.",
+          "zr": "MSA Altair 4X",
+          "str": 27
+        }
+      ]
+    },
+    {
+      "etykieta": "Ograniczenia pomiaru",
+      "punkty": [
+        {
+          "t": "Odczyty gazów palnych są wiarygodne tylko przy > 10% O₂ (czujnik katalityczny).",
+          "zr": "MSA Altair 4X",
+          "str": 8
+        },
+        {
+          "t": "Nie używaj w atmosferze z niedoborem lub nadmiarem tlenu, redukującej, obojętnej, z palną mgłą lub pyłem, ani dla par cieczy o temperaturze zapłonu > 38°C.",
+          "zr": "MSA Altair 4X",
+          "str": 8
+        },
+        {
+          "t": "Po uderzeniu lub upadku sprawdź kalibrację; odczekaj na ustabilizowanie wskazań.",
+          "zr": "MSA Altair 4X",
+          "str": 8
+        },
+        {
+          "t": "Fałszywe alarmy O₂ możliwe przy zmianie ciśnienia lub skrajnej temperaturze.",
+          "zr": "MSA Altair 4X",
+          "str": 26
+        }
+      ]
+    },
+    {
+      "etykieta": "Test funkcjonalny (bump test)",
+      "punkty": [
+        {
+          "t": "Gaz kalibracyjny → „BUMP TEST?” → „BUMP PASS” lub „BUMP ERROR”; przy błędzie wykonaj kalibrację.",
+          "zr": "MSA Altair 4X",
+          "str": 43
+        }
+      ]
+    }
+  ],
+  "nie_rob": [
+    {
+      "t": "Nie zasłaniaj ani nie przedmuchuj sprężonym powietrzem otworów czujników.",
+      "zr": "MSA Altair 4X",
+      "str": 9
+    }
+  ],
+  "tagi_wspolne": [
+    "detektor",
+    "msa",
+    "pomiary gazow"
+  ],
   "dokumenty_zrodlowe": [
     {
       "dokument_id": "doc-msa-altair-4x-manual",
       "strona": 55,
-      "sekcja": "Ustawione fabrycznie progi oraz punkty zadalne alarmów; pełna instrukcja obsługi ma 78 stron"
+      "sekcja": "Przepisy bezpieczeństwa (s. 8–9), alarmy (s. 25–27), test funkcjonalny (s. 43), progi fabryczne (s. 55)"
     }
-  ]
+  ],
+  "data_przegladu": "2026-10-27"
 }

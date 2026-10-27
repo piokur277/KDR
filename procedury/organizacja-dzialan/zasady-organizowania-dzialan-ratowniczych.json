@@ -1,8 +1,10 @@
 {
   "id": "KARTA-ORG-ZASADY-ORGANIZOWANIA-DZIALAN-RATOWNICZYCH",
+  "wzorzec": 2,
   "kategoria": "organizacja",
-  "zrodlo": "Zasady organizowania dzialan ratowniczych, Komenda Glowna Panstwowej Strazy Pozarnej, Warszawa 2013",
-  "data_aktualizacji": "2013-03",
+  "grupa": "org",
+  "zrodlo": "KG PSP: Zasady organizowania działań ratowniczych, Warszawa, marzec 2013 (dokumentacja KG PSP — zachowuje ważność do aktualizacji, § 57 ust. 2 rozporządzenia KSRG z 24.06.2026).",
+  "data_aktualizacji": "2026-10-27",
   "slowo_kluczowe": "organizacja dzialan ratowniczych",
   "keywords": [
     "zasady organizowania dzialan",
@@ -15,12 +17,6 @@
     "odwod akcji",
     "lacznosc alarmowanie"
   ],
-  "prefix": "Zasady organizowania dzialan ratowniczych - karta organizacyjna dla KDR.",
-  "content": "1. CEL DOKUMENTU: uporzadkowanie zasad kierowania dzialaniami ratowniczymi na wszystkich poziomach kierowania oraz ujednolicenie sposobu realizacji zadan przez jednostki uczestniczace w dzialaniach.\n2. KIEDY STOSOWAC: podczas organizowania i prowadzenia dzialan ratowniczych na poziomie interwencyjnym i taktycznym, od chwili przybycia pierwszych sil i srodkow do formalnego zakonczenia dzialan.\n3. ZAKRES DZIALAN RATOWNICZYCH: do dzialan w ksrg zalicza sie m.in. ewakuacje ludzi, zwierzat i mienia, ocenianie i prognozowanie zagrozen, oswietlenie miejsca zdarzenia, stabilizowanie i podnoszenie konstrukcji, ograniczanie i neutralizacje substancji niebezpiecznych, zabezpieczenie miejsca wycieku, dekontaminacje wstepna, uruchamianie dodatkowych sil i srodkow oraz oddymianie stref zagrozenia.\n4. POZIOMY REALIZACJI: czynnosci ratownicze prowadzi sie na poziomie podstawowym przez podmioty ksrg w danych dziedzinach ratownictwa oraz na poziomie specjalistycznym przez odpowiednio przeszkolone podmioty i grupy specjalistyczne.\n5. UPRAWNIENIA KDR: KDR moze m.in. zarzadzic ewakuacje ludzi lub mienia, wstrzymac komunikacje, zakazac przebywania w rejonie dzialan, przejac czasowo niezbedne pojazdy, sprzet i srodki, organizowac prace wyburzeniowe i rozbiorkowe, korzystac z informacji od dyzurnych oraz organizowac miejsce prowadzenia dzialan i strefy zagrozenia.\n6. PROWADZENIE DZIALAN: kierowanie dzialaniem ratowniczym polega na rozpoznaniu, ocenie sytuacji, wyborze celu i zamiaru taktycznego, doborze adekwatnych technik, wykorzystaniu dostepnych zasobow oraz stalym monitorowaniu sytuacji i korygowaniu sposobu prowadzenia akcji.\n7. ROZPOZNANIE I CEL: rozpoznanie musi byc prowadzone przez caly czas trwania akcji, a pozyskane dane nalezy stale weryfikowac i wykorzystywac do aktualizacji oceny sytuacji oraz zamiaru taktycznego. Celem glownym jest ratowanie ludzi, zwierzat, srodowiska i mienia przy wykorzystaniu sil i srodkow dostepnych na miejscu.\n8. CIAGLOSC KIEROWANIA: dzialania ratownicze powinny byc realizowane nieprzerwanie do czasu osiagniecia zamierzonych celow, a KDR odpowiada za zapewnienie ciaglosci kierowania na poszczegolnych poziomach.\n9. ORGANIZACJA STRUKTURY DZIALAN: w razie potrzeby KDR organizuje odwod, wyznacza strukture dowodzenia, miejsce koncentracji, zapewnia lacznosc i alarmowanie, moze dzielic teren akcji na odcinki bojowe i powolywac sztab akcji.\n10. UWAGI OPERACYJNE: kierowanie dzialaniem rozpoczyna sie z chwila przybycia pierwszych sil i srodkow i konczy po ustaleniu, ze dzialania ratownicze zostaly zakonczone.",
-  "tagi_wspolne": [
-    "organizacja dzialan",
-    "dzialania ratownicze"
-  ],
   "aliasy": [
     "zasady organizowania dzialan",
     "kdr organizacja dzialan",
@@ -32,17 +28,151 @@
     "odwod akcji",
     "lacznosc alarmowanie"
   ],
-  "pelna_procedura": {
-    "tytul": "Zasady organizowania dzialan ratowniczych, Komenda Glowna Panstwowej Strazy Pozarnej, Warszawa 2013",
-    "plik": "dokumenty/organizacja/zasady-organizowania-dzialan-ratowniczych-2013-03.pdf",
-    "strona": 4
-  },
+  "prefix": "Zasady organizowania działań ratowniczych — uprawnienia KDR, rozpoznanie, cel i zamiar, ciągłość, struktura dowodzenia, zakończenie (KG PSP 2013).",
+  "najpierw": [
+    {
+      "t": "Cel główny w kolejności: ludzie, zwierzęta, środowisko, mienie — osiągalny siłami na terenie akcji.",
+      "zr": "ZODR 2013",
+      "str": 11
+    },
+    {
+      "t": "W rozpoznaniu załóż wystąpienie zagrożenia i dobierz do tego ochronę indywidualną.",
+      "zr": "ZODR 2013",
+      "str": 11
+    },
+    {
+      "t": "Przejęcie kierowania poprzedź zapoznaniem z oceną sytuacji, zamiarem i siłami; zgłoś je do SK PSP.",
+      "zr": "ZODR 2013",
+      "str": 12
+    },
+    {
+      "t": "Zawsze uwzględniaj najbardziej niekorzystny rozwój sytuacji.",
+      "zr": "ZODR 2013",
+      "str": 12
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "Rozpiętość kierowania",
+      "wartosc": "KDR-owi nie powinno podlegać bezpośrednio więcej niż 8 dowódców niższego poziomu",
+      "zr": "ZODR 2013",
+      "str": 13
+    },
+    {
+      "nazwa": "Kierowanie",
+      "wartosc": "jednoosobowe; poziom interwencyjny, taktyczny lub strategiczny",
+      "zr": "ZODR 2013",
+      "str": 10
+    },
+    {
+      "nazwa": "Odwód",
+      "wartosc": "wielkość i rodzaj sił, dowódca, miejsce koncentracji, łączność i alarmowanie",
+      "zr": "ZODR 2013",
+      "str": 12
+    }
+  ],
+  "sekcje": [
+    {
+      "etykieta": "Uprawnienia KDR (pkt 11)",
+      "punkty": [
+        {
+          "t": "Ewakuacja ludzi (panika, możliwe odcięcie drogi ewakuacji) i mienia; zakaz przebywania osób postronnych.",
+          "zr": "ZODR 2013",
+          "str": 8
+        },
+        {
+          "t": "Prace wyburzeniowe i rozbiórkowe; wstrzymanie ruchu lądowego.",
+          "zr": "ZODR 2013",
+          "str": 9
+        },
+        {
+          "t": "Przyjęcie w użytkowanie pojazdów, sprzętu, ujęć wody, środków gaśniczych, nieruchomości — z wyjątkiem misji dyplomatycznych i urzędów konsularnych.",
+          "zr": "ZODR 2013",
+          "str": 9
+        },
+        {
+          "t": "Odstąpienie od zasad uznanych za bezpieczne, z dostępnymi zabezpieczeniami, gdy istnieje prawdopodobieństwo uratowania życia (sprzęt zastępczy, siła ratownika, ochotnik).",
+          "zr": "ZODR 2013",
+          "str": 9
+        },
+        {
+          "t": "Uprawnienia ograniczone do stanu wyższej konieczności (art. 26 KK); zarządzenia mogą mieć rygor natychmiastowej wykonalności.",
+          "zr": "ZODR 2013",
+          "str": 10
+        }
+      ]
+    },
+    {
+      "etykieta": "Prowadzenie działań",
+      "punkty": [
+        {
+          "t": "Wstępna koncepcja możliwa w czasie dojazdu; dane ze zgłoszenia zweryfikuj na miejscu.",
+          "zr": "ZODR 2013",
+          "str": 10
+        },
+        {
+          "t": "Rozpoznanie jest ciągłe przez całą akcję — przechodzi w monitorowanie sytuacji.",
+          "zr": "ZODR 2013",
+          "str": 11
+        },
+        {
+          "t": "Po rozpoznaniu, ocenie i wyborze celu KDR określa zamiar taktyczny i przekazuje go rozkazem bojowym.",
+          "zr": "ZODR 2013",
+          "str": 11
+        },
+        {
+          "t": "Działania prowadź nieprzerwanie do osiągnięcia celów; brak możliwości kierowania = przejęcie przez inną uprawnioną osobę.",
+          "zr": "ZODR 2013",
+          "str": 12
+        }
+      ]
+    },
+    {
+      "etykieta": "Organizacja terenu akcji",
+      "punkty": [
+        {
+          "t": "Wyznacz strefę zagrożenia i obszar, w którym ratownicy mogą przebywać bez dodatkowej ochrony.",
+          "zr": "ZODR 2013",
+          "str": 13
+        },
+        {
+          "t": "Odcinki bojowe i sztab wg rozporządzenia KSRG; struktura łączności odpowiada strukturze kierowania.",
+          "zr": "ZODR 2013",
+          "str": 13
+        },
+        {
+          "t": "Zadania dla podmiotów współdziałających ustal z ich uprawnionym przedstawicielem (kompetencje, możliwości, gotowość).",
+          "zr": "ZODR 2013",
+          "str": 14
+        }
+      ]
+    },
+    {
+      "etykieta": "Zakończenie",
+      "punkty": [
+        {
+          "t": "O czasie i formie zakończenia decyduje KDR; kierowanie ustaje po przekazaniu poszkodowanych ZRM i pisemnym przekazaniu terenu.",
+          "zr": "ZODR 2013",
+          "str": 14
+        },
+        {
+          "t": "Brak osoby przejmującej lub odmowa przejęcia — zgłoś to do SK.",
+          "zr": "ZODR 2013",
+          "str": 14
+        }
+      ]
+    }
+  ],
+  "tagi_wspolne": [
+    "organizacja dzialan",
+    "dzialania ratownicze"
+  ],
   "dokumenty_zrodlowe": [
     {
       "dokument_id": "doc-zodr-2013",
       "strona": 4,
-      "sekcja": "Wstęp pkt 1 (s. 4); zakres działań (s. 7); uprawnienia KDR (s. 9); kierowanie, rozpoznanie, ciągłość (s. 10–12); odwód, odcinki bojowe, sztab (s. 12–13); zakończenie działań (s. 14)"
+      "sekcja": "Zasady ogólne (s. 4–8), działania ratownicze (s. 8–14), zakończenie (s. 14)"
     }
   ],
-  "data_przegladu": "2026-10-25"
+  "data_przegladu": "2026-10-27"
 }
