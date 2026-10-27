@@ -1,0 +1,101 @@
+{
+  "id": "KARTA-CHEM-LNG-PRZEKAZANIE",
+  "wzorzec": 2,
+  "kategoria": "dzialania",
+  "grupa": "cbrn",
+  "zrodlo": "KG PSP: Standardowe zasady postępowania podczas zdarzeń z udziałem skroplonego gazu ziemnego (LNG), wydanie I, grudzień 2025.",
+  "data_aktualizacji": "2026-10-27",
+  "slowo_kluczowe": "przekazanie miejsca zdarzenia lng",
+  "keywords": [
+    "przekazanie cysterny lng",
+    "dozor cysterny lng",
+    "po akcji lng"
+  ],
+  "aliasy": [
+    "przekazanie cysterny lng",
+    "dozor cysterny lng",
+    "po akcji lng"
+  ],
+  "prefix": "LNG — przekazanie miejsca zdarzenia po pożarze lub wycieku: dozór, pomiary, odległości 5 m i 20 m, przepompowanie (SZP KG PSP 2025).",
+  "najpierw": [
+    {
+      "t": "Przekaż właścicielowi lub użytkownikowi cysterny, zarządcy drogi, Policji lub innej instytucji — „Potwierdzenie przekazania terenu, obiektu lub mienia”.",
+      "zr": "SZP LNG 2025",
+      "str": 13
+    },
+    {
+      "t": "Poinformuj o działaniach z udziałem LNG, zagrożeniach i sposobie postępowania.",
+      "zr": "SZP LNG 2025",
+      "str": 13
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "Cysterna od rowów, zagłębień, studzienek, odpływów",
+      "wartosc": "min. 5 m, na otwartej przestrzeni",
+      "zr": "SZP LNG 2025",
+      "str": 13
+    },
+    {
+      "nazwa": "Cysterna od pojazdów, materiałów palnych, budynków",
+      "wartosc": "min. 20 m",
+      "zr": "SZP LNG 2025",
+      "str": 13
+    }
+  ],
+  "sekcje": [
+    {
+      "etykieta": "Przekaż informacje o",
+      "punkty": [
+        {
+          "t": "Dozorze cysterny i pomiarach atmosfery (metan, eksplozymetr) — możliwe niewidoczne uszkodzenia, utrata próżni, nieszczelna armatura.",
+          "zr": "SZP LNG 2025",
+          "str": 13
+        },
+        {
+          "t": "Kontroli temperatury powłoki zewnętrznej (pirometr, kamera).",
+          "zr": "SZP LNG 2025",
+          "str": 13
+        },
+        {
+          "t": "Zabezpieczeniu miejsca przed osobami postronnymi.",
+          "zr": "SZP LNG 2025",
+          "str": 13
+        },
+        {
+          "t": "Przepompowaniu gazu do zapasowej cysterny lub wypaleniu w pochodni (firma transportowa lub SPOT).",
+          "zr": "SZP LNG 2025",
+          "str": 13
+        }
+      ]
+    },
+    {
+      "etykieta": "Dodatkowo po wycieku (Z4, Z5)",
+      "punkty": [
+        {
+          "t": "Sprawdzeniu zagłębień, odpływów i studzienek — LNG zamknięty pod lodem, zalegające pary.",
+          "zr": "SZP LNG 2025",
+          "str": 14
+        },
+        {
+          "t": "Stosowaniu środków ochrony osobistej adekwatnych do zagrożenia.",
+          "zr": "SZP LNG 2025",
+          "str": 14
+        }
+      ]
+    }
+  ],
+  "tagi_wspolne": [
+    "lng",
+    "gaz skroplony",
+    "cysterna lng"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-lng-2025",
+      "strona": 13,
+      "sekcja": "Przekazanie miejsca zdarzenia (s. 13–14)"
+    }
+  ],
+  "data_przegladu": "2026-10-27"
+}

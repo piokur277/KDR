@@ -1,8 +1,10 @@
 {
   "id": "KARTA-CHEM-Z3-LNG-POZAR-ROZLEWISKA",
+  "wzorzec": 2,
   "kategoria": "dzialania",
-  "zrodlo": "Zasady postepowania podczas zdarzen z LNG, KG PSP",
-  "data_aktualizacji": "2025-12",
+  "grupa": "cbrn",
+  "zrodlo": "KG PSP: Standardowe zasady postępowania podczas zdarzeń z udziałem skroplonego gazu ziemnego (LNG), wydanie I, grudzień 2025.",
+  "data_aktualizacji": "2026-10-27",
   "slowo_kluczowe": "pozar rozlewiska lng",
   "keywords": [
     "pool fire",
@@ -12,14 +14,6 @@
     "piana na lng",
     "proszek lng"
   ],
-  "prefix": "Karta Z3 - Pozar rozlewiska skroplonego gazu ziemnego LNG (Pool Fire).",
-  "content": "1. KOD / NAZWA: LNG Z3 - pozar rozlewiska skroplonego gazu ziemnego LNG (Pool Fire).\n2. ROZPOZNANIE: rozpoznaj, czy pozar dotyczy samego rozlewiska, czy zagrozone sa tez sasiednie obiekty i korpus cysterny.\n3. STREFA: w przekazanej procedurze nie wskazano jednej liczbowej strefy; kluczowe jest zabezpieczenie otoczenia i kontrola stezen wybuchowych poza widoczna chmura.\n4. SOI: w przekazanej procedurze nie wskazano osobnego zestawu SOI.\n5. DZIALANIA KRYTYCZNE: bezwzglednie nie podawaj wody na rozlewisko LNG. Wode stosuj tylko do schladzania sasiednich obiektow i korpusu cysterny pradami rozproszonymi.\n6. PROCEDURA SZCZEGOLOWA: zalecane jest podanie piany lekkiej 500:1 bezposrednio na rozlewisko z wydajnoscia 10 l/min/m2; podaz uzupelniaj co 1 minute przez 30 sekund. Dopuszczalne jest tez uzycie proszku gasniczego, czesto w kombinacji z piana lekka. Po ewentualnym ugaszeniu monitoruj okolice eksplozymetrem i rozstaw kurtyny wodne.\n7. CO MOZE POJSC NIE TAK: podanie wody bezposrednio na rozlewisko natychmiast spoteguje odparowanie i gwaltownie zwiekszy pozar. Uzycie piany ciezkiej jest zabronione. Ugaszenie rozlewiska proszkiem lub piana wiaze sie z duzym ryzykiem ponownego zaplonu.\n8. UWAGI OPERACYJNE: na powierzchni rozlewiska po podaniu piany lekkiej moze utworzyc sie lod i kominy, co zmniejsza intensywnosc pozaru.",
-  "tagi_wspolne": [
-    "lng",
-    "gaz skroplony",
-    "cysterna lng",
-    "pozar"
-  ],
   "aliasy": [
     "pool fire",
     "pali sie kaluza lng",
@@ -28,11 +22,131 @@
     "piana na lng",
     "proszek lng"
   ],
+  "prefix": "LNG Z3 — pożar rozlewiska (pool fire): strefa 300 m, piana lekka 500:1, proszek, zakaz wody i piany ciężkiej (SZP KG PSP 2025).",
+  "najpierw": [
+    {
+      "t": "Strefa zagrożenia dla ratowników 300 m; rozpoznanie zza tarczy balistycznej.",
+      "zr": "SZP LNG 2025",
+      "str": 8
+    },
+    {
+      "t": "Wody na rozlewisko LNG nie podawaj — zwiększa parowanie i pożar.",
+      "zr": "SZP LNG 2025",
+      "str": 8
+    },
+    {
+      "t": "Na rozlewisko piana lekka; środki gaśnicze podawaj zgodnie z kierunkiem wiatru.",
+      "zr": "SZP LNG 2025",
+      "str": 8
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "Piana lekka",
+      "wartosc": "500:1 (±50) · 10 l/(min·m²) · warstwa 1,2 m · co 1 min przez 30 s",
+      "zr": "SZP LNG 2025",
+      "str": 9
+    },
+    {
+      "nazwa": "Efekt piany lekkiej",
+      "wartosc": "promieniowanie cieplne mniejsze o ok. 90% w 60 s; tworzy się lód i „kominy lodowe”",
+      "zr": "SZP LNG 2025",
+      "str": 9
+    },
+    {
+      "nazwa": "Zakres palności",
+      "wartosc": "DGW 5% – GGW 15%; stężenia palne także poza widoczną chmurą",
+      "zr": "SZP LNG 2025",
+      "str": 9
+    },
+    {
+      "nazwa": "Promieniowanie cieplne",
+      "wartosc": "średnio 220 kW/m² — 157% pożaru benzyny",
+      "zr": "SZP LNG 2025",
+      "str": 8
+    }
+  ],
+  "sekcje": [
+    {
+      "etykieta": "Środki gaśnicze",
+      "punkty": [
+        {
+          "t": "Woda tylko do chłodzenia korpusu cysterny bez wycieku; kontakt z LNG zwiększy pożar.",
+          "zr": "SZP LNG 2025",
+          "str": 8
+        },
+        {
+          "t": "Brak piany lekkiej — piana średnia (mniej skuteczna), podawana łagodnie pośrednio na przeszkodę.",
+          "zr": "SZP LNG 2025",
+          "str": 9
+        },
+        {
+          "t": "Proszek zalecany tylko, gdy zaraz po ugaszeniu można położyć pianę lekką — duże ryzyko ponownego zapłonu.",
+          "zr": "SZP LNG 2025",
+          "str": 9
+        },
+        {
+          "t": "Przy proszku wyznacz obserwatora skuteczności — operator działka może mieć ograniczoną widoczność.",
+          "zr": "SZP LNG 2025",
+          "str": 9
+        },
+        {
+          "t": "Rekomendowane łączenie piany lekkiej i proszku.",
+          "zr": "SZP LNG 2025",
+          "str": 9
+        }
+      ]
+    },
+    {
+      "etykieta": "Obrona i chłodzenie",
+      "punkty": [
+        {
+          "t": "Prądy rozproszone na obiekty w pobliżu — ograniczenie promieniowania.",
+          "zr": "SZP LNG 2025",
+          "str": 9
+        },
+        {
+          "t": "Chłodzenie zbiornika bezobsługowe, bez wody na zawory i do wnętrza zbiornika; kontrolowane wypalanie gazu.",
+          "zr": "SZP LNG 2025",
+          "str": 8
+        }
+      ]
+    },
+    {
+      "etykieta": "Po ugaszeniu",
+      "punkty": [
+        {
+          "t": "Mierz stężenie LNG w powietrzu, rozstaw kurtyny wodne; dalej jak przy wycieku bez pożaru (Z4).",
+          "zr": "SZP LNG 2025",
+          "str": 9
+        }
+      ]
+    }
+  ],
+  "nie_rob": [
+    {
+      "t": "Nie używaj piany ciężkiej.",
+      "zr": "SZP LNG 2025",
+      "str": 9
+    },
+    {
+      "t": "Nie podawaj wody na rozlewisko.",
+      "zr": "SZP LNG 2025",
+      "str": 8
+    }
+  ],
+  "tagi_wspolne": [
+    "lng",
+    "gaz skroplony",
+    "cysterna lng",
+    "pozar"
+  ],
   "dokumenty_zrodlowe": [
     {
       "dokument_id": "doc-lng-2025",
       "strona": 8,
-      "sekcja": "Karta LNG"
+      "sekcja": "Karta Z3 — pożar rozlewiska (s. 8–9)"
     }
-  ]
+  ],
+  "data_przegladu": "2026-10-27"
 }

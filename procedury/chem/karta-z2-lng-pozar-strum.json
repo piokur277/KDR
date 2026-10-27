@@ -1,8 +1,10 @@
 {
   "id": "KARTA-CHEM-Z2-LNG-POZAR-STRUM",
+  "wzorzec": 2,
   "kategoria": "dzialania",
-  "zrodlo": "Zasady postepowania podczas zdarzen z LNG, KG PSP",
-  "data_aktualizacji": "2025-12",
+  "grupa": "cbrn",
+  "zrodlo": "KG PSP: Standardowe zasady postępowania podczas zdarzeń z udziałem skroplonego gazu ziemnego (LNG), wydanie I, grudzień 2025.",
+  "data_aktualizacji": "2026-10-27",
   "slowo_kluczowe": "pozar strumieniowy lng",
   "keywords": [
     "jet fire",
@@ -12,14 +14,6 @@
     "ogien z cysterny lng",
     "palnik lng"
   ],
-  "prefix": "Karta Z2 - Pozar strumieniowy z wycieku cysterny LNG (Jet Fire).",
-  "content": "1. KOD / NAZWA: LNG Z2 - pozar strumieniowy z wycieku cysterny LNG (Jet Fire).\n2. ROZPOZNANIE: dokonaj rozpoznania zza oslony balistycznej i uwzglednij bardzo silne promieniowanie cieplne, znacznie wyzsze niz przy pozarach benzyny.\n3. STREFA: wyznacz strefe zagrozenia dla ratownikow 300 m.\n4. SOI: stosuj pelne ubranie specjalne z kapturem, ODO i rekawice kriogeniczne.\n5. DZIALANIA KRYTYCZNE: rozstaw kurtyny i prady rozproszone do ograniczenia promieniowania cieplnego oraz prowadz bezobslugowe chlodzenie zbiornika woda z wydajnoscia 10 l/min/m2.\n6. PROCEDURA SZCZEGOLOWA: nie ugaszaj pozaru strumieniowego, jesli nie masz pewnosci, ze odetniesz wyplyw gazu. Nie podawaj wody na zawory bezpieczenstwa ani do wnetrza rozszczelnienia. Prowadz kontrolowane wypalanie ulatniajacego sie gazu i stale kontroluj temperature pozostalej czesci plaszcza.\n7. CO MOZE POJSC NIE TAK: ugaszenie plomienia bez odciecia wyplywu grozi wybuchem chmury. Nieprawidlowe podawanie wody moze podwyzszyc temperature miejsc, ktore same schladzaja sie przez rozprezajacy sie gaz.\n8. UWAGI OPERACYJNE: zwracaj uwage, aby pradem wody nie ogrzewac powierzchni cysterny schladzanej przez wyplywajacy gaz.",
-  "tagi_wspolne": [
-    "lng",
-    "gaz skroplony",
-    "cysterna lng",
-    "pozar"
-  ],
   "aliasy": [
     "jet fire",
     "wyciek i pozar lng",
@@ -28,11 +22,100 @@
     "ogien z cysterny lng",
     "palnik lng"
   ],
+  "prefix": "LNG Z2 — pożar strumieniowy (jet fire) z wycieku cysterny: strefa 300 m, kontrolowane wypalanie, chłodzenie bezobsługowe (SZP KG PSP 2025).",
+  "najpierw": [
+    {
+      "t": "Strefa zagrożenia dla ratowników 300 m; po ugaszeniu kontroluj ją przyrządami.",
+      "zr": "SZP LNG 2025",
+      "str": 7
+    },
+    {
+      "t": "Pełne ubranie specjalne z kapturem przeciwogniowym, ODO i rękawice kriogeniczne.",
+      "zr": "SZP LNG 2025",
+      "str": 7
+    },
+    {
+      "t": "Rozpoznanie zza tarczy balistycznej: miejsce i faza wycieku, możliwość odcięcia wypływu, przyrządy na cysternie, tabliczka znamionowa.",
+      "zr": "SZP LNG 2025",
+      "str": 7
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "Promieniowanie cieplne",
+      "wartosc": "średnio 220 kW/m² — 157% pożaru benzyny (140 kW/m²)",
+      "zr": "SZP LNG 2025",
+      "str": 7
+    },
+    {
+      "nazwa": "Chłodzenie zbiornika",
+      "wartosc": "10 l/(m²·min) — zaopatrzenie wodne pod tę intensywność",
+      "zr": "SZP LNG 2025",
+      "str": 7
+    },
+    {
+      "nazwa": "Wybuch",
+      "wartosc": "w otwartej przestrzeni mało prawdopodobny; możliwy w przestrzeniach zamkniętych i półzamkniętych",
+      "zr": "SZP LNG 2025",
+      "str": 7
+    }
+  ],
+  "sekcje": [
+    {
+      "etykieta": "Działania",
+      "punkty": [
+        {
+          "t": "Kurtyny wodne i stacjonarne prądy rozproszone ograniczają promieniowanie cieplne.",
+          "zr": "SZP LNG 2025",
+          "str": 7
+        },
+        {
+          "t": "Chłodzenie bezobsługowe prądami rozproszonymi tak, by nie ogrzewać miejsc chłodzonych przez rozprężający się gaz.",
+          "zr": "SZP LNG 2025",
+          "str": 7
+        },
+        {
+          "t": "Kontroluj temperaturę zbiornika (pirometr, kamera) i odczyty przyrządów na cysternie.",
+          "zr": "SZP LNG 2025",
+          "str": 7
+        },
+        {
+          "t": "Prowadź kontrolowane wypalanie ulatniającego się gazu.",
+          "zr": "SZP LNG 2025",
+          "str": 7
+        },
+        {
+          "t": "Ewentualnie wentylatory Ex do rozcieńczania gazu.",
+          "zr": "SZP LNG 2025",
+          "str": 7
+        }
+      ]
+    }
+  ],
+  "nie_rob": [
+    {
+      "t": "Nie gaś pożaru, jeśli nie da się odciąć wypływu gazu.",
+      "zr": "SZP LNG 2025",
+      "str": 7
+    },
+    {
+      "t": "Nie podawaj wody na zawory bezpieczeństwa ani do wnętrza zbiornika.",
+      "zr": "SZP LNG 2025",
+      "str": 7
+    }
+  ],
+  "tagi_wspolne": [
+    "lng",
+    "gaz skroplony",
+    "cysterna lng",
+    "pozar"
+  ],
   "dokumenty_zrodlowe": [
     {
       "dokument_id": "doc-lng-2025",
       "strona": 7,
-      "sekcja": "Karta LNG"
+      "sekcja": "Karta Z2 — pożar strumieniowy (s. 7)"
     }
-  ]
+  ],
+  "data_przegladu": "2026-10-27"
 }

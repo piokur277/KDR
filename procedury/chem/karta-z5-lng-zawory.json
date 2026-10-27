@@ -1,8 +1,10 @@
 {
   "id": "KARTA-CHEM-Z5-LNG-ZAWORY",
+  "wzorzec": 2,
   "kategoria": "dzialania",
-  "zrodlo": "Zasady postepowania podczas zdarzen z LNG, KG PSP",
-  "data_aktualizacji": "2025-12",
+  "grupa": "cbrn",
+  "zrodlo": "KG PSP: Standardowe zasady postępowania podczas zdarzeń z udziałem skroplonego gazu ziemnego (LNG), wydanie I, grudzień 2025.",
+  "data_aktualizacji": "2026-10-27",
   "slowo_kluczowe": "zrzut cisnienia lng",
   "keywords": [
     "gwizda z cysterny",
@@ -13,15 +15,6 @@
     "emisja z zaworow lng",
     "nadcisnienie lng"
   ],
-  "prefix": "Karta Z5 - Emisja gazu LNG przez zawory bezpieczenstwa (Zrzut cisnienia).",
-  "content": "1. KOD / NAZWA: LNG Z5 - emisja gazu LNG przez zawory bezpieczenstwa (zrzut cisnienia).\n2. ROZPOZNANIE: sytuacja moze dotyczyc samoczynnego okresowego wzrostu cisnienia, wyrzucanego przez kominy na dachu cysterny. Oceniaj, czy emisja ma charakter typowego zrzutu, czy przechodzi w regularny wyciek.\n3. STREFA: wyznacz strefe 150 m i usun wszystkie zrodla iskrzenia i zaplonu.\n4. SOI: w przekazanej procedurze nie wskazano osobnego zestawu SOI.\n5. DZIALANIA KRYTYCZNE: stale monitoruj atmosfere eksplozymetrem i sprawdz cala cysterne kamera termowizyjna.\n6. PROCEDURA SZCZEGOLOWA: alarmuj przy 2,5% objetosci. Jezeli widoczne jest nagle miejscowe wychlodzenie plaszcza, traktuj to jako oznake rozszczelnienia powloki prozniowej. Jezeli emisja nie ustepuje, wdroz dzialania jak przy regularnym wycieku i przejdz do procedury Z4, stosujac m.in. kurtyny wodne i wentylatory Ex. Jezeli oprocz wyrzutu gazu z zaworu obserwujesz wyciek fazy plynnej, natychmiast wdroz procedure Z4.\n7. CO MOZE POJSC NIE TAK: bledna ocena samoczynnego zrzutu cisnienia jako zjawiska niegroznego moze opoznic wdrozenie procedury wycieku.\n8. UWAGI OPERACYJNE: kluczowe znaczenie ma rozroznienie miedzy okresowym zrzutem cisnienia a utrzymujacym sie wyciekiem gazu lub fazy plynnej.",
-  "tagi_wspolne": [
-    "lng",
-    "gaz skroplony",
-    "cysterna lng",
-    "zawory",
-    "zrzut cisnienia"
-  ],
   "aliasy": [
     "gwizda z cysterny",
     "syk z cysterny",
@@ -31,11 +24,78 @@
     "emisja z zaworow lng",
     "nadcisnienie lng"
   ],
+  "prefix": "LNG Z5 — emisja gazu przez zawory bezpieczeństwa (zrzut ciśnienia) w transporcie lub przy regazyfikacji (SZP KG PSP 2025).",
+  "najpierw": [
+    {
+      "t": "Strefa zagrożenia 150 m wokół cysterny lub zbiornika; usuń źródła zapłonu.",
+      "zr": "SZP LNG 2025",
+      "str": 12
+    },
+    {
+      "t": "Sprawdź zbiornik kamerą termowizyjną — miejscowe wychłodzenie = rozszczelnienie zbiornika wewnętrznego.",
+      "zr": "SZP LNG 2025",
+      "str": 12
+    },
+    {
+      "t": "Mierz stężenie metanu eksplozymetrem, także poza widoczną chmurą i w przestrzeniach zamkniętych.",
+      "zr": "SZP LNG 2025",
+      "str": 12
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "Bezpieczne stężenie",
+      "wartosc": "do 50% DGW = 2,5% obj.",
+      "zr": "SZP LNG 2025",
+      "str": 12
+    },
+    {
+      "nazwa": "Zakres palności",
+      "wartosc": "DGW 5% – GGW 15%",
+      "zr": "SZP LNG 2025",
+      "str": 12
+    }
+  ],
+  "sekcje": [
+    {
+      "etykieta": "Kiedy przejść do Z4",
+      "punkty": [
+        {
+          "t": "Dodatkowy wyciek fazy ciekłej — działania z karty Z4.",
+          "zr": "SZP LNG 2025",
+          "str": 12
+        },
+        {
+          "t": "Zjawisko nie ustępuje — traktuj jako wyciek fazy gazowej (Z4).",
+          "zr": "SZP LNG 2025",
+          "str": 12
+        }
+      ]
+    },
+    {
+      "etykieta": "Rozpoznanie",
+      "punkty": [
+        {
+          "t": "Uszkodzenia cysterny, poziomowskaz, ciśnieniomierz, temperatura fazy ciekłej, tabliczka znamionowa, pogoda i teren.",
+          "zr": "SZP LNG 2025",
+          "str": 12
+        }
+      ]
+    }
+  ],
+  "tagi_wspolne": [
+    "lng",
+    "gaz skroplony",
+    "cysterna lng",
+    "zawory",
+    "zrzut cisnienia"
+  ],
   "dokumenty_zrodlowe": [
     {
       "dokument_id": "doc-lng-2025",
       "strona": 12,
-      "sekcja": "Karta LNG"
+      "sekcja": "Emisja z zaworów bezpieczeństwa (s. 12)"
     }
-  ]
+  ],
+  "data_przegladu": "2026-10-27"
 }

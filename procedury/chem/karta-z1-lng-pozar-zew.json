@@ -1,8 +1,10 @@
 {
   "id": "KARTA-CHEM-Z1-LNG-POZAR-ZEW",
+  "wzorzec": 2,
   "kategoria": "dzialania",
-  "zrodlo": "Zasady postepowania podczas zdarzen z LNG, KG PSP",
-  "data_aktualizacji": "2025-12",
+  "grupa": "cbrn",
+  "zrodlo": "KG PSP: Standardowe zasady postępowania podczas zdarzeń z udziałem skroplonego gazu ziemnego (LNG), wydanie I, grudzień 2025.",
+  "data_aktualizacji": "2026-10-27",
   "slowo_kluczowe": "pozar zewnetrzny cysterny lng",
   "keywords": [
     "pozar cysterny lng",
@@ -15,14 +17,6 @@
     "chlodzenie cysterny lng",
     "skroplony gaz ziemny"
   ],
-  "prefix": "Karta Z1 - Pozar zewnetrzny podgrzewajacy cysterne LNG bez wycieku gazu.",
-  "content": "1. KOD / NAZWA: LNG Z1 - pozar zewnetrzny podgrzewajacy cysterne LNG bez wycieku gazu.\n2. ROZPOZNANIE: dokonaj rozpoznania zza tarczy balistycznej, oceniajac wskazania aparatury oraz widoczne uszkodzenia cysterny.\n3. STREFA: wyznacz strefe ewakuacji dla osob postronnych 1,5 km oraz strefe zagrozenia dla ratownikow 300 m.\n4. SOI: w przekazanej procedurze nie wskazano osobnego zestawu SOI; kluczowe jest prowadzenie rozpoznania zza oslony i utrzymywanie bezpiecznego dystansu.\n5. DZIALANIA KRYTYCZNE: natychmiast rozpocznij intensywne chlodzenie bezobslugowymi pradami wody o wydajnosci co najmniej 10 l/min/m2, ale tylko wtedy, gdy powloka cysterny jest nienaruszona.\n6. PROCEDURA SZCZEGOLOWA: chlodzenie uznaje sie za skuteczne, gdy podawana woda nie odparowuje z powierzchni. Kontroluj temperature plaszcza pirometrem lub kamera termowizyjna. Jezeli widoczne sa uszkodzenia armatury, uszczelnij wyciek przy uzyciu klinow lub wlokniny i wezwij SPOT do przepompowania LNG. Pozar zewnetrzny gas po ustabilizowaniu sytuacji, a po zgasnieciu plomienia kontynuuj chlodzenie cysterny jeszcze przez 10-15 minut.\n7. CO MOZE POJSC NIE TAK: jesli woda odparowuje z powierzchni, widoczne sa odksztalcenia, slychac dudnienie lub syczenie albo zadzialal zawor bezpieczenstwa, oznacza to krytyczny wzrost zagrozenia.\n8. UWAGI OPERACYJNE: w sytuacji krytycznej natychmiast wycofaj ratownikow na bezpieczna odleglosc, pozostawiajac dzialka bezobslugowe.",
-  "tagi_wspolne": [
-    "lng",
-    "gaz skroplony",
-    "cysterna lng",
-    "pozar"
-  ],
   "aliasy": [
     "pozar cysterny lng",
     "pozar zewnetrzny lng",
@@ -34,11 +28,124 @@
     "chlodzenie cysterny lng",
     "skroplony gaz ziemny"
   ],
+  "prefix": "LNG Z1 — pożar zewnętrzny podgrzewający cysternę LNG (bez spalania LNG): strefy 1,5 km i 300 m, chłodzenie 10 l/min/m² (SZP KG PSP 2025).",
+  "najpierw": [
+    {
+      "t": "Strefa ewakuacji osób postronnych 1,5 km; strefa zagrożenia dla ratowników 300 m.",
+      "zr": "SZP LNG 2025",
+      "str": 5
+    },
+    {
+      "t": "Równocześnie z rozpoznaniem intensywnie chłodź zbiornik dużą ilością wody ze stanowisk bezobsługowych.",
+      "zr": "SZP LNG 2025",
+      "str": 5
+    },
+    {
+      "t": "Rozpoznanie zza tarczy balistycznej: miejsce i faza wycieku, możliwość odcięcia wypływu, poziomowskaz, ciśnieniomierz, temperatura fazy ciekłej, tabliczka znamionowa, pogoda i teren.",
+      "zr": "SZP LNG 2025",
+      "str": 5
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "BLEVE / fireball",
+      "wartosc": "możliwy po ok. 45 min podgrzewania (przy sprawnych zaworach bezpieczeństwa); mało prawdopodobny dzięki izolacji",
+      "zr": "SZP LNG 2025",
+      "str": 5
+    },
+    {
+      "nazwa": "Chłodzenie",
+      "wartosc": "10 l/min na m² zbiornika — tylko gdy powłoka zewnętrzna jest nienaruszona, a ciepło pochodzi z zewnątrz",
+      "zr": "SZP LNG 2025",
+      "str": 5
+    },
+    {
+      "nazwa": "Skuteczne chłodzenie",
+      "wartosc": "woda nie odparowuje z powierzchni zbiornika",
+      "zr": "SZP LNG 2025",
+      "str": 5
+    },
+    {
+      "nazwa": "Po zgaszeniu",
+      "wartosc": "chłodź cysternę jeszcze ok. 10–15 min",
+      "zr": "SZP LNG 2025",
+      "str": 6
+    }
+  ],
+  "sekcje": [
+    {
+      "etykieta": "Kontrola chłodzenia",
+      "punkty": [
+        {
+          "t": "Kontroluj temperaturę powłoki zewnętrznej pirometrem lub kamerą termowizyjną.",
+          "zr": "SZP LNG 2025",
+          "str": 5
+        },
+        {
+          "t": "Ścianka sucha (nad poziomem cieczy) nagrzewa się szybciej; stal traci wytrzymałość powyżej 400°C.",
+          "zr": "SZP LNG 2025",
+          "str": 5
+        },
+        {
+          "t": "Zawór bezpieczeństwa w strefie fazy ciekłej wyrzuca ciecz.",
+          "zr": "SZP LNG 2025",
+          "str": 5
+        }
+      ]
+    },
+    {
+      "etykieta": "Chłodzenie nieskuteczne — wycofaj ratowników",
+      "punkty": [
+        {
+          "t": "Oznaki: woda odparowuje, odkształcenia płaszcza, drgania cysterny, dudnienie lub syczenie, zadziałanie zaworu bezpieczeństwa.",
+          "zr": "SZP LNG 2025",
+          "str": 5
+        },
+        {
+          "t": "Rozważ wycofanie ratowników i dalsze chłodzenie prądami bezobsługowymi (działka).",
+          "zr": "SZP LNG 2025",
+          "str": 5
+        }
+      ]
+    },
+    {
+      "etykieta": "Gaszenie i dalej",
+      "punkty": [
+        {
+          "t": "Przy skutecznym chłodzeniu rozważ ugaszenie pożaru prądami wody.",
+          "zr": "SZP LNG 2025",
+          "str": 5
+        },
+        {
+          "t": "Przygotuj kurtyny wodne i wentylatory Ex na wypadek zadziałania zaworu po ugaszeniu.",
+          "zr": "SZP LNG 2025",
+          "str": 6
+        },
+        {
+          "t": "Wyciek z armatury — kołki, kliny, włóknina zwilżona wodą, opaska dociskowa.",
+          "zr": "SZP LNG 2025",
+          "str": 6
+        },
+        {
+          "t": "Po likwidacji wycieku — przepompowanie do zapasowej cysterny lub kontrolowane wypalenie w pochodni (firma transportowa lub SPOT).",
+          "zr": "SZP LNG 2025",
+          "str": 6
+        }
+      ]
+    }
+  ],
+  "tagi_wspolne": [
+    "lng",
+    "gaz skroplony",
+    "cysterna lng",
+    "pozar"
+  ],
   "dokumenty_zrodlowe": [
     {
       "dokument_id": "doc-lng-2025",
       "strona": 5,
-      "sekcja": "Karta LNG"
+      "sekcja": "Karta Z1 — pożar zewnętrzny (s. 5–6)"
     }
-  ]
+  ],
+  "data_przegladu": "2026-10-27"
 }

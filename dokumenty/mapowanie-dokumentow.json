@@ -202,7 +202,7 @@
       {
         "dokument_id": "doc-lng-2025",
         "strona": 5,
-        "sekcja": "Karta LNG",
+        "sekcja": "Karta Z1 — pożar zewnętrzny (s. 5–6)",
         "tytul": "Standardowe zasady postępowania podczas zdarzeń z udziałem skroplonego gazu ziemnego (LNG)",
         "plik": "dokumenty/lng/szp-lng-2025-12.pdf",
         "typ": "pdf"
@@ -217,7 +217,7 @@
       {
         "dokument_id": "doc-lng-2025",
         "strona": 7,
-        "sekcja": "Karta LNG",
+        "sekcja": "Karta Z2 — pożar strumieniowy (s. 7)",
         "tytul": "Standardowe zasady postępowania podczas zdarzeń z udziałem skroplonego gazu ziemnego (LNG)",
         "plik": "dokumenty/lng/szp-lng-2025-12.pdf",
         "typ": "pdf"
@@ -232,7 +232,7 @@
       {
         "dokument_id": "doc-lng-2025",
         "strona": 8,
-        "sekcja": "Karta LNG",
+        "sekcja": "Karta Z3 — pożar rozlewiska (s. 8–9)",
         "tytul": "Standardowe zasady postępowania podczas zdarzeń z udziałem skroplonego gazu ziemnego (LNG)",
         "plik": "dokumenty/lng/szp-lng-2025-12.pdf",
         "typ": "pdf"
@@ -262,7 +262,7 @@
       {
         "dokument_id": "doc-lng-2025",
         "strona": 12,
-        "sekcja": "Karta LNG",
+        "sekcja": "Emisja z zaworów bezpieczeństwa (s. 12)",
         "tytul": "Standardowe zasady postępowania podczas zdarzeń z udziałem skroplonego gazu ziemnego (LNG)",
         "plik": "dokumenty/lng/szp-lng-2025-12.pdf",
         "typ": "pdf"
@@ -2333,6 +2333,36 @@
         "sekcja": "Część 2 (s. 6–10), część 3 — SGRW (s. 10–20)",
         "tytul": "Zasady organizacji ratownictwa wysokościowego w krajowym systemie ratowniczo-gaśniczym",
         "plik": "dokumenty/wysokosciowe/zasady-ratownictwa-wysokosciowego-2024-04.pdf",
+        "typ": "pdf"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-CHEM-LNG-ROZPOZNANIE",
+    "procedura": "LNG — rozpoznanie",
+    "miesiac_akademii": null,
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-lng-2025",
+        "strona": 1,
+        "sekcja": "Właściwości i niebezpieczeństwa (s. 1–2), rozpoznanie (s. 3–4)",
+        "tytul": "Standardowe zasady postępowania podczas zdarzeń z udziałem skroplonego gazu ziemnego (LNG)",
+        "plik": "dokumenty/lng/szp-lng-2025-12.pdf",
+        "typ": "pdf"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-CHEM-LNG-PRZEKAZANIE",
+    "procedura": "LNG — przekazanie miejsca zdarzenia",
+    "miesiac_akademii": null,
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-lng-2025",
+        "strona": 13,
+        "sekcja": "Przekazanie miejsca zdarzenia (s. 13–14)",
+        "tytul": "Standardowe zasady postępowania podczas zdarzeń z udziałem skroplonego gazu ziemnego (LNG)",
+        "plik": "dokumenty/lng/szp-lng-2025-12.pdf",
         "typ": "pdf"
       }
     ]

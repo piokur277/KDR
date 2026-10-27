@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T19:03:26.556Z",
+  "generated_at": "2026-10-27T19:11:48.140Z",
   "registry_version": "2.7",
   "document_count": 86,
   "active_document_count": 86,
@@ -192,22 +192,22 @@
       "tytul": "Standardowe zasady postępowania podczas zdarzeń z udziałem skroplonego gazu ziemnego (LNG)",
       "status_techniczny": "aktywny",
       "liczba_stron": 16,
-      "liczba_powiazan": 5,
+      "liczba_powiazan": 7,
       "powiazania": [
         {
           "procedure_id": "KARTA-CHEM-Z1-LNG-POZAR-ZEW",
           "strona": 5,
-          "sekcja": "Karta LNG"
+          "sekcja": "Karta Z1 — pożar zewnętrzny (s. 5–6)"
         },
         {
           "procedure_id": "KARTA-CHEM-Z2-LNG-POZAR-STRUM",
           "strona": 7,
-          "sekcja": "Karta LNG"
+          "sekcja": "Karta Z2 — pożar strumieniowy (s. 7)"
         },
         {
           "procedure_id": "KARTA-CHEM-Z3-LNG-POZAR-ROZLEWISKA",
           "strona": 8,
-          "sekcja": "Karta LNG"
+          "sekcja": "Karta Z3 — pożar rozlewiska (s. 8–9)"
         },
         {
           "procedure_id": "KARTA-CHEM-Z4-LNG-WYCIEK",
@@ -217,7 +217,17 @@
         {
           "procedure_id": "KARTA-CHEM-Z5-LNG-ZAWORY",
           "strona": 12,
-          "sekcja": "Karta LNG"
+          "sekcja": "Emisja z zaworów bezpieczeństwa (s. 12)"
+        },
+        {
+          "procedure_id": "KARTA-CHEM-LNG-PRZEKAZANIE",
+          "strona": 13,
+          "sekcja": "Przekazanie miejsca zdarzenia (s. 13–14)"
+        },
+        {
+          "procedure_id": "KARTA-CHEM-LNG-ROZPOZNANIE",
+          "strona": 1,
+          "sekcja": "Właściwości i niebezpieczeństwa (s. 1–2), rozpoznanie (s. 3–4)"
         }
       ]
     },
