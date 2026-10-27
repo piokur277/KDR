@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T18:49:51.079Z",
+  "generated_at": "2026-10-27T18:54:10.302Z",
   "registry_version": "2.7",
   "document_count": 86,
   "active_document_count": 86,
@@ -258,28 +258,28 @@
       "powiazania": [
         {
           "procedure_id": "KARTA-PV-INFORMACJE-DODATKOWE",
-          "strona": 16,
-          "sekcja": "Odpowiednia część SZP instalacji PV"
+          "strona": 6,
+          "sekcja": "Zagrożenia (s. 6–7), informacje dodatkowe (s. 16)"
         },
         {
           "procedure_id": "KARTA-PV-Z1-POZAR",
           "strona": 12,
-          "sekcja": "Odpowiednia część SZP instalacji PV"
+          "sekcja": "Karta Z1 — pożar (s. 12–13), tabela 2"
         },
         {
           "procedure_id": "KARTA-PV-Z2-MIEJSCOWE-ZAGROZENIE",
           "strona": 14,
-          "sekcja": "Odpowiednia część SZP instalacji PV"
+          "sekcja": "Karta Z2 — miejscowe zagrożenie (s. 14)"
         },
         {
           "procedure_id": "KARTA-PV-PRZEKAZANIE",
           "strona": 15,
-          "sekcja": "Odpowiednia część SZP instalacji PV"
+          "sekcja": "Przekazanie miejsca zdarzenia (s. 15)"
         },
         {
           "procedure_id": "KARTA-PV-ROZPOZNANIE-I-ZABEZPIECZENIE",
           "strona": 8,
-          "sekcja": "Odpowiednia część SZP instalacji PV"
+          "sekcja": "Rozpoznanie i działania zabezpieczające (s. 8–11)"
         }
       ]
     },

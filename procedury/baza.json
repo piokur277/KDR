@@ -1906,9 +1906,11 @@
   },
   {
     "id": "KARTA-PV-INFORMACJE-DODATKOWE",
+    "wzorzec": 2,
     "kategoria": "informacje",
-    "zrodlo": "Standardowe zasady postepowania podczas zdarzen w obrebie instalacji fotowoltaicznych, KG PSP",
-    "data_aktualizacji": "2022-03",
+    "grupa": "pv",
+    "zrodlo": "KG PSP: Standardowe zasady postępowania podczas zdarzeń w obrębie instalacji fotowoltaicznych (SZP nr 6), wydanie I, marzec 2022.",
+    "data_aktualizacji": "2026-10-27",
     "slowo_kluczowe": "informacje dodatkowe pv",
     "keywords": [
       "ostroznosc pv",
@@ -1917,13 +1919,6 @@
       "moduly pv ostroznosc",
       "bezpieczenstwo fotowoltaika"
     ],
-    "prefix": "Informacje dodatkowe i srodki ostroznosci przy dzialaniach w obrebie instalacji fotowoltaicznych.",
-    "content": "1. KOD / NAZWA: instalacja fotowoltaiczna PV - informacje dodatkowe i srodki ostroznosci.\n2. SRODKI OSTROZNOSCI: obowiazuje zakaz wchodzenia i poruszania sie po powierzchni modulow PV.\n3. NAPIECIE DC: po rozlaczeniu napiecia po stronie AC nadal moze wystepowac niebezpieczne napiecie po stronie DC pomiedzy modulami a falownikiem.\n4. ROZLACZANIE MODULOW: jezeli zachodzi koniecznosc rozlaczenia modulow, nalezy uprzednio wylaczyc falownik, w przeciwnym razie w zamknietym obwodzie moze dojsc do powstania luku elektrycznego.\n5. MAGAZYN ENERGII: jezeli instalacja PV wyposazona jest w magazyn energii, nalezy zawsze wylaczac falownik.\n6. OGRANICZENIA SPRZETU: detektor typu Hot Stick nie wykrywa pradu stalego generowanego przez moduly fotowoltaiczne.\n7. OZNACZENIA I PLANOWANIE: informacje o zakonczeniu robot budowlanych polegajacych na instalowaniu urzadzen fotowoltaicznych o mocy powyzej 6,5 kW sa przekazywane do wlasciwych miejscowo KP lub KM PSP miedzy innymi na potrzeby planowania dzialan ratowniczo-gasniczych.\n8. CO MOZE POJSC NIE TAK: dzialania polegajace na zaslanianiu modulow przed promieniowaniem slonecznym, w tym zakrywanie plandekami lub pokrywanie piana sprezona, nie stanowia gwarancji zabezpieczenia przed porazeniem pradem.\n9. UWAGI OPERACYJNE: systemy PV moga pracowac pod napieciem do 1500 V DC, a ryzyko porazenia pradem nalezy traktowac jako jedno z podstawowych zagrozen podczas dzialan w ich obrebie.",
-    "tagi_wspolne": [
-      "fotowoltaika",
-      "pv",
-      "instalacja fotowoltaiczna"
-    ],
     "aliasy": [
       "ostroznosc pv",
       "hot stick pv",
@@ -1931,19 +1926,115 @@
       "moduly pv ostroznosc",
       "bezpieczenstwo fotowoltaika"
     ],
+    "prefix": "Instalacja fotowoltaiczna (PV) — zagrożenia i środki ostrożności (SZP KG PSP 2022).",
+    "najpierw": [
+      {
+        "t": "Nie wchodź i nie poruszaj się po modułach PV.",
+        "zr": "SZP PV 2022",
+        "str": 16
+      },
+      {
+        "t": "Po rozłączeniu AC nadal może być niebezpieczne napięcie DC między modułami a falownikiem.",
+        "zr": "SZP PV 2022",
+        "str": 16
+      },
+      {
+        "t": "Przed rozłączeniem modułów wyłącz falownik — inaczej w zamkniętym obwodzie powstanie łuk.",
+        "zr": "SZP PV 2022",
+        "str": 16
+      },
+      {
+        "t": "Jest magazyn energii — zawsze wyłączaj falownik.",
+        "zr": "SZP PV 2022",
+        "str": 16
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Napięcie systemów PV",
+        "wartosc": "do 1500 V DC",
+        "zr": "SZP PV 2022",
+        "str": 7
+      },
+      {
+        "nazwa": "Hot Stick",
+        "wartosc": "nie wykrywa prądu stałego z modułów PV",
+        "zr": "SZP PV 2022",
+        "str": 16
+      },
+      {
+        "nazwa": "Zgłoszenie do KP/KM PSP",
+        "wartosc": "instalacje powyżej 6,5 kW — informacja o zakończeniu robót (do planowania działań)",
+        "zr": "SZP PV 2022",
+        "str": 16
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Zagrożenia",
+        "punkty": [
+          {
+            "t": "Łuk elektryczny przy rozłączaniu pod napięciem — np. uderzenie toporem w przewód; po przecięciu odcinek od modułów nadal jest pod napięciem.",
+            "zr": "SZP PV 2022",
+            "str": 6
+          },
+          {
+            "t": "Napięcie DC także po zmierzchu — moduły pracują przy świetle płomienia i oświetleniu miejsca działań.",
+            "zr": "SZP PV 2022",
+            "str": 6
+          },
+          {
+            "t": "Jeden uszkodzony moduł, złącze lub przewód może dać napięcie na konstrukcji i metalowych elementach obiektu.",
+            "zr": "SZP PV 2022",
+            "str": 6
+          },
+          {
+            "t": "Upadek z wysokości, spadające elementy (zwłaszcza moduły na elewacji), balast betonowy na dachach płaskich.",
+            "zr": "SZP PV 2022",
+            "str": 6
+          },
+          {
+            "t": "Toksyczne produkty spalania: tellurek kadmu, arsenek galu, fosfor, chlorowodór z izolacji.",
+            "zr": "SZP PV 2022",
+            "str": 6
+          }
+        ]
+      }
+    ],
+    "nie_rob": [
+      {
+        "t": "Nie niszcz ani nie przecinaj przewodów zasilających instalacji PV.",
+        "zr": "SZP PV 2022",
+        "str": 6
+      },
+      {
+        "t": "Zakrycie modułów plandeką lub pianą sprężoną nie gwarantuje ochrony przed porażeniem.",
+        "zr": "SZP PV 2022",
+        "str": 16
+      }
+    ],
+    "tagi_wspolne": [
+      "fotowoltaika",
+      "pv",
+      "instalacja fotowoltaiczna"
+    ],
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-pv-szp-2022",
-        "strona": 16,
-        "sekcja": "Odpowiednia część SZP instalacji PV"
+        "strona": 6,
+        "sekcja": "Zagrożenia (s. 6–7), informacje dodatkowe (s. 16)"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: Nie wchodź i nie poruszaj się po modułach PV. Po rozłączeniu AC nadal może być niebezpieczne napięcie DC między modułami a falownikiem. Przed rozłączeniem modułów wyłącz falownik — inaczej w zamkniętym obwodzie powstanie łuk. Jest magazyn energii — zawsze wyłączaj falownik.\n2. PARAMETRY: Napięcie systemów PV — do 1500 V DC; Hot Stick — nie wykrywa prądu stałego z modułów PV; Zgłoszenie do KP/KM PSP — instalacje powyżej 6,5 kW — informacja o zakończeniu robót (do planowania działań)\n3. ZAGROŻENIA: Łuk elektryczny przy rozłączaniu pod napięciem — np. uderzenie toporem w przewód; po przecięciu odcinek od modułów nadal jest pod napięciem. Napięcie DC także po zmierzchu — moduły pracują przy świetle płomienia i oświetleniu miejsca działań. Jeden uszkodzony moduł, złącze lub przewód może dać napięcie na konstrukcji i metalowych elementach obiektu. Upadek z wysokości, spadające elementy (zwłaszcza moduły na elewacji), balast betonowy na dachach płaskich. Toksyczne produkty spalania: tellurek kadmu, arsenek galu, fosfor, chlorowodór z izolacji.\n4. NIE RÓB: Nie niszcz ani nie przecinaj przewodów zasilających instalacji PV. Zakrycie modułów plandeką lub pianą sprężoną nie gwarantuje ochrony przed porażeniem."
   },
   {
     "id": "KARTA-PV-Z1-POZAR",
+    "wzorzec": 2,
     "kategoria": "dzialania",
-    "zrodlo": "Standardowe zasady postepowania podczas zdarzen w obrebie instalacji fotowoltaicznych, KG PSP",
-    "data_aktualizacji": "2022-03",
+    "grupa": "pv",
+    "zrodlo": "KG PSP: Standardowe zasady postępowania podczas zdarzeń w obrębie instalacji fotowoltaicznych (SZP nr 6), wydanie I, marzec 2022.",
+    "data_aktualizacji": "2026-10-27",
     "slowo_kluczowe": "pozar fotowoltaiki",
     "keywords": [
       "pozar pv",
@@ -1954,14 +2045,6 @@
       "magazyn energii pozar",
       "fotowoltaika plonie"
     ],
-    "prefix": "Karta Z1 - Dzialania ratownicze przy pozarze w obrebie instalacji fotowoltaicznej.",
-    "content": "1. KOD / NAZWA: PV Z1 - pozar w obrebie instalacji fotowoltaicznej.\n2. ROZPOZNANIE: ustal, czy podzespoly instalacji PV sa objete pozarem lub bezposrednio zagrozone. Jezeli nie sa, postepuj zgodnie ze standardowa taktyka gaszenia pozarow. Oceniaj stan instalacji i otoczenia, w tym okopcenie modulow, przebarwienia oraz uszkodzenia termiczne zlacz i przewodow.\n3. STREFA: wyznacz strefe zagrozenia i w przypadku bezposredniego zagrozenia zycia przeprowadz natychmiastowa ewakuacje osob znajdujacych sie w obiekcie.\n4. SOI: w sytuacji braku odpowiednich informacji o stanie instalacji PV stosuj srodki ochrony indywidualnej wlasciwe do dzialan przy urzadzeniach pod napieciem oraz sprzet ochrony ukladu oddechowego.\n5. DZIALANIA KRYTYCZNE: ostrzez ratownikow o zagrozeniu, odlacz doplyw pradu elektrycznego do budynku, a jezeli instalacja wyposazona jest w magazyn energii - wylacz falownik. Przystap do redukcji zagrozenia od instalacji zgodnie z karta rozpoznania i dzialan zabezpieczajacych.\n6. PROCEDURA SZCZEGOLOWA: jezeli nie jest to konieczne, nie dotykaj elementow instalacji PV ani innych elementow przewodzacych prad. W przypadku koniecznosci demontazu modulow zachowaj szczegolna ostroznosc i zabezpieczaj luzne zlacza oraz przewody. W razie potrzeby zadysponuj odpowiednie sluzby. Po zakonczeniu dzialan uniemozliw ponowne uruchomienie uszkodzonej instalacji.\n7. GASZENIE POZARU: do gaszenia pozaru lub dzialan w obronie mozna stosowac wode, wode z dodatkami, piane sprezona, proszki gasnicze i gazy gasnicze. Nie nalezy stosowac klasycznej piany ciezkiej, sredniej lub lekkiej. Przy pradzie rozproszonym wody zachowaj minimalny kat rozproszenia 30 stopni i odleglosc 1 m. Przy pradzie zwartym do 250 l/min zachowaj minimum 5 m, a powyzej 250 l/min minimum 10 m. Dla piany CAFS o maksymalnej wydajnosci wodnej 250 l/min zachowaj 1 m dla pradu rozproszonego i 5 m dla pradu zwartego. Dla proszkow i gazow gasniczych zachowaj co najmniej 1 m lub wieksza odleglosc wskazana przez producenta.\n8. MAGAZYN ENERGII: pozary akumulatorow i baterii stanowiacych element magazynu energii wymagaja stosowania srodka gasniczego o dzialaniu chlodzacym, czyli wody. Proszki i gazy gasnicze moga byc w tym przypadku nieskuteczne. Efekty gaszenia kontroluj kamera termowizyjna albo pirometrem, a ugaszone akumulatory i baterie zabezpiecz oraz zalec dozor przez co najmniej 24 godziny ze wzgledu na ryzyko samoistnego nawrotu palenia.\n9. CO MOZE POJSC NIE TAK: detektor typu Hot Stick nie wykrywa pradu stalego generowanego przez moduly PV. Nawet po uszkodzeniu lub przecieciu przewodu fragment od modulow do miejsca przeciecia moze pozostawac pod napieciem.\n10. UWAGI OPERACYJNE: zachowuj minimalne odleglosci podczas podawania srodkow gasniczych od elementow instalacji mogacych znajdowac sie pod napieciem.",
-    "tagi_wspolne": [
-      "fotowoltaika",
-      "pv",
-      "instalacja fotowoltaiczna",
-      "pozar"
-    ],
     "aliasy": [
       "pozar pv",
       "pozar instalacji pv",
@@ -1971,19 +2054,147 @@
       "magazyn energii pozar",
       "fotowoltaika plonie"
     ],
+    "prefix": "PV Z1 — pożar instalacji fotowoltaicznej i magazynu energii: ocena, działania, minimalne odległości podawania środków gaśniczych (SZP KG PSP 2022).",
+    "najpierw": [
+      {
+        "t": "Podzespoły PV nie są objęte ani zagrożone pożarem — stosuj standardową taktykę gaszenia.",
+        "zr": "SZP PV 2022",
+        "str": 12
+      },
+      {
+        "t": "Wyznacz strefę zagrożenia; przy bezpośrednim zagrożeniu życia — natychmiastowa ewakuacja.",
+        "zr": "SZP PV 2022",
+        "str": 12
+      },
+      {
+        "t": "Ostrzeż ratowników, odłącz prąd do budynku; jest magazyn energii — wyłącz falownik.",
+        "zr": "SZP PV 2022",
+        "str": 12
+      },
+      {
+        "t": "Bez informacji o stanie instalacji — SOI do pracy przy urządzeniach pod napięciem oraz ochrona układu oddechowego.",
+        "zr": "SZP PV 2022",
+        "str": 12
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Woda, prąd rozproszony",
+        "wartosc": "min. 1 m, kąt rozproszenia min. 30° — tylko prądownice PWT Ø52 „Turbo”",
+        "zr": "SZP PV 2022",
+        "str": 12
+      },
+      {
+        "nazwa": "Woda, prąd zwarty",
+        "wartosc": "≤ 250 l/min: min. 5 m · > 250 l/min: min. 10 m — tylko prądownice PWT Ø52 „Turbo”",
+        "zr": "SZP PV 2022",
+        "str": 12
+      },
+      {
+        "nazwa": "Piana CAFS (max 250 l/min)",
+        "wartosc": "rozproszony 1 m · zwarty 5 m — tylko prądownice dopuszczone do urządzeń pod napięciem (PWT „Turbo” lub pyszczek do 25 mm)",
+        "zr": "SZP PV 2022",
+        "str": 12
+      },
+      {
+        "nazwa": "Proszki i gazy gaśnicze",
+        "wartosc": "min. 1 m lub więcej, jeśli tak wskazano na urządzeniu",
+        "zr": "SZP PV 2022",
+        "str": 13
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Ocena sytuacji",
+        "punkty": [
+          {
+            "t": "Oceń stan instalacji z zewnątrz, np. kamerą termowizyjną: okopcenie, przebarwienia, uszkodzone złącza = możliwe napięcie na metalu.",
+            "zr": "SZP PV 2022",
+            "str": 12
+          },
+          {
+            "t": "Hot Stick nie wykrywa prądu stałego generowanego przez moduły.",
+            "zr": "SZP PV 2022",
+            "str": 12
+          }
+        ]
+      },
+      {
+        "etykieta": "Gaszenie",
+        "punkty": [
+          {
+            "t": "Dozwolone: woda (także ze zwilżaczami), piana sprężona, proszki, gazy gaśnicze.",
+            "zr": "SZP PV 2022",
+            "str": 12
+          },
+          {
+            "t": "Magazyn energii — gaś wodą (chłodzenie); proszki i gazy mogą być nieskuteczne. Kontroluj kamerą termowizyjną lub pirometrem.",
+            "zr": "SZP PV 2022",
+            "str": 13
+          },
+          {
+            "t": "Ugaszone akumulatory zabezpiecz; poinformuj właściciela o dozorze min. 24 h (ryzyko samoistnego nawrotu palenia).",
+            "zr": "SZP PV 2022",
+            "str": 13
+          }
+        ]
+      },
+      {
+        "etykieta": "Działania",
+        "punkty": [
+          {
+            "t": "Redukuj zagrożenie wg karty „Rozpoznanie i działania zabezpieczające”.",
+            "zr": "SZP PV 2022",
+            "str": 12
+          },
+          {
+            "t": "Demontaż modułów — szczególna ostrożność, zabezpiecz luźne złącza i przewody; w razie potrzeby zadysponuj odpowiednie służby.",
+            "zr": "SZP PV 2022",
+            "str": 12
+          },
+          {
+            "t": "Po działaniach uniemożliw ponowne uruchomienie uszkodzonej instalacji.",
+            "zr": "SZP PV 2022",
+            "str": 12
+          }
+        ]
+      }
+    ],
+    "nie_rob": [
+      {
+        "t": "Nie stosuj klasycznej piany ciężkiej, średniej ani lekkiej.",
+        "zr": "SZP PV 2022",
+        "str": 12
+      },
+      {
+        "t": "Nie dotykaj elementów PV ani innych elementów przewodzących, jeśli nie jest to konieczne.",
+        "zr": "SZP PV 2022",
+        "str": 12
+      }
+    ],
+    "tagi_wspolne": [
+      "fotowoltaika",
+      "pv",
+      "instalacja fotowoltaiczna",
+      "pozar"
+    ],
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-pv-szp-2022",
         "strona": 12,
-        "sekcja": "Odpowiednia część SZP instalacji PV"
+        "sekcja": "Karta Z1 — pożar (s. 12–13), tabela 2"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: Podzespoły PV nie są objęte ani zagrożone pożarem — stosuj standardową taktykę gaszenia. Wyznacz strefę zagrożenia; przy bezpośrednim zagrożeniu życia — natychmiastowa ewakuacja. Ostrzeż ratowników, odłącz prąd do budynku; jest magazyn energii — wyłącz falownik. Bez informacji o stanie instalacji — SOI do pracy przy urządzeniach pod napięciem oraz ochrona układu oddechowego.\n2. PARAMETRY: Woda, prąd rozproszony — min. 1 m, kąt rozproszenia min. 30° — tylko prądownice PWT Ø52 „Turbo”; Woda, prąd zwarty — ≤ 250 l/min: min. 5 m · > 250 l/min: min. 10 m — tylko prądownice PWT Ø52 „Turbo”; Piana CAFS (max 250 l/min) — rozproszony 1 m · zwarty 5 m — tylko prądownice dopuszczone do urządzeń pod napięciem (PWT „Turbo” lub pyszczek do 25 mm); Proszki i gazy gaśnicze — min. 1 m lub więcej, jeśli tak wskazano na urządzeniu\n3. OCENA SYTUACJI: Oceń stan instalacji z zewnątrz, np. kamerą termowizyjną: okopcenie, przebarwienia, uszkodzone złącza = możliwe napięcie na metalu. Hot Stick nie wykrywa prądu stałego generowanego przez moduły.\n4. GASZENIE: Dozwolone: woda (także ze zwilżaczami), piana sprężona, proszki, gazy gaśnicze. Magazyn energii — gaś wodą (chłodzenie); proszki i gazy mogą być nieskuteczne. Kontroluj kamerą termowizyjną lub pirometrem. Ugaszone akumulatory zabezpiecz; poinformuj właściciela o dozorze min. 24 h (ryzyko samoistnego nawrotu palenia).\n5. DZIAŁANIA: Redukuj zagrożenie wg karty „Rozpoznanie i działania zabezpieczające”. Demontaż modułów — szczególna ostrożność, zabezpiecz luźne złącza i przewody; w razie potrzeby zadysponuj odpowiednie służby. Po działaniach uniemożliw ponowne uruchomienie uszkodzonej instalacji.\n6. NIE RÓB: Nie stosuj klasycznej piany ciężkiej, średniej ani lekkiej. Nie dotykaj elementów PV ani innych elementów przewodzących, jeśli nie jest to konieczne."
   },
   {
     "id": "KARTA-PV-Z2-MIEJSCOWE-ZAGROZENIE",
+    "wzorzec": 2,
     "kategoria": "dzialania",
-    "zrodlo": "Standardowe zasady postepowania podczas zdarzen w obrebie instalacji fotowoltaicznych, KG PSP",
-    "data_aktualizacji": "2022-03",
+    "grupa": "pv",
+    "zrodlo": "KG PSP: Standardowe zasady postępowania podczas zdarzeń w obrębie instalacji fotowoltaicznych (SZP nr 6), wydanie I, marzec 2022.",
+    "data_aktualizacji": "2026-10-27",
     "slowo_kluczowe": "miejscowe zagrozenie pv",
     "keywords": [
       "uszkodzona fotowoltaika",
@@ -1993,15 +2204,6 @@
       "miejscowe zagrozenie fotowoltaika",
       "mechaniczne uszkodzenie pv"
     ],
-    "prefix": "Karta Z2 - Dzialania ratownicze przy miejscowym zagrozeniu w obrebie instalacji fotowoltaicznej.",
-    "content": "1. KOD / NAZWA: PV Z2 - miejscowe zagrozenie w obrebie instalacji fotowoltaicznej.\n2. ROZPOZNANIE: okresl stan techniczny instalacji PV na podstawie oznak zewnetrznych oraz ustal zagrozenia ze strony uszkodzonej instalacji. Jezeli instalacja zostala uszkodzona mechanicznie, ocen mozliwosc ewentualnego powstania pozaru.\n3. STREFA: wyznacz strefe zagrozenia i w przypadku bezposredniego zagrozenia zycia przeprowadz natychmiastowa ewakuacje osob znajdujacych sie w obiekcie.\n4. SOI: w sytuacji braku odpowiednich informacji o stanie instalacji PV stosuj srodki ochrony indywidualnej wlasciwe do dzialan przy urzadzeniach pod napieciem.\n5. DZIALANIA KRYTYCZNE: ostrzez ratownikow o wystepujacym zagrozeniu, odlacz doplyw pradu elektrycznego do budynku, a jezeli instalacja PV wyposazona jest w magazyn energii - wylacz falownik. Przystap do redukcji zagrozenia zgodnie z karta rozpoznania i dzialan zabezpieczajacych.\n6. PROCEDURA SZCZEGOLOWA: jezeli nie jest to konieczne, nie dotykaj elementow instalacji PV ani innych elementow przewodzacych prad. W przypadku koniecznosci demontazu modulow zachowaj szczegolna ostroznosc i zabezpieczaj luzne zlacza oraz przewody. W razie potrzeby zadysponuj odpowiednie sluzby. Po zakonczeniu dzialan zapewnij bezpieczne warunki przez uniemozliwienie ponownego uruchomienia uszkodzonej instalacji oraz jej zabezpieczenie.\n7. CO MOZE POJSC NIE TAK: detektor typu Hot Stick nie wykrywa pradu stalego generowanego przez moduly fotowoltaiczne. Uszkodzona mechanicznie instalacja moze stwarzac zagrozenie pojawienia sie napiecia na elementach przewodzacych oraz wtorny pozar.\n8. UWAGI OPERACYJNE: karta dotyczy miejscowego zagrozenia, ale wymaga traktowania instalacji jak potencjalnie znajdujacej sie pod napieciem.",
-    "tagi_wspolne": [
-      "fotowoltaika",
-      "pv",
-      "instalacja fotowoltaiczna",
-      "miejscowe zagrozenie",
-      "uszkodzenie"
-    ],
     "aliasy": [
       "uszkodzona fotowoltaika",
       "uszkodzona instalacja pv",
@@ -2010,19 +2212,100 @@
       "miejscowe zagrozenie fotowoltaika",
       "mechaniczne uszkodzenie pv"
     ],
+    "prefix": "PV Z2 — miejscowe zagrożenie w obrębie instalacji fotowoltaicznej (uszkodzenie mechaniczne) (SZP KG PSP 2022).",
+    "najpierw": [
+      {
+        "t": "Wyznacz strefę zagrożenia; przy bezpośrednim zagrożeniu życia — natychmiastowa ewakuacja.",
+        "zr": "SZP PV 2022",
+        "str": 14
+      },
+      {
+        "t": "Ostrzeż ratowników, odłącz prąd do budynku; jest magazyn energii — wyłącz falownik.",
+        "zr": "SZP PV 2022",
+        "str": 14
+      },
+      {
+        "t": "Bez informacji o stanie instalacji — SOI do pracy przy urządzeniach pod napięciem.",
+        "zr": "SZP PV 2022",
+        "str": 14
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Hot Stick",
+        "wartosc": "nie wykrywa prądu stałego z modułów PV",
+        "zr": "SZP PV 2022",
+        "str": 14
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Ocena sytuacji",
+        "punkty": [
+          {
+            "t": "Określ stan techniczny instalacji z oznak zewnętrznych i zagrożenia od uszkodzonej instalacji.",
+            "zr": "SZP PV 2022",
+            "str": 14
+          },
+          {
+            "t": "Uszkodzenie mechaniczne — oceń możliwość powstania pożaru.",
+            "zr": "SZP PV 2022",
+            "str": 14
+          }
+        ]
+      },
+      {
+        "etykieta": "Działania",
+        "punkty": [
+          {
+            "t": "Redukuj zagrożenie wg karty „Rozpoznanie i działania zabezpieczające”.",
+            "zr": "SZP PV 2022",
+            "str": 14
+          },
+          {
+            "t": "Demontaż modułów — szczególna ostrożność, zabezpiecz luźne złącza i przewody; w razie potrzeby zadysponuj odpowiednie służby.",
+            "zr": "SZP PV 2022",
+            "str": 14
+          },
+          {
+            "t": "Po działaniach zabezpiecz instalację i uniemożliw jej ponowne uruchomienie.",
+            "zr": "SZP PV 2022",
+            "str": 14
+          }
+        ]
+      }
+    ],
+    "nie_rob": [
+      {
+        "t": "Nie dotykaj elementów PV ani innych elementów przewodzących, jeśli nie jest to konieczne.",
+        "zr": "SZP PV 2022",
+        "str": 14
+      }
+    ],
+    "tagi_wspolne": [
+      "fotowoltaika",
+      "pv",
+      "instalacja fotowoltaiczna",
+      "miejscowe zagrozenie",
+      "uszkodzenie"
+    ],
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-pv-szp-2022",
         "strona": 14,
-        "sekcja": "Odpowiednia część SZP instalacji PV"
+        "sekcja": "Karta Z2 — miejscowe zagrożenie (s. 14)"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: Wyznacz strefę zagrożenia; przy bezpośrednim zagrożeniu życia — natychmiastowa ewakuacja. Ostrzeż ratowników, odłącz prąd do budynku; jest magazyn energii — wyłącz falownik. Bez informacji o stanie instalacji — SOI do pracy przy urządzeniach pod napięciem.\n2. PARAMETRY: Hot Stick — nie wykrywa prądu stałego z modułów PV\n3. OCENA SYTUACJI: Określ stan techniczny instalacji z oznak zewnętrznych i zagrożenia od uszkodzonej instalacji. Uszkodzenie mechaniczne — oceń możliwość powstania pożaru.\n4. DZIAŁANIA: Redukuj zagrożenie wg karty „Rozpoznanie i działania zabezpieczające”. Demontaż modułów — szczególna ostrożność, zabezpiecz luźne złącza i przewody; w razie potrzeby zadysponuj odpowiednie służby. Po działaniach zabezpiecz instalację i uniemożliw jej ponowne uruchomienie.\n5. NIE RÓB: Nie dotykaj elementów PV ani innych elementów przewodzących, jeśli nie jest to konieczne."
   },
   {
     "id": "KARTA-PV-PRZEKAZANIE",
+    "wzorzec": 2,
     "kategoria": "organizacja",
-    "zrodlo": "Standardowe zasady postepowania podczas zdarzen w obrebie instalacji fotowoltaicznych, KG PSP",
-    "data_aktualizacji": "2022-03",
+    "grupa": "pv",
+    "zrodlo": "KG PSP: Standardowe zasady postępowania podczas zdarzeń w obrębie instalacji fotowoltaicznych (SZP nr 6), wydanie I, marzec 2022.",
+    "data_aktualizacji": "2026-10-27",
     "slowo_kluczowe": "przekazanie miejsca zdarzenia pv",
     "keywords": [
       "przekazanie fotowoltaika",
@@ -2032,14 +2315,6 @@
       "dozor magazynu energii",
       "przekazanie pv"
     ],
-    "prefix": "Przekazanie miejsca zdarzenia po dzialaniach w obrebie instalacji fotowoltaicznej.",
-    "content": "1. KOD / NAZWA: przekazanie miejsca zdarzenia po dzialaniach w obrebie instalacji fotowoltaicznej.\n2. DOKUMENTACJA: przekaz miejsce zdarzenia zgodnie z obowiazujacymi zasadami, sporzadzajac dokument przekazania terenu, obiektu lub mienia objetego dzialaniem ratowniczym.\n3. INFORMACJA O DZIALANIACH: przekaz osobie przejmujacej informacje o fakcie prowadzenia dzialan ratowniczych w obrebie instalacji PV oraz o potencjalnych zagrozeniach i sposobie postepowania.\n4. ZALECENIA PODSTAWOWE: poinformuj o koniecznosci zachowania bezpiecznej odleglosci oraz zakazie dotykania elementow instalacji PV.\n5. DOZOR: poinformuj o koniecznosci dozoru uszkodzonej instalacji PV do czasu jej sprawdzenia oraz o koniecznosci dozoru magazynow energii, jezeli wystepuja, z uwagi na mozliwosc samoistnego nawrotu palenia.\n6. SPRAWDZENIA I UPRAWNIENIA: zalec sprawdzenie instalacji PV przez firme posiadajaca stosowne uprawnienia w zakresie montazu i serwisowania instalacji PV przed powtornym zalaczeniem zasilania do obiektu. Zalec takze sprawdzenie instalacji elektrycznej w obiekcie przez osobe lub firme posiadajaca stosowne uprawnienia przed przywroceniem zasilania.\n7. DODATKOWE RYZYKA: poinformuj o mozliwosci wycieku elektrolitu z uszkodzonego magazynu energii, jezeli wystepuje.\n8. UTYLIZACJA I ODTWORZENIE: wskaz koniecznosc utylizacji zniszczonego lub uszkodzonego magazynu energii albo modulu PV przez wyspecjalizowana firme oraz koniecznosc ponownego montazu i uruchomienia zdemontowanych elementow przez osobe lub firme posiadajaca stosowne uprawnienia.\n9. CO MOZE POJSC NIE TAK: przedwczesne przywrocenie zasilania lub pozostawienie uszkodzonej instalacji bez dozoru moze doprowadzic do ponownego zagrozenia.\n10. UWAGI OPERACYJNE: przekazanie powinno jednoznacznie wskazywac, ze dzialania byly prowadzone w obrebie instalacji fotowoltaicznej oraz czy w obiekcie wystepuje magazyn energii.",
-    "tagi_wspolne": [
-      "fotowoltaika",
-      "pv",
-      "instalacja fotowoltaiczna",
-      "przekazanie"
-    ],
     "aliasy": [
       "przekazanie fotowoltaika",
       "zakonczenie dzialan pv",
@@ -2048,19 +2323,80 @@
       "dozor magazynu energii",
       "przekazanie pv"
     ],
+    "prefix": "Przekazanie miejsca zdarzenia po działaniach w obrębie instalacji fotowoltaicznej — co przekazać właścicielowi (SZP KG PSP 2022).",
+    "najpierw": [
+      {
+        "t": "Sporządź „Potwierdzenie przekazania terenu, obiektu lub mienia objętego działaniem ratowniczym”.",
+        "zr": "SZP PV 2022",
+        "str": 15
+      },
+      {
+        "t": "Poinformuj, że działania prowadzono w obrębie instalacji PV, oraz o zagrożeniach i sposobie postępowania.",
+        "zr": "SZP PV 2022",
+        "str": 15
+      }
+    ],
+    "parametry": [],
+    "sekcje": [
+      {
+        "etykieta": "Poinformuj przejmującego o",
+        "punkty": [
+          {
+            "t": "Bezpiecznej odległości i zakazie dotykania elementów PV.",
+            "zr": "SZP PV 2022",
+            "str": 15
+          },
+          {
+            "t": "Dozorze uszkodzonej instalacji PV i magazynów energii do czasu sprawdzenia — ryzyko nawrotu palenia.",
+            "zr": "SZP PV 2022",
+            "str": 15
+          },
+          {
+            "t": "Sprawdzeniu instalacji PV przez uprawnioną firmę przed ponownym załączeniem zasilania; sprawdzeniu instalacji elektrycznej obiektu.",
+            "zr": "SZP PV 2022",
+            "str": 15
+          },
+          {
+            "t": "Możliwym wycieku elektrolitu z uszkodzonego magazynu energii.",
+            "zr": "SZP PV 2022",
+            "str": 15
+          },
+          {
+            "t": "Utylizacji uszkodzonego magazynu lub modułów przez wyspecjalizowaną firmę.",
+            "zr": "SZP PV 2022",
+            "str": 15
+          },
+          {
+            "t": "Ponownym montażu i uruchomieniu zdemontowanych elementów przez uprawnioną firmę.",
+            "zr": "SZP PV 2022",
+            "str": 15
+          }
+        ]
+      }
+    ],
+    "tagi_wspolne": [
+      "fotowoltaika",
+      "pv",
+      "instalacja fotowoltaiczna",
+      "przekazanie"
+    ],
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-pv-szp-2022",
         "strona": 15,
-        "sekcja": "Odpowiednia część SZP instalacji PV"
+        "sekcja": "Przekazanie miejsca zdarzenia (s. 15)"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: Sporządź „Potwierdzenie przekazania terenu, obiektu lub mienia objętego działaniem ratowniczym”. Poinformuj, że działania prowadzono w obrębie instalacji PV, oraz o zagrożeniach i sposobie postępowania.\n2. POINFORMUJ PRZEJMUJĄCEGO O: Bezpiecznej odległości i zakazie dotykania elementów PV. Dozorze uszkodzonej instalacji PV i magazynów energii do czasu sprawdzenia — ryzyko nawrotu palenia. Sprawdzeniu instalacji PV przez uprawnioną firmę przed ponownym załączeniem zasilania; sprawdzeniu instalacji elektrycznej obiektu. Możliwym wycieku elektrolitu z uszkodzonego magazynu energii. Utylizacji uszkodzonego magazynu lub modułów przez wyspecjalizowaną firmę. Ponownym montażu i uruchomieniu zdemontowanych elementów przez uprawnioną firmę."
   },
   {
     "id": "KARTA-PV-ROZPOZNANIE-I-ZABEZPIECZENIE",
+    "wzorzec": 2,
     "kategoria": "dzialania",
-    "zrodlo": "Standardowe zasady postepowania podczas zdarzen w obrebie instalacji fotowoltaicznych, KG PSP",
-    "data_aktualizacji": "2022-03",
+    "grupa": "pv",
+    "zrodlo": "KG PSP: Standardowe zasady postępowania podczas zdarzeń w obrębie instalacji fotowoltaicznych (SZP nr 6), wydanie I, marzec 2022.",
+    "data_aktualizacji": "2026-10-27",
     "slowo_kluczowe": "rozpoznanie fotowoltaika",
     "keywords": [
       "instalacja pv",
@@ -2070,14 +2406,6 @@
       "magazyn energii pv",
       "moduly fotowoltaiczne"
     ],
-    "prefix": "Rozpoznanie i dzialania zabezpieczajace przy zdarzeniach w obrebie instalacji fotowoltaicznych.",
-    "content": "1. KOD / NAZWA: instalacja fotowoltaiczna PV - rozpoznanie i dzialania zabezpieczajace.\n2. ROZPOZNANIE: ustaw pojazdy od strony nawietrznej, zachowujac bezpieczna odleglosc. Pozyskaj od wlasciciela, zarzadcy, personelu lub swiadkow jak najwiecej informacji o instalacji. Sprawdz, czy obiekt jest oznakowany znakiem bezpieczenstwa informujacym o obecnosci instalacji PV.\n3. USTALENIA KLUCZOWE: ustal lokalizacje modulow PV, pozostalych elementow instalacji, skrzynki przylaczeniowej sieci, magazynow energii oraz planu instalacji dla ekip ratowniczych. O ile to mozliwe ustal, w jakie zabezpieczenia wyposazona jest instalacja.\n4. TRASY I TYP INSTALACJI: ustal przebieg tras kablowych pradu stalego DC od modulow do falownika oraz od falownika do rozdzielni. Zweryfikuj, czy na obiekcie jest instalacja PV, a nie instalacja cieczowych kolektorow termicznych.\n5. OCENA USZKODZEN: ocen stan instalacji na podstawie oznak zewnetrznych. Okopcenie modulow, pekniecia, przebarwienia, uszkodzenia termiczne zlacz i przewodow moga swiadczyc o uszkodzeniu i wystepowaniu niebezpiecznego napiecia na metalowych elementach instalacji i budynku.\n6. SOI: podczas rozpoznania i dzialan stosuj srodki ochrony indywidualnej, w tym sprzet elektroizolacyjny, odpowiednio do rodzaju zdarzenia.\n7. DZIALANIA KRYTYCZNE: podejmij probe rozlaczenia doplywu energii elektrycznej do obiektu, uwzgledniajac mozliwosc wystepowania zasilania zapasowego. Jezeli instalacja wyposazona jest w magazyn energii, podejmij probe ustawienia wylacznika glownego falownika w pozycji zero lub Off. Jezeli obiekt ma przeciwpozarowy wylacznik pradu, wykorzystaj go.\n8. PROCEDURA SZCZEGOLOWA: w instalacjach ze stacja transformatorowa podejmij probe kontaktu z dyspozytorem operatora sieci dystrybucyjnej i popros o zdalne odlaczenie zasilania stacji. Co do zasady nie ingeruj w instalacje PV po stronie pradu stalego DC. Jezeli konieczny jest demontaz modulow, stosuj szczegolne srodki ostroznosci, w tym sprzet elektroizolacyjny, dedykowane klucze do rozpinania zlacz oraz zabezpieczaj luzne zlacza i przewody.\n9. CO MOZE POJSC NIE TAK: po odlaczeniu zasilania po stronie AC nadal moze wystepowac wysokie napiecie po stronie DC pomiedzy modulami a rozlacznikiem lub bezpiecznikami. Zaslanianie modulow plandekami albo pokrywanie piana sprezona nie daje gwarancji zabezpieczenia przed porazeniem pradem.\n10. UWAGI OPERACYJNE: nie dotykaj elementow instalacji PV, jezeli nie jest to konieczne. Jezeli jakikolwiek element budynku lub instalacji wykonany jest z materialow przewodzacych prad, zawsze zakladaj, ze moze byc pod napieciem. Detektor typu Hot Stick nie wykrywa pradu stalego generowanego przez moduly fotowoltaiczne.",
-    "tagi_wspolne": [
-      "fotowoltaika",
-      "pv",
-      "instalacja fotowoltaiczna",
-      "rozpoznanie"
-    ],
     "aliasy": [
       "instalacja pv",
       "rozpoznanie pv",
@@ -2086,13 +2414,138 @@
       "magazyn energii pv",
       "moduly fotowoltaiczne"
     ],
+    "prefix": "Instalacja fotowoltaiczna (PV) — rozpoznanie i działania zabezpieczające: odłączenie AC, falownik, wyłącznik ppoż., strona DC (SZP KG PSP 2022).",
+    "najpierw": [
+      {
+        "t": "Ustaw pojazdy od strony nawietrznej, w bezpiecznej odległości.",
+        "zr": "SZP PV 2022",
+        "str": 8
+      },
+      {
+        "t": "Odłącz dopływ energii do obiektu — uwzględnij zasilanie zapasowe.",
+        "zr": "SZP PV 2022",
+        "str": 10
+      },
+      {
+        "t": "Jest magazyn energii — ustaw wyłącznik główny falownika w pozycji „0”/„Off”, niezależnie od odłączenia zasilania budynku.",
+        "zr": "SZP PV 2022",
+        "str": 10
+      },
+      {
+        "t": "Jest przeciwpożarowy wyłącznik prądu — użyj go.",
+        "zr": "SZP PV 2022",
+        "str": 10
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Po odłączeniu AC",
+        "wartosc": "między modułami a rozłącznikiem/bezpiecznikami nadal może być wysokie napięcie DC",
+        "zr": "SZP PV 2022",
+        "str": 10
+      },
+      {
+        "nazwa": "Napięcie systemów PV",
+        "wartosc": "do 1500 V DC",
+        "zr": "SZP PV 2022",
+        "str": 7
+      },
+      {
+        "nazwa": "Hot Stick",
+        "wartosc": "nie wykrywa prądu stałego z modułów PV",
+        "zr": "SZP PV 2022",
+        "str": 12
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Rozpoznanie",
+        "punkty": [
+          {
+            "t": "Zbierz informacje od zarządcy, właściciela, personelu, świadków; szukaj znaku bezpieczeństwa PV (złącze, miejsce pomiaru, rozdzielnica).",
+            "zr": "SZP PV 2022",
+            "str": 8
+          },
+          {
+            "t": "Ustal położenie modułów, elementów instalacji, skrzynki przyłączeniowej i magazynów energii; poszukaj planu instalacji dla ekip ratowniczych.",
+            "zr": "SZP PV 2022",
+            "str": 8
+          },
+          {
+            "t": "Moduły na dachu — zakładaj, że mogą być ze wszystkich stron, także od północy i na ścianach; sprawdź instalację gruntową w sąsiedztwie.",
+            "zr": "SZP PV 2022",
+            "str": 9
+          },
+          {
+            "t": "Ustal trasy kabli DC (moduły → falownik) i od falownika do rozdzielni.",
+            "zr": "SZP PV 2022",
+            "str": 9
+          },
+          {
+            "t": "Odróżnij PV od kolektorów cieczowych: kolektory są grubsze, po 3–4 w łańcuchu, z przewodami hydraulicznymi 2–3 cm.",
+            "zr": "SZP PV 2022",
+            "str": 9
+          },
+          {
+            "t": "Okopcenie, pęknięcia, przebarwienia, nadtopione złącza i przewody — możliwe napięcie na metalowych elementach instalacji i budynku.",
+            "zr": "SZP PV 2022",
+            "str": 9
+          }
+        ]
+      },
+      {
+        "etykieta": "Działania zabezpieczające",
+        "punkty": [
+          {
+            "t": "Instalacja ze stacją transformatorową — poproś dyspozytora operatora sieci o zdalne odłączenie stacji (podaj numer lub lokalizację).",
+            "zr": "SZP PV 2022",
+            "str": 10
+          },
+          {
+            "t": "Co do zasady nie ingeruj w stronę DC.",
+            "zr": "SZP PV 2022",
+            "str": 11
+          },
+          {
+            "t": "Demontaż modułów tylko w razie konieczności: rękawice dielektryczne, dedykowane klucze do złączy, zabezpiecz luźne złącza i przewody.",
+            "zr": "SZP PV 2022",
+            "str": 11
+          },
+          {
+            "t": "Elementy przewodzące budynku (pokrycie, belki, rynny) zawsze traktuj jako mogące być pod napięciem.",
+            "zr": "SZP PV 2022",
+            "str": 9
+          }
+        ]
+      }
+    ],
+    "nie_rob": [
+      {
+        "t": "Nie dotykaj elementów instalacji PV, jeśli nie jest to konieczne.",
+        "zr": "SZP PV 2022",
+        "str": 9
+      },
+      {
+        "t": "Zakrycie modułów plandeką lub pianą sprężoną nie gwarantuje ochrony przed porażeniem.",
+        "zr": "SZP PV 2022",
+        "str": 11
+      }
+    ],
+    "tagi_wspolne": [
+      "fotowoltaika",
+      "pv",
+      "instalacja fotowoltaiczna",
+      "rozpoznanie"
+    ],
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-pv-szp-2022",
         "strona": 8,
-        "sekcja": "Odpowiednia część SZP instalacji PV"
+        "sekcja": "Rozpoznanie i działania zabezpieczające (s. 8–11)"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: Ustaw pojazdy od strony nawietrznej, w bezpiecznej odległości. Odłącz dopływ energii do obiektu — uwzględnij zasilanie zapasowe. Jest magazyn energii — ustaw wyłącznik główny falownika w pozycji „0”/„Off”, niezależnie od odłączenia zasilania budynku. Jest przeciwpożarowy wyłącznik prądu — użyj go.\n2. PARAMETRY: Po odłączeniu AC — między modułami a rozłącznikiem/bezpiecznikami nadal może być wysokie napięcie DC; Napięcie systemów PV — do 1500 V DC; Hot Stick — nie wykrywa prądu stałego z modułów PV\n3. ROZPOZNANIE: Zbierz informacje od zarządcy, właściciela, personelu, świadków; szukaj znaku bezpieczeństwa PV (złącze, miejsce pomiaru, rozdzielnica). Ustal położenie modułów, elementów instalacji, skrzynki przyłączeniowej i magazynów energii; poszukaj planu instalacji dla ekip ratowniczych. Moduły na dachu — zakładaj, że mogą być ze wszystkich stron, także od północy i na ścianach; sprawdź instalację gruntową w sąsiedztwie. Ustal trasy kabli DC (moduły → falownik) i od falownika do rozdzielni. Odróżnij PV od kolektorów cieczowych: kolektory są grubsze, po 3–4 w łańcuchu, z przewodami hydraulicznymi 2–3 cm. Okopcenie, pęknięcia, przebarwienia, nadtopione złącza i przewody — możliwe napięcie na metalowych elementach instalacji i budynku.\n4. DZIAŁANIA ZABEZPIECZAJĄCE: Instalacja ze stacją transformatorową — poproś dyspozytora operatora sieci o zdalne odłączenie stacji (podaj numer lub lokalizację). Co do zasady nie ingeruj w stronę DC. Demontaż modułów tylko w razie konieczności: rękawice dielektryczne, dedykowane klucze do złączy, zabezpiecz luźne złącza i przewody. Elementy przewodzące budynku (pokrycie, belki, rynny) zawsze traktuj jako mogące być pod napięciem.\n5. NIE RÓB: Nie dotykaj elementów instalacji PV, jeśli nie jest to konieczne. Zakrycie modułów plandeką lub pianą sprężoną nie gwarantuje ochrony przed porażeniem."
   },
   {
     "id": "KARTA-KPP-AMPUTACJA-URAZOWA",

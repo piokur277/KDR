@@ -1,8 +1,10 @@
 {
   "id": "KARTA-PV-Z2-MIEJSCOWE-ZAGROZENIE",
+  "wzorzec": 2,
   "kategoria": "dzialania",
-  "zrodlo": "Standardowe zasady postepowania podczas zdarzen w obrebie instalacji fotowoltaicznych, KG PSP",
-  "data_aktualizacji": "2022-03",
+  "grupa": "pv",
+  "zrodlo": "KG PSP: Standardowe zasady postępowania podczas zdarzeń w obrębie instalacji fotowoltaicznych (SZP nr 6), wydanie I, marzec 2022.",
+  "data_aktualizacji": "2026-10-27",
   "slowo_kluczowe": "miejscowe zagrozenie pv",
   "keywords": [
     "uszkodzona fotowoltaika",
@@ -12,15 +14,6 @@
     "miejscowe zagrozenie fotowoltaika",
     "mechaniczne uszkodzenie pv"
   ],
-  "prefix": "Karta Z2 - Dzialania ratownicze przy miejscowym zagrozeniu w obrebie instalacji fotowoltaicznej.",
-  "content": "1. KOD / NAZWA: PV Z2 - miejscowe zagrozenie w obrebie instalacji fotowoltaicznej.\n2. ROZPOZNANIE: okresl stan techniczny instalacji PV na podstawie oznak zewnetrznych oraz ustal zagrozenia ze strony uszkodzonej instalacji. Jezeli instalacja zostala uszkodzona mechanicznie, ocen mozliwosc ewentualnego powstania pozaru.\n3. STREFA: wyznacz strefe zagrozenia i w przypadku bezposredniego zagrozenia zycia przeprowadz natychmiastowa ewakuacje osob znajdujacych sie w obiekcie.\n4. SOI: w sytuacji braku odpowiednich informacji o stanie instalacji PV stosuj srodki ochrony indywidualnej wlasciwe do dzialan przy urzadzeniach pod napieciem.\n5. DZIALANIA KRYTYCZNE: ostrzez ratownikow o wystepujacym zagrozeniu, odlacz doplyw pradu elektrycznego do budynku, a jezeli instalacja PV wyposazona jest w magazyn energii - wylacz falownik. Przystap do redukcji zagrozenia zgodnie z karta rozpoznania i dzialan zabezpieczajacych.\n6. PROCEDURA SZCZEGOLOWA: jezeli nie jest to konieczne, nie dotykaj elementow instalacji PV ani innych elementow przewodzacych prad. W przypadku koniecznosci demontazu modulow zachowaj szczegolna ostroznosc i zabezpieczaj luzne zlacza oraz przewody. W razie potrzeby zadysponuj odpowiednie sluzby. Po zakonczeniu dzialan zapewnij bezpieczne warunki przez uniemozliwienie ponownego uruchomienia uszkodzonej instalacji oraz jej zabezpieczenie.\n7. CO MOZE POJSC NIE TAK: detektor typu Hot Stick nie wykrywa pradu stalego generowanego przez moduly fotowoltaiczne. Uszkodzona mechanicznie instalacja moze stwarzac zagrozenie pojawienia sie napiecia na elementach przewodzacych oraz wtorny pozar.\n8. UWAGI OPERACYJNE: karta dotyczy miejscowego zagrozenia, ale wymaga traktowania instalacji jak potencjalnie znajdujacej sie pod napieciem.",
-  "tagi_wspolne": [
-    "fotowoltaika",
-    "pv",
-    "instalacja fotowoltaiczna",
-    "miejscowe zagrozenie",
-    "uszkodzenie"
-  ],
   "aliasy": [
     "uszkodzona fotowoltaika",
     "uszkodzona instalacja pv",
@@ -29,11 +22,89 @@
     "miejscowe zagrozenie fotowoltaika",
     "mechaniczne uszkodzenie pv"
   ],
+  "prefix": "PV Z2 — miejscowe zagrożenie w obrębie instalacji fotowoltaicznej (uszkodzenie mechaniczne) (SZP KG PSP 2022).",
+  "najpierw": [
+    {
+      "t": "Wyznacz strefę zagrożenia; przy bezpośrednim zagrożeniu życia — natychmiastowa ewakuacja.",
+      "zr": "SZP PV 2022",
+      "str": 14
+    },
+    {
+      "t": "Ostrzeż ratowników, odłącz prąd do budynku; jest magazyn energii — wyłącz falownik.",
+      "zr": "SZP PV 2022",
+      "str": 14
+    },
+    {
+      "t": "Bez informacji o stanie instalacji — SOI do pracy przy urządzeniach pod napięciem.",
+      "zr": "SZP PV 2022",
+      "str": 14
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "Hot Stick",
+      "wartosc": "nie wykrywa prądu stałego z modułów PV",
+      "zr": "SZP PV 2022",
+      "str": 14
+    }
+  ],
+  "sekcje": [
+    {
+      "etykieta": "Ocena sytuacji",
+      "punkty": [
+        {
+          "t": "Określ stan techniczny instalacji z oznak zewnętrznych i zagrożenia od uszkodzonej instalacji.",
+          "zr": "SZP PV 2022",
+          "str": 14
+        },
+        {
+          "t": "Uszkodzenie mechaniczne — oceń możliwość powstania pożaru.",
+          "zr": "SZP PV 2022",
+          "str": 14
+        }
+      ]
+    },
+    {
+      "etykieta": "Działania",
+      "punkty": [
+        {
+          "t": "Redukuj zagrożenie wg karty „Rozpoznanie i działania zabezpieczające”.",
+          "zr": "SZP PV 2022",
+          "str": 14
+        },
+        {
+          "t": "Demontaż modułów — szczególna ostrożność, zabezpiecz luźne złącza i przewody; w razie potrzeby zadysponuj odpowiednie służby.",
+          "zr": "SZP PV 2022",
+          "str": 14
+        },
+        {
+          "t": "Po działaniach zabezpiecz instalację i uniemożliw jej ponowne uruchomienie.",
+          "zr": "SZP PV 2022",
+          "str": 14
+        }
+      ]
+    }
+  ],
+  "nie_rob": [
+    {
+      "t": "Nie dotykaj elementów PV ani innych elementów przewodzących, jeśli nie jest to konieczne.",
+      "zr": "SZP PV 2022",
+      "str": 14
+    }
+  ],
+  "tagi_wspolne": [
+    "fotowoltaika",
+    "pv",
+    "instalacja fotowoltaiczna",
+    "miejscowe zagrozenie",
+    "uszkodzenie"
+  ],
   "dokumenty_zrodlowe": [
     {
       "dokument_id": "doc-pv-szp-2022",
       "strona": 14,
-      "sekcja": "Odpowiednia część SZP instalacji PV"
+      "sekcja": "Karta Z2 — miejscowe zagrożenie (s. 14)"
     }
-  ]
+  ],
+  "data_przegladu": "2026-10-27"
 }
