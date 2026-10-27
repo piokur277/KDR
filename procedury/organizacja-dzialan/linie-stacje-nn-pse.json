@@ -1,8 +1,10 @@
 {
   "id": "KARTA-EL-PSE-LINIE-STACJE-NN",
+  "wzorzec": 2,
   "kategoria": "dzialania",
-  "zrodlo": "Polskie Sieci Elektroenergetyczne S.A.: „Bezpieczeństwo prowadzenia działań ratowniczo-gaśniczych na stacjach i w pobliżu linii elektroenergetycznych najwyższych napięć”, 31.08.2026 r. - źródło podstawowe; „Zagrożenia elektryczne”, Kraków 2014 - materiał pomocniczy do pojęć napięcia krokowego, dotykowego i łuku elektrycznego.",
-  "data_aktualizacji": "2026-08-31",
+  "grupa": "el",
+  "zrodlo": "Polskie Sieci Elektroenergetyczne S.A.: „Bezpieczeństwo prowadzenia działań ratowniczo-gaśniczych na stacjach i w pobliżu linii elektroenergetycznych najwyższych napięć”, 31.08.2026.",
+  "data_aktualizacji": "2026-10-27",
   "slowo_kluczowe": "linia najwyższego napięcia stacja PSE",
   "keywords": [
     "pse",
@@ -37,19 +39,6 @@
     "pożar pod linią 400 kv",
     "wypadek pod linią 400 kv"
   ],
-  "prefix": "Linie i stacje elektroenergetyczne najwyższych napięć (PSE) - bezpieczne działania PSP.",
-  "content": "1. ROZPOZNANIE I IDENTYFIKACJA: ustal, czy zdarzenie dotyczy stacji PSE lub linii przesyłowej najwyższych napięć. Na stacji odczytaj tablicę informacyjną na bramie. Przy linii zidentyfikuj numer słupa i relację linii z tablic umieszczonych na konstrukcji. Określ, czy występują: pożar, uszkodzenie konstrukcji, opadnięcie przewodów, porażenie, eksplozja aparatury, wyciek oleju lub uszkodzenie urządzeń z SF6.\n2. ZASADA PODSTAWOWA: do czasu uzyskania informacji od służb PSE oraz przygotowania miejsca przez służby eksploatacyjne traktuj linię i urządzenia jak CZYNNE I ZNAJDUJĄCE SIĘ POD NAPIĘCIEM. Samoczynne wyłączenie po zwarciu nie oznacza trwałego braku napięcia - linie NN mogą posiadać automatykę samoczynnego ponownego załączenia (SPZ).\n3. STREFA PRZY LINII NN: bez uzgodnienia warunków bezpieczeństwa z CN/RCN nie zbliżaj ludzi, sprzętu ani strumienia środka gaśniczego na odległość mniejszą niż 30 m od przewodu linii NN, również przewodu leżącego na ziemi. Odległość oceniaj w poziomie od rzutu pionowego skrajnego przewodu. Bez uzgodnienia z RCN nie przecinaj przewodów leżących na ziemi i nie wchodź na konstrukcję słupa.\n4. POŻAR POD LINIĄ: nie przejeżdżaj samochodem pożarniczym pod przewodami linii NN do czasu uzyskania z CN/RCN informacji o zapewnieniu bezpieczeństwa. Pożar może obniżyć wytrzymałość dielektryczną powietrza, zmniejszyć odległości przewodów od ziemi i doprowadzić do ich opadnięcia albo odkształcenia konstrukcji słupa.\n5. KONTAKT Z PSE: przekaż do Centrum Nadzoru (CN) albo właściwego Regionalnego Centrum Nadzoru (RCN): lokalizację, charakter zdarzenia, numer słupa/oznaczenie stacji, widoczne uszkodzenia i zakres prowadzonych działań. CN/RCN przekazuje warunki bezpieczeństwa prowadzenia działań. Aktualne numery kontaktowe z materiału PSE z 31.08.2026 znajdują się na stronie 30 dołączonego dokumentu.\n6. SKUTECZNE POZBAWIENIE LINII NN NAPIĘCIA: wymaga obustronnego wyłączenia i odłączenia linii w stacjach końcowych oraz jej uziemienia. Gdy istnieje ryzyko zbliżenia lub dotknięcia przewodu roboczego - także pośrednio, np. strumieniem wody - może być konieczne dodatkowe uziemienie w miejscu działań. Uziemienia wykonują służby PSE. Bez widocznego uziemienia nie dotykaj przewodów bezpośrednio ani pośrednio.\n7. DZIAŁANIA NA STACJI: wjazd sił PSP na teren ruchu energetycznego odbywa się pod nadzorem obsługi stacji po przygotowaniu strefy. Urządzenia w rejonie działań muszą zostać WYŁĄCZONE, ODŁĄCZONE (widoczna przerwa w obwodzie) i UZIEMIONE. Dopiero po wykonaniu tych czynności obsługa stacji przekazuje zagrożony rejon dowódcy PSP.\n8. NAPIĘCIE KROKOWE I DOTYKOWE: przy zwarciu doziemnym, uszkodzonym kablu, uziomie, powalonym słupie lub przewodzie na ziemi może wystąpić przepływ prądu przez grunt. Jeżeli ratownik znajdzie się w obszarze podejrzenia napięcia krokowego, powinien złączyć stopy i opuszczać obszar bardzo małymi krokami, przesuwając stopy po podłożu, bez szerokiego kroku i bez podpierania się rękami.\n9. ŁUK ELEKTRYCZNY: przy urządzeniach NN do porażenia może dojść bez dotknięcia przewodu - przez przeskok łuku. Nie zbliżaj się do części czynnych na podstawie oceny wzrokowej. Odległości i warunki pracy ustalaj z PSE/CN/RCN.\n10. ZAGROŻENIA DODATKOWE NA STACJI: uwzględnij możliwość eksplozji aparatury, ostrych odłamków izolatorów porcelanowych, gorącego oleju transformatorowego w dużych ilościach oraz produktów rozpadu SF6. Po wystąpieniu łuku lub uszkodzeniu urządzeń z SF6 możliwe są toksyczne i kwaśne produkty rozpadu; SF6 może także wypierać tlen.\n11. WYJĄTEK - DZIAŁANIA NIEGAŚNICZE POD CZYNNĄ LINIĄ: materiał PSE 2026 dopuszcza niektóre działania ratownicze bez zgłoszenia do RCN wyłącznie wtedy, gdy jednocześnie: używany jest tylko sprzęt ręczny; nie ma oznak uszkodzenia linii; nie jest potrzebna drabina, dźwig, HDS ani inny sprzęt zmechanizowany; nie ma ryzyka operowania ciałem lub narzędziem powyżej 4 m nad gruntem. NIE DOTYCZY TO GASZENIA POŻARÓW. W razie wątpliwości przyjmij wariant bardziej zachowawczy i skontaktuj się z CN/RCN.\n12. POSZKODOWANI: ratowanie życia pozostaje priorytetem, ale wejście do strefy zagrożenia elektrycznego wymaga warunków umożliwiających bezpieczne dotarcie do poszkodowanego. Po bezpiecznym wydobyciu prowadź KPP/ABCDE zgodnie ze stanem poszkodowanego.\n13. UWAGA O ŹRÓDŁACH: materiał PSE z 31.08.2026 stanowi źródło podstawowe dla tej karty. Materiał „Zagrożenia elektryczne, Kraków 2014” wykorzystano wyłącznie pomocniczo do objaśnienia napięcia krokowego/dotykowego i łuku. Nie przeniesiono z niego starych wartości napięć bezpiecznych jako kryteriów operacyjnych KDR.",
-  "tagi_wspolne": [
-    "elektryka",
-    "PSE",
-    "linia NN",
-    "stacja elektroenergetyczna",
-    "porażenie prądem",
-    "napięcie krokowe",
-    "łuk elektryczny",
-    "transformator",
-    "SF6"
-  ],
   "aliasy": [
     "pse",
     "linia nn",
@@ -83,21 +72,167 @@
     "pożar pod linią 400 kv",
     "wypadek pod linią wysokiego napięcia"
   ],
-  "pelna_procedura": {
-    "tytul": "PSE - Bezpieczeństwo prowadzenia działań ratowniczo-gaśniczych na stacjach i w pobliżu linii NN (31.08.2026)",
-    "plik": "dokumenty/elektryka/pse-bezpieczenstwo-dzialan-nn-2026.pdf",
-    "strona": 18
-  },
+  "prefix": "Linie i stacje elektroenergetyczne najwyższych napięć (PSE) — strefa 30 m, kontakt z CN/RCN, napięcie krokowe, działania na stacji (PSE 2026).",
+  "najpierw": [
+    {
+      "t": "Do przyjazdu służb PSE traktuj linię jako czynną i pod napięciem.",
+      "zr": "PSE 2026",
+      "str": 20
+    },
+    {
+      "t": "Bez uzgodnienia z RCN nie zbliżaj się — ludźmi, sprzętem ani strumieniem — na mniej niż 30 m do przewodu linii NN, także leżącego na ziemi.",
+      "zr": "PSE 2026",
+      "str": 22
+    },
+    {
+      "t": "Odczytaj numer słupa i relację linii z tablicy 2–3 m nad ziemią.",
+      "zr": "PSE 2026",
+      "str": 9
+    },
+    {
+      "t": "Przekaż CN lub właściwemu RCN informacje o działaniach i numer słupa; CN/RCN poda warunki bezpieczeństwa.",
+      "zr": "PSE 2026",
+      "str": 20
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "Brak zagrożeń od linii NN",
+      "wartosc": "> 30 m w poziomie od rzutu pionowego skrajnego przewodu i bez ryzyka naruszenia tej odległości",
+      "zr": "PSE 2026",
+      "str": 12
+    },
+    {
+      "nazwa": "Automatyka SPZ",
+      "wartosc": "po wyłączeniu zwarciowym napięcie wraca po kilku sekundach",
+      "zr": "PSE 2026",
+      "str": 14
+    },
+    {
+      "nazwa": "Olej w autotransformatorze",
+      "wartosc": "55–110 t",
+      "zr": "PSE 2026",
+      "str": 17
+    },
+    {
+      "nazwa": "Wysokości na stacji",
+      "wartosc": "autotransformator 11 m · aparatura 3–10 m · szyny zbiorcze 8–15 m",
+      "zr": "PSE 2026",
+      "str": 19
+    },
+    {
+      "nazwa": "Telefony CN/RCN",
+      "wartosc": "w dokumencie PSE, s. 30",
+      "zr": "PSE 2026",
+      "str": 30
+    }
+  ],
+  "sekcje": [
+    {
+      "etykieta": "Linia NN",
+      "punkty": [
+        {
+          "t": "Pożar obniża wytrzymałość dielektryczną powietrza; przewody mogą się obniżyć lub opaść, słupy odkształcić.",
+          "zr": "PSE 2026",
+          "str": 11
+        },
+        {
+          "t": "W czasie pożaru nie przejeżdżaj pod przewodami do czasu informacji z RCN.",
+          "zr": "PSE 2026",
+          "str": 22
+        },
+        {
+          "t": "Pozbawienie napięcia: obustronne wyłączenie i odłączenie w stacjach końcowych + uziemienie; przy ryzyku zbliżenia (także strumieniem) — uziemienie w miejscu działań.",
+          "zr": "PSE 2026",
+          "str": 21
+        },
+        {
+          "t": "Bez widocznego uziemienia nie dotykaj przewodów bezpośrednio ani pośrednio; uziemienia wykonuje PSE.",
+          "zr": "PSE 2026",
+          "str": 22
+        },
+        {
+          "t": "Bez zgłoszenia do RCN pod czynną linią tylko działania niegaśnicze (np. wypadek drogowy): sprzęt ręczny, linia nieuszkodzona, bez drabiny, dźwigu, HDS, nic powyżej 4 m.",
+          "zr": "PSE 2026",
+          "str": 23
+        }
+      ]
+    },
+    {
+      "etykieta": "Stacja elektroenergetyczna",
+      "punkty": [
+        {
+          "t": "Na bramie tablica informacyjna: napięcia, nazwa, adres, telefon, eksploatujący.",
+          "zr": "PSE 2026",
+          "str": 8
+        },
+        {
+          "t": "Wjazd PSP pod nadzorem obsługi, po przygotowaniu strefy: urządzenia wyłączone, odłączone (widoczna przerwa) i uziemione; potem obsługa przekazuje rejon dowódcy PSP.",
+          "zr": "PSE 2026",
+          "str": 18
+        },
+        {
+          "t": "Zagrożenia: eksplozje aparatury, odłamki izolatorów porcelanowych, wyciek i wykipienie gorącego oleju.",
+          "zr": "PSE 2026",
+          "str": 15
+        },
+        {
+          "t": "SF6 po łuku elektrycznym: trujące, kwasowe produkty rozpadu; wypiera tlen — ryzyko uduszenia.",
+          "zr": "PSE 2026",
+          "str": 16
+        }
+      ]
+    },
+    {
+      "etykieta": "Porażenie",
+      "punkty": [
+        {
+          "t": "Przy urządzeniach NN porażenie następuje bez dotknięcia — przeskok łuku przy zbliżeniu.",
+          "zr": "PSE 2026",
+          "str": 11
+        },
+        {
+          "t": "Napięcie krokowe: złącz stopy, bardzo drobne kroki szurając, nie odrywaj stóp, przykucnij ze złączonymi stopami, nie podpieraj się rękami.",
+          "zr": "PSE 2026",
+          "str": 13
+        },
+        {
+          "t": "Napięcie dotykowe i krokowe pojawia się przy zwarciu, także przy wyładowaniu atmosferycznym.",
+          "zr": "PSE 2026",
+          "str": 14
+        }
+      ]
+    }
+  ],
+  "nie_rob": [
+    {
+      "t": "Bez uzgodnienia z RCN nie przecinaj przewodów leżących na ziemi i nie wchodź na słup.",
+      "zr": "PSE 2026",
+      "str": 22
+    },
+    {
+      "t": "Nie kieruj strumienia środka gaśniczego w strefę 30 m od przewodu bez uzgodnienia z RCN.",
+      "zr": "PSE 2026",
+      "str": 22
+    }
+  ],
+  "tagi_wspolne": [
+    "elektryka",
+    "PSE",
+    "linia NN",
+    "stacja elektroenergetyczna",
+    "porażenie prądem",
+    "napięcie krokowe",
+    "łuk elektryczny",
+    "transformator",
+    "SF6"
+  ],
   "dokumenty_zrodlowe": [
     {
       "dokument_id": "doc-pse-bezpieczenstwo-dzialan-nn-2026",
-      "strona": 18,
-      "sekcja": "Źródło podstawowe: zagrożenia, organizacja strefy działań, warunki bezpieczeństwa, kontakt CN/RCN"
-    },
-    {
-      "dokument_id": "doc-zagrozenia-elektryczne-krakow-2014",
-      "strona": 10,
-      "sekcja": "Materiał pomocniczy: napięcie dotykowe i krokowe, skutki porażenia, łuk elektryczny"
+      "strona": 20,
+      "sekcja": "Oznakowanie (s. 8–9), zagrożenia (s. 10–17), organizacja strefy działań i warunki bezpieczeństwa (s. 18–23), kontakty CN/RCN (s. 28–30)"
     }
-  ]
+  ],
+  "data_przegladu": "2026-10-27"
 }

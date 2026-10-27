@@ -141,6 +141,14 @@
       "dotyczy_kart": [
         "KARTA-ORG-ZASADY-KIEROWANIA-"
       ]
+    },
+    {
+      "id": "kppsp-koscierzyna-bsp",
+      "url": "https://www.gov.pl/web/kppsp-koscierzyna/podejrzana-przesylka-i-dron-o-mozliwym-pochodzeniu-militarnym2",
+      "opis": "KP PSP Kościerzyna — wytyczne BSP pochodzenia militarnego (nowe wersje)",
+      "dotyczy_kart": [
+        "KARTA-LOT-BSP-"
+      ]
     }
   ],
   "pliki_oficjalne": {
@@ -290,6 +298,26 @@
         "dokument_id": "doc-rozp-ksrg-2026",
         "url": "https://api.sejm.gov.pl/eli/acts/DU/2026/872/text.pdf",
         "strona": "eli-rozp-ksrg-2026"
+      },
+      {
+        "dokument_id": "doc-bsp-militarny-v2-2026",
+        "url": "https://www.gov.pl/attachment/367e9dfb-d5de-4e15-a386-995dfbdcad2e",
+        "strona": "kppsp-koscierzyna/podejrzana-przesylka-i-dron-o-mozliwym-pochodzeniu-militarnym2"
+      },
+      {
+        "dokument_id": "doc-bsp-prezentacja-2026",
+        "url": "https://www.gov.pl/attachment/7620f67f-45bb-42b1-959a-211e3bcec659",
+        "strona": "kppsp-koscierzyna/podejrzana-przesylka-i-dron-o-mozliwym-pochodzeniu-militarnym2"
+      },
+      {
+        "dokument_id": "doc-chem-eko-2025",
+        "url": "https://www.gov.pl/attachment/89034c06-f751-4b01-9f8c-683b80e34eb5",
+        "strona": "zasady-organizacji-rat-chem"
+      },
+      {
+        "dokument_id": "doc-chem-eko-2025-zal11",
+        "url": "https://www.gov.pl/attachment/01a80975-659b-4bcf-88d4-42c11189d7a1",
+        "strona": "zasady-organizacji-rat-chem"
       }
     ]
   }
