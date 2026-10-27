@@ -1838,7 +1838,7 @@
       {
         "dokument_id": "doc-msa-altair-4x-manual",
         "strona": 55,
-        "sekcja": "Ustawione fabrycznie progi oraz punkty zadalne alarmów; pełna instrukcja obsługi ma 78 stron",
+        "sekcja": "Przepisy bezpieczeństwa (s. 8–9), alarmy (s. 25–27), test funkcjonalny (s. 43), progi fabryczne (s. 55)",
         "tytul": "Instrukcja obsługi ALTAIR 4X - miernik wielogazowy",
         "plik": "dokumenty/urzadzenia/msa-altair-4x-instrukcja-obslugi.pdf",
         "typ": "pdf"
@@ -1920,8 +1920,8 @@
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-polon-alfa-rk-100-2-manual",
-        "strona": 11,
-        "sekcja": "Pełna instrukcja obsługi (51 stron): klawiatura, wyświetlacz, sonda zewnętrzna, alarmy, tryby pomiarowe, konserwacja",
+        "strona": 7,
+        "sekcja": "Dane techniczne (s. 7), sonda (s. 13–14), sygnalizacje (s. 15–20), pomiary (s. 22–28)",
         "tytul": "Radiometr RK-100-2 - Instrukcja obsługi IO-R120-001",
         "plik": "dokumenty/urzadzenia/polon-alfa-rk-100-2-instrukcja-obslugi.pdf",
         "typ": "pdf"
@@ -1929,7 +1929,7 @@
       {
         "dokument_id": "doc-polon-alfa-rk-100-2-product",
         "strona": 1,
-        "sekcja": "Aktualna strona producenta RK-100-2 i dane techniczne",
+        "sekcja": "Aktualna strona producenta",
         "tytul": "POLON-ALFA RK-100-2 - aktualna strona produktu",
         "plik": "https://polon-alfa.com/produkty/rk-10/",
         "typ": "url"
@@ -1950,7 +1950,7 @@
       {
         "dokument_id": "doc-zodr-2013",
         "strona": 4,
-        "sekcja": "Zasady organizowania działań ratowniczych (KG PSP, marzec 2013)",
+        "sekcja": "Zasady ogólne (s. 4–8), działania ratownicze (s. 8–14), zakończenie (s. 14)",
         "tytul": "Zasady organizowania działań ratowniczych",
         "plik": "dokumenty/organizacja/zasady-organizowania-dzialan-ratowniczych-2013-03.pdf",
         "typ": "pdf"
