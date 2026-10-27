@@ -11,31 +11,16 @@ jobs:
       - uses: actions/checkout@v4
       - name: Pobierz
         run: |
-          mkdir -p tmp-olioc && cd tmp-olioc && rm -f log.txt
+          mkdir -p tmp-olioc2 && cd tmp-olioc2 && rm -f log.txt
           get(){ curl -sSL --retry 3 -A "Mozilla/5.0" -o "$1" "$2" && echo "$1 $(stat -c%s "$1") $(file -b "$1" | cut -c1-40)" >> log.txt; }
-          get src-olioc-akademia.html "https://www.gov.pl/web/olioc/akdemia-olioc"
-          get src-olioc-ustawa.html "https://www.gov.pl/web/olioc/ustawa-o-ochronie-ludnosci-i-obronie-cywilnej"
-          get src-poradnik-wspolnie.html "https://www.gov.pl/web/poradnikbezpieczenstwa/wspolnie-dbamy-o-nasze-bezpieczenstwo2"
-          get src-poradnik-przygotuj-siebie.html "https://www.gov.pl/web/poradnikbezpieczenstwa/przygotuj-siebie-i-najblizszych"
-          get src-poradnik-szczegolna-pomoc.html "https://www.gov.pl/web/poradnikbezpieczenstwa/osoby-potrzebujace-szczegolnej-pomocy"
-          get src-poradnik-zwierzeta.html "https://www.gov.pl/web/poradnikbezpieczenstwa/zadbaj-o-zwierzeta"
-          get src-poradnik-otoczenie.html "https://www.gov.pl/web/poradnikbezpieczenstwa/przygotuj-swoje-otoczenie"
-          get src-poradnik-alarmy.html "https://www.gov.pl/web/poradnikbezpieczenstwa/sygnaly-alarmowe-i-komunikaty-ostrzegawcze"
-          get src-poradnik-ewakuacja.html "https://www.gov.pl/web/poradnikbezpieczenstwa/ewakuacja"
-          get src-poradnik-schronienia.html "https://www.gov.pl/web/poradnikbezpieczenstwa/schronienia"
-          get src-poradnik-pozar.html "https://www.gov.pl/web/poradnikbezpieczenstwa/pozar"
-          get src-poradnik-blackout.html "https://www.gov.pl/web/poradnikbezpieczenstwa/dlugotrwaly-brak-pradu-blackout"
-          get src-poradnik-cyfrowe.html "https://www.gov.pl/web/poradnikbezpieczenstwa/zagrozenia-cyfrowe"
-          get src-poradnik-higiena.html "https://www.gov.pl/web/poradnikbezpieczenstwa/higiena-w-kryzysie"
-          get src-poradnik-plan.html "https://www.gov.pl/web/poradnikbezpieczenstwa/plan-na-kryzys"
-          get src-poradnik-pierwsza-pomoc.html "https://www.gov.pl/web/poradnikbezpieczenstwa/pierwsza-pomoc"
-          get src-kgpsp-czujki-2026.html "https://www.gov.pl/web/kgpsp/obowiazek-instalowania-autonomicznych-czujek-dymu-i-czadu"
-          get src-gis-zywnosc-blackout-2026.html "https://www.gov.pl/web/gis/przerwa-w-dostawie-pradu-pamietaj-o-bezpieczenstwie-zywnosci"
-          get src-psp-agregat-na-zewnatrz.html "https://www.gov.pl/web/kppsp-gizycko/silny-wiatr---uwaga"
-          get src-cert-zglos-incydent.html "https://incydent.cert.pl/"
-          get poradnik-start.html "https://www.gov.pl/web/poradnikbezpieczenstwa"
+          get poradnik.pdf "https://www.gov.pl/attachment/fa491036-8872-457c-95e4-d1292e4a8203"
+          get karta-planu-rodzinnego.pdf "https://www.gov.pl/attachment/819526f0-4cc4-49bc-be14-37799d75fdae"
+          get pakiet-uczniowski.pdf "https://www.gov.pl/attachment/525423fd-0e11-4756-8263-20806e7c6a34"
+          get sygnal-alarmowy.pdf "https://www.gov.pl/attachment/9bb63c3d-bc74-4fa0-b90b-2aeff45a2b6f"
+          get instrukcja-reagowania.pdf "https://www.gov.pl/attachment/cc2d0058-e5f9-4ed6-b583-a08ea4bac5af"
+          get alert-rcb.pdf "https://www.gov.pl/attachment/112b807a-416d-437d-b391-66dbd5e4a844"
           cat log.txt
       - name: Zapisz
         run: |
           git config user.name tmp && git config user.email tmp@users.noreply.github.com
-          git add tmp-olioc && git commit -m "Tymczasowe: olioc" && git push
+          git add tmp-olioc2 && git commit -m "Tymczasowe: olioc2" && git push
