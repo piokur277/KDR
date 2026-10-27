@@ -1,0 +1,22 @@
+name: tmp-pobranie
+on:
+  push:
+    branches: [tmp-pobranie-sztab]
+permissions:
+  contents: write
+jobs:
+  pobierz:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Pobierz
+        run: |
+          mkdir -p tmp-sztab && cd tmp-sztab
+          get(){ curl -sSL --retry 3 -A "Mozilla/5.0" -o "$1" "https://www.gov.pl/attachment/$2" && echo "$1 $(stat -c%s "$1") $(file -b "$1" | cut -c1-40)" >> log.txt; }
+          get sztab-2025.pdf b7dd968a-121b-473b-92d4-3c2f11cc4929
+          curl -sSL -A "Mozilla/5.0" -o dok-oper.html https://www.gov.pl/web/kgpsp/dokumentacja-operacyjna
+          cat log.txt
+      - name: Zapisz
+        run: |
+          git config user.name tmp && git config user.email tmp@users.noreply.github.com
+          git add tmp-sztab && git commit -m "Tymczasowe: sztab" && git push
