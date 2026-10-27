@@ -1,31 +1,59 @@
 {
   "id": "KARTA-KPP-TONIECIE",
+  "wzorzec": 2,
   "kategoria": "dzialania",
-  "zrodlo": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 16",
-  "data_aktualizacji": "",
+  "grupa": "kpp",
+  "zrodlo": "KG PSP: Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy — Załącznik nr 1 do Zasad organizacji ratownictwa medycznego w KSRG (2021), Procedura 16.",
+  "data_aktualizacji": "2026-10-27",
   "slowo_kluczowe": "toniecie kpp",
   "keywords": [
     "procedura 16 kpp",
     "5 oddechow toniecie",
     "wentylacja toniecie kpp"
   ],
-  "prefix": "KPP - toniecie.",
-  "content": "1. KOD / NAZWA: Procedura 16 - toniecie.\n2. START: wykonaj rozpoznanie miejsca zdarzenia i sekwencje medycznych dzialan ratowniczych z procedury 2. Oceniaj takze obecne objawy wychlodzenia.\n3. TLENOTERAPIA LUB WENTYLACJA: niezwlocznie rozpocznij tlenoterapie albo wentylacje.\n4. ZATRZYMANIE KRAZENIA: jezeli dojdzie do zatrzymania krazenia, RKO rozpoczyna sie od 5 oddechow ratowniczych, a nastepnie przechodzi do ucisniec klatki piersiowej zgodnie z procedura 3 lub 4.\n5. UWAGI OPERACYJNE: w tej procedurze od poczatku nalezy pamietac o wspolistniejacym ryzyku wychlodzenia.",
-  "tagi_wspolne": [
-    "kpp",
-    "medyczne dzialania ratownicze",
-    "toniecie"
-  ],
   "aliasy": [
     "procedura 16 kpp",
     "5 oddechow toniecie",
     "wentylacja toniecie kpp"
   ],
+  "prefix": "KPP procedura 16 — tonięcie: tlenoterapia lub wentylacja, RKO od 5 oddechów ratowniczych.",
+  "najpierw": [
+    {
+      "t": "Rozpoznanie miejsca zdarzenia i sekwencja medycznych działań ratowniczych (procedura 2).",
+      "zr": "KPP proc. 16",
+      "str": 1
+    },
+    {
+      "t": "Oceń objawy wychłodzenia.",
+      "zr": "KPP proc. 16",
+      "str": 1
+    },
+    {
+      "t": "Niezwłocznie rozpocznij tlenoterapię lub wentylację.",
+      "zr": "KPP proc. 16",
+      "str": 1
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "RKO",
+      "wartosc": "rozpocznij od 5 oddechów ratowniczych, potem uciśnięcia (procedura 3 lub 4)",
+      "zr": "KPP proc. 16",
+      "str": 1
+    }
+  ],
+  "sekcje": [],
+  "tagi_wspolne": [
+    "kpp",
+    "medyczne dzialania ratownicze",
+    "toniecie"
+  ],
   "dokumenty_zrodlowe": [
     {
       "dokument_id": "doc-kpp-procedura-16",
       "strona": 1,
-      "sekcja": "Procedura nr 16 - Tonięcie"
+      "sekcja": "Procedura nr 16"
     }
-  ]
+  ],
+  "data_przegladu": "2026-10-27"
 }

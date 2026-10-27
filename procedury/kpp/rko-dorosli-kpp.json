@@ -10,13 +10,17 @@
     "rko dorosly kpp",
     "zatrzymanie krazenia dorosly",
     "procedura 3 kpp",
-    "aed dorosly"
+    "aed dorosly",
+    "nie oddycha",
+    "brak oddechu"
   ],
   "aliasy": [
     "rko dorosly kpp",
     "zatrzymanie krazenia dorosly",
     "procedura 3 kpp",
-    "aed dorosly"
+    "aed dorosly",
+    "nie oddycha",
+    "brak oddechu"
   ],
   "prefix": "KPP procedura 3 — zatrzymanie krążenia u dorosłych: RKO 30:2 lub asynchroniczna, AED.",
   "najpierw": [

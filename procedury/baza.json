@@ -4737,34 +4737,92 @@
   },
   {
     "id": "KARTA-KPP-KOBIETA-W-CIAZY-ZAGROZENIE",
+    "wzorzec": 2,
     "kategoria": "dzialania",
-    "zrodlo": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 19",
-    "data_aktualizacji": "",
+    "grupa": "kpp",
+    "zrodlo": "KG PSP: Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy — Załącznik nr 1 do Zasad organizacji ratownictwa medycznego w KSRG (2021), Procedura 19.",
+    "data_aktualizacji": "2026-10-27",
     "slowo_kluczowe": "kobieta w ciazy kpp",
     "keywords": [
       "ciaza zagrozenie zycia kpp",
       "procedura 19 kpp",
       "resuscytacja ciaza kpp"
     ],
-    "prefix": "KPP - kobieta w widocznej ciazy w stanie zagrozenia zycia lub zdrowia.",
-    "content": "1. KOD / NAZWA: Procedura 19 - kobieta w widocznej ciazy w stanie zagrozenia zycia lub zdrowia.\n2. START: wykonaj rozpoznanie miejsca zdarzenia i sekwencje medycznych dzialan ratowniczych z procedury 2.\n3. PRZYTOMNA: uloz poszkodowana w pozycji wygodnej dla niej.\n4. CIALO OBCE W DROGACH ODDECHOWYCH: zachecaj do kaszlu. Jezeli kaszel jest nieefektywny, wykonaj do 5 uderzen w okolice miedzy lopatkowa, a jesli dalej sa nieefektywne - do 5 ucisniec klatki piersiowej.\n5. URAZOWY MECHANIZM ZDARZENIA LUB WSKAZANIA DO RESUSCYTACJI: uloz poszkodowana na wznak z uniesieniem biodra prawego albo z przesunieciem brzucha w lewa strone. Resuscytacje prowadz w tej pozycji.\n6. NIEPRZYTOMNA BEZ WSKAZAN DO RESUSCYTACJI I BEZ URAZOWEGO MECHANIZMU: uloz poszkodowana na lewym boku.\n7. UWAGI OPERACYJNE: procedura laczy postepowanie urazowe i nieurazowe oraz uwzglednia odrebne ulozenie w czasie resuscytacji.",
-    "tagi_wspolne": [
-      "kpp",
-      "medyczne dzialania ratownicze",
-      "kobieta w ciazy"
-    ],
     "aliasy": [
       "ciaza zagrozenie zycia kpp",
       "procedura 19 kpp",
       "resuscytacja ciaza kpp"
     ],
+    "prefix": "KPP procedura 19 — kobieta w widocznej ciąży: pozycje wg przytomności, urazu i wskazań do resuscytacji.",
+    "najpierw": [
+      {
+        "t": "Rozpoznanie miejsca zdarzenia i sekwencja medycznych działań ratowniczych (procedura 2).",
+        "zr": "KPP proc. 19",
+        "str": 1
+      },
+      {
+        "t": "Pozycja na wznak z uniesieniem prawego biodra lub przesunięciem brzucha w lewą stronę — przy unieruchomieniu i przy resuscytacji.",
+        "zr": "KPP proc. 19",
+        "str": 1
+      }
+    ],
+    "parametry": [],
+    "sekcje": [
+      {
+        "etykieta": "Przytomna",
+        "punkty": [
+          {
+            "t": "Bez urazowego mechanizmu → pozycja wygodna dla poszkodowanej.",
+            "zr": "KPP proc. 19",
+            "str": 1
+          },
+          {
+            "t": "Ciało obce w drogach oddechowych → zachęć do kaszlu; nieefektywny → do 5 uderzeń międzyłopatkowo; nieefektywne → do 5 uciśnięć klatki piersiowej.",
+            "zr": "KPP proc. 19",
+            "str": 1
+          },
+          {
+            "t": "Urazowy mechanizm → unieruchomienie na wznak z uniesieniem prawego biodra lub przesunięciem brzucha w lewo.",
+            "zr": "KPP proc. 19",
+            "str": 1
+          }
+        ]
+      },
+      {
+        "etykieta": "Nieprzytomna",
+        "punkty": [
+          {
+            "t": "Wskazania do resuscytacji (z urazem lub bez) → resuscytacja na wznak z uniesieniem prawego biodra lub przesunięciem brzucha w lewo.",
+            "zr": "KPP proc. 19",
+            "str": 1
+          },
+          {
+            "t": "Urazowy mechanizm, bez wskazań do resuscytacji → unieruchomienie na wznak z uniesieniem prawego biodra lub przesunięciem brzucha w lewo.",
+            "zr": "KPP proc. 19",
+            "str": 1
+          },
+          {
+            "t": "Bez urazu i bez wskazań do resuscytacji → pozycja na lewym boku.",
+            "zr": "KPP proc. 19",
+            "str": 1
+          }
+        ]
+      }
+    ],
+    "tagi_wspolne": [
+      "kpp",
+      "medyczne dzialania ratownicze",
+      "kobieta w ciazy"
+    ],
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-kpp-procedura-19",
         "strona": 1,
-        "sekcja": "Procedura nr 19 - Kobieta w widocznej ciąży w stanie zagrożenia życia lub zdrowia"
+        "sekcja": "Procedura nr 19"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: Rozpoznanie miejsca zdarzenia i sekwencja medycznych działań ratowniczych (procedura 2). Pozycja na wznak z uniesieniem prawego biodra lub przesunięciem brzucha w lewą stronę — przy unieruchomieniu i przy resuscytacji.\n2. PRZYTOMNA: Bez urazowego mechanizmu → pozycja wygodna dla poszkodowanej. Ciało obce w drogach oddechowych → zachęć do kaszlu; nieefektywny → do 5 uderzeń międzyłopatkowo; nieefektywne → do 5 uciśnięć klatki piersiowej. Urazowy mechanizm → unieruchomienie na wznak z uniesieniem prawego biodra lub przesunięciem brzucha w lewo.\n3. NIEPRZYTOMNA: Wskazania do resuscytacji (z urazem lub bez) → resuscytacja na wznak z uniesieniem prawego biodra lub przesunięciem brzucha w lewo. Urazowy mechanizm, bez wskazań do resuscytacji → unieruchomienie na wznak z uniesieniem prawego biodra lub przesunięciem brzucha w lewo. Bez urazu i bez wskazań do resuscytacji → pozycja na lewym boku."
   },
   {
     "id": "KARTA-KPP-OBRAZENIA-BRZUCHA",
@@ -5488,13 +5546,17 @@
       "rko dorosly kpp",
       "zatrzymanie krazenia dorosly",
       "procedura 3 kpp",
-      "aed dorosly"
+      "aed dorosly",
+      "nie oddycha",
+      "brak oddechu"
     ],
     "aliasy": [
       "rko dorosly kpp",
       "zatrzymanie krazenia dorosly",
       "procedura 3 kpp",
-      "aed dorosly"
+      "aed dorosly",
+      "nie oddycha",
+      "brak oddechu"
     ],
     "prefix": "KPP procedura 3 — zatrzymanie krążenia u dorosłych: RKO 30:2 lub asynchroniczna, AED.",
     "najpierw": [
@@ -5616,9 +5678,11 @@
   },
   {
     "id": "KARTA-KPP-SCHEMAT-BADANIA-ABCDE",
+    "wzorzec": 2,
     "kategoria": "dzialania",
-    "zrodlo": "ALS Provider Course, Schemat badania ABCDE, strony 1-2",
-    "data_aktualizacji": "2026-07-17",
+    "grupa": "kpp",
+    "zrodlo": "Materiał szkoleniowy „ALS Provider Course — Schemat badania ABCDE” (kursy-resuscytacji.pl), 2 s.; karta ogranicza się do elementów oceny — czynności ALS wykraczają poza KPP.",
+    "data_aktualizacji": "2026-10-27",
     "slowo_kluczowe": "schemat badania abcde",
     "keywords": [
       "badanie abcde",
@@ -5628,14 +5692,6 @@
       "abcde kpp",
       "badanie pierwotne abcde"
     ],
-    "prefix": "KPP - schemat badania ABCDE.",
-    "content": "1. KOD / NAZWA: Schemat badania ABCDE - szybka i uporządkowana ocena poszkodowanego.\n2. ZASADA NADRZĘDNA: Na każdym etapie rozpoznaj i usuń bezpośrednie zagrożenie życia przed przejściem do następnej litery. Po wykonanej interwencji oceń jej efekt, wróć do początku schematu i wcześnie wezwij dodatkową pomoc.\n3. A - AIRWAY / DROŻNOŚĆ DRÓG ODDECHOWYCH: Oceń, czy poszkodowany mówi i czy drogi oddechowe są drożne. Zwróć uwagę na ciała obce, wydzielinę i nieprawidłowe dźwięki oddechowe. Udrożnij i oczyść drogi oddechowe metodą odpowiednią do sytuacji i posiadanego wyposażenia. Przy urazie zabezpieczaj odcinek szyjny kręgosłupa.\n4. B - BREATHING / ODDYCHANIE: Oceń częstość, głębokość i jakość oddechu, wysiłek oddechowy, symetrię ruchów klatki piersiowej, tor oddechowy, zabarwienie skóry oraz widoczne obrażenia klatki piersiowej. Jeżeli jest dostępny sprzęt, wykonaj pulsoksymetrię i kapnometrię. Wdróż tlenoterapię, wentylację lub zabezpieczenie obrażeń zgodnie ze wskazaniami i zakresem uprawnień.\n5. C - CIRCULATION / KRĄŻENIE: Oceń tętno - jego obecność, częstość i jakość. Oceń kolor, wilgotność i temperaturę skóry, nawrót kapilarny, ciśnienie tętnicze, krwawienia i objawy wstrząsu. Natychmiast tamuj masywne krwotoki. W przypadku zatrzymania krążenia rozpocznij RKO i użyj AED zgodnie z właściwą procedurą.\n6. D - DISABILITY / STAN ŚWIADOMOŚCI I OCENA NEUROLOGICZNA: Oceń świadomość w skali AVPU lub GCS, źrenice, orientację, mowę oraz symetrię siły i ruchów. Zmierz glikemię, jeżeli jest to możliwe i zgodne z zakresem działań. Zwróć uwagę na drgawki, niedowłady i nagłą zmianę zachowania.\n7. E - EXPOSURE / EKSPOZYCJA I OGLĄDANIE: Odsłoń tylko tyle ciała, ile jest konieczne do pełnej oceny. Obejrzyj poszkodowanego z przodu i z tyłu, oceń urazy, wysypki, obrzęki i inne nieprawidłowości. Oceń brzuch oraz temperaturę ciała. Chroń prywatność i natychmiast zapobiegaj wychłodzeniu.\n8. SAMPLE - WYWIAD: S - symptomy, A - alergie, M - medykamenty, P - przebyte choroby, L - ostatni posiłek, E - okoliczności zdarzenia lub początku dolegliwości. Wywiad zbieraj możliwie wcześnie, bez opóźniania działań ratujących życie.\n9. OCENA PONOWNA: Powtarzaj ABCDE po każdej zmianie stanu, wykonanej interwencji, przed przekazaniem poszkodowanego i podczas oczekiwania na ZRM.\n10. UWAGA KOMPETENCYJNA: Dokument źródłowy ALS zawiera także czynności zaawansowane i lekarskie. W ramach KPP wykonuj wyłącznie działania zgodne z posiadanymi kwalifikacjami, obowiązującymi procedurami oraz dostępnym sprzętem.",
-    "tagi_wspolne": [
-      "kpp",
-      "medyczne dzialania ratownicze",
-      "ocena poszkodowanego",
-      "abcde"
-    ],
     "aliasy": [
       "badanie abcde",
       "abcde poszkodowany",
@@ -5644,13 +5700,112 @@
       "abcde kpp",
       "badanie pierwotne abcde"
     ],
+    "prefix": "Schemat badania ABCDE — ocena poszkodowanego (A, B, C, D, E), wartości orientacyjne, GCS, wywiad SAMPLE (materiał szkoleniowy ALS).",
+    "najpierw": [
+      {
+        "t": "Leczenie stanów zagrażających życiu przed przejściem do następnego etapu badania.",
+        "zr": "ALS ABCDE",
+        "str": 2
+      },
+      {
+        "t": "Ocena wstępna i ponowna; oceniaj efekty leczenia; wcześnie wezwij pomoc.",
+        "zr": "ALS ABCDE",
+        "str": 2
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Oddech",
+        "wartosc": "12–20/min; > 25/min — wysoka",
+        "zr": "ALS ABCDE",
+        "str": 1
+      },
+      {
+        "nazwa": "Saturacja",
+        "wartosc": "94–98% (POChP 88–92%)",
+        "zr": "ALS ABCDE",
+        "str": 1
+      },
+      {
+        "nazwa": "Tętno",
+        "wartosc": "60–100/min; nawrót kapilarny < 2 s",
+        "zr": "ALS ABCDE",
+        "str": 1
+      },
+      {
+        "nazwa": "Glikemia",
+        "wartosc": "3,8–6,1 mmol/l (70–110 mg%)",
+        "zr": "ALS ABCDE",
+        "str": 2
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Badanie",
+        "punkty": [
+          {
+            "t": "A — drożność dróg oddechowych; przy urazie stabilizacja odcinka szyjnego.",
+            "zr": "ALS ABCDE",
+            "str": 1
+          },
+          {
+            "t": "B — liczba, głębokość, wysiłek i tor oddechu, symetria klatki, dźwięki; pulsoksymetria, kapnometria, zabarwienie skóry.",
+            "zr": "ALS ABCDE",
+            "str": 1
+          },
+          {
+            "t": "C — tętno, skóra (kolor, wilgotność, temperatura), nawrót kapilarny, żyły szyjne, krwawienia; tamowanie krwawień, RKO.",
+            "zr": "ALS ABCDE",
+            "str": 1
+          },
+          {
+            "t": "D — AVPU / GCS, glikemia, źrenice, orientacja, symetria siły mięśniowej, wywiad (choroby, leki, zatrucia).",
+            "zr": "ALS ABCDE",
+            "str": 2
+          },
+          {
+            "t": "E — obejrzenie po rozebraniu (wysypki, obrzęki), badanie brzucha, temperatura; ochrona przed wychłodzeniem, intymność pacjenta.",
+            "zr": "ALS ABCDE",
+            "str": 2
+          }
+        ]
+      },
+      {
+        "etykieta": "Wywiad SAMPLE (jak najwcześniej)",
+        "punkty": [
+          {
+            "t": "S — symptomy · A — alergie · M — leki · P — przebyte choroby · L — ostatni posiłek · E — okoliczności zdarzenia.",
+            "zr": "ALS ABCDE",
+            "str": 2
+          }
+        ]
+      },
+      {
+        "etykieta": "Zakres KPP",
+        "punkty": [
+          {
+            "t": "Źródło obejmuje też czynności zaawansowane (intubacja, dostęp dożylny, leki, USG) — w KPP wykonuj tylko czynności zgodne z kwalifikacjami i procedurami KPP.",
+            "zr": "ALS ABCDE",
+            "str": 1
+          }
+        ]
+      }
+    ],
+    "tagi_wspolne": [
+      "kpp",
+      "medyczne dzialania ratownicze",
+      "ocena poszkodowanego",
+      "abcde"
+    ],
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-kpp-abcde-als",
         "strona": 1,
-        "sekcja": "Schemat badania ABCDE - strony 1-2"
+        "sekcja": "Schemat badania ABCDE (s. 1–2)"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: Leczenie stanów zagrażających życiu przed przejściem do następnego etapu badania. Ocena wstępna i ponowna; oceniaj efekty leczenia; wcześnie wezwij pomoc.\n2. PARAMETRY: Oddech — 12–20/min; > 25/min — wysoka; Saturacja — 94–98% (POChP 88–92%); Tętno — 60–100/min; nawrót kapilarny < 2 s; Glikemia — 3,8–6,1 mmol/l (70–110 mg%)\n3. BADANIE: A — drożność dróg oddechowych; przy urazie stabilizacja odcinka szyjnego. B — liczba, głębokość, wysiłek i tor oddechu, symetria klatki, dźwięki; pulsoksymetria, kapnometria, zabarwienie skóry. C — tętno, skóra (kolor, wilgotność, temperatura), nawrót kapilarny, żyły szyjne, krwawienia; tamowanie krwawień, RKO. D — AVPU / GCS, glikemia, źrenice, orientacja, symetria siły mięśniowej, wywiad (choroby, leki, zatrucia). E — obejrzenie po rozebraniu (wysypki, obrzęki), badanie brzucha, temperatura; ochrona przed wychłodzeniem, intymność pacjenta.\n4. WYWIAD SAMPLE (JAK NAJWCZEŚNIEJ): S — symptomy · A — alergie · M — leki · P — przebyte choroby · L — ostatni posiłek · E — okoliczności zdarzenia.\n5. ZAKRES KPP: Źródło obejmuje też czynności zaawansowane (intubacja, dostęp dożylny, leki, USG) — w KPP wykonuj tylko czynności zgodne z kwalifikacjami i procedurami KPP."
   },
   {
     "id": "KARTA-KPP-SEKWENCJA-MEDYCZNYCH-DZIALAN-RATOWNICZYCH",
@@ -5841,102 +5996,260 @@
   },
   {
     "id": "KARTA-KPP-TONIECIE",
+    "wzorzec": 2,
     "kategoria": "dzialania",
-    "zrodlo": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 16",
-    "data_aktualizacji": "",
+    "grupa": "kpp",
+    "zrodlo": "KG PSP: Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy — Załącznik nr 1 do Zasad organizacji ratownictwa medycznego w KSRG (2021), Procedura 16.",
+    "data_aktualizacji": "2026-10-27",
     "slowo_kluczowe": "toniecie kpp",
     "keywords": [
       "procedura 16 kpp",
       "5 oddechow toniecie",
       "wentylacja toniecie kpp"
     ],
-    "prefix": "KPP - toniecie.",
-    "content": "1. KOD / NAZWA: Procedura 16 - toniecie.\n2. START: wykonaj rozpoznanie miejsca zdarzenia i sekwencje medycznych dzialan ratowniczych z procedury 2. Oceniaj takze obecne objawy wychlodzenia.\n3. TLENOTERAPIA LUB WENTYLACJA: niezwlocznie rozpocznij tlenoterapie albo wentylacje.\n4. ZATRZYMANIE KRAZENIA: jezeli dojdzie do zatrzymania krazenia, RKO rozpoczyna sie od 5 oddechow ratowniczych, a nastepnie przechodzi do ucisniec klatki piersiowej zgodnie z procedura 3 lub 4.\n5. UWAGI OPERACYJNE: w tej procedurze od poczatku nalezy pamietac o wspolistniejacym ryzyku wychlodzenia.",
-    "tagi_wspolne": [
-      "kpp",
-      "medyczne dzialania ratownicze",
-      "toniecie"
-    ],
     "aliasy": [
       "procedura 16 kpp",
       "5 oddechow toniecie",
       "wentylacja toniecie kpp"
     ],
+    "prefix": "KPP procedura 16 — tonięcie: tlenoterapia lub wentylacja, RKO od 5 oddechów ratowniczych.",
+    "najpierw": [
+      {
+        "t": "Rozpoznanie miejsca zdarzenia i sekwencja medycznych działań ratowniczych (procedura 2).",
+        "zr": "KPP proc. 16",
+        "str": 1
+      },
+      {
+        "t": "Oceń objawy wychłodzenia.",
+        "zr": "KPP proc. 16",
+        "str": 1
+      },
+      {
+        "t": "Niezwłocznie rozpocznij tlenoterapię lub wentylację.",
+        "zr": "KPP proc. 16",
+        "str": 1
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "RKO",
+        "wartosc": "rozpocznij od 5 oddechów ratowniczych, potem uciśnięcia (procedura 3 lub 4)",
+        "zr": "KPP proc. 16",
+        "str": 1
+      }
+    ],
+    "sekcje": [],
+    "tagi_wspolne": [
+      "kpp",
+      "medyczne dzialania ratownicze",
+      "toniecie"
+    ],
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-kpp-procedura-16",
         "strona": 1,
-        "sekcja": "Procedura nr 16 - Tonięcie"
+        "sekcja": "Procedura nr 16"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: Rozpoznanie miejsca zdarzenia i sekwencja medycznych działań ratowniczych (procedura 2). Oceń objawy wychłodzenia. Niezwłocznie rozpocznij tlenoterapię lub wentylację.\n2. PARAMETRY: RKO — rozpocznij od 5 oddechów ratowniczych, potem uciśnięcia (procedura 3 lub 4)"
   },
   {
     "id": "KARTA-KPP-WSPARCIE-PSYCHICZNE",
+    "wzorzec": 2,
     "kategoria": "dzialania",
-    "zrodlo": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 20",
-    "data_aktualizacji": "",
+    "grupa": "kpp",
+    "zrodlo": "KG PSP: Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy — Załącznik nr 1 do Zasad organizacji ratownictwa medycznego w KSRG (2021), Procedura 20.",
+    "data_aktualizacji": "2026-10-27",
     "slowo_kluczowe": "wsparcie psychiczne kpp",
     "keywords": [
       "procedura 20 kpp",
       "psychologiczne wsparcie kpp",
       "kontakt z poszkodowanym kpp"
     ],
-    "prefix": "KPP - zasady udzielania wsparcia psychicznego i psychologicznego.",
-    "content": "1. KOD / NAZWA: Procedura 20 - zasady udzielania wsparcia psychicznego i psychologicznego osobom uczestniczacym w dzialaniach ratowniczych.\n2. ORGANIZACJA DZIALANIA: rozpoznaj sytuacje i zaplanuj kolejnosc podejmowanych dzialan. Dbaj o bezpieczenstwo wlasne, kolegow i pozostalych uczestnikow. Chron siebie, kolegow i innych przed zbednymi obciazeniami.\n3. KONTAKT Z POSZKODOWANYM: nawiaz i utrzymuj kontakt z osoba poszkodowana. Przedstaw sie z imienia i funkcji, mow spokojnym tonem, utrzymuj kontakt wzrokowy, przed podjeciem dzialania powiedz co zamierzasz zrobic i pomagaj poszkodowanemu zorientowac sie w sytuacji. Poszukaj ostroznego kontaktu dotykowego.\n4. PRYWATNOSC I INFORMACJA: chron prywatnosc osoby poszkodowanej, zaslon ja przed gapiami, udzielaj informacji waznych dla poszkodowanego i nie przekazuj informacji, ktore moga jej zaszkodzic. Unikaj zbednych komentarzy, pochopnych diagnoz i ocen.\n5. WSPARCIE OTOCZENIA: organizuj wsparcie, wykorzystuj obecnosc innych osob, w tym rodziny, przyjaciol, sasiadow i osob bedacych na miejscu zdarzenia. Nie zostawiaj poszkodowanego samego.\n6. POSTAWA RATOWNIKA: obserwuj zachowania ludzi, badz czujny i wrazliwy, zachowaj spokoj i badz zdecydowany w dzialaniu.\n7. UWAGI OPERACYJNE: karta ma charakter wspierajacy i powinna byc stosowana rownolegle z medycznymi dzialaniami ratowniczymi.",
-    "tagi_wspolne": [
-      "kpp",
-      "medyczne dzialania ratownicze",
-      "wsparcie psychiczne"
-    ],
     "aliasy": [
       "procedura 20 kpp",
       "psychologiczne wsparcie kpp",
       "kontakt z poszkodowanym kpp"
     ],
+    "prefix": "KPP procedura 20 — wsparcie psychiczne i psychologiczne osób uczestniczących w działaniach ratowniczych.",
+    "najpierw": [
+      {
+        "t": "Rozpoznaj sytuację i zaplanuj kolejność działań; dbaj o bezpieczeństwo własne, kolegów i pozostałych uczestników.",
+        "zr": "KPP proc. 20",
+        "str": 1
+      },
+      {
+        "t": "Nawiąż i utrzymuj kontakt z poszkodowanym; nie zostawiaj go samego.",
+        "zr": "KPP proc. 20",
+        "str": 1
+      }
+    ],
+    "parametry": [],
+    "sekcje": [
+      {
+        "etykieta": "Kontakt z poszkodowanym",
+        "punkty": [
+          {
+            "t": "Mów spokojnym tonem; przedstaw się z imienia i funkcji; utrzymuj kontakt wzrokowy; poszukaj ostrożnego kontaktu dotykowego.",
+            "zr": "KPP proc. 20",
+            "str": 1
+          },
+          {
+            "t": "Pomóż zorientować się w sytuacji; przed działaniem powiedz, co zamierzasz zrobić; informuj o podejmowanych działaniach.",
+            "zr": "KPP proc. 20",
+            "str": 1
+          },
+          {
+            "t": "Udzielaj informacji w sprawach ważnych dla poszkodowanego.",
+            "zr": "KPP proc. 20",
+            "str": 1
+          }
+        ]
+      },
+      {
+        "etykieta": "Ochrona",
+        "punkty": [
+          {
+            "t": "Chroń siebie i innych przed zbędnymi obciążeniami; zachowaj spokój i bądź zdecydowany.",
+            "zr": "KPP proc. 20",
+            "str": 1
+          },
+          {
+            "t": "Obserwuj zachowania ludzi, bądź czujny i wrażliwy.",
+            "zr": "KPP proc. 20",
+            "str": 1
+          },
+          {
+            "t": "Zasłoń poszkodowanego przed gapiami; chroń jego prywatność.",
+            "zr": "KPP proc. 20",
+            "str": 1
+          }
+        ]
+      },
+      {
+        "etykieta": "Wsparcie otoczenia",
+        "punkty": [
+          {
+            "t": "Organizuj wsparcie, wykorzystaj obecność innych osób — rodzinę, przyjaciół, sąsiadów, osoby na miejscu.",
+            "zr": "KPP proc. 20",
+            "str": 1
+          }
+        ]
+      }
+    ],
+    "nie_rob": [
+      {
+        "t": "Nie udzielaj informacji, które mogą zaszkodzić poszkodowanemu.",
+        "zr": "KPP proc. 20",
+        "str": 1
+      },
+      {
+        "t": "Unikaj zbędnych komentarzy, pochopnych diagnoz i ocen.",
+        "zr": "KPP proc. 20",
+        "str": 1
+      }
+    ],
+    "tagi_wspolne": [
+      "kpp",
+      "medyczne dzialania ratownicze",
+      "wsparcie psychiczne"
+    ],
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-kpp-procedura-20",
         "strona": 1,
-        "sekcja": "Procedura nr 20 - Zasady udzielania wsparcia psychicznego i psychologicznego"
+        "sekcja": "Procedura nr 20"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: Rozpoznaj sytuację i zaplanuj kolejność działań; dbaj o bezpieczeństwo własne, kolegów i pozostałych uczestników. Nawiąż i utrzymuj kontakt z poszkodowanym; nie zostawiaj go samego.\n2. KONTAKT Z POSZKODOWANYM: Mów spokojnym tonem; przedstaw się z imienia i funkcji; utrzymuj kontakt wzrokowy; poszukaj ostrożnego kontaktu dotykowego. Pomóż zorientować się w sytuacji; przed działaniem powiedz, co zamierzasz zrobić; informuj o podejmowanych działaniach. Udzielaj informacji w sprawach ważnych dla poszkodowanego.\n3. OCHRONA: Chroń siebie i innych przed zbędnymi obciążeniami; zachowaj spokój i bądź zdecydowany. Obserwuj zachowania ludzi, bądź czujny i wrażliwy. Zasłoń poszkodowanego przed gapiami; chroń jego prywatność.\n4. WSPARCIE OTOCZENIA: Organizuj wsparcie, wykorzystaj obecność innych osób — rodzinę, przyjaciół, sąsiadów, osoby na miejscu.\n5. NIE RÓB: Nie udzielaj informacji, które mogą zaszkodzić poszkodowanemu. Unikaj zbędnych komentarzy, pochopnych diagnoz i ocen."
   },
   {
     "id": "KARTA-KPP-WYCHLODZENIE",
+    "wzorzec": 2,
     "kategoria": "dzialania",
-    "zrodlo": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 17",
-    "data_aktualizacji": "",
+    "grupa": "kpp",
+    "zrodlo": "KG PSP: Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy — Załącznik nr 1 do Zasad organizacji ratownictwa medycznego w KSRG (2021), Procedura 17.",
+    "data_aktualizacji": "2026-10-27",
     "slowo_kluczowe": "wychlodzenie kpp",
     "keywords": [
       "procedura 17 kpp",
       "termoizolacja kpp",
-      "ocena oddechu 60 sekund"
+      "ocena oddechu 60 sekund",
+      "hipotermia",
+      "wychlodzony poszkodowany"
     ],
-    "prefix": "KPP - wychlodzenie.",
-    "content": "1. KOD / NAZWA: Procedura 17 - wychlodzenie.\n2. START: wykonaj rozpoznanie miejsca zdarzenia i sekwencje medycznych dzialan ratowniczych, uwzgledniajac ocene oddechu i tetna przez 60 sekund.\n3. EWAKUACJA: ewakuuj poszkodowanego.\n4. MOKRA ODZIEZ: usun mokre elementy odziezy przez rozciecie oraz osusz skore, nie narazajac dodatkowo poszkodowanego na wychlodzenie i ruch.\n5. TERMOIZOLACJA: zastosuj termoizolacje.\n6. POZYCJA: uloz poszkodowanego w pozycji poziomej.\n7. UWAGI OPERACYJNE: w procedurze podkreslono ostrozne obchodzenie sie z poszkodowanym i wydluzona ocene funkcji zyciowych.",
+    "aliasy": [
+      "procedura 17 kpp",
+      "termoizolacja kpp",
+      "ocena oddechu 60 sekund",
+      "hipotermia",
+      "wychlodzony poszkodowany"
+    ],
+    "prefix": "KPP procedura 17 — wychłodzenie: ocena oddechu i tętna 60 s, ewakuacja, mokra odzież, pozycja pozioma, termoizolacja.",
+    "najpierw": [
+      {
+        "t": "Rozpoznanie miejsca zdarzenia.",
+        "zr": "KPP proc. 17",
+        "str": 1
+      },
+      {
+        "t": "Sekwencja medycznych działań ratowniczych (procedura 2), w tym ocena oddechu / tętna przez 60 sekund.",
+        "zr": "KPP proc. 17",
+        "str": 1
+      }
+    ],
+    "parametry": [],
+    "sekcje": [
+      {
+        "etykieta": "Kolejno",
+        "punkty": [
+          {
+            "t": "Ewakuacja.",
+            "zr": "KPP proc. 17",
+            "str": 1
+          },
+          {
+            "t": "Usunięcie mokrej odzieży przez rozcięcie i osuszenie skóry — bez dodatkowego narażania na wychłodzenie i ruch.",
+            "zr": "KPP proc. 17",
+            "str": 1
+          },
+          {
+            "t": "Ułożenie w pozycji poziomej.",
+            "zr": "KPP proc. 17",
+            "str": 1
+          },
+          {
+            "t": "Termoizolacja.",
+            "zr": "KPP proc. 17",
+            "str": 1
+          }
+        ]
+      }
+    ],
     "tagi_wspolne": [
       "kpp",
       "medyczne dzialania ratownicze",
       "wychlodzenie"
     ],
-    "aliasy": [
-      "procedura 17 kpp",
-      "termoizolacja kpp",
-      "ocena oddechu 60 sekund"
-    ],
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-kpp-procedura-17",
         "strona": 1,
-        "sekcja": "Procedura nr 17 - Wychłodzenie"
+        "sekcja": "Procedura nr 17"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: Rozpoznanie miejsca zdarzenia. Sekwencja medycznych działań ratowniczych (procedura 2), w tym ocena oddechu / tętna przez 60 sekund.\n2. KOLEJNO: Ewakuacja. Usunięcie mokrej odzieży przez rozcięcie i osuszenie skóry — bez dodatkowego narażania na wychłodzenie i ruch. Ułożenie w pozycji poziomej. Termoizolacja."
   },
   {
     "id": "KARTA-KPP-STANY-NIEURAZOWE",
+    "wzorzec": 2,
     "kategoria": "dzialania",
-    "zrodlo": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 18",
-    "data_aktualizacji": "",
+    "grupa": "kpp",
+    "zrodlo": "KG PSP: Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy — Załącznik nr 1 do Zasad organizacji ratownictwa medycznego w KSRG (2021), Procedura 18.",
+    "data_aktualizacji": "2026-10-27",
     "slowo_kluczowe": "stany nieurazowe kpp",
     "keywords": [
       "zaburzenia krazeniowo oddechowe kpp",
@@ -5944,58 +6257,153 @@
       "procedura 18 kpp",
       "pozycja polsiedzaca kpp"
     ],
-    "prefix": "KPP - zaburzenia krazeniowo-oddechowe w stanach nieurazowych.",
-    "content": "1. KOD / NAZWA: Procedura 18 - zaburzenia krazeniowo-oddechowe w stanach nieurazowych.\n2. START: wykonaj rozpoznanie miejsca zdarzenia i sekwencje medycznych dzialan ratowniczych z procedury 2.\n3. BOL BRZUCHA: uloz poszkodowanego w pozycji lezacej z nogami ugietymi w kolanach.\n4. BOL W KLATCE PIERSIOWEJ LUB DUSZNOSC: uloz poszkodowanego w pozycji polsiedzacej.\n5. UTRATA SWIADOMOSCI: uloz poszkodowanego w pozycji bocznej ustalonej, czyli bezpiecznej.\n6. CIALO OBCE W DROGACH ODDECHOWYCH: najpierw zachecaj do kaszlu.\n7. KASZEL NIEEFEKTYWNY U DOROSLYCH I DZIECI: wykonaj do 5 uderzen w okolice miedzy lopatkowa, a jesli sa nieefektywne - do 5 ucisniec nadbrzusza.\n8. KASZEL NIEEFEKTYWNY U NIEMOWLAT: wykonaj do 5 uderzen w okolice miedzy lopatkowa, a jesli sa nieefektywne - do 5 ucisniec klatki piersiowej.\n9. UWAGI OPERACYJNE: karta laczy postepowanie w kilku typowych stanach nieurazowych i zawiera uproszczony schemat przy ciele obcym w drogach oddechowych.",
-    "tagi_wspolne": [
-      "kpp",
-      "medyczne dzialania ratownicze",
-      "stany nieurazowe"
-    ],
     "aliasy": [
       "zaburzenia krazeniowo oddechowe kpp",
       "cialo obce kpp",
       "procedura 18 kpp",
       "pozycja polsiedzaca kpp"
     ],
+    "prefix": "KPP procedura 18 — stany nieurazowe: pozycje (ból brzucha, ból w klatce, utrata przytomności), ciało obce w drogach oddechowych.",
+    "najpierw": [
+      {
+        "t": "Rozpoznanie miejsca zdarzenia i sekwencja medycznych działań ratowniczych (procedura 2).",
+        "zr": "KPP proc. 18",
+        "str": 1
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Ból brzucha",
+        "wartosc": "pozycja leżąca z nogami ugiętymi w kolanach",
+        "zr": "KPP proc. 18",
+        "str": 1
+      },
+      {
+        "nazwa": "Ból w klatce piersiowej / duszność",
+        "wartosc": "pozycja półsiedząca",
+        "zr": "KPP proc. 18",
+        "str": 1
+      },
+      {
+        "nazwa": "Utrata świadomości",
+        "wartosc": "pozycja boczna ustalona (bezpieczna)",
+        "zr": "KPP proc. 18",
+        "str": 1
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Ciało obce w drogach oddechowych",
+        "punkty": [
+          {
+            "t": "Zachęcaj do kaszlu.",
+            "zr": "KPP proc. 18",
+            "str": 1
+          },
+          {
+            "t": "Kaszel nieefektywny — dorośli i dzieci: do 5 uderzeń w okolicę międzyłopatkową, jeśli nieefektywne — do 5 uciśnięć nadbrzusza.",
+            "zr": "KPP proc. 18",
+            "str": 1
+          },
+          {
+            "t": "Niemowlęta: do 5 uderzeń w okolicę międzyłopatkową, jeśli nieefektywne — do 5 uciśnięć klatki piersiowej.",
+            "zr": "KPP proc. 18",
+            "str": 1
+          }
+        ]
+      }
+    ],
+    "tagi_wspolne": [
+      "kpp",
+      "medyczne dzialania ratownicze",
+      "stany nieurazowe"
+    ],
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-kpp-procedura-18",
         "strona": 1,
-        "sekcja": "Procedura nr 18 - Zaburzenia krążeniowo-oddechowe w stanach nieurazowych"
+        "sekcja": "Procedura nr 18"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: Rozpoznanie miejsca zdarzenia i sekwencja medycznych działań ratowniczych (procedura 2).\n2. PARAMETRY: Ból brzucha — pozycja leżąca z nogami ugiętymi w kolanach; Ból w klatce piersiowej / duszność — pozycja półsiedząca; Utrata świadomości — pozycja boczna ustalona (bezpieczna)\n3. CIAŁO OBCE W DROGACH ODDECHOWYCH: Zachęcaj do kaszlu. Kaszel nieefektywny — dorośli i dzieci: do 5 uderzeń w okolicę międzyłopatkową, jeśli nieefektywne — do 5 uciśnięć nadbrzusza. Niemowlęta: do 5 uderzeń w okolicę międzyłopatkową, jeśli nieefektywne — do 5 uciśnięć klatki piersiowej."
   },
   {
     "id": "KARTA-KPP-ZATRUCIE-WZIEWNE",
+    "wzorzec": 2,
     "kategoria": "dzialania",
-    "zrodlo": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 15",
-    "data_aktualizacji": "",
+    "grupa": "kpp",
+    "zrodlo": "KG PSP: Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy — Załącznik nr 1 do Zasad organizacji ratownictwa medycznego w KSRG (2021), Procedura 15.",
+    "data_aktualizacji": "2026-10-27",
     "slowo_kluczowe": "zatrucie wziewne kpp",
     "keywords": [
       "procedura 15 kpp",
       "ewakuacja ze strefy zagrozenia kpp",
       "5 oddechow zatrucie wziewne"
     ],
-    "prefix": "KPP - zatrucie wziewne.",
-    "content": "1. KOD / NAZWA: Procedura 15 - zatrucie wziewne.\n2. START: wykonaj rozpoznanie miejsca zdarzenia i sekwencje medycznych dzialan ratowniczych z procedury 2.\n3. EWAKUACJA: ewakuuj poszkodowanego ze strefy zagrozenia, w miare mozliwosci z izolacja drog oddechowych.\n4. ODDECH: prowadz stala kontrole oddechu.\n5. TLENOTERAPIA LUB WENTYLACJA: niezwlocznie rozpocznij tlenoterapie albo wentylacje.\n6. ZATRZYMANIE KRAZENIA: jezeli dojdzie do zatrzymania krazenia, RKO rozpoczyna sie od 5 oddechow ratowniczych, a nastepnie przechodzi do ucisniec klatki piersiowej zgodnie z procedura 3 lub 4.\n7. UWAGI OPERACYJNE: dokument wskazuje rowniez rozwazenie mozliwosci uzycia dostepnego sprzetu nadglosniowego do udroznienia drog oddechowych.",
+    "aliasy": [
+      "procedura 15 kpp",
+      "ewakuacja ze strefy zagrozenia kpp",
+      "5 oddechow zatrucie wziewne"
+    ],
+    "prefix": "KPP procedura 15 — zatrucie wziewne: ewakuacja ze strefy, kontrola oddechu, tlenoterapia, RKO od 5 oddechów.",
+    "najpierw": [
+      {
+        "t": "Rozpoznanie miejsca zdarzenia.",
+        "zr": "KPP proc. 15",
+        "str": 1
+      },
+      {
+        "t": "Ewakuacja ze strefy zagrożenia — w miarę możliwości z izolacją dróg oddechowych poszkodowanego — przed sekwencją medyczną.",
+        "zr": "KPP proc. 15",
+        "str": 1
+      },
+      {
+        "t": "Sekwencja medycznych działań ratowniczych (procedura 2).",
+        "zr": "KPP proc. 15",
+        "str": 1
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "RKO",
+        "wartosc": "rozpocznij od 5 oddechów ratowniczych, potem uciśnięcia (procedura 3 lub 4); rozważ sprzęt nadgłośniowy",
+        "zr": "KPP proc. 15",
+        "str": 1
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Dalej",
+        "punkty": [
+          {
+            "t": "Stała kontrola oddechu.",
+            "zr": "KPP proc. 15",
+            "str": 1
+          },
+          {
+            "t": "Niezwłocznie rozpocznij tlenoterapię lub wentylację.",
+            "zr": "KPP proc. 15",
+            "str": 1
+          }
+        ]
+      }
+    ],
     "tagi_wspolne": [
       "kpp",
       "medyczne dzialania ratownicze",
       "zatrucie",
       "zatrucie wziewne"
     ],
-    "aliasy": [
-      "procedura 15 kpp",
-      "ewakuacja ze strefy zagrozenia kpp",
-      "5 oddechow zatrucie wziewne"
-    ],
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-kpp-procedura-15",
         "strona": 1,
-        "sekcja": "Procedura nr 15 - Zatrucie wziewne"
+        "sekcja": "Procedura nr 15"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: Rozpoznanie miejsca zdarzenia. Ewakuacja ze strefy zagrożenia — w miarę możliwości z izolacją dróg oddechowych poszkodowanego — przed sekwencją medyczną. Sekwencja medycznych działań ratowniczych (procedura 2).\n2. PARAMETRY: RKO — rozpocznij od 5 oddechów ratowniczych, potem uciśnięcia (procedura 3 lub 4); rozważ sprzęt nadgłośniowy\n3. DALEJ: Stała kontrola oddechu. Niezwłocznie rozpocznij tlenoterapię lub wentylację."
   },
   {
     "id": "KARTA-LOT-BSP-POCHODZENIA-MILITARNEGO",

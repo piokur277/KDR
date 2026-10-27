@@ -1,31 +1,110 @@
 {
   "id": "KARTA-KPP-WSPARCIE-PSYCHICZNE",
+  "wzorzec": 2,
   "kategoria": "dzialania",
-  "zrodlo": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 20",
-  "data_aktualizacji": "",
+  "grupa": "kpp",
+  "zrodlo": "KG PSP: Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy — Załącznik nr 1 do Zasad organizacji ratownictwa medycznego w KSRG (2021), Procedura 20.",
+  "data_aktualizacji": "2026-10-27",
   "slowo_kluczowe": "wsparcie psychiczne kpp",
   "keywords": [
     "procedura 20 kpp",
     "psychologiczne wsparcie kpp",
     "kontakt z poszkodowanym kpp"
   ],
-  "prefix": "KPP - zasady udzielania wsparcia psychicznego i psychologicznego.",
-  "content": "1. KOD / NAZWA: Procedura 20 - zasady udzielania wsparcia psychicznego i psychologicznego osobom uczestniczacym w dzialaniach ratowniczych.\n2. ORGANIZACJA DZIALANIA: rozpoznaj sytuacje i zaplanuj kolejnosc podejmowanych dzialan. Dbaj o bezpieczenstwo wlasne, kolegow i pozostalych uczestnikow. Chron siebie, kolegow i innych przed zbednymi obciazeniami.\n3. KONTAKT Z POSZKODOWANYM: nawiaz i utrzymuj kontakt z osoba poszkodowana. Przedstaw sie z imienia i funkcji, mow spokojnym tonem, utrzymuj kontakt wzrokowy, przed podjeciem dzialania powiedz co zamierzasz zrobic i pomagaj poszkodowanemu zorientowac sie w sytuacji. Poszukaj ostroznego kontaktu dotykowego.\n4. PRYWATNOSC I INFORMACJA: chron prywatnosc osoby poszkodowanej, zaslon ja przed gapiami, udzielaj informacji waznych dla poszkodowanego i nie przekazuj informacji, ktore moga jej zaszkodzic. Unikaj zbednych komentarzy, pochopnych diagnoz i ocen.\n5. WSPARCIE OTOCZENIA: organizuj wsparcie, wykorzystuj obecnosc innych osob, w tym rodziny, przyjaciol, sasiadow i osob bedacych na miejscu zdarzenia. Nie zostawiaj poszkodowanego samego.\n6. POSTAWA RATOWNIKA: obserwuj zachowania ludzi, badz czujny i wrazliwy, zachowaj spokoj i badz zdecydowany w dzialaniu.\n7. UWAGI OPERACYJNE: karta ma charakter wspierajacy i powinna byc stosowana rownolegle z medycznymi dzialaniami ratowniczymi.",
-  "tagi_wspolne": [
-    "kpp",
-    "medyczne dzialania ratownicze",
-    "wsparcie psychiczne"
-  ],
   "aliasy": [
     "procedura 20 kpp",
     "psychologiczne wsparcie kpp",
     "kontakt z poszkodowanym kpp"
   ],
+  "prefix": "KPP procedura 20 — wsparcie psychiczne i psychologiczne osób uczestniczących w działaniach ratowniczych.",
+  "najpierw": [
+    {
+      "t": "Rozpoznaj sytuację i zaplanuj kolejność działań; dbaj o bezpieczeństwo własne, kolegów i pozostałych uczestników.",
+      "zr": "KPP proc. 20",
+      "str": 1
+    },
+    {
+      "t": "Nawiąż i utrzymuj kontakt z poszkodowanym; nie zostawiaj go samego.",
+      "zr": "KPP proc. 20",
+      "str": 1
+    }
+  ],
+  "parametry": [],
+  "sekcje": [
+    {
+      "etykieta": "Kontakt z poszkodowanym",
+      "punkty": [
+        {
+          "t": "Mów spokojnym tonem; przedstaw się z imienia i funkcji; utrzymuj kontakt wzrokowy; poszukaj ostrożnego kontaktu dotykowego.",
+          "zr": "KPP proc. 20",
+          "str": 1
+        },
+        {
+          "t": "Pomóż zorientować się w sytuacji; przed działaniem powiedz, co zamierzasz zrobić; informuj o podejmowanych działaniach.",
+          "zr": "KPP proc. 20",
+          "str": 1
+        },
+        {
+          "t": "Udzielaj informacji w sprawach ważnych dla poszkodowanego.",
+          "zr": "KPP proc. 20",
+          "str": 1
+        }
+      ]
+    },
+    {
+      "etykieta": "Ochrona",
+      "punkty": [
+        {
+          "t": "Chroń siebie i innych przed zbędnymi obciążeniami; zachowaj spokój i bądź zdecydowany.",
+          "zr": "KPP proc. 20",
+          "str": 1
+        },
+        {
+          "t": "Obserwuj zachowania ludzi, bądź czujny i wrażliwy.",
+          "zr": "KPP proc. 20",
+          "str": 1
+        },
+        {
+          "t": "Zasłoń poszkodowanego przed gapiami; chroń jego prywatność.",
+          "zr": "KPP proc. 20",
+          "str": 1
+        }
+      ]
+    },
+    {
+      "etykieta": "Wsparcie otoczenia",
+      "punkty": [
+        {
+          "t": "Organizuj wsparcie, wykorzystaj obecność innych osób — rodzinę, przyjaciół, sąsiadów, osoby na miejscu.",
+          "zr": "KPP proc. 20",
+          "str": 1
+        }
+      ]
+    }
+  ],
+  "nie_rob": [
+    {
+      "t": "Nie udzielaj informacji, które mogą zaszkodzić poszkodowanemu.",
+      "zr": "KPP proc. 20",
+      "str": 1
+    },
+    {
+      "t": "Unikaj zbędnych komentarzy, pochopnych diagnoz i ocen.",
+      "zr": "KPP proc. 20",
+      "str": 1
+    }
+  ],
+  "tagi_wspolne": [
+    "kpp",
+    "medyczne dzialania ratownicze",
+    "wsparcie psychiczne"
+  ],
   "dokumenty_zrodlowe": [
     {
       "dokument_id": "doc-kpp-procedura-20",
       "strona": 1,
-      "sekcja": "Procedura nr 20 - Zasady udzielania wsparcia psychicznego i psychologicznego"
+      "sekcja": "Procedura nr 20"
     }
-  ]
+  ],
+  "data_przegladu": "2026-10-27"
 }

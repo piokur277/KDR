@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T19:42:31.870Z",
+  "generated_at": "2026-10-27T19:49:24.660Z",
   "registry_version": "2.7",
   "document_count": 86,
   "active_document_count": 86,
@@ -356,7 +356,7 @@
         {
           "procedure_id": "KARTA-KPP-SCHEMAT-BADANIA-ABCDE",
           "strona": 1,
-          "sekcja": "Schemat badania ABCDE - strony 1-2"
+          "sekcja": "Schemat badania ABCDE (s. 1–2)"
         }
       ]
     },
@@ -1176,7 +1176,7 @@
         {
           "procedure_id": "KARTA-KPP-ZATRUCIE-WZIEWNE",
           "strona": 1,
-          "sekcja": "Procedura nr 15 - Zatrucie wziewne"
+          "sekcja": "Procedura nr 15"
         }
       ]
     },
@@ -1190,7 +1190,7 @@
         {
           "procedure_id": "KARTA-KPP-TONIECIE",
           "strona": 1,
-          "sekcja": "Procedura nr 16 - Tonięcie"
+          "sekcja": "Procedura nr 16"
         }
       ]
     },
@@ -1204,7 +1204,7 @@
         {
           "procedure_id": "KARTA-KPP-WYCHLODZENIE",
           "strona": 1,
-          "sekcja": "Procedura nr 17 - Wychłodzenie"
+          "sekcja": "Procedura nr 17"
         }
       ]
     },
@@ -1218,7 +1218,7 @@
         {
           "procedure_id": "KARTA-KPP-STANY-NIEURAZOWE",
           "strona": 1,
-          "sekcja": "Procedura nr 18 - Zaburzenia krążeniowo-oddechowe w stanach nieurazowych"
+          "sekcja": "Procedura nr 18"
         }
       ]
     },
@@ -1232,7 +1232,7 @@
         {
           "procedure_id": "KARTA-KPP-KOBIETA-W-CIAZY-ZAGROZENIE",
           "strona": 1,
-          "sekcja": "Procedura nr 19 - Kobieta w widocznej ciąży w stanie zagrożenia życia lub zdrowia"
+          "sekcja": "Procedura nr 19"
         }
       ]
     },
@@ -1246,7 +1246,7 @@
         {
           "procedure_id": "KARTA-KPP-WSPARCIE-PSYCHICZNE",
           "strona": 1,
-          "sekcja": "Procedura nr 20 - Zasady udzielania wsparcia psychicznego i psychologicznego"
+          "sekcja": "Procedura nr 20"
         }
       ]
     },
