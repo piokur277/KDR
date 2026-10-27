@@ -4768,35 +4768,73 @@
   },
   {
     "id": "KARTA-KPP-OBRAZENIA-BRZUCHA",
+    "wzorzec": 2,
     "kategoria": "dzialania",
-    "zrodlo": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 10",
-    "data_aktualizacji": "",
+    "grupa": "kpp",
+    "zrodlo": "KG PSP: Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy — Załącznik nr 1 do Zasad organizacji ratownictwa medycznego w KSRG (2021), Procedura 10.",
+    "data_aktualizacji": "2026-10-27",
     "slowo_kluczowe": "obrazenia brzucha kpp",
     "keywords": [
       "rana brzucha kpp",
       "wytrzewienie kpp",
       "procedura 10 kpp"
     ],
-    "prefix": "KPP - obrazenia i podejrzenie obrazen brzucha.",
-    "content": "1. KOD / NAZWA: Procedura 10 - obrazenia i podejrzenie obrazen brzucha.\n2. START: wykonaj rozpoznanie miejsca zdarzenia i sekwencje medycznych dzialan ratowniczych z procedury 2.\n3. RANA BRZUCHA Z WYTRZEWIENIEM: zaloz wilgotny opatrunek oslaniajacy i przykryj go folia.\n4. RANA BRZUCHA BEZ WYTRZEWIENIA: zaloz opatrunek oslaniajacy.\n5. POZYCJA: uloz poszkodowanego w pozycji lezacej z nogami ugietymi w kolanach.\n6. WYJATEK: jezeli jednoczesnie wystepuja obrazenia miednicy i lub konczyn dolnych, poszkodowanego nalezy ulozyc w pozycji lezacej na plasko.\n7. UWAGI OPERACYJNE: w tej karcie kluczowe jest rozroznienie, czy wystepuje wytrzewienie.",
+    "aliasy": [
+      "rana brzucha kpp",
+      "wytrzewienie kpp",
+      "procedura 10 kpp"
+    ],
+    "prefix": "KPP procedura 10 — obrażenia brzucha: wytrzewienie, opatrunek osłaniający, pozycja z ugiętymi kolanami.",
+    "najpierw": [
+      {
+        "t": "Rozpoznanie miejsca zdarzenia i sekwencja medycznych działań ratowniczych (procedura 2).",
+        "zr": "KPP proc. 10",
+        "str": 1
+      },
+      {
+        "t": "Rana z wytrzewieniem → wilgotny opatrunek osłaniający przykryty folią.",
+        "zr": "KPP proc. 10",
+        "str": 1
+      },
+      {
+        "t": "Rana bez wytrzewienia → opatrunek osłaniający.",
+        "zr": "KPP proc. 10",
+        "str": 1
+      }
+    ],
+    "parametry": [],
+    "sekcje": [
+      {
+        "etykieta": "Pozycja",
+        "punkty": [
+          {
+            "t": "Leżąca z nogami ugiętymi w kolanach.",
+            "zr": "KPP proc. 10",
+            "str": 1
+          },
+          {
+            "t": "Współistniejące obrażenia miednicy lub kończyn dolnych → leżąca na płasko.",
+            "zr": "KPP proc. 10",
+            "str": 1
+          }
+        ]
+      }
+    ],
     "tagi_wspolne": [
       "kpp",
       "medyczne dzialania ratownicze",
       "obrazenia",
       "uraz"
     ],
-    "aliasy": [
-      "rana brzucha kpp",
-      "wytrzewienie kpp",
-      "procedura 10 kpp"
-    ],
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-kpp-procedura-10",
         "strona": 1,
-        "sekcja": "Procedura nr 10 - Obrażenia i podejrzenie obrażeń brzucha"
+        "sekcja": "Procedura nr 10"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: Rozpoznanie miejsca zdarzenia i sekwencja medycznych działań ratowniczych (procedura 2). Rana z wytrzewieniem → wilgotny opatrunek osłaniający przykryty folią. Rana bez wytrzewienia → opatrunek osłaniający.\n2. POZYCJA: Leżąca z nogami ugiętymi w kolanach. Współistniejące obrażenia miednicy lub kończyn dolnych → leżąca na płasko."
   },
   {
     "id": "KARTA-KPP-OBRAZENIA-GLOWY",
@@ -4870,105 +4908,221 @@
   },
   {
     "id": "KARTA-KPP-OBRAZENIA-KLATKI-PIERSIOWEJ",
+    "wzorzec": 2,
     "kategoria": "dzialania",
-    "zrodlo": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 9",
-    "data_aktualizacji": "",
+    "grupa": "kpp",
+    "zrodlo": "KG PSP: Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy — Załącznik nr 1 do Zasad organizacji ratownictwa medycznego w KSRG (2021), Procedura 9.",
+    "data_aktualizacji": "2026-10-27",
     "slowo_kluczowe": "obrazenia klatki piersiowej kpp",
     "keywords": [
       "rana drazaca klatki piersiowej",
       "wiotka klatka piersiowa",
       "procedura 9 kpp"
     ],
-    "prefix": "KPP - obrazenia i podejrzenie obrazen klatki piersiowej.",
-    "content": "1. KOD / NAZWA: Procedura 9 - obrazenia i podejrzenie obrazen klatki piersiowej.\n2. START: wykonaj rozpoznanie miejsca zdarzenia i sekwencje medycznych dzialan ratowniczych z procedury 2.\n3. RANA DRAZACA KLATKI PIERSIOWEJ: zaloz opatrunek zastawkowy.\n4. WIOTKA KLATKA PIERSIOWA: zastosuj stabilizacje klatki piersiowej, reczna albo plastrowa.\n5. POZYCJA: uloz poszkodowanego w pozycji polsiedzacej.\n6. WYJATEK: jezeli jednoczesnie podejrzewasz obrazenia glowy lub odcinka szyjnego kregoslupa, a poszkodowany zostal unieruchomiony na noszach i nie wystepuja objawy wstrzasu hipowolemicznego, nosze nalezy uniesc od strony glowy.\n7. UWAGI OPERACYJNE: karta skupia sie na dwoch kluczowych zagrozeniach - ranie drazacej i wiotkiej klatce piersiowej.",
+    "aliasy": [
+      "rana drazaca klatki piersiowej",
+      "wiotka klatka piersiowa",
+      "procedura 9 kpp"
+    ],
+    "prefix": "KPP procedura 9 — obrażenia klatki piersiowej: rana drążąca (opatrunek zastawkowy), wiotka klatka (stabilizacja), pozycja półsiedząca.",
+    "najpierw": [
+      {
+        "t": "Rozpoznanie miejsca zdarzenia i sekwencja medycznych działań ratowniczych (procedura 2).",
+        "zr": "KPP proc. 9",
+        "str": 1
+      },
+      {
+        "t": "Rana drążąca klatki piersiowej → opatrunek zastawkowy.",
+        "zr": "KPP proc. 9",
+        "str": 1
+      },
+      {
+        "t": "Wiotka klatka piersiowa → stabilizacja ręczna lub plastrowa.",
+        "zr": "KPP proc. 9",
+        "str": 1
+      }
+    ],
+    "parametry": [],
+    "sekcje": [
+      {
+        "etykieta": "Pozycja",
+        "punkty": [
+          {
+            "t": "Pozycja półsiedząca.",
+            "zr": "KPP proc. 9",
+            "str": 1
+          },
+          {
+            "t": "Podejrzenie obrażeń głowy lub szyi, poszkodowany na noszach, bez objawów wstrząsu → unieś nosze od strony głowy.",
+            "zr": "KPP proc. 9",
+            "str": 1
+          }
+        ]
+      }
+    ],
     "tagi_wspolne": [
       "kpp",
       "medyczne dzialania ratownicze",
       "obrazenia",
       "uraz"
     ],
-    "aliasy": [
-      "rana drazaca klatki piersiowej",
-      "wiotka klatka piersiowa",
-      "procedura 9 kpp"
-    ],
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-kpp-procedura-09",
         "strona": 1,
-        "sekcja": "Procedura nr 9 - Obrażenia i podejrzenie obrażeń klatki piersiowej"
+        "sekcja": "Procedura nr 9"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: Rozpoznanie miejsca zdarzenia i sekwencja medycznych działań ratowniczych (procedura 2). Rana drążąca klatki piersiowej → opatrunek zastawkowy. Wiotka klatka piersiowa → stabilizacja ręczna lub plastrowa.\n2. POZYCJA: Pozycja półsiedząca. Podejrzenie obrażeń głowy lub szyi, poszkodowany na noszach, bez objawów wstrząsu → unieś nosze od strony głowy."
   },
   {
     "id": "KARTA-KPP-OBRAZENIA-KREGOSLUPA",
+    "wzorzec": 2,
     "kategoria": "dzialania",
-    "zrodlo": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 8",
-    "data_aktualizacji": "",
+    "grupa": "kpp",
+    "zrodlo": "KG PSP: Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy — Załącznik nr 1 do Zasad organizacji ratownictwa medycznego w KSRG (2021), Procedura 8.",
+    "data_aktualizacji": "2026-10-27",
     "slowo_kluczowe": "obrazenia kregoslupa kpp",
     "keywords": [
       "podejrzenie obrazen kregoslupa",
       "procedura 8 kpp",
       "stabilizacja kregoslupa kpp"
     ],
-    "prefix": "KPP - obrazenia i podejrzenie obrazen kregoslupa.",
-    "content": "1. KOD / NAZWA: Procedura 8 - obrazenia i podejrzenie obrazen kregoslupa.\n2. START: wykonaj rozpoznanie miejsca zdarzenia oraz sekwencje medycznych dzialan ratowniczych z procedury 2.\n3. STABILIZACJA: zastosuj stabilizacje odcinka szyjnego kregoslupa.\n4. BEZ KONIECZNOSCI EWAKUACJI: utrzymuj stabilizacje w pozycji zastanej.\n5. KONIECZNOSC EWAKUACJI: w miare mozliwosci unieruchom poszkodowanego na noszach.\n6. PONOWNA OCENA: po ewakuacji ponownie przeprowadz sekwencje medycznych dzialan ratowniczych.\n7. UWAGI OPERACYJNE: karta rozroznia postepowanie bez koniecznosci ewakuacji i z koniecznoscia ewakuacji.",
+    "aliasy": [
+      "podejrzenie obrazen kregoslupa",
+      "procedura 8 kpp",
+      "stabilizacja kregoslupa kpp"
+    ],
+    "prefix": "KPP procedura 8 — obrażenia i podejrzenie obrażeń kręgosłupa: stabilizacja szyi, pozycja zastana lub nosze.",
+    "najpierw": [
+      {
+        "t": "Rozpoznanie miejsca zdarzenia.",
+        "zr": "KPP proc. 8",
+        "str": 1
+      },
+      {
+        "t": "Stabilizacja odcinka szyjnego kręgosłupa — przed sekwencją medycznych działań ratowniczych.",
+        "zr": "KPP proc. 8",
+        "str": 1
+      },
+      {
+        "t": "Sekwencja medycznych działań ratowniczych (procedura 2).",
+        "zr": "KPP proc. 8",
+        "str": 1
+      }
+    ],
+    "parametry": [],
+    "sekcje": [
+      {
+        "etykieta": "Dalej",
+        "punkty": [
+          {
+            "t": "Bez konieczności ewakuacji → stabilizacja w pozycji zastanej.",
+            "zr": "KPP proc. 8",
+            "str": 1
+          },
+          {
+            "t": "Konieczność ewakuacji → w miarę możliwości unieruchomienie na noszach, potem ponowna sekwencja medycznych działań.",
+            "zr": "KPP proc. 8",
+            "str": 1
+          }
+        ]
+      }
+    ],
     "tagi_wspolne": [
       "kpp",
       "medyczne dzialania ratownicze",
       "obrazenia",
       "uraz"
     ],
-    "aliasy": [
-      "podejrzenie obrazen kregoslupa",
-      "procedura 8 kpp",
-      "stabilizacja kregoslupa kpp"
-    ],
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-kpp-procedura-08",
         "strona": 1,
-        "sekcja": "Procedura nr 8 - Obrażenia i podejrzenie obrażeń kręgosłupa"
+        "sekcja": "Procedura nr 8"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: Rozpoznanie miejsca zdarzenia. Stabilizacja odcinka szyjnego kręgosłupa — przed sekwencją medycznych działań ratowniczych. Sekwencja medycznych działań ratowniczych (procedura 2).\n2. DALEJ: Bez konieczności ewakuacji → stabilizacja w pozycji zastanej. Konieczność ewakuacji → w miarę możliwości unieruchomienie na noszach, potem ponowna sekwencja medycznych działań."
   },
   {
     "id": "KARTA-KPP-OBRAZENIA-MIEDNICY",
+    "wzorzec": 2,
     "kategoria": "dzialania",
-    "zrodlo": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 11",
-    "data_aktualizacji": "",
+    "grupa": "kpp",
+    "zrodlo": "KG PSP: Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy — Załącznik nr 1 do Zasad organizacji ratownictwa medycznego w KSRG (2021), Procedura 11.",
+    "data_aktualizacji": "2026-10-27",
     "slowo_kluczowe": "obrazenia miednicy kpp",
     "keywords": [
       "miednica kpp",
       "procedura 11 kpp",
       "nosze podbierakowe miednica"
     ],
-    "prefix": "KPP - obrazenia i podejrzenie obrazen miednicy.",
-    "content": "1. KOD / NAZWA: Procedura 11 - obrazenia i podejrzenie obrazen miednicy.\n2. START: wykonaj rozpoznanie miejsca zdarzenia i sekwencje medycznych dzialan ratowniczych z procedury 2.\n3. STABILIZACJA: rozwaz stabilizacje miednicy.\n4. TRANSPORT NA NOSZACH: preferowane jest uzycie noszy podbierakowych.\n5. JEZELI BRAK NOSZY PODBIERAKOWYCH: zastosuj technike wielu rak.\n6. UNIERUCHOMIENIE: po przeniesieniu unieruchom poszkodowanego na noszach.\n7. UWAGI OPERACYJNE: karta skupia sie na jak najmniej urazowym przeniesieniu i stabilizacji.",
+    "aliasy": [
+      "miednica kpp",
+      "procedura 11 kpp",
+      "nosze podbierakowe miednica"
+    ],
+    "prefix": "KPP procedura 11 — obrażenia miednicy: stabilizacja, nosze podbierakowe lub technika „wielu rąk”.",
+    "najpierw": [
+      {
+        "t": "Rozpoznanie miejsca zdarzenia i sekwencja medycznych działań ratowniczych (procedura 2).",
+        "zr": "KPP proc. 11",
+        "str": 1
+      },
+      {
+        "t": "Rozważ stabilizację miednicy.",
+        "zr": "KPP proc. 11",
+        "str": 1
+      }
+    ],
+    "parametry": [],
+    "sekcje": [
+      {
+        "etykieta": "Przeniesienie",
+        "punkty": [
+          {
+            "t": "Użyj noszy podbierakowych.",
+            "zr": "KPP proc. 11",
+            "str": 1
+          },
+          {
+            "t": "Brak noszy podbierakowych → technika „wielu rąk”.",
+            "zr": "KPP proc. 11",
+            "str": 1
+          },
+          {
+            "t": "Unieruchomienie na noszach.",
+            "zr": "KPP proc. 11",
+            "str": 1
+          }
+        ]
+      }
+    ],
     "tagi_wspolne": [
       "kpp",
       "medyczne dzialania ratownicze",
       "obrazenia",
       "uraz"
     ],
-    "aliasy": [
-      "miednica kpp",
-      "procedura 11 kpp",
-      "nosze podbierakowe miednica"
-    ],
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-kpp-procedura-11",
         "strona": 1,
-        "sekcja": "Procedura nr 11 - Obrażenia i podejrzenie obrażeń miednicy"
+        "sekcja": "Procedura nr 11"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: Rozpoznanie miejsca zdarzenia i sekwencja medycznych działań ratowniczych (procedura 2). Rozważ stabilizację miednicy.\n2. PRZENIESIENIE: Użyj noszy podbierakowych. Brak noszy podbierakowych → technika „wielu rąk”. Unieruchomienie na noszach."
   },
   {
     "id": "KARTA-KPP-OBRAZENIA-NARZADU-RUCHU",
+    "wzorzec": 2,
     "kategoria": "dzialania",
-    "zrodlo": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 12",
-    "data_aktualizacji": "",
+    "grupa": "kpp",
+    "zrodlo": "KG PSP: Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy — Załącznik nr 1 do Zasad organizacji ratownictwa medycznego w KSRG (2021), Procedura 12.",
+    "data_aktualizacji": "2026-10-27",
     "slowo_kluczowe": "obrazenia narzadu ruchu kpp",
     "keywords": [
       "konczyna kpp",
@@ -4976,89 +5130,249 @@
       "procedura 12 kpp",
       "wyciag delikatny kpp"
     ],
-    "prefix": "KPP - obrazenia i podejrzenie obrazen narzadu ruchu.",
-    "content": "1. KOD / NAZWA: Procedura 12 - obrazenia i podejrzenie obrazen narzadu ruchu.\n2. START: wykonaj rozpoznanie miejsca zdarzenia i sekwencje medycznych dzialan ratowniczych z procedury 2.\n3. STABILIZACJA WSTEPNA: zastosuj reczna stabilizacje konczyny i ocen odniesione obrazenia.\n4. OCENA DYSTALNA: ocen krazenie i czucie ponizej miejsca uszkodzenia.\n5. ZNIEKSZTALCENIE OBRYSU KONCZYNY: rozwaz zastosowanie delikatnego wyciagu.\n6. OPOR PODCZAS WYCIAGU: jezeli podczas stosowania wyciagu pojawia sie opor, przerwij wyciag i unieruchom konczyne w pozycji zastanej.\n7. RANA: jezeli wystepuje przerwanie ciaglosci skory, zaloz opatrunek jalowy oslaniajacy na rane.\n8. UNIERUCHOMIENIE: jezeli nie ma oporu podczas delikatnego wyciagu i warunki na to pozwalaja, unieruchom konczyne w pozycji zblizonej do fizjologicznej. W przeciwnym razie unieruchom w pozycji zastanej.\n9. PONOWNA OCENA: po unieruchomieniu ponownie ocen krazenie i czucie ponizej miejsca uszkodzenia.\n10. UWAGI OPERACYJNE: karta laczy decyzje dotyczace delikatnego wyciagu, rany i wyboru pozycji unieruchomienia.",
-    "tagi_wspolne": [
-      "kpp",
-      "medyczne dzialania ratownicze",
-      "obrazenia",
-      "uraz"
-    ],
     "aliasy": [
       "konczyna kpp",
       "zlamanie kpp",
       "procedura 12 kpp",
       "wyciag delikatny kpp"
     ],
+    "prefix": "KPP procedura 12 — obrażenia narządu ruchu: stabilizacja, krążenie i czucie, delikatny wyciąg, unieruchomienie.",
+    "najpierw": [
+      {
+        "t": "Rozpoznanie miejsca zdarzenia i sekwencja medycznych działań ratowniczych (procedura 2).",
+        "zr": "KPP proc. 12",
+        "str": 1
+      },
+      {
+        "t": "Ręczna stabilizacja kończyny; ocena obrażeń.",
+        "zr": "KPP proc. 12",
+        "str": 1
+      },
+      {
+        "t": "Ocena krążenia i czucia poniżej miejsca uszkodzenia.",
+        "zr": "KPP proc. 12",
+        "str": 1
+      }
+    ],
+    "parametry": [],
+    "sekcje": [
+      {
+        "etykieta": "Zniekształcenie obrysu kończyny",
+        "punkty": [
+          {
+            "t": "Zastosuj delikatny wyciąg.",
+            "zr": "KPP proc. 12",
+            "str": 1
+          },
+          {
+            "t": "Opór podczas wyciągu → rana lub przerwanie ciągłości skóry: opatrunek jałowy osłonowy; unieruchomienie w pozycji zastanej.",
+            "zr": "KPP proc. 12",
+            "str": 1
+          },
+          {
+            "t": "Brak oporu → jak bez zniekształcenia.",
+            "zr": "KPP proc. 12",
+            "str": 1
+          }
+        ]
+      },
+      {
+        "etykieta": "Bez zniekształcenia lub bez oporu",
+        "punkty": [
+          {
+            "t": "Rana → opatrunek jałowy osłonowy.",
+            "zr": "KPP proc. 12",
+            "str": 1
+          },
+          {
+            "t": "Unieruchomienie w pozycji zbliżonej do fizjologicznej.",
+            "zr": "KPP proc. 12",
+            "str": 1
+          }
+        ]
+      },
+      {
+        "etykieta": "Na koniec",
+        "punkty": [
+          {
+            "t": "Ponowna ocena krążenia i czucia poniżej miejsca uszkodzenia.",
+            "zr": "KPP proc. 12",
+            "str": 1
+          }
+        ]
+      }
+    ],
+    "tagi_wspolne": [
+      "kpp",
+      "medyczne dzialania ratownicze",
+      "obrazenia",
+      "uraz"
+    ],
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-kpp-procedura-12",
         "strona": 1,
-        "sekcja": "Procedura nr 12 - Obrażenia i podejrzenie obrażeń narządu ruchu"
+        "sekcja": "Procedura nr 12"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: Rozpoznanie miejsca zdarzenia i sekwencja medycznych działań ratowniczych (procedura 2). Ręczna stabilizacja kończyny; ocena obrażeń. Ocena krążenia i czucia poniżej miejsca uszkodzenia.\n2. ZNIEKSZTAŁCENIE OBRYSU KOŃCZYNY: Zastosuj delikatny wyciąg. Opór podczas wyciągu → rana lub przerwanie ciągłości skóry: opatrunek jałowy osłonowy; unieruchomienie w pozycji zastanej. Brak oporu → jak bez zniekształcenia.\n3. BEZ ZNIEKSZTAŁCENIA LUB BEZ OPORU: Rana → opatrunek jałowy osłonowy. Unieruchomienie w pozycji zbliżonej do fizjologicznej.\n4. NA KONIEC: Ponowna ocena krążenia i czucia poniżej miejsca uszkodzenia."
   },
   {
     "id": "KARTA-KPP-OPARZENIE-CHEMICZNE",
+    "wzorzec": 2,
     "kategoria": "dzialania",
-    "zrodlo": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 14",
-    "data_aktualizacji": "",
+    "grupa": "kpp",
+    "zrodlo": "KG PSP: Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy — Załącznik nr 1 do Zasad organizacji ratownictwa medycznego w KSRG (2021), Procedura 14.",
+    "data_aktualizacji": "2026-10-27",
     "slowo_kluczowe": "oparzenie chemiczne kpp",
     "keywords": [
       "procedura 14 kpp",
       "plynna substancja oparzenie kpp",
       "stala substancja oparzenie kpp"
     ],
-    "prefix": "KPP - oparzenie chemiczne.",
-    "content": "1. KOD / NAZWA: Procedura 14 - oparzenie chemiczne.\n2. START: wykonaj rozpoznanie miejsca zdarzenia i sekwencje medycznych dzialan ratowniczych z procedury 2. Zwracaj uwage na objawy wychlodzenia.\n3. PIERWSZY KROK: usun skazona odziez i bizuterie z oparzonej powierzchni.\n4. SUBSTANCJA STALA: jezeli to mozliwe, mechanicznie usun substancje z powierzchni skory.\n5. PLYNNA LUB PO USUNIECIU SUBSTANCJI STALEJ: prowadz bezpieczne plukanie biezaca woda do czasu zmniejszenia bolu lub oczyszczenia skory.\n6. OPATRUNEK HYDROZELOWY: jezeli jest dostepny, zastosuj opatrunek hydrozelowy.\n7. JEZELI BRAK OPATRUNKU HYDROZELOWEGO: zaloz suchy jalowy opatrunek.\n8. UWAGI OPERACYJNE: w trakcie plukania i dalszego postepowania stale kontroluj ryzyko wychlodzenia.",
-    "tagi_wspolne": [
-      "kpp",
-      "medyczne dzialania ratownicze",
-      "oparzenie"
-    ],
     "aliasy": [
       "procedura 14 kpp",
       "plynna substancja oparzenie kpp",
       "stala substancja oparzenie kpp"
     ],
+    "prefix": "KPP procedura 14 — oparzenie chemiczne: usunięcie odzieży i substancji, płukanie bieżącą wodą, opatrunek.",
+    "najpierw": [
+      {
+        "t": "Rozpoznanie miejsca zdarzenia i sekwencja medycznych działań ratowniczych (procedura 2).",
+        "zr": "KPP proc. 14",
+        "str": 1
+      },
+      {
+        "t": "Usuń skażoną odzież i biżuterię z oparzonej powierzchni.",
+        "zr": "KPP proc. 14",
+        "str": 1
+      },
+      {
+        "t": "Substancja stała → w miarę możliwości usuń ją mechanicznie ze skóry.",
+        "zr": "KPP proc. 14",
+        "str": 1
+      }
+    ],
+    "parametry": [],
+    "sekcje": [
+      {
+        "etykieta": "Dalej",
+        "punkty": [
+          {
+            "t": "Bezpieczne płukanie bieżącą wodą do zmniejszenia bólu lub oczyszczenia skóry.",
+            "zr": "KPP proc. 14",
+            "str": 1
+          },
+          {
+            "t": "Opatrunek hydrożelowy; brak hydrożelu → suchy jałowy opatrunek.",
+            "zr": "KPP proc. 14",
+            "str": 1
+          },
+          {
+            "t": "Zwracaj uwagę na objawy wychłodzenia.",
+            "zr": "KPP proc. 14",
+            "str": 1
+          }
+        ]
+      }
+    ],
+    "tagi_wspolne": [
+      "kpp",
+      "medyczne dzialania ratownicze",
+      "oparzenie"
+    ],
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-kpp-procedura-14",
         "strona": 1,
-        "sekcja": "Procedura nr 14 - Oparzenie chemiczne"
+        "sekcja": "Procedura nr 14"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: Rozpoznanie miejsca zdarzenia i sekwencja medycznych działań ratowniczych (procedura 2). Usuń skażoną odzież i biżuterię z oparzonej powierzchni. Substancja stała → w miarę możliwości usuń ją mechanicznie ze skóry.\n2. DALEJ: Bezpieczne płukanie bieżącą wodą do zmniejszenia bólu lub oczyszczenia skóry. Opatrunek hydrożelowy; brak hydrożelu → suchy jałowy opatrunek. Zwracaj uwagę na objawy wychłodzenia."
   },
   {
     "id": "KARTA-KPP-OPARZENIE-TERMICZNE",
+    "wzorzec": 2,
     "kategoria": "dzialania",
-    "zrodlo": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 13",
-    "data_aktualizacji": "",
+    "grupa": "kpp",
+    "zrodlo": "KG PSP: Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy — Załącznik nr 1 do Zasad organizacji ratownictwa medycznego w KSRG (2021), Procedura 13.",
+    "data_aktualizacji": "2026-10-27",
     "slowo_kluczowe": "oparzenie termiczne kpp",
     "keywords": [
       "procedura 13 kpp",
       "hydrozel oparzenie kpp",
       "schladzanie oparzenia kpp"
     ],
-    "prefix": "KPP - oparzenie termiczne.",
-    "content": "1. KOD / NAZWA: Procedura 13 - oparzenie termiczne.\n2. START: wykonaj rozpoznanie miejsca zdarzenia i sekwencje medycznych dzialan ratowniczych z procedury 2. Zwracaj uwage na objawy wychlodzenia.\n3. PIERWSZY KROK: usun odziez oraz bizuterie z oparzonej powierzchni.\n4. OPATRUNEK HYDROZELOWY: jezeli jest dostepny, zastosuj opatrunek hydrozelowy.\n5. JEZELI BRAK OPATRUNKU HYDROZELOWEGO: schladzaj oparzenie sola fizjologiczna lub czysta woda.\n6. CZAS SCHLADZANIA: przez 5-10 minut, jezeli powierzchnia oparzenia jest ponizej 10% powierzchni ciala, albo przez 1-2 minuty, jezeli powierzchnia oparzenia przekracza 10% powierzchni ciala.\n7. ZAKONCZENIE: zaloz jalowy suchy opatrunek.\n8. UWAGI OPERACYJNE: podczas calego postepowania kontroluj ryzyko wychlodzenia poszkodowanego.",
-    "tagi_wspolne": [
-      "kpp",
-      "medyczne dzialania ratownicze",
-      "oparzenie"
-    ],
     "aliasy": [
       "procedura 13 kpp",
       "hydrozel oparzenie kpp",
       "schladzanie oparzenia kpp"
     ],
+    "prefix": "KPP procedura 13 — oparzenie termiczne: hydrożel albo schładzanie 5–10 / 1–2 min, jałowy opatrunek.",
+    "najpierw": [
+      {
+        "t": "Rozpoznanie miejsca zdarzenia i sekwencja medycznych działań ratowniczych (procedura 2).",
+        "zr": "KPP proc. 13",
+        "str": 1
+      },
+      {
+        "t": "Usuń odzież i biżuterię z oparzonej powierzchni.",
+        "zr": "KPP proc. 13",
+        "str": 1
+      },
+      {
+        "t": "Opatrunek hydrożelowy.",
+        "zr": "KPP proc. 13",
+        "str": 1
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Brak hydrożelu — schładzanie",
+        "wartosc": "sól fizjologiczna lub czysta woda",
+        "zr": "KPP proc. 13",
+        "str": 1
+      },
+      {
+        "nazwa": "Czas schładzania",
+        "wartosc": "5–10 min przy oparzeniu < 10% powierzchni ciała · 1–2 min przy > 10%",
+        "zr": "KPP proc. 13",
+        "str": 1
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Dalej",
+        "punkty": [
+          {
+            "t": "Jałowy suchy opatrunek.",
+            "zr": "KPP proc. 13",
+            "str": 1
+          },
+          {
+            "t": "Zwracaj uwagę na objawy wychłodzenia.",
+            "zr": "KPP proc. 13",
+            "str": 1
+          }
+        ]
+      }
+    ],
+    "tagi_wspolne": [
+      "kpp",
+      "medyczne dzialania ratownicze",
+      "oparzenie"
+    ],
     "dokumenty_zrodlowe": [
       {
         "dokument_id": "doc-kpp-procedura-13",
         "strona": 1,
-        "sekcja": "Procedura nr 13 - Oparzenie termiczne"
+        "sekcja": "Procedura nr 13"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-27",
+    "content": "1. NAJPIERW: Rozpoznanie miejsca zdarzenia i sekwencja medycznych działań ratowniczych (procedura 2). Usuń odzież i biżuterię z oparzonej powierzchni. Opatrunek hydrożelowy.\n2. PARAMETRY: Brak hydrożelu — schładzanie — sól fizjologiczna lub czysta woda; Czas schładzania — 5–10 min przy oparzeniu < 10% powierzchni ciała · 1–2 min przy > 10%\n3. DALEJ: Jałowy suchy opatrunek. Zwracaj uwagę na objawy wychłodzenia."
   },
   {
     "id": "KARTA-KPP-RANY",

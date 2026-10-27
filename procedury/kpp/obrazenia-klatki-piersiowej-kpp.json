@@ -1,32 +1,69 @@
 {
   "id": "KARTA-KPP-OBRAZENIA-KLATKI-PIERSIOWEJ",
+  "wzorzec": 2,
   "kategoria": "dzialania",
-  "zrodlo": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 9",
-  "data_aktualizacji": "",
+  "grupa": "kpp",
+  "zrodlo": "KG PSP: Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy — Załącznik nr 1 do Zasad organizacji ratownictwa medycznego w KSRG (2021), Procedura 9.",
+  "data_aktualizacji": "2026-10-27",
   "slowo_kluczowe": "obrazenia klatki piersiowej kpp",
   "keywords": [
     "rana drazaca klatki piersiowej",
     "wiotka klatka piersiowa",
     "procedura 9 kpp"
   ],
-  "prefix": "KPP - obrazenia i podejrzenie obrazen klatki piersiowej.",
-  "content": "1. KOD / NAZWA: Procedura 9 - obrazenia i podejrzenie obrazen klatki piersiowej.\n2. START: wykonaj rozpoznanie miejsca zdarzenia i sekwencje medycznych dzialan ratowniczych z procedury 2.\n3. RANA DRAZACA KLATKI PIERSIOWEJ: zaloz opatrunek zastawkowy.\n4. WIOTKA KLATKA PIERSIOWA: zastosuj stabilizacje klatki piersiowej, reczna albo plastrowa.\n5. POZYCJA: uloz poszkodowanego w pozycji polsiedzacej.\n6. WYJATEK: jezeli jednoczesnie podejrzewasz obrazenia glowy lub odcinka szyjnego kregoslupa, a poszkodowany zostal unieruchomiony na noszach i nie wystepuja objawy wstrzasu hipowolemicznego, nosze nalezy uniesc od strony glowy.\n7. UWAGI OPERACYJNE: karta skupia sie na dwoch kluczowych zagrozeniach - ranie drazacej i wiotkiej klatce piersiowej.",
+  "aliasy": [
+    "rana drazaca klatki piersiowej",
+    "wiotka klatka piersiowa",
+    "procedura 9 kpp"
+  ],
+  "prefix": "KPP procedura 9 — obrażenia klatki piersiowej: rana drążąca (opatrunek zastawkowy), wiotka klatka (stabilizacja), pozycja półsiedząca.",
+  "najpierw": [
+    {
+      "t": "Rozpoznanie miejsca zdarzenia i sekwencja medycznych działań ratowniczych (procedura 2).",
+      "zr": "KPP proc. 9",
+      "str": 1
+    },
+    {
+      "t": "Rana drążąca klatki piersiowej → opatrunek zastawkowy.",
+      "zr": "KPP proc. 9",
+      "str": 1
+    },
+    {
+      "t": "Wiotka klatka piersiowa → stabilizacja ręczna lub plastrowa.",
+      "zr": "KPP proc. 9",
+      "str": 1
+    }
+  ],
+  "parametry": [],
+  "sekcje": [
+    {
+      "etykieta": "Pozycja",
+      "punkty": [
+        {
+          "t": "Pozycja półsiedząca.",
+          "zr": "KPP proc. 9",
+          "str": 1
+        },
+        {
+          "t": "Podejrzenie obrażeń głowy lub szyi, poszkodowany na noszach, bez objawów wstrząsu → unieś nosze od strony głowy.",
+          "zr": "KPP proc. 9",
+          "str": 1
+        }
+      ]
+    }
+  ],
   "tagi_wspolne": [
     "kpp",
     "medyczne dzialania ratownicze",
     "obrazenia",
     "uraz"
   ],
-  "aliasy": [
-    "rana drazaca klatki piersiowej",
-    "wiotka klatka piersiowa",
-    "procedura 9 kpp"
-  ],
   "dokumenty_zrodlowe": [
     {
       "dokument_id": "doc-kpp-procedura-09",
       "strona": 1,
-      "sekcja": "Procedura nr 9 - Obrażenia i podejrzenie obrażeń klatki piersiowej"
+      "sekcja": "Procedura nr 9"
     }
-  ]
+  ],
+  "data_przegladu": "2026-10-27"
 }

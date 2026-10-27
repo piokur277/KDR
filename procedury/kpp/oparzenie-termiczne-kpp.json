@@ -1,31 +1,81 @@
 {
   "id": "KARTA-KPP-OPARZENIE-TERMICZNE",
+  "wzorzec": 2,
   "kategoria": "dzialania",
-  "zrodlo": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 13",
-  "data_aktualizacji": "",
+  "grupa": "kpp",
+  "zrodlo": "KG PSP: Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy — Załącznik nr 1 do Zasad organizacji ratownictwa medycznego w KSRG (2021), Procedura 13.",
+  "data_aktualizacji": "2026-10-27",
   "slowo_kluczowe": "oparzenie termiczne kpp",
   "keywords": [
     "procedura 13 kpp",
     "hydrozel oparzenie kpp",
     "schladzanie oparzenia kpp"
   ],
-  "prefix": "KPP - oparzenie termiczne.",
-  "content": "1. KOD / NAZWA: Procedura 13 - oparzenie termiczne.\n2. START: wykonaj rozpoznanie miejsca zdarzenia i sekwencje medycznych dzialan ratowniczych z procedury 2. Zwracaj uwage na objawy wychlodzenia.\n3. PIERWSZY KROK: usun odziez oraz bizuterie z oparzonej powierzchni.\n4. OPATRUNEK HYDROZELOWY: jezeli jest dostepny, zastosuj opatrunek hydrozelowy.\n5. JEZELI BRAK OPATRUNKU HYDROZELOWEGO: schladzaj oparzenie sola fizjologiczna lub czysta woda.\n6. CZAS SCHLADZANIA: przez 5-10 minut, jezeli powierzchnia oparzenia jest ponizej 10% powierzchni ciala, albo przez 1-2 minuty, jezeli powierzchnia oparzenia przekracza 10% powierzchni ciala.\n7. ZAKONCZENIE: zaloz jalowy suchy opatrunek.\n8. UWAGI OPERACYJNE: podczas calego postepowania kontroluj ryzyko wychlodzenia poszkodowanego.",
-  "tagi_wspolne": [
-    "kpp",
-    "medyczne dzialania ratownicze",
-    "oparzenie"
-  ],
   "aliasy": [
     "procedura 13 kpp",
     "hydrozel oparzenie kpp",
     "schladzanie oparzenia kpp"
   ],
+  "prefix": "KPP procedura 13 — oparzenie termiczne: hydrożel albo schładzanie 5–10 / 1–2 min, jałowy opatrunek.",
+  "najpierw": [
+    {
+      "t": "Rozpoznanie miejsca zdarzenia i sekwencja medycznych działań ratowniczych (procedura 2).",
+      "zr": "KPP proc. 13",
+      "str": 1
+    },
+    {
+      "t": "Usuń odzież i biżuterię z oparzonej powierzchni.",
+      "zr": "KPP proc. 13",
+      "str": 1
+    },
+    {
+      "t": "Opatrunek hydrożelowy.",
+      "zr": "KPP proc. 13",
+      "str": 1
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "Brak hydrożelu — schładzanie",
+      "wartosc": "sól fizjologiczna lub czysta woda",
+      "zr": "KPP proc. 13",
+      "str": 1
+    },
+    {
+      "nazwa": "Czas schładzania",
+      "wartosc": "5–10 min przy oparzeniu < 10% powierzchni ciała · 1–2 min przy > 10%",
+      "zr": "KPP proc. 13",
+      "str": 1
+    }
+  ],
+  "sekcje": [
+    {
+      "etykieta": "Dalej",
+      "punkty": [
+        {
+          "t": "Jałowy suchy opatrunek.",
+          "zr": "KPP proc. 13",
+          "str": 1
+        },
+        {
+          "t": "Zwracaj uwagę na objawy wychłodzenia.",
+          "zr": "KPP proc. 13",
+          "str": 1
+        }
+      ]
+    }
+  ],
+  "tagi_wspolne": [
+    "kpp",
+    "medyczne dzialania ratownicze",
+    "oparzenie"
+  ],
   "dokumenty_zrodlowe": [
     {
       "dokument_id": "doc-kpp-procedura-13",
       "strona": 1,
-      "sekcja": "Procedura nr 13 - Oparzenie termiczne"
+      "sekcja": "Procedura nr 13"
     }
-  ]
+  ],
+  "data_przegladu": "2026-10-27"
 }

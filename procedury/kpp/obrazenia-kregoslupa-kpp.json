@@ -1,32 +1,69 @@
 {
   "id": "KARTA-KPP-OBRAZENIA-KREGOSLUPA",
+  "wzorzec": 2,
   "kategoria": "dzialania",
-  "zrodlo": "Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy, Zalacznik nr 1, Procedura 8",
-  "data_aktualizacji": "",
+  "grupa": "kpp",
+  "zrodlo": "KG PSP: Procedury ratownicze z zakresu kwalifikowanej pierwszej pomocy — Załącznik nr 1 do Zasad organizacji ratownictwa medycznego w KSRG (2021), Procedura 8.",
+  "data_aktualizacji": "2026-10-27",
   "slowo_kluczowe": "obrazenia kregoslupa kpp",
   "keywords": [
     "podejrzenie obrazen kregoslupa",
     "procedura 8 kpp",
     "stabilizacja kregoslupa kpp"
   ],
-  "prefix": "KPP - obrazenia i podejrzenie obrazen kregoslupa.",
-  "content": "1. KOD / NAZWA: Procedura 8 - obrazenia i podejrzenie obrazen kregoslupa.\n2. START: wykonaj rozpoznanie miejsca zdarzenia oraz sekwencje medycznych dzialan ratowniczych z procedury 2.\n3. STABILIZACJA: zastosuj stabilizacje odcinka szyjnego kregoslupa.\n4. BEZ KONIECZNOSCI EWAKUACJI: utrzymuj stabilizacje w pozycji zastanej.\n5. KONIECZNOSC EWAKUACJI: w miare mozliwosci unieruchom poszkodowanego na noszach.\n6. PONOWNA OCENA: po ewakuacji ponownie przeprowadz sekwencje medycznych dzialan ratowniczych.\n7. UWAGI OPERACYJNE: karta rozroznia postepowanie bez koniecznosci ewakuacji i z koniecznoscia ewakuacji.",
+  "aliasy": [
+    "podejrzenie obrazen kregoslupa",
+    "procedura 8 kpp",
+    "stabilizacja kregoslupa kpp"
+  ],
+  "prefix": "KPP procedura 8 — obrażenia i podejrzenie obrażeń kręgosłupa: stabilizacja szyi, pozycja zastana lub nosze.",
+  "najpierw": [
+    {
+      "t": "Rozpoznanie miejsca zdarzenia.",
+      "zr": "KPP proc. 8",
+      "str": 1
+    },
+    {
+      "t": "Stabilizacja odcinka szyjnego kręgosłupa — przed sekwencją medycznych działań ratowniczych.",
+      "zr": "KPP proc. 8",
+      "str": 1
+    },
+    {
+      "t": "Sekwencja medycznych działań ratowniczych (procedura 2).",
+      "zr": "KPP proc. 8",
+      "str": 1
+    }
+  ],
+  "parametry": [],
+  "sekcje": [
+    {
+      "etykieta": "Dalej",
+      "punkty": [
+        {
+          "t": "Bez konieczności ewakuacji → stabilizacja w pozycji zastanej.",
+          "zr": "KPP proc. 8",
+          "str": 1
+        },
+        {
+          "t": "Konieczność ewakuacji → w miarę możliwości unieruchomienie na noszach, potem ponowna sekwencja medycznych działań.",
+          "zr": "KPP proc. 8",
+          "str": 1
+        }
+      ]
+    }
+  ],
   "tagi_wspolne": [
     "kpp",
     "medyczne dzialania ratownicze",
     "obrazenia",
     "uraz"
   ],
-  "aliasy": [
-    "podejrzenie obrazen kregoslupa",
-    "procedura 8 kpp",
-    "stabilizacja kregoslupa kpp"
-  ],
   "dokumenty_zrodlowe": [
     {
       "dokument_id": "doc-kpp-procedura-08",
       "strona": 1,
-      "sekcja": "Procedura nr 8 - Obrażenia i podejrzenie obrażeń kręgosłupa"
+      "sekcja": "Procedura nr 8"
     }
-  ]
+  ],
+  "data_przegladu": "2026-10-27"
 }

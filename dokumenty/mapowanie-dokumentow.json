@@ -504,7 +504,7 @@
       {
         "dokument_id": "doc-kpp-procedura-10",
         "strona": 1,
-        "sekcja": "Procedura nr 10 - Obrażenia i podejrzenie obrażeń brzucha",
+        "sekcja": "Procedura nr 10",
         "tytul": "Procedura nr 10 - Obrażenia i podejrzenie obrażeń brzucha",
         "plik": "dokumenty/kpp/procedury/procedura-10-obrazenia-brzucha.pdf",
         "typ": "pdf"
@@ -534,7 +534,7 @@
       {
         "dokument_id": "doc-kpp-procedura-09",
         "strona": 1,
-        "sekcja": "Procedura nr 9 - Obrażenia i podejrzenie obrażeń klatki piersiowej",
+        "sekcja": "Procedura nr 9",
         "tytul": "Procedura nr 9 - Obrażenia i podejrzenie obrażeń klatki piersiowej",
         "plik": "dokumenty/kpp/procedury/procedura-09-obrazenia-klatki-piersiowej.pdf",
         "typ": "pdf"
@@ -549,7 +549,7 @@
       {
         "dokument_id": "doc-kpp-procedura-08",
         "strona": 1,
-        "sekcja": "Procedura nr 8 - Obrażenia i podejrzenie obrażeń kręgosłupa",
+        "sekcja": "Procedura nr 8",
         "tytul": "Procedura nr 8 - Obrażenia i podejrzenie obrażeń kręgosłupa",
         "plik": "dokumenty/kpp/procedury/procedura-08-obrazenia-kregoslupa.pdf",
         "typ": "pdf"
@@ -564,7 +564,7 @@
       {
         "dokument_id": "doc-kpp-procedura-11",
         "strona": 1,
-        "sekcja": "Procedura nr 11 - Obrażenia i podejrzenie obrażeń miednicy",
+        "sekcja": "Procedura nr 11",
         "tytul": "Procedura nr 11 - Obrażenia i podejrzenie obrażeń miednicy",
         "plik": "dokumenty/kpp/procedury/procedura-11-obrazenia-miednicy.pdf",
         "typ": "pdf"
@@ -579,7 +579,7 @@
       {
         "dokument_id": "doc-kpp-procedura-12",
         "strona": 1,
-        "sekcja": "Procedura nr 12 - Obrażenia i podejrzenie obrażeń narządu ruchu",
+        "sekcja": "Procedura nr 12",
         "tytul": "Procedura nr 12 - Obrażenia i podejrzenie obrażeń narządu ruchu",
         "plik": "dokumenty/kpp/procedury/procedura-12-obrazenia-narzadu-ruchu.pdf",
         "typ": "pdf"
@@ -594,7 +594,7 @@
       {
         "dokument_id": "doc-kpp-procedura-14",
         "strona": 1,
-        "sekcja": "Procedura nr 14 - Oparzenie chemiczne",
+        "sekcja": "Procedura nr 14",
         "tytul": "Procedura nr 14 - Oparzenie chemiczne",
         "plik": "dokumenty/kpp/procedury/procedura-14-oparzenie-chemiczne.pdf",
         "typ": "pdf"
@@ -609,7 +609,7 @@
       {
         "dokument_id": "doc-kpp-procedura-13",
         "strona": 1,
-        "sekcja": "Procedura nr 13 - Oparzenie termiczne",
+        "sekcja": "Procedura nr 13",
         "tytul": "Procedura nr 13 - Oparzenie termiczne",
         "plik": "dokumenty/kpp/procedury/procedura-13-oparzenie-termiczne.pdf",
         "typ": "pdf"
