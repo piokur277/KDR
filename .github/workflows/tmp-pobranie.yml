@@ -11,11 +11,15 @@ jobs:
       - uses: actions/checkout@v4
       - name: Pobierz
         run: |
-          mkdir -p tmp-wod && cd tmp-wod
-          get(){ curl -sSL --retry 3 -A "Mozilla/5.0" -o "$1" "https://www.gov.pl/attachment/$2" && echo "$1 $(stat -c%s "$1") $(file -b "$1" | cut -c1-40)" >> log.txt; }
-          get wod-2026.pdf 3e623c2c-c0bb-44e5-8e18-4e50f373339b
+          mkdir -p tmp-rozp && cd tmp-rozp
+          get(){ curl -sSL --retry 3 -A "Mozilla/5.0" -o "$1" "$2" && echo "$1 $(stat -c%s "$1") $(file -b "$1" | cut -c1-40)" >> log.txt; }
+          get ksrg-2026.pdf "https://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU20260000872/O/D20260872.pdf"
+          get ksrg-2021.pdf "https://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU20210001737/O/D20211737.pdf"
+          get wlaczanie-2026.pdf "https://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU20260000847/O/D20260847.pdf"
+          get bsp-gov.pdf "https://www.gov.pl/attachment/2e9c8c53-b240-42b4-8c98-ff7252045ddf"
+          get bsp-strona.html "https://www.gov.pl/web/kppsp-koscierzyna/podejrzana-przesylka-i-dron-o-mozliwym-pochodzeniu-militarnym2"
           cat log.txt
       - name: Zapisz
         run: |
           git config user.name tmp && git config user.email tmp@users.noreply.github.com
-          git add tmp-wod && git commit -m "Tymczasowe: wod" && git push
+          git add tmp-rozp && git commit -m "Tymczasowe: rozp" && git push
