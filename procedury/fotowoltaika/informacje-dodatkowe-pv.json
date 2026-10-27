@@ -1,8 +1,10 @@
 {
   "id": "KARTA-PV-INFORMACJE-DODATKOWE",
+  "wzorzec": 2,
   "kategoria": "informacje",
-  "zrodlo": "Standardowe zasady postepowania podczas zdarzen w obrebie instalacji fotowoltaicznych, KG PSP",
-  "data_aktualizacji": "2022-03",
+  "grupa": "pv",
+  "zrodlo": "KG PSP: Standardowe zasady postępowania podczas zdarzeń w obrębie instalacji fotowoltaicznych (SZP nr 6), wydanie I, marzec 2022.",
+  "data_aktualizacji": "2026-10-27",
   "slowo_kluczowe": "informacje dodatkowe pv",
   "keywords": [
     "ostroznosc pv",
@@ -11,13 +13,6 @@
     "moduly pv ostroznosc",
     "bezpieczenstwo fotowoltaika"
   ],
-  "prefix": "Informacje dodatkowe i srodki ostroznosci przy dzialaniach w obrebie instalacji fotowoltaicznych.",
-  "content": "1. KOD / NAZWA: instalacja fotowoltaiczna PV - informacje dodatkowe i srodki ostroznosci.\n2. SRODKI OSTROZNOSCI: obowiazuje zakaz wchodzenia i poruszania sie po powierzchni modulow PV.\n3. NAPIECIE DC: po rozlaczeniu napiecia po stronie AC nadal moze wystepowac niebezpieczne napiecie po stronie DC pomiedzy modulami a falownikiem.\n4. ROZLACZANIE MODULOW: jezeli zachodzi koniecznosc rozlaczenia modulow, nalezy uprzednio wylaczyc falownik, w przeciwnym razie w zamknietym obwodzie moze dojsc do powstania luku elektrycznego.\n5. MAGAZYN ENERGII: jezeli instalacja PV wyposazona jest w magazyn energii, nalezy zawsze wylaczac falownik.\n6. OGRANICZENIA SPRZETU: detektor typu Hot Stick nie wykrywa pradu stalego generowanego przez moduly fotowoltaiczne.\n7. OZNACZENIA I PLANOWANIE: informacje o zakonczeniu robot budowlanych polegajacych na instalowaniu urzadzen fotowoltaicznych o mocy powyzej 6,5 kW sa przekazywane do wlasciwych miejscowo KP lub KM PSP miedzy innymi na potrzeby planowania dzialan ratowniczo-gasniczych.\n8. CO MOZE POJSC NIE TAK: dzialania polegajace na zaslanianiu modulow przed promieniowaniem slonecznym, w tym zakrywanie plandekami lub pokrywanie piana sprezona, nie stanowia gwarancji zabezpieczenia przed porazeniem pradem.\n9. UWAGI OPERACYJNE: systemy PV moga pracowac pod napieciem do 1500 V DC, a ryzyko porazenia pradem nalezy traktowac jako jedno z podstawowych zagrozen podczas dzialan w ich obrebie.",
-  "tagi_wspolne": [
-    "fotowoltaika",
-    "pv",
-    "instalacja fotowoltaiczna"
-  ],
   "aliasy": [
     "ostroznosc pv",
     "hot stick pv",
@@ -25,11 +20,104 @@
     "moduly pv ostroznosc",
     "bezpieczenstwo fotowoltaika"
   ],
+  "prefix": "Instalacja fotowoltaiczna (PV) — zagrożenia i środki ostrożności (SZP KG PSP 2022).",
+  "najpierw": [
+    {
+      "t": "Nie wchodź i nie poruszaj się po modułach PV.",
+      "zr": "SZP PV 2022",
+      "str": 16
+    },
+    {
+      "t": "Po rozłączeniu AC nadal może być niebezpieczne napięcie DC między modułami a falownikiem.",
+      "zr": "SZP PV 2022",
+      "str": 16
+    },
+    {
+      "t": "Przed rozłączeniem modułów wyłącz falownik — inaczej w zamkniętym obwodzie powstanie łuk.",
+      "zr": "SZP PV 2022",
+      "str": 16
+    },
+    {
+      "t": "Jest magazyn energii — zawsze wyłączaj falownik.",
+      "zr": "SZP PV 2022",
+      "str": 16
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "Napięcie systemów PV",
+      "wartosc": "do 1500 V DC",
+      "zr": "SZP PV 2022",
+      "str": 7
+    },
+    {
+      "nazwa": "Hot Stick",
+      "wartosc": "nie wykrywa prądu stałego z modułów PV",
+      "zr": "SZP PV 2022",
+      "str": 16
+    },
+    {
+      "nazwa": "Zgłoszenie do KP/KM PSP",
+      "wartosc": "instalacje powyżej 6,5 kW — informacja o zakończeniu robót (do planowania działań)",
+      "zr": "SZP PV 2022",
+      "str": 16
+    }
+  ],
+  "sekcje": [
+    {
+      "etykieta": "Zagrożenia",
+      "punkty": [
+        {
+          "t": "Łuk elektryczny przy rozłączaniu pod napięciem — np. uderzenie toporem w przewód; po przecięciu odcinek od modułów nadal jest pod napięciem.",
+          "zr": "SZP PV 2022",
+          "str": 6
+        },
+        {
+          "t": "Napięcie DC także po zmierzchu — moduły pracują przy świetle płomienia i oświetleniu miejsca działań.",
+          "zr": "SZP PV 2022",
+          "str": 6
+        },
+        {
+          "t": "Jeden uszkodzony moduł, złącze lub przewód może dać napięcie na konstrukcji i metalowych elementach obiektu.",
+          "zr": "SZP PV 2022",
+          "str": 6
+        },
+        {
+          "t": "Upadek z wysokości, spadające elementy (zwłaszcza moduły na elewacji), balast betonowy na dachach płaskich.",
+          "zr": "SZP PV 2022",
+          "str": 6
+        },
+        {
+          "t": "Toksyczne produkty spalania: tellurek kadmu, arsenek galu, fosfor, chlorowodór z izolacji.",
+          "zr": "SZP PV 2022",
+          "str": 6
+        }
+      ]
+    }
+  ],
+  "nie_rob": [
+    {
+      "t": "Nie niszcz ani nie przecinaj przewodów zasilających instalacji PV.",
+      "zr": "SZP PV 2022",
+      "str": 6
+    },
+    {
+      "t": "Zakrycie modułów plandeką lub pianą sprężoną nie gwarantuje ochrony przed porażeniem.",
+      "zr": "SZP PV 2022",
+      "str": 16
+    }
+  ],
+  "tagi_wspolne": [
+    "fotowoltaika",
+    "pv",
+    "instalacja fotowoltaiczna"
+  ],
   "dokumenty_zrodlowe": [
     {
       "dokument_id": "doc-pv-szp-2022",
-      "strona": 16,
-      "sekcja": "Odpowiednia część SZP instalacji PV"
+      "strona": 6,
+      "sekcja": "Zagrożenia (s. 6–7), informacje dodatkowe (s. 16)"
     }
-  ]
+  ],
+  "data_przegladu": "2026-10-27"
 }

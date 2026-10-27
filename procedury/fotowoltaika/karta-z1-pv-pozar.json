@@ -1,8 +1,10 @@
 {
   "id": "KARTA-PV-Z1-POZAR",
+  "wzorzec": 2,
   "kategoria": "dzialania",
-  "zrodlo": "Standardowe zasady postepowania podczas zdarzen w obrebie instalacji fotowoltaicznych, KG PSP",
-  "data_aktualizacji": "2022-03",
+  "grupa": "pv",
+  "zrodlo": "KG PSP: Standardowe zasady postępowania podczas zdarzeń w obrębie instalacji fotowoltaicznych (SZP nr 6), wydanie I, marzec 2022.",
+  "data_aktualizacji": "2026-10-27",
   "slowo_kluczowe": "pozar fotowoltaiki",
   "keywords": [
     "pozar pv",
@@ -13,14 +15,6 @@
     "magazyn energii pozar",
     "fotowoltaika plonie"
   ],
-  "prefix": "Karta Z1 - Dzialania ratownicze przy pozarze w obrebie instalacji fotowoltaicznej.",
-  "content": "1. KOD / NAZWA: PV Z1 - pozar w obrebie instalacji fotowoltaicznej.\n2. ROZPOZNANIE: ustal, czy podzespoly instalacji PV sa objete pozarem lub bezposrednio zagrozone. Jezeli nie sa, postepuj zgodnie ze standardowa taktyka gaszenia pozarow. Oceniaj stan instalacji i otoczenia, w tym okopcenie modulow, przebarwienia oraz uszkodzenia termiczne zlacz i przewodow.\n3. STREFA: wyznacz strefe zagrozenia i w przypadku bezposredniego zagrozenia zycia przeprowadz natychmiastowa ewakuacje osob znajdujacych sie w obiekcie.\n4. SOI: w sytuacji braku odpowiednich informacji o stanie instalacji PV stosuj srodki ochrony indywidualnej wlasciwe do dzialan przy urzadzeniach pod napieciem oraz sprzet ochrony ukladu oddechowego.\n5. DZIALANIA KRYTYCZNE: ostrzez ratownikow o zagrozeniu, odlacz doplyw pradu elektrycznego do budynku, a jezeli instalacja wyposazona jest w magazyn energii - wylacz falownik. Przystap do redukcji zagrozenia od instalacji zgodnie z karta rozpoznania i dzialan zabezpieczajacych.\n6. PROCEDURA SZCZEGOLOWA: jezeli nie jest to konieczne, nie dotykaj elementow instalacji PV ani innych elementow przewodzacych prad. W przypadku koniecznosci demontazu modulow zachowaj szczegolna ostroznosc i zabezpieczaj luzne zlacza oraz przewody. W razie potrzeby zadysponuj odpowiednie sluzby. Po zakonczeniu dzialan uniemozliw ponowne uruchomienie uszkodzonej instalacji.\n7. GASZENIE POZARU: do gaszenia pozaru lub dzialan w obronie mozna stosowac wode, wode z dodatkami, piane sprezona, proszki gasnicze i gazy gasnicze. Nie nalezy stosowac klasycznej piany ciezkiej, sredniej lub lekkiej. Przy pradzie rozproszonym wody zachowaj minimalny kat rozproszenia 30 stopni i odleglosc 1 m. Przy pradzie zwartym do 250 l/min zachowaj minimum 5 m, a powyzej 250 l/min minimum 10 m. Dla piany CAFS o maksymalnej wydajnosci wodnej 250 l/min zachowaj 1 m dla pradu rozproszonego i 5 m dla pradu zwartego. Dla proszkow i gazow gasniczych zachowaj co najmniej 1 m lub wieksza odleglosc wskazana przez producenta.\n8. MAGAZYN ENERGII: pozary akumulatorow i baterii stanowiacych element magazynu energii wymagaja stosowania srodka gasniczego o dzialaniu chlodzacym, czyli wody. Proszki i gazy gasnicze moga byc w tym przypadku nieskuteczne. Efekty gaszenia kontroluj kamera termowizyjna albo pirometrem, a ugaszone akumulatory i baterie zabezpiecz oraz zalec dozor przez co najmniej 24 godziny ze wzgledu na ryzyko samoistnego nawrotu palenia.\n9. CO MOZE POJSC NIE TAK: detektor typu Hot Stick nie wykrywa pradu stalego generowanego przez moduly PV. Nawet po uszkodzeniu lub przecieciu przewodu fragment od modulow do miejsca przeciecia moze pozostawac pod napieciem.\n10. UWAGI OPERACYJNE: zachowuj minimalne odleglosci podczas podawania srodkow gasniczych od elementow instalacji mogacych znajdowac sie pod napieciem.",
-  "tagi_wspolne": [
-    "fotowoltaika",
-    "pv",
-    "instalacja fotowoltaiczna",
-    "pozar"
-  ],
   "aliasy": [
     "pozar pv",
     "pozar instalacji pv",
@@ -30,11 +24,136 @@
     "magazyn energii pozar",
     "fotowoltaika plonie"
   ],
+  "prefix": "PV Z1 — pożar instalacji fotowoltaicznej i magazynu energii: ocena, działania, minimalne odległości podawania środków gaśniczych (SZP KG PSP 2022).",
+  "najpierw": [
+    {
+      "t": "Podzespoły PV nie są objęte ani zagrożone pożarem — stosuj standardową taktykę gaszenia.",
+      "zr": "SZP PV 2022",
+      "str": 12
+    },
+    {
+      "t": "Wyznacz strefę zagrożenia; przy bezpośrednim zagrożeniu życia — natychmiastowa ewakuacja.",
+      "zr": "SZP PV 2022",
+      "str": 12
+    },
+    {
+      "t": "Ostrzeż ratowników, odłącz prąd do budynku; jest magazyn energii — wyłącz falownik.",
+      "zr": "SZP PV 2022",
+      "str": 12
+    },
+    {
+      "t": "Bez informacji o stanie instalacji — SOI do pracy przy urządzeniach pod napięciem oraz ochrona układu oddechowego.",
+      "zr": "SZP PV 2022",
+      "str": 12
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "Woda, prąd rozproszony",
+      "wartosc": "min. 1 m, kąt rozproszenia min. 30° — tylko prądownice PWT Ø52 „Turbo”",
+      "zr": "SZP PV 2022",
+      "str": 12
+    },
+    {
+      "nazwa": "Woda, prąd zwarty",
+      "wartosc": "≤ 250 l/min: min. 5 m · > 250 l/min: min. 10 m — tylko prądownice PWT Ø52 „Turbo”",
+      "zr": "SZP PV 2022",
+      "str": 12
+    },
+    {
+      "nazwa": "Piana CAFS (max 250 l/min)",
+      "wartosc": "rozproszony 1 m · zwarty 5 m — tylko prądownice dopuszczone do urządzeń pod napięciem (PWT „Turbo” lub pyszczek do 25 mm)",
+      "zr": "SZP PV 2022",
+      "str": 12
+    },
+    {
+      "nazwa": "Proszki i gazy gaśnicze",
+      "wartosc": "min. 1 m lub więcej, jeśli tak wskazano na urządzeniu",
+      "zr": "SZP PV 2022",
+      "str": 13
+    }
+  ],
+  "sekcje": [
+    {
+      "etykieta": "Ocena sytuacji",
+      "punkty": [
+        {
+          "t": "Oceń stan instalacji z zewnątrz, np. kamerą termowizyjną: okopcenie, przebarwienia, uszkodzone złącza = możliwe napięcie na metalu.",
+          "zr": "SZP PV 2022",
+          "str": 12
+        },
+        {
+          "t": "Hot Stick nie wykrywa prądu stałego generowanego przez moduły.",
+          "zr": "SZP PV 2022",
+          "str": 12
+        }
+      ]
+    },
+    {
+      "etykieta": "Gaszenie",
+      "punkty": [
+        {
+          "t": "Dozwolone: woda (także ze zwilżaczami), piana sprężona, proszki, gazy gaśnicze.",
+          "zr": "SZP PV 2022",
+          "str": 12
+        },
+        {
+          "t": "Magazyn energii — gaś wodą (chłodzenie); proszki i gazy mogą być nieskuteczne. Kontroluj kamerą termowizyjną lub pirometrem.",
+          "zr": "SZP PV 2022",
+          "str": 13
+        },
+        {
+          "t": "Ugaszone akumulatory zabezpiecz; poinformuj właściciela o dozorze min. 24 h (ryzyko samoistnego nawrotu palenia).",
+          "zr": "SZP PV 2022",
+          "str": 13
+        }
+      ]
+    },
+    {
+      "etykieta": "Działania",
+      "punkty": [
+        {
+          "t": "Redukuj zagrożenie wg karty „Rozpoznanie i działania zabezpieczające”.",
+          "zr": "SZP PV 2022",
+          "str": 12
+        },
+        {
+          "t": "Demontaż modułów — szczególna ostrożność, zabezpiecz luźne złącza i przewody; w razie potrzeby zadysponuj odpowiednie służby.",
+          "zr": "SZP PV 2022",
+          "str": 12
+        },
+        {
+          "t": "Po działaniach uniemożliw ponowne uruchomienie uszkodzonej instalacji.",
+          "zr": "SZP PV 2022",
+          "str": 12
+        }
+      ]
+    }
+  ],
+  "nie_rob": [
+    {
+      "t": "Nie stosuj klasycznej piany ciężkiej, średniej ani lekkiej.",
+      "zr": "SZP PV 2022",
+      "str": 12
+    },
+    {
+      "t": "Nie dotykaj elementów PV ani innych elementów przewodzących, jeśli nie jest to konieczne.",
+      "zr": "SZP PV 2022",
+      "str": 12
+    }
+  ],
+  "tagi_wspolne": [
+    "fotowoltaika",
+    "pv",
+    "instalacja fotowoltaiczna",
+    "pozar"
+  ],
   "dokumenty_zrodlowe": [
     {
       "dokument_id": "doc-pv-szp-2022",
       "strona": 12,
-      "sekcja": "Odpowiednia część SZP instalacji PV"
+      "sekcja": "Karta Z1 — pożar (s. 12–13), tabela 2"
     }
-  ]
+  ],
+  "data_przegladu": "2026-10-27"
 }

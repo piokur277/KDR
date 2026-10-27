@@ -1,8 +1,10 @@
 {
   "id": "KARTA-PV-ROZPOZNANIE-I-ZABEZPIECZENIE",
+  "wzorzec": 2,
   "kategoria": "dzialania",
-  "zrodlo": "Standardowe zasady postepowania podczas zdarzen w obrebie instalacji fotowoltaicznych, KG PSP",
-  "data_aktualizacji": "2022-03",
+  "grupa": "pv",
+  "zrodlo": "KG PSP: Standardowe zasady postępowania podczas zdarzeń w obrębie instalacji fotowoltaicznych (SZP nr 6), wydanie I, marzec 2022.",
+  "data_aktualizacji": "2026-10-27",
   "slowo_kluczowe": "rozpoznanie fotowoltaika",
   "keywords": [
     "instalacja pv",
@@ -12,14 +14,6 @@
     "magazyn energii pv",
     "moduly fotowoltaiczne"
   ],
-  "prefix": "Rozpoznanie i dzialania zabezpieczajace przy zdarzeniach w obrebie instalacji fotowoltaicznych.",
-  "content": "1. KOD / NAZWA: instalacja fotowoltaiczna PV - rozpoznanie i dzialania zabezpieczajace.\n2. ROZPOZNANIE: ustaw pojazdy od strony nawietrznej, zachowujac bezpieczna odleglosc. Pozyskaj od wlasciciela, zarzadcy, personelu lub swiadkow jak najwiecej informacji o instalacji. Sprawdz, czy obiekt jest oznakowany znakiem bezpieczenstwa informujacym o obecnosci instalacji PV.\n3. USTALENIA KLUCZOWE: ustal lokalizacje modulow PV, pozostalych elementow instalacji, skrzynki przylaczeniowej sieci, magazynow energii oraz planu instalacji dla ekip ratowniczych. O ile to mozliwe ustal, w jakie zabezpieczenia wyposazona jest instalacja.\n4. TRASY I TYP INSTALACJI: ustal przebieg tras kablowych pradu stalego DC od modulow do falownika oraz od falownika do rozdzielni. Zweryfikuj, czy na obiekcie jest instalacja PV, a nie instalacja cieczowych kolektorow termicznych.\n5. OCENA USZKODZEN: ocen stan instalacji na podstawie oznak zewnetrznych. Okopcenie modulow, pekniecia, przebarwienia, uszkodzenia termiczne zlacz i przewodow moga swiadczyc o uszkodzeniu i wystepowaniu niebezpiecznego napiecia na metalowych elementach instalacji i budynku.\n6. SOI: podczas rozpoznania i dzialan stosuj srodki ochrony indywidualnej, w tym sprzet elektroizolacyjny, odpowiednio do rodzaju zdarzenia.\n7. DZIALANIA KRYTYCZNE: podejmij probe rozlaczenia doplywu energii elektrycznej do obiektu, uwzgledniajac mozliwosc wystepowania zasilania zapasowego. Jezeli instalacja wyposazona jest w magazyn energii, podejmij probe ustawienia wylacznika glownego falownika w pozycji zero lub Off. Jezeli obiekt ma przeciwpozarowy wylacznik pradu, wykorzystaj go.\n8. PROCEDURA SZCZEGOLOWA: w instalacjach ze stacja transformatorowa podejmij probe kontaktu z dyspozytorem operatora sieci dystrybucyjnej i popros o zdalne odlaczenie zasilania stacji. Co do zasady nie ingeruj w instalacje PV po stronie pradu stalego DC. Jezeli konieczny jest demontaz modulow, stosuj szczegolne srodki ostroznosci, w tym sprzet elektroizolacyjny, dedykowane klucze do rozpinania zlacz oraz zabezpieczaj luzne zlacza i przewody.\n9. CO MOZE POJSC NIE TAK: po odlaczeniu zasilania po stronie AC nadal moze wystepowac wysokie napiecie po stronie DC pomiedzy modulami a rozlacznikiem lub bezpiecznikami. Zaslanianie modulow plandekami albo pokrywanie piana sprezona nie daje gwarancji zabezpieczenia przed porazeniem pradem.\n10. UWAGI OPERACYJNE: nie dotykaj elementow instalacji PV, jezeli nie jest to konieczne. Jezeli jakikolwiek element budynku lub instalacji wykonany jest z materialow przewodzacych prad, zawsze zakladaj, ze moze byc pod napieciem. Detektor typu Hot Stick nie wykrywa pradu stalego generowanego przez moduly fotowoltaiczne.",
-  "tagi_wspolne": [
-    "fotowoltaika",
-    "pv",
-    "instalacja fotowoltaiczna",
-    "rozpoznanie"
-  ],
   "aliasy": [
     "instalacja pv",
     "rozpoznanie pv",
@@ -28,11 +22,135 @@
     "magazyn energii pv",
     "moduly fotowoltaiczne"
   ],
+  "prefix": "Instalacja fotowoltaiczna (PV) — rozpoznanie i działania zabezpieczające: odłączenie AC, falownik, wyłącznik ppoż., strona DC (SZP KG PSP 2022).",
+  "najpierw": [
+    {
+      "t": "Ustaw pojazdy od strony nawietrznej, w bezpiecznej odległości.",
+      "zr": "SZP PV 2022",
+      "str": 8
+    },
+    {
+      "t": "Odłącz dopływ energii do obiektu — uwzględnij zasilanie zapasowe.",
+      "zr": "SZP PV 2022",
+      "str": 10
+    },
+    {
+      "t": "Jest magazyn energii — ustaw wyłącznik główny falownika w pozycji „0”/„Off”, niezależnie od odłączenia zasilania budynku.",
+      "zr": "SZP PV 2022",
+      "str": 10
+    },
+    {
+      "t": "Jest przeciwpożarowy wyłącznik prądu — użyj go.",
+      "zr": "SZP PV 2022",
+      "str": 10
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "Po odłączeniu AC",
+      "wartosc": "między modułami a rozłącznikiem/bezpiecznikami nadal może być wysokie napięcie DC",
+      "zr": "SZP PV 2022",
+      "str": 10
+    },
+    {
+      "nazwa": "Napięcie systemów PV",
+      "wartosc": "do 1500 V DC",
+      "zr": "SZP PV 2022",
+      "str": 7
+    },
+    {
+      "nazwa": "Hot Stick",
+      "wartosc": "nie wykrywa prądu stałego z modułów PV",
+      "zr": "SZP PV 2022",
+      "str": 12
+    }
+  ],
+  "sekcje": [
+    {
+      "etykieta": "Rozpoznanie",
+      "punkty": [
+        {
+          "t": "Zbierz informacje od zarządcy, właściciela, personelu, świadków; szukaj znaku bezpieczeństwa PV (złącze, miejsce pomiaru, rozdzielnica).",
+          "zr": "SZP PV 2022",
+          "str": 8
+        },
+        {
+          "t": "Ustal położenie modułów, elementów instalacji, skrzynki przyłączeniowej i magazynów energii; poszukaj planu instalacji dla ekip ratowniczych.",
+          "zr": "SZP PV 2022",
+          "str": 8
+        },
+        {
+          "t": "Moduły na dachu — zakładaj, że mogą być ze wszystkich stron, także od północy i na ścianach; sprawdź instalację gruntową w sąsiedztwie.",
+          "zr": "SZP PV 2022",
+          "str": 9
+        },
+        {
+          "t": "Ustal trasy kabli DC (moduły → falownik) i od falownika do rozdzielni.",
+          "zr": "SZP PV 2022",
+          "str": 9
+        },
+        {
+          "t": "Odróżnij PV od kolektorów cieczowych: kolektory są grubsze, po 3–4 w łańcuchu, z przewodami hydraulicznymi 2–3 cm.",
+          "zr": "SZP PV 2022",
+          "str": 9
+        },
+        {
+          "t": "Okopcenie, pęknięcia, przebarwienia, nadtopione złącza i przewody — możliwe napięcie na metalowych elementach instalacji i budynku.",
+          "zr": "SZP PV 2022",
+          "str": 9
+        }
+      ]
+    },
+    {
+      "etykieta": "Działania zabezpieczające",
+      "punkty": [
+        {
+          "t": "Instalacja ze stacją transformatorową — poproś dyspozytora operatora sieci o zdalne odłączenie stacji (podaj numer lub lokalizację).",
+          "zr": "SZP PV 2022",
+          "str": 10
+        },
+        {
+          "t": "Co do zasady nie ingeruj w stronę DC.",
+          "zr": "SZP PV 2022",
+          "str": 11
+        },
+        {
+          "t": "Demontaż modułów tylko w razie konieczności: rękawice dielektryczne, dedykowane klucze do złączy, zabezpiecz luźne złącza i przewody.",
+          "zr": "SZP PV 2022",
+          "str": 11
+        },
+        {
+          "t": "Elementy przewodzące budynku (pokrycie, belki, rynny) zawsze traktuj jako mogące być pod napięciem.",
+          "zr": "SZP PV 2022",
+          "str": 9
+        }
+      ]
+    }
+  ],
+  "nie_rob": [
+    {
+      "t": "Nie dotykaj elementów instalacji PV, jeśli nie jest to konieczne.",
+      "zr": "SZP PV 2022",
+      "str": 9
+    },
+    {
+      "t": "Zakrycie modułów plandeką lub pianą sprężoną nie gwarantuje ochrony przed porażeniem.",
+      "zr": "SZP PV 2022",
+      "str": 11
+    }
+  ],
+  "tagi_wspolne": [
+    "fotowoltaika",
+    "pv",
+    "instalacja fotowoltaiczna",
+    "rozpoznanie"
+  ],
   "dokumenty_zrodlowe": [
     {
       "dokument_id": "doc-pv-szp-2022",
       "strona": 8,
-      "sekcja": "Odpowiednia część SZP instalacji PV"
+      "sekcja": "Rozpoznanie i działania zabezpieczające (s. 8–11)"
     }
-  ]
+  ],
+  "data_przegladu": "2026-10-27"
 }
