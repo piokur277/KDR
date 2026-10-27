@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-27T14:24:35.301Z",
-  "count": 120,
+  "generated_at": "2026-10-27T14:33:11.216Z",
+  "count": 123,
   "files": [
     "procedury/acetylen/karta-z1-butle-acetylen.json",
     "procedury/acetylen/karta-z2-butle-acetylen.json",
@@ -8,6 +8,9 @@
     "procedury/acetylen/karta-z4-butle-acetylen.json",
     "procedury/acetylen/przekazanie-miejsca-zdarzenia-butle-acetylen.json",
     "procedury/acetylen/rozpoznanie-buttle-acetylen.json",
+    "procedury/budowlane/bezpieczenstwo-dzialan-gruzowisko.json",
+    "procedury/budowlane/dpr-wspolpraca-sgpr.json",
+    "procedury/budowlane/dpr-zakres-podstawowy.json",
     "procedury/budowlane/informacje-dodatkowe-katastrofa-budowlana.json",
     "procedury/budowlane/organizacja-dzialan-katastrofa-budowlana.json",
     "procedury/budowlane/priorytety-typow-zawalen-katastrofa-budowlana.json",

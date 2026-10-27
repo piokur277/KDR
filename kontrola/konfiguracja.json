@@ -109,6 +109,14 @@
       "dotyczy_kart": [
         "KARTA-ORG-HCN"
       ]
+    },
+    {
+      "id": "kgpsp-dpr-dokumenty",
+      "url": "https://www.gov.pl/web/kgpsp/zasady-organizacji-dpr",
+      "opis": "KG PSP — Działania poszukiwawczo-ratownicze: zasady i inne dokumenty",
+      "dotyczy_kart": [
+        "KARTA-BUD-"
+      ]
     }
   ],
   "pliki_oficjalne": {
@@ -233,6 +241,16 @@
         "dokument_id": "doc-sztab-2025",
         "url": "https://www.gov.pl/attachment/b7dd968a-121b-473b-92d4-3c2f11cc4929",
         "strona": "dokumentacja-operacyjna"
+      },
+      {
+        "dokument_id": "doc-dpr-2023",
+        "url": "https://www.gov.pl/attachment/7f89f4f6-187a-42cf-bb01-77653c99a335",
+        "strona": "zasady-organizacji-dpr"
+      },
+      {
+        "dokument_id": "doc-dpr-2023-zal12",
+        "url": "https://www.gov.pl/attachment/59ec5a52-70b4-448b-932c-d0a90555d921",
+        "strona": "zasady-organizacji-dpr"
       }
     ]
   }

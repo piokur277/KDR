@@ -1056,6 +1056,32 @@
       "liczba_stron": 23,
       "sha256": "5ed6b6bfb9058454f494869cc21eb943aeb4d78ff76c0b4fdcc358c6ca16ee5c",
       "uwagi": "Pobrano z gov.pl (KG PSP: Dokumentacja operacyjna), https://www.gov.pl/attachment/b7dd968a-121b-473b-92d4-3c2f11cc4929."
+    },
+    "doc-dpr-2023": {
+      "id": "doc-dpr-2023",
+      "tytul": "Zasady organizacji działań poszukiwawczo-ratowniczych w krajowym systemie ratowniczo-gaśniczym (z załącznikami 1–11)",
+      "wersja": "2023 (nowelizacja grudzień 2023)",
+      "data_wydania": "2023-12",
+      "rodzaj": "Zasady KG PSP",
+      "plik": "dokumenty/budowlane/zasady-dzialan-poszukiwawczo-ratowniczych-2023.pdf",
+      "status_techniczny": "aktywny",
+      "aktualnosc_merytoryczna": "zweryfikowano_2026-10-27",
+      "liczba_stron": 98,
+      "sha256": "4a67aac46ee42e3f6dad1c03148f1c720153d321990168637c2eca570b2deb1a",
+      "uwagi": "Skan. Pobrano z gov.pl (KG PSP: Działania poszukiwawczo-ratownicze – zasady), https://www.gov.pl/attachment/7f89f4f6-187a-42cf-bb01-77653c99a335."
+    },
+    "doc-dpr-2023-zal12": {
+      "id": "doc-dpr-2023-zal12",
+      "tytul": "Załącznik nr 12 – Metodyka bezpieczeństwa działań podczas katastrof budowlanych",
+      "wersja": "2023 (nowelizacja grudzień 2023)",
+      "data_wydania": "2023-12",
+      "rodzaj": "Zasady KG PSP",
+      "plik": "dokumenty/budowlane/dpr-2023-zal12-metodyka-bezpieczenstwa.pdf",
+      "status_techniczny": "aktywny",
+      "aktualnosc_merytoryczna": "zweryfikowano_2026-10-27",
+      "liczba_stron": 20,
+      "sha256": "4f082162fc9e1726f57ef4bb41af5c60b951ed19ae6b130ee3a9ebb88bb4e576",
+      "uwagi": "Skan. Pobrano z gov.pl (KG PSP: Działania poszukiwawczo-ratownicze – zasady), https://www.gov.pl/attachment/59ec5a52-70b4-448b-932c-d0a90555d921."
     }
   }
 }

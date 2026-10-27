@@ -2246,5 +2246,58 @@
         "typ": "pdf"
       }
     ]
+  },
+  {
+    "id": "KARTA-BUD-DPR-ZAKRES-PODSTAWOWY",
+    "procedura": "Działania poszukiwawczo-ratownicze — zakres podstawowy JRG i OSP (Zasady KG PSP 2023).",
+    "miesiac_akademii": null,
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-dpr-2023",
+        "strona": 5,
+        "sekcja": "Część 2 — zakres podstawowy (s. 5–8)",
+        "tytul": "Zasady organizacji działań poszukiwawczo-ratowniczych w krajowym systemie ratowniczo-gaśniczym (z załącznikami 1–11)",
+        "plik": "dokumenty/budowlane/zasady-dzialan-poszukiwawczo-ratowniczych-2023.pdf",
+        "typ": "pdf"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-BUD-DPR-WSPOLPRACA-SGPR",
+    "procedura": "Współpraca KDR ze specjalistyczną grupą poszukiwawczo-ratowniczą (SGPR) — poziomy A, B, C i dowodzenie (Zasady KG PSP 2023).",
+    "miesiac_akademii": null,
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-dpr-2023",
+        "strona": 9,
+        "sekcja": "Część 3 — SGPR (s. 9–17), zał. 5 — zadania SGPR i współdziałanie (s. 31–33)",
+        "tytul": "Zasady organizacji działań poszukiwawczo-ratowniczych w krajowym systemie ratowniczo-gaśniczym (z załącznikami 1–11)",
+        "plik": "dokumenty/budowlane/zasady-dzialan-poszukiwawczo-ratowniczych-2023.pdf",
+        "typ": "pdf"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-BUD-BEZPIECZENSTWO-DZIALAN-GRUZOWISKO",
+    "procedura": "Bezpieczeństwo działań podczas katastrofy budowlanej — strefa, obszary zamknięte, sygnały, monitorowanie (Metodyka KG PSP 2023).",
+    "miesiac_akademii": null,
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-dpr-2023-zal12",
+        "strona": 1,
+        "sekcja": "Metodyka bezpieczeństwa działań podczas katastrof budowlanych (s. 1–14)",
+        "tytul": "Załącznik nr 12 – Metodyka bezpieczeństwa działań podczas katastrof budowlanych",
+        "plik": "dokumenty/budowlane/dpr-2023-zal12-metodyka-bezpieczenstwa.pdf",
+        "typ": "pdf"
+      },
+      {
+        "dokument_id": "doc-dpr-2023",
+        "strona": 97,
+        "sekcja": "Zał. 11 — oznakowanie terenu działań i obiektów (s. 97–98)",
+        "tytul": "Zasady organizacji działań poszukiwawczo-ratowniczych w krajowym systemie ratowniczo-gaśniczym (z załącznikami 1–11)",
+        "plik": "dokumenty/budowlane/zasady-dzialan-poszukiwawczo-ratowniczych-2023.pdf",
+        "typ": "pdf"
+      }
+    ]
   }
 ]

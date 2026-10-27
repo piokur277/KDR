@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-27T14:24:35.305Z",
+  "generated_at": "2026-10-27T14:33:11.219Z",
   "registry_version": "2.7",
-  "document_count": 82,
-  "active_document_count": 82,
-  "linked_document_count": 82,
+  "document_count": 84,
+  "active_document_count": 84,
+  "linked_document_count": 84,
   "unlinked_documents": [],
   "documents": [
     {
@@ -1641,6 +1641,44 @@
           "procedure_id": "KARTA-ORG-ZASADY-ORGANIZACJI-SZTABU",
           "strona": 4,
           "sekcja": "Wprowadzenie (s. 4), struktura (s. 7–9), zadania (s. 10–13), miejsce (s. 14), wyposażenie (s. 15), tryb pracy (s. 17), dokumentacja (s. 18)"
+        }
+      ]
+    },
+    {
+      "id": "doc-dpr-2023",
+      "tytul": "Zasady organizacji działań poszukiwawczo-ratowniczych w krajowym systemie ratowniczo-gaśniczym (z załącznikami 1–11)",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 98,
+      "liczba_powiazan": 3,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-BUD-BEZPIECZENSTWO-DZIALAN-GRUZOWISKO",
+          "strona": 97,
+          "sekcja": "Zał. 11 — oznakowanie terenu działań i obiektów (s. 97–98)"
+        },
+        {
+          "procedure_id": "KARTA-BUD-DPR-WSPOLPRACA-SGPR",
+          "strona": 9,
+          "sekcja": "Część 3 — SGPR (s. 9–17), zał. 5 — zadania SGPR i współdziałanie (s. 31–33)"
+        },
+        {
+          "procedure_id": "KARTA-BUD-DPR-ZAKRES-PODSTAWOWY",
+          "strona": 5,
+          "sekcja": "Część 2 — zakres podstawowy (s. 5–8)"
+        }
+      ]
+    },
+    {
+      "id": "doc-dpr-2023-zal12",
+      "tytul": "Załącznik nr 12 – Metodyka bezpieczeństwa działań podczas katastrof budowlanych",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 20,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-BUD-BEZPIECZENSTWO-DZIALAN-GRUZOWISKO",
+          "strona": 1,
+          "sekcja": "Metodyka bezpieczeństwa działań podczas katastrof budowlanych (s. 1–14)"
         }
       ]
     }
