@@ -1,6 +1,9 @@
 {
   "id": "DEZ-EV-01",
-  "prefix": "Dezaktywacja awaryjna pojazdu elektrycznego lub hybrydowego",
+  "wzorzec": 2,
+  "zrodlo": "KG PSP: Standardowe zasady postępowania podczas zdarzeń z samochodami z napędem elektrycznym oraz hybrydowym, wydanie drugie, maj 2023",
+  "data_aktualizacji": "2026-10-27",
+  "slowo_kluczowe": "dezaktywacja samochodu elektrycznego",
   "keywords": [
     "dezaktywacja ev",
     "odlaczenie wysokiego napiecia",
@@ -11,14 +14,6 @@
     "wylaczenie samochodu elektrycznego",
     "dezaktywacja tesli",
     "wylaczenie wysokiego napiecia ev"
-  ],
-  "content": "1. Podejdź do pojazdu tylko po rozpoznaniu stabilności i braku bezpośredniego zagrożenia pożarowego.\n2. Ustaw przekładnię na PARK, zaciągnij hamulec postojowy i wyłącz zapłon.\n3. Odsuń klucz lub telefon-klucz co najmniej 5 metrów od pojazdu.\n4. Odłącz akumulator 12V lub aktywuj fabryczny punkt odłączenia zgodnie z kartą ratowniczą danego modelu.\n5. W przypadku obecności pętli ratowniczej lub wtyku serwisowego użyj tylko wskazanego przez producenta sposobu dezaktywacji.\n6. Odczekaj czas wymagany przez producenta na rozładowanie kondensatorów układu HV.\n7. Po dezaktywacji nadal traktuj przewody pomarańczowe i baterię jako element niebezpieczny i nienaruszalny.",
-  "slowo_kluczowe": "dezaktywacja samochodu elektrycznego",
-  "tagi_wspolne": [
-    "pojazd elektryczny",
-    "samochod elektryczny",
-    "ev",
-    "dezaktywacja"
   ],
   "aliasy": [
     "dezaktywacja ev",
@@ -31,11 +26,145 @@
     "dezaktywacja tesli",
     "wylaczenie wysokiego napiecia ev"
   ],
+  "prefix": "Dezaktywacja i zabezpieczenie samochodu elektrycznego lub hybrydowego — kolejność wg SZP KG PSP (2023).",
+  "najpierw": [
+    {
+      "t": "Do pełnej identyfikacji zakładaj, że pojazd ma napęd elektryczny.",
+      "zr": "SZP EV",
+      "str": 4
+    },
+    {
+      "t": "Przed zablokowaniem ruchu nie stój przed ani za pojazdem — pracującego silnika elektrycznego nie słychać.",
+      "zr": "SZP EV",
+      "str": 5
+    },
+    {
+      "t": "Pozyskaj kartę ratowniczą modelu (RescueCode, Euro Rescue, Crash Recovery System, kod QR, karta w pojeździe).",
+      "zr": "SZP EV",
+      "str": 3
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "Napięcie ogniw (DC)",
+      "wartosc": "200–950 V",
+      "zr": "SZP EV",
+      "str": 2
+    },
+    {
+      "nazwa": "Napięcie silnika (AC)",
+      "wartosc": "400–650 V",
+      "zr": "SZP EV",
+      "str": 2
+    },
+    {
+      "nazwa": "Prąd po wyłączeniu WN",
+      "wartosc": "utrzymuje się kilka–kilkanaście minut",
+      "zr": "SZP EV",
+      "str": 7
+    }
+  ],
+  "sekcje": [
+    {
+      "etykieta": "Działania obowiązkowe — kolejno",
+      "punkty": [
+        {
+          "t": "Zablokuj ruch pojazdu do przodu i do tyłu (kliny); dodatkowo włóż do gniazda niepodłączoną wtyczkę kabla ładowania.",
+          "zr": "SZP EV",
+          "str": 5
+        },
+        {
+          "t": "Gdy świeci „READY” / „POWER ON” — wyłącz silnik przyciskiem lub kluczykiem.",
+          "zr": "SZP EV",
+          "str": 5
+        },
+        {
+          "t": "Ustaw „N” lub „P”, zaciągnij hamulec postojowy.",
+          "zr": "SZP EV",
+          "str": 6
+        },
+        {
+          "t": "Na końcu odłącz akumulator 12 V: najpierw biegun ujemny; zabezpiecz przewody przed zwarciem.",
+          "zr": "SZP EV",
+          "str": 6
+        }
+      ]
+    },
+    {
+      "etykieta": "Uwaga przy 12 V",
+      "punkty": [
+        {
+          "t": "Za wczesne odłączenie 12 V może uniemożliwić otwarcie drzwi i bagażnika, przesunięcie fotela, kierownicy oraz obsługę hamulca postojowego.",
+          "zr": "SZP EV",
+          "str": 6
+        },
+        {
+          "t": "W niektórych pojazdach odłączenie 12 V nie wyłącza układu WN — pojazd może nadal ruszyć.",
+          "zr": "SZP EV",
+          "str": 6
+        }
+      ]
+    },
+    {
+      "etykieta": "Działania alternatywne (wg karty ratowniczej)",
+      "punkty": [
+        {
+          "t": "Wyjmij wyłącznik awaryjny WN („zwora”, rozłącznik serwisowy) albo przetnij wskazaną pętlę w dwóch miejscach (wytnij odcinek).",
+          "zr": "SZP EV",
+          "str": 7
+        },
+        {
+          "t": "Przy tej czynności: hełm z opuszczoną przyłbicą i rękawice dielektryczne — ryzyko łuku elektrycznego.",
+          "zr": "SZP EV",
+          "str": 7
+        },
+        {
+          "t": "Jeśli karta ratownicza tak wskazuje — wyjmij bezpiecznik układu WN (może być w kilku miejscach).",
+          "zr": "SZP EV",
+          "str": 8
+        }
+      ]
+    },
+    {
+      "etykieta": "Kluczyk lub karta",
+      "punkty": [
+        {
+          "t": "Odsuń kluczyk na wskazaną odległość (zwykle 5 m) tylko, gdy karta ratownicza na to pozwala; przy wątpliwościach zaniechaj.",
+          "zr": "SZP EV",
+          "str": 5
+        },
+        {
+          "t": "Bez rozpoznania kluczyka system bezkluczykowy może zamknąć drzwi, szyby lub dach.",
+          "zr": "SZP EV",
+          "str": 5
+        }
+      ]
+    }
+  ],
+  "nie_rob": [
+    {
+      "t": "Nie utożsamiaj pomarańczowych przewodów WN z pętlą do przecięcia (zwykle czerwona).",
+      "zr": "SZP EV",
+      "str": 7
+    },
+    {
+      "t": "Nie demontuj, nie przecinaj, nie zgniataj elementów WN i akumulatora, nie otwieraj obudowy.",
+      "zr": "SZP EV",
+      "str": 4
+    }
+  ],
+  "tagi_wspolne": [
+    "pojazd elektryczny",
+    "samochod elektryczny",
+    "ev",
+    "dezaktywacja"
+  ],
   "dokumenty_zrodlowe": [
     {
       "dokument_id": "doc-ev-szp-2023",
       "strona": 5,
-      "sekcja": "Dezaktywacja i zabezpieczenie samochodu"
+      "sekcja": "Dezaktywacja i zabezpieczenie samochodu (s. 5–8)"
     }
-  ]
+  ],
+  "data_przegladu": "2026-10-27"
 }

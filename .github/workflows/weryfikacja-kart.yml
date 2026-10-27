@@ -1,0 +1,29 @@
+name: Weryfikacja kart
+
+# Uruchamia się przy każdym Pull Requeście do main.
+# Wynik (✓ / ✗) i raport zmian widać w zakładce „Checks” Pull Requesta przed scaleniem.
+on:
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  weryfikacja:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Budowa bazy z walidacją (karty, hasła, dokumenty, spójność tematyczna)
+        run: node scripts/build-baza.mjs
+      - name: Baza w repozytorium zgodna z plikami kart
+        run: |
+          git diff --quiet -- procedury/baza.json || { echo "::error::procedury/baza.json nie odpowiada plikom kart – uruchom scripts/build-baza.mjs przed wysłaniem zmian."; git diff --stat -- procedury/baza.json; exit 1; }
+      - name: Spójność tematyczna, dane wbudowane i raport zmian
+        run: node scripts/weryfikacja-kart.mjs --porownaj origin/${{ github.base_ref || 'main' }}
