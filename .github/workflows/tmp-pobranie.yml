@@ -11,12 +11,11 @@ jobs:
       - uses: actions/checkout@v4
       - name: Pobierz
         run: |
-          mkdir -p tmp-wys && cd tmp-wys
+          mkdir -p tmp-wod && cd tmp-wod
           get(){ curl -sSL --retry 3 -A "Mozilla/5.0" -o "$1" "https://www.gov.pl/attachment/$2" && echo "$1 $(stat -c%s "$1") $(file -b "$1" | cut -c1-40)" >> log.txt; }
-          get wys-2024.pdf 4ab892ae-f760-4bfc-af6c-b118fa9843fd
-          curl -sSL -A "Mozilla/5.0" -o wod.html https://www.gov.pl/web/kgpsp/zasady-organizacji-rat-wodne
+          get wod-2026.pdf 3e623c2c-c0bb-44e5-8e18-4e50f373339b
           cat log.txt
       - name: Zapisz
         run: |
           git config user.name tmp && git config user.email tmp@users.noreply.github.com
-          git add tmp-wys && git commit -m "Tymczasowe: wys" && git push
+          git add tmp-wod && git commit -m "Tymczasowe: wod" && git push
