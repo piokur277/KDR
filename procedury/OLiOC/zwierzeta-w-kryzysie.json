@@ -1,0 +1,103 @@
+{
+  "id": "KARTA-OLIOC-ZWIERZETA-W-KRYZYSIE",
+  "wzorzec": 2,
+  "kategoria": "olioc",
+  "grupa": "olioc",
+  "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+  "data_aktualizacji": "2026-10-28",
+  "slowo_kluczowe": "olioc ewakuacja zwierząt",
+  "keywords": [
+    "zwierzęta podczas sytuacji kryzysowej",
+    "plecak dla psa kota ewakuacja",
+    "transport zwierząt podczas alarmu"
+  ],
+  "aliasy": [
+    "zwierzęta podczas sytuacji kryzysowej",
+    "plecak dla psa kota ewakuacja",
+    "transport zwierząt podczas alarmu"
+  ],
+  "prefix": "Zwierzęta domowe i gospodarskie w kryzysie i podczas ewakuacji.",
+  "najpierw": [
+    {
+      "t": "Zwierzęta gospodarskie przygotuj do transportu natychmiast po ogłoszeniu nakazu ewakuacji.",
+      "zr": "Poradnik 2025",
+      "str": 15
+    },
+    {
+      "t": "Ewakuacja niemożliwa — poinformuj służby o pozostawionych zwierzętach.",
+      "zr": "Poradnik 2025",
+      "str": 15
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "Zapas dla zwierząt domowych",
+      "wartosc": "karma, woda pitna i leki na kilka dni",
+      "zr": "Poradnik 2025",
+      "str": 14
+    },
+    {
+      "nazwa": "Zapas dla zwierząt gospodarskich",
+      "wartosc": "pasza i woda na 14 dni",
+      "zr": "Poradnik 2025",
+      "str": 15
+    }
+  ],
+  "sekcje": [
+    {
+      "etykieta": "Zwierzęta domowe",
+      "punkty": [
+        {
+          "t": "Dokumentacja zdrowotna, szczepienia i leki w jednym miejscu.",
+          "zr": "Poradnik 2025",
+          "str": 14
+        },
+        {
+          "t": "Kaganiec, obroża, szelki, smycz, transporter lub klatka; dane właściciela przy obroży.",
+          "zr": "Poradnik 2025",
+          "str": 14
+        },
+        {
+          "t": "Zaczipuj i zarejestruj zwierzę w ogólnodostępnej bazie.",
+          "zr": "Poradnik 2025",
+          "str": 14
+        }
+      ]
+    },
+    {
+      "etykieta": "Zwierzęta gospodarskie",
+      "punkty": [
+        {
+          "t": "Sprawdź budynki i ogrodzenia; zgromadź materiały do napraw; zbiorniki na deszczówkę.",
+          "zr": "Poradnik 2025",
+          "str": 15
+        },
+        {
+          "t": "Oznakuj zwierzęta (kolczyki); w sytuacji awaryjnej — znak farbą.",
+          "zr": "Poradnik 2025",
+          "str": 15
+        },
+        {
+          "t": "Za ewakuację odpowiada właściciel; koordynuje ją centrum zarządzania kryzysowego — szczegóły w urzędzie gminy.",
+          "zr": "Poradnik 2025",
+          "str": 15
+        }
+      ]
+    }
+  ],
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "zwierzęta",
+    "opieka nad zwierzętami"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+      "strona": 14,
+      "sekcja": "Zadbaj o zwierzęta (s. 14–15)"
+    }
+  ],
+  "data_przegladu": "2026-10-28"
+}

@@ -1377,140 +1377,102 @@
     ]
   },
   {
-    "id": "KARTA-OLIOC-SIERPIEŃ-03-EWAKUACJA_RODZINY",
-    "procedura": "OLiOC - sierpień: ewakuacja rodziny, transport i bezpieczeństwo dokumentów.",
-    "miesiac_akademii": "sierpień",
+    "id": "KARTA-OLIOC-EWAKUACJA-RODZINY-I-TRANSPORT",
+    "procedura": "Ewakuacja rodziny — dzieci, transport, kontakt z bliskimi.",
     "dokumenty_zrodlowe": [
       {
-        "dokument_id": "src-poradnik-ewakuacja",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Ewakuacja",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/ewakuacja",
-        "typ": "url"
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 25,
+        "sekcja": "Ewakuacja (s. 25), plan na kryzys (s. 47)",
+        "tytul": "Poradnik bezpieczeństwa",
+        "plik": "dokumenty/olioc/poradnik-bezpieczenstwa-2025.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
-    "id": "KARTA-OLIOC-SIERPIEŃ-04-EWAKUACJA_SZCZEGOLNE_POTRZEBY",
-    "procedura": "OLiOC - sierpień: ewakuacja dzieci, seniorów i osób z niepełnosprawnościami.",
-    "miesiac_akademii": "sierpień",
+    "id": "KARTA-OLIOC-EWAKUACJA-OSOB-ZE-SZCZEGOLNYMI-POTRZEBAMI",
+    "procedura": "Ewakuacja osób starszych, chorych, z niepełnosprawnościami i dzieci.",
     "dokumenty_zrodlowe": [
       {
-        "dokument_id": "src-poradnik-szczegolna-pomoc",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Osoby potrzebujące szczególnej pomocy",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/osoby-potrzebujace-szczegolnej-pomocy",
-        "typ": "url"
-      },
-      {
-        "dokument_id": "src-poradnik-ewakuacja",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Ewakuacja",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/ewakuacja",
-        "typ": "url"
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 12,
+        "sekcja": "Osoby potrzebujące szczególnej pomocy (s. 12–13), Dekalog (s. 52)",
+        "tytul": "Poradnik bezpieczeństwa",
+        "plik": "dokumenty/olioc/poradnik-bezpieczenstwa-2025.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
-    "id": "KARTA-OLIOC-SIERPIEŃ-01-PLECAK_EWAKUACYJNY",
-    "procedura": "OLiOC - sierpień: plecak ewakuacyjny dla każdego domownika.",
-    "miesiac_akademii": "sierpień",
+    "id": "KARTA-OLIOC-PLECAK-EWAKUACYJNY",
+    "procedura": "Plecak ewakuacyjny — co spakować.",
     "dokumenty_zrodlowe": [
       {
-        "dokument_id": "src-olioc-akademia",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Akademia OLiOC - program „jeden miesiąc - jeden temat”",
-        "plik": "https://www.gov.pl/web/olioc/akdemia-olioc",
-        "typ": "url"
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 26,
+        "sekcja": "Plecak ewakuacyjny (s. 26–27)",
+        "tytul": "Poradnik bezpieczeństwa",
+        "plik": "dokumenty/olioc/poradnik-bezpieczenstwa-2025.pdf",
+        "typ": "pdf"
       },
       {
-        "dokument_id": "src-poradnik-ewakuacja",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Ewakuacja",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/ewakuacja",
-        "typ": "url"
-      },
-      {
-        "dokument_id": "src-poradnik-plan",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Plan na kryzys",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/plan-na-kryzys",
-        "typ": "url"
+        "dokument_id": "doc-olioc-instrukcja-reagowania",
+        "strona": 11,
+        "sekcja": "Plecak ewakuacyjny na czas schronienia (s. 11–12)",
+        "tytul": "Instrukcja reagowania — zagrożenie atakiem z powietrza",
+        "plik": "dokumenty/olioc/instrukcja-reagowania-atak-z-powietrza.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
-    "id": "KARTA-OLIOC-SIERPIEŃ-02-PRZYGOTOWANIE_EWAKUACJI",
-    "procedura": "OLiOC - sierpień: przygotowanie do ewakuacji i decyzja o wyjściu.",
-    "miesiac_akademii": "sierpień",
+    "id": "KARTA-OLIOC-EWAKUACJA-KROK-PO-KROKU",
+    "procedura": "Ewakuacja — co zrobić przed wyjściem z domu.",
     "dokumenty_zrodlowe": [
       {
-        "dokument_id": "src-poradnik-ewakuacja",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Ewakuacja",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/ewakuacja",
-        "typ": "url"
-      },
-      {
-        "dokument_id": "src-poradnik-plan",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Plan na kryzys",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/plan-na-kryzys",
-        "typ": "url"
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 25,
+        "sekcja": "Ewakuacja (s. 25)",
+        "tytul": "Poradnik bezpieczeństwa",
+        "plik": "dokumenty/olioc/poradnik-bezpieczenstwa-2025.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
-    "id": "KARTA-OLIOC-SIERPIEŃ-06-SCHRONIENIA",
-    "procedura": "OLiOC - sierpień: schron, ukrycie i miejsce doraźnego schronienia.",
-    "miesiac_akademii": "sierpień",
+    "id": "KARTA-OLIOC-SCHRONIENIA",
+    "procedura": "Schronienia — gdzie je znaleźć i gdzie się ukryć, gdy schronu nie ma.",
     "dokumenty_zrodlowe": [
       {
-        "dokument_id": "src-poradnik-schronienia",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Schronienia",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/schronienia",
-        "typ": "url"
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 29,
+        "sekcja": "Schronienia (s. 29)",
+        "tytul": "Poradnik bezpieczeństwa",
+        "plik": "dokumenty/olioc/poradnik-bezpieczenstwa-2025.pdf",
+        "typ": "pdf"
       },
       {
-        "dokument_id": "src-poradnik-plan",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Plan na kryzys",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/plan-na-kryzys",
-        "typ": "url"
+        "dokument_id": "doc-olioc-instrukcja-reagowania",
+        "strona": 2,
+        "sekcja": "Przygotuj się, ograniczenie zagrożenia pożarowego (s. 2, 10)",
+        "tytul": "Instrukcja reagowania — zagrożenie atakiem z powietrza",
+        "plik": "dokumenty/olioc/instrukcja-reagowania-atak-z-powietrza.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
-    "id": "KARTA-OLIOC-SIERPIEŃ-05-ZWIERZETA_EWAKUACJA",
-    "procedura": "OLiOC - sierpień: zwierzęta domowe i gospodarskie podczas ewakuacji.",
-    "miesiac_akademii": "sierpień",
+    "id": "KARTA-OLIOC-ZWIERZETA-W-KRYZYSIE",
+    "procedura": "Zwierzęta domowe i gospodarskie w kryzysie i podczas ewakuacji.",
     "dokumenty_zrodlowe": [
       {
-        "dokument_id": "src-poradnik-zwierzeta",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Zadbaj o zwierzęta",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/zadbaj-o-zwierzeta",
-        "typ": "url"
-      },
-      {
-        "dokument_id": "src-poradnik-ewakuacja",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Ewakuacja",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/ewakuacja",
-        "typ": "url"
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 14,
+        "sekcja": "Zadbaj o zwierzęta (s. 14–15)",
+        "tytul": "Poradnik bezpieczeństwa",
+        "plik": "dokumenty/olioc/poradnik-bezpieczenstwa-2025.pdf",
+        "typ": "pdf"
       }
     ]
   },

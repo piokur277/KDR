@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-27T19:57:17.647Z",
+  "generated_at": "2026-10-28T07:37:03.141Z",
   "registry_version": "2.7",
-  "document_count": 88,
-  "active_document_count": 88,
-  "linked_document_count": 88,
+  "document_count": 87,
+  "active_document_count": 87,
+  "linked_document_count": 87,
   "unlinked_documents": [],
   "documents": [
     {
@@ -365,7 +365,7 @@
       "tytul": "Akademia OLiOC - program „jeden miesiąc - jeden temat”",
       "status_techniczny": "aktywny",
       "liczba_stron": 1,
-      "liczba_powiazan": 5,
+      "liczba_powiazan": 4,
       "powiazania": [
         {
           "procedure_id": "KARTA-OLIOC-GRUDZIEŃ-01-ZAPASY_72H",
@@ -379,11 +379,6 @@
         },
         {
           "procedure_id": "KARTA-OLIOC-PAŹDZIERNIK-01-DEZINFORMACJA",
-          "strona": 1,
-          "sekcja": "Oficjalne źródło internetowe"
-        },
-        {
-          "procedure_id": "KARTA-OLIOC-SIERPIEŃ-01-PLECAK_EWAKUACYJNY",
           "strona": 1,
           "sekcja": "Oficjalne źródło internetowe"
         },
@@ -413,15 +408,10 @@
       "tytul": "Poradnik bezpieczeństwa - Osoby potrzebujące szczególnej pomocy",
       "status_techniczny": "aktywny",
       "liczba_stron": 1,
-      "liczba_powiazan": 4,
+      "liczba_powiazan": 3,
       "powiazania": [
         {
           "procedure_id": "KARTA-OLIOC-GRUDZIEŃ-05-SZCZEGOLNE_POTRZEBY_ZAPASY",
-          "strona": 1,
-          "sekcja": "Oficjalne źródło internetowe"
-        },
-        {
-          "procedure_id": "KARTA-OLIOC-SIERPIEŃ-04-EWAKUACJA_SZCZEGOLNE_POTRZEBY",
           "strona": 1,
           "sekcja": "Oficjalne źródło internetowe"
         },
@@ -442,15 +432,10 @@
       "tytul": "Poradnik bezpieczeństwa - Zadbaj o zwierzęta",
       "status_techniczny": "aktywny",
       "liczba_stron": 1,
-      "liczba_powiazan": 2,
+      "liczba_powiazan": 1,
       "powiazania": [
         {
           "procedure_id": "KARTA-OLIOC-GRUDZIEŃ-05-SZCZEGOLNE_POTRZEBY_ZAPASY",
-          "strona": 1,
-          "sekcja": "Oficjalne źródło internetowe"
-        },
-        {
-          "procedure_id": "KARTA-OLIOC-SIERPIEŃ-05-ZWIERZETA_EWAKUACJA",
           "strona": 1,
           "sekcja": "Oficjalne źródło internetowe"
         }
@@ -514,49 +499,10 @@
       "tytul": "Poradnik bezpieczeństwa - Ewakuacja",
       "status_techniczny": "aktywny",
       "liczba_stron": 1,
-      "liczba_powiazan": 6,
-      "powiazania": [
-        {
-          "procedure_id": "KARTA-OLIOC-SIERPIEŃ-03-EWAKUACJA_RODZINY",
-          "strona": 1,
-          "sekcja": "Oficjalne źródło internetowe"
-        },
-        {
-          "procedure_id": "KARTA-OLIOC-SIERPIEŃ-04-EWAKUACJA_SZCZEGOLNE_POTRZEBY",
-          "strona": 1,
-          "sekcja": "Oficjalne źródło internetowe"
-        },
-        {
-          "procedure_id": "KARTA-OLIOC-SIERPIEŃ-01-PLECAK_EWAKUACYJNY",
-          "strona": 1,
-          "sekcja": "Oficjalne źródło internetowe"
-        },
-        {
-          "procedure_id": "KARTA-OLIOC-SIERPIEŃ-02-PRZYGOTOWANIE_EWAKUACJI",
-          "strona": 1,
-          "sekcja": "Oficjalne źródło internetowe"
-        },
-        {
-          "procedure_id": "KARTA-OLIOC-SIERPIEŃ-05-ZWIERZETA_EWAKUACJA",
-          "strona": 1,
-          "sekcja": "Oficjalne źródło internetowe"
-        },
-        {
-          "procedure_id": "KARTA-OLIOC-WRZESIEŃ-05-ODCIECIE_MEDIOW",
-          "strona": 1,
-          "sekcja": "Oficjalne źródło internetowe"
-        }
-      ]
-    },
-    {
-      "id": "src-poradnik-schronienia",
-      "tytul": "Poradnik bezpieczeństwa - Schronienia",
-      "status_techniczny": "aktywny",
-      "liczba_stron": 1,
       "liczba_powiazan": 1,
       "powiazania": [
         {
-          "procedure_id": "KARTA-OLIOC-SIERPIEŃ-06-SCHRONIENIA",
+          "procedure_id": "KARTA-OLIOC-WRZESIEŃ-05-ODCIECIE_MEDIOW",
           "strona": 1,
           "sekcja": "Oficjalne źródło internetowe"
         }
@@ -708,7 +654,7 @@
       "tytul": "Poradnik bezpieczeństwa - Plan na kryzys",
       "status_techniczny": "aktywny",
       "liczba_stron": 1,
-      "liczba_powiazan": 11,
+      "liczba_powiazan": 8,
       "powiazania": [
         {
           "procedure_id": "KARTA-OLIOC-GRUDZIEŃ-04-LEKI_HIGIENA",
@@ -737,21 +683,6 @@
         },
         {
           "procedure_id": "KARTA-OLIOC-LISTOPAD-05-BRAK_LACZNOSCI",
-          "strona": 1,
-          "sekcja": "Oficjalne źródło internetowe"
-        },
-        {
-          "procedure_id": "KARTA-OLIOC-SIERPIEŃ-01-PLECAK_EWAKUACYJNY",
-          "strona": 1,
-          "sekcja": "Oficjalne źródło internetowe"
-        },
-        {
-          "procedure_id": "KARTA-OLIOC-SIERPIEŃ-02-PRZYGOTOWANIE_EWAKUACJI",
-          "strona": 1,
-          "sekcja": "Oficjalne źródło internetowe"
-        },
-        {
-          "procedure_id": "KARTA-OLIOC-SIERPIEŃ-06-SCHRONIENIA",
           "strona": 1,
           "sekcja": "Oficjalne źródło internetowe"
         },
@@ -1607,12 +1538,27 @@
       "tytul": "Poradnik bezpieczeństwa",
       "status_techniczny": "aktywny",
       "liczba_stron": 54,
-      "liczba_powiazan": 8,
+      "liczba_powiazan": 14,
       "powiazania": [
         {
           "procedure_id": "KARTA-OLIOC-ALERTY-RCB-I-RSO",
           "strona": 53,
           "sekcja": "RSO (s. 53)"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-EWAKUACJA-KROK-PO-KROKU",
+          "strona": 25,
+          "sekcja": "Ewakuacja (s. 25)"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-EWAKUACJA-OSOB-ZE-SZCZEGOLNYMI-POTRZEBAMI",
+          "strona": 12,
+          "sekcja": "Osoby potrzebujące szczególnej pomocy (s. 12–13), Dekalog (s. 52)"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-EWAKUACJA-RODZINY-I-TRANSPORT",
+          "strona": 25,
+          "sekcja": "Ewakuacja (s. 25), plan na kryzys (s. 47)"
         },
         {
           "procedure_id": "KARTA-OLIOC-INSTYTUCJE-I-SLUZBY",
@@ -1630,6 +1576,11 @@
           "sekcja": "Zagrożenia cyfrowe — dezinformacja (s. 39), zapasy (s. 22), RSO (s. 53)"
         },
         {
+          "procedure_id": "KARTA-OLIOC-PLECAK-EWAKUACYJNY",
+          "strona": 26,
+          "sekcja": "Plecak ewakuacyjny (s. 26–27)"
+        },
+        {
           "procedure_id": "KARTA-OLIOC-POMOC-SASIEDZKA",
           "strona": 12,
           "sekcja": "Osoby potrzebujące szczególnej pomocy (s. 12–13), Twoja rola (s. 7)"
@@ -1645,9 +1596,19 @@
           "sekcja": "Twoja rola (s. 7), Dekalog bezpieczeństwa (s. 52)"
         },
         {
+          "procedure_id": "KARTA-OLIOC-SCHRONIENIA",
+          "strona": 29,
+          "sekcja": "Schronienia (s. 29)"
+        },
+        {
           "procedure_id": "KARTA-OLIOC-SYGNALY-ALARMOWE",
           "strona": 24,
           "sekcja": "Sygnały alarmowe i komunikaty ostrzegawcze (s. 24, 53)"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-ZWIERZETA-W-KRYZYSIE",
+          "strona": 14,
+          "sekcja": "Zadbaj o zwierzęta (s. 14–15)"
         }
       ]
     },
@@ -1656,7 +1617,7 @@
       "tytul": "Instrukcja reagowania — zagrożenie atakiem z powietrza",
       "status_techniczny": "aktywny",
       "liczba_stron": 12,
-      "liczba_powiazan": 3,
+      "liczba_powiazan": 5,
       "powiazania": [
         {
           "procedure_id": "KARTA-OLIOC-ALARM-ATAK-Z-POWIETRZA",
@@ -1667,6 +1628,16 @@
           "procedure_id": "KARTA-OLIOC-ALERTY-RCB-I-RSO",
           "strona": 2,
           "sekcja": "(s. 2, 4)"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-PLECAK-EWAKUACYJNY",
+          "strona": 11,
+          "sekcja": "Plecak ewakuacyjny na czas schronienia (s. 11–12)"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-SCHRONIENIA",
+          "strona": 2,
+          "sekcja": "Przygotuj się, ograniczenie zagrożenia pożarowego (s. 2, 10)"
         },
         {
           "procedure_id": "KARTA-OLIOC-SYGNALY-ALARMOWE",

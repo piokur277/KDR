@@ -1,0 +1,100 @@
+{
+  "id": "KARTA-OLIOC-PLECAK-EWAKUACYJNY",
+  "wzorzec": 2,
+  "kategoria": "olioc",
+  "grupa": "olioc",
+  "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025; Akademia OLiOC: Instrukcja reagowania — zagrożenie atakiem z powietrza.",
+  "data_aktualizacji": "2026-10-28",
+  "slowo_kluczowe": "olioc plecak ewakuacyjny",
+  "keywords": [
+    "co spakować do plecaka ratunkowego",
+    "wyposażenie plecaka ewakuacyjnego olioc",
+    "torba ewakuacyjna dla rodziny"
+  ],
+  "aliasy": [
+    "co spakować do plecaka ratunkowego",
+    "wyposażenie plecaka ewakuacyjnego olioc",
+    "torba ewakuacyjna dla rodziny"
+  ],
+  "prefix": "Plecak ewakuacyjny — co spakować.",
+  "najpierw": [
+    {
+      "t": "Plecak ewakuacyjny powinien mieć każdy domownik, nawet dzieci; dopasuj listę do swoich potrzeb.",
+      "zr": "Poradnik 2025",
+      "str": 26
+    },
+    {
+      "t": "Przygotuj go wcześniej — w zagrożeniu nie trać czasu na kompletowanie rzeczy.",
+      "zr": "Instr. reagowania",
+      "str": 11
+    }
+  ],
+  "parametry": [],
+  "sekcje": [
+    {
+      "etykieta": "Zawartość",
+      "punkty": [
+        {
+          "t": "Woda butelkowana, filtry lub tabletki do uzdatniania wody; żywność wysokoodżywcza gotowa do spożycia.",
+          "zr": "Poradnik 2025",
+          "str": 26
+        },
+        {
+          "t": "Dokumenty, kopie na pendrivie, gotówka w różnych nominałach.",
+          "zr": "Poradnik 2025",
+          "str": 26
+        },
+        {
+          "t": "Apteczka i leki osobiste, środki higieniczne i do dezynfekcji.",
+          "zr": "Poradnik 2025",
+          "str": 26
+        },
+        {
+          "t": "Latarka, radio na baterie lub korbkę, naładowany telefon, powerbank, ładowarka, kable, baterie.",
+          "zr": "Poradnik 2025",
+          "str": 26
+        },
+        {
+          "t": "Scyzoryk lub multitool, zapalniczka, worki na śmieci, mapy drukowane, alternatywna łączność (np. walkie-talkie).",
+          "zr": "Poradnik 2025",
+          "str": 27
+        },
+        {
+          "t": "Ubranie do pory roku, odzież przeciwdeszczowa, śpiwór, karimata, folia termiczna; ważna rzecz osobista.",
+          "zr": "Poradnik 2025",
+          "str": 27
+        }
+      ]
+    },
+    {
+      "etykieta": "Indywidualne potrzeby",
+      "punkty": [
+        {
+          "t": "Uwzględnij wiek, stan zdrowia, dzieci, osoby starsze, osoby ze szczególnymi potrzebami i zwierzęta — np. niezbędne leki, zatyczki do uszu dla dzieci.",
+          "zr": "Instr. reagowania",
+          "str": 12
+        }
+      ]
+    }
+  ],
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "plecak ratunkowy",
+    "ewakuacja"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+      "strona": 26,
+      "sekcja": "Plecak ewakuacyjny (s. 26–27)"
+    },
+    {
+      "dokument_id": "doc-olioc-instrukcja-reagowania",
+      "strona": 11,
+      "sekcja": "Plecak ewakuacyjny na czas schronienia (s. 11–12)"
+    }
+  ],
+  "data_przegladu": "2026-10-28"
+}
