@@ -1,0 +1,223 @@
+{
+  "id": "KARTA-CHEM-ADR-RID-TABLICA-POMARANCZOWA",
+  "wzorzec": 2,
+  "kategoria": "informacja",
+  "grupa": "cbrn",
+  "zrodlo": "ADR 2025 (Dz.U. 2025 poz. 642) — dział 5.3: oznakowanie tablicami barwy pomarańczowej i znaczenie numerów rozpoznawczych zagrożenia. RID 2025 (Dz.U. 2025 poz. 593) — 5.3.2.",
+  "data_aktualizacji": "2026-10-28",
+  "slowo_kluczowe": "tablica pomaranczowa adr rid",
+  "keywords": [
+    "tablica pomaranczowa",
+    "tablica adr",
+    "tablica rid",
+    "jak czytac tablice adr",
+    "numer rozpoznawczy zagrozenia",
+    "numer zagrozenia",
+    "litera x na tablicy",
+    "numer un na tablicy",
+    "oznakowanie cysterny",
+    "oznakowanie wagonu cysterny",
+    "przewoz towarow niebezpiecznych"
+  ],
+  "aliasy": [
+    "tablica pomaranczowa",
+    "tablica adr",
+    "tablica rid",
+    "jak czytac tablice adr",
+    "numer rozpoznawczy zagrozenia",
+    "numer zagrozenia",
+    "litera x na tablicy",
+    "numer un na tablicy",
+    "oznakowanie cysterny",
+    "oznakowanie wagonu cysterny",
+    "przewoz towarow niebezpiecznych"
+  ],
+  "prefix": "Tablica pomarańczowa ADR/RID — góra: numer rozpoznawczy zagrożenia, dół: numer UN; znaczenie cyfr, „X”, podwojenia i zera.",
+  "najpierw": [
+    {
+      "t": "Górna część tablicy: numer rozpoznawczy zagrożenia (2 lub 3 cyfry, w razie potrzeby poprzedzone literą „X”); dolna część: numer UN (4 cyfry).",
+      "zr": "ADR 5.3.2.2",
+      "str": 5
+    },
+    {
+      "t": "„X” przed numerem: materiał reaguje niebezpiecznie z wodą — wodę można stosować jedynie za zgodą specjalistów.",
+      "zr": "ADR 5.3.2.3.1",
+      "str": 6
+    },
+    {
+      "t": "Podwojona cyfra = nasilenie zagrożenia (np. 33, 66, 88); zero po cyfrze = zagrożenie określa w pełni jedna cyfra (np. 30, 60, 80).",
+      "zr": "ADR 5.3.2.3.1",
+      "str": 6
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "Tablica",
+      "wartosc": "pomarańczowa 40 × 30 cm, czarne obrzeże i linia środkowa 15 mm, cyfry czarne 100 mm",
+      "zr": "ADR 5.3.2.2",
+      "str": 5
+    },
+    {
+      "nazwa": "Klasa 1 (materiały wybuchowe)",
+      "wartosc": "zamiast numeru zagrożenia — kod klasyfikacyjny (numer podklasy + litera grupy zgodności)",
+      "zr": "ADR 5.3.2.3.1",
+      "str": 6
+    },
+    {
+      "nazwa": "Wykaz numerów",
+      "wartosc": "pełna lista znaczeń — karta „Numery rozpoznawcze zagrożenia ADR/RID”",
+      "zr": "ADR 5.3.2.3.2",
+      "str": 6
+    }
+  ],
+  "sekcje": [
+    {
+      "etykieta": "Znaczenie cyfr numeru zagrożenia",
+      "punkty": [
+        {
+          "t": "2 — emisja gazu spowodowana ciśnieniem lub reakcją chemiczną.",
+          "zr": "ADR 5.3.2.3.1",
+          "str": 6
+        },
+        {
+          "t": "3 — zapalność materiałów ciekłych (pary) i gazów lub samonagrzewanie się materiałów ciekłych.",
+          "zr": "ADR 5.3.2.3.1",
+          "str": 6
+        },
+        {
+          "t": "4 — zapalność materiałów stałych lub samonagrzewanie się materiałów stałych.",
+          "zr": "ADR 5.3.2.3.1",
+          "str": 6
+        },
+        {
+          "t": "5 — działanie utleniające (wzmagające palenie).",
+          "zr": "ADR 5.3.2.3.1",
+          "str": 6
+        },
+        {
+          "t": "6 — działanie trujące lub ryzyko zakażenia.",
+          "zr": "ADR 5.3.2.3.1",
+          "str": 6
+        },
+        {
+          "t": "7 — działanie promieniotwórcze.",
+          "zr": "ADR 5.3.2.3.1",
+          "str": 6
+        },
+        {
+          "t": "8 — działanie żrące.",
+          "zr": "ADR 5.3.2.3.1",
+          "str": 6
+        },
+        {
+          "t": "9 — ryzyko samorzutnej i gwałtownej reakcji: możliwość wybuchu, rozkładu lub polimeryzacji z wydzieleniem znacznej ilości ciepła, gazów palnych i/lub trujących.",
+          "zr": "ADR 5.3.2.3.1",
+          "str": 6
+        },
+        {
+          "t": "Zestawienia o znaczeniu specjalnym (czytaj z wykazu, nie cyfra po cyfrze): 22, 323, 333, 362, 382, 423, 44, 446, 462, 482, 539, 606, 623, 642, 823, 842, 90 i 99.",
+          "zr": "ADR 5.3.2.3.1",
+          "str": 6
+        }
+      ]
+    },
+    {
+      "etykieta": "Gdzie są tablice — transport drogowy (ADR)",
+      "punkty": [
+        {
+          "t": "Dwie tablice: z przodu i z tyłu jednostki transportowej; przy odłączonej przyczepie tablica zostaje z tyłu przyczepy.",
+          "zr": "ADR 5.3.2.1.1",
+          "str": 3
+        },
+        {
+          "t": "Cysterny: dodatkowo tablice z numerem zagrożenia i numerem UN na bokach każdej cysterny, komory cysterny lub elementu pojazdu-baterii.",
+          "zr": "ADR 5.3.2.1.2",
+          "str": 4
+        },
+        {
+          "t": "Jeden towar niebezpieczny: numer zagrożenia i numer UN mogą być tylko na tablicach z przodu i z tyłu.",
+          "zr": "ADR 5.3.2.1.6",
+          "str": 4
+        },
+        {
+          "t": "Paliwa (UN 1202, 1203, 1223, 3475, paliwo lotnicze UN 1268 lub 1863): tablice przód/tył mogą podawać numery najniebezpieczniejszego materiału — o najniższej temperaturze zapłonu.",
+          "zr": "ADR 5.3.2.1.3",
+          "str": 4
+        },
+        {
+          "t": "Próżne, nieoczyszczone i nieodgazowane cysterny oraz pojazdy do przewozu luzem są oznakowane jak pełne.",
+          "zr": "ADR 5.3.2.1.7",
+          "str": 4
+        },
+        {
+          "t": "Tablice niedotyczące przewożonych towarów powinny być zdjęte lub zakryte.",
+          "zr": "ADR 5.3.2.1.8",
+          "str": 4
+        }
+      ]
+    },
+    {
+      "etykieta": "Transport kolejowy (RID)",
+      "punkty": [
+        {
+          "t": "Tablice pomarańczowe na każdym boku wagonu-cysterny, wagonu-baterii, wagonu z cysternami odejmowalnymi, kontenera-cysterny, MEGC, cysterny przenośnej i wagonu do przewozu luzem.",
+          "zr": "RID 5.3.2.1.1",
+          "str": 1
+        },
+        {
+          "t": "Na tablicy numer zagrożenia (góra) i numer UN (dół) — układ i wymiary jak w ADR.",
+          "zr": "RID 5.3.2.2",
+          "str": 2
+        },
+        {
+          "t": "Znaczenie cyfr jak w ADR; RID stosuje numer zagrożenia dla klas 2–9, a dla klasy 1 kod klasyfikacyjny.",
+          "zr": "RID 5.3.2.3.1",
+          "str": 3
+        }
+      ]
+    },
+    {
+      "etykieta": "Inne znaki na pojeździe",
+      "punkty": [
+        {
+          "t": "Czerwony trójkąt równoboczny: materiał przewożony w podwyższonej temperaturze — ciecz ≥ 100 °C lub ciało stałe ≥ 240 °C.",
+          "zr": "ADR 5.3.3",
+          "str": 9
+        },
+        {
+          "t": "Znak materiału zagrażającego środowisku — umieszczany obok dużych nalepek ostrzegawczych.",
+          "zr": "ADR 5.3.6",
+          "str": 10
+        }
+      ]
+    }
+  ],
+  "nie_rob": [
+    {
+      "t": "Nie podawaj wody na materiał oznaczony literą „X” bez zgody specjalistów.",
+      "zr": "ADR 5.3.2.3.1",
+      "str": 6
+    }
+  ],
+  "tagi_wspolne": [
+    "cbrne",
+    "ratownictwo chemiczne",
+    "towary niebezpieczne",
+    "ADR",
+    "RID"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-adr-2025-oznakowanie",
+      "strona": 3,
+      "sekcja": "ADR 5.3.2 — tablice barwy pomarańczowej (wyciąg s. 3–10 = Dz.U. s. 953–960)"
+    },
+    {
+      "dokument_id": "doc-rid-2025-oznakowanie",
+      "strona": 1,
+      "sekcja": "RID 5.3.2 — tablice pomarańczowe (wyciąg s. 1–3 = Dz.U. s. 892–894)"
+    }
+  ],
+  "data_przegladu": "2026-10-28",
+  "content": "1. NAJPIERW: Górna część tablicy: numer rozpoznawczy zagrożenia (2 lub 3 cyfry, w razie potrzeby poprzedzone literą „X”); dolna część: numer UN (4 cyfry). „X” przed numerem: materiał reaguje niebezpiecznie z wodą — wodę można stosować jedynie za zgodą specjalistów. Podwojona cyfra = nasilenie zagrożenia (np. 33, 66, 88); zero po cyfrze = zagrożenie określa w pełni jedna cyfra (np. 30, 60, 80).\n2. PARAMETRY: Tablica — pomarańczowa 40 × 30 cm, czarne obrzeże i linia środkowa 15 mm, cyfry czarne 100 mm; Klasa 1 (materiały wybuchowe) — zamiast numeru zagrożenia — kod klasyfikacyjny (numer podklasy + litera grupy zgodności); Wykaz numerów — pełna lista znaczeń — karta „Numery rozpoznawcze zagrożenia ADR/RID”\n3. ZNACZENIE CYFR NUMERU ZAGROŻENIA: 2 — emisja gazu spowodowana ciśnieniem lub reakcją chemiczną. 3 — zapalność materiałów ciekłych (pary) i gazów lub samonagrzewanie się materiałów ciekłych. 4 — zapalność materiałów stałych lub samonagrzewanie się materiałów stałych. 5 — działanie utleniające (wzmagające palenie). 6 — działanie trujące lub ryzyko zakażenia. 7 — działanie promieniotwórcze. 8 — działanie żrące. 9 — ryzyko samorzutnej i gwałtownej reakcji: możliwość wybuchu, rozkładu lub polimeryzacji z wydzieleniem znacznej ilości ciepła, gazów palnych i/lub trujących. Zestawienia o znaczeniu specjalnym (czytaj z wykazu, nie cyfra po cyfrze): 22, 323, 333, 362, 382, 423, 44, 446, 462, 482, 539, 606, 623, 642, 823, 842, 90 i 99.\n4. GDZIE SĄ TABLICE — TRANSPORT DROGOWY (ADR): Dwie tablice: z przodu i z tyłu jednostki transportowej; przy odłączonej przyczepie tablica zostaje z tyłu przyczepy. Cysterny: dodatkowo tablice z numerem zagrożenia i numerem UN na bokach każdej cysterny, komory cysterny lub elementu pojazdu-baterii. Jeden towar niebezpieczny: numer zagrożenia i numer UN mogą być tylko na tablicach z przodu i z tyłu. Paliwa (UN 1202, 1203, 1223, 3475, paliwo lotnicze UN 1268 lub 1863): tablice przód/tył mogą podawać numery najniebezpieczniejszego materiału — o najniższej temperaturze zapłonu. Próżne, nieoczyszczone i nieodgazowane cysterny oraz pojazdy do przewozu luzem są oznakowane jak pełne. Tablice niedotyczące przewożonych towarów powinny być zdjęte lub zakryte.\n5. TRANSPORT KOLEJOWY (RID): Tablice pomarańczowe na każdym boku wagonu-cysterny, wagonu-baterii, wagonu z cysternami odejmowalnymi, kontenera-cysterny, MEGC, cysterny przenośnej i wagonu do przewozu luzem. Na tablicy numer zagrożenia (góra) i numer UN (dół) — układ i wymiary jak w ADR. Znaczenie cyfr jak w ADR; RID stosuje numer zagrożenia dla klas 2–9, a dla klasy 1 kod klasyfikacyjny.\n6. INNE ZNAKI NA POJEŹDZIE: Czerwony trójkąt równoboczny: materiał przewożony w podwyższonej temperaturze — ciecz ≥ 100 °C lub ciało stałe ≥ 240 °C. Znak materiału zagrażającego środowisku — umieszczany obok dużych nalepek ostrzegawczych.\n7. NIE RÓB: Nie podawaj wody na materiał oznaczony literą „X” bez zgody specjalistów."
+}

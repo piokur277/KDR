@@ -939,6 +939,32 @@
       "liczba_stron": 1,
       "sha256": "ad813b1bb8c28243fe530385e8ad980d4790bb9b8e863682fe35af11c4372499",
       "uwagi": "Pobrano ze strony GIS (19.03.2026), https://www.gov.pl/attachment/39db4a4b-e8fd-4875-939c-d5a6b6bf0afe."
+    },
+    "doc-adr-2025-oznakowanie": {
+      "id": "doc-adr-2025-oznakowanie",
+      "tytul": "ADR — Umowa dotycząca międzynarodowego przewozu drogowego towarów niebezpiecznych, załączniki A i B (tekst polski) — wyciąg: dział 5.3 (oznakowanie, tablice barwy pomarańczowej, numery rozpoznawcze zagrożenia) i 5.4.3 (instrukcje pisemne)",
+      "wersja": "ADR 2025 — Dz.U. 2025 poz. 642 (oświadczenie rządowe z 6.03.2025), wyciąg ze stron 951–960 i 974–978",
+      "data_wydania": "2025-03-06",
+      "rodzaj": "Oświadczenie rządowe (Dz.U.) — wyciąg",
+      "plik": "dokumenty/transport-tn/adr-2025-dz-u-2025-poz-642-wyciag-5-3-5-4-3.pdf",
+      "status_techniczny": "aktywny",
+      "aktualnosc_merytoryczna": "zweryfikowano_2026-10-28",
+      "liczba_stron": 15,
+      "sha256": "472ab9bacd5239a26bc263c80e7fb267e7eacd01dd72272958f91eaf21393bb6",
+      "uwagi": "Wyciąg stron z pliku D20250642-20.pdf pobranego z ELI (https://eli.gov.pl/api/acts/DU/2025/642/text/I/D20250642-20.pdf). Strony wyciągu: 1–10 = Dz.U. s. 951–960 (5.3.1.7–5.3.6), 11–15 = Dz.U. s. 974–978 (5.4.3). Przepisy ADR zmieniają się co 2 lata — sprawdzić przy wydaniu ADR 2027."
+    },
+    "doc-rid-2025-oznakowanie": {
+      "id": "doc-rid-2025-oznakowanie",
+      "tytul": "RID — Regulamin międzynarodowego przewozu kolejami towarów niebezpiecznych (załącznik C do COTIF), tekst polski — wyciąg: 5.3.1.7–5.3.4 (tablice pomarańczowe, numery zagrożenia)",
+      "wersja": "RID 2025 — Dz.U. 2025 poz. 593 (oświadczenie rządowe z 5.03.2025), wyciąg ze stron 892–897",
+      "data_wydania": "2025-03-05",
+      "rodzaj": "Oświadczenie rządowe (Dz.U.) — wyciąg",
+      "plik": "dokumenty/transport-tn/rid-2025-dz-u-2025-poz-593-wyciag-5-3.pdf",
+      "status_techniczny": "aktywny",
+      "aktualnosc_merytoryczna": "zweryfikowano_2026-10-28",
+      "liczba_stron": 6,
+      "sha256": "66e64b7859aceb58ecfff8d028f3c2c68665da65b78feeb5bcd75225cdfee6f2",
+      "uwagi": "Wyciąg stron z pliku D20250593-05.pdf pobranego z ELI (https://eli.gov.pl/api/acts/DU/2025/593/text/I/D20250593-05.pdf). Strony wyciągu 1–6 = Dz.U. s. 892–897 (RID 5-24 do 5-29). Przepisy RID zmieniają się co 2 lata — sprawdzić przy wydaniu RID 2027."
     }
   }
 }

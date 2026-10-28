@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-28T08:08:48.810Z",
+  "generated_at": "2026-10-28T15:18:16.190Z",
   "registry_version": "2.7",
-  "document_count": 73,
-  "active_document_count": 73,
-  "linked_document_count": 73,
+  "document_count": 75,
+  "active_document_count": 75,
+  "linked_document_count": 75,
   "unlinked_documents": [],
   "documents": [
     {
@@ -1445,6 +1445,49 @@
           "procedure_id": "KARTA-OLIOC-ZYWNOSC-BEZ-PRADU",
           "strona": 1,
           "sekcja": "Infografika EFSA/GIS (s. 1)"
+        }
+      ]
+    },
+    {
+      "id": "doc-adr-2025-oznakowanie",
+      "tytul": "ADR — Umowa dotycząca międzynarodowego przewozu drogowego towarów niebezpiecznych, załączniki A i B (tekst polski) — wyciąg: dział 5.3 (oznakowanie, tablice barwy pomarańczowej, numery rozpoznawcze zagrożenia) i 5.4.3 (instrukcje pisemne)",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 15,
+      "liczba_powiazan": 3,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-CHEM-ADR-NALEPKI-OSTRZEGAWCZE",
+          "strona": 11,
+          "sekcja": "ADR 5.4.3 — instrukcje pisemne (wyciąg s. 11–15 = Dz.U. s. 974–978)"
+        },
+        {
+          "procedure_id": "KARTA-CHEM-ADR-RID-NUMERY-ZAGROZENIA",
+          "strona": 6,
+          "sekcja": "ADR 5.3.2.3 — znaczenie numerów rozpoznawczych zagrożenia (wyciąg s. 6–9 = Dz.U. s. 956–959)"
+        },
+        {
+          "procedure_id": "KARTA-CHEM-ADR-RID-TABLICA-POMARANCZOWA",
+          "strona": 3,
+          "sekcja": "ADR 5.3.2 — tablice barwy pomarańczowej (wyciąg s. 3–10 = Dz.U. s. 953–960)"
+        }
+      ]
+    },
+    {
+      "id": "doc-rid-2025-oznakowanie",
+      "tytul": "RID — Regulamin międzynarodowego przewozu kolejami towarów niebezpiecznych (załącznik C do COTIF), tekst polski — wyciąg: 5.3.1.7–5.3.4 (tablice pomarańczowe, numery zagrożenia)",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 6,
+      "liczba_powiazan": 2,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-CHEM-ADR-RID-NUMERY-ZAGROZENIA",
+          "strona": 3,
+          "sekcja": "RID 5.3.2.3 — znaczenie numerów zagrożenia (wyciąg s. 3–5 = Dz.U. s. 894–896)"
+        },
+        {
+          "procedure_id": "KARTA-CHEM-ADR-RID-TABLICA-POMARANCZOWA",
+          "strona": 1,
+          "sekcja": "RID 5.3.2 — tablice pomarańczowe (wyciąg s. 1–3 = Dz.U. s. 892–894)"
         }
       ]
     }

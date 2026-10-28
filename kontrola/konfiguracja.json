@@ -157,6 +157,22 @@
       "dotyczy_kart": [
         "KARTA-OLIOC-"
       ]
+    },
+    {
+      "id": "eli-adr-2025",
+      "url": "https://eli.gov.pl/eli/DU/2025/642/ogl",
+      "opis": "ELI — ADR 2025 (Dz.U. 2025 poz. 642): zmiany, tekst jednolity",
+      "dotyczy_kart": [
+        "KARTA-CHEM-ADR-"
+      ]
+    },
+    {
+      "id": "eli-rid-2025",
+      "url": "https://eli.gov.pl/eli/DU/2025/593/ogl",
+      "opis": "ELI — RID 2025 (Dz.U. 2025 poz. 593): zmiany, tekst jednolity",
+      "dotyczy_kart": [
+        "KARTA-CHEM-ADR-"
+      ]
     }
   ],
   "pliki_oficjalne": {
