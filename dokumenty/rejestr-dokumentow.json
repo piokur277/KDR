@@ -303,19 +303,6 @@
       "liczba_stron": 1,
       "uwagi": "Oficjalne źródło internetowe. Wymaga okresowej kontroli aktualności adresu i treści."
     },
-    "src-gis-zywnosc-blackout-2026": {
-      "tytul": "GIS - Bezpieczeństwo żywności podczas przerwy w dostawie prądu",
-      "wersja": "Źródło internetowe, zweryfikowane 2026-07-17",
-      "data_wydania": "2026-03-19",
-      "rodzaj": "Oficjalny materiał Głównego Inspektoratu Sanitarnego",
-      "plik": "https://www.gov.pl/web/gis/przerwa-w-dostawie-pradu-pamietaj-o-bezpieczenstwie-zywnosci",
-      "typ": "url",
-      "id": "src-gis-zywnosc-blackout-2026",
-      "status_techniczny": "aktywny",
-      "aktualnosc_merytoryczna": "zweryfikowano_2026-07-17",
-      "liczba_stron": 1,
-      "uwagi": "Oficjalne źródło internetowe. Wymaga okresowej kontroli aktualności adresu i treści."
-    },
     "src-psp-agregat-na-zewnatrz": {
       "tytul": "PSP - bezpieczeństwo podczas korzystania z agregatu prądotwórczego",
       "wersja": "Źródło internetowe, zweryfikowane 2026-07-17",
@@ -1030,6 +1017,19 @@
       "liczba_stron": 1,
       "sha256": "2149a1e7225c58118328cb35f1116c182a8bdd2526219950252a2168ea93ce96",
       "uwagi": "Pobrano ze strony Akademii OLiOC, https://www.gov.pl/attachment/9bb63c3d-bc74-4fa0-b90b-2aeff45a2b6f."
+    },
+    "doc-efsa-zywnosc-blackout-2026": {
+      "id": "doc-efsa-zywnosc-blackout-2026",
+      "tytul": "Wskazówki dotyczące bezpieczeństwa żywności podczas przerwy w dostawie prądu (EFSA, wersja PL)",
+      "wersja": "2026-03-18 v2",
+      "data_wydania": "2026-03",
+      "rodzaj": "Infografika EFSA udostępniona przez GIS",
+      "plik": "dokumenty/olioc/efsa-bezpieczenstwo-zywnosci-przerwa-pradu-2026.pdf",
+      "status_techniczny": "aktywny",
+      "aktualnosc_merytoryczna": "zweryfikowano_2026-10-28",
+      "liczba_stron": 1,
+      "sha256": "ad813b1bb8c28243fe530385e8ad980d4790bb9b8e863682fe35af11c4372499",
+      "uwagi": "Pobrano ze strony GIS (19.03.2026), https://www.gov.pl/attachment/39db4a4b-e8fd-4875-939c-d5a6b6bf0afe."
     }
   }
 }

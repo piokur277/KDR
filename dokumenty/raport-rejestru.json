@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T07:58:57.880Z",
+  "generated_at": "2026-10-28T08:05:28.686Z",
   "registry_version": "2.7",
   "document_count": 80,
   "active_document_count": 80,
@@ -365,15 +365,10 @@
       "tytul": "Akademia OLiOC - program „jeden miesiąc - jeden temat”",
       "status_techniczny": "aktywny",
       "liczba_stron": 1,
-      "liczba_powiazan": 2,
+      "liczba_powiazan": 1,
       "powiazania": [
         {
           "procedure_id": "KARTA-OLIOC-GRUDZIEŃ-01-ZAPASY_72H",
-          "strona": 1,
-          "sekcja": "Oficjalne źródło internetowe"
-        },
-        {
-          "procedure_id": "KARTA-OLIOC-LISTOPAD-01-BLACKOUT_PIERWSZE_DZIALANIA",
           "strona": 1,
           "sekcja": "Oficjalne źródło internetowe"
         }
@@ -426,7 +421,7 @@
       "tytul": "Poradnik bezpieczeństwa - Długotrwały brak prądu (blackout)",
       "status_techniczny": "aktywny",
       "liczba_stron": 1,
-      "liczba_powiazan": 11,
+      "liczba_powiazan": 4,
       "powiazania": [
         {
           "procedure_id": "KARTA-OLIOC-GRUDZIEŃ-06-ROTACJA_ZAPASOW",
@@ -445,41 +440,6 @@
         },
         {
           "procedure_id": "KARTA-OLIOC-GRUDZIEŃ-01-ZAPASY_72H",
-          "strona": 1,
-          "sekcja": "Oficjalne źródło internetowe"
-        },
-        {
-          "procedure_id": "KARTA-OLIOC-LISTOPAD-07-AGREGAT",
-          "strona": 1,
-          "sekcja": "Oficjalne źródło internetowe"
-        },
-        {
-          "procedure_id": "KARTA-OLIOC-LISTOPAD-01-BLACKOUT_PIERWSZE_DZIALANIA",
-          "strona": 1,
-          "sekcja": "Oficjalne źródło internetowe"
-        },
-        {
-          "procedure_id": "KARTA-OLIOC-LISTOPAD-05-BRAK_LACZNOSCI",
-          "strona": 1,
-          "sekcja": "Oficjalne źródło internetowe"
-        },
-        {
-          "procedure_id": "KARTA-OLIOC-LISTOPAD-03-BRAK_OGRZEWANIA_CZAD",
-          "strona": 1,
-          "sekcja": "Oficjalne źródło internetowe"
-        },
-        {
-          "procedure_id": "KARTA-OLIOC-LISTOPAD-04-BRAK_WODY",
-          "strona": 1,
-          "sekcja": "Oficjalne źródło internetowe"
-        },
-        {
-          "procedure_id": "KARTA-OLIOC-LISTOPAD-02-SWIATLO_ENERGIA",
-          "strona": 1,
-          "sekcja": "Oficjalne źródło internetowe"
-        },
-        {
-          "procedure_id": "KARTA-OLIOC-LISTOPAD-06-ZYWNOSC_BEZ_PRADU",
           "strona": 1,
           "sekcja": "Oficjalne źródło internetowe"
         }
@@ -490,15 +450,10 @@
       "tytul": "Poradnik bezpieczeństwa - Higiena w kryzysie",
       "status_techniczny": "aktywny",
       "liczba_stron": 1,
-      "liczba_powiazan": 2,
+      "liczba_powiazan": 1,
       "powiazania": [
         {
           "procedure_id": "KARTA-OLIOC-GRUDZIEŃ-04-LEKI_HIGIENA",
-          "strona": 1,
-          "sekcja": "Oficjalne źródło internetowe"
-        },
-        {
-          "procedure_id": "KARTA-OLIOC-LISTOPAD-04-BRAK_WODY",
           "strona": 1,
           "sekcja": "Oficjalne źródło internetowe"
         }
@@ -509,7 +464,7 @@
       "tytul": "Poradnik bezpieczeństwa - Plan na kryzys",
       "status_techniczny": "aktywny",
       "liczba_stron": 1,
-      "liczba_powiazan": 6,
+      "liczba_powiazan": 5,
       "powiazania": [
         {
           "procedure_id": "KARTA-OLIOC-GRUDZIEŃ-04-LEKI_HIGIENA",
@@ -535,11 +490,6 @@
           "procedure_id": "KARTA-OLIOC-GRUDZIEŃ-01-ZAPASY_72H",
           "strona": 1,
           "sekcja": "Oficjalne źródło internetowe"
-        },
-        {
-          "procedure_id": "KARTA-OLIOC-LISTOPAD-05-BRAK_LACZNOSCI",
-          "strona": 1,
-          "sekcja": "Oficjalne źródło internetowe"
         }
       ]
     },
@@ -548,31 +498,22 @@
       "tytul": "KG PSP - Obowiązek instalowania autonomicznych czujek dymu i czadu",
       "status_techniczny": "aktywny",
       "liczba_stron": 1,
-      "liczba_powiazan": 2,
+      "liczba_powiazan": 3,
       "powiazania": [
+        {
+          "procedure_id": "KARTA-OLIOC-AGREGAT-PRADOTWORCZY",
+          "strona": 1,
+          "sekcja": "Czujki (KG PSP)"
+        },
         {
           "procedure_id": "KARTA-OLIOC-CZUJKI-DYMU-I-CZADU",
           "strona": 1,
           "sekcja": "Obowiązek instalowania czujek (KG PSP, 30.06.2026)"
         },
         {
-          "procedure_id": "KARTA-OLIOC-LISTOPAD-03-BRAK_OGRZEWANIA_CZAD",
+          "procedure_id": "KARTA-OLIOC-OGRZEWANIE-BEZ-PRADU-I-CZAD",
           "strona": 1,
-          "sekcja": "Oficjalne źródło internetowe"
-        }
-      ]
-    },
-    {
-      "id": "src-gis-zywnosc-blackout-2026",
-      "tytul": "GIS - Bezpieczeństwo żywności podczas przerwy w dostawie prądu",
-      "status_techniczny": "aktywny",
-      "liczba_stron": 1,
-      "liczba_powiazan": 1,
-      "powiazania": [
-        {
-          "procedure_id": "KARTA-OLIOC-LISTOPAD-06-ZYWNOSC_BEZ_PRADU",
-          "strona": 1,
-          "sekcja": "Oficjalne źródło internetowe"
+          "sekcja": "Czujki dymu i czadu (KG PSP)"
         }
       ]
     },
@@ -584,9 +525,9 @@
       "liczba_powiazan": 1,
       "powiazania": [
         {
-          "procedure_id": "KARTA-OLIOC-LISTOPAD-07-AGREGAT",
+          "procedure_id": "KARTA-OLIOC-AGREGAT-PRADOTWORCZY",
           "strona": 1,
-          "sekcja": "Oficjalne źródło internetowe"
+          "sekcja": "Komunikat KP PSP Giżycko"
         }
       ]
     },
@@ -1350,8 +1291,13 @@
       "tytul": "Poradnik bezpieczeństwa",
       "status_techniczny": "aktywny",
       "liczba_stron": 54,
-      "liczba_powiazan": 27,
+      "liczba_powiazan": 34,
       "powiazania": [
+        {
+          "procedure_id": "KARTA-OLIOC-AGREGAT-PRADOTWORCZY",
+          "strona": 33,
+          "sekcja": "Blackout (s. 33)"
+        },
         {
           "procedure_id": "KARTA-OLIOC-ALERTY-RCB-I-RSO",
           "strona": 53,
@@ -1366,6 +1312,11 @@
           "procedure_id": "KARTA-OLIOC-BEZPIECZNY-TELEFON-I-KONTA",
           "strona": 39,
           "sekcja": "Zagrożenia cyfrowe (s. 39–40)"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-BLACKOUT-PIERWSZE-DZIALANIA",
+          "strona": 33,
+          "sekcja": "Długotrwały brak prądu (s. 33)"
         },
         {
           "procedure_id": "KARTA-OLIOC-CZUJKI-DYMU-I-CZADU",
@@ -1408,6 +1359,11 @@
           "sekcja": "Cyberprzestępczość (s. 40), plecak (s. 26), zdrowie (s. 11)"
         },
         {
+          "procedure_id": "KARTA-OLIOC-LACZNOSC-BEZ-PRADU",
+          "strona": 33,
+          "sekcja": "Blackout (s. 33), plan (s. 47), otoczenie (s. 16), plecak (s. 26)"
+        },
+        {
           "procedure_id": "KARTA-OLIOC-MIEJSCE-SPOTKANIA-I-KONTAKT",
           "strona": 47,
           "sekcja": "Plan na kryzys (s. 47–49), ewakuacja (s. 25–26), Dekalog (s. 52)"
@@ -1426,6 +1382,11 @@
           "procedure_id": "KARTA-OLIOC-OFICJALNE-ZRODLA-INFORMACJI",
           "strona": 39,
           "sekcja": "Zagrożenia cyfrowe — dezinformacja (s. 39), zapasy (s. 22), RSO (s. 53)"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-OGRZEWANIE-BEZ-PRADU-I-CZAD",
+          "strona": 33,
+          "sekcja": "Blackout (s. 33), zapasy (s. 22)"
         },
         {
           "procedure_id": "KARTA-OLIOC-PHISHING-I-OSZUSTWA",
@@ -1473,6 +1434,11 @@
           "sekcja": "Schronienia (s. 29)"
         },
         {
+          "procedure_id": "KARTA-OLIOC-SWIATLO-I-ZASILANIE-AWARYJNE",
+          "strona": 33,
+          "sekcja": "Blackout (s. 33), zapasy (s. 22)"
+        },
+        {
           "procedure_id": "KARTA-OLIOC-SYGNALY-ALARMOWE",
           "strona": 24,
           "sekcja": "Sygnały alarmowe i komunikaty ostrzegawcze (s. 24, 53)"
@@ -1483,9 +1449,19 @@
           "sekcja": "Zagrożenia cyfrowe (s. 39), sygnały i komunikaty (s. 24–25, 53), Dekalog (s. 52)"
         },
         {
+          "procedure_id": "KARTA-OLIOC-WODA-I-HIGIENA-BEZ-PRADU",
+          "strona": 45,
+          "sekcja": "Higiena w kryzysie (s. 45), zapasy (s. 21), plecak (s. 26)"
+        },
+        {
           "procedure_id": "KARTA-OLIOC-ZWIERZETA-W-KRYZYSIE",
           "strona": 14,
           "sekcja": "Zadbaj o zwierzęta (s. 14–15)"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-ZYWNOSC-BEZ-PRADU",
+          "strona": 33,
+          "sekcja": "Blackout (s. 33)"
         }
       ]
     },
@@ -1548,6 +1524,20 @@
           "procedure_id": "KARTA-OLIOC-ALARM-ATAK-Z-POWIETRZA",
           "strona": 1,
           "sekcja": "Słyszysz alarm? (s. 1)"
+        }
+      ]
+    },
+    {
+      "id": "doc-efsa-zywnosc-blackout-2026",
+      "tytul": "Wskazówki dotyczące bezpieczeństwa żywności podczas przerwy w dostawie prądu (EFSA, wersja PL)",
+      "status_techniczny": "aktywny",
+      "liczba_stron": 1,
+      "liczba_powiazan": 1,
+      "powiazania": [
+        {
+          "procedure_id": "KARTA-OLIOC-ZYWNOSC-BEZ-PRADU",
+          "strona": 1,
+          "sekcja": "Infografika EFSA/GIS (s. 1)"
         }
       ]
     }

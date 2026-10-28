@@ -1,0 +1,125 @@
+{
+  "id": "KARTA-OLIOC-ZYWNOSC-BEZ-PRADU",
+  "wzorzec": 2,
+  "kategoria": "olioc",
+  "grupa": "olioc",
+  "zrodlo": "EFSA/GIS: Wskazówki dotyczące bezpieczeństwa żywności podczas przerwy w dostawie prądu (2026); MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+  "data_aktualizacji": "2026-10-28",
+  "slowo_kluczowe": "olioc żywność podczas braku prądu",
+  "keywords": [
+    "lodówka zamrażarka podczas blackoutu",
+    "czy jedzenie jest bezpieczne po awarii prądu",
+    "nie otwieraj lodówki brak prądu"
+  ],
+  "aliasy": [
+    "lodówka zamrażarka podczas blackoutu",
+    "czy jedzenie jest bezpieczne po awarii prądu",
+    "nie otwieraj lodówki brak prądu"
+  ],
+  "prefix": "Żywność podczas przerwy w dostawie prądu — lodówka, zamrażarka, co wyrzucić.",
+  "najpierw": [
+    {
+      "t": "Zapisz godzinę rozpoczęcia przerwy; drzwi lodówki i zamrażarki otwieraj tylko, gdy to konieczne.",
+      "zr": "EFSA/GIS 2026",
+      "str": 1
+    },
+    {
+      "t": "Żywność łatwo psująca się, przechowywana powyżej 5°C dłużej niż 2 godziny — wyrzuć.",
+      "zr": "EFSA/GIS 2026",
+      "str": 1
+    },
+    {
+      "t": "Jeśli masz wątpliwości — wyrzuć; bakterii nie wykryjesz po zapachu ani wyglądzie.",
+      "zr": "EFSA/GIS 2026",
+      "str": 1
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "Zamknięta lodówka",
+      "wartosc": "bezpieczna temperatura ok. 4 godziny",
+      "zr": "EFSA/GIS 2026",
+      "str": 1
+    },
+    {
+      "nazwa": "Zamrażarka pełna / w połowie",
+      "wartosc": "do 48 h / ok. 24 h przy zamkniętych drzwiach",
+      "zr": "EFSA/GIS 2026",
+      "str": 1
+    },
+    {
+      "nazwa": "Temperatura w lodówce",
+      "wartosc": "idealnie 1–5°C — sprawdź termometrem",
+      "zr": "EFSA/GIS 2026",
+      "str": 1
+    }
+  ],
+  "sekcje": [
+    {
+      "etykieta": "Przed przerwą",
+      "punkty": [
+        {
+          "t": "Mrożonki trzymaj w grupach; w zamrażarce pojemniki z lodem lub butelki z wodą, wkłady chłodzące.",
+          "zr": "EFSA/GIS 2026",
+          "str": 1
+        }
+      ]
+    },
+    {
+      "etykieta": "Po przerwie",
+      "punkty": [
+        {
+          "t": "Lodówka utrzymała poniżej 5°C — żywność nadaje się do spożycia.",
+          "zr": "EFSA/GIS 2026",
+          "str": 1
+        },
+        {
+          "t": "Mrożonki rozmrożone, ale zimne — nie zamrażaj ponownie; spożyj od razu po obróbce termicznej.",
+          "zr": "EFSA/GIS 2026",
+          "str": 1
+        },
+        {
+          "t": "Wyrzuć produkty o nietypowym kolorze, konsystencji lub zapachu; umyj zabrudzoną lodówkę.",
+          "zr": "EFSA/GIS 2026",
+          "str": 1
+        }
+      ]
+    },
+    {
+      "etykieta": "Zapas",
+      "punkty": [
+        {
+          "t": "Produkty niewymagające lodówki, wody ani gotowania; otwieracz do puszek.",
+          "zr": "EFSA/GIS 2026",
+          "str": 1
+        },
+        {
+          "t": "Żywność gotowa do spożycia: konserwy, suchary, batony.",
+          "zr": "Poradnik 2025",
+          "str": 33
+        }
+      ]
+    }
+  ],
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "bezpieczeństwo żywności",
+    "lodówka",
+    "zamrażarka"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-efsa-zywnosc-blackout-2026",
+      "strona": 1,
+      "sekcja": "Infografika EFSA/GIS (s. 1)"
+    },
+    {
+      "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+      "strona": 33,
+      "sekcja": "Blackout (s. 33)"
+    }
+  ],
+  "data_przegladu": "2026-10-28"
+}

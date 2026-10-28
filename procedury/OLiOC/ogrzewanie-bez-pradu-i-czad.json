@@ -1,0 +1,87 @@
+{
+  "id": "KARTA-OLIOC-OGRZEWANIE-BEZ-PRADU-I-CZAD",
+  "wzorzec": 2,
+  "kategoria": "olioc",
+  "grupa": "olioc",
+  "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025; KG PSP: Obowiązek instalowania autonomicznych czujek dymu i czadu (30.06.2026).",
+  "data_aktualizacji": "2026-10-28",
+  "slowo_kluczowe": "olioc brak ogrzewania i czad",
+  "keywords": [
+    "jak utrzymać ciepło podczas blackoutu",
+    "bezpieczne ogrzewanie awaryjne",
+    "ryzyko czadu podczas braku prądu"
+  ],
+  "aliasy": [
+    "jak utrzymać ciepło podczas blackoutu",
+    "bezpieczne ogrzewanie awaryjne",
+    "ryzyko czadu podczas braku prądu"
+  ],
+  "prefix": "Ogrzewanie bez prądu i zagrożenie czadem.",
+  "najpierw": [
+    {
+      "t": "Oszczędzaj ciepło — zbierz domowników w jednym pokoju.",
+      "zr": "Poradnik 2025",
+      "str": 33
+    },
+    {
+      "t": "Alarm czujki lub objawy (ból i zawroty głowy, senność, duszność) — przewietrz, wyjdź z budynku, dzwoń 112.",
+      "zr": "KG PSP czujki",
+      "str": 1
+    },
+    {
+      "t": "Nie zasłaniaj kratek wentylacyjnych; zapewnij stały dopływ świeżego powietrza.",
+      "zr": "KG PSP czujki",
+      "str": 1
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "Czad (CO)",
+      "wartosc": "bezbarwny i bezwonny — wykryje go tylko czujka",
+      "zr": "KG PSP czujki",
+      "str": 1
+    }
+  ],
+  "sekcje": [
+    {
+      "etykieta": "Przygotuj",
+      "punkty": [
+        {
+          "t": "Alternatywne źródło ogrzewania niezasilane prądem (piecyk gazowy lub olejowy, kominek).",
+          "zr": "Poradnik 2025",
+          "str": 33
+        },
+        {
+          "t": "Koce, śpiwory i ciepła odzież.",
+          "zr": "Poradnik 2025",
+          "str": 22
+        },
+        {
+          "t": "Czujka dymu i czadu; przegląd komina, wentylacji i instalacji gazowej.",
+          "zr": "KG PSP czujki",
+          "str": 1
+        }
+      ]
+    }
+  ],
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "brak ogrzewania",
+    "temat tlenek węgla"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+      "strona": 33,
+      "sekcja": "Blackout (s. 33), zapasy (s. 22)"
+    },
+    {
+      "dokument_id": "src-kgpsp-czujki-2026",
+      "strona": 1,
+      "sekcja": "Czujki dymu i czadu (KG PSP)"
+    }
+  ],
+  "data_przegladu": "2026-10-28"
+}
