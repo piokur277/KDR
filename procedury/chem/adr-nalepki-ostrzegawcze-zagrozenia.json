@@ -1,0 +1,227 @@
+{
+  "id": "KARTA-CHEM-ADR-NALEPKI-OSTRZEGAWCZE",
+  "wzorzec": 2,
+  "kategoria": "informacja",
+  "grupa": "cbrn",
+  "zrodlo": "ADR 2025 (Dz.U. 2025 poz. 642) — 5.4.3: instrukcje pisemne — charakterystyka zagrożeń wg nalepek ostrzegawczych i wskazówki dodatkowe.",
+  "data_aktualizacji": "2026-10-28",
+  "slowo_kluczowe": "nalepki ostrzegawcze adr",
+  "keywords": [
+    "nalepka ostrzegawcza",
+    "klasy towarow niebezpiecznych",
+    "klasa adr",
+    "romb ostrzegawczy",
+    "instrukcja pisemna adr",
+    "instrukcje pisemne",
+    "charakterystyka zagrozen klas adr",
+    "duze nalepki ostrzegawcze",
+    "maska ucieczkowa adr"
+  ],
+  "aliasy": [
+    "nalepka ostrzegawcza",
+    "klasy towarow niebezpiecznych",
+    "klasa adr",
+    "romb ostrzegawczy",
+    "instrukcja pisemna adr",
+    "instrukcje pisemne",
+    "charakterystyka zagrozen klas adr",
+    "duze nalepki ostrzegawcze",
+    "maska ucieczkowa adr"
+  ],
+  "prefix": "Nalepki ostrzegawcze ADR (klasy 1–9) — charakterystyka zagrożeń i wskazówki z instrukcji pisemnej (ADR 5.4.3).",
+  "najpierw": [
+    {
+      "t": "Numer klasy jest w dolnym narożniku nalepki (romb) — przy kilku nalepkach stosuj wskazówki dla każdej z nich.",
+      "zr": "ADR 5.4.3.4",
+      "str": 14
+    },
+    {
+      "t": "Instrukcja pisemna jest w kabinie kierowcy; załoga powinna zapewnić ratownikom łatwy dostęp do dokumentów przewozowych.",
+      "zr": "ADR 5.4.3.1, 5.4.3.4",
+      "str": 12
+    },
+    {
+      "t": "Załoga nie powinna gasić pożaru przedziału ładunkowego — gasi tylko mały pożar opon, hamulców lub silnika.",
+      "zr": "ADR 5.4.3.4",
+      "str": 12
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "Maska ucieczkowa w pojeździe",
+      "wartosc": "dla każdego członka załogi przy nalepkach 2.3 lub 6.1",
+      "zr": "ADR 5.4.3.4",
+      "str": 15
+    },
+    {
+      "nazwa": "Wyposażenie każdego pojazdu",
+      "wartosc": "klin pod koła, 2 stojące znaki ostrzegawcze, płyn do płukania oczu; dla każdego członka załogi: kamizelka, latarka, rękawice, ochrona oczu",
+      "zr": "ADR 5.4.3.4",
+      "str": 15
+    }
+  ],
+  "sekcje": [
+    {
+      "etykieta": "Klasa 1 — materiały wybuchowe",
+      "punkty": [
+        {
+          "t": "1, 1.5, 1.6: wybuch masowy, rozrzut odłamków, intensywny ogień / promieniowanie cieplne, świecenie, huk lub dym; wrażliwe na wstrząsy, uderzenia, ciepło. Schronić się i pozostać z dala od okien.",
+          "zr": "ADR 5.4.3.4",
+          "str": 13
+        },
+        {
+          "t": "1.4: niewielkie zagrożenie wybuchem i pożarem. Schronić się.",
+          "zr": "ADR 5.4.3.4",
+          "str": 13
+        }
+      ]
+    },
+    {
+      "etykieta": "Klasa 2 — gazy",
+      "punkty": [
+        {
+          "t": "2.1 gazy palne: pożar, wybuch, ciśnienie, działanie duszące, poparzenia lub odmrożenia, wybuch przy ogrzaniu. Schronić się, unikać zagłębień terenu.",
+          "zr": "ADR 5.4.3.4",
+          "str": 13
+        },
+        {
+          "t": "2.2 gazy niepalne i nietrujące: działanie duszące, ciśnienie, odmrożenia, wybuch przy ogrzaniu. Schronić się, unikać zagłębień terenu.",
+          "zr": "ADR 5.4.3.4",
+          "str": 13
+        },
+        {
+          "t": "2.3 gazy trujące: zatrucie, ciśnienie, oparzenia chemiczne lub odmrożenia, wybuch przy ogrzaniu. Maska ucieczkowa, schronić się, unikać zagłębień terenu.",
+          "zr": "ADR 5.4.3.4",
+          "str": 13
+        }
+      ]
+    },
+    {
+      "etykieta": "Klasa 3 — materiały zapalne ciekłe",
+      "punkty": [
+        {
+          "t": "Zagrożenie pożarem i wybuchem, także wybuchem w przypadku ogrzania. Schronić się, unikać zagłębień terenu.",
+          "zr": "ADR 5.4.3.4",
+          "str": 13
+        }
+      ]
+    },
+    {
+      "etykieta": "Klasa 4 — materiały zapalne stałe i reagujące z wodą",
+      "punkty": [
+        {
+          "t": "4.1 zapalne stałe, samoreaktywne, polimeryzujące, wybuchowe odczulone: zapłon od ciepła, iskier, płomienia; rozkład egzotermiczny (kwasy, związki metali ciężkich, aminy, tarcie, uderzenie); szkodliwe i palne pary; wybuch przy ogrzaniu lub utracie substancji odczulającej.",
+          "zr": "ADR 5.4.3.4",
+          "str": 13
+        },
+        {
+          "t": "4.2 podatne na samozapalenie: pożar przy uszkodzeniu opakowań lub uwolnieniu zawartości; mogą gwałtownie reagować z wodą.",
+          "zr": "ADR 5.4.3.4",
+          "str": 13
+        },
+        {
+          "t": "4.3 wydzielające z wodą gazy palne: pożar i wybuch w kontakcie z wodą. Uwolniony materiał utrzymywać w stanie suchym, pod przykryciem.",
+          "zr": "ADR 5.4.3.4",
+          "str": 13
+        }
+      ]
+    },
+    {
+      "etykieta": "Klasa 5 — utleniające i nadtlenki organiczne",
+      "punkty": [
+        {
+          "t": "5.1 utleniające: gwałtowna reakcja, pożar i wybuch w kontakcie z materiałami palnymi. Nie dopuszczać do zmieszania z materiałami zapalnymi lub palnymi (np. trocinami).",
+          "zr": "ADR 5.4.3.4",
+          "str": 14
+        },
+        {
+          "t": "5.2 nadtlenki organiczne: rozkład egzotermiczny w podwyższonej temperaturze, w kontakcie z kwasami, związkami metali ciężkich, aminami, przy tarciu lub uderzeniu; szkodliwe i palne pary, samozapalenie. Nie mieszać z materiałami palnymi.",
+          "zr": "ADR 5.4.3.4",
+          "str": 14
+        }
+      ]
+    },
+    {
+      "etykieta": "Klasa 6 — trujące i zakaźne",
+      "punkty": [
+        {
+          "t": "6.1 trujące: zatrucie przez wdychanie, kontakt ze skórą, połknięcie; zagrożenie dla wód i kanalizacji. Maska ucieczkowa.",
+          "zr": "ADR 5.4.3.4",
+          "str": 14
+        },
+        {
+          "t": "6.2 zakaźne: zakażenie, groźna choroba ludzi lub zwierząt; zagrożenie dla wód i kanalizacji.",
+          "zr": "ADR 5.4.3.4",
+          "str": 14
+        }
+      ]
+    },
+    {
+      "etykieta": "Klasa 7 — promieniotwórcze",
+      "punkty": [
+        {
+          "t": "7A–7D: napromieniowanie po wchłonięciu i zewnętrzne. Ograniczyć czas narażenia.",
+          "zr": "ADR 5.4.3.4",
+          "str": 14
+        },
+        {
+          "t": "7E materiał rozszczepialny: zagrożenie reakcją łańcuchową.",
+          "zr": "ADR 5.4.3.4",
+          "str": 14
+        }
+      ]
+    },
+    {
+      "etykieta": "Klasa 8 i 9",
+      "punkty": [
+        {
+          "t": "8 żrące: poparzenie chemiczne; gwałtowne reakcje ze sobą, z wodą, z innymi materiałami; żrące pary; zagrożenie dla wód i kanalizacji.",
+          "zr": "ADR 5.4.3.4",
+          "str": 14
+        },
+        {
+          "t": "9, 9A różne: poparzenie, pożar, wybuch, zagrożenie dla wód i kanalizacji.",
+          "zr": "ADR 5.4.3.4",
+          "str": 14
+        },
+        {
+          "t": "Znak środowiskowy: zagrożenie dla wód i kanalizacji. Czerwony trójkąt (podwyższona temperatura): poparzenie — unikać kontaktu z gorącymi częściami i uwolnionym materiałem.",
+          "zr": "ADR 5.4.3.4",
+          "str": 15
+        }
+      ]
+    },
+    {
+      "etykieta": "Czynności załogi pojazdu (instrukcja pisemna)",
+      "punkty": [
+        {
+          "t": "Zahamować, wyłączyć silnik, odłączyć akumulator wyłącznikiem głównym; unikać źródeł zapłonu; powiadomić służby, podając wszystkie informacje o wypadku i towarach.",
+          "zr": "ADR 5.4.3.4",
+          "str": 12
+        },
+        {
+          "t": "Nie wchodzić na uwolnione materiały, nie dotykać, pozostawać po stronie nawietrznej; zapobiegać przedostaniu się do wód i kanalizacji; oddalić się i stosować do poleceń służb.",
+          "zr": "ADR 5.4.3.4",
+          "str": 12
+        }
+      ]
+    }
+  ],
+  "nie_rob": [],
+  "tagi_wspolne": [
+    "cbrne",
+    "ratownictwo chemiczne",
+    "towary niebezpieczne",
+    "ADR",
+    "RID"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-adr-2025-oznakowanie",
+      "strona": 11,
+      "sekcja": "ADR 5.4.3 — instrukcje pisemne (wyciąg s. 11–15 = Dz.U. s. 974–978)"
+    }
+  ],
+  "data_przegladu": "2026-10-28",
+  "content": "1. NAJPIERW: Numer klasy jest w dolnym narożniku nalepki (romb) — przy kilku nalepkach stosuj wskazówki dla każdej z nich. Instrukcja pisemna jest w kabinie kierowcy; załoga powinna zapewnić ratownikom łatwy dostęp do dokumentów przewozowych. Załoga nie powinna gasić pożaru przedziału ładunkowego — gasi tylko mały pożar opon, hamulców lub silnika.\n2. PARAMETRY: Maska ucieczkowa w pojeździe — dla każdego członka załogi przy nalepkach 2.3 lub 6.1; Wyposażenie każdego pojazdu — klin pod koła, 2 stojące znaki ostrzegawcze, płyn do płukania oczu; dla każdego członka załogi: kamizelka, latarka, rękawice, ochrona oczu\n3. KLASA 1 — MATERIAŁY WYBUCHOWE: 1, 1.5, 1.6: wybuch masowy, rozrzut odłamków, intensywny ogień / promieniowanie cieplne, świecenie, huk lub dym; wrażliwe na wstrząsy, uderzenia, ciepło. Schronić się i pozostać z dala od okien. 1.4: niewielkie zagrożenie wybuchem i pożarem. Schronić się.\n4. KLASA 2 — GAZY: 2.1 gazy palne: pożar, wybuch, ciśnienie, działanie duszące, poparzenia lub odmrożenia, wybuch przy ogrzaniu. Schronić się, unikać zagłębień terenu. 2.2 gazy niepalne i nietrujące: działanie duszące, ciśnienie, odmrożenia, wybuch przy ogrzaniu. Schronić się, unikać zagłębień terenu. 2.3 gazy trujące: zatrucie, ciśnienie, oparzenia chemiczne lub odmrożenia, wybuch przy ogrzaniu. Maska ucieczkowa, schronić się, unikać zagłębień terenu.\n5. KLASA 3 — MATERIAŁY ZAPALNE CIEKŁE: Zagrożenie pożarem i wybuchem, także wybuchem w przypadku ogrzania. Schronić się, unikać zagłębień terenu.\n6. KLASA 4 — MATERIAŁY ZAPALNE STAŁE I REAGUJĄCE Z WODĄ: 4.1 zapalne stałe, samoreaktywne, polimeryzujące, wybuchowe odczulone: zapłon od ciepła, iskier, płomienia; rozkład egzotermiczny (kwasy, związki metali ciężkich, aminy, tarcie, uderzenie); szkodliwe i palne pary; wybuch przy ogrzaniu lub utracie substancji odczulającej. 4.2 podatne na samozapalenie: pożar przy uszkodzeniu opakowań lub uwolnieniu zawartości; mogą gwałtownie reagować z wodą. 4.3 wydzielające z wodą gazy palne: pożar i wybuch w kontakcie z wodą. Uwolniony materiał utrzymywać w stanie suchym, pod przykryciem.\n7. KLASA 5 — UTLENIAJĄCE I NADTLENKI ORGANICZNE: 5.1 utleniające: gwałtowna reakcja, pożar i wybuch w kontakcie z materiałami palnymi. Nie dopuszczać do zmieszania z materiałami zapalnymi lub palnymi (np. trocinami). 5.2 nadtlenki organiczne: rozkład egzotermiczny w podwyższonej temperaturze, w kontakcie z kwasami, związkami metali ciężkich, aminami, przy tarciu lub uderzeniu; szkodliwe i palne pary, samozapalenie. Nie mieszać z materiałami palnymi.\n8. KLASA 6 — TRUJĄCE I ZAKAŹNE: 6.1 trujące: zatrucie przez wdychanie, kontakt ze skórą, połknięcie; zagrożenie dla wód i kanalizacji. Maska ucieczkowa. 6.2 zakaźne: zakażenie, groźna choroba ludzi lub zwierząt; zagrożenie dla wód i kanalizacji.\n9. KLASA 7 — PROMIENIOTWÓRCZE: 7A–7D: napromieniowanie po wchłonięciu i zewnętrzne. Ograniczyć czas narażenia. 7E materiał rozszczepialny: zagrożenie reakcją łańcuchową.\n10. KLASA 8 I 9: 8 żrące: poparzenie chemiczne; gwałtowne reakcje ze sobą, z wodą, z innymi materiałami; żrące pary; zagrożenie dla wód i kanalizacji. 9, 9A różne: poparzenie, pożar, wybuch, zagrożenie dla wód i kanalizacji. Znak środowiskowy: zagrożenie dla wód i kanalizacji. Czerwony trójkąt (podwyższona temperatura): poparzenie — unikać kontaktu z gorącymi częściami i uwolnionym materiałem.\n11. CZYNNOŚCI ZAŁOGI POJAZDU (INSTRUKCJA PISEMNA): Zahamować, wyłączyć silnik, odłączyć akumulator wyłącznikiem głównym; unikać źródeł zapłonu; powiadomić służby, podając wszystkie informacje o wypadku i towarach. Nie wchodzić na uwolnione materiały, nie dotykać, pozostawać po stronie nawietrznej; zapobiegać przedostaniu się do wód i kanalizacji; oddalić się i stosować do poleceń służb."
+}

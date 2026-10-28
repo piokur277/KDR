@@ -1891,6 +1891,1548 @@
     "content": "1. NAJPIERW: Z Policją zapewnij kierowanie ruchem i swobodny dojazd do strefy, także ciężkiego sprzętu. Zaplanuj dużo miejsca — spodziewaj się dużej ilości sił i środków.\n2. PARAMETRY: Woda pitna — butelkowana, min. 3 l na osobę na dzień; Posiłki — ciepłe, dwudaniowe — po 6 h działań (z zarządzaniem kryzysowym)\n3. WYZNACZ MIEJSCA: PPSiS z SDŁ i namiotem pneumatycznym; oczekiwanie SIS i parking pojazdów. Lądowisko LPR, sztab taktyczny, obsługa mediów, tymczasowa opieka medyczna (namiot). Składowisko materiałów poza strefą (drewno do stabilizacji, podpory, sprzęt do cięcia). Na granicy strefy — szybkie uzupełnianie płynów i kalorii, krótkie odprawy.\n4. LUDZIE: Komfort cieplny w miejscu oczekiwania: mróz — ogrzewane namioty, gorące napoje; deszcz — suszenie ubrań; upał — cień, chłodne napoje. Z zarządzaniem kryzysowym zapewnij schronienie ewakuowanej ludności."
   },
   {
+    "id": "KARTA-CHEM-ADR-NALEPKI-OSTRZEGAWCZE",
+    "wzorzec": 2,
+    "kategoria": "informacja",
+    "grupa": "cbrn",
+    "zrodlo": "ADR 2025 (Dz.U. 2025 poz. 642) — 5.4.3: instrukcje pisemne — charakterystyka zagrożeń wg nalepek ostrzegawczych i wskazówki dodatkowe.",
+    "data_aktualizacji": "2026-10-28",
+    "slowo_kluczowe": "nalepki ostrzegawcze adr",
+    "keywords": [
+      "nalepka ostrzegawcza",
+      "klasy towarow niebezpiecznych",
+      "klasa adr",
+      "romb ostrzegawczy",
+      "instrukcja pisemna adr",
+      "instrukcje pisemne",
+      "charakterystyka zagrozen klas adr",
+      "duze nalepki ostrzegawcze",
+      "maska ucieczkowa adr"
+    ],
+    "aliasy": [
+      "nalepka ostrzegawcza",
+      "klasy towarow niebezpiecznych",
+      "klasa adr",
+      "romb ostrzegawczy",
+      "instrukcja pisemna adr",
+      "instrukcje pisemne",
+      "charakterystyka zagrozen klas adr",
+      "duze nalepki ostrzegawcze",
+      "maska ucieczkowa adr"
+    ],
+    "prefix": "Nalepki ostrzegawcze ADR (klasy 1–9) — charakterystyka zagrożeń i wskazówki z instrukcji pisemnej (ADR 5.4.3).",
+    "najpierw": [
+      {
+        "t": "Numer klasy jest w dolnym narożniku nalepki (romb) — przy kilku nalepkach stosuj wskazówki dla każdej z nich.",
+        "zr": "ADR 5.4.3.4",
+        "str": 14
+      },
+      {
+        "t": "Instrukcja pisemna jest w kabinie kierowcy; załoga powinna zapewnić ratownikom łatwy dostęp do dokumentów przewozowych.",
+        "zr": "ADR 5.4.3.1, 5.4.3.4",
+        "str": 12
+      },
+      {
+        "t": "Załoga nie powinna gasić pożaru przedziału ładunkowego — gasi tylko mały pożar opon, hamulców lub silnika.",
+        "zr": "ADR 5.4.3.4",
+        "str": 12
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Maska ucieczkowa w pojeździe",
+        "wartosc": "dla każdego członka załogi przy nalepkach 2.3 lub 6.1",
+        "zr": "ADR 5.4.3.4",
+        "str": 15
+      },
+      {
+        "nazwa": "Wyposażenie każdego pojazdu",
+        "wartosc": "klin pod koła, 2 stojące znaki ostrzegawcze, płyn do płukania oczu; dla każdego członka załogi: kamizelka, latarka, rękawice, ochrona oczu",
+        "zr": "ADR 5.4.3.4",
+        "str": 15
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Klasa 1 — materiały wybuchowe",
+        "punkty": [
+          {
+            "t": "1, 1.5, 1.6: wybuch masowy, rozrzut odłamków, intensywny ogień / promieniowanie cieplne, świecenie, huk lub dym; wrażliwe na wstrząsy, uderzenia, ciepło. Schronić się i pozostać z dala od okien.",
+            "zr": "ADR 5.4.3.4",
+            "str": 13
+          },
+          {
+            "t": "1.4: niewielkie zagrożenie wybuchem i pożarem. Schronić się.",
+            "zr": "ADR 5.4.3.4",
+            "str": 13
+          }
+        ]
+      },
+      {
+        "etykieta": "Klasa 2 — gazy",
+        "punkty": [
+          {
+            "t": "2.1 gazy palne: pożar, wybuch, ciśnienie, działanie duszące, poparzenia lub odmrożenia, wybuch przy ogrzaniu. Schronić się, unikać zagłębień terenu.",
+            "zr": "ADR 5.4.3.4",
+            "str": 13
+          },
+          {
+            "t": "2.2 gazy niepalne i nietrujące: działanie duszące, ciśnienie, odmrożenia, wybuch przy ogrzaniu. Schronić się, unikać zagłębień terenu.",
+            "zr": "ADR 5.4.3.4",
+            "str": 13
+          },
+          {
+            "t": "2.3 gazy trujące: zatrucie, ciśnienie, oparzenia chemiczne lub odmrożenia, wybuch przy ogrzaniu. Maska ucieczkowa, schronić się, unikać zagłębień terenu.",
+            "zr": "ADR 5.4.3.4",
+            "str": 13
+          }
+        ]
+      },
+      {
+        "etykieta": "Klasa 3 — materiały zapalne ciekłe",
+        "punkty": [
+          {
+            "t": "Zagrożenie pożarem i wybuchem, także wybuchem w przypadku ogrzania. Schronić się, unikać zagłębień terenu.",
+            "zr": "ADR 5.4.3.4",
+            "str": 13
+          }
+        ]
+      },
+      {
+        "etykieta": "Klasa 4 — materiały zapalne stałe i reagujące z wodą",
+        "punkty": [
+          {
+            "t": "4.1 zapalne stałe, samoreaktywne, polimeryzujące, wybuchowe odczulone: zapłon od ciepła, iskier, płomienia; rozkład egzotermiczny (kwasy, związki metali ciężkich, aminy, tarcie, uderzenie); szkodliwe i palne pary; wybuch przy ogrzaniu lub utracie substancji odczulającej.",
+            "zr": "ADR 5.4.3.4",
+            "str": 13
+          },
+          {
+            "t": "4.2 podatne na samozapalenie: pożar przy uszkodzeniu opakowań lub uwolnieniu zawartości; mogą gwałtownie reagować z wodą.",
+            "zr": "ADR 5.4.3.4",
+            "str": 13
+          },
+          {
+            "t": "4.3 wydzielające z wodą gazy palne: pożar i wybuch w kontakcie z wodą. Uwolniony materiał utrzymywać w stanie suchym, pod przykryciem.",
+            "zr": "ADR 5.4.3.4",
+            "str": 13
+          }
+        ]
+      },
+      {
+        "etykieta": "Klasa 5 — utleniające i nadtlenki organiczne",
+        "punkty": [
+          {
+            "t": "5.1 utleniające: gwałtowna reakcja, pożar i wybuch w kontakcie z materiałami palnymi. Nie dopuszczać do zmieszania z materiałami zapalnymi lub palnymi (np. trocinami).",
+            "zr": "ADR 5.4.3.4",
+            "str": 14
+          },
+          {
+            "t": "5.2 nadtlenki organiczne: rozkład egzotermiczny w podwyższonej temperaturze, w kontakcie z kwasami, związkami metali ciężkich, aminami, przy tarciu lub uderzeniu; szkodliwe i palne pary, samozapalenie. Nie mieszać z materiałami palnymi.",
+            "zr": "ADR 5.4.3.4",
+            "str": 14
+          }
+        ]
+      },
+      {
+        "etykieta": "Klasa 6 — trujące i zakaźne",
+        "punkty": [
+          {
+            "t": "6.1 trujące: zatrucie przez wdychanie, kontakt ze skórą, połknięcie; zagrożenie dla wód i kanalizacji. Maska ucieczkowa.",
+            "zr": "ADR 5.4.3.4",
+            "str": 14
+          },
+          {
+            "t": "6.2 zakaźne: zakażenie, groźna choroba ludzi lub zwierząt; zagrożenie dla wód i kanalizacji.",
+            "zr": "ADR 5.4.3.4",
+            "str": 14
+          }
+        ]
+      },
+      {
+        "etykieta": "Klasa 7 — promieniotwórcze",
+        "punkty": [
+          {
+            "t": "7A–7D: napromieniowanie po wchłonięciu i zewnętrzne. Ograniczyć czas narażenia.",
+            "zr": "ADR 5.4.3.4",
+            "str": 14
+          },
+          {
+            "t": "7E materiał rozszczepialny: zagrożenie reakcją łańcuchową.",
+            "zr": "ADR 5.4.3.4",
+            "str": 14
+          }
+        ]
+      },
+      {
+        "etykieta": "Klasa 8 i 9",
+        "punkty": [
+          {
+            "t": "8 żrące: poparzenie chemiczne; gwałtowne reakcje ze sobą, z wodą, z innymi materiałami; żrące pary; zagrożenie dla wód i kanalizacji.",
+            "zr": "ADR 5.4.3.4",
+            "str": 14
+          },
+          {
+            "t": "9, 9A różne: poparzenie, pożar, wybuch, zagrożenie dla wód i kanalizacji.",
+            "zr": "ADR 5.4.3.4",
+            "str": 14
+          },
+          {
+            "t": "Znak środowiskowy: zagrożenie dla wód i kanalizacji. Czerwony trójkąt (podwyższona temperatura): poparzenie — unikać kontaktu z gorącymi częściami i uwolnionym materiałem.",
+            "zr": "ADR 5.4.3.4",
+            "str": 15
+          }
+        ]
+      },
+      {
+        "etykieta": "Czynności załogi pojazdu (instrukcja pisemna)",
+        "punkty": [
+          {
+            "t": "Zahamować, wyłączyć silnik, odłączyć akumulator wyłącznikiem głównym; unikać źródeł zapłonu; powiadomić służby, podając wszystkie informacje o wypadku i towarach.",
+            "zr": "ADR 5.4.3.4",
+            "str": 12
+          },
+          {
+            "t": "Nie wchodzić na uwolnione materiały, nie dotykać, pozostawać po stronie nawietrznej; zapobiegać przedostaniu się do wód i kanalizacji; oddalić się i stosować do poleceń służb.",
+            "zr": "ADR 5.4.3.4",
+            "str": 12
+          }
+        ]
+      }
+    ],
+    "nie_rob": [],
+    "tagi_wspolne": [
+      "cbrne",
+      "ratownictwo chemiczne",
+      "towary niebezpieczne",
+      "ADR",
+      "RID"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-adr-2025-oznakowanie",
+        "strona": 11,
+        "sekcja": "ADR 5.4.3 — instrukcje pisemne (wyciąg s. 11–15 = Dz.U. s. 974–978)"
+      }
+    ],
+    "data_przegladu": "2026-10-28",
+    "content": "1. NAJPIERW: Numer klasy jest w dolnym narożniku nalepki (romb) — przy kilku nalepkach stosuj wskazówki dla każdej z nich. Instrukcja pisemna jest w kabinie kierowcy; załoga powinna zapewnić ratownikom łatwy dostęp do dokumentów przewozowych. Załoga nie powinna gasić pożaru przedziału ładunkowego — gasi tylko mały pożar opon, hamulców lub silnika.\n2. PARAMETRY: Maska ucieczkowa w pojeździe — dla każdego członka załogi przy nalepkach 2.3 lub 6.1; Wyposażenie każdego pojazdu — klin pod koła, 2 stojące znaki ostrzegawcze, płyn do płukania oczu; dla każdego członka załogi: kamizelka, latarka, rękawice, ochrona oczu\n3. KLASA 1 — MATERIAŁY WYBUCHOWE: 1, 1.5, 1.6: wybuch masowy, rozrzut odłamków, intensywny ogień / promieniowanie cieplne, świecenie, huk lub dym; wrażliwe na wstrząsy, uderzenia, ciepło. Schronić się i pozostać z dala od okien. 1.4: niewielkie zagrożenie wybuchem i pożarem. Schronić się.\n4. KLASA 2 — GAZY: 2.1 gazy palne: pożar, wybuch, ciśnienie, działanie duszące, poparzenia lub odmrożenia, wybuch przy ogrzaniu. Schronić się, unikać zagłębień terenu. 2.2 gazy niepalne i nietrujące: działanie duszące, ciśnienie, odmrożenia, wybuch przy ogrzaniu. Schronić się, unikać zagłębień terenu. 2.3 gazy trujące: zatrucie, ciśnienie, oparzenia chemiczne lub odmrożenia, wybuch przy ogrzaniu. Maska ucieczkowa, schronić się, unikać zagłębień terenu.\n5. KLASA 3 — MATERIAŁY ZAPALNE CIEKŁE: Zagrożenie pożarem i wybuchem, także wybuchem w przypadku ogrzania. Schronić się, unikać zagłębień terenu.\n6. KLASA 4 — MATERIAŁY ZAPALNE STAŁE I REAGUJĄCE Z WODĄ: 4.1 zapalne stałe, samoreaktywne, polimeryzujące, wybuchowe odczulone: zapłon od ciepła, iskier, płomienia; rozkład egzotermiczny (kwasy, związki metali ciężkich, aminy, tarcie, uderzenie); szkodliwe i palne pary; wybuch przy ogrzaniu lub utracie substancji odczulającej. 4.2 podatne na samozapalenie: pożar przy uszkodzeniu opakowań lub uwolnieniu zawartości; mogą gwałtownie reagować z wodą. 4.3 wydzielające z wodą gazy palne: pożar i wybuch w kontakcie z wodą. Uwolniony materiał utrzymywać w stanie suchym, pod przykryciem.\n7. KLASA 5 — UTLENIAJĄCE I NADTLENKI ORGANICZNE: 5.1 utleniające: gwałtowna reakcja, pożar i wybuch w kontakcie z materiałami palnymi. Nie dopuszczać do zmieszania z materiałami zapalnymi lub palnymi (np. trocinami). 5.2 nadtlenki organiczne: rozkład egzotermiczny w podwyższonej temperaturze, w kontakcie z kwasami, związkami metali ciężkich, aminami, przy tarciu lub uderzeniu; szkodliwe i palne pary, samozapalenie. Nie mieszać z materiałami palnymi.\n8. KLASA 6 — TRUJĄCE I ZAKAŹNE: 6.1 trujące: zatrucie przez wdychanie, kontakt ze skórą, połknięcie; zagrożenie dla wód i kanalizacji. Maska ucieczkowa. 6.2 zakaźne: zakażenie, groźna choroba ludzi lub zwierząt; zagrożenie dla wód i kanalizacji.\n9. KLASA 7 — PROMIENIOTWÓRCZE: 7A–7D: napromieniowanie po wchłonięciu i zewnętrzne. Ograniczyć czas narażenia. 7E materiał rozszczepialny: zagrożenie reakcją łańcuchową.\n10. KLASA 8 I 9: 8 żrące: poparzenie chemiczne; gwałtowne reakcje ze sobą, z wodą, z innymi materiałami; żrące pary; zagrożenie dla wód i kanalizacji. 9, 9A różne: poparzenie, pożar, wybuch, zagrożenie dla wód i kanalizacji. Znak środowiskowy: zagrożenie dla wód i kanalizacji. Czerwony trójkąt (podwyższona temperatura): poparzenie — unikać kontaktu z gorącymi częściami i uwolnionym materiałem.\n11. CZYNNOŚCI ZAŁOGI POJAZDU (INSTRUKCJA PISEMNA): Zahamować, wyłączyć silnik, odłączyć akumulator wyłącznikiem głównym; unikać źródeł zapłonu; powiadomić służby, podając wszystkie informacje o wypadku i towarach. Nie wchodzić na uwolnione materiały, nie dotykać, pozostawać po stronie nawietrznej; zapobiegać przedostaniu się do wód i kanalizacji; oddalić się i stosować do poleceń służb."
+  },
+  {
+    "id": "KARTA-CHEM-ADR-RID-NUMERY-ZAGROZENIA",
+    "wzorzec": 2,
+    "kategoria": "informacja",
+    "grupa": "cbrn",
+    "zrodlo": "ADR 2025 (Dz.U. 2025 poz. 642) — dział 5.3: oznakowanie tablicami barwy pomarańczowej i znaczenie numerów rozpoznawczych zagrożenia. RID 2025 (Dz.U. 2025 poz. 593) — 5.3.2.3.",
+    "data_aktualizacji": "2026-10-28",
+    "slowo_kluczowe": "numery rozpoznawcze zagrozenia adr rid",
+    "keywords": [
+      "numery rozpoznawcze zagrozenia",
+      "wykaz numerow zagrozenia",
+      "znaczenie numeru zagrozenia",
+      "numer kemlera",
+      "kod kemlera",
+      "co oznacza numer na tablicy pomaranczowej",
+      "numer 20",
+      "tablica 20",
+      "numer zagrozenia 20",
+      "numer 22",
+      "tablica 22",
+      "numer zagrozenia 22",
+      "223",
+      "numer zagrozenia 223",
+      "225",
+      "numer zagrozenia 225",
+      "numer 23",
+      "tablica 23",
+      "numer zagrozenia 23",
+      "238",
+      "numer zagrozenia 238",
+      "239",
+      "numer zagrozenia 239",
+      "numer 25",
+      "tablica 25",
+      "numer zagrozenia 25",
+      "numer 26",
+      "tablica 26",
+      "numer zagrozenia 26",
+      "263",
+      "numer zagrozenia 263",
+      "265",
+      "numer zagrozenia 265",
+      "268",
+      "numer zagrozenia 268",
+      "numer 28",
+      "tablica 28",
+      "numer zagrozenia 28",
+      "numer 30",
+      "tablica 30",
+      "numer zagrozenia 30",
+      "323",
+      "numer zagrozenia 323",
+      "x323",
+      "numer zagrozenia x323",
+      "numer 33",
+      "tablica 33",
+      "numer zagrozenia 33",
+      "333",
+      "numer zagrozenia 333",
+      "x333",
+      "numer zagrozenia x333",
+      "336",
+      "numer zagrozenia 336",
+      "338",
+      "numer zagrozenia 338",
+      "x338",
+      "numer zagrozenia x338",
+      "339",
+      "numer zagrozenia 339",
+      "numer 36",
+      "tablica 36",
+      "numer zagrozenia 36",
+      "362",
+      "numer zagrozenia 362",
+      "x362",
+      "numer zagrozenia x362",
+      "368",
+      "numer zagrozenia 368",
+      "numer 38",
+      "tablica 38",
+      "numer zagrozenia 38",
+      "382",
+      "numer zagrozenia 382",
+      "x382",
+      "numer zagrozenia x382",
+      "numer 39",
+      "tablica 39",
+      "numer zagrozenia 39",
+      "numer 40",
+      "tablica 40",
+      "numer zagrozenia 40",
+      "423",
+      "numer zagrozenia 423",
+      "x423",
+      "numer zagrozenia x423",
+      "numer 43",
+      "tablica 43",
+      "numer zagrozenia 43",
+      "x432",
+      "numer zagrozenia x432",
+      "numer 44",
+      "tablica 44",
+      "numer zagrozenia 44",
+      "446",
+      "numer zagrozenia 446",
+      "numer 46",
+      "tablica 46",
+      "numer zagrozenia 46",
+      "462",
+      "numer zagrozenia 462",
+      "x462",
+      "numer zagrozenia x462",
+      "numer 48",
+      "tablica 48",
+      "numer zagrozenia 48",
+      "482",
+      "numer zagrozenia 482",
+      "x482",
+      "numer zagrozenia x482",
+      "numer 50",
+      "tablica 50",
+      "numer zagrozenia 50",
+      "539",
+      "numer zagrozenia 539",
+      "numer 55",
+      "tablica 55",
+      "numer zagrozenia 55",
+      "556",
+      "numer zagrozenia 556",
+      "558",
+      "numer zagrozenia 558",
+      "559",
+      "numer zagrozenia 559",
+      "numer 56",
+      "tablica 56",
+      "numer zagrozenia 56",
+      "568",
+      "numer zagrozenia 568",
+      "numer 58",
+      "tablica 58",
+      "numer zagrozenia 58",
+      "numer 59",
+      "tablica 59",
+      "numer zagrozenia 59",
+      "numer 60",
+      "tablica 60",
+      "numer zagrozenia 60",
+      "606",
+      "numer zagrozenia 606",
+      "623",
+      "numer zagrozenia 623",
+      "numer 63",
+      "tablica 63",
+      "numer zagrozenia 63",
+      "638",
+      "numer zagrozenia 638",
+      "639",
+      "numer zagrozenia 639",
+      "numer 64",
+      "tablica 64",
+      "numer zagrozenia 64",
+      "642",
+      "numer zagrozenia 642",
+      "numer 65",
+      "tablica 65",
+      "numer zagrozenia 65",
+      "numer 66",
+      "tablica 66",
+      "numer zagrozenia 66",
+      "663",
+      "numer zagrozenia 663",
+      "664",
+      "numer zagrozenia 664",
+      "665",
+      "numer zagrozenia 665",
+      "668",
+      "numer zagrozenia 668",
+      "x668",
+      "numer zagrozenia x668",
+      "669",
+      "numer zagrozenia 669",
+      "numer 68",
+      "tablica 68",
+      "numer zagrozenia 68",
+      "numer 69",
+      "tablica 69",
+      "numer zagrozenia 69",
+      "numer 70",
+      "tablica 70",
+      "numer zagrozenia 70",
+      "768",
+      "numer zagrozenia 768",
+      "numer 80",
+      "tablica 80",
+      "numer zagrozenia 80",
+      "x80",
+      "numer zagrozenia x80",
+      "823",
+      "numer zagrozenia 823",
+      "numer 83",
+      "tablica 83",
+      "numer zagrozenia 83",
+      "x83",
+      "numer zagrozenia x83",
+      "836",
+      "numer zagrozenia 836",
+      "839",
+      "numer zagrozenia 839",
+      "x839",
+      "numer zagrozenia x839",
+      "numer 84",
+      "tablica 84",
+      "numer zagrozenia 84",
+      "842",
+      "numer zagrozenia 842",
+      "numer 85",
+      "tablica 85",
+      "numer zagrozenia 85",
+      "856",
+      "numer zagrozenia 856",
+      "numer 86",
+      "tablica 86",
+      "numer zagrozenia 86",
+      "numer 88",
+      "tablica 88",
+      "numer zagrozenia 88",
+      "x88",
+      "numer zagrozenia x88",
+      "883",
+      "numer zagrozenia 883",
+      "884",
+      "numer zagrozenia 884",
+      "885",
+      "numer zagrozenia 885",
+      "886",
+      "numer zagrozenia 886",
+      "x886",
+      "numer zagrozenia x886",
+      "numer 89",
+      "tablica 89",
+      "numer zagrozenia 89",
+      "numer 90",
+      "tablica 90",
+      "numer zagrozenia 90",
+      "numer 99",
+      "tablica 99",
+      "numer zagrozenia 99",
+      "285",
+      "numer zagrozenia 285",
+      "687",
+      "numer zagrozenia 687"
+    ],
+    "aliasy": [
+      "numery rozpoznawcze zagrozenia",
+      "wykaz numerow zagrozenia",
+      "znaczenie numeru zagrozenia",
+      "numer kemlera",
+      "kod kemlera",
+      "co oznacza numer na tablicy pomaranczowej",
+      "numer 20",
+      "tablica 20",
+      "numer zagrozenia 20",
+      "numer 22",
+      "tablica 22",
+      "numer zagrozenia 22",
+      "223",
+      "numer zagrozenia 223",
+      "225",
+      "numer zagrozenia 225",
+      "numer 23",
+      "tablica 23",
+      "numer zagrozenia 23",
+      "238",
+      "numer zagrozenia 238",
+      "239",
+      "numer zagrozenia 239",
+      "numer 25",
+      "tablica 25",
+      "numer zagrozenia 25",
+      "numer 26",
+      "tablica 26",
+      "numer zagrozenia 26",
+      "263",
+      "numer zagrozenia 263",
+      "265",
+      "numer zagrozenia 265",
+      "268",
+      "numer zagrozenia 268",
+      "numer 28",
+      "tablica 28",
+      "numer zagrozenia 28",
+      "numer 30",
+      "tablica 30",
+      "numer zagrozenia 30",
+      "323",
+      "numer zagrozenia 323",
+      "x323",
+      "numer zagrozenia x323",
+      "numer 33",
+      "tablica 33",
+      "numer zagrozenia 33",
+      "333",
+      "numer zagrozenia 333",
+      "x333",
+      "numer zagrozenia x333",
+      "336",
+      "numer zagrozenia 336",
+      "338",
+      "numer zagrozenia 338",
+      "x338",
+      "numer zagrozenia x338",
+      "339",
+      "numer zagrozenia 339",
+      "numer 36",
+      "tablica 36",
+      "numer zagrozenia 36",
+      "362",
+      "numer zagrozenia 362",
+      "x362",
+      "numer zagrozenia x362",
+      "368",
+      "numer zagrozenia 368",
+      "numer 38",
+      "tablica 38",
+      "numer zagrozenia 38",
+      "382",
+      "numer zagrozenia 382",
+      "x382",
+      "numer zagrozenia x382",
+      "numer 39",
+      "tablica 39",
+      "numer zagrozenia 39",
+      "numer 40",
+      "tablica 40",
+      "numer zagrozenia 40",
+      "423",
+      "numer zagrozenia 423",
+      "x423",
+      "numer zagrozenia x423",
+      "numer 43",
+      "tablica 43",
+      "numer zagrozenia 43",
+      "x432",
+      "numer zagrozenia x432",
+      "numer 44",
+      "tablica 44",
+      "numer zagrozenia 44",
+      "446",
+      "numer zagrozenia 446",
+      "numer 46",
+      "tablica 46",
+      "numer zagrozenia 46",
+      "462",
+      "numer zagrozenia 462",
+      "x462",
+      "numer zagrozenia x462",
+      "numer 48",
+      "tablica 48",
+      "numer zagrozenia 48",
+      "482",
+      "numer zagrozenia 482",
+      "x482",
+      "numer zagrozenia x482",
+      "numer 50",
+      "tablica 50",
+      "numer zagrozenia 50",
+      "539",
+      "numer zagrozenia 539",
+      "numer 55",
+      "tablica 55",
+      "numer zagrozenia 55",
+      "556",
+      "numer zagrozenia 556",
+      "558",
+      "numer zagrozenia 558",
+      "559",
+      "numer zagrozenia 559",
+      "numer 56",
+      "tablica 56",
+      "numer zagrozenia 56",
+      "568",
+      "numer zagrozenia 568",
+      "numer 58",
+      "tablica 58",
+      "numer zagrozenia 58",
+      "numer 59",
+      "tablica 59",
+      "numer zagrozenia 59",
+      "numer 60",
+      "tablica 60",
+      "numer zagrozenia 60",
+      "606",
+      "numer zagrozenia 606",
+      "623",
+      "numer zagrozenia 623",
+      "numer 63",
+      "tablica 63",
+      "numer zagrozenia 63",
+      "638",
+      "numer zagrozenia 638",
+      "639",
+      "numer zagrozenia 639",
+      "numer 64",
+      "tablica 64",
+      "numer zagrozenia 64",
+      "642",
+      "numer zagrozenia 642",
+      "numer 65",
+      "tablica 65",
+      "numer zagrozenia 65",
+      "numer 66",
+      "tablica 66",
+      "numer zagrozenia 66",
+      "663",
+      "numer zagrozenia 663",
+      "664",
+      "numer zagrozenia 664",
+      "665",
+      "numer zagrozenia 665",
+      "668",
+      "numer zagrozenia 668",
+      "x668",
+      "numer zagrozenia x668",
+      "669",
+      "numer zagrozenia 669",
+      "numer 68",
+      "tablica 68",
+      "numer zagrozenia 68",
+      "numer 69",
+      "tablica 69",
+      "numer zagrozenia 69",
+      "numer 70",
+      "tablica 70",
+      "numer zagrozenia 70",
+      "768",
+      "numer zagrozenia 768",
+      "numer 80",
+      "tablica 80",
+      "numer zagrozenia 80",
+      "x80",
+      "numer zagrozenia x80",
+      "823",
+      "numer zagrozenia 823",
+      "numer 83",
+      "tablica 83",
+      "numer zagrozenia 83",
+      "x83",
+      "numer zagrozenia x83",
+      "836",
+      "numer zagrozenia 836",
+      "839",
+      "numer zagrozenia 839",
+      "x839",
+      "numer zagrozenia x839",
+      "numer 84",
+      "tablica 84",
+      "numer zagrozenia 84",
+      "842",
+      "numer zagrozenia 842",
+      "numer 85",
+      "tablica 85",
+      "numer zagrozenia 85",
+      "856",
+      "numer zagrozenia 856",
+      "numer 86",
+      "tablica 86",
+      "numer zagrozenia 86",
+      "numer 88",
+      "tablica 88",
+      "numer zagrozenia 88",
+      "x88",
+      "numer zagrozenia x88",
+      "883",
+      "numer zagrozenia 883",
+      "884",
+      "numer zagrozenia 884",
+      "885",
+      "numer zagrozenia 885",
+      "886",
+      "numer zagrozenia 886",
+      "x886",
+      "numer zagrozenia x886",
+      "numer 89",
+      "tablica 89",
+      "numer zagrozenia 89",
+      "numer 90",
+      "tablica 90",
+      "numer zagrozenia 90",
+      "numer 99",
+      "tablica 99",
+      "numer zagrozenia 99",
+      "285",
+      "numer zagrozenia 285",
+      "687",
+      "numer zagrozenia 687"
+    ],
+    "prefix": "Wykaz numerów rozpoznawczych zagrożenia ADR/RID (górna część tablicy pomarańczowej) — znaczenie każdego numeru.",
+    "najpierw": [
+      {
+        "t": "Numer z górnej części tablicy pomarańczowej odczytaj z wykazu poniżej (ADR 5.3.2.3.2).",
+        "zr": "ADR 5.3.2.3.2",
+        "str": 6
+      },
+      {
+        "t": "„X” przed numerem: materiał reaguje niebezpiecznie z wodą — woda tylko za zgodą specjalistów.",
+        "zr": "ADR 5.3.2.3.1",
+        "str": 6
+      },
+      {
+        "t": "Numery przykładowe: 33 — łatwo zapalna ciecz (zapłon < 23 °C); 268 — gaz trujący żrący; 80 — materiał żrący.",
+        "zr": "ADR 5.3.2.3.2",
+        "str": 7
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Liczba numerów w wykazie ADR",
+        "wartosc": "97 pozycji (RID dodatkowo 285 i 687)",
+        "zr": "ADR 5.3.2.3.2",
+        "str": 6
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "2x — gazy",
+        "punkty": [
+          {
+            "t": "20 — gaz duszący lub gaz niestwarzający zagrożenia dodatkowego.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 6
+          },
+          {
+            "t": "22 — gaz schłodzony skroplony duszący.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 7
+          },
+          {
+            "t": "223 — gaz schłodzony skroplony palny.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 7
+          },
+          {
+            "t": "225 — gaz schłodzony skroplony utleniający (wzmagający palenie).",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 7
+          },
+          {
+            "t": "23 — gaz palny.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 7
+          },
+          {
+            "t": "238 — gaz palny żrący.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 7
+          },
+          {
+            "t": "239 — gaz palny, który może samorzutnie powodować gwałtowną reakcję.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 7
+          },
+          {
+            "t": "25 — gaz utleniający (wzmagający palenie).",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 7
+          },
+          {
+            "t": "26 — gaz trujący.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 7
+          },
+          {
+            "t": "263 — gaz trujący palny.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 7
+          },
+          {
+            "t": "265 — gaz trujący utleniający (wzmagający palenie).",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 7
+          },
+          {
+            "t": "268 — gaz trujący żrący.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 7
+          },
+          {
+            "t": "28 — gaz żrący.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 7
+          }
+        ]
+      },
+      {
+        "etykieta": "3x — materiały zapalne ciekłe",
+        "punkty": [
+          {
+            "t": "30 — materiał zapalny ciekły (temperatura zapłonu od 23 °C do 60 °C włącznie) lub materiał zapalny ciekły / stopiony stały o temperaturze zapłonu powyżej 60 °C podgrzany do temperatury równej lub wyższej od swojej temperatury zapłonu, lub materiał samonagrzewający się ciekły.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 7
+          },
+          {
+            "t": "323 — materiał zapalny ciekły, który reaguje z wodą wydzielając gazy palne.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 7
+          },
+          {
+            "t": "X323 — materiał zapalny ciekły, który reaguje niebezpiecznie z wodą wydzielając gazy palne (woda tylko za zgodą specjalistów).",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 7
+          },
+          {
+            "t": "33 — materiał łatwo zapalny ciekły (temperatura zapłonu niższa niż 23 °C).",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 7
+          },
+          {
+            "t": "333 — materiał piroforyczny ciekły.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 7
+          },
+          {
+            "t": "X333 — materiał piroforyczny ciekły, który reaguje niebezpiecznie z wodą (woda tylko za zgodą specjalistów).",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 7
+          },
+          {
+            "t": "336 — materiał łatwo zapalny ciekły trujący.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 7
+          },
+          {
+            "t": "338 — materiał łatwo zapalny ciekły żrący.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 7
+          },
+          {
+            "t": "X338 — materiał łatwo zapalny ciekły żrący, który reaguje niebezpiecznie z wodą (woda tylko za zgodą specjalistów).",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 7
+          },
+          {
+            "t": "339 — materiał łatwo zapalny ciekły, który może samorzutnie powodować gwałtowną reakcję.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 7
+          },
+          {
+            "t": "36 — materiał zapalny ciekły (temperatura zapłonu od 23 °C do 60 °C włącznie) słabo trujący lub materiał samonagrzewający się ciekły trujący.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 7
+          },
+          {
+            "t": "362 — materiał zapalny ciekły trujący, który reaguje z wodą wydzielając gazy palne.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 7
+          },
+          {
+            "t": "X362 — materiał zapalny ciekły trujący, który reaguje niebezpiecznie z wodą wydzielając gazy palne (woda tylko za zgodą specjalistów).",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 7
+          },
+          {
+            "t": "368 — materiał zapalny ciekły trujący żrący.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 7
+          },
+          {
+            "t": "38 — materiał zapalny ciekły (temperatura zapłonu od 23 °C do 60 °C włącznie) słabo żrący lub materiał samonagrzewający się ciekły żrący.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 7
+          },
+          {
+            "t": "382 — materiał zapalny ciekły żrący, który reaguje z wodą wydzielając gazy palne.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 7
+          },
+          {
+            "t": "X382 — materiał zapalny ciekły żrący, który reaguje niebezpiecznie z wodą wydzielając gazy palne (woda tylko za zgodą specjalistów).",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 7
+          },
+          {
+            "t": "39 — materiał zapalny ciekły, który może samorzutnie powodować gwałtowną reakcję.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 7
+          }
+        ]
+      },
+      {
+        "etykieta": "4x — materiały zapalne stałe",
+        "punkty": [
+          {
+            "t": "40 — materiał zapalny stały lub materiał samoreaktywny lub materiał samonagrzewający się stały lub materiał polimeryzujący.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 7
+          },
+          {
+            "t": "423 — materiał stały / zapalny stały / samonagrzewający się stały, który reaguje z wodą wydzielając gazy palne.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 7
+          },
+          {
+            "t": "X423 — materiał stały / zapalny stały / samonagrzewający się stały, który reaguje niebezpiecznie z wodą wydzielając gazy palne (woda tylko za zgodą specjalistów).",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 8
+          },
+          {
+            "t": "43 — materiał podatny na samozapalenie (piroforyczny) stały.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 8
+          },
+          {
+            "t": "X432 — materiał podatny na samozapalenie (piroforyczny) stały, który reaguje niebezpiecznie z wodą wydzielając gazy palne (woda tylko za zgodą specjalistów).",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 8
+          },
+          {
+            "t": "44 — materiał zapalny stały stopiony w podwyższonej temperaturze.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 8
+          },
+          {
+            "t": "446 — materiał zapalny stały trujący stopiony w podwyższonej temperaturze.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 8
+          },
+          {
+            "t": "46 — materiał zapalny stały trujący lub materiał samonagrzewający się stały trujący.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 8
+          },
+          {
+            "t": "462 — materiał stały trujący, który reaguje z wodą wydzielając gazy palne.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 8
+          },
+          {
+            "t": "X462 — materiał stały, który reaguje niebezpiecznie z wodą wydzielając gazy trujące (woda tylko za zgodą specjalistów).",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 8
+          },
+          {
+            "t": "48 — materiał zapalny stały żrący lub materiał samonagrzewający się stały żrący.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 8
+          },
+          {
+            "t": "482 — materiał żrący stały, który reaguje z wodą wydzielając gazy palne.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 8
+          },
+          {
+            "t": "X482 — materiał stały, który reaguje niebezpiecznie z wodą wydzielając gazy żrące (woda tylko za zgodą specjalistów).",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 8
+          }
+        ]
+      },
+      {
+        "etykieta": "5x — utleniające i nadtlenki",
+        "punkty": [
+          {
+            "t": "50 — materiał utleniający (wzmagający palenie).",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 8
+          },
+          {
+            "t": "539 — nadtlenek organiczny zapalny.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 8
+          },
+          {
+            "t": "55 — materiał silnie utleniający (wzmagający palenie).",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 8
+          },
+          {
+            "t": "556 — materiał silnie utleniający (wzmagający palenie) trujący.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 8
+          },
+          {
+            "t": "558 — materiał silnie utleniający (wzmagający palenie) żrący.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 8
+          },
+          {
+            "t": "559 — materiał silnie utleniający (wzmagający palenie), który może samorzutnie powodować gwałtowną reakcję.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 8
+          },
+          {
+            "t": "56 — materiał utleniający (wzmagający palenie) trujący.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 8
+          },
+          {
+            "t": "568 — materiał utleniający (wzmagający palenie) trujący żrący.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 8
+          },
+          {
+            "t": "58 — materiał utleniający (wzmagający palenie) żrący.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 8
+          },
+          {
+            "t": "59 — materiał utleniający (wzmagający palenie), który może samorzutnie powodować gwałtowną reakcję.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 8
+          }
+        ]
+      },
+      {
+        "etykieta": "6x — trujące i zakaźne",
+        "punkty": [
+          {
+            "t": "60 — materiał trujący lub słabo trujący.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 8
+          },
+          {
+            "t": "606 — materiał zakaźny.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 8
+          },
+          {
+            "t": "623 — materiał trujący ciekły, który reaguje z wodą wydzielając gazy palne.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 8
+          },
+          {
+            "t": "63 — materiał trujący zapalny (temperatura zapłonu od 23 °C do 60 °C włącznie).",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 8
+          },
+          {
+            "t": "638 — materiał trujący zapalny (temperatura zapłonu od 23 °C do 60 °C włącznie) żrący.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 8
+          },
+          {
+            "t": "639 — materiał trujący zapalny (temperatura zapłonu nie wyższa niż 60 °C), który może samorzutnie powodować gwałtowną reakcję.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 8
+          },
+          {
+            "t": "64 — materiał trujący stały zapalny lub materiał trujący stały samonagrzewający się.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 8
+          },
+          {
+            "t": "642 — materiał trujący stały, który reaguje z wodą wydzielając gazy palne.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 8
+          },
+          {
+            "t": "65 — materiał trujący utleniający (wzmagający palenie).",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 8
+          },
+          {
+            "t": "66 — materiał silnie trujący.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 8
+          },
+          {
+            "t": "663 — materiał silnie trujący zapalny (temperatura zapłonu nie wyższa niż 60 °C).",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 8
+          },
+          {
+            "t": "664 — materiał silnie trujący stały zapalny lub materiał silnie trujący stały samonagrzewający się.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 8
+          },
+          {
+            "t": "665 — materiał silnie trujący utleniający (wzmagający palenie).",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 8
+          },
+          {
+            "t": "668 — materiał silnie trujący żrący.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 9
+          },
+          {
+            "t": "X668 — materiał silnie trujący żrący, który reaguje niebezpiecznie z wodą (woda tylko za zgodą specjalistów).",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 9
+          },
+          {
+            "t": "669 — materiał silnie trujący, który może samorzutnie powodować gwałtowną reakcję.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 9
+          },
+          {
+            "t": "68 — materiał trujący żrący.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 9
+          },
+          {
+            "t": "69 — materiał trujący lub słabo trujący, który może samorzutnie powodować gwałtowną reakcję.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 9
+          }
+        ]
+      },
+      {
+        "etykieta": "7x — promieniotwórcze",
+        "punkty": [
+          {
+            "t": "70 — materiał promieniotwórczy.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 9
+          },
+          {
+            "t": "768 — materiał promieniotwórczy trujący żrący.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 9
+          }
+        ]
+      },
+      {
+        "etykieta": "8x — żrące",
+        "punkty": [
+          {
+            "t": "80 — materiał żrący lub słabo żrący.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 9
+          },
+          {
+            "t": "X80 — materiał żrący lub słabo żrący, który reaguje niebezpiecznie z wodą (woda tylko za zgodą specjalistów).",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 9
+          },
+          {
+            "t": "823 — materiał żrący ciekły, który reaguje z wodą wydzielając gazy palne.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 9
+          },
+          {
+            "t": "83 — materiał żrący lub słabo żrący, zapalny (temperatura zapłonu od 23 °C do 60 °C włącznie).",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 9
+          },
+          {
+            "t": "X83 — materiał żrący lub słabo żrący, zapalny (temperatura zapłonu od 23 °C do 60 °C włącznie), który reaguje niebezpiecznie z wodą (woda tylko za zgodą specjalistów).",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 9
+          },
+          {
+            "t": "836 — materiał żrący lub słabo żrący, zapalny (temperatura zapłonu od 23 °C do 60 °C włącznie), trujący.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 9
+          },
+          {
+            "t": "839 — materiał żrący lub słabo żrący, zapalny (temperatura zapłonu od 23 °C do 60 °C), który może samorzutnie powodować gwałtowną reakcję.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 9
+          },
+          {
+            "t": "X839 — materiał żrący lub słabo żrący, zapalny (temperatura zapłonu od 23 °C do 60 °C), który może samorzutnie powodować gwałtowną reakcję i który reaguje niebezpiecznie z wodą (woda tylko za zgodą specjalistów).",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 9
+          },
+          {
+            "t": "84 — materiał żrący stały zapalny lub materiał żrący stały samonagrzewający się.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 9
+          },
+          {
+            "t": "842 — materiał żrący stały, który reaguje z wodą wydzielając gazy palne.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 9
+          },
+          {
+            "t": "85 — materiał żrący lub słabo żrący, utleniający (wzmagający palenie).",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 9
+          },
+          {
+            "t": "856 — materiał żrący lub słabo żrący, utleniający (wzmagający palenie), trujący.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 9
+          },
+          {
+            "t": "86 — materiał żrący lub słabo żrący, trujący.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 9
+          },
+          {
+            "t": "88 — materiał silnie żrący.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 9
+          },
+          {
+            "t": "X88 — materiał silnie żrący, który reaguje niebezpiecznie z wodą (woda tylko za zgodą specjalistów).",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 9
+          },
+          {
+            "t": "883 — materiał silnie żrący zapalny (temperatura zapłonu od 23 °C do 60 °C włącznie).",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 9
+          },
+          {
+            "t": "884 — materiał silnie żrący stały zapalny lub materiał silnie żrący stały samonagrzewający się.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 9
+          },
+          {
+            "t": "885 — materiał silnie żrący utleniający (wzmagający palenie).",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 9
+          },
+          {
+            "t": "886 — materiał silnie żrący trujący.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 9
+          },
+          {
+            "t": "X886 — materiał silnie żrący trujący, który reaguje niebezpiecznie z wodą (woda tylko za zgodą specjalistów).",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 9
+          },
+          {
+            "t": "89 — materiał żrący lub słabo żrący, który może samorzutnie powodować gwałtowną reakcję.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 9
+          }
+        ]
+      },
+      {
+        "etykieta": "9x — różne",
+        "punkty": [
+          {
+            "t": "90 — materiał zagrażający środowisku; różne materiały niebezpieczne.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 9
+          },
+          {
+            "t": "99 — różne materiały niebezpieczne przewożone w podwyższonej temperaturze.",
+            "zr": "ADR 5.3.2.3.2",
+            "str": 9
+          }
+        ]
+      },
+      {
+        "etykieta": "Tylko w RID (kolej)",
+        "punkty": [
+          {
+            "t": "285 — gaz żrący utleniający.",
+            "zr": "RID 5.3.2.3.2",
+            "str": 3
+          },
+          {
+            "t": "687 — materiał trujący żrący promieniotwórczy.",
+            "zr": "RID 5.3.2.3.2",
+            "str": 5
+          },
+          {
+            "t": "Pozostałe numery w wykazie RID mają to samo znaczenie co w ADR.",
+            "zr": "RID 5.3.2.3.2",
+            "str": 3
+          }
+        ]
+      }
+    ],
+    "nie_rob": [],
+    "tagi_wspolne": [
+      "cbrne",
+      "ratownictwo chemiczne",
+      "towary niebezpieczne",
+      "ADR",
+      "RID"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-adr-2025-oznakowanie",
+        "strona": 6,
+        "sekcja": "ADR 5.3.2.3 — znaczenie numerów rozpoznawczych zagrożenia (wyciąg s. 6–9 = Dz.U. s. 956–959)"
+      },
+      {
+        "dokument_id": "doc-rid-2025-oznakowanie",
+        "strona": 3,
+        "sekcja": "RID 5.3.2.3 — znaczenie numerów zagrożenia (wyciąg s. 3–5 = Dz.U. s. 894–896)"
+      }
+    ],
+    "data_przegladu": "2026-10-28",
+    "content": "1. NAJPIERW: Numer z górnej części tablicy pomarańczowej odczytaj z wykazu poniżej (ADR 5.3.2.3.2). „X” przed numerem: materiał reaguje niebezpiecznie z wodą — woda tylko za zgodą specjalistów. Numery przykładowe: 33 — łatwo zapalna ciecz (zapłon < 23 °C); 268 — gaz trujący żrący; 80 — materiał żrący.\n2. PARAMETRY: Liczba numerów w wykazie ADR — 97 pozycji (RID dodatkowo 285 i 687)\n3. 2X — GAZY: 20 — gaz duszący lub gaz niestwarzający zagrożenia dodatkowego. 22 — gaz schłodzony skroplony duszący. 223 — gaz schłodzony skroplony palny. 225 — gaz schłodzony skroplony utleniający (wzmagający palenie). 23 — gaz palny. 238 — gaz palny żrący. 239 — gaz palny, który może samorzutnie powodować gwałtowną reakcję. 25 — gaz utleniający (wzmagający palenie). 26 — gaz trujący. 263 — gaz trujący palny. 265 — gaz trujący utleniający (wzmagający palenie). 268 — gaz trujący żrący. 28 — gaz żrący.\n4. 3X — MATERIAŁY ZAPALNE CIEKŁE: 30 — materiał zapalny ciekły (temperatura zapłonu od 23 °C do 60 °C włącznie) lub materiał zapalny ciekły / stopiony stały o temperaturze zapłonu powyżej 60 °C podgrzany do temperatury równej lub wyższej od swojej temperatury zapłonu, lub materiał samonagrzewający się ciekły. 323 — materiał zapalny ciekły, który reaguje z wodą wydzielając gazy palne. X323 — materiał zapalny ciekły, który reaguje niebezpiecznie z wodą wydzielając gazy palne (woda tylko za zgodą specjalistów). 33 — materiał łatwo zapalny ciekły (temperatura zapłonu niższa niż 23 °C). 333 — materiał piroforyczny ciekły. X333 — materiał piroforyczny ciekły, który reaguje niebezpiecznie z wodą (woda tylko za zgodą specjalistów). 336 — materiał łatwo zapalny ciekły trujący. 338 — materiał łatwo zapalny ciekły żrący. X338 — materiał łatwo zapalny ciekły żrący, który reaguje niebezpiecznie z wodą (woda tylko za zgodą specjalistów). 339 — materiał łatwo zapalny ciekły, który może samorzutnie powodować gwałtowną reakcję. 36 — materiał zapalny ciekły (temperatura zapłonu od 23 °C do 60 °C włącznie) słabo trujący lub materiał samonagrzewający się ciekły trujący. 362 — materiał zapalny ciekły trujący, który reaguje z wodą wydzielając gazy palne. X362 — materiał zapalny ciekły trujący, który reaguje niebezpiecznie z wodą wydzielając gazy palne (woda tylko za zgodą specjalistów). 368 — materiał zapalny ciekły trujący żrący. 38 — materiał zapalny ciekły (temperatura zapłonu od 23 °C do 60 °C włącznie) słabo żrący lub materiał samonagrzewający się ciekły żrący. 382 — materiał zapalny ciekły żrący, który reaguje z wodą wydzielając gazy palne. X382 — materiał zapalny ciekły żrący, który reaguje niebezpiecznie z wodą wydzielając gazy palne (woda tylko za zgodą specjalistów). 39 — materiał zapalny ciekły, który może samorzutnie powodować gwałtowną reakcję.\n5. 4X — MATERIAŁY ZAPALNE STAŁE: 40 — materiał zapalny stały lub materiał samoreaktywny lub materiał samonagrzewający się stały lub materiał polimeryzujący. 423 — materiał stały / zapalny stały / samonagrzewający się stały, który reaguje z wodą wydzielając gazy palne. X423 — materiał stały / zapalny stały / samonagrzewający się stały, który reaguje niebezpiecznie z wodą wydzielając gazy palne (woda tylko za zgodą specjalistów). 43 — materiał podatny na samozapalenie (piroforyczny) stały. X432 — materiał podatny na samozapalenie (piroforyczny) stały, który reaguje niebezpiecznie z wodą wydzielając gazy palne (woda tylko za zgodą specjalistów). 44 — materiał zapalny stały stopiony w podwyższonej temperaturze. 446 — materiał zapalny stały trujący stopiony w podwyższonej temperaturze. 46 — materiał zapalny stały trujący lub materiał samonagrzewający się stały trujący. 462 — materiał stały trujący, który reaguje z wodą wydzielając gazy palne. X462 — materiał stały, który reaguje niebezpiecznie z wodą wydzielając gazy trujące (woda tylko za zgodą specjalistów). 48 — materiał zapalny stały żrący lub materiał samonagrzewający się stały żrący. 482 — materiał żrący stały, który reaguje z wodą wydzielając gazy palne. X482 — materiał stały, który reaguje niebezpiecznie z wodą wydzielając gazy żrące (woda tylko za zgodą specjalistów).\n6. 5X — UTLENIAJĄCE I NADTLENKI: 50 — materiał utleniający (wzmagający palenie). 539 — nadtlenek organiczny zapalny. 55 — materiał silnie utleniający (wzmagający palenie). 556 — materiał silnie utleniający (wzmagający palenie) trujący. 558 — materiał silnie utleniający (wzmagający palenie) żrący. 559 — materiał silnie utleniający (wzmagający palenie), który może samorzutnie powodować gwałtowną reakcję. 56 — materiał utleniający (wzmagający palenie) trujący. 568 — materiał utleniający (wzmagający palenie) trujący żrący. 58 — materiał utleniający (wzmagający palenie) żrący. 59 — materiał utleniający (wzmagający palenie), który może samorzutnie powodować gwałtowną reakcję.\n7. 6X — TRUJĄCE I ZAKAŹNE: 60 — materiał trujący lub słabo trujący. 606 — materiał zakaźny. 623 — materiał trujący ciekły, który reaguje z wodą wydzielając gazy palne. 63 — materiał trujący zapalny (temperatura zapłonu od 23 °C do 60 °C włącznie). 638 — materiał trujący zapalny (temperatura zapłonu od 23 °C do 60 °C włącznie) żrący. 639 — materiał trujący zapalny (temperatura zapłonu nie wyższa niż 60 °C), który może samorzutnie powodować gwałtowną reakcję. 64 — materiał trujący stały zapalny lub materiał trujący stały samonagrzewający się. 642 — materiał trujący stały, który reaguje z wodą wydzielając gazy palne. 65 — materiał trujący utleniający (wzmagający palenie). 66 — materiał silnie trujący. 663 — materiał silnie trujący zapalny (temperatura zapłonu nie wyższa niż 60 °C). 664 — materiał silnie trujący stały zapalny lub materiał silnie trujący stały samonagrzewający się. 665 — materiał silnie trujący utleniający (wzmagający palenie). 668 — materiał silnie trujący żrący. X668 — materiał silnie trujący żrący, który reaguje niebezpiecznie z wodą (woda tylko za zgodą specjalistów). 669 — materiał silnie trujący, który może samorzutnie powodować gwałtowną reakcję. 68 — materiał trujący żrący. 69 — materiał trujący lub słabo trujący, który może samorzutnie powodować gwałtowną reakcję.\n8. 7X — PROMIENIOTWÓRCZE: 70 — materiał promieniotwórczy. 768 — materiał promieniotwórczy trujący żrący.\n9. 8X — ŻRĄCE: 80 — materiał żrący lub słabo żrący. X80 — materiał żrący lub słabo żrący, który reaguje niebezpiecznie z wodą (woda tylko za zgodą specjalistów). 823 — materiał żrący ciekły, który reaguje z wodą wydzielając gazy palne. 83 — materiał żrący lub słabo żrący, zapalny (temperatura zapłonu od 23 °C do 60 °C włącznie). X83 — materiał żrący lub słabo żrący, zapalny (temperatura zapłonu od 23 °C do 60 °C włącznie), który reaguje niebezpiecznie z wodą (woda tylko za zgodą specjalistów). 836 — materiał żrący lub słabo żrący, zapalny (temperatura zapłonu od 23 °C do 60 °C włącznie), trujący. 839 — materiał żrący lub słabo żrący, zapalny (temperatura zapłonu od 23 °C do 60 °C), który może samorzutnie powodować gwałtowną reakcję. X839 — materiał żrący lub słabo żrący, zapalny (temperatura zapłonu od 23 °C do 60 °C), który może samorzutnie powodować gwałtowną reakcję i który reaguje niebezpiecznie z wodą (woda tylko za zgodą specjalistów). 84 — materiał żrący stały zapalny lub materiał żrący stały samonagrzewający się. 842 — materiał żrący stały, który reaguje z wodą wydzielając gazy palne. 85 — materiał żrący lub słabo żrący, utleniający (wzmagający palenie). 856 — materiał żrący lub słabo żrący, utleniający (wzmagający palenie), trujący. 86 — materiał żrący lub słabo żrący, trujący. 88 — materiał silnie żrący. X88 — materiał silnie żrący, który reaguje niebezpiecznie z wodą (woda tylko za zgodą specjalistów). 883 — materiał silnie żrący zapalny (temperatura zapłonu od 23 °C do 60 °C włącznie). 884 — materiał silnie żrący stały zapalny lub materiał silnie żrący stały samonagrzewający się. 885 — materiał silnie żrący utleniający (wzmagający palenie). 886 — materiał silnie żrący trujący. X886 — materiał silnie żrący trujący, który reaguje niebezpiecznie z wodą (woda tylko za zgodą specjalistów). 89 — materiał żrący lub słabo żrący, który może samorzutnie powodować gwałtowną reakcję.\n10. 9X — RÓŻNE: 90 — materiał zagrażający środowisku; różne materiały niebezpieczne. 99 — różne materiały niebezpieczne przewożone w podwyższonej temperaturze.\n11. TYLKO W RID (KOLEJ): 285 — gaz żrący utleniający. 687 — materiał trujący żrący promieniotwórczy. Pozostałe numery w wykazie RID mają to samo znaczenie co w ADR."
+  },
+  {
+    "id": "KARTA-CHEM-ADR-RID-TABLICA-POMARANCZOWA",
+    "wzorzec": 2,
+    "kategoria": "informacja",
+    "grupa": "cbrn",
+    "zrodlo": "ADR 2025 (Dz.U. 2025 poz. 642) — dział 5.3: oznakowanie tablicami barwy pomarańczowej i znaczenie numerów rozpoznawczych zagrożenia. RID 2025 (Dz.U. 2025 poz. 593) — 5.3.2.",
+    "data_aktualizacji": "2026-10-28",
+    "slowo_kluczowe": "tablica pomaranczowa adr rid",
+    "keywords": [
+      "tablica pomaranczowa",
+      "tablica adr",
+      "tablica rid",
+      "jak czytac tablice adr",
+      "numer rozpoznawczy zagrozenia",
+      "numer zagrozenia",
+      "litera x na tablicy",
+      "numer un na tablicy",
+      "oznakowanie cysterny",
+      "oznakowanie wagonu cysterny",
+      "przewoz towarow niebezpiecznych"
+    ],
+    "aliasy": [
+      "tablica pomaranczowa",
+      "tablica adr",
+      "tablica rid",
+      "jak czytac tablice adr",
+      "numer rozpoznawczy zagrozenia",
+      "numer zagrozenia",
+      "litera x na tablicy",
+      "numer un na tablicy",
+      "oznakowanie cysterny",
+      "oznakowanie wagonu cysterny",
+      "przewoz towarow niebezpiecznych"
+    ],
+    "prefix": "Tablica pomarańczowa ADR/RID — góra: numer rozpoznawczy zagrożenia, dół: numer UN; znaczenie cyfr, „X”, podwojenia i zera.",
+    "najpierw": [
+      {
+        "t": "Górna część tablicy: numer rozpoznawczy zagrożenia (2 lub 3 cyfry, w razie potrzeby poprzedzone literą „X”); dolna część: numer UN (4 cyfry).",
+        "zr": "ADR 5.3.2.2",
+        "str": 5
+      },
+      {
+        "t": "„X” przed numerem: materiał reaguje niebezpiecznie z wodą — wodę można stosować jedynie za zgodą specjalistów.",
+        "zr": "ADR 5.3.2.3.1",
+        "str": 6
+      },
+      {
+        "t": "Podwojona cyfra = nasilenie zagrożenia (np. 33, 66, 88); zero po cyfrze = zagrożenie określa w pełni jedna cyfra (np. 30, 60, 80).",
+        "zr": "ADR 5.3.2.3.1",
+        "str": 6
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Tablica",
+        "wartosc": "pomarańczowa 40 × 30 cm, czarne obrzeże i linia środkowa 15 mm, cyfry czarne 100 mm",
+        "zr": "ADR 5.3.2.2",
+        "str": 5
+      },
+      {
+        "nazwa": "Klasa 1 (materiały wybuchowe)",
+        "wartosc": "zamiast numeru zagrożenia — kod klasyfikacyjny (numer podklasy + litera grupy zgodności)",
+        "zr": "ADR 5.3.2.3.1",
+        "str": 6
+      },
+      {
+        "nazwa": "Wykaz numerów",
+        "wartosc": "pełna lista znaczeń — karta „Numery rozpoznawcze zagrożenia ADR/RID”",
+        "zr": "ADR 5.3.2.3.2",
+        "str": 6
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Znaczenie cyfr numeru zagrożenia",
+        "punkty": [
+          {
+            "t": "2 — emisja gazu spowodowana ciśnieniem lub reakcją chemiczną.",
+            "zr": "ADR 5.3.2.3.1",
+            "str": 6
+          },
+          {
+            "t": "3 — zapalność materiałów ciekłych (pary) i gazów lub samonagrzewanie się materiałów ciekłych.",
+            "zr": "ADR 5.3.2.3.1",
+            "str": 6
+          },
+          {
+            "t": "4 — zapalność materiałów stałych lub samonagrzewanie się materiałów stałych.",
+            "zr": "ADR 5.3.2.3.1",
+            "str": 6
+          },
+          {
+            "t": "5 — działanie utleniające (wzmagające palenie).",
+            "zr": "ADR 5.3.2.3.1",
+            "str": 6
+          },
+          {
+            "t": "6 — działanie trujące lub ryzyko zakażenia.",
+            "zr": "ADR 5.3.2.3.1",
+            "str": 6
+          },
+          {
+            "t": "7 — działanie promieniotwórcze.",
+            "zr": "ADR 5.3.2.3.1",
+            "str": 6
+          },
+          {
+            "t": "8 — działanie żrące.",
+            "zr": "ADR 5.3.2.3.1",
+            "str": 6
+          },
+          {
+            "t": "9 — ryzyko samorzutnej i gwałtownej reakcji: możliwość wybuchu, rozkładu lub polimeryzacji z wydzieleniem znacznej ilości ciepła, gazów palnych i/lub trujących.",
+            "zr": "ADR 5.3.2.3.1",
+            "str": 6
+          },
+          {
+            "t": "Zestawienia o znaczeniu specjalnym (czytaj z wykazu, nie cyfra po cyfrze): 22, 323, 333, 362, 382, 423, 44, 446, 462, 482, 539, 606, 623, 642, 823, 842, 90 i 99.",
+            "zr": "ADR 5.3.2.3.1",
+            "str": 6
+          }
+        ]
+      },
+      {
+        "etykieta": "Gdzie są tablice — transport drogowy (ADR)",
+        "punkty": [
+          {
+            "t": "Dwie tablice: z przodu i z tyłu jednostki transportowej; przy odłączonej przyczepie tablica zostaje z tyłu przyczepy.",
+            "zr": "ADR 5.3.2.1.1",
+            "str": 3
+          },
+          {
+            "t": "Cysterny: dodatkowo tablice z numerem zagrożenia i numerem UN na bokach każdej cysterny, komory cysterny lub elementu pojazdu-baterii.",
+            "zr": "ADR 5.3.2.1.2",
+            "str": 4
+          },
+          {
+            "t": "Jeden towar niebezpieczny: numer zagrożenia i numer UN mogą być tylko na tablicach z przodu i z tyłu.",
+            "zr": "ADR 5.3.2.1.6",
+            "str": 4
+          },
+          {
+            "t": "Paliwa (UN 1202, 1203, 1223, 3475, paliwo lotnicze UN 1268 lub 1863): tablice przód/tył mogą podawać numery najniebezpieczniejszego materiału — o najniższej temperaturze zapłonu.",
+            "zr": "ADR 5.3.2.1.3",
+            "str": 4
+          },
+          {
+            "t": "Próżne, nieoczyszczone i nieodgazowane cysterny oraz pojazdy do przewozu luzem są oznakowane jak pełne.",
+            "zr": "ADR 5.3.2.1.7",
+            "str": 4
+          },
+          {
+            "t": "Tablice niedotyczące przewożonych towarów powinny być zdjęte lub zakryte.",
+            "zr": "ADR 5.3.2.1.8",
+            "str": 4
+          }
+        ]
+      },
+      {
+        "etykieta": "Transport kolejowy (RID)",
+        "punkty": [
+          {
+            "t": "Tablice pomarańczowe na każdym boku wagonu-cysterny, wagonu-baterii, wagonu z cysternami odejmowalnymi, kontenera-cysterny, MEGC, cysterny przenośnej i wagonu do przewozu luzem.",
+            "zr": "RID 5.3.2.1.1",
+            "str": 1
+          },
+          {
+            "t": "Na tablicy numer zagrożenia (góra) i numer UN (dół) — układ i wymiary jak w ADR.",
+            "zr": "RID 5.3.2.2",
+            "str": 2
+          },
+          {
+            "t": "Znaczenie cyfr jak w ADR; RID stosuje numer zagrożenia dla klas 2–9, a dla klasy 1 kod klasyfikacyjny.",
+            "zr": "RID 5.3.2.3.1",
+            "str": 3
+          }
+        ]
+      },
+      {
+        "etykieta": "Inne znaki na pojeździe",
+        "punkty": [
+          {
+            "t": "Czerwony trójkąt równoboczny: materiał przewożony w podwyższonej temperaturze — ciecz ≥ 100 °C lub ciało stałe ≥ 240 °C.",
+            "zr": "ADR 5.3.3",
+            "str": 9
+          },
+          {
+            "t": "Znak materiału zagrażającego środowisku — umieszczany obok dużych nalepek ostrzegawczych.",
+            "zr": "ADR 5.3.6",
+            "str": 10
+          }
+        ]
+      }
+    ],
+    "nie_rob": [
+      {
+        "t": "Nie podawaj wody na materiał oznaczony literą „X” bez zgody specjalistów.",
+        "zr": "ADR 5.3.2.3.1",
+        "str": 6
+      }
+    ],
+    "tagi_wspolne": [
+      "cbrne",
+      "ratownictwo chemiczne",
+      "towary niebezpieczne",
+      "ADR",
+      "RID"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-adr-2025-oznakowanie",
+        "strona": 3,
+        "sekcja": "ADR 5.3.2 — tablice barwy pomarańczowej (wyciąg s. 3–10 = Dz.U. s. 953–960)"
+      },
+      {
+        "dokument_id": "doc-rid-2025-oznakowanie",
+        "strona": 1,
+        "sekcja": "RID 5.3.2 — tablice pomarańczowe (wyciąg s. 1–3 = Dz.U. s. 892–894)"
+      }
+    ],
+    "data_przegladu": "2026-10-28",
+    "content": "1. NAJPIERW: Górna część tablicy: numer rozpoznawczy zagrożenia (2 lub 3 cyfry, w razie potrzeby poprzedzone literą „X”); dolna część: numer UN (4 cyfry). „X” przed numerem: materiał reaguje niebezpiecznie z wodą — wodę można stosować jedynie za zgodą specjalistów. Podwojona cyfra = nasilenie zagrożenia (np. 33, 66, 88); zero po cyfrze = zagrożenie określa w pełni jedna cyfra (np. 30, 60, 80).\n2. PARAMETRY: Tablica — pomarańczowa 40 × 30 cm, czarne obrzeże i linia środkowa 15 mm, cyfry czarne 100 mm; Klasa 1 (materiały wybuchowe) — zamiast numeru zagrożenia — kod klasyfikacyjny (numer podklasy + litera grupy zgodności); Wykaz numerów — pełna lista znaczeń — karta „Numery rozpoznawcze zagrożenia ADR/RID”\n3. ZNACZENIE CYFR NUMERU ZAGROŻENIA: 2 — emisja gazu spowodowana ciśnieniem lub reakcją chemiczną. 3 — zapalność materiałów ciekłych (pary) i gazów lub samonagrzewanie się materiałów ciekłych. 4 — zapalność materiałów stałych lub samonagrzewanie się materiałów stałych. 5 — działanie utleniające (wzmagające palenie). 6 — działanie trujące lub ryzyko zakażenia. 7 — działanie promieniotwórcze. 8 — działanie żrące. 9 — ryzyko samorzutnej i gwałtownej reakcji: możliwość wybuchu, rozkładu lub polimeryzacji z wydzieleniem znacznej ilości ciepła, gazów palnych i/lub trujących. Zestawienia o znaczeniu specjalnym (czytaj z wykazu, nie cyfra po cyfrze): 22, 323, 333, 362, 382, 423, 44, 446, 462, 482, 539, 606, 623, 642, 823, 842, 90 i 99.\n4. GDZIE SĄ TABLICE — TRANSPORT DROGOWY (ADR): Dwie tablice: z przodu i z tyłu jednostki transportowej; przy odłączonej przyczepie tablica zostaje z tyłu przyczepy. Cysterny: dodatkowo tablice z numerem zagrożenia i numerem UN na bokach każdej cysterny, komory cysterny lub elementu pojazdu-baterii. Jeden towar niebezpieczny: numer zagrożenia i numer UN mogą być tylko na tablicach z przodu i z tyłu. Paliwa (UN 1202, 1203, 1223, 3475, paliwo lotnicze UN 1268 lub 1863): tablice przód/tył mogą podawać numery najniebezpieczniejszego materiału — o najniższej temperaturze zapłonu. Próżne, nieoczyszczone i nieodgazowane cysterny oraz pojazdy do przewozu luzem są oznakowane jak pełne. Tablice niedotyczące przewożonych towarów powinny być zdjęte lub zakryte.\n5. TRANSPORT KOLEJOWY (RID): Tablice pomarańczowe na każdym boku wagonu-cysterny, wagonu-baterii, wagonu z cysternami odejmowalnymi, kontenera-cysterny, MEGC, cysterny przenośnej i wagonu do przewozu luzem. Na tablicy numer zagrożenia (góra) i numer UN (dół) — układ i wymiary jak w ADR. Znaczenie cyfr jak w ADR; RID stosuje numer zagrożenia dla klas 2–9, a dla klasy 1 kod klasyfikacyjny.\n6. INNE ZNAKI NA POJEŹDZIE: Czerwony trójkąt równoboczny: materiał przewożony w podwyższonej temperaturze — ciecz ≥ 100 °C lub ciało stałe ≥ 240 °C. Znak materiału zagrażającego środowisku — umieszczany obok dużych nalepek ostrzegawczych.\n7. NIE RÓB: Nie podawaj wody na materiał oznaczony literą „X” bez zgody specjalistów."
+  },
+  {
     "id": "KARTA-CHEM-Z1-LNG-POZAR-ZEW",
     "wzorzec": 2,
     "kategoria": "dzialania",

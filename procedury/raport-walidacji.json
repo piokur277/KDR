@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-28T08:08:48.809Z",
-  "procedure_count": 129,
-  "unique_direct_terms": 901,
-  "linked_procedure_count": 127,
-  "document_count": 73,
+  "generated_at": "2026-10-28T15:18:16.189Z",
+  "procedure_count": 132,
+  "unique_direct_terms": 1166,
+  "linked_procedure_count": 130,
+  "document_count": 75,
   "shared_tags": [
     {
       "tag": "edukacja obywatelska",
@@ -217,6 +217,21 @@
       ]
     },
     {
+      "tag": "cbrne",
+      "count": 9,
+      "ids": [
+        "KARTA-CHEM-ADR-NALEPKI-OSTRZEGAWCZE",
+        "KARTA-CHEM-ADR-RID-NUMERY-ZAGROZENIA",
+        "KARTA-CHEM-ADR-RID-TABLICA-POMARANCZOWA",
+        "KARTA-CHEM-B1-ZAGROZENIE-BIOLOGICZNE-GR3-GR4",
+        "KARTA-CHEM-B22-PODEJRZANA-PRZESYLKA-CBR",
+        "KARTA-CHEM-R1-OCHRONA-RADIOLOGICZNA",
+        "KARTA-CHEM-R2-ZDARZENIA-RADIACYJNE-ZAKRES-PODSTAWOWY",
+        "KARTA-ORG-CBRNE-DODATKOWE-USTALENIA-SZKOLENIA",
+        "KARTA-ORG-WYTYCZNE-WSPOLDZIALANIA-CBRNE"
+      ]
+    },
+    {
       "tag": "pozar",
       "count": 8,
       "ids": [
@@ -321,18 +336,6 @@
       ]
     },
     {
-      "tag": "cbrne",
-      "count": 6,
-      "ids": [
-        "KARTA-CHEM-B1-ZAGROZENIE-BIOLOGICZNE-GR3-GR4",
-        "KARTA-CHEM-B22-PODEJRZANA-PRZESYLKA-CBR",
-        "KARTA-CHEM-R1-OCHRONA-RADIOLOGICZNA",
-        "KARTA-CHEM-R2-ZDARZENIA-RADIACYJNE-ZAKRES-PODSTAWOWY",
-        "KARTA-ORG-CBRNE-DODATKOWE-USTALENIA-SZKOLENIA",
-        "KARTA-ORG-WYTYCZNE-WSPOLDZIALANIA-CBRNE"
-      ]
-    },
-    {
       "tag": "obrazenia",
       "count": 6,
       "ids": [
@@ -431,6 +434,16 @@
       ]
     },
     {
+      "tag": "ratownictwo chemiczne",
+      "count": 4,
+      "ids": [
+        "KARTA-CHEM-ADR-NALEPKI-OSTRZEGAWCZE",
+        "KARTA-CHEM-ADR-RID-NUMERY-ZAGROZENIA",
+        "KARTA-CHEM-ADR-RID-TABLICA-POMARANCZOWA",
+        "KARTA-CHEM-ZAKRES-PODSTAWOWY-KDR"
+      ]
+    },
+    {
       "tag": "samochod elektryczny",
       "count": 4,
       "ids": [
@@ -438,6 +451,15 @@
         "POZ-EV-01",
         "WYP-EV-01",
         "ZAT-EV-01"
+      ]
+    },
+    {
+      "tag": "adr",
+      "count": 3,
+      "ids": [
+        "KARTA-CHEM-ADR-NALEPKI-OSTRZEGAWCZE",
+        "KARTA-CHEM-ADR-RID-NUMERY-ZAGROZENIA",
+        "KARTA-CHEM-ADR-RID-TABLICA-POMARANCZOWA"
       ]
     },
     {
@@ -495,12 +517,30 @@
       ]
     },
     {
+      "tag": "rid",
+      "count": 3,
+      "ids": [
+        "KARTA-CHEM-ADR-NALEPKI-OSTRZEGAWCZE",
+        "KARTA-CHEM-ADR-RID-NUMERY-ZAGROZENIA",
+        "KARTA-CHEM-ADR-RID-TABLICA-POMARANCZOWA"
+      ]
+    },
+    {
       "tag": "rozpoznanie",
       "count": 3,
       "ids": [
         "KARTA-ACETYLEN-ROZPOZNANIE",
         "KARTA-BUD-ROZPOZNANIE-KATASTROFA-BUDOWLANA",
         "KARTA-PV-ROZPOZNANIE-I-ZABEZPIECZENIE"
+      ]
+    },
+    {
+      "tag": "towary niebezpieczne",
+      "count": 3,
+      "ids": [
+        "KARTA-CHEM-ADR-NALEPKI-OSTRZEGAWCZE",
+        "KARTA-CHEM-ADR-RID-NUMERY-ZAGROZENIA",
+        "KARTA-CHEM-ADR-RID-TABLICA-POMARANCZOWA"
       ]
     },
     {
