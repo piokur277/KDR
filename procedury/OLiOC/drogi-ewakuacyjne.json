@@ -1,0 +1,85 @@
+{
+  "id": "KARTA-OLIOC-DROGI-EWAKUACYJNE",
+  "wzorzec": 2,
+  "kategoria": "olioc",
+  "grupa": "olioc",
+  "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+  "data_aktualizacji": "2026-10-28",
+  "slowo_kluczowe": "olioc drogi ewakuacyjne",
+  "keywords": [
+    "wyjście ewakuacyjne i miejsce zbiórki",
+    "jak ewakuować się z budynku",
+    "nie używaj windy podczas pożaru"
+  ],
+  "aliasy": [
+    "wyjście ewakuacyjne i miejsce zbiórki",
+    "jak ewakuować się z budynku",
+    "nie używaj windy podczas pożaru"
+  ],
+  "prefix": "Drogi ewakuacyjne — wyjścia, miejsca zbiórki, zakaz używania windy.",
+  "najpierw": [
+    {
+      "t": "Sprawdź, gdzie są wyjścia ewakuacyjne i miejsca zbiórki w pracy i szkole.",
+      "zr": "Poradnik 2025",
+      "str": 19
+    },
+    {
+      "t": "W czasie pożaru nie używaj windy — korzystaj ze schodów.",
+      "zr": "Poradnik 2025",
+      "str": 31
+    },
+    {
+      "t": "Usuń niepotrzebne przedmioty z korytarzy i klatek schodowych.",
+      "zr": "Poradnik 2025",
+      "str": 17
+    }
+  ],
+  "parametry": [],
+  "sekcje": [
+    {
+      "etykieta": "Ćwicz",
+      "punkty": [
+        {
+          "t": "Bierz udział w próbnych alarmach; przećwiczcie plan awaryjny i ewakuację w pracy.",
+          "zr": "Poradnik 2025",
+          "str": 19
+        },
+        {
+          "t": "Zgłaszaj zablokowane drogi ewakuacyjne.",
+          "zr": "Poradnik 2025",
+          "str": 19
+        }
+      ]
+    },
+    {
+      "etykieta": "Ewakuacja z płonącego budynku",
+      "punkty": [
+        {
+          "t": "Chroń drogi oddechowe — osłaniaj usta i nos, najlepiej mokrym materiałem.",
+          "zr": "Poradnik 2025",
+          "str": 31
+        },
+        {
+          "t": "Poinformuj służby, jeśli ktoś został w budynku, i podaj dokładne miejsce.",
+          "zr": "Poradnik 2025",
+          "str": 31
+        }
+      ]
+    }
+  ],
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "drogi ewakuacyjne",
+    "miejsce zbiórki"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+      "strona": 19,
+      "sekcja": "Otoczenie (s. 17, 19), pożar (s. 31)"
+    }
+  ],
+  "data_przegladu": "2026-10-28"
+}

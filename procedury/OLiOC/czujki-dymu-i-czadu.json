@@ -1,0 +1,105 @@
+{
+  "id": "KARTA-OLIOC-CZUJKI-DYMU-I-CZADU",
+  "wzorzec": 2,
+  "kategoria": "olioc",
+  "grupa": "olioc",
+  "zrodlo": "KG PSP: Obowiązek instalowania autonomicznych czujek dymu i czadu (30.06.2026); MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+  "data_aktualizacji": "2026-10-28",
+  "slowo_kluczowe": "olioc czujki dymu i czadu",
+  "keywords": [
+    "czujka tlenku węgla w domu",
+    "czujka dymu test baterii",
+    "alarm czujki co zrobić"
+  ],
+  "aliasy": [
+    "czujka tlenku węgla w domu",
+    "czujka dymu test baterii",
+    "alarm czujki co zrobić"
+  ],
+  "prefix": "Czujki dymu i czadu — obowiązek montażu, objawy zatrucia CO, reakcja na alarm.",
+  "najpierw": [
+    {
+      "t": "W razie alarmu opuść pomieszczenie, wyjdź z budynku i wezwij pomoc (112).",
+      "zr": "KG PSP czujki",
+      "str": 1
+    },
+    {
+      "t": "Podejrzenie zatrucia CO — przewietrz, ewakuuj siebie i domowników, dzwoń 112.",
+      "zr": "KG PSP czujki",
+      "str": 1
+    },
+    {
+      "t": "Zamontuj czujki dymu, czadu i gazu; regularnie sprawdzaj ich stan i umiejscowienie.",
+      "zr": "Poradnik 2025",
+      "str": 18
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "Obowiązek — mieszkania użytkowane przed 23.12.2024",
+      "wartosc": "od 1 stycznia 2030 r.",
+      "zr": "KG PSP czujki",
+      "str": 1
+    },
+    {
+      "nazwa": "Obowiązek — obiekty hotelarskie użytkowane przed 23.12.2024",
+      "wartosc": "do 30 czerwca 2026 r.",
+      "zr": "KG PSP czujki",
+      "str": 1
+    },
+    {
+      "nazwa": "Nowe budynki",
+      "wartosc": "od chwili przystąpienia do użytkowania",
+      "zr": "KG PSP czujki",
+      "str": 1
+    }
+  ],
+  "sekcje": [
+    {
+      "etykieta": "Czad (CO)",
+      "punkty": [
+        {
+          "t": "Bezbarwny i bezwonny — nie wykryjesz go zmysłami.",
+          "zr": "KG PSP czujki",
+          "str": 1
+        },
+        {
+          "t": "Objawy: ból i zawroty głowy, duszność, senność, osłabienie, szybkie tętno, utrata świadomości.",
+          "zr": "KG PSP czujki",
+          "str": 1
+        }
+      ]
+    },
+    {
+      "etykieta": "Zapobieganie",
+      "punkty": [
+        {
+          "t": "Przegląd komina, wentylacji i instalacji gazowej; nie zasłaniaj kratek, zapewnij dopływ powietrza.",
+          "zr": "KG PSP czujki",
+          "str": 1
+        }
+      ]
+    }
+  ],
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "czujki bezpieczeństwa",
+    "temat tlenek węgla",
+    "dym"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "src-kgpsp-czujki-2026",
+      "strona": 1,
+      "sekcja": "Obowiązek instalowania czujek (KG PSP, 30.06.2026)"
+    },
+    {
+      "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+      "strona": 18,
+      "sekcja": "Dom (s. 18)"
+    }
+  ],
+  "data_przegladu": "2026-10-28"
+}

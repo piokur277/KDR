@@ -1,0 +1,110 @@
+{
+  "id": "KARTA-OLIOC-POZAR-GASNICA-I-KOC",
+  "wzorzec": 2,
+  "kategoria": "olioc",
+  "grupa": "olioc",
+  "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+  "data_aktualizacji": "2026-10-28",
+  "slowo_kluczowe": "olioc jak użyć gaśnicy",
+  "keywords": [
+    "gaszenie małego pożaru przez obywatela",
+    "koc gaśniczy użycie",
+    "rodzaje pożarów oznaczenia gaśnicy"
+  ],
+  "aliasy": [
+    "gaszenie małego pożaru przez obywatela",
+    "koc gaśniczy użycie",
+    "rodzaje pożarów oznaczenia gaśnicy"
+  ],
+  "prefix": "Pożar w domu — gaśnica, koc gaśniczy, czego nie gasić wodą.",
+  "najpierw": [
+    {
+      "t": "Zauważysz pożar lub dym — wezwij straż pożarną: 112.",
+      "zr": "Poradnik 2025",
+      "str": 31
+    },
+    {
+      "t": "Próbuj gasić ogień tylko, gdy jest nieduży.",
+      "zr": "Poradnik 2025",
+      "str": 31
+    },
+    {
+      "t": "Nie otwieraj okien ani drzwi — mniej powietrza spowalnia ogień.",
+      "zr": "Poradnik 2025",
+      "str": 31
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "Klasy gaśnic",
+      "wartosc": "A — ciała stałe · B — ciecze · C — gazy · D — metale · F — tłuszcze i oleje",
+      "zr": "Poradnik 2025",
+      "str": 31
+    }
+  ],
+  "sekcje": [
+    {
+      "etykieta": "Czym gasić",
+      "punkty": [
+        {
+          "t": "Materiały stałe (drewno, papier, tkanina) — gaśnica A, koc lub woda.",
+          "zr": "Poradnik 2025",
+          "str": 30
+        },
+        {
+          "t": "Ciecze (benzyna, alkohol, farby) — gaśnica B; nie koc ani woda.",
+          "zr": "Poradnik 2025",
+          "str": 30
+        },
+        {
+          "t": "Gazy — odetnij dopływ, zakręcając zawór; nie koc ani woda.",
+          "zr": "Poradnik 2025",
+          "str": 30
+        },
+        {
+          "t": "Olej na patelni — szczelnie przykryj pokrywką, kocem lub mokrą ścierką.",
+          "zr": "Poradnik 2025",
+          "str": 30
+        }
+      ]
+    },
+    {
+      "etykieta": "Dalej",
+      "punkty": [
+        {
+          "t": "Jeśli bezpieczne — zakręć główny zawór gazu i wyłącz główne wyłączniki prądu.",
+          "zr": "Poradnik 2025",
+          "str": 31
+        },
+        {
+          "t": "Chroń drogi oddechowe; nie używaj windy; zgłoś służbom osoby pozostałe w budynku.",
+          "zr": "Poradnik 2025",
+          "str": 31
+        }
+      ]
+    }
+  ],
+  "nie_rob": [
+    {
+      "t": "Nie gaś wodą urządzeń elektrycznych, palących się olejów ani tłuszczu.",
+      "zr": "Poradnik 2025",
+      "str": 31
+    }
+  ],
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "gaśnica",
+    "koc gaśniczy",
+    "pożar"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+      "strona": 30,
+      "sekcja": "Pożar (s. 30–31)"
+    }
+  ],
+  "data_przegladu": "2026-10-28"
+}

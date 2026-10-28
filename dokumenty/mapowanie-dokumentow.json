@@ -1477,194 +1477,122 @@
     ]
   },
   {
-    "id": "KARTA-OLIOC-WRZESIEŃ-04-AED_OBYWATEL",
-    "procedura": "OLiOC - wrzesień: AED - użycie defibrylatora przez obywatela.",
-    "miesiac_akademii": "wrzesień",
+    "id": "KARTA-OLIOC-PIERWSZA-POMOC-RKO-I-AED",
+    "procedura": "Pierwsza pomoc dla obywatela — ocena, RKO, AED, krwotok.",
     "dokumenty_zrodlowe": [
       {
-        "dokument_id": "src-poradnik-pierwsza-pomoc",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Pierwsza pomoc i AED",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/pierwsza-pomoc",
-        "typ": "url"
-      },
-      {
-        "dokument_id": "src-poradnik-otoczenie",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Przygotuj swoje otoczenie",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/przygotuj-swoje-otoczenie",
-        "typ": "url"
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 41,
+        "sekcja": "Pierwsza pomoc (s. 41–44)",
+        "tytul": "Poradnik bezpieczeństwa",
+        "plik": "dokumenty/olioc/poradnik-bezpieczenstwa-2025.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
-    "id": "KARTA-OLIOC-WRZESIEŃ-06-CZUJKI",
-    "procedura": "OLiOC - wrzesień: czujki dymu, tlenku węgla i gazu.",
-    "miesiac_akademii": "wrzesień",
+    "id": "KARTA-OLIOC-CZUJKI-DYMU-I-CZADU",
+    "procedura": "Czujki dymu i czadu — obowiązek montażu, objawy zatrucia CO, reakcja na alarm.",
     "dokumenty_zrodlowe": [
-      {
-        "dokument_id": "src-poradnik-otoczenie",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Przygotuj swoje otoczenie",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/przygotuj-swoje-otoczenie",
-        "typ": "url"
-      },
       {
         "dokument_id": "src-kgpsp-czujki-2026",
         "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
+        "sekcja": "Obowiązek instalowania czujek (KG PSP, 30.06.2026)",
         "tytul": "KG PSP - Obowiązek instalowania autonomicznych czujek dymu i czadu",
         "plik": "https://www.gov.pl/web/kgpsp/obowiazek-instalowania-autonomicznych-czujek-dymu-i-czadu",
         "typ": "url"
+      },
+      {
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 18,
+        "sekcja": "Dom (s. 18)",
+        "tytul": "Poradnik bezpieczeństwa",
+        "plik": "dokumenty/olioc/poradnik-bezpieczenstwa-2025.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
-    "id": "KARTA-OLIOC-WRZESIEŃ-01-DOM_SZKOLA_PRACA",
-    "procedura": "OLiOC - wrzesień: bezpieczeństwo domu, szkoły i miejsca pracy.",
-    "miesiac_akademii": "wrzesień",
+    "id": "KARTA-OLIOC-BEZPIECZENSTWO-DOM-SZKOLA-PRACA",
+    "procedura": "Bezpieczeństwo w domu, szkole i pracy — przygotowanie otoczenia.",
     "dokumenty_zrodlowe": [
       {
-        "dokument_id": "src-olioc-akademia",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Akademia OLiOC - program „jeden miesiąc - jeden temat”",
-        "plik": "https://www.gov.pl/web/olioc/akdemia-olioc",
-        "typ": "url"
-      },
-      {
-        "dokument_id": "src-poradnik-otoczenie",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Przygotuj swoje otoczenie",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/przygotuj-swoje-otoczenie",
-        "typ": "url"
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 16,
+        "sekcja": "Przygotuj swoje otoczenie (s. 16–19)",
+        "tytul": "Poradnik bezpieczeństwa",
+        "plik": "dokumenty/olioc/poradnik-bezpieczenstwa-2025.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
-    "id": "KARTA-OLIOC-WRZESIEŃ-02-DROGI_EWAKUACYJNE",
-    "procedura": "OLiOC - wrzesień: drogi ewakuacyjne, wyjścia i miejsce zbiórki.",
-    "miesiac_akademii": "wrzesień",
+    "id": "KARTA-OLIOC-DROGI-EWAKUACYJNE",
+    "procedura": "Drogi ewakuacyjne — wyjścia, miejsca zbiórki, zakaz używania windy.",
     "dokumenty_zrodlowe": [
       {
-        "dokument_id": "src-poradnik-otoczenie",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Przygotuj swoje otoczenie",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/przygotuj-swoje-otoczenie",
-        "typ": "url"
-      },
-      {
-        "dokument_id": "src-poradnik-pozar",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Pożar",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/pozar",
-        "typ": "url"
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 19,
+        "sekcja": "Otoczenie (s. 17, 19), pożar (s. 31)",
+        "tytul": "Poradnik bezpieczeństwa",
+        "plik": "dokumenty/olioc/poradnik-bezpieczenstwa-2025.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
-    "id": "KARTA-OLIOC-WRZESIEŃ-03-GASNICA_KOC",
-    "procedura": "OLiOC - wrzesień: bezpieczne użycie gaśnicy i koca gaśniczego.",
-    "miesiac_akademii": "wrzesień",
+    "id": "KARTA-OLIOC-POZAR-GASNICA-I-KOC",
+    "procedura": "Pożar w domu — gaśnica, koc gaśniczy, czego nie gasić wodą.",
     "dokumenty_zrodlowe": [
       {
-        "dokument_id": "src-poradnik-pozar",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Pożar",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/pozar",
-        "typ": "url"
-      },
-      {
-        "dokument_id": "src-poradnik-otoczenie",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Przygotuj swoje otoczenie",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/przygotuj-swoje-otoczenie",
-        "typ": "url"
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 30,
+        "sekcja": "Pożar (s. 30–31)",
+        "tytul": "Poradnik bezpieczeństwa",
+        "plik": "dokumenty/olioc/poradnik-bezpieczenstwa-2025.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
-    "id": "KARTA-OLIOC-WRZESIEŃ-08-KONTAKT_I_ZBIORKA",
-    "procedura": "OLiOC - wrzesień: kontakt awaryjny i miejsca spotkania rodziny.",
-    "miesiac_akademii": "wrzesień",
+    "id": "KARTA-OLIOC-MIEJSCE-SPOTKANIA-I-KONTAKT",
+    "procedura": "Miejsce spotkania i kontakt rodziny po rozdzieleniu.",
     "dokumenty_zrodlowe": [
       {
-        "dokument_id": "src-poradnik-plan",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Plan na kryzys",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/plan-na-kryzys",
-        "typ": "url"
-      },
-      {
-        "dokument_id": "src-poradnik-szczegolna-pomoc",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Osoby potrzebujące szczególnej pomocy",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/osoby-potrzebujace-szczegolnej-pomocy",
-        "typ": "url"
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 47,
+        "sekcja": "Plan na kryzys (s. 47–49), ewakuacja (s. 25–26), Dekalog (s. 52)",
+        "tytul": "Poradnik bezpieczeństwa",
+        "plik": "dokumenty/olioc/poradnik-bezpieczenstwa-2025.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
-    "id": "KARTA-OLIOC-WRZESIEŃ-05-ODCIECIE_MEDIOW",
-    "procedura": "OLiOC - wrzesień: bezpieczne odcięcie prądu, gazu i wody.",
-    "miesiac_akademii": "wrzesień",
+    "id": "KARTA-OLIOC-ODCIECIE-MEDIOW",
+    "procedura": "Odcięcie gazu, prądu i wody w domu.",
     "dokumenty_zrodlowe": [
       {
-        "dokument_id": "src-poradnik-otoczenie",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Przygotuj swoje otoczenie",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/przygotuj-swoje-otoczenie",
-        "typ": "url"
-      },
-      {
-        "dokument_id": "src-poradnik-ewakuacja",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Ewakuacja",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/ewakuacja",
-        "typ": "url"
-      },
-      {
-        "dokument_id": "src-poradnik-pozar",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Pożar",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/pozar",
-        "typ": "url"
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 18,
+        "sekcja": "Dom (s. 18), ewakuacja (s. 25), pożar (s. 30–31)",
+        "tytul": "Poradnik bezpieczeństwa",
+        "plik": "dokumenty/olioc/poradnik-bezpieczenstwa-2025.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
-    "id": "KARTA-OLIOC-WRZESIEŃ-07-RODZINNY_PLAN",
-    "procedura": "OLiOC - wrzesień: rodzinny plan kryzysowy.",
-    "miesiac_akademii": "wrzesień",
+    "id": "KARTA-OLIOC-RODZINNY-PLAN-KRYZYSOWY",
+    "procedura": "Rodzinny plan na kryzys — co zapisać i jak go ćwiczyć.",
     "dokumenty_zrodlowe": [
       {
-        "dokument_id": "src-poradnik-plan",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Plan na kryzys",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/plan-na-kryzys",
-        "typ": "url"
-      },
-      {
-        "dokument_id": "src-poradnik-szczegolna-pomoc",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Osoby potrzebujące szczególnej pomocy",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/osoby-potrzebujace-szczegolnej-pomocy",
-        "typ": "url"
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 46,
+        "sekcja": "Plan na kryzys (s. 46–52)",
+        "tytul": "Poradnik bezpieczeństwa",
+        "plik": "dokumenty/olioc/poradnik-bezpieczenstwa-2025.pdf",
+        "typ": "pdf"
       }
     ]
   },
