@@ -12,29 +12,25 @@ jobs:
       - name: Pobierz
         run: |
           set +e
-          sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils && which pdftotext
-          mkdir -p tmp-adr && cd tmp-adr && rm -f log.txt
-          curl -sSL -A "Mozilla/5.0" -o meta-642.json "https://api.sejm.gov.pl/eli/acts/DU/2025/642" || true
-          curl -sSL -A "Mozilla/5.0" -o meta-593.json "https://api.sejm.gov.pl/eli/acts/DU/2025/593" || true
-          mkdir -p all
-          for act in 642 593; do
-            for n in $(seq -w 1 70); do
-              f=all/D2025${act}-$n.pdf; f=all/D20250${act}-$n.pdf
-              code=$(curl -sSL --retry 2 -A "Mozilla/5.0" -o "$f" -w '%{http_code}' "https://eli.gov.pl/api/acts/DU/2025/${act}/text/I/D20250${act}-$n.pdf")
-              if [ "$code" != "200" ] || ! file -b "$f" | grep -q PDF; then rm -f "$f"; echo "$act-$n brak ($code)" >> log.txt; continue; fi
-              pdftotext -layout "$f" "${f%.pdf}.txt"
-              pages=$(pdfinfo "$f" | awk '/Pages/{print $2}')
-              first=$(grep -m3 -E "DZIAŁ|CZĘŚĆ|Rozdział|ROZDZIAŁ" "${f%.pdf}.txt" | tr -s ' ' | tr '\n' '|' | cut -c1-200)
-              hit=$(grep -c -E "5\.3\.2\.3|5\.3\.2\.1|numer rozpoznawczy zagrożenia|Numer rozpoznawczy zagrożenia|5\.2\.2\.2|5\.3\.1\.7|1\.4\.3\.|1\.2\.1" "${f%.pdf}.txt")
-              echo "$act-$n str=$pages traf=$hit $first" >> log.txt
+          sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils tesseract-ocr tesseract-ocr-pol >/dev/null
+          rm -rf tmp-adr; mkdir -p tmp-adr/ocr && cd tmp-adr
+          for spec in 642:54:1,20,40 593:12:1,60,120,180; do
+            act=${spec%%:*}; rest=${spec#*:}; cnt=${rest%%:*}; pgs=${rest#*:}
+            for n in $(seq -w 1 $cnt); do
+              f=D20250${act}-$n.pdf
+              curl -sSL --retry 2 -A "Mozilla/5.0" -o $f "https://eli.gov.pl/api/acts/DU/2025/${act}/text/I/$f"
+              for p in ${pgs//,/ }; do
+                pdftoppm -r 150 -gray -f $p -l $p -png $f pg >/dev/null 2>&1
+                img=$(ls pg*.png 2>/dev/null | head -1); [ -n "$img" ] || continue
+                tesseract $img - -l pol 2>/dev/null | tr -s '\n' | head -c 500 > ocr/${act}-${n}-p${p}.txt
+                rm -f pg*.png
+              done
+              rm -f $f
             done
           done
-          mkdir -p keep
-          for t in all/*.txt; do if grep -q -E "5\.3\.2\.3|Numer rozpoznawczy zagrożenia" "$t"; then cp "${t%.txt}.pdf" "$t" keep/; fi; done
-          mkdir -p txt && cp all/*.txt txt/ && rm -rf all
-          cat log.txt; ls -la keep
+          ls ocr | wc -l
       - name: Zapisz
         if: always()
         run: |
           git config user.name tmp && git config user.email tmp@users.noreply.github.com
-          git add tmp-adr && git commit -m "Tymczasowe: adr" && git push
+          git add -A tmp-adr && git commit -m "Tymczasowe: adr-ocr" && git push
