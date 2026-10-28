@@ -6925,6 +6925,103 @@
     "content": "1. NAJPIERW: 1 — CZUJNOŚĆ: atak w Ukrainie blisko granicy; możesz usłyszeć samoloty wojskowe i sygnał alarmowy — przygotuj się na kolejne informacje. 2 — GOTOWOŚĆ: większe ryzyko wtargnięcia obiektu — przygotuj się, by znaleźć się w bezpiecznym miejscu. 3 — ALARM: „Zagrożenie atakiem z powietrza. Znajdź bezpieczne miejsce” — działaj teraz.\n2. PARAMETRY: RSO — bezpłatna aplikacja — informuje o zagrożeniach na terenie Polski\n3. PRZED ALERTEM: Zapoznaj się z Poradnikiem bezpieczeństwa, ustal z rodziną sposób reagowania, sprawdź najbliższe miejsce ukrycia. Najbliższy punkt schronienia sprawdzisz na gdziesieukryc.pl.\n4. PO ALERCIE: Stosuj się do poleceń służb, treści Alertu RCB i oficjalnych komunikatów."
   },
   {
+    "id": "KARTA-OLIOC-APTECZKA-LEKI-I-HIGIENA",
+    "wzorzec": 2,
+    "kategoria": "olioc",
+    "grupa": "olioc",
+    "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+    "data_aktualizacji": "2026-10-28",
+    "slowo_kluczowe": "olioc leki i higiena na kryzys",
+    "keywords": [
+      "apteczka i leki na 72 godziny",
+      "środki higieny podczas kryzysu",
+      "dokumentacja medyczna i alergie kryzys"
+    ],
+    "aliasy": [
+      "apteczka i leki na 72 godziny",
+      "środki higieny podczas kryzysu",
+      "dokumentacja medyczna i alergie kryzys"
+    ],
+    "prefix": "Domowa apteczka, leki i środki higieny w zapasach.",
+    "najpierw": [
+      {
+        "t": "Miej przy sobie niezbędne leki i urządzenia wspomagające.",
+        "zr": "Poradnik 2025",
+        "str": 11
+      },
+      {
+        "t": "Poinformuj najbliższych o chorobach i alergiach; dokumentację medyczną trzymaj w jednym miejscu.",
+        "zr": "Poradnik 2025",
+        "str": 11
+      },
+      {
+        "t": "Skompletuj apteczkę z lekami i naucz się udzielać pierwszej pomocy.",
+        "zr": "Poradnik 2025",
+        "str": 52
+      }
+    ],
+    "parametry": [],
+    "sekcje": [
+      {
+        "etykieta": "Apteczka",
+        "punkty": [
+          {
+            "t": "Leki przyjmowane na stałe, przeciwbólowe, przeciwzapalne, przeciwwymiotne, przeciwbiegunkowe.",
+            "zr": "Poradnik 2025",
+            "str": 21
+          },
+          {
+            "t": "Gaza, bandaże, opatrunki na oparzenia, rękawiczki jednorazowe, środki antyseptyczne.",
+            "zr": "Poradnik 2025",
+            "str": 21
+          },
+          {
+            "t": "Opaska do tamowania krwotoków, termometr, nożyczki, maseczki FFP3, folia termiczna.",
+            "zr": "Poradnik 2025",
+            "str": 21
+          }
+        ]
+      },
+      {
+        "etykieta": "Higiena",
+        "punkty": [
+          {
+            "t": "Papier toaletowy, chusteczki nawilżane, podpaski, pieluchy, środki dezynfekujące, worki na śmieci, wiadro z pokrywą.",
+            "zr": "Poradnik 2025",
+            "str": 21
+          }
+        ]
+      },
+      {
+        "etykieta": "Zdrowie",
+        "punkty": [
+          {
+            "t": "Postaraj się o kartę grupy krwi i noś ją przy sobie.",
+            "zr": "Poradnik 2025",
+            "str": 11
+          }
+        ]
+      }
+    ],
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "leki",
+      "higiena",
+      "zdrowie"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 21,
+        "sekcja": "Apteczka i higiena (s. 21), przygotuj siebie (s. 11), dekalog (s. 52)"
+      }
+    ],
+    "data_przegladu": "2026-10-28",
+    "content": "1. NAJPIERW: Miej przy sobie niezbędne leki i urządzenia wspomagające. Poinformuj najbliższych o chorobach i alergiach; dokumentację medyczną trzymaj w jednym miejscu. Skompletuj apteczkę z lekami i naucz się udzielać pierwszej pomocy.\n2. APTECZKA: Leki przyjmowane na stałe, przeciwbólowe, przeciwzapalne, przeciwwymiotne, przeciwbiegunkowe. Gaza, bandaże, opatrunki na oparzenia, rękawiczki jednorazowe, środki antyseptyczne. Opaska do tamowania krwotoków, termometr, nożyczki, maseczki FFP3, folia termiczna.\n3. HIGIENA: Papier toaletowy, chusteczki nawilżane, podpaski, pieluchy, środki dezynfekujące, worki na śmieci, wiadro z pokrywą.\n4. ZDROWIE: Postaraj się o kartę grupy krwi i noś ją przy sobie."
+  },
+  {
     "id": "KARTA-OLIOC-BEZPIECZENSTWO-DOM-SZKOLA-PRACA",
     "wzorzec": 2,
     "kategoria": "olioc",
@@ -7726,277 +7823,6 @@
     ],
     "data_przegladu": "2026-10-28",
     "content": "1. NAJPIERW: Dzieci mają przy sobie dane kontaktowe opiekuna i informacje medyczne. Skorzystaj ze zorganizowanego transportu albo idź pieszo do wyznaczonego miejsca; samochodem nie blokuj dróg ewakuacyjnych. Powiadom bliskich, że się ewakuujesz, w jaki sposób i dokąd.\n2. TRANSPORT OD INNYCH OSÓB: Prześlij bliskim numer rejestracyjny pojazdu i aktualny adres, w którym jesteś.\n3. PLAN RODZINNY: Ustalcie miejsca i terminy spotkań — w okolicy i poza miejscowością — na wypadek rozdzielenia i braku łączności.\n4. NIE RÓB: Nie oddawaj dokumentów osobom oferującym pomoc lub transport."
-  },
-  {
-    "id": "KARTA-OLIOC-GRUDZIEŃ-04-LEKI_HIGIENA",
-    "kategoria": "olioc",
-    "miesiac_akademii": "grudzień",
-    "grupa_docelowa": "obywatel",
-    "status_zrodla": "oficjalne",
-    "data_aktualizacji": "2026-07-17",
-    "data_weryfikacji_zrodel": "2026-07-17",
-    "zrodlo": "Poradnik bezpieczeństwa - Przygotuj siebie i najbliższych; Poradnik bezpieczeństwa - Higiena w kryzysie; Poradnik bezpieczeństwa - Plan na kryzys",
-    "slowo_kluczowe": "olioc leki i higiena na kryzys",
-    "keywords": [
-      "apteczka i leki na 72 godziny",
-      "środki higieny podczas kryzysu",
-      "dokumentacja medyczna i alergie kryzys"
-    ],
-    "prefix": "OLiOC - grudzień: leki, zdrowie i higiena w domowych zapasach.",
-    "content": "1. Zgromadź stale przyjmowane leki, podstawową apteczkę oraz listę dawkowania, chorób i alergii.\n2. Dokumentację medyczną i recepty przechowuj w jednym miejscu, dostępnym dla zaufanej osoby.\n3. Przygotuj środki higieny osobistej, dezynfekcji, rękawiczki, papier, worki i artykuły menstruacyjne.\n4. Uwzględnij okulary, baterie do aparatów słuchowych, sensory, sprzęt stomijny i inne urządzenia wspomagające.\n5. Kontroluj temperaturę oraz warunki przechowywania leków; nie używaj produktów po terminie.\n6. Nie gromadź leków na receptę bez uzgodnienia z lekarzem lub farmaceutą.",
-    "tagi_wspolne": [
-      "OLiOC",
-      "ochrona ludności",
-      "edukacja obywatelska",
-      "Akademia OLiOC grudzień",
-      "leki",
-      "higiena",
-      "zdrowie"
-    ],
-    "aliasy": [
-      "apteczka i leki na 72 godziny",
-      "środki higieny podczas kryzysu",
-      "dokumentacja medyczna i alergie kryzys"
-    ],
-    "dokumenty_zrodlowe": [
-      {
-        "dokument_id": "src-poradnik-przygotuj-siebie",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      },
-      {
-        "dokument_id": "src-poradnik-higiena",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      },
-      {
-        "dokument_id": "src-poradnik-plan",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      }
-    ]
-  },
-  {
-    "id": "KARTA-OLIOC-GRUDZIEŃ-06-ROTACJA_ZAPASOW",
-    "kategoria": "olioc",
-    "miesiac_akademii": "grudzień",
-    "grupa_docelowa": "obywatel",
-    "status_zrodla": "oficjalne",
-    "data_aktualizacji": "2026-07-17",
-    "data_weryfikacji_zrodel": "2026-07-17",
-    "zrodlo": "Poradnik bezpieczeństwa - Plan na kryzys; Poradnik bezpieczeństwa - Długotrwały brak prądu (blackout)",
-    "slowo_kluczowe": "olioc kontrola i rotacja zapasów",
-    "keywords": [
-      "jak sprawdzać domowe zapasy kryzysowe",
-      "terminy ważności zapasów 72 godziny",
-      "lista kontrolna zestawu awaryjnego"
-    ],
-    "prefix": "OLiOC - grudzień: przechowywanie, kontrola i rotacja zapasów.",
-    "content": "1. Sporządź listę zapasów z ilością, miejscem przechowywania i terminem ważności.\n2. Kontroluj zestaw co najmniej dwa razy w roku oraz po każdym użyciu.\n3. Produkty z najkrótszym terminem zużywaj na co dzień i od razu zastępuj nowymi.\n4. Sprawdzaj baterie, powerbanki, latarki, radio, gaśnicę, czujki i stan pojemników.\n5. Przechowuj zapasy w suchym, chłodnym miejscu, zabezpieczonym przed dziećmi, wilgocią i szkodnikami.\n6. Raz w roku przeprowadź rodzinny trening 24 godzin z ograniczonym dostępem do prądu, wody i internetu.",
-    "tagi_wspolne": [
-      "OLiOC",
-      "ochrona ludności",
-      "edukacja obywatelska",
-      "Akademia OLiOC grudzień",
-      "rotacja zapasów",
-      "lista kontrolna"
-    ],
-    "aliasy": [
-      "jak sprawdzać domowe zapasy kryzysowe",
-      "terminy ważności zapasów 72 godziny",
-      "lista kontrolna zestawu awaryjnego"
-    ],
-    "dokumenty_zrodlowe": [
-      {
-        "dokument_id": "src-poradnik-plan",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      },
-      {
-        "dokument_id": "src-poradnik-blackout",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      }
-    ]
-  },
-  {
-    "id": "KARTA-OLIOC-GRUDZIEŃ-05-SZCZEGOLNE_POTRZEBY_ZAPASY",
-    "kategoria": "olioc",
-    "miesiac_akademii": "grudzień",
-    "grupa_docelowa": "obywatel",
-    "status_zrodla": "oficjalne",
-    "data_aktualizacji": "2026-07-17",
-    "data_weryfikacji_zrodel": "2026-07-17",
-    "zrodlo": "Poradnik bezpieczeństwa - Osoby potrzebujące szczególnej pomocy; Poradnik bezpieczeństwa - Zadbaj o zwierzęta",
-    "slowo_kluczowe": "olioc zapasy dla dzieci seniorów zwierząt",
-    "keywords": [
-      "specjalne potrzeby zapasy kryzysowe",
-      "żywność niemowlęca i pieluchy kryzys",
-      "karma leki zwierzęta 72 godziny"
-    ],
-    "prefix": "OLiOC - grudzień: zapasy dla dzieci, seniorów, osób zależnych i zwierząt.",
-    "content": "1. Dla niemowląt przygotuj żywność, wodę do jej przygotowania, pieluchy, środki pielęgnacji i ubrania.\n2. Dla seniorów i osób chorych uwzględnij leki, dietę, baterie, sprzęt pomocniczy i plan transportu.\n3. Przygotuj kartę z kontaktem do opiekuna i najważniejszymi informacjami medycznymi.\n4. Dla zwierząt przygotuj karmę, wodę, leki, transporter, smycz, dokumentację i dane właściciela.\n5. Zapasy i plecak osoby zależnej omów z nią oraz z opiekunem - nie zakładaj potrzeb bez konsultacji.\n6. Powiadom zaufane osoby, gdzie znajdują się zapasy i jak udzielić wsparcia.",
-    "tagi_wspolne": [
-      "OLiOC",
-      "ochrona ludności",
-      "edukacja obywatelska",
-      "Akademia OLiOC grudzień",
-      "dzieci",
-      "seniorzy",
-      "zwierzęta",
-      "szczególne potrzeby"
-    ],
-    "aliasy": [
-      "specjalne potrzeby zapasy kryzysowe",
-      "żywność niemowlęca i pieluchy kryzys",
-      "karma leki zwierzęta 72 godziny"
-    ],
-    "dokumenty_zrodlowe": [
-      {
-        "dokument_id": "src-poradnik-szczegolna-pomoc",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      },
-      {
-        "dokument_id": "src-poradnik-zwierzeta",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      }
-    ]
-  },
-  {
-    "id": "KARTA-OLIOC-GRUDZIEŃ-02-ZAPAS_WODY",
-    "kategoria": "olioc",
-    "miesiac_akademii": "grudzień",
-    "grupa_docelowa": "obywatel",
-    "status_zrodla": "oficjalne",
-    "data_aktualizacji": "2026-07-17",
-    "data_weryfikacji_zrodel": "2026-07-17",
-    "zrodlo": "Poradnik bezpieczeństwa - Długotrwały brak prądu (blackout); Poradnik bezpieczeństwa - Plan na kryzys",
-    "slowo_kluczowe": "olioc zapas wody 3 litry",
-    "keywords": [
-      "ile wody na osobę na dobę kryzys",
-      "woda na 72 godziny",
-      "przechowywanie wody awaryjnej"
-    ],
-    "prefix": "OLiOC - grudzień: zapas wody dla rodziny.",
-    "content": "1. Przygotuj co najmniej 3 litry wody na osobę na każdą dobę, czyli minimum 9 litrów na 72 godziny.\n2. Dodaj wodę dla zwierząt oraz większy zapas przy upałach, chorobach i szczególnych potrzebach.\n3. Przechowuj wodę w szczelnych, czystych pojemnikach przeznaczonych do żywności, z dala od słońca i chemikaliów.\n4. Oznacz datę zakupu lub napełnienia i stosuj rotację zgodnie z terminem producenta.\n5. Oddziel wodę pitną od wody technicznej do mycia i spłukiwania.\n6. Po komunikacie o skażeniu lub zakazie spożycia korzystaj wyłącznie ze źródeł wskazanych przez władze i sanepid.",
-    "tagi_wspolne": [
-      "OLiOC",
-      "ochrona ludności",
-      "edukacja obywatelska",
-      "Akademia OLiOC grudzień",
-      "zapas wody",
-      "woda na kryzys"
-    ],
-    "aliasy": [
-      "ile wody na osobę na dobę kryzys",
-      "woda na 72 godziny",
-      "przechowywanie wody awaryjnej"
-    ],
-    "dokumenty_zrodlowe": [
-      {
-        "dokument_id": "src-poradnik-blackout",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      },
-      {
-        "dokument_id": "src-poradnik-plan",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      }
-    ]
-  },
-  {
-    "id": "KARTA-OLIOC-GRUDZIEŃ-03-ZAPAS_ZYWNOSCI",
-    "kategoria": "olioc",
-    "miesiac_akademii": "grudzień",
-    "grupa_docelowa": "obywatel",
-    "status_zrodla": "oficjalne",
-    "data_aktualizacji": "2026-07-17",
-    "data_weryfikacji_zrodel": "2026-07-17",
-    "zrodlo": "Poradnik bezpieczeństwa - Długotrwały brak prądu (blackout); Poradnik bezpieczeństwa - Plan na kryzys",
-    "slowo_kluczowe": "olioc żywność na 72 godziny",
-    "keywords": [
-      "jedzenie na trzy dni bez gotowania",
-      "produkty do zapasu kryzysowego",
-      "żywność gotowa do spożycia blackout"
-    ],
-    "prefix": "OLiOC - grudzień: zapas żywności na 72 godziny.",
-    "content": "1. Wybieraj produkty trwałe, gotowe do spożycia lub wymagające niewielkiej ilości wody i energii.\n2. Przygotuj żywność zgodną z dietą domowników, alergiami i możliwościami gryzienia lub połykania.\n3. Miej ręczny otwieracz do puszek oraz bezpieczne naczynia i sztućce.\n4. Nie opieraj całego zapasu na produktach bardzo słonych, które zwiększają zapotrzebowanie na wodę.\n5. Zapisz prosty jadłospis na 3 dni, aby znać rzeczywistą ilość potrzebnych produktów.\n6. Stosuj zasadę: kup, używaj, uzupełniaj - nie dopuszczaj do przeterminowania zapasów.",
-    "tagi_wspolne": [
-      "OLiOC",
-      "ochrona ludności",
-      "edukacja obywatelska",
-      "Akademia OLiOC grudzień",
-      "zapas żywności",
-      "żywność bez gotowania"
-    ],
-    "aliasy": [
-      "jedzenie na trzy dni bez gotowania",
-      "produkty do zapasu kryzysowego",
-      "żywność gotowa do spożycia blackout"
-    ],
-    "dokumenty_zrodlowe": [
-      {
-        "dokument_id": "src-poradnik-blackout",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      },
-      {
-        "dokument_id": "src-poradnik-plan",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      }
-    ]
-  },
-  {
-    "id": "KARTA-OLIOC-GRUDZIEŃ-01-ZAPASY_72H",
-    "kategoria": "olioc",
-    "miesiac_akademii": "grudzień",
-    "grupa_docelowa": "obywatel",
-    "status_zrodla": "oficjalne",
-    "data_aktualizacji": "2026-07-17",
-    "data_weryfikacji_zrodel": "2026-07-17",
-    "zrodlo": "Akademia OLiOC - program „jeden miesiąc - jeden temat”; Poradnik bezpieczeństwa - Plan na kryzys; Poradnik bezpieczeństwa - Długotrwały brak prądu (blackout)",
-    "slowo_kluczowe": "olioc zapasy na 72 godziny",
-    "keywords": [
-      "domowy zestaw kryzysowy trzy dni",
-      "co przygotować na 72 godziny",
-      "zapasy rodziny na sytuację kryzysową"
-    ],
-    "prefix": "OLiOC - grudzień: domowe zapasy na pierwsze 72 godziny.",
-    "content": "1. Policz liczbę domowników i przygotuj zapasy na minimum 3 pełne doby.\n2. Uwzględnij wodę, żywność, leki, higienę, oświetlenie, łączność, ogrzewanie i gotówkę.\n3. Dostosuj zapasy do wieku, zdrowia, alergii, diety, urządzeń medycznych i zwierząt.\n4. Przechowuj rzeczy w kilku bezpiecznych miejscach, dostępnych także po uszkodzeniu części domu.\n5. Nie kupuj jednorazowo przypadkowych produktów - wybieraj rzeczy, których rodzina używa na co dzień.\n6. Raz na pół roku przeprowadź kontrolę, uzupełnij zużyte elementy i przećwicz funkcjonowanie bez mediów.",
-    "tagi_wspolne": [
-      "OLiOC",
-      "ochrona ludności",
-      "edukacja obywatelska",
-      "Akademia OLiOC grudzień",
-      "72 godziny",
-      "zapasy domowe"
-    ],
-    "aliasy": [
-      "domowy zestaw kryzysowy trzy dni",
-      "co przygotować na 72 godziny",
-      "zapasy rodziny na sytuację kryzysową"
-    ],
-    "dokumenty_zrodlowe": [
-      {
-        "dokument_id": "src-olioc-akademia",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      },
-      {
-        "dokument_id": "src-poradnik-plan",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      },
-      {
-        "dokument_id": "src-poradnik-blackout",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      }
-    ]
   },
   {
     "id": "KARTA-OLIOC-INSTYTUCJE-I-SLUZBY",
@@ -9125,6 +8951,84 @@
     "content": "1. NAJPIERW: Zauważysz pożar lub dym — wezwij straż pożarną: 112. Próbuj gasić ogień tylko, gdy jest nieduży. Nie otwieraj okien ani drzwi — mniej powietrza spowalnia ogień.\n2. PARAMETRY: Klasy gaśnic — A — ciała stałe · B — ciecze · C — gazy · D — metale · F — tłuszcze i oleje\n3. CZYM GASIĆ: Materiały stałe (drewno, papier, tkanina) — gaśnica A, koc lub woda. Ciecze (benzyna, alkohol, farby) — gaśnica B; nie koc ani woda. Gazy — odetnij dopływ, zakręcając zawór; nie koc ani woda. Olej na patelni — szczelnie przykryj pokrywką, kocem lub mokrą ścierką.\n4. DALEJ: Jeśli bezpieczne — zakręć główny zawór gazu i wyłącz główne wyłączniki prądu. Chroń drogi oddechowe; nie używaj windy; zgłoś służbom osoby pozostałe w budynku.\n5. NIE RÓB: Nie gaś wodą urządzeń elektrycznych, palących się olejów ani tłuszczu."
   },
   {
+    "id": "KARTA-OLIOC-PRZEGLAD-I-ROTACJA-ZAPASOW",
+    "wzorzec": 2,
+    "kategoria": "olioc",
+    "grupa": "olioc",
+    "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+    "data_aktualizacji": "2026-10-28",
+    "slowo_kluczowe": "olioc kontrola i rotacja zapasów",
+    "keywords": [
+      "jak sprawdzać domowe zapasy kryzysowe",
+      "terminy ważności zapasów 72 godziny",
+      "lista kontrolna zestawu awaryjnego"
+    ],
+    "aliasy": [
+      "jak sprawdzać domowe zapasy kryzysowe",
+      "terminy ważności zapasów 72 godziny",
+      "lista kontrolna zestawu awaryjnego"
+    ],
+    "prefix": "Przegląd i rotacja domowych zapasów.",
+    "najpierw": [
+      {
+        "t": "Przeglądaj zapasy raz na kilka miesięcy i sprawdzaj terminy przydatności.",
+        "zr": "Poradnik 2025",
+        "str": 20
+      },
+      {
+        "t": "Produkty, które częściowo zużywasz, regularnie uzupełniaj.",
+        "zr": "Poradnik 2025",
+        "str": 20
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Przegląd zapasów",
+        "wartosc": "raz na kilka miesięcy",
+        "zr": "Poradnik 2025",
+        "str": 20
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Sprawdzaj także",
+        "punkty": [
+          {
+            "t": "Stan techniczny czujek dymu, czadu i gazu.",
+            "zr": "Poradnik 2025",
+            "str": 18
+          },
+          {
+            "t": "Przeglądy instalacji: kominowej, wentylacyjnej, gazowej i elektrycznej.",
+            "zr": "Poradnik 2025",
+            "str": 18
+          },
+          {
+            "t": "Naładowane powerbanki.",
+            "zr": "Poradnik 2025",
+            "str": 33
+          }
+        ]
+      }
+    ],
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "rotacja zapasów",
+      "lista kontrolna"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 20,
+        "sekcja": "Zapasy (s. 20), otoczenie (s. 18), blackout (s. 33)"
+      }
+    ],
+    "data_przegladu": "2026-10-28",
+    "content": "1. NAJPIERW: Przeglądaj zapasy raz na kilka miesięcy i sprawdzaj terminy przydatności. Produkty, które częściowo zużywasz, regularnie uzupełniaj.\n2. PARAMETRY: Przegląd zapasów — raz na kilka miesięcy\n3. SPRAWDZAJ TAKŻE: Stan techniczny czujek dymu, czadu i gazu. Przeglądy instalacji: kominowej, wentylacyjnej, gazowej i elektrycznej. Naładowane powerbanki."
+  },
+  {
     "id": "KARTA-OLIOC-PRZYGOTOWANIE-DOMU-I-RODZINY",
     "wzorzec": 2,
     "kategoria": "olioc",
@@ -9813,6 +9717,398 @@
     ],
     "data_przegladu": "2026-10-28",
     "content": "1. NAJPIERW: Zapas wody: minimum 3 litry na osobę na dobę. Brak bieżącej wody — nawilżane chusteczki i płyny do dezynfekcji. Prowizoryczna toaleta: plastikowa torba na wiadrze; po użyciu torba do osobnego pojemnika.\n2. HIGIENA: Zapachy zneutralizujesz ziemią, trocinami lub żwirkiem; jak pozbywać się nieczystości — poinformują służby komunalne. Przy braku wody nadal możesz oddawać mocz do toalety. Zapasy higieniczne: papier, chusteczki, podpaski, pieluchy, środki dezynfekujące, worki, wiadro z pokrywą.\n3. WODA W PLECAKU: Filtry lub tabletki do uzdatniania wody."
+  },
+  {
+    "id": "KARTA-OLIOC-ZAPAS-WODY",
+    "wzorzec": 2,
+    "kategoria": "olioc",
+    "grupa": "olioc",
+    "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025; EFSA/GIS: Wskazówki dotyczące bezpieczeństwa żywności podczas przerwy w dostawie prądu (2026).",
+    "data_aktualizacji": "2026-10-28",
+    "slowo_kluczowe": "olioc zapas wody 3 litry",
+    "keywords": [
+      "ile wody na osobę na dobę kryzys",
+      "woda na 72 godziny",
+      "przechowywanie wody awaryjnej"
+    ],
+    "aliasy": [
+      "ile wody na osobę na dobę kryzys",
+      "woda na 72 godziny",
+      "przechowywanie wody awaryjnej"
+    ],
+    "prefix": "Zapas wody pitnej dla domowników i zwierząt.",
+    "najpierw": [
+      {
+        "t": "Minimum 3 litry wody na osobę na dobę.",
+        "zr": "Poradnik 2025",
+        "str": 21
+      },
+      {
+        "t": "W plecaku ewakuacyjnym: woda butelkowana oraz filtry lub tabletki do uzdatniania wody.",
+        "zr": "Poradnik 2025",
+        "str": 26
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Woda pitna",
+        "wartosc": "min. 3 l na osobę na dobę",
+        "zr": "Poradnik 2025",
+        "str": 21
+      },
+      {
+        "nazwa": "Na 3 dni",
+        "wartosc": "min. 9 l na osobę (3 × 3 l)",
+        "zr": "Poradnik 2025",
+        "str": 21
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Zwierzęta",
+        "punkty": [
+          {
+            "t": "Zwierzęta domowe: zapas wody pitnej, karmy i leków na kilka dni.",
+            "zr": "Poradnik 2025",
+            "str": 14
+          },
+          {
+            "t": "Zwierzęta gospodarskie: zapas paszy i wody na 14 dni; zbiorniki na deszczówkę.",
+            "zr": "Poradnik 2025",
+            "str": 15
+          }
+        ]
+      },
+      {
+        "etykieta": "Brak bieżącej wody",
+        "punkty": [
+          {
+            "t": "Higiena: chusteczki nawilżane i płyny do dezynfekcji.",
+            "zr": "Poradnik 2025",
+            "str": 45
+          },
+          {
+            "t": "Miej produkty spożywcze, które nie wymagają wody ani gotowania.",
+            "zr": "EFSA/GIS 2026",
+            "str": 1
+          }
+        ]
+      }
+    ],
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "zapas wody",
+      "woda na kryzys"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 21,
+        "sekcja": "Zapasy (s. 21), plecak (s. 26), zwierzęta (s. 14–15), higiena (s. 45)"
+      },
+      {
+        "dokument_id": "doc-efsa-zywnosc-blackout-2026",
+        "strona": 1,
+        "sekcja": "Infografika EFSA/GIS"
+      }
+    ],
+    "data_przegladu": "2026-10-28",
+    "content": "1. NAJPIERW: Minimum 3 litry wody na osobę na dobę. W plecaku ewakuacyjnym: woda butelkowana oraz filtry lub tabletki do uzdatniania wody.\n2. PARAMETRY: Woda pitna — min. 3 l na osobę na dobę; Na 3 dni — min. 9 l na osobę (3 × 3 l)\n3. ZWIERZĘTA: Zwierzęta domowe: zapas wody pitnej, karmy i leków na kilka dni. Zwierzęta gospodarskie: zapas paszy i wody na 14 dni; zbiorniki na deszczówkę.\n4. BRAK BIEŻĄCEJ WODY: Higiena: chusteczki nawilżane i płyny do dezynfekcji. Miej produkty spożywcze, które nie wymagają wody ani gotowania."
+  },
+  {
+    "id": "KARTA-OLIOC-ZAPAS-ZYWNOSCI",
+    "wzorzec": 2,
+    "kategoria": "olioc",
+    "grupa": "olioc",
+    "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025; EFSA/GIS: Wskazówki dotyczące bezpieczeństwa żywności podczas przerwy w dostawie prądu (2026).",
+    "data_aktualizacji": "2026-10-28",
+    "slowo_kluczowe": "olioc żywność na 72 godziny",
+    "keywords": [
+      "jedzenie na trzy dni bez gotowania",
+      "produkty do zapasu kryzysowego",
+      "żywność gotowa do spożycia blackout"
+    ],
+    "aliasy": [
+      "jedzenie na trzy dni bez gotowania",
+      "produkty do zapasu kryzysowego",
+      "żywność gotowa do spożycia blackout"
+    ],
+    "prefix": "Zapas żywności na minimum 3 dni.",
+    "najpierw": [
+      {
+        "t": "Żywność gotowa do spożycia, np. konserwy, suchary, batony.",
+        "zr": "Poradnik 2025",
+        "str": 33
+      },
+      {
+        "t": "Produkty, które nie wymagają lodówki, wody ani gotowania; ręczny otwieracz do puszek.",
+        "zr": "EFSA/GIS 2026",
+        "str": 1
+      },
+      {
+        "t": "Część zapasów zużywaj na bieżąco i regularnie uzupełniaj; sprawdzaj terminy przydatności.",
+        "zr": "Poradnik 2025",
+        "str": 20
+      }
+    ],
+    "parametry": [],
+    "sekcje": [
+      {
+        "etykieta": "Do plecaka ewakuacyjnego",
+        "punkty": [
+          {
+            "t": "Żywność wysokoodżywcza gotowa do spożycia: batony energetyczne, suszone owoce, bakalie.",
+            "zr": "Poradnik 2025",
+            "str": 26
+          }
+        ]
+      },
+      {
+        "etykieta": "Przerwa w dostawie prądu",
+        "punkty": [
+          {
+            "t": "Zamknięta lodówka utrzymuje bezpieczną temperaturę ok. 4 godziny; łatwo psującą się żywność powyżej 5°C dłużej niż 2 godziny wyrzuć.",
+            "zr": "EFSA/GIS 2026",
+            "str": 1
+          }
+        ]
+      }
+    ],
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "zapas żywności",
+      "żywność bez gotowania"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 20,
+        "sekcja": "Zapasy (s. 20–21), plecak (s. 26), blackout (s. 33)"
+      },
+      {
+        "dokument_id": "doc-efsa-zywnosc-blackout-2026",
+        "strona": 1,
+        "sekcja": "Infografika EFSA/GIS"
+      }
+    ],
+    "data_przegladu": "2026-10-28",
+    "content": "1. NAJPIERW: Żywność gotowa do spożycia, np. konserwy, suchary, batony. Produkty, które nie wymagają lodówki, wody ani gotowania; ręczny otwieracz do puszek. Część zapasów zużywaj na bieżąco i regularnie uzupełniaj; sprawdzaj terminy przydatności.\n2. DO PLECAKA EWAKUACYJNEGO: Żywność wysokoodżywcza gotowa do spożycia: batony energetyczne, suszone owoce, bakalie.\n3. PRZERWA W DOSTAWIE PRĄDU: Zamknięta lodówka utrzymuje bezpieczną temperaturę ok. 4 godziny; łatwo psującą się żywność powyżej 5°C dłużej niż 2 godziny wyrzuć."
+  },
+  {
+    "id": "KARTA-OLIOC-ZAPASY-DOMOWE-NA-3-DNI",
+    "wzorzec": 2,
+    "kategoria": "olioc",
+    "grupa": "olioc",
+    "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+    "data_aktualizacji": "2026-10-28",
+    "slowo_kluczowe": "olioc zapasy na 72 godziny",
+    "keywords": [
+      "domowy zestaw kryzysowy trzy dni",
+      "co przygotować na 72 godziny",
+      "zapasy rodziny na sytuację kryzysową"
+    ],
+    "aliasy": [
+      "domowy zestaw kryzysowy trzy dni",
+      "co przygotować na 72 godziny",
+      "zapasy rodziny na sytuację kryzysową"
+    ],
+    "prefix": "Domowe zapasy na minimum 3 dni — co zgromadzić.",
+    "najpierw": [
+      {
+        "t": "Przygotuj domowe zapasy na minimum 3 dni i regularnie je przeglądaj.",
+        "zr": "Poradnik 2025",
+        "str": 52
+      },
+      {
+        "t": "Gromadź zapasy trwałe (długi termin ważności) i takie, które częściowo zużywasz i regularnie uzupełniasz.",
+        "zr": "Poradnik 2025",
+        "str": 20
+      },
+      {
+        "t": "Przeglądaj zapasy raz na kilka miesięcy i sprawdzaj terminy przydatności.",
+        "zr": "Poradnik 2025",
+        "str": 20
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Okres",
+        "wartosc": "minimum 3 dni",
+        "zr": "Poradnik 2025",
+        "str": 20
+      },
+      {
+        "nazwa": "Woda",
+        "wartosc": "minimum 3 litry na osobę na dobę",
+        "zr": "Poradnik 2025",
+        "str": 21
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Lista zapasów",
+        "punkty": [
+          {
+            "t": "Jedzenie i picie: woda, żywność gotowa do spożycia.",
+            "zr": "Poradnik 2025",
+            "str": 21
+          },
+          {
+            "t": "Apteczka z lekami przyjmowanymi na stałe.",
+            "zr": "Poradnik 2025",
+            "str": 21
+          },
+          {
+            "t": "Środki czystości i higieny osobistej, worki na śmieci, wiadro z pokrywą.",
+            "zr": "Poradnik 2025",
+            "str": 21
+          },
+          {
+            "t": "Oświetlenie i łączność: latarka i radio na baterie lub korbkę, naładowany telefon i powerbank, ładowarka, kable, baterie, świeczki, zapalniczka.",
+            "zr": "Poradnik 2025",
+            "str": 22
+          },
+          {
+            "t": "Koce, śpiwory i ciepła odzież; gotówka w różnych nominałach.",
+            "zr": "Poradnik 2025",
+            "str": 22
+          },
+          {
+            "t": "Narzędzia i sprzęt: taśmy, folie, zestawy do uszczelniania.",
+            "zr": "Poradnik 2025",
+            "str": 22
+          },
+          {
+            "t": "Alternatywne źródło ogrzewania, które nie działa na prąd.",
+            "zr": "Poradnik 2025",
+            "str": 22
+          }
+        ]
+      }
+    ],
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "72 godziny",
+      "zapasy domowe"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 20,
+        "sekcja": "Zapasy domowe na minimum 3 dni (s. 20–22), dekalog (s. 52)"
+      }
+    ],
+    "data_przegladu": "2026-10-28",
+    "content": "1. NAJPIERW: Przygotuj domowe zapasy na minimum 3 dni i regularnie je przeglądaj. Gromadź zapasy trwałe (długi termin ważności) i takie, które częściowo zużywasz i regularnie uzupełniasz. Przeglądaj zapasy raz na kilka miesięcy i sprawdzaj terminy przydatności.\n2. PARAMETRY: Okres — minimum 3 dni; Woda — minimum 3 litry na osobę na dobę\n3. LISTA ZAPASÓW: Jedzenie i picie: woda, żywność gotowa do spożycia. Apteczka z lekami przyjmowanymi na stałe. Środki czystości i higieny osobistej, worki na śmieci, wiadro z pokrywą. Oświetlenie i łączność: latarka i radio na baterie lub korbkę, naładowany telefon i powerbank, ładowarka, kable, baterie, świeczki, zapalniczka. Koce, śpiwory i ciepła odzież; gotówka w różnych nominałach. Narzędzia i sprzęt: taśmy, folie, zestawy do uszczelniania. Alternatywne źródło ogrzewania, które nie działa na prąd."
+  },
+  {
+    "id": "KARTA-OLIOC-ZAPASY-OSOB-WSPIERANYCH-I-ZWIERZAT",
+    "wzorzec": 2,
+    "kategoria": "olioc",
+    "grupa": "olioc",
+    "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+    "data_aktualizacji": "2026-10-28",
+    "slowo_kluczowe": "olioc zapasy dla dzieci seniorów zwierząt",
+    "keywords": [
+      "specjalne potrzeby zapasy kryzysowe",
+      "żywność niemowlęca i pieluchy kryzys",
+      "karma leki zwierzęta 72 godziny"
+    ],
+    "aliasy": [
+      "specjalne potrzeby zapasy kryzysowe",
+      "żywność niemowlęca i pieluchy kryzys",
+      "karma leki zwierzęta 72 godziny"
+    ],
+    "prefix": "Zapasy dla osób wymagających wsparcia, dzieci i zwierząt.",
+    "najpierw": [
+      {
+        "t": "Ustal z osobą, którą wspierasz, sposób działania w sytuacji kryzysowej.",
+        "zr": "Poradnik 2025",
+        "str": 12
+      },
+      {
+        "t": "Upewnij się, że ma zapas niezbędnych leków i baterii do urządzeń wspomagających (aparat słuchowy, sensor cukru).",
+        "zr": "Poradnik 2025",
+        "str": 12
+      },
+      {
+        "t": "Dla dzieci i seniorów przygotuj identyfikatory z imieniem, nazwiskiem i telefonem kontaktowym.",
+        "zr": "Poradnik 2025",
+        "str": 52
+      }
+    ],
+    "parametry": [],
+    "sekcje": [
+      {
+        "etykieta": "Osoby wspierane i dzieci",
+        "punkty": [
+          {
+            "t": "Pomóż spakować plecak ewakuacyjny dla osoby wspieranej.",
+            "zr": "Poradnik 2025",
+            "str": 12
+          },
+          {
+            "t": "W zapasach higienicznych uwzględnij pieluchy.",
+            "zr": "Poradnik 2025",
+            "str": 21
+          }
+        ]
+      },
+      {
+        "etykieta": "Zwierzęta domowe",
+        "punkty": [
+          {
+            "t": "Zapas karmy, wody pitnej i leków na kilka dni.",
+            "zr": "Poradnik 2025",
+            "str": 14
+          },
+          {
+            "t": "Dokumentacja zdrowotna, potwierdzenia szczepień i informacja o lekach w jednym miejscu.",
+            "zr": "Poradnik 2025",
+            "str": 14
+          },
+          {
+            "t": "Sprzęt do transportu: kaganiec, obroża, szelki, smycz, transporter lub klatka.",
+            "zr": "Poradnik 2025",
+            "str": 14
+          }
+        ]
+      },
+      {
+        "etykieta": "Zwierzęta gospodarskie",
+        "punkty": [
+          {
+            "t": "Zapas paszy i wody na 14 dni.",
+            "zr": "Poradnik 2025",
+            "str": 15
+          }
+        ]
+      }
+    ],
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "dzieci",
+      "seniorzy",
+      "zwierzęta",
+      "szczególne potrzeby"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 12,
+        "sekcja": "Osoby potrzebujące szczególnej pomocy (s. 12), zwierzęta (s. 14–15), dekalog (s. 52)"
+      }
+    ],
+    "data_przegladu": "2026-10-28",
+    "content": "1. NAJPIERW: Ustal z osobą, którą wspierasz, sposób działania w sytuacji kryzysowej. Upewnij się, że ma zapas niezbędnych leków i baterii do urządzeń wspomagających (aparat słuchowy, sensor cukru). Dla dzieci i seniorów przygotuj identyfikatory z imieniem, nazwiskiem i telefonem kontaktowym.\n2. OSOBY WSPIERANE I DZIECI: Pomóż spakować plecak ewakuacyjny dla osoby wspieranej. W zapasach higienicznych uwzględnij pieluchy.\n3. ZWIERZĘTA DOMOWE: Zapas karmy, wody pitnej i leków na kilka dni. Dokumentacja zdrowotna, potwierdzenia szczepień i informacja o lekach w jednym miejscu. Sprzęt do transportu: kaganiec, obroża, szelki, smycz, transporter lub klatka.\n4. ZWIERZĘTA GOSPODARSKIE: Zapas paszy i wody na 14 dni."
   },
   {
     "id": "KARTA-OLIOC-ZWIERZETA-W-KRYZYSIE",

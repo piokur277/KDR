@@ -1,0 +1,108 @@
+{
+  "id": "KARTA-OLIOC-ZAPASY-DOMOWE-NA-3-DNI",
+  "wzorzec": 2,
+  "kategoria": "olioc",
+  "grupa": "olioc",
+  "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+  "data_aktualizacji": "2026-10-28",
+  "slowo_kluczowe": "olioc zapasy na 72 godziny",
+  "keywords": [
+    "domowy zestaw kryzysowy trzy dni",
+    "co przygotować na 72 godziny",
+    "zapasy rodziny na sytuację kryzysową"
+  ],
+  "aliasy": [
+    "domowy zestaw kryzysowy trzy dni",
+    "co przygotować na 72 godziny",
+    "zapasy rodziny na sytuację kryzysową"
+  ],
+  "prefix": "Domowe zapasy na minimum 3 dni — co zgromadzić.",
+  "najpierw": [
+    {
+      "t": "Przygotuj domowe zapasy na minimum 3 dni i regularnie je przeglądaj.",
+      "zr": "Poradnik 2025",
+      "str": 52
+    },
+    {
+      "t": "Gromadź zapasy trwałe (długi termin ważności) i takie, które częściowo zużywasz i regularnie uzupełniasz.",
+      "zr": "Poradnik 2025",
+      "str": 20
+    },
+    {
+      "t": "Przeglądaj zapasy raz na kilka miesięcy i sprawdzaj terminy przydatności.",
+      "zr": "Poradnik 2025",
+      "str": 20
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "Okres",
+      "wartosc": "minimum 3 dni",
+      "zr": "Poradnik 2025",
+      "str": 20
+    },
+    {
+      "nazwa": "Woda",
+      "wartosc": "minimum 3 litry na osobę na dobę",
+      "zr": "Poradnik 2025",
+      "str": 21
+    }
+  ],
+  "sekcje": [
+    {
+      "etykieta": "Lista zapasów",
+      "punkty": [
+        {
+          "t": "Jedzenie i picie: woda, żywność gotowa do spożycia.",
+          "zr": "Poradnik 2025",
+          "str": 21
+        },
+        {
+          "t": "Apteczka z lekami przyjmowanymi na stałe.",
+          "zr": "Poradnik 2025",
+          "str": 21
+        },
+        {
+          "t": "Środki czystości i higieny osobistej, worki na śmieci, wiadro z pokrywą.",
+          "zr": "Poradnik 2025",
+          "str": 21
+        },
+        {
+          "t": "Oświetlenie i łączność: latarka i radio na baterie lub korbkę, naładowany telefon i powerbank, ładowarka, kable, baterie, świeczki, zapalniczka.",
+          "zr": "Poradnik 2025",
+          "str": 22
+        },
+        {
+          "t": "Koce, śpiwory i ciepła odzież; gotówka w różnych nominałach.",
+          "zr": "Poradnik 2025",
+          "str": 22
+        },
+        {
+          "t": "Narzędzia i sprzęt: taśmy, folie, zestawy do uszczelniania.",
+          "zr": "Poradnik 2025",
+          "str": 22
+        },
+        {
+          "t": "Alternatywne źródło ogrzewania, które nie działa na prąd.",
+          "zr": "Poradnik 2025",
+          "str": 22
+        }
+      ]
+    }
+  ],
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "72 godziny",
+    "zapasy domowe"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+      "strona": 20,
+      "sekcja": "Zapasy domowe na minimum 3 dni (s. 20–22), dekalog (s. 52)"
+    }
+  ],
+  "data_przegladu": "2026-10-28"
+}

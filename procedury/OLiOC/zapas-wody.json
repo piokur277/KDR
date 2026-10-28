@@ -1,0 +1,98 @@
+{
+  "id": "KARTA-OLIOC-ZAPAS-WODY",
+  "wzorzec": 2,
+  "kategoria": "olioc",
+  "grupa": "olioc",
+  "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025; EFSA/GIS: Wskazówki dotyczące bezpieczeństwa żywności podczas przerwy w dostawie prądu (2026).",
+  "data_aktualizacji": "2026-10-28",
+  "slowo_kluczowe": "olioc zapas wody 3 litry",
+  "keywords": [
+    "ile wody na osobę na dobę kryzys",
+    "woda na 72 godziny",
+    "przechowywanie wody awaryjnej"
+  ],
+  "aliasy": [
+    "ile wody na osobę na dobę kryzys",
+    "woda na 72 godziny",
+    "przechowywanie wody awaryjnej"
+  ],
+  "prefix": "Zapas wody pitnej dla domowników i zwierząt.",
+  "najpierw": [
+    {
+      "t": "Minimum 3 litry wody na osobę na dobę.",
+      "zr": "Poradnik 2025",
+      "str": 21
+    },
+    {
+      "t": "W plecaku ewakuacyjnym: woda butelkowana oraz filtry lub tabletki do uzdatniania wody.",
+      "zr": "Poradnik 2025",
+      "str": 26
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "Woda pitna",
+      "wartosc": "min. 3 l na osobę na dobę",
+      "zr": "Poradnik 2025",
+      "str": 21
+    },
+    {
+      "nazwa": "Na 3 dni",
+      "wartosc": "min. 9 l na osobę (3 × 3 l)",
+      "zr": "Poradnik 2025",
+      "str": 21
+    }
+  ],
+  "sekcje": [
+    {
+      "etykieta": "Zwierzęta",
+      "punkty": [
+        {
+          "t": "Zwierzęta domowe: zapas wody pitnej, karmy i leków na kilka dni.",
+          "zr": "Poradnik 2025",
+          "str": 14
+        },
+        {
+          "t": "Zwierzęta gospodarskie: zapas paszy i wody na 14 dni; zbiorniki na deszczówkę.",
+          "zr": "Poradnik 2025",
+          "str": 15
+        }
+      ]
+    },
+    {
+      "etykieta": "Brak bieżącej wody",
+      "punkty": [
+        {
+          "t": "Higiena: chusteczki nawilżane i płyny do dezynfekcji.",
+          "zr": "Poradnik 2025",
+          "str": 45
+        },
+        {
+          "t": "Miej produkty spożywcze, które nie wymagają wody ani gotowania.",
+          "zr": "EFSA/GIS 2026",
+          "str": 1
+        }
+      ]
+    }
+  ],
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "zapas wody",
+    "woda na kryzys"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+      "strona": 21,
+      "sekcja": "Zapasy (s. 21), plecak (s. 26), zwierzęta (s. 14–15), higiena (s. 45)"
+    },
+    {
+      "dokument_id": "doc-efsa-zywnosc-blackout-2026",
+      "strona": 1,
+      "sekcja": "Infografika EFSA/GIS"
+    }
+  ],
+  "data_przegladu": "2026-10-28"
+}

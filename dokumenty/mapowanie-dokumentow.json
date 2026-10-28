@@ -805,156 +805,102 @@
     ]
   },
   {
-    "id": "KARTA-OLIOC-GRUDZIEŃ-04-LEKI_HIGIENA",
-    "procedura": "OLiOC - grudzień: leki, zdrowie i higiena w domowych zapasach.",
-    "miesiac_akademii": "grudzień",
+    "id": "KARTA-OLIOC-APTECZKA-LEKI-I-HIGIENA",
+    "procedura": "Domowa apteczka, leki i środki higieny w zapasach.",
     "dokumenty_zrodlowe": [
       {
-        "dokument_id": "src-poradnik-przygotuj-siebie",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Przygotuj siebie i najbliższych",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/przygotuj-siebie-i-najblizszych",
-        "typ": "url"
-      },
-      {
-        "dokument_id": "src-poradnik-higiena",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Higiena w kryzysie",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/higiena-w-kryzysie",
-        "typ": "url"
-      },
-      {
-        "dokument_id": "src-poradnik-plan",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Plan na kryzys",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/plan-na-kryzys",
-        "typ": "url"
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 21,
+        "sekcja": "Apteczka i higiena (s. 21), przygotuj siebie (s. 11), dekalog (s. 52)",
+        "tytul": "Poradnik bezpieczeństwa",
+        "plik": "dokumenty/olioc/poradnik-bezpieczenstwa-2025.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
-    "id": "KARTA-OLIOC-GRUDZIEŃ-06-ROTACJA_ZAPASOW",
-    "procedura": "OLiOC - grudzień: przechowywanie, kontrola i rotacja zapasów.",
-    "miesiac_akademii": "grudzień",
+    "id": "KARTA-OLIOC-PRZEGLAD-I-ROTACJA-ZAPASOW",
+    "procedura": "Przegląd i rotacja domowych zapasów.",
     "dokumenty_zrodlowe": [
       {
-        "dokument_id": "src-poradnik-plan",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Plan na kryzys",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/plan-na-kryzys",
-        "typ": "url"
-      },
-      {
-        "dokument_id": "src-poradnik-blackout",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Długotrwały brak prądu (blackout)",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/dlugotrwaly-brak-pradu-blackout",
-        "typ": "url"
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 20,
+        "sekcja": "Zapasy (s. 20), otoczenie (s. 18), blackout (s. 33)",
+        "tytul": "Poradnik bezpieczeństwa",
+        "plik": "dokumenty/olioc/poradnik-bezpieczenstwa-2025.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
-    "id": "KARTA-OLIOC-GRUDZIEŃ-05-SZCZEGOLNE_POTRZEBY_ZAPASY",
-    "procedura": "OLiOC - grudzień: zapasy dla dzieci, seniorów, osób zależnych i zwierząt.",
-    "miesiac_akademii": "grudzień",
+    "id": "KARTA-OLIOC-ZAPASY-OSOB-WSPIERANYCH-I-ZWIERZAT",
+    "procedura": "Zapasy dla osób wymagających wsparcia, dzieci i zwierząt.",
     "dokumenty_zrodlowe": [
       {
-        "dokument_id": "src-poradnik-szczegolna-pomoc",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Osoby potrzebujące szczególnej pomocy",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/osoby-potrzebujace-szczegolnej-pomocy",
-        "typ": "url"
-      },
-      {
-        "dokument_id": "src-poradnik-zwierzeta",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Zadbaj o zwierzęta",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/zadbaj-o-zwierzeta",
-        "typ": "url"
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 12,
+        "sekcja": "Osoby potrzebujące szczególnej pomocy (s. 12), zwierzęta (s. 14–15), dekalog (s. 52)",
+        "tytul": "Poradnik bezpieczeństwa",
+        "plik": "dokumenty/olioc/poradnik-bezpieczenstwa-2025.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
-    "id": "KARTA-OLIOC-GRUDZIEŃ-02-ZAPAS_WODY",
-    "procedura": "OLiOC - grudzień: zapas wody dla rodziny.",
-    "miesiac_akademii": "grudzień",
+    "id": "KARTA-OLIOC-ZAPAS-WODY",
+    "procedura": "Zapas wody pitnej dla domowników i zwierząt.",
     "dokumenty_zrodlowe": [
       {
-        "dokument_id": "src-poradnik-blackout",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Długotrwały brak prądu (blackout)",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/dlugotrwaly-brak-pradu-blackout",
-        "typ": "url"
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 21,
+        "sekcja": "Zapasy (s. 21), plecak (s. 26), zwierzęta (s. 14–15), higiena (s. 45)",
+        "tytul": "Poradnik bezpieczeństwa",
+        "plik": "dokumenty/olioc/poradnik-bezpieczenstwa-2025.pdf",
+        "typ": "pdf"
       },
       {
-        "dokument_id": "src-poradnik-plan",
+        "dokument_id": "doc-efsa-zywnosc-blackout-2026",
         "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Plan na kryzys",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/plan-na-kryzys",
-        "typ": "url"
+        "sekcja": "Infografika EFSA/GIS",
+        "tytul": "Wskazówki dotyczące bezpieczeństwa żywności podczas przerwy w dostawie prądu (EFSA, wersja PL)",
+        "plik": "dokumenty/olioc/efsa-bezpieczenstwo-zywnosci-przerwa-pradu-2026.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
-    "id": "KARTA-OLIOC-GRUDZIEŃ-03-ZAPAS_ZYWNOSCI",
-    "procedura": "OLiOC - grudzień: zapas żywności na 72 godziny.",
-    "miesiac_akademii": "grudzień",
+    "id": "KARTA-OLIOC-ZAPAS-ZYWNOSCI",
+    "procedura": "Zapas żywności na minimum 3 dni.",
     "dokumenty_zrodlowe": [
       {
-        "dokument_id": "src-poradnik-blackout",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Długotrwały brak prądu (blackout)",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/dlugotrwaly-brak-pradu-blackout",
-        "typ": "url"
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 20,
+        "sekcja": "Zapasy (s. 20–21), plecak (s. 26), blackout (s. 33)",
+        "tytul": "Poradnik bezpieczeństwa",
+        "plik": "dokumenty/olioc/poradnik-bezpieczenstwa-2025.pdf",
+        "typ": "pdf"
       },
       {
-        "dokument_id": "src-poradnik-plan",
+        "dokument_id": "doc-efsa-zywnosc-blackout-2026",
         "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Plan na kryzys",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/plan-na-kryzys",
-        "typ": "url"
+        "sekcja": "Infografika EFSA/GIS",
+        "tytul": "Wskazówki dotyczące bezpieczeństwa żywności podczas przerwy w dostawie prądu (EFSA, wersja PL)",
+        "plik": "dokumenty/olioc/efsa-bezpieczenstwo-zywnosci-przerwa-pradu-2026.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
-    "id": "KARTA-OLIOC-GRUDZIEŃ-01-ZAPASY_72H",
-    "procedura": "OLiOC - grudzień: domowe zapasy na pierwsze 72 godziny.",
-    "miesiac_akademii": "grudzień",
+    "id": "KARTA-OLIOC-ZAPASY-DOMOWE-NA-3-DNI",
+    "procedura": "Domowe zapasy na minimum 3 dni — co zgromadzić.",
     "dokumenty_zrodlowe": [
       {
-        "dokument_id": "src-olioc-akademia",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Akademia OLiOC - program „jeden miesiąc - jeden temat”",
-        "plik": "https://www.gov.pl/web/olioc/akdemia-olioc",
-        "typ": "url"
-      },
-      {
-        "dokument_id": "src-poradnik-plan",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Plan na kryzys",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/plan-na-kryzys",
-        "typ": "url"
-      },
-      {
-        "dokument_id": "src-poradnik-blackout",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Długotrwały brak prądu (blackout)",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/dlugotrwaly-brak-pradu-blackout",
-        "typ": "url"
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 20,
+        "sekcja": "Zapasy domowe na minimum 3 dni (s. 20–22), dekalog (s. 52)",
+        "tytul": "Poradnik bezpieczeństwa",
+        "plik": "dokumenty/olioc/poradnik-bezpieczenstwa-2025.pdf",
+        "typ": "pdf"
       }
     ]
   },

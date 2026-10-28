@@ -1,0 +1,102 @@
+{
+  "id": "KARTA-OLIOC-ZAPASY-OSOB-WSPIERANYCH-I-ZWIERZAT",
+  "wzorzec": 2,
+  "kategoria": "olioc",
+  "grupa": "olioc",
+  "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+  "data_aktualizacji": "2026-10-28",
+  "slowo_kluczowe": "olioc zapasy dla dzieci seniorów zwierząt",
+  "keywords": [
+    "specjalne potrzeby zapasy kryzysowe",
+    "żywność niemowlęca i pieluchy kryzys",
+    "karma leki zwierzęta 72 godziny"
+  ],
+  "aliasy": [
+    "specjalne potrzeby zapasy kryzysowe",
+    "żywność niemowlęca i pieluchy kryzys",
+    "karma leki zwierzęta 72 godziny"
+  ],
+  "prefix": "Zapasy dla osób wymagających wsparcia, dzieci i zwierząt.",
+  "najpierw": [
+    {
+      "t": "Ustal z osobą, którą wspierasz, sposób działania w sytuacji kryzysowej.",
+      "zr": "Poradnik 2025",
+      "str": 12
+    },
+    {
+      "t": "Upewnij się, że ma zapas niezbędnych leków i baterii do urządzeń wspomagających (aparat słuchowy, sensor cukru).",
+      "zr": "Poradnik 2025",
+      "str": 12
+    },
+    {
+      "t": "Dla dzieci i seniorów przygotuj identyfikatory z imieniem, nazwiskiem i telefonem kontaktowym.",
+      "zr": "Poradnik 2025",
+      "str": 52
+    }
+  ],
+  "parametry": [],
+  "sekcje": [
+    {
+      "etykieta": "Osoby wspierane i dzieci",
+      "punkty": [
+        {
+          "t": "Pomóż spakować plecak ewakuacyjny dla osoby wspieranej.",
+          "zr": "Poradnik 2025",
+          "str": 12
+        },
+        {
+          "t": "W zapasach higienicznych uwzględnij pieluchy.",
+          "zr": "Poradnik 2025",
+          "str": 21
+        }
+      ]
+    },
+    {
+      "etykieta": "Zwierzęta domowe",
+      "punkty": [
+        {
+          "t": "Zapas karmy, wody pitnej i leków na kilka dni.",
+          "zr": "Poradnik 2025",
+          "str": 14
+        },
+        {
+          "t": "Dokumentacja zdrowotna, potwierdzenia szczepień i informacja o lekach w jednym miejscu.",
+          "zr": "Poradnik 2025",
+          "str": 14
+        },
+        {
+          "t": "Sprzęt do transportu: kaganiec, obroża, szelki, smycz, transporter lub klatka.",
+          "zr": "Poradnik 2025",
+          "str": 14
+        }
+      ]
+    },
+    {
+      "etykieta": "Zwierzęta gospodarskie",
+      "punkty": [
+        {
+          "t": "Zapas paszy i wody na 14 dni.",
+          "zr": "Poradnik 2025",
+          "str": 15
+        }
+      ]
+    }
+  ],
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "dzieci",
+    "seniorzy",
+    "zwierzęta",
+    "szczególne potrzeby"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+      "strona": 12,
+      "sekcja": "Osoby potrzebujące szczególnej pomocy (s. 12), zwierzęta (s. 14–15), dekalog (s. 52)"
+    }
+  ],
+  "data_przegladu": "2026-10-28"
+}
