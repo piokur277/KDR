@@ -1,8 +1,0 @@
-Dziennik Ustaw — 2001 — Poz. 642
-372 This entry applies to asymmetric capacitors with an energy storage capacity greater than 0.3 Wh.
-Capacitors with an energy storage capacity of 0.3 Wh or less are not subject to ADR.
-Energy storage capacity means the energy stored in a capacitor, as calculated according to the
-following equation,
-Wh = I/2CN(Ur*-Uu?) * (1/3600),
-using the nominal capacitance (CN), rated voltage (UR) and rated lower limit voltage (U).
-All asymmetric capacitors to which this 

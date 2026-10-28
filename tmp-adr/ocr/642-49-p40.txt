@@ -1,7 +1,0 @@
-Dziennik Ustaw — 2440 — Poz. 642
-(a) A list of the requirements specified in 6.4.7.5, 6.4.8.4 to 6.4.8.6 and 6.4.8.9 to 6.4.8.15 with
-which the package does not conform;
-(b) — Any proposed supplementary operational contiols to be applied during carriage not regularly
-provided for in this Annex, but which are necessary to ensure the safety of the package or to
-compensate for the deficiencies listed in (a) above;
-(c) A statement relative to any restrictions on the mode of carriage and to any

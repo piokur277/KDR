@@ -1,7 +1,0 @@
-Dziennik Ustaw — 1640 — Poz. 642
-EqNOEC„ = equivalent NOEC of the part of the mixture with test data;
-The equivalent toxicity thus reflects the fact that non-rapidly degrading substances are classified
-one hazard category level more "severe" than rapidly degrading substances.
-The calculated equivalent toxicity shall be used to assign that portion of the mixture a long-term
-hazard category, in accordance with the criteria for rapidly degradable substances (Table
-2.2.9.1.10.3.1 (b) (ii)), wh

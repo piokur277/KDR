@@ -1,7 +1,0 @@
-Dziennik Ustaw — 2590 — Poz. 642
-6.9.2.3.3 At the specified test pressure the maximum tensile relative deformation measured in mm/mm in the
-shell shall not result in the formation of microcracks, and therefore not be greater than the first measured
-point of elongation based fracture or damage of the resin, measured during tensile tests prescribed under
-6.9.2.7.1.2 (©).
-6.9.2.3.4 For internal test pressure, external design pressure specified in 6.7.2.2.10, static loads specified in
-6.7.2.2.1

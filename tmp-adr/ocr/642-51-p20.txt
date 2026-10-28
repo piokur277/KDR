@@ -1,7 +1,0 @@
-Dziennik Ustaw — 2520 — Poz. 642
-6.7.4.5.11 Joints in copper tubing shall be brazed or have an equally strong metal union. The melting point of
-brazing materials shall be no lower than 525 ?C. The joints shall not decrease the strength of the tubing
-as may happen when cutting threads.
-6.7.4.5.12 The materiais of construction of valves and accessories shall have satisfactory properties at the lowest
-operating temperature of the portable tank.
-6.7.4.5.13 The burst pressure of all piping and pi

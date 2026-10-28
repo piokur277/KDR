@@ -1,9 +1,0 @@
-Dziennik Ustaw — 2340 — Poz. 642
-6.1.2 Code for designating types of packagings
-6.1.2.1 The code consists of:
-(a) _ An Arabic numeral indicating the kind of packaging, e.g. drum, jerrican, ete., followed by;
-(b)  Acapital letter(s) in Latin characters indicating the nature of the material, e.g. steel, wood, etc.,
-followed where necessary by;
-(c) _ An Arabic numeral indicating the category of packaging within the kind to which the packaging
-belongs.
-6.1.2.2 In the case of composite packagings

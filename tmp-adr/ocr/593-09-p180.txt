@@ -1,8 +1,0 @@
-Dziennik Ustaw —1780- Poz. 593
-Adhesion test, peeling and corrosion tests, and burst test shall be performed on each related sample
-according to the Table in sub-paragraph (g) and shall be conducted after the first 3 years in service and
-every 5 years thereafter.
-(g) Statistical evaluation of test results — Method and minimum requirements
-The procedure for statistical evaluation according to the related rejection criteria is described in the
-following.
-Test |Typeof| Standard Rejection criter

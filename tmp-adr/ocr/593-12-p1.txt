@@ -1,6 +1,0 @@
-Dziennik Ustaw — 2201 — Poz. 593
-6.7.5.2.8 MEGCs and their fastenings shall, under the maximum permissible load, be capable of withstanding the
-following separately applied static forces:
-(a) in the direction of travel: twice the MPGM multiplied by the acceleration due to gravity (g)3;
-(b) horizontally at right angles to the direction of travel: the MPGM (when the direction of travel is not clearly
-determined, the forces shall be equal to twice the MPGM) multiplied by the acceleration due to

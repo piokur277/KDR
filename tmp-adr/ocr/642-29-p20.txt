@@ -1,8 +1,0 @@
-Dziennik Ustaw
-— 1420- Poz. 642
-"Self-accelerating polymerization temperature (SAPT)" means the lowest temperature at which self-
-accelerating polymerization may occur with a substance in the packaging, IBC or tank as offered for
-carriage. The SAPT shall be determined in accordance with the test procedures established for the self-
-accelerating decomposition temperature for self-reactive substances in accordance with Part II, section
-28 of the Manual of Tests and Criteria;
-"Service equipment"

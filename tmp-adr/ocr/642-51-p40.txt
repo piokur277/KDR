@@ -1,7 +1,0 @@
-Dziennik Ustaw — 2540 — Poz. 642
-(a)  Gravity-discharge shells intended for the carriage of substances having a vapour pressure not
-exceeding 110 kPa (1.1 bar) (absolute pressure) at 50 *C shall be designed for a calculation
-pressure of twice the static pressure of the substance to be carried but not less than twice the
-static pressure of water;
-(b)  Pressure-filled or pressure-discharge shells intended for the carriage of substances having a
-vapour pressure not exceeding 110 kPa (1.1 bar) (
