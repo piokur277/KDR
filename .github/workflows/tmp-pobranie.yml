@@ -12,7 +12,7 @@ jobs:
       - name: Pobierz
         run: |
           set +e
-          sudo apt-get install -y -qq poppler-utils >/dev/null
+          sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils && which pdftotext
           mkdir -p tmp-adr && cd tmp-adr && rm -f log.txt
           curl -sSL -A "Mozilla/5.0" -o meta-642.json "https://api.sejm.gov.pl/eli/acts/DU/2025/642" || true
           curl -sSL -A "Mozilla/5.0" -o meta-593.json "https://api.sejm.gov.pl/eli/acts/DU/2025/593" || true
@@ -31,7 +31,7 @@ jobs:
           done
           mkdir -p keep
           for t in all/*.txt; do if grep -q -E "5\.3\.2\.3|Numer rozpoznawczy zagrożenia" "$t"; then cp "${t%.txt}.pdf" "$t" keep/; fi; done
-          rm -rf all
+          mkdir -p txt && cp all/*.txt txt/ && rm -rf all
           cat log.txt; ls -la keep
       - name: Zapisz
         if: always()
