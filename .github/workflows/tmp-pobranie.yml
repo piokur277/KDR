@@ -13,24 +13,16 @@ jobs:
         run: |
           set +e
           sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils tesseract-ocr tesseract-ocr-pol >/dev/null
-          rm -rf tmp-adr; mkdir -p tmp-adr/ocr && cd tmp-adr
-          for spec in 642:54:1,20,40 593:12:1,60,120,180; do
-            act=${spec%%:*}; rest=${spec#*:}; cnt=${rest%%:*}; pgs=${rest#*:}
-            for n in $(seq -w 1 $cnt); do
-              f=D20250${act}-$n.pdf
-              curl -sSL --retry 2 -A "Mozilla/5.0" -o $f "https://eli.gov.pl/api/acts/DU/2025/${act}/text/I/$f"
-              for p in ${pgs//,/ }; do
-                pdftoppm -r 150 -gray -f $p -l $p -png $f pg >/dev/null 2>&1
-                img=$(ls pg*.png 2>/dev/null | head -1); [ -n "$img" ] || continue
-                tesseract $img - -l pol 2>/dev/null | tr -s '\n' | head -c 500 > ocr/${act}-${n}-p${p}.txt
-                rm -f pg*.png
-              done
-              rm -f $f
-            done
-          done
-          ls ocr | wc -l
+          rm -rf tmp-adr; mkdir -p tmp-adr/wyc && cd tmp-adr
+          cut(){ act=$1; n=$2; f=$3; l=$4; src=D20250${act}-$n.pdf
+            [ -f $src ] || curl -sSL --retry 2 -A "Mozilla/5.0" -o $src "https://eli.gov.pl/api/acts/DU/2025/${act}/text/I/$src"
+            pdfseparate -f $f -l $l $src p-%03d.pdf && pdfunite $(ls p-*.pdf | sort) wyc/${act}-${n}-s${f}-${l}.pdf; rm -f p-*.pdf; }
+          cut 642 19 25 50
+          cut 642 20 1 50
+          cut 593 05 60 130
+          rm -f D2025*.pdf; ls -la wyc
       - name: Zapisz
         if: always()
         run: |
           git config user.name tmp && git config user.email tmp@users.noreply.github.com
-          git add -A tmp-adr && git commit -m "Tymczasowe: adr-ocr" && git push
+          git add -A tmp-adr && git commit -m "Tymczasowe: adr-wyc" && git push
