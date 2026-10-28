@@ -1,0 +1,36 @@
+Dziennik Ustaw
+—301-
+Poz. 642
+Rysunek 2.3.5: Algorytm klasyfikacyjny materiałów metaloorganicznych w klasach 4.2 i 4.3*
+Substancje / formulacje /
+roztwory
+metaloorganiczne *
+|
+Czy
+materiał jest
+piroforyczny?
+Test N.2 (stały)
+Test N.3 (ciekły)
+Czy
+materiał TAK
+reaguje >.
+z wodą?
+Test N.5
+NIE
+Czy
+materiał ulega TAK
+NIE
+Czy materiał
+reaguje z wodą?
+Test NS
+TAK
+Czy materiał
+stały jest
+zapalny?
+Test N.1
+Ćzy materiał ulega
+samonagrzewaniu?
+TAK z
+Klasa 4.3
+GP 1, II lub II.
+Czy materiał

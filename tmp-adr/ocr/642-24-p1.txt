@@ -1,0 +1,10 @@
+Dziennik Ustaw
+—1151-
+Poz. 642
+współczynnik przenikania ciepła izolacji, w kW x m? x K*, w 38 9C;
+= temperatura rzeczywista materiału podczas napełniania (w *C); jeżeli
+temperatura ta nie jest znana, przyjmuje się t = 15 *C;
+Wartość F podana powyżej dla zbiorników izolowanych może być uznana pod warunkiem, że
+izolacja jest zgodna z wymaganiami podanymi w 6.7.2.12.2.4;
+A = całkowita powierzchnia zewnętrzna zbiornika w m?;
+Z = współczynnik iwości w warunkach zredukowanych (je�

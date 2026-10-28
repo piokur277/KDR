@@ -1,0 +1,7 @@
+Dziennik Ustaw —2120- Poz. 593
+6.4.7.15 The design of a package intended for liquid radioactive material shall make provision for ullage to accommo-
+date variations in the temperature ofthe contents, dynamic effects and filling dynamics.
+Type A packages to contain liquids
+6.4.7.16 A Type A package designed to contain liquid radioactive material shall, in addition:
+(a) Be adequate to meet the conditions specified in 6.4.7.14 (a) above ifthe package is subjected to the tests
+specified in 6.4.16;

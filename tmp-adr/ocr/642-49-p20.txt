@@ -1,0 +1,12 @@
+Dziennik Ustaw — 2420 — Poz. 642
+6.3.5.2.2 Tests and number of samples required
+Tests required for packaging types
+Type of packaging" "Tests required
+Rigid outer Primary Water Cold Drop Additional | Puncture | Stack 6.1.5.6
+packaging receptacle spray conditioning | 6.3.5.3 drop 6.3.5.4
+Plastics| Other] 6.3.5.3.5.1 | 6.3.5.3.5.2 6.3.5.3.5.3
+No. of No. of No. of No. of No. of No. of
+samples | samples __| samples samples samples samples
+Fibreboard x 5 5 10 2
+box x EJ 9 5 2
+Fibreboard x 3 3 6 2

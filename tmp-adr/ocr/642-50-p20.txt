@@ -1,0 +1,9 @@
+Dziennik Ustaw — 2470 — Poz. 642
+6.5.6.12 Righting test
+6.5.6.12.1 Applicability
+For all flexible IBCs designed to be lifted from the top or side, as a design type test.
+6.5.6.12.2 Preparation of the IBC for test
+The IBC shałl be filled to not less than 95 % of its capacity and to its maximum permissible gross mass,
+the contents being evenly distributed.
+6.5.6.12.3 Method of testing
+The IBC, lying on its side, shall be lifted at a speed of at least 0.1 m/s to upright position, clear of the

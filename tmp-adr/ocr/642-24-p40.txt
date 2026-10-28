@@ -1,0 +1,7 @@
+Dziennik Ustaw —1190- Poz. 642
+6.7.5.5 Przepustowość urządzeń obniżających ciśnienie
+6.7.5.5.1 _ Całkowita przepustowość urządzenia obniżającego ciśnienie, jeżeli jest zamontowane, powinna
+być dostateczna aby, w przypadku całkowitego objęcia MEGC pożarem, ciśnienie
+(uwzględniając jego wzrost) wewnątrz elementów nie przekraczało 120% nastawionego
+ciśnienia otwarcia urządzenia obniżającego ciśnienie. W celu określenia całkowitej minimalnej
+przepustowości urządze

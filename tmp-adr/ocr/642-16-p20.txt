@@ -1,0 +1,13 @@
+Dziennik Ustaw —7170- Poz. 642
+P200 INSTRUKCJA PAKOWANIA (c.d.) P200
+Jeżeli gęstość gazu jest nieznana, to maksymalny współczynnik napełnienia powinien być określony
+w sposób następujący:
+xMMx1073
+R=338
+FR
+gdzie,
+FR = _ maksymalny współczynnik napełnienia
+P wartość najniższego ciśnienia próbnego (w barach)
+MM = masa cząsteczkowa (w g/mol)
+R (stała gazowa) = 8,31451 x 10 bar x litr / mol x K.
+Dla mieszanin gazów do obliczeń przyjmuje się średnią masę molową, otrzyma

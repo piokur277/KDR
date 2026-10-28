@@ -1,0 +1,11 @@
+Dziennik Ustaw — 1620 — Poz. 642
+CT Corrosive substances, toxic and articles containing such substances:
+CTI Liquid;
+CT2 Solid;
+CT3 Articles;
+CFT Corrosive substances, flammable, liquid, toxic;
+CoT Corrosive substances, oxidizing, toxic.
+2.2.8.1.4.2 Substances and mixtures of Class 8 are divided among the three packing groups according to their
+degree of danger in carriage:
+(a) Packing group I: very dangerous substances and mixtures;
+(6) Packing group II: substances and mixtures presenting m
