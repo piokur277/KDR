@@ -1,0 +1,76 @@
+{
+  "id": "KARTA-OLIOC-BEZPIECZNY-TELEFON-I-KONTA",
+  "wzorzec": 2,
+  "kategoria": "olioc",
+  "grupa": "olioc",
+  "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+  "data_aktualizacji": "2026-10-28",
+  "slowo_kluczowe": "olioc bezpieczny telefon i konta",
+  "keywords": [
+    "zabezpieczenie smartfona na kryzys",
+    "silne hasło i uwierzytelnianie dwuskładnikowe",
+    "aktualizacja telefonu bezpieczeństwo"
+  ],
+  "aliasy": [
+    "zabezpieczenie smartfona na kryzys",
+    "silne hasło i uwierzytelnianie dwuskładnikowe",
+    "aktualizacja telefonu bezpieczeństwo"
+  ],
+  "prefix": "Bezpieczny telefon, komputer i konta — podstawowe zabezpieczenia.",
+  "najpierw": [
+    {
+      "t": "Ustaw silne hasła, np. z menedżerem haseł.",
+      "zr": "Poradnik 2025",
+      "str": 40
+    },
+    {
+      "t": "Korzystaj z weryfikacji dwuetapowej (SMS, e-mail).",
+      "zr": "Poradnik 2025",
+      "str": 40
+    },
+    {
+      "t": "Regularnie aktualizuj antywirusa i aplikacje w komputerze i telefonie.",
+      "zr": "Poradnik 2025",
+      "str": 40
+    }
+  ],
+  "parametry": [],
+  "sekcje": [
+    {
+      "etykieta": "Oprogramowanie",
+      "punkty": [
+        {
+          "t": "Korzystaj tylko z legalnego oprogramowania; nie instaluj aplikacji z niesprawdzonych źródeł.",
+          "zr": "Poradnik 2025",
+          "str": 40
+        }
+      ]
+    },
+    {
+      "etykieta": "Sieć",
+      "punkty": [
+        {
+          "t": "Zachowaj ostrożność w publicznych sieciach Wi-Fi.",
+          "zr": "Poradnik 2025",
+          "str": 40
+        }
+      ]
+    }
+  ],
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "cyberbezpieczeństwo",
+    "telefon",
+    "konta internetowe"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+      "strona": 39,
+      "sekcja": "Zagrożenia cyfrowe (s. 39–40)"
+    }
+  ],
+  "data_przegladu": "2026-10-28"
+}

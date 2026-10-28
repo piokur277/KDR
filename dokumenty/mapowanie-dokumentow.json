@@ -1270,109 +1270,72 @@
     ]
   },
   {
-    "id": "KARTA-OLIOC-PAŹDZIERNIK-01-DEZINFORMACJA",
-    "procedura": "OLiOC - październik: rozpoznawanie dezinformacji.",
-    "miesiac_akademii": "październik",
+    "id": "KARTA-OLIOC-DEZINFORMACJA",
+    "procedura": "Dezinformacja — czym jest i jak się przed nią chronić.",
     "dokumenty_zrodlowe": [
       {
-        "dokument_id": "src-olioc-akademia",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Akademia OLiOC - program „jeden miesiąc - jeden temat”",
-        "plik": "https://www.gov.pl/web/olioc/akdemia-olioc",
-        "typ": "url"
-      },
-      {
-        "dokument_id": "src-poradnik-cyfrowe",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Zagrożenia cyfrowe",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/zagrozenia-cyfrowe",
-        "typ": "url"
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 39,
+        "sekcja": "Zagrożenia cyfrowe (s. 39–40)",
+        "tytul": "Poradnik bezpieczeństwa",
+        "plik": "dokumenty/olioc/poradnik-bezpieczenstwa-2025.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
-    "id": "KARTA-OLIOC-PAŹDZIERNIK-05-KOPIE_I_ZGLASZANIE",
-    "procedura": "OLiOC - październik: kopie zapasowe, ochrona danych i zgłaszanie incydentów.",
-    "miesiac_akademii": "październik",
+    "id": "KARTA-OLIOC-KOPIE-ZAPASOWE-I-ZGLASZANIE",
+    "procedura": "Kopie zapasowe dokumentów i zgłaszanie incydentów.",
     "dokumenty_zrodlowe": [
       {
-        "dokument_id": "src-poradnik-cyfrowe",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Zagrożenia cyfrowe",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/zagrozenia-cyfrowe",
-        "typ": "url"
-      },
-      {
-        "dokument_id": "src-cert-zglos-incydent",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "CERT Polska - zgłoszenie incydentu",
-        "plik": "https://incydent.cert.pl/",
-        "typ": "url"
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 40,
+        "sekcja": "Cyberprzestępczość (s. 40), plecak (s. 26), zdrowie (s. 11)",
+        "tytul": "Poradnik bezpieczeństwa",
+        "plik": "dokumenty/olioc/poradnik-bezpieczenstwa-2025.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
-    "id": "KARTA-OLIOC-PAŹDZIERNIK-03-PHISHING_FALSZYWE_ALERTY",
-    "procedura": "OLiOC - październik: phishing i fałszywe alerty.",
-    "miesiac_akademii": "październik",
+    "id": "KARTA-OLIOC-PHISHING-I-OSZUSTWA",
+    "procedura": "Phishing i oszustwa — podejrzane wiadomości, linki i SMS-y.",
     "dokumenty_zrodlowe": [
       {
-        "dokument_id": "src-poradnik-cyfrowe",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Zagrożenia cyfrowe",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/zagrozenia-cyfrowe",
-        "typ": "url"
-      },
-      {
-        "dokument_id": "src-cert-zglos-incydent",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "CERT Polska - zgłoszenie incydentu",
-        "plik": "https://incydent.cert.pl/",
-        "typ": "url"
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 39,
+        "sekcja": "Zagrożenia cyfrowe (s. 39–40)",
+        "tytul": "Poradnik bezpieczeństwa",
+        "plik": "dokumenty/olioc/poradnik-bezpieczenstwa-2025.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
-    "id": "KARTA-OLIOC-PAŹDZIERNIK-04-TELEFON_KONTA",
-    "procedura": "OLiOC - październik: zabezpieczenie telefonu i kont internetowych.",
-    "miesiac_akademii": "październik",
+    "id": "KARTA-OLIOC-BEZPIECZNY-TELEFON-I-KONTA",
+    "procedura": "Bezpieczny telefon, komputer i konta — podstawowe zabezpieczenia.",
     "dokumenty_zrodlowe": [
       {
-        "dokument_id": "src-poradnik-cyfrowe",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Zagrożenia cyfrowe",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/zagrozenia-cyfrowe",
-        "typ": "url"
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 39,
+        "sekcja": "Zagrożenia cyfrowe (s. 39–40)",
+        "tytul": "Poradnik bezpieczeństwa",
+        "plik": "dokumenty/olioc/poradnik-bezpieczenstwa-2025.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
-    "id": "KARTA-OLIOC-PAŹDZIERNIK-02-WERYFIKACJA_INFORMACJI",
-    "procedura": "OLiOC - październik: weryfikacja wiadomości w sytuacji kryzysowej.",
-    "miesiac_akademii": "październik",
+    "id": "KARTA-OLIOC-WERYFIKACJA-INFORMACJI",
+    "procedura": "Weryfikacja informacji w kryzysie — gdzie sprawdzać komunikaty.",
     "dokumenty_zrodlowe": [
       {
-        "dokument_id": "src-poradnik-cyfrowe",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Zagrożenia cyfrowe",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/zagrozenia-cyfrowe",
-        "typ": "url"
-      },
-      {
-        "dokument_id": "src-poradnik-alarmy",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Sygnały alarmowe i komunikaty ostrzegawcze",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/sygnaly-alarmowe-i-komunikaty-ostrzegawcze",
-        "typ": "url"
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 39,
+        "sekcja": "Zagrożenia cyfrowe (s. 39), sygnały i komunikaty (s. 24–25, 53), Dekalog (s. 52)",
+        "tytul": "Poradnik bezpieczeństwa",
+        "plik": "dokumenty/olioc/poradnik-bezpieczenstwa-2025.pdf",
+        "typ": "pdf"
       }
     ]
   },

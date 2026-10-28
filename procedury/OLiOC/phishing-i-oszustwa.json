@@ -1,0 +1,81 @@
+{
+  "id": "KARTA-OLIOC-PHISHING-I-OSZUSTWA",
+  "wzorzec": 2,
+  "kategoria": "olioc",
+  "grupa": "olioc",
+  "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+  "data_aktualizacji": "2026-10-28",
+  "slowo_kluczowe": "olioc phishing fałszywy alert",
+  "keywords": [
+    "podejrzany sms z linkiem",
+    "fałszywa wiadomość od służb",
+    "oszustwo na alert rcb"
+  ],
+  "aliasy": [
+    "podejrzany sms z linkiem",
+    "fałszywa wiadomość od służb",
+    "oszustwo na alert rcb"
+  ],
+  "prefix": "Phishing i oszustwa — podejrzane wiadomości, linki i SMS-y.",
+  "najpierw": [
+    {
+      "t": "Dostałeś podejrzaną wiadomość z linkiem lub załącznikiem? Nie klikaj pochopnie.",
+      "zr": "Poradnik 2025",
+      "str": 40
+    },
+    {
+      "t": "Sprawdzaj adresy nadawców i treść — błędy lub brak polskich znaków mogą oznaczać oszustwo.",
+      "zr": "Poradnik 2025",
+      "str": 40
+    },
+    {
+      "t": "Podejrzane SMS-y z linkami prześlij pod numer 8080.",
+      "zr": "Poradnik 2025",
+      "str": 40
+    }
+  ],
+  "parametry": [],
+  "sekcje": [
+    {
+      "etykieta": "Zgłoś",
+      "punkty": [
+        {
+          "t": "Próbę wyłudzenia lub oszustwa zgłoś na incydent.cert.pl lub w aplikacji mObywatel.",
+          "zr": "Poradnik 2025",
+          "str": 40
+        }
+      ]
+    },
+    {
+      "etykieta": "Chroń",
+      "punkty": [
+        {
+          "t": "Chroń dane logowania i numery kart płatniczych.",
+          "zr": "Poradnik 2025",
+          "str": 40
+        },
+        {
+          "t": "Przestępcy mogą przejąć dane, podszyć się pod Ciebie, wziąć pożyczkę lub oszukać znajomych.",
+          "zr": "Poradnik 2025",
+          "str": 40
+        }
+      ]
+    }
+  ],
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "phishing",
+    "fałszywe SMS",
+    "oszustwa"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+      "strona": 39,
+      "sekcja": "Zagrożenia cyfrowe (s. 39–40)"
+    }
+  ],
+  "data_przegladu": "2026-10-28"
+}

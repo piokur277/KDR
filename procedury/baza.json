@@ -6963,6 +6963,83 @@
     "content": "1. NAJPIERW: W pracy sprawdź wyjścia ewakuacyjne, miejsca zbiórki, gaśnice, defibrylatory (AED) i apteczki. Usuń niepotrzebne przedmioty z korytarzy i klatek schodowych. Najbezpieczniejsze miejsce w domu: z dala od okien, przy ścianach nośnych, w centralnych pomieszczeniach.\n2. DOM: Przygotuj koce, ręczniki i taśmy do uszczelniania okien i drzwi. Przygotuj się na przerwy w dostawach wody, prądu, gazu i brak telefonu oraz internetu. Gaśnica i koc gaśniczy; przeglądy instalacji kominowej, wentylacyjnej, gazowej, elektrycznej; ubezpieczenie.\n3. SZKOŁA: Uczniowie biorą udział w próbnych alarmach i zgłaszają podejrzane zachowania lub przedmioty. Rodzice zapisują kontakt do osoby wyznaczonej przez szkołę do odbioru dzieci w zagrożeniu.\n4. PRACA: Zgłaszaj usterki: uszkodzoną instalację, zablokowane drogi ewakuacyjne, niesprawne windy. Przećwiczcie plan awaryjny i ewakuację; możliwa mobilizacja — poinformuj pracodawcę.\n5. SAMOCHÓD: Sprawny, zatankowany; apteczka, gaśnica, trójkąt, koło zapasowe, karta ratownicza; papierowa mapa. W kryzysie ogranicz jazdę — drogi muszą być przejezdne dla służb i transportów wojskowych."
   },
   {
+    "id": "KARTA-OLIOC-BEZPIECZNY-TELEFON-I-KONTA",
+    "wzorzec": 2,
+    "kategoria": "olioc",
+    "grupa": "olioc",
+    "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+    "data_aktualizacji": "2026-10-28",
+    "slowo_kluczowe": "olioc bezpieczny telefon i konta",
+    "keywords": [
+      "zabezpieczenie smartfona na kryzys",
+      "silne hasło i uwierzytelnianie dwuskładnikowe",
+      "aktualizacja telefonu bezpieczeństwo"
+    ],
+    "aliasy": [
+      "zabezpieczenie smartfona na kryzys",
+      "silne hasło i uwierzytelnianie dwuskładnikowe",
+      "aktualizacja telefonu bezpieczeństwo"
+    ],
+    "prefix": "Bezpieczny telefon, komputer i konta — podstawowe zabezpieczenia.",
+    "najpierw": [
+      {
+        "t": "Ustaw silne hasła, np. z menedżerem haseł.",
+        "zr": "Poradnik 2025",
+        "str": 40
+      },
+      {
+        "t": "Korzystaj z weryfikacji dwuetapowej (SMS, e-mail).",
+        "zr": "Poradnik 2025",
+        "str": 40
+      },
+      {
+        "t": "Regularnie aktualizuj antywirusa i aplikacje w komputerze i telefonie.",
+        "zr": "Poradnik 2025",
+        "str": 40
+      }
+    ],
+    "parametry": [],
+    "sekcje": [
+      {
+        "etykieta": "Oprogramowanie",
+        "punkty": [
+          {
+            "t": "Korzystaj tylko z legalnego oprogramowania; nie instaluj aplikacji z niesprawdzonych źródeł.",
+            "zr": "Poradnik 2025",
+            "str": 40
+          }
+        ]
+      },
+      {
+        "etykieta": "Sieć",
+        "punkty": [
+          {
+            "t": "Zachowaj ostrożność w publicznych sieciach Wi-Fi.",
+            "zr": "Poradnik 2025",
+            "str": 40
+          }
+        ]
+      }
+    ],
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "cyberbezpieczeństwo",
+      "telefon",
+      "konta internetowe"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 39,
+        "sekcja": "Zagrożenia cyfrowe (s. 39–40)"
+      }
+    ],
+    "data_przegladu": "2026-10-28",
+    "content": "1. NAJPIERW: Ustaw silne hasła, np. z menedżerem haseł. Korzystaj z weryfikacji dwuetapowej (SMS, e-mail). Regularnie aktualizuj antywirusa i aplikacje w komputerze i telefonie.\n2. OPROGRAMOWANIE: Korzystaj tylko z legalnego oprogramowania; nie instaluj aplikacji z niesprawdzonych źródeł.\n3. SIEĆ: Zachowaj ostrożność w publicznych sieciach Wi-Fi."
+  },
+  {
     "id": "KARTA-OLIOC-CZUJKI-DYMU-I-CZADU",
     "wzorzec": 2,
     "kategoria": "olioc",
@@ -7067,6 +7144,89 @@
     ],
     "data_przegladu": "2026-10-28",
     "content": "1. NAJPIERW: W razie alarmu opuść pomieszczenie, wyjdź z budynku i wezwij pomoc (112). Podejrzenie zatrucia CO — przewietrz, ewakuuj siebie i domowników, dzwoń 112. Zamontuj czujki dymu, czadu i gazu; regularnie sprawdzaj ich stan i umiejscowienie.\n2. PARAMETRY: Obowiązek — mieszkania użytkowane przed 23.12.2024 — od 1 stycznia 2030 r.; Obowiązek — obiekty hotelarskie użytkowane przed 23.12.2024 — do 30 czerwca 2026 r.; Nowe budynki — od chwili przystąpienia do użytkowania\n3. CZAD (CO): Bezbarwny i bezwonny — nie wykryjesz go zmysłami. Objawy: ból i zawroty głowy, duszność, senność, osłabienie, szybkie tętno, utrata świadomości.\n4. ZAPOBIEGANIE: Przegląd komina, wentylacji i instalacji gazowej; nie zasłaniaj kratek, zapewnij dopływ powietrza."
+  },
+  {
+    "id": "KARTA-OLIOC-DEZINFORMACJA",
+    "wzorzec": 2,
+    "kategoria": "olioc",
+    "grupa": "olioc",
+    "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+    "data_aktualizacji": "2026-10-28",
+    "slowo_kluczowe": "olioc jak rozpoznać dezinformację",
+    "keywords": [
+      "fałszywe informacje podczas kryzysu",
+      "dezinformacja obywatel zasady",
+      "nie rozpowszechniaj niesprawdzonych wiadomości"
+    ],
+    "aliasy": [
+      "fałszywe informacje podczas kryzysu",
+      "dezinformacja obywatel zasady",
+      "nie rozpowszechniaj niesprawdzonych wiadomości"
+    ],
+    "prefix": "Dezinformacja — czym jest i jak się przed nią chronić.",
+    "najpierw": [
+      {
+        "t": "Dezinformacja to celowe rozpowszechnianie fałszywych lub zmanipulowanych treści.",
+        "zr": "Poradnik 2025",
+        "str": 39
+      },
+      {
+        "t": "Nie rozpowszechniaj niesprawdzonych informacji.",
+        "zr": "Poradnik 2025",
+        "str": 39
+      },
+      {
+        "t": "Nie wierz w doniesienia o upadku państwa i kapitulacji.",
+        "zr": "Poradnik 2025",
+        "str": 39
+      }
+    ],
+    "parametry": [],
+    "sekcje": [
+      {
+        "etykieta": "Sprawdzaj",
+        "punkty": [
+          {
+            "t": "Informacje, które wydają się wiarygodne, sprawdzaj w kilku niezależnych źródłach.",
+            "zr": "Poradnik 2025",
+            "str": 39
+          },
+          {
+            "t": "Pewne źródła: Polskie Radio, Telewizja Polska, rządowe strony internetowe, służby państwowe.",
+            "zr": "Poradnik 2025",
+            "str": 39
+          },
+          {
+            "t": "Na emocje wpływają docierające wiadomości — analizuj krytycznie ich treść.",
+            "zr": "Poradnik 2025",
+            "str": 11
+          }
+        ]
+      }
+    ],
+    "nie_rob": [
+      {
+        "t": "Nie publikuj informacji o lokalizacji i ruchu Wojska Polskiego i wojsk sojuszniczych; nie fotografuj ani nie nagrywaj wojska i ważnych obiektów (mosty, stacje, magazyny).",
+        "zr": "Poradnik 2025",
+        "str": 39
+      }
+    ],
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "dezinformacja",
+      "bezpieczeństwo informacyjne"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 39,
+        "sekcja": "Zagrożenia cyfrowe (s. 39–40)"
+      }
+    ],
+    "data_przegladu": "2026-10-28",
+    "content": "1. NAJPIERW: Dezinformacja to celowe rozpowszechnianie fałszywych lub zmanipulowanych treści. Nie rozpowszechniaj niesprawdzonych informacji. Nie wierz w doniesienia o upadku państwa i kapitulacji.\n2. SPRAWDZAJ: Informacje, które wydają się wiarygodne, sprawdzaj w kilku niezależnych źródłach. Pewne źródła: Polskie Radio, Telewizja Polska, rządowe strony internetowe, służby państwowe. Na emocje wpływają docierające wiadomości — analizuj krytycznie ich treść.\n3. NIE RÓB: Nie publikuj informacji o lokalizacji i ruchu Wojska Polskiego i wojsk sojuszniczych; nie fotografuj ani nie nagrywaj wojska i ważnych obiektów (mosty, stacje, magazyny)."
   },
   {
     "id": "KARTA-OLIOC-DROGI-EWAKUACYJNE",
@@ -7743,6 +7903,77 @@
     "content": "1. NAJPIERW: Wójtowie, burmistrzowie, prezydenci miast, starostowie, wojewodowie i minister spraw wewnętrznych tworzą plany ewakuacji i schronienia oraz koordynują służby. Straż pożarna, policja, ratownictwo medyczne i inne służby ratują życie, zdrowie i mienie, ewakuują i zapewniają schronienie.\n2. POZOSTALI: Siły Zbrojne bronią suwerenności państwa; w razie napaści uruchamiają plany krajowe i sojusznicze. Organizacje społeczne wspierają państwo w pomocy lub same ją organizują — szybko i elastycznie.\n3. UWAGA: Pomoc humanitarna jest zawsze bezpłatna."
   },
   {
+    "id": "KARTA-OLIOC-KOPIE-ZAPASOWE-I-ZGLASZANIE",
+    "wzorzec": 2,
+    "kategoria": "olioc",
+    "grupa": "olioc",
+    "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+    "data_aktualizacji": "2026-10-28",
+    "slowo_kluczowe": "olioc kopie zapasowe i zgłoszenie incydentu",
+    "keywords": [
+      "backup ważnych dokumentów",
+      "co zrobić po cyberataku",
+      "zgłoszenie incydentu cert polska",
+      "kopia zapasowa",
+      "kopie zapasowe dokumentow"
+    ],
+    "aliasy": [
+      "backup ważnych dokumentów",
+      "co zrobić po cyberataku",
+      "zgłoszenie incydentu cert polska",
+      "kopia zapasowa",
+      "kopie zapasowe dokumentow"
+    ],
+    "prefix": "Kopie zapasowe dokumentów i zgłaszanie incydentów.",
+    "najpierw": [
+      {
+        "t": "Rób kopie zapasowe ważnych plików i dokumentów.",
+        "zr": "Poradnik 2025",
+        "str": 40
+      },
+      {
+        "t": "W plecaku ewakuacyjnym: dokumenty i ich kopie na pendrivie.",
+        "zr": "Poradnik 2025",
+        "str": 26
+      },
+      {
+        "t": "Próbę wyłudzenia lub oszustwa zgłoś na incydent.cert.pl lub w aplikacji mObywatel.",
+        "zr": "Poradnik 2025",
+        "str": 40
+      }
+    ],
+    "parametry": [],
+    "sekcje": [
+      {
+        "etykieta": "Dokumentacja medyczna",
+        "punkty": [
+          {
+            "t": "Dokumentację medyczną trzymaj w jednym miejscu.",
+            "zr": "Poradnik 2025",
+            "str": 11
+          }
+        ]
+      }
+    ],
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "kopie zapasowe",
+      "ochrona danych",
+      "CERT Polska"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 40,
+        "sekcja": "Cyberprzestępczość (s. 40), plecak (s. 26), zdrowie (s. 11)"
+      }
+    ],
+    "data_przegladu": "2026-10-28",
+    "content": "1. NAJPIERW: Rób kopie zapasowe ważnych plików i dokumentów. W plecaku ewakuacyjnym: dokumenty i ich kopie na pendrivie. Próbę wyłudzenia lub oszustwa zgłoś na incydent.cert.pl lub w aplikacji mObywatel.\n2. DOKUMENTACJA MEDYCZNA: Dokumentację medyczną trzymaj w jednym miejscu."
+  },
+  {
     "id": "KARTA-OLIOC-LISTOPAD-07-AGREGAT",
     "kategoria": "olioc",
     "miesiac_akademii": "listopad",
@@ -8356,217 +8587,86 @@
     "content": "1. NAJPIERW: Korzystaj z wiarygodnych źródeł, przede wszystkim rządowych: Polskie Radio, Telewizja Polska, rządowe strony, służby państwowe. Sprawdzaj informacje w kilku niezależnych źródłach. Pobierz aplikację RSO; śledź Alerty RCB.\n2. PARAMETRY: Brak prądu i internetu — radio na baterie lub korbkę w zapasach domowych\n3. DEZINFORMACJA: Nie rozpowszechniaj niesprawdzonych informacji; nie wierz w doniesienia o upadku państwa i kapitulacji.\n4. NIE RÓB: Nie publikuj informacji, zdjęć ani nagrań o lokalizacji i ruchu wojska ani ważnych obiektów (mosty, stacje, magazyny)."
   },
   {
-    "id": "KARTA-OLIOC-PAŹDZIERNIK-01-DEZINFORMACJA",
+    "id": "KARTA-OLIOC-PHISHING-I-OSZUSTWA",
+    "wzorzec": 2,
     "kategoria": "olioc",
-    "miesiac_akademii": "październik",
-    "grupa_docelowa": "obywatel",
-    "status_zrodla": "oficjalne",
-    "data_aktualizacji": "2026-07-17",
-    "data_weryfikacji_zrodel": "2026-07-17",
-    "zrodlo": "Akademia OLiOC - program „jeden miesiąc - jeden temat”; Poradnik bezpieczeństwa - Zagrożenia cyfrowe",
-    "slowo_kluczowe": "olioc jak rozpoznać dezinformację",
-    "keywords": [
-      "fałszywe informacje podczas kryzysu",
-      "dezinformacja obywatel zasady",
-      "nie rozpowszechniaj niesprawdzonych wiadomości"
-    ],
-    "prefix": "OLiOC - październik: rozpoznawanie dezinformacji.",
-    "content": "1. Dezinformacja to celowo rozpowszechniana treść fałszywa lub zmanipulowana.\n2. Zatrzymaj się, gdy wiadomość wywołuje silny strach, złość albo wymusza natychmiastowe udostępnienie.\n3. Sprawdź autora, adres strony, datę, pełny kontekst i potwierdzenie w oficjalnych źródłach.\n4. Oddziel fakt od komentarza, opinii, starego zdjęcia i materiału wyrwanego z innego zdarzenia.\n5. Nie publikuj informacji o ruchu wojska ani lokalizacji ważnych obiektów i działań służb.\n6. DO ZAPAMIĘTANIA: brak udostępnienia niesprawdzonej wiadomości jest realnym działaniem na rzecz bezpieczeństwa.",
-    "tagi_wspolne": [
-      "OLiOC",
-      "ochrona ludności",
-      "edukacja obywatelska",
-      "Akademia OLiOC październik",
-      "dezinformacja",
-      "bezpieczeństwo informacyjne"
-    ],
-    "aliasy": [
-      "fałszywe informacje podczas kryzysu",
-      "dezinformacja obywatel zasady",
-      "nie rozpowszechniaj niesprawdzonych wiadomości"
-    ],
-    "dokumenty_zrodlowe": [
-      {
-        "dokument_id": "src-olioc-akademia",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      },
-      {
-        "dokument_id": "src-poradnik-cyfrowe",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      }
-    ]
-  },
-  {
-    "id": "KARTA-OLIOC-PAŹDZIERNIK-05-KOPIE_I_ZGLASZANIE",
-    "kategoria": "olioc",
-    "miesiac_akademii": "październik",
-    "grupa_docelowa": "obywatel",
-    "status_zrodla": "oficjalne",
-    "data_aktualizacji": "2026-07-17",
-    "data_weryfikacji_zrodel": "2026-07-17",
-    "zrodlo": "Poradnik bezpieczeństwa - Zagrożenia cyfrowe; CERT Polska - zgłoszenie incydentu",
-    "slowo_kluczowe": "olioc kopie zapasowe i zgłoszenie incydentu",
-    "keywords": [
-      "backup ważnych dokumentów",
-      "co zrobić po cyberataku",
-      "zgłoszenie incydentu cert polska"
-    ],
-    "prefix": "OLiOC - październik: kopie zapasowe, ochrona danych i zgłaszanie incydentów.",
-    "content": "1. Wykonuj kopie ważnych dokumentów i zdjęć w co najmniej dwóch miejscach.\n2. Jedna kopia powinna być odłączona od urządzenia lub przechowywana w bezpiecznej usłudze z silnym hasłem.\n3. Zabezpiecz kopie szyfrowaniem i nie zapisuj haseł razem z dokumentami.\n4. Po podejrzeniu przejęcia konta zmień hasło z bezpiecznego urządzenia i wyloguj inne sesje.\n5. Zachowaj dowody: treść wiadomości, adres, godzinę i zrzuty ekranu, ale nie rozpowszechniaj szkodliwego linku.\n6. Incydent zgłoś do CERT Polska; oszustwo finansowe również do banku i policji.",
-    "tagi_wspolne": [
-      "OLiOC",
-      "ochrona ludności",
-      "edukacja obywatelska",
-      "Akademia OLiOC październik",
-      "kopie zapasowe",
-      "ochrona danych",
-      "CERT Polska"
-    ],
-    "aliasy": [
-      "backup ważnych dokumentów",
-      "co zrobić po cyberataku",
-      "zgłoszenie incydentu cert polska"
-    ],
-    "dokumenty_zrodlowe": [
-      {
-        "dokument_id": "src-poradnik-cyfrowe",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      },
-      {
-        "dokument_id": "src-cert-zglos-incydent",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      }
-    ]
-  },
-  {
-    "id": "KARTA-OLIOC-PAŹDZIERNIK-03-PHISHING_FALSZYWE_ALERTY",
-    "kategoria": "olioc",
-    "miesiac_akademii": "październik",
-    "grupa_docelowa": "obywatel",
-    "status_zrodla": "oficjalne",
-    "data_aktualizacji": "2026-07-17",
-    "data_weryfikacji_zrodel": "2026-07-17",
-    "zrodlo": "Poradnik bezpieczeństwa - Zagrożenia cyfrowe; CERT Polska - zgłoszenie incydentu",
+    "grupa": "olioc",
+    "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+    "data_aktualizacji": "2026-10-28",
     "slowo_kluczowe": "olioc phishing fałszywy alert",
     "keywords": [
       "podejrzany sms z linkiem",
       "fałszywa wiadomość od służb",
       "oszustwo na alert rcb"
     ],
-    "prefix": "OLiOC - październik: phishing i fałszywe alerty.",
-    "content": "1. Nie klikaj linku ani załącznika w wiadomości, której się nie spodziewasz.\n2. Sprawdź pełny adres nadawcy i strony - podobna nazwa lub logo nie potwierdza autentyczności.\n3. Instytucja nie powinna wymuszać podania hasła, kodu BLIK, danych karty ani instalowania aplikacji z linku w SMS.\n4. Skontaktuj się z instytucją przez numer lub stronę znalezioną samodzielnie, nie przez dane z podejrzanej wiadomości.\n5. Podejrzany SMS z linkiem prześlij pod numer 8080; incydent zgłoś do CERT Polska.\n6. Jeżeli podałeś dane, natychmiast zmień hasła, skontaktuj się z bankiem i zgłoś zdarzenie.",
-    "tagi_wspolne": [
-      "OLiOC",
-      "ochrona ludności",
-      "edukacja obywatelska",
-      "Akademia OLiOC październik",
-      "phishing",
-      "fałszywe SMS",
-      "oszustwa"
-    ],
     "aliasy": [
       "podejrzany sms z linkiem",
       "fałszywa wiadomość od służb",
       "oszustwo na alert rcb"
     ],
-    "dokumenty_zrodlowe": [
+    "prefix": "Phishing i oszustwa — podejrzane wiadomości, linki i SMS-y.",
+    "najpierw": [
       {
-        "dokument_id": "src-poradnik-cyfrowe",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
+        "t": "Dostałeś podejrzaną wiadomość z linkiem lub załącznikiem? Nie klikaj pochopnie.",
+        "zr": "Poradnik 2025",
+        "str": 40
       },
       {
-        "dokument_id": "src-cert-zglos-incydent",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
+        "t": "Sprawdzaj adresy nadawców i treść — błędy lub brak polskich znaków mogą oznaczać oszustwo.",
+        "zr": "Poradnik 2025",
+        "str": 40
+      },
+      {
+        "t": "Podejrzane SMS-y z linkami prześlij pod numer 8080.",
+        "zr": "Poradnik 2025",
+        "str": 40
       }
-    ]
-  },
-  {
-    "id": "KARTA-OLIOC-PAŹDZIERNIK-04-TELEFON_KONTA",
-    "kategoria": "olioc",
-    "miesiac_akademii": "październik",
-    "grupa_docelowa": "obywatel",
-    "status_zrodla": "oficjalne",
-    "data_aktualizacji": "2026-07-17",
-    "data_weryfikacji_zrodel": "2026-07-17",
-    "zrodlo": "Poradnik bezpieczeństwa - Zagrożenia cyfrowe",
-    "slowo_kluczowe": "olioc bezpieczny telefon i konta",
-    "keywords": [
-      "zabezpieczenie smartfona na kryzys",
-      "silne hasło i uwierzytelnianie dwuskładnikowe",
-      "aktualizacja telefonu bezpieczeństwo"
     ],
-    "prefix": "OLiOC - październik: zabezpieczenie telefonu i kont internetowych.",
-    "content": "1. Aktualizuj system, przeglądarkę i aplikacje; instaluj programy tylko z oficjalnych sklepów.\n2. Używaj różnych, silnych haseł i menedżera haseł.\n3. Włącz uwierzytelnianie wieloskładnikowe, szczególnie dla poczty, banku i mediów społecznościowych.\n4. Zabezpiecz ekran kodem, PIN-em lub biometrią i ustaw automatyczną blokadę.\n5. Ogranicz uprawnienia aplikacji oraz usuń programy, których nie używasz.\n6. Nie korzystaj z publicznego Wi-Fi do operacji bankowych i logowania do ważnych usług bez właściwego zabezpieczenia.",
+    "parametry": [],
+    "sekcje": [
+      {
+        "etykieta": "Zgłoś",
+        "punkty": [
+          {
+            "t": "Próbę wyłudzenia lub oszustwa zgłoś na incydent.cert.pl lub w aplikacji mObywatel.",
+            "zr": "Poradnik 2025",
+            "str": 40
+          }
+        ]
+      },
+      {
+        "etykieta": "Chroń",
+        "punkty": [
+          {
+            "t": "Chroń dane logowania i numery kart płatniczych.",
+            "zr": "Poradnik 2025",
+            "str": 40
+          },
+          {
+            "t": "Przestępcy mogą przejąć dane, podszyć się pod Ciebie, wziąć pożyczkę lub oszukać znajomych.",
+            "zr": "Poradnik 2025",
+            "str": 40
+          }
+        ]
+      }
+    ],
     "tagi_wspolne": [
       "OLiOC",
       "ochrona ludności",
       "edukacja obywatelska",
-      "Akademia OLiOC październik",
-      "cyberbezpieczeństwo",
-      "telefon",
-      "konta internetowe"
-    ],
-    "aliasy": [
-      "zabezpieczenie smartfona na kryzys",
-      "silne hasło i uwierzytelnianie dwuskładnikowe",
-      "aktualizacja telefonu bezpieczeństwo"
+      "phishing",
+      "fałszywe SMS",
+      "oszustwa"
     ],
     "dokumenty_zrodlowe": [
       {
-        "dokument_id": "src-poradnik-cyfrowe",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 39,
+        "sekcja": "Zagrożenia cyfrowe (s. 39–40)"
       }
-    ]
-  },
-  {
-    "id": "KARTA-OLIOC-PAŹDZIERNIK-02-WERYFIKACJA_INFORMACJI",
-    "kategoria": "olioc",
-    "miesiac_akademii": "październik",
-    "grupa_docelowa": "obywatel",
-    "status_zrodla": "oficjalne",
-    "data_aktualizacji": "2026-07-17",
-    "data_weryfikacji_zrodel": "2026-07-17",
-    "zrodlo": "Poradnik bezpieczeństwa - Zagrożenia cyfrowe; Poradnik bezpieczeństwa - Sygnały alarmowe i komunikaty ostrzegawcze",
-    "slowo_kluczowe": "olioc weryfikacja informacji w kryzysie",
-    "keywords": [
-      "jak sprawdzić prawdziwość komunikatu",
-      "sprawdzanie źródła informacji kryzys",
-      "wiarygodna informacja oficjalne źródła"
     ],
-    "prefix": "OLiOC - październik: weryfikacja wiadomości w sytuacji kryzysowej.",
-    "content": "1. Znajdź pierwotne źródło, a nie tylko przesłany zrzut ekranu.\n2. Sprawdź, czy komunikat jest opublikowany na stronie gov.pl, w RSO, przez RCB, urząd lub właściwą służbę.\n3. Porównaj informację z co najmniej jednym innym wiarygodnym źródłem.\n4. Sprawdź datę, godzinę i obszar - prawdziwy komunikat może być już nieaktualny lub dotyczyć innego miejsca.\n5. Nie traktuj dużej liczby udostępnień jako dowodu prawdziwości.\n6. Gdy nie można potwierdzić treści, nie przekazuj jej dalej i zaznacz, że informacja jest niezweryfikowana.",
-    "tagi_wspolne": [
-      "OLiOC",
-      "ochrona ludności",
-      "edukacja obywatelska",
-      "Akademia OLiOC październik",
-      "weryfikacja informacji",
-      "oficjalne komunikaty"
-    ],
-    "aliasy": [
-      "jak sprawdzić prawdziwość komunikatu",
-      "sprawdzanie źródła informacji kryzys",
-      "wiarygodna informacja oficjalne źródła"
-    ],
-    "dokumenty_zrodlowe": [
-      {
-        "dokument_id": "src-poradnik-cyfrowe",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      },
-      {
-        "dokument_id": "src-poradnik-alarmy",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      }
-    ]
+    "data_przegladu": "2026-10-28",
+    "content": "1. NAJPIERW: Dostałeś podejrzaną wiadomość z linkiem lub załącznikiem? Nie klikaj pochopnie. Sprawdzaj adresy nadawców i treść — błędy lub brak polskich znaków mogą oznaczać oszustwo. Podejrzane SMS-y z linkami prześlij pod numer 8080.\n2. ZGŁOŚ: Próbę wyłudzenia lub oszustwa zgłoś na incydent.cert.pl lub w aplikacji mObywatel.\n3. CHROŃ: Chroń dane logowania i numery kart płatniczych. Przestępcy mogą przejąć dane, podszyć się pod Ciebie, wziąć pożyczkę lub oszukać znajomych."
   },
   {
     "id": "KARTA-OLIOC-PIERWSZA-POMOC-RKO-I-AED",
@@ -9449,6 +9549,84 @@
     ],
     "data_przegladu": "2026-10-27",
     "content": "1. NAJPIERW: Ogłoszenie alarmu: ciągły, modulowany dźwięk syreny przez 3 minuty. Odwołanie alarmu: ciągły, jednostajny dźwięk syreny przez 3 minuty. Po usłyszeniu sygnału włącz radio lub telewizor i stosuj się do komunikatów.\n2. PARAMETRY: Rodzaje sygnałów — w Polsce obecnie tylko dwa; Ćwiczenia — zapowiadane odpowiednio wcześniej\n3. KANAŁY OSTRZEGANIA: Syreny, megafony, radio, telewizja, internet, aplikacja RSO, Alerty RCB, bezpośredni kontakt. Znaczenie sygnałów sprawdzisz m.in. w aplikacji mObywatel i na stronie gov.pl/web/rcb/sygnaly-alarmowe3."
+  },
+  {
+    "id": "KARTA-OLIOC-WERYFIKACJA-INFORMACJI",
+    "wzorzec": 2,
+    "kategoria": "olioc",
+    "grupa": "olioc",
+    "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+    "data_aktualizacji": "2026-10-28",
+    "slowo_kluczowe": "olioc weryfikacja informacji w kryzysie",
+    "keywords": [
+      "jak sprawdzić prawdziwość komunikatu",
+      "sprawdzanie źródła informacji kryzys",
+      "wiarygodna informacja oficjalne źródła"
+    ],
+    "aliasy": [
+      "jak sprawdzić prawdziwość komunikatu",
+      "sprawdzanie źródła informacji kryzys",
+      "wiarygodna informacja oficjalne źródła"
+    ],
+    "prefix": "Weryfikacja informacji w kryzysie — gdzie sprawdzać komunikaty.",
+    "najpierw": [
+      {
+        "t": "Sprawdzaj informacje w kilku niezależnych źródłach.",
+        "zr": "Poradnik 2025",
+        "str": 39
+      },
+      {
+        "t": "Komunikaty w kryzysie: strony rządowe, Alerty RCB, RSO, media.",
+        "zr": "Poradnik 2025",
+        "str": 25
+      },
+      {
+        "t": "Korzystaj z wiarygodnych źródeł informacji, przede wszystkim rządowych.",
+        "zr": "Poradnik 2025",
+        "str": 52
+      }
+    ],
+    "parametry": [],
+    "sekcje": [
+      {
+        "etykieta": "Kanały ostrzegania",
+        "punkty": [
+          {
+            "t": "Syreny, megafony, radio, telewizja, internet, RSO, Alerty RCB, bezpośredni kontakt.",
+            "zr": "Poradnik 2025",
+            "str": 24
+          },
+          {
+            "t": "RSO — bezpłatna aplikacja informująca o zagrożeniach w Polsce.",
+            "zr": "Poradnik 2025",
+            "str": 53
+          }
+        ]
+      }
+    ],
+    "nie_rob": [
+      {
+        "t": "Nie rozpowszechniaj niesprawdzonych informacji.",
+        "zr": "Poradnik 2025",
+        "str": 39
+      }
+    ],
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "weryfikacja informacji",
+      "oficjalne komunikaty"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 39,
+        "sekcja": "Zagrożenia cyfrowe (s. 39), sygnały i komunikaty (s. 24–25, 53), Dekalog (s. 52)"
+      }
+    ],
+    "data_przegladu": "2026-10-28",
+    "content": "1. NAJPIERW: Sprawdzaj informacje w kilku niezależnych źródłach. Komunikaty w kryzysie: strony rządowe, Alerty RCB, RSO, media. Korzystaj z wiarygodnych źródeł informacji, przede wszystkim rządowych.\n2. KANAŁY OSTRZEGANIA: Syreny, megafony, radio, telewizja, internet, RSO, Alerty RCB, bezpośredni kontakt. RSO — bezpłatna aplikacja informująca o zagrożeniach w Polsce.\n3. NIE RÓB: Nie rozpowszechniaj niesprawdzonych informacji."
   },
   {
     "id": "KARTA-OLIOC-ZWIERZETA-W-KRYZYSIE",

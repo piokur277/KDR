@@ -1,0 +1,70 @@
+{
+  "id": "KARTA-OLIOC-KOPIE-ZAPASOWE-I-ZGLASZANIE",
+  "wzorzec": 2,
+  "kategoria": "olioc",
+  "grupa": "olioc",
+  "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+  "data_aktualizacji": "2026-10-28",
+  "slowo_kluczowe": "olioc kopie zapasowe i zgłoszenie incydentu",
+  "keywords": [
+    "backup ważnych dokumentów",
+    "co zrobić po cyberataku",
+    "zgłoszenie incydentu cert polska",
+    "kopia zapasowa",
+    "kopie zapasowe dokumentow"
+  ],
+  "aliasy": [
+    "backup ważnych dokumentów",
+    "co zrobić po cyberataku",
+    "zgłoszenie incydentu cert polska",
+    "kopia zapasowa",
+    "kopie zapasowe dokumentow"
+  ],
+  "prefix": "Kopie zapasowe dokumentów i zgłaszanie incydentów.",
+  "najpierw": [
+    {
+      "t": "Rób kopie zapasowe ważnych plików i dokumentów.",
+      "zr": "Poradnik 2025",
+      "str": 40
+    },
+    {
+      "t": "W plecaku ewakuacyjnym: dokumenty i ich kopie na pendrivie.",
+      "zr": "Poradnik 2025",
+      "str": 26
+    },
+    {
+      "t": "Próbę wyłudzenia lub oszustwa zgłoś na incydent.cert.pl lub w aplikacji mObywatel.",
+      "zr": "Poradnik 2025",
+      "str": 40
+    }
+  ],
+  "parametry": [],
+  "sekcje": [
+    {
+      "etykieta": "Dokumentacja medyczna",
+      "punkty": [
+        {
+          "t": "Dokumentację medyczną trzymaj w jednym miejscu.",
+          "zr": "Poradnik 2025",
+          "str": 11
+        }
+      ]
+    }
+  ],
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "kopie zapasowe",
+    "ochrona danych",
+    "CERT Polska"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+      "strona": 40,
+      "sekcja": "Cyberprzestępczość (s. 40), plecak (s. 26), zdrowie (s. 11)"
+    }
+  ],
+  "data_przegladu": "2026-10-28"
+}
