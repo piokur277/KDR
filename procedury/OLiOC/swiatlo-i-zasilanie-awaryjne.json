@@ -1,0 +1,71 @@
+{
+  "id": "KARTA-OLIOC-SWIATLO-I-ZASILANIE-AWARYJNE",
+  "wzorzec": 2,
+  "kategoria": "olioc",
+  "grupa": "olioc",
+  "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+  "data_aktualizacji": "2026-10-28",
+  "slowo_kluczowe": "olioc oświetlenie awaryjne i powerbank",
+  "keywords": [
+    "latarki baterie na blackout",
+    "zapasowe źródło światła kryzys",
+    "ładowanie telefonu bez prądu"
+  ],
+  "aliasy": [
+    "latarki baterie na blackout",
+    "zapasowe źródło światła kryzys",
+    "ładowanie telefonu bez prądu"
+  ],
+  "prefix": "Światło i zasilanie awaryjne — latarki, baterie, powerbanki, radio.",
+  "najpierw": [
+    {
+      "t": "Latarki (także czołowe) z zapasem baterii.",
+      "zr": "Poradnik 2025",
+      "str": 33
+    },
+    {
+      "t": "Naładuj powerbanki; włącz w telefonie tryb oszczędzania energii.",
+      "zr": "Poradnik 2025",
+      "str": 33
+    },
+    {
+      "t": "Radio na baterie lub na korbkę.",
+      "zr": "Poradnik 2025",
+      "str": 22
+    }
+  ],
+  "parametry": [],
+  "sekcje": [
+    {
+      "etykieta": "Zapasy na 3 dni — oświetlenie i łączność",
+      "punkty": [
+        {
+          "t": "Latarka, radio, naładowany telefon, ładowarka, powerbank, pasujące kable i baterie.",
+          "zr": "Poradnik 2025",
+          "str": 22
+        },
+        {
+          "t": "Świeczki do użytku domowego i zapalniczka.",
+          "zr": "Poradnik 2025",
+          "str": 22
+        }
+      ]
+    }
+  ],
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "oświetlenie awaryjne",
+    "powerbank",
+    "baterie"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+      "strona": 33,
+      "sekcja": "Blackout (s. 33), zapasy (s. 22)"
+    }
+  ],
+  "data_przegladu": "2026-10-28"
+}

@@ -1,0 +1,86 @@
+{
+  "id": "KARTA-OLIOC-WODA-I-HIGIENA-BEZ-PRADU",
+  "wzorzec": 2,
+  "kategoria": "olioc",
+  "grupa": "olioc",
+  "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+  "data_aktualizacji": "2026-10-28",
+  "slowo_kluczowe": "olioc brak wody podczas blackoutu",
+  "keywords": [
+    "co robić gdy nie ma wody w kranie",
+    "oszczędzanie wody w kryzysie",
+    "woda pitna i higiena blackout"
+  ],
+  "aliasy": [
+    "co robić gdy nie ma wody w kranie",
+    "oszczędzanie wody w kryzysie",
+    "woda pitna i higiena blackout"
+  ],
+  "prefix": "Woda i higiena, gdy brak prądu i bieżącej wody.",
+  "najpierw": [
+    {
+      "t": "Zapas wody: minimum 3 litry na osobę na dobę.",
+      "zr": "Poradnik 2025",
+      "str": 21
+    },
+    {
+      "t": "Brak bieżącej wody — nawilżane chusteczki i płyny do dezynfekcji.",
+      "zr": "Poradnik 2025",
+      "str": 45
+    },
+    {
+      "t": "Prowizoryczna toaleta: plastikowa torba na wiadrze; po użyciu torba do osobnego pojemnika.",
+      "zr": "Poradnik 2025",
+      "str": 45
+    }
+  ],
+  "parametry": [],
+  "sekcje": [
+    {
+      "etykieta": "Higiena",
+      "punkty": [
+        {
+          "t": "Zapachy zneutralizujesz ziemią, trocinami lub żwirkiem; jak pozbywać się nieczystości — poinformują służby komunalne.",
+          "zr": "Poradnik 2025",
+          "str": 45
+        },
+        {
+          "t": "Przy braku wody nadal możesz oddawać mocz do toalety.",
+          "zr": "Poradnik 2025",
+          "str": 45
+        },
+        {
+          "t": "Zapasy higieniczne: papier, chusteczki, podpaski, pieluchy, środki dezynfekujące, worki, wiadro z pokrywą.",
+          "zr": "Poradnik 2025",
+          "str": 21
+        }
+      ]
+    },
+    {
+      "etykieta": "Woda w plecaku",
+      "punkty": [
+        {
+          "t": "Filtry lub tabletki do uzdatniania wody.",
+          "zr": "Poradnik 2025",
+          "str": 26
+        }
+      ]
+    }
+  ],
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "brak wody",
+    "woda pitna",
+    "higiena"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+      "strona": 45,
+      "sekcja": "Higiena w kryzysie (s. 45), zapasy (s. 21), plecak (s. 26)"
+    }
+  ],
+  "data_przegladu": "2026-10-28"
+}

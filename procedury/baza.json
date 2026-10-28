@@ -6618,6 +6618,89 @@
     "content": "1. NAJPIERW: Każde zgłoszenie niezwłocznie przekaż do nadrzędnego SK PSP; w SWD PSP flaga „Do wiadomości KG”, podrodzaj „MZ – Lotnicze”. Nie dotykaj, nie ruszaj, nie przenoś — nawet poruszenie, odkręcenie śruby lub telefon komórkowy w pobliżu może spowodować detonację. Wyznacz strefę niebezpieczną o promieniu co najmniej 150 m i ewakuuj z niej ludzi; 150 m to minimum — zwiększ wg obiektu, terenu i rozpoznania. Bez bezpośredniego zagrożenia życia osób postronnych ratownicy nie zbliżają się do obiektu: „Jeżeli Ty widzisz bombę – bomba widzi Ciebie”.\n2. PARAMETRY: Założenie wstępne — obiekt militarny z materiałem wybuchowym, możliwe systemy autodestrukcji (zapalniki czasowe); Strefa niebezpieczna — min. 150 m od obiektu — wartość minimalna; Rozpoznanie — tylko z dystansu: lornetka, luneta, kamera lub telefon z zoomem, BSP jednostki; Służba wiodąca — po przybyciu Policji lub SZ RP — formalnie przekaż im miejsce zdarzenia\n3. DOJAZD I USTAWIENIE SIŁ: Dojazd planuj z uwzględnieniem kierunku i siły wiatru, ukształtowania terenu i możliwości rozprzestrzeniania aerozolu. Pojazdy zatrzymaj poza strefą niebezpieczną, z możliwością natychmiastowego wycofania. Punkt dowodzenia i punkt przyjęcia sił — po stronie nawietrznej, poza obszarem rażenia i skażenia. Rozpraszaj siły: nie gromadź pojazdów w jednym punkcie ani na jednej osi dojazdu; wykorzystaj osłony terenowe i zabudowę. Wyznacz obserwatora przestrzeni powietrznej; ustal sygnał alarmowy i miejsca ukrycia dla wszystkich działających.\n4. ZAGROŻENIA: Obiekt może zawierać bojowe środki trujące lub inne substancje niebezpieczne. Zakładaj skażenie CBRN każdego BSP do wykluczenia pomiarami; uprzedź inne służby — części BSP tylko w rękawiczkach. Możliwe środki: chloropikryna, malononitryl, nowiczoki; materiały promieniotwórcze (np. zubożony uran). Wybuch przy pożarze (ogrzanie zapalnika); w pobliżu upadku miny i urządzenia wybuchowe, także reagujące na drgania od kroków. Głowice 40–90 kg materiału wybuchowego; przy 90 kg zasięg odłamkowania ok. 1000 m. Możliwa aktywacja falami radiowymi i wtórne uderzenie w miejsce, gdzie zebrały się służby. Najgroźniejsze są BSP, które nie wybuchły lub nie spłonęły — ryzyko opóźnionej detonacji.\n5. RATOWANIE ŻYCIA I ORGANIZACJA: Przy bezpośrednim zagrożeniu poszkodowanych dopuszczalne działania poza wytycznymi, z zachowaniem ostrożności; zbliżaj się za osłonami lub z tarczą balistyczną. Zdjęcia i filmy tylko służbowo; przekazuj wyłącznie służbową pocztą elektroniczną. Wytyczne mogą być doprecyzowane na poziomie wojewódzkim lub powiatowym.\n6. NIE RÓB: Nie odłączaj baterii, nie obracaj, nie tnij przewodów, nie wchodź w pole widzenia kamery. Nie zbliżaj się z urządzeniami emitującymi fale radiowe. Nie publikuj materiałów w mediach społecznościowych ani prywatnych komunikatorach."
   },
   {
+    "id": "KARTA-OLIOC-AGREGAT-PRADOTWORCZY",
+    "wzorzec": 2,
+    "kategoria": "olioc",
+    "grupa": "olioc",
+    "zrodlo": "KP PSP Giżycko: komunikat o bezpiecznym użyciu agregatów (16.12.2024); MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025; KG PSP: Obowiązek instalowania autonomicznych czujek dymu i czadu (30.06.2026).",
+    "data_aktualizacji": "2026-10-28",
+    "slowo_kluczowe": "olioc agregat prądotwórczy bezpieczeństwo",
+    "keywords": [
+      "agregat musi pracować na zewnątrz",
+      "spaliny z agregatu czad",
+      "awaryjne zasilanie domu agregat"
+    ],
+    "aliasy": [
+      "agregat musi pracować na zewnątrz",
+      "spaliny z agregatu czad",
+      "awaryjne zasilanie domu agregat"
+    ],
+    "prefix": "Agregat prądotwórczy — bezpieczne użycie, spaliny i czad.",
+    "najpierw": [
+      {
+        "t": "Agregat musi pracować na zewnątrz pomieszczeń; spaliny nie mogą narażać użytkowników.",
+        "zr": "KP PSP Giżycko",
+        "str": 1
+      },
+      {
+        "t": "Przykład z interwencji: agregat w piwnicy bez wentylacji — spaliny dotarły na wyższe piętra; ostrzegła czujka tlenku węgla.",
+        "zr": "KP PSP Giżycko",
+        "str": 1
+      }
+    ],
+    "parametry": [],
+    "sekcje": [
+      {
+        "etykieta": "Przygotowanie",
+        "punkty": [
+          {
+            "t": "Rozważ zakup agregatu prądotwórczego jako alternatywnego źródła zasilania.",
+            "zr": "Poradnik 2025",
+            "str": 33
+          },
+          {
+            "t": "Zamontuj czujkę czadu; przy alarmie wyjdź z budynku i wezwij pomoc.",
+            "zr": "KG PSP czujki",
+            "str": 1
+          }
+        ]
+      }
+    ],
+    "nie_rob": [
+      {
+        "t": "Nie uruchamiaj agregatu w piwnicy ani innym pomieszczeniu bez wentylacji.",
+        "zr": "KP PSP Giżycko",
+        "str": 1
+      }
+    ],
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "agregat prądotwórczy",
+      "awaryjne zasilanie"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-psp-agregat-na-zewnatrz",
+        "strona": 1,
+        "sekcja": "Komunikat KP PSP Giżycko"
+      },
+      {
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 33,
+        "sekcja": "Blackout (s. 33)"
+      },
+      {
+        "dokument_id": "src-kgpsp-czujki-2026",
+        "strona": 1,
+        "sekcja": "Czujki (KG PSP)"
+      }
+    ],
+    "data_przegladu": "2026-10-28",
+    "content": "1. NAJPIERW: Agregat musi pracować na zewnątrz pomieszczeń; spaliny nie mogą narażać użytkowników. Przykład z interwencji: agregat w piwnicy bez wentylacji — spaliny dotarły na wyższe piętra; ostrzegła czujka tlenku węgla.\n2. PRZYGOTOWANIE: Rozważ zakup agregatu prądotwórczego jako alternatywnego źródła zasilania. Zamontuj czujkę czadu; przy alarmie wyjdź z budynku i wezwij pomoc.\n3. NIE RÓB: Nie uruchamiaj agregatu w piwnicy ani innym pomieszczeniu bez wentylacji."
+  },
+  {
     "id": "KARTA-OLIOC-ALARM-ATAK-Z-POWIETRZA",
     "wzorzec": 2,
     "kategoria": "olioc",
@@ -7038,6 +7121,95 @@
     ],
     "data_przegladu": "2026-10-28",
     "content": "1. NAJPIERW: Ustaw silne hasła, np. z menedżerem haseł. Korzystaj z weryfikacji dwuetapowej (SMS, e-mail). Regularnie aktualizuj antywirusa i aplikacje w komputerze i telefonie.\n2. OPROGRAMOWANIE: Korzystaj tylko z legalnego oprogramowania; nie instaluj aplikacji z niesprawdzonych źródeł.\n3. SIEĆ: Zachowaj ostrożność w publicznych sieciach Wi-Fi."
+  },
+  {
+    "id": "KARTA-OLIOC-BLACKOUT-PIERWSZE-DZIALANIA",
+    "wzorzec": 2,
+    "kategoria": "olioc",
+    "grupa": "olioc",
+    "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+    "data_aktualizacji": "2026-10-28",
+    "slowo_kluczowe": "olioc blackout pierwsze działania",
+    "keywords": [
+      "co robić gdy długo nie ma prądu",
+      "awaria zasilania w domu kroki",
+      "przerwa w dostawie energii przygotowanie"
+    ],
+    "aliasy": [
+      "co robić gdy długo nie ma prądu",
+      "awaria zasilania w domu kroki",
+      "przerwa w dostawie energii przygotowanie"
+    ],
+    "prefix": "Długotrwały brak prądu (blackout) — co tracisz i co zrobić od razu.",
+    "najpierw": [
+      {
+        "t": "Oszczędzaj ciepło — zbierz domowników w jednym pokoju.",
+        "zr": "Poradnik 2025",
+        "str": 33
+      },
+      {
+        "t": "Ogranicz otwieranie lodówki i zamrażarki — dłużej utrzymają niską temperaturę.",
+        "zr": "Poradnik 2025",
+        "str": 33
+      },
+      {
+        "t": "Odłącz wszystkie urządzenia elektryczne od zasilania.",
+        "zr": "Poradnik 2025",
+        "str": 33
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Czas trwania",
+        "wartosc": "nawet kilka dni",
+        "zr": "Poradnik 2025",
+        "str": 33
+      },
+      {
+        "nazwa": "Skutki",
+        "wartosc": "brak wody, ogrzewania, internetu, telefonu i płatności kartą",
+        "zr": "Poradnik 2025",
+        "str": 33
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Przygotuj wcześniej",
+        "punkty": [
+          {
+            "t": "Alternatywne źródła światła, ogrzewania i łączności; naładowane powerbanki; tryb oszczędzania energii w telefonie.",
+            "zr": "Poradnik 2025",
+            "str": 33
+          },
+          {
+            "t": "Zapasy żywności gotowej do spożycia i wody (min. 3 l dziennie na osobę); gotówka w różnych nominałach.",
+            "zr": "Poradnik 2025",
+            "str": 33
+          },
+          {
+            "t": "Rozważ zakup agregatu prądotwórczego.",
+            "zr": "Poradnik 2025",
+            "str": 33
+          }
+        ]
+      }
+    ],
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "blackout",
+      "brak prądu"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 33,
+        "sekcja": "Długotrwały brak prądu (s. 33)"
+      }
+    ],
+    "data_przegladu": "2026-10-28",
+    "content": "1. NAJPIERW: Oszczędzaj ciepło — zbierz domowników w jednym pokoju. Ogranicz otwieranie lodówki i zamrażarki — dłużej utrzymają niską temperaturę. Odłącz wszystkie urządzenia elektryczne od zasilania.\n2. PARAMETRY: Czas trwania — nawet kilka dni; Skutki — brak wody, ogrzewania, internetu, telefonu i płatności kartą\n3. PRZYGOTUJ WCZEŚNIEJ: Alternatywne źródła światła, ogrzewania i łączności; naładowane powerbanki; tryb oszczędzania energii w telefonie. Zapasy żywności gotowej do spożycia i wody (min. 3 l dziennie na osobę); gotówka w różnych nominałach. Rozważ zakup agregatu prądotwórczego."
   },
   {
     "id": "KARTA-OLIOC-CZUJKI-DYMU-I-CZADU",
@@ -7974,304 +8146,71 @@
     "content": "1. NAJPIERW: Rób kopie zapasowe ważnych plików i dokumentów. W plecaku ewakuacyjnym: dokumenty i ich kopie na pendrivie. Próbę wyłudzenia lub oszustwa zgłoś na incydent.cert.pl lub w aplikacji mObywatel.\n2. DOKUMENTACJA MEDYCZNA: Dokumentację medyczną trzymaj w jednym miejscu."
   },
   {
-    "id": "KARTA-OLIOC-LISTOPAD-07-AGREGAT",
+    "id": "KARTA-OLIOC-LACZNOSC-BEZ-PRADU",
+    "wzorzec": 2,
     "kategoria": "olioc",
-    "miesiac_akademii": "listopad",
-    "grupa_docelowa": "obywatel",
-    "status_zrodla": "oficjalne",
-    "data_aktualizacji": "2026-07-17",
-    "data_weryfikacji_zrodel": "2026-07-17",
-    "zrodlo": "Poradnik bezpieczeństwa - Długotrwały brak prądu (blackout); PSP - bezpieczeństwo podczas korzystania z agregatu prądotwórczego",
-    "slowo_kluczowe": "olioc agregat prądotwórczy bezpieczeństwo",
-    "keywords": [
-      "agregat musi pracować na zewnątrz",
-      "spaliny z agregatu czad",
-      "awaryjne zasilanie domu agregat"
-    ],
-    "prefix": "OLiOC - listopad: bezpieczne korzystanie z agregatu prądotwórczego.",
-    "content": "1. Agregat spalinowy uruchamiaj wyłącznie na zewnątrz pomieszczeń, z dala od okien, drzwi i nawiewów.\n2. Ustaw go stabilnie i tak, aby spaliny nie mogły przedostać się do budynku ani zagrozić innym osobom.\n3. Stosuj instrukcję producenta, właściwe paliwo i sprawne przewody o odpowiedniej obciążalności.\n4. Nie podłączaj agregatu samodzielnie do instalacji budynku przez zwykłe gniazdko; stałe podłączenie powinien wykonać uprawniony specjalista.\n5. Tankuj dopiero po wyłączeniu i ostygnięciu urządzenia; paliwo przechowuj w przeznaczonych pojemnikach.\n6. W budynku używaj czujki tlenku węgla i natychmiast reaguj na jej alarm.",
-    "tagi_wspolne": [
-      "OLiOC",
-      "ochrona ludności",
-      "edukacja obywatelska",
-      "Akademia OLiOC listopad",
-      "agregat prądotwórczy",
-      "awaryjne zasilanie"
-    ],
-    "aliasy": [
-      "agregat musi pracować na zewnątrz",
-      "spaliny z agregatu czad",
-      "awaryjne zasilanie domu agregat"
-    ],
-    "dokumenty_zrodlowe": [
-      {
-        "dokument_id": "src-poradnik-blackout",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      },
-      {
-        "dokument_id": "src-psp-agregat-na-zewnatrz",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      }
-    ]
-  },
-  {
-    "id": "KARTA-OLIOC-LISTOPAD-01-BLACKOUT_PIERWSZE_DZIALANIA",
-    "kategoria": "olioc",
-    "miesiac_akademii": "listopad",
-    "grupa_docelowa": "obywatel",
-    "status_zrodla": "oficjalne",
-    "data_aktualizacji": "2026-07-17",
-    "data_weryfikacji_zrodel": "2026-07-17",
-    "zrodlo": "Akademia OLiOC - program „jeden miesiąc - jeden temat”; Poradnik bezpieczeństwa - Długotrwały brak prądu (blackout)",
-    "slowo_kluczowe": "olioc blackout pierwsze działania",
-    "keywords": [
-      "co robić gdy długo nie ma prądu",
-      "awaria zasilania w domu kroki",
-      "przerwa w dostawie energii przygotowanie"
-    ],
-    "prefix": "OLiOC - listopad: pierwsze działania podczas długotrwałego braku prądu.",
-    "content": "1. Sprawdź, czy awaria dotyczy mieszkania, budynku czy większego obszaru.\n2. Odłącz wrażliwe urządzenia elektryczne, aby ograniczyć skutki przepięcia po powrocie zasilania.\n3. Włącz oszczędzanie energii w telefonie i używaj go tylko do ważnej komunikacji.\n4. Używaj latarek zamiast otwartego ognia; pozostaw jedną lampę włączoną jako sygnał powrotu prądu.\n5. Słuchaj radia i komunikatów operatora, gminy oraz służb.\n6. Sprawdź osoby zależne od urządzeń medycznych i w razie zagrożenia skontaktuj się z 112 lub właściwą placówką.",
-    "tagi_wspolne": [
-      "OLiOC",
-      "ochrona ludności",
-      "edukacja obywatelska",
-      "Akademia OLiOC listopad",
-      "blackout",
-      "brak prądu"
-    ],
-    "aliasy": [
-      "co robić gdy długo nie ma prądu",
-      "awaria zasilania w domu kroki",
-      "przerwa w dostawie energii przygotowanie"
-    ],
-    "dokumenty_zrodlowe": [
-      {
-        "dokument_id": "src-olioc-akademia",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      },
-      {
-        "dokument_id": "src-poradnik-blackout",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      }
-    ]
-  },
-  {
-    "id": "KARTA-OLIOC-LISTOPAD-05-BRAK_LACZNOSCI",
-    "kategoria": "olioc",
-    "miesiac_akademii": "listopad",
-    "grupa_docelowa": "obywatel",
-    "status_zrodla": "oficjalne",
-    "data_aktualizacji": "2026-07-17",
-    "data_weryfikacji_zrodel": "2026-07-17",
-    "zrodlo": "Poradnik bezpieczeństwa - Długotrwały brak prądu (blackout); Poradnik bezpieczeństwa - Plan na kryzys",
+    "grupa": "olioc",
+    "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+    "data_aktualizacji": "2026-10-28",
     "slowo_kluczowe": "olioc brak telefonu i internetu",
     "keywords": [
       "łączność podczas blackoutu",
       "radio bateryjne brak internetu",
       "kontakt z rodziną gdy nie działa sieć"
     ],
-    "prefix": "OLiOC - listopad: brak telefonu, internetu i przeciążenie sieci.",
-    "content": "1. Przejdź na ustalony wcześniej rodzinny plan i miejsca spotkania.\n2. Wysyłaj krótkie SMS-y zamiast wielokrotnych połączeń głosowych.\n3. Ogranicz zużycie baterii, wyłączając transmisję danych, lokalizację i zbędne aplikacje.\n4. Korzystaj z radia bateryjnego, komunikatów lokalnych i punktów informacyjnych.\n5. Miej papierową listę kontaktów, adresów i podstawową mapę okolicy.\n6. Nie opuszczaj bezpiecznego miejsca wyłącznie po to, aby szukać zasięgu, jeśli warunki są niebezpieczne.",
-    "tagi_wspolne": [
-      "OLiOC",
-      "ochrona ludności",
-      "edukacja obywatelska",
-      "Akademia OLiOC listopad",
-      "brak łączności",
-      "radio",
-      "kontakty awaryjne"
-    ],
     "aliasy": [
       "łączność podczas blackoutu",
       "radio bateryjne brak internetu",
       "kontakt z rodziną gdy nie działa sieć"
     ],
-    "dokumenty_zrodlowe": [
+    "prefix": "Łączność bez prądu, telefonu i internetu.",
+    "najpierw": [
       {
-        "dokument_id": "src-poradnik-blackout",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
+        "t": "Przejdź na rodzinny plan: ustalone miejsca i terminy spotkań na wypadek braku łączności.",
+        "zr": "Poradnik 2025",
+        "str": 47
       },
       {
-        "dokument_id": "src-poradnik-plan",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
+        "t": "Radio na baterie lub korbkę; krótkofalówki, CB radio.",
+        "zr": "Poradnik 2025",
+        "str": 33
+      },
+      {
+        "t": "Tryb oszczędzania energii w telefonie, naładowane powerbanki.",
+        "zr": "Poradnik 2025",
+        "str": 33
       }
-    ]
-  },
-  {
-    "id": "KARTA-OLIOC-LISTOPAD-03-BRAK_OGRZEWANIA_CZAD",
-    "kategoria": "olioc",
-    "miesiac_akademii": "listopad",
-    "grupa_docelowa": "obywatel",
-    "status_zrodla": "oficjalne",
-    "data_aktualizacji": "2026-07-17",
-    "data_weryfikacji_zrodel": "2026-07-17",
-    "zrodlo": "Poradnik bezpieczeństwa - Długotrwały brak prądu (blackout); KG PSP - Obowiązek instalowania autonomicznych czujek dymu i czadu",
-    "slowo_kluczowe": "olioc brak ogrzewania i czad",
-    "keywords": [
-      "jak utrzymać ciepło podczas blackoutu",
-      "bezpieczne ogrzewanie awaryjne",
-      "ryzyko czadu podczas braku prądu"
     ],
-    "prefix": "OLiOC - listopad: brak ogrzewania i ryzyko tlenku węgla.",
-    "content": "1. Zbierz domowników w jednym pomieszczeniu i ogranicz utratę ciepła przez drzwi oraz okna.\n2. Ubierz kilka warstw odzieży, używaj koców i śpiworów, dbając szczególnie o dzieci i seniorów.\n3. Nie ogrzewaj mieszkania kuchenką gazową, grillem ani urządzeniem nieprzeznaczonym do pracy wewnątrz.\n4. Nie zasłaniaj kratek wentylacyjnych i zapewnij dopływ powietrza do urządzeń spalających paliwo.\n5. Używaj sprawnych, certyfikowanych urządzeń zgodnie z instrukcją oraz działającej czujki tlenku węgla.\n6. Przy bólu głowy, senności, nudnościach lub alarmie czujki natychmiast wyjdź na świeże powietrze i wezwij 112.",
+    "parametry": [],
+    "sekcje": [
+      {
+        "etykieta": "Przygotuj",
+        "punkty": [
+          {
+            "t": "Papierowa mapa lub atlas, mapy offline — GPS może nie działać.",
+            "zr": "Poradnik 2025",
+            "str": 16
+          }
+        ]
+      }
+    ],
     "tagi_wspolne": [
       "OLiOC",
       "ochrona ludności",
       "edukacja obywatelska",
-      "Akademia OLiOC listopad",
-      "brak ogrzewania",
-      "temat tlenek węgla"
-    ],
-    "aliasy": [
-      "jak utrzymać ciepło podczas blackoutu",
-      "bezpieczne ogrzewanie awaryjne",
-      "ryzyko czadu podczas braku prądu"
+      "brak łączności",
+      "radio",
+      "kontakty awaryjne"
     ],
     "dokumenty_zrodlowe": [
       {
-        "dokument_id": "src-poradnik-blackout",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      },
-      {
-        "dokument_id": "src-kgpsp-czujki-2026",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 33,
+        "sekcja": "Blackout (s. 33), plan (s. 47), otoczenie (s. 16), plecak (s. 26)"
       }
-    ]
-  },
-  {
-    "id": "KARTA-OLIOC-LISTOPAD-04-BRAK_WODY",
-    "kategoria": "olioc",
-    "miesiac_akademii": "listopad",
-    "grupa_docelowa": "obywatel",
-    "status_zrodla": "oficjalne",
-    "data_aktualizacji": "2026-07-17",
-    "data_weryfikacji_zrodel": "2026-07-17",
-    "zrodlo": "Poradnik bezpieczeństwa - Długotrwały brak prądu (blackout); Poradnik bezpieczeństwa - Higiena w kryzysie",
-    "slowo_kluczowe": "olioc brak wody podczas blackoutu",
-    "keywords": [
-      "co robić gdy nie ma wody w kranie",
-      "oszczędzanie wody w kryzysie",
-      "woda pitna i higiena blackout"
     ],
-    "prefix": "OLiOC - listopad: funkcjonowanie podczas braku dostępu do wody.",
-    "content": "1. Zachowaj wodę butelkowaną przede wszystkim do picia, leków i przygotowania żywności.\n2. Przyjmij minimalny zapas 3 litrów wody na osobę na dobę i uwzględnij dodatkowe potrzeby.\n3. Oddziel wodę pitną od technicznej i oznacz pojemniki.\n4. Stosuj chusteczki i płyn do dezynfekcji, ograniczając zużycie czystej wody.\n5. Nie pij wody z niepewnego źródła bez oficjalnej informacji o jej przydatności lub właściwego uzdatnienia.\n6. Śledź komunikaty wodociągów, gminy i sanepidu dotyczące punktów dystrybucji oraz sposobu postępowania.",
-    "tagi_wspolne": [
-      "OLiOC",
-      "ochrona ludności",
-      "edukacja obywatelska",
-      "Akademia OLiOC listopad",
-      "brak wody",
-      "woda pitna",
-      "higiena"
-    ],
-    "aliasy": [
-      "co robić gdy nie ma wody w kranie",
-      "oszczędzanie wody w kryzysie",
-      "woda pitna i higiena blackout"
-    ],
-    "dokumenty_zrodlowe": [
-      {
-        "dokument_id": "src-poradnik-blackout",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      },
-      {
-        "dokument_id": "src-poradnik-higiena",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      }
-    ]
-  },
-  {
-    "id": "KARTA-OLIOC-LISTOPAD-02-SWIATLO_ENERGIA",
-    "kategoria": "olioc",
-    "miesiac_akademii": "listopad",
-    "grupa_docelowa": "obywatel",
-    "status_zrodla": "oficjalne",
-    "data_aktualizacji": "2026-07-17",
-    "data_weryfikacji_zrodel": "2026-07-17",
-    "zrodlo": "Poradnik bezpieczeństwa - Długotrwały brak prądu (blackout)",
-    "slowo_kluczowe": "olioc oświetlenie awaryjne i powerbank",
-    "keywords": [
-      "latarki baterie na blackout",
-      "zapasowe źródło światła kryzys",
-      "ładowanie telefonu bez prądu"
-    ],
-    "prefix": "OLiOC - listopad: oświetlenie, baterie i awaryjne źródła energii.",
-    "content": "1. Przygotuj latarki ręczne i czołowe, zapas baterii oraz radio bateryjne lub na korbkę.\n2. Naładuj powerbanki i okresowo kontroluj ich stan.\n3. Ustal kolejność zasilania: urządzenia medyczne, łączność i podstawowe oświetlenie.\n4. Nie przeciążaj listew, przedłużaczy ani awaryjnego źródła zasilania.\n5. Ogranicz jasność ekranu, wyłącz transmisję danych i zbędne aplikacje.\n6. Nie używaj świec bez nadzoru; trzymaj źródła ognia z dala od materiałów palnych i dzieci.",
-    "tagi_wspolne": [
-      "OLiOC",
-      "ochrona ludności",
-      "edukacja obywatelska",
-      "Akademia OLiOC listopad",
-      "oświetlenie awaryjne",
-      "powerbank",
-      "baterie"
-    ],
-    "aliasy": [
-      "latarki baterie na blackout",
-      "zapasowe źródło światła kryzys",
-      "ładowanie telefonu bez prądu"
-    ],
-    "dokumenty_zrodlowe": [
-      {
-        "dokument_id": "src-poradnik-blackout",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      }
-    ]
-  },
-  {
-    "id": "KARTA-OLIOC-LISTOPAD-06-ZYWNOSC_BEZ_PRADU",
-    "kategoria": "olioc",
-    "miesiac_akademii": "listopad",
-    "grupa_docelowa": "obywatel",
-    "status_zrodla": "oficjalne",
-    "data_aktualizacji": "2026-07-17",
-    "data_weryfikacji_zrodel": "2026-07-17",
-    "zrodlo": "Poradnik bezpieczeństwa - Długotrwały brak prądu (blackout); GIS - Bezpieczeństwo żywności podczas przerwy w dostawie prądu",
-    "slowo_kluczowe": "olioc żywność podczas braku prądu",
-    "keywords": [
-      "lodówka zamrażarka podczas blackoutu",
-      "czy jedzenie jest bezpieczne po awarii prądu",
-      "nie otwieraj lodówki brak prądu"
-    ],
-    "prefix": "OLiOC - listopad: bezpieczeństwo żywności bez zasilania.",
-    "content": "1. Nie otwieraj bez potrzeby lodówki i zamrażarki - zamknięte dłużej utrzymują niską temperaturę.\n2. Najpierw wykorzystuj żywność szybko psującą się, jeśli nadal była przechowywana w bezpiecznej temperaturze.\n3. Nie oceniaj bezpieczeństwa wyłącznie po zapachu lub wyglądzie.\n4. Po dłuższej awarii stosuj aktualne zalecenia GIS dotyczące czasu i temperatury przechowywania.\n5. Gdy masz wątpliwości co do produktu łatwo psującego się, nie ryzykuj zatrucia - wyrzuć go.\n6. Przygotuj wcześniej zapas produktów gotowych do spożycia, niewymagających chłodzenia i dużej ilości wody.",
-    "tagi_wspolne": [
-      "OLiOC",
-      "ochrona ludności",
-      "edukacja obywatelska",
-      "Akademia OLiOC listopad",
-      "bezpieczeństwo żywności",
-      "lodówka",
-      "zamrażarka"
-    ],
-    "aliasy": [
-      "lodówka zamrażarka podczas blackoutu",
-      "czy jedzenie jest bezpieczne po awarii prądu",
-      "nie otwieraj lodówki brak prądu"
-    ],
-    "dokumenty_zrodlowe": [
-      {
-        "dokument_id": "src-poradnik-blackout",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      },
-      {
-        "dokument_id": "src-gis-zywnosc-blackout-2026",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      }
-    ]
+    "data_przegladu": "2026-10-28",
+    "content": "1. NAJPIERW: Przejdź na rodzinny plan: ustalone miejsca i terminy spotkań na wypadek braku łączności. Radio na baterie lub korbkę; krótkofalówki, CB radio. Tryb oszczędzania energii w telefonie, naładowane powerbanki.\n2. PRZYGOTUJ: Papierowa mapa lub atlas, mapy offline — GPS może nie działać."
   },
   {
     "id": "KARTA-OLIOC-MIEJSCE-SPOTKANIA-I-KONTAKT",
@@ -8585,6 +8524,94 @@
     ],
     "data_przegladu": "2026-10-27",
     "content": "1. NAJPIERW: Korzystaj z wiarygodnych źródeł, przede wszystkim rządowych: Polskie Radio, Telewizja Polska, rządowe strony, służby państwowe. Sprawdzaj informacje w kilku niezależnych źródłach. Pobierz aplikację RSO; śledź Alerty RCB.\n2. PARAMETRY: Brak prądu i internetu — radio na baterie lub korbkę w zapasach domowych\n3. DEZINFORMACJA: Nie rozpowszechniaj niesprawdzonych informacji; nie wierz w doniesienia o upadku państwa i kapitulacji.\n4. NIE RÓB: Nie publikuj informacji, zdjęć ani nagrań o lokalizacji i ruchu wojska ani ważnych obiektów (mosty, stacje, magazyny)."
+  },
+  {
+    "id": "KARTA-OLIOC-OGRZEWANIE-BEZ-PRADU-I-CZAD",
+    "wzorzec": 2,
+    "kategoria": "olioc",
+    "grupa": "olioc",
+    "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025; KG PSP: Obowiązek instalowania autonomicznych czujek dymu i czadu (30.06.2026).",
+    "data_aktualizacji": "2026-10-28",
+    "slowo_kluczowe": "olioc brak ogrzewania i czad",
+    "keywords": [
+      "jak utrzymać ciepło podczas blackoutu",
+      "bezpieczne ogrzewanie awaryjne",
+      "ryzyko czadu podczas braku prądu"
+    ],
+    "aliasy": [
+      "jak utrzymać ciepło podczas blackoutu",
+      "bezpieczne ogrzewanie awaryjne",
+      "ryzyko czadu podczas braku prądu"
+    ],
+    "prefix": "Ogrzewanie bez prądu i zagrożenie czadem.",
+    "najpierw": [
+      {
+        "t": "Oszczędzaj ciepło — zbierz domowników w jednym pokoju.",
+        "zr": "Poradnik 2025",
+        "str": 33
+      },
+      {
+        "t": "Alarm czujki lub objawy (ból i zawroty głowy, senność, duszność) — przewietrz, wyjdź z budynku, dzwoń 112.",
+        "zr": "KG PSP czujki",
+        "str": 1
+      },
+      {
+        "t": "Nie zasłaniaj kratek wentylacyjnych; zapewnij stały dopływ świeżego powietrza.",
+        "zr": "KG PSP czujki",
+        "str": 1
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Czad (CO)",
+        "wartosc": "bezbarwny i bezwonny — wykryje go tylko czujka",
+        "zr": "KG PSP czujki",
+        "str": 1
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Przygotuj",
+        "punkty": [
+          {
+            "t": "Alternatywne źródło ogrzewania niezasilane prądem (piecyk gazowy lub olejowy, kominek).",
+            "zr": "Poradnik 2025",
+            "str": 33
+          },
+          {
+            "t": "Koce, śpiwory i ciepła odzież.",
+            "zr": "Poradnik 2025",
+            "str": 22
+          },
+          {
+            "t": "Czujka dymu i czadu; przegląd komina, wentylacji i instalacji gazowej.",
+            "zr": "KG PSP czujki",
+            "str": 1
+          }
+        ]
+      }
+    ],
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "brak ogrzewania",
+      "temat tlenek węgla"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 33,
+        "sekcja": "Blackout (s. 33), zapasy (s. 22)"
+      },
+      {
+        "dokument_id": "src-kgpsp-czujki-2026",
+        "strona": 1,
+        "sekcja": "Czujki dymu i czadu (KG PSP)"
+      }
+    ],
+    "data_przegladu": "2026-10-28",
+    "content": "1. NAJPIERW: Oszczędzaj ciepło — zbierz domowników w jednym pokoju. Alarm czujki lub objawy (ból i zawroty głowy, senność, duszność) — przewietrz, wyjdź z budynku, dzwoń 112. Nie zasłaniaj kratek wentylacyjnych; zapewnij stały dopływ świeżego powietrza.\n2. PARAMETRY: Czad (CO) — bezbarwny i bezwonny — wykryje go tylko czujka\n3. PRZYGOTUJ: Alternatywne źródło ogrzewania niezasilane prądem (piecyk gazowy lub olejowy, kominek). Koce, śpiwory i ciepła odzież. Czujka dymu i czadu; przegląd komina, wentylacji i instalacji gazowej."
   },
   {
     "id": "KARTA-OLIOC-PHISHING-I-OSZUSTWA",
@@ -9462,6 +9489,78 @@
     "content": "1. NAJPIERW: Lokalizację schronień sprawdzisz w urzędzie gminy, jednostce PSP lub OSP i na gov.pl/kgpsp; schronienia mają specjalny znak. Nie możesz dotrzeć do oznaczonego schronienia — zostań w domu: z dala od okien, przy ścianach nośnych, w centralnych pomieszczeniach. Poza domem — najniższe kondygnacje, piwnice, garaże podziemne, tunele, przejścia podziemne; nawet zagłębienie terenu jest lepsze niż otwarta przestrzeń.\n2. PRZYGOTUJ WCZEŚNIEJ: Sprawdź najbliższy punkt schronienia (gdziesieukryc.pl), drogę do niego i sposób wejścia. Wybierz co najmniej jeden punkt; jeśli nie ma go w pobliżu — zaplanuj inne miejsce. Z miejsca schronienia usuń paliwa, farby, butle gazowe, pirotechnikę i przedmioty mogące spaść; drogi i wyjścia muszą być drożne."
   },
   {
+    "id": "KARTA-OLIOC-SWIATLO-I-ZASILANIE-AWARYJNE",
+    "wzorzec": 2,
+    "kategoria": "olioc",
+    "grupa": "olioc",
+    "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+    "data_aktualizacji": "2026-10-28",
+    "slowo_kluczowe": "olioc oświetlenie awaryjne i powerbank",
+    "keywords": [
+      "latarki baterie na blackout",
+      "zapasowe źródło światła kryzys",
+      "ładowanie telefonu bez prądu"
+    ],
+    "aliasy": [
+      "latarki baterie na blackout",
+      "zapasowe źródło światła kryzys",
+      "ładowanie telefonu bez prądu"
+    ],
+    "prefix": "Światło i zasilanie awaryjne — latarki, baterie, powerbanki, radio.",
+    "najpierw": [
+      {
+        "t": "Latarki (także czołowe) z zapasem baterii.",
+        "zr": "Poradnik 2025",
+        "str": 33
+      },
+      {
+        "t": "Naładuj powerbanki; włącz w telefonie tryb oszczędzania energii.",
+        "zr": "Poradnik 2025",
+        "str": 33
+      },
+      {
+        "t": "Radio na baterie lub na korbkę.",
+        "zr": "Poradnik 2025",
+        "str": 22
+      }
+    ],
+    "parametry": [],
+    "sekcje": [
+      {
+        "etykieta": "Zapasy na 3 dni — oświetlenie i łączność",
+        "punkty": [
+          {
+            "t": "Latarka, radio, naładowany telefon, ładowarka, powerbank, pasujące kable i baterie.",
+            "zr": "Poradnik 2025",
+            "str": 22
+          },
+          {
+            "t": "Świeczki do użytku domowego i zapalniczka.",
+            "zr": "Poradnik 2025",
+            "str": 22
+          }
+        ]
+      }
+    ],
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "oświetlenie awaryjne",
+      "powerbank",
+      "baterie"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 33,
+        "sekcja": "Blackout (s. 33), zapasy (s. 22)"
+      }
+    ],
+    "data_przegladu": "2026-10-28",
+    "content": "1. NAJPIERW: Latarki (także czołowe) z zapasem baterii. Naładuj powerbanki; włącz w telefonie tryb oszczędzania energii. Radio na baterie lub na korbkę.\n2. ZAPASY NA 3 DNI — OŚWIETLENIE I ŁĄCZNOŚĆ: Latarka, radio, naładowany telefon, ładowarka, powerbank, pasujące kable i baterie. Świeczki do użytku domowego i zapalniczka."
+  },
+  {
     "id": "KARTA-OLIOC-SYGNALY-ALARMOWE",
     "wzorzec": 2,
     "kategoria": "olioc",
@@ -9629,6 +9728,93 @@
     "content": "1. NAJPIERW: Sprawdzaj informacje w kilku niezależnych źródłach. Komunikaty w kryzysie: strony rządowe, Alerty RCB, RSO, media. Korzystaj z wiarygodnych źródeł informacji, przede wszystkim rządowych.\n2. KANAŁY OSTRZEGANIA: Syreny, megafony, radio, telewizja, internet, RSO, Alerty RCB, bezpośredni kontakt. RSO — bezpłatna aplikacja informująca o zagrożeniach w Polsce.\n3. NIE RÓB: Nie rozpowszechniaj niesprawdzonych informacji."
   },
   {
+    "id": "KARTA-OLIOC-WODA-I-HIGIENA-BEZ-PRADU",
+    "wzorzec": 2,
+    "kategoria": "olioc",
+    "grupa": "olioc",
+    "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+    "data_aktualizacji": "2026-10-28",
+    "slowo_kluczowe": "olioc brak wody podczas blackoutu",
+    "keywords": [
+      "co robić gdy nie ma wody w kranie",
+      "oszczędzanie wody w kryzysie",
+      "woda pitna i higiena blackout"
+    ],
+    "aliasy": [
+      "co robić gdy nie ma wody w kranie",
+      "oszczędzanie wody w kryzysie",
+      "woda pitna i higiena blackout"
+    ],
+    "prefix": "Woda i higiena, gdy brak prądu i bieżącej wody.",
+    "najpierw": [
+      {
+        "t": "Zapas wody: minimum 3 litry na osobę na dobę.",
+        "zr": "Poradnik 2025",
+        "str": 21
+      },
+      {
+        "t": "Brak bieżącej wody — nawilżane chusteczki i płyny do dezynfekcji.",
+        "zr": "Poradnik 2025",
+        "str": 45
+      },
+      {
+        "t": "Prowizoryczna toaleta: plastikowa torba na wiadrze; po użyciu torba do osobnego pojemnika.",
+        "zr": "Poradnik 2025",
+        "str": 45
+      }
+    ],
+    "parametry": [],
+    "sekcje": [
+      {
+        "etykieta": "Higiena",
+        "punkty": [
+          {
+            "t": "Zapachy zneutralizujesz ziemią, trocinami lub żwirkiem; jak pozbywać się nieczystości — poinformują służby komunalne.",
+            "zr": "Poradnik 2025",
+            "str": 45
+          },
+          {
+            "t": "Przy braku wody nadal możesz oddawać mocz do toalety.",
+            "zr": "Poradnik 2025",
+            "str": 45
+          },
+          {
+            "t": "Zapasy higieniczne: papier, chusteczki, podpaski, pieluchy, środki dezynfekujące, worki, wiadro z pokrywą.",
+            "zr": "Poradnik 2025",
+            "str": 21
+          }
+        ]
+      },
+      {
+        "etykieta": "Woda w plecaku",
+        "punkty": [
+          {
+            "t": "Filtry lub tabletki do uzdatniania wody.",
+            "zr": "Poradnik 2025",
+            "str": 26
+          }
+        ]
+      }
+    ],
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "brak wody",
+      "woda pitna",
+      "higiena"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 45,
+        "sekcja": "Higiena w kryzysie (s. 45), zapasy (s. 21), plecak (s. 26)"
+      }
+    ],
+    "data_przegladu": "2026-10-28",
+    "content": "1. NAJPIERW: Zapas wody: minimum 3 litry na osobę na dobę. Brak bieżącej wody — nawilżane chusteczki i płyny do dezynfekcji. Prowizoryczna toaleta: plastikowa torba na wiadrze; po użyciu torba do osobnego pojemnika.\n2. HIGIENA: Zapachy zneutralizujesz ziemią, trocinami lub żwirkiem; jak pozbywać się nieczystości — poinformują służby komunalne. Przy braku wody nadal możesz oddawać mocz do toalety. Zapasy higieniczne: papier, chusteczki, podpaski, pieluchy, środki dezynfekujące, worki, wiadro z pokrywą.\n3. WODA W PLECAKU: Filtry lub tabletki do uzdatniania wody."
+  },
+  {
     "id": "KARTA-OLIOC-ZWIERZETA-W-KRYZYSIE",
     "wzorzec": 2,
     "kategoria": "olioc",
@@ -9731,6 +9917,132 @@
     ],
     "data_przegladu": "2026-10-28",
     "content": "1. NAJPIERW: Zwierzęta gospodarskie przygotuj do transportu natychmiast po ogłoszeniu nakazu ewakuacji. Ewakuacja niemożliwa — poinformuj służby o pozostawionych zwierzętach.\n2. PARAMETRY: Zapas dla zwierząt domowych — karma, woda pitna i leki na kilka dni; Zapas dla zwierząt gospodarskich — pasza i woda na 14 dni\n3. ZWIERZĘTA DOMOWE: Dokumentacja zdrowotna, szczepienia i leki w jednym miejscu. Kaganiec, obroża, szelki, smycz, transporter lub klatka; dane właściciela przy obroży. Zaczipuj i zarejestruj zwierzę w ogólnodostępnej bazie.\n4. ZWIERZĘTA GOSPODARSKIE: Sprawdź budynki i ogrodzenia; zgromadź materiały do napraw; zbiorniki na deszczówkę. Oznakuj zwierzęta (kolczyki); w sytuacji awaryjnej — znak farbą. Za ewakuację odpowiada właściciel; koordynuje ją centrum zarządzania kryzysowego — szczegóły w urzędzie gminy."
+  },
+  {
+    "id": "KARTA-OLIOC-ZYWNOSC-BEZ-PRADU",
+    "wzorzec": 2,
+    "kategoria": "olioc",
+    "grupa": "olioc",
+    "zrodlo": "EFSA/GIS: Wskazówki dotyczące bezpieczeństwa żywności podczas przerwy w dostawie prądu (2026); MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+    "data_aktualizacji": "2026-10-28",
+    "slowo_kluczowe": "olioc żywność podczas braku prądu",
+    "keywords": [
+      "lodówka zamrażarka podczas blackoutu",
+      "czy jedzenie jest bezpieczne po awarii prądu",
+      "nie otwieraj lodówki brak prądu"
+    ],
+    "aliasy": [
+      "lodówka zamrażarka podczas blackoutu",
+      "czy jedzenie jest bezpieczne po awarii prądu",
+      "nie otwieraj lodówki brak prądu"
+    ],
+    "prefix": "Żywność podczas przerwy w dostawie prądu — lodówka, zamrażarka, co wyrzucić.",
+    "najpierw": [
+      {
+        "t": "Zapisz godzinę rozpoczęcia przerwy; drzwi lodówki i zamrażarki otwieraj tylko, gdy to konieczne.",
+        "zr": "EFSA/GIS 2026",
+        "str": 1
+      },
+      {
+        "t": "Żywność łatwo psująca się, przechowywana powyżej 5°C dłużej niż 2 godziny — wyrzuć.",
+        "zr": "EFSA/GIS 2026",
+        "str": 1
+      },
+      {
+        "t": "Jeśli masz wątpliwości — wyrzuć; bakterii nie wykryjesz po zapachu ani wyglądzie.",
+        "zr": "EFSA/GIS 2026",
+        "str": 1
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Zamknięta lodówka",
+        "wartosc": "bezpieczna temperatura ok. 4 godziny",
+        "zr": "EFSA/GIS 2026",
+        "str": 1
+      },
+      {
+        "nazwa": "Zamrażarka pełna / w połowie",
+        "wartosc": "do 48 h / ok. 24 h przy zamkniętych drzwiach",
+        "zr": "EFSA/GIS 2026",
+        "str": 1
+      },
+      {
+        "nazwa": "Temperatura w lodówce",
+        "wartosc": "idealnie 1–5°C — sprawdź termometrem",
+        "zr": "EFSA/GIS 2026",
+        "str": 1
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Przed przerwą",
+        "punkty": [
+          {
+            "t": "Mrożonki trzymaj w grupach; w zamrażarce pojemniki z lodem lub butelki z wodą, wkłady chłodzące.",
+            "zr": "EFSA/GIS 2026",
+            "str": 1
+          }
+        ]
+      },
+      {
+        "etykieta": "Po przerwie",
+        "punkty": [
+          {
+            "t": "Lodówka utrzymała poniżej 5°C — żywność nadaje się do spożycia.",
+            "zr": "EFSA/GIS 2026",
+            "str": 1
+          },
+          {
+            "t": "Mrożonki rozmrożone, ale zimne — nie zamrażaj ponownie; spożyj od razu po obróbce termicznej.",
+            "zr": "EFSA/GIS 2026",
+            "str": 1
+          },
+          {
+            "t": "Wyrzuć produkty o nietypowym kolorze, konsystencji lub zapachu; umyj zabrudzoną lodówkę.",
+            "zr": "EFSA/GIS 2026",
+            "str": 1
+          }
+        ]
+      },
+      {
+        "etykieta": "Zapas",
+        "punkty": [
+          {
+            "t": "Produkty niewymagające lodówki, wody ani gotowania; otwieracz do puszek.",
+            "zr": "EFSA/GIS 2026",
+            "str": 1
+          },
+          {
+            "t": "Żywność gotowa do spożycia: konserwy, suchary, batony.",
+            "zr": "Poradnik 2025",
+            "str": 33
+          }
+        ]
+      }
+    ],
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "bezpieczeństwo żywności",
+      "lodówka",
+      "zamrażarka"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-efsa-zywnosc-blackout-2026",
+        "strona": 1,
+        "sekcja": "Infografika EFSA/GIS (s. 1)"
+      },
+      {
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 33,
+        "sekcja": "Blackout (s. 33)"
+      }
+    ],
+    "data_przegladu": "2026-10-28",
+    "content": "1. NAJPIERW: Zapisz godzinę rozpoczęcia przerwy; drzwi lodówki i zamrażarki otwieraj tylko, gdy to konieczne. Żywność łatwo psująca się, przechowywana powyżej 5°C dłużej niż 2 godziny — wyrzuć. Jeśli masz wątpliwości — wyrzuć; bakterii nie wykryjesz po zapachu ani wyglądzie.\n2. PARAMETRY: Zamknięta lodówka — bezpieczna temperatura ok. 4 godziny; Zamrażarka pełna / w połowie — do 48 h / ok. 24 h przy zamkniętych drzwiach; Temperatura w lodówce — idealnie 1–5°C — sprawdź termometrem\n3. PRZED PRZERWĄ: Mrożonki trzymaj w grupach; w zamrażarce pojemniki z lodem lub butelki z wodą, wkłady chłodzące.\n4. PO PRZERWIE: Lodówka utrzymała poniżej 5°C — żywność nadaje się do spożycia. Mrożonki rozmrożone, ale zimne — nie zamrażaj ponownie; spożyj od razu po obróbce termicznej. Wyrzuć produkty o nietypowym kolorze, konsystencji lub zapachu; umyj zabrudzoną lodówkę.\n5. ZAPAS: Produkty niewymagające lodówki, wody ani gotowania; otwieracz do puszek. Żywność gotowa do spożycia: konserwy, suchary, batony."
   },
   {
     "id": "KARTA-ORG-AMONIAK-NH3-WARTOSCI-GRANICZNE",

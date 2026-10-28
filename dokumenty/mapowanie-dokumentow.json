@@ -1047,91 +1047,29 @@
     ]
   },
   {
-    "id": "KARTA-OLIOC-LISTOPAD-07-AGREGAT",
-    "procedura": "OLiOC - listopad: bezpieczne korzystanie z agregatu prądotwórczego.",
-    "miesiac_akademii": "listopad",
+    "id": "KARTA-OLIOC-AGREGAT-PRADOTWORCZY",
+    "procedura": "Agregat prądotwórczy — bezpieczne użycie, spaliny i czad.",
     "dokumenty_zrodlowe": [
-      {
-        "dokument_id": "src-poradnik-blackout",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Długotrwały brak prądu (blackout)",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/dlugotrwaly-brak-pradu-blackout",
-        "typ": "url"
-      },
       {
         "dokument_id": "src-psp-agregat-na-zewnatrz",
         "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
+        "sekcja": "Komunikat KP PSP Giżycko",
         "tytul": "PSP - bezpieczeństwo podczas korzystania z agregatu prądotwórczego",
         "plik": "https://www.gov.pl/web/kppsp-gizycko/silny-wiatr---uwaga",
         "typ": "url"
-      }
-    ]
-  },
-  {
-    "id": "KARTA-OLIOC-LISTOPAD-01-BLACKOUT_PIERWSZE_DZIALANIA",
-    "procedura": "OLiOC - listopad: pierwsze działania podczas długotrwałego braku prądu.",
-    "miesiac_akademii": "listopad",
-    "dokumenty_zrodlowe": [
-      {
-        "dokument_id": "src-olioc-akademia",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Akademia OLiOC - program „jeden miesiąc - jeden temat”",
-        "plik": "https://www.gov.pl/web/olioc/akdemia-olioc",
-        "typ": "url"
       },
       {
-        "dokument_id": "src-poradnik-blackout",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Długotrwały brak prądu (blackout)",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/dlugotrwaly-brak-pradu-blackout",
-        "typ": "url"
-      }
-    ]
-  },
-  {
-    "id": "KARTA-OLIOC-LISTOPAD-05-BRAK_LACZNOSCI",
-    "procedura": "OLiOC - listopad: brak telefonu, internetu i przeciążenie sieci.",
-    "miesiac_akademii": "listopad",
-    "dokumenty_zrodlowe": [
-      {
-        "dokument_id": "src-poradnik-blackout",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Długotrwały brak prądu (blackout)",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/dlugotrwaly-brak-pradu-blackout",
-        "typ": "url"
-      },
-      {
-        "dokument_id": "src-poradnik-plan",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Plan na kryzys",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/plan-na-kryzys",
-        "typ": "url"
-      }
-    ]
-  },
-  {
-    "id": "KARTA-OLIOC-LISTOPAD-03-BRAK_OGRZEWANIA_CZAD",
-    "procedura": "OLiOC - listopad: brak ogrzewania i ryzyko tlenku węgla.",
-    "miesiac_akademii": "listopad",
-    "dokumenty_zrodlowe": [
-      {
-        "dokument_id": "src-poradnik-blackout",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Długotrwały brak prądu (blackout)",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/dlugotrwaly-brak-pradu-blackout",
-        "typ": "url"
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 33,
+        "sekcja": "Blackout (s. 33)",
+        "tytul": "Poradnik bezpieczeństwa",
+        "plik": "dokumenty/olioc/poradnik-bezpieczenstwa-2025.pdf",
+        "typ": "pdf"
       },
       {
         "dokument_id": "src-kgpsp-czujki-2026",
         "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
+        "sekcja": "Czujki (KG PSP)",
         "tytul": "KG PSP - Obowiązek instalowania autonomicznych czujek dymu i czadu",
         "plik": "https://www.gov.pl/web/kgpsp/obowiazek-instalowania-autonomicznych-czujek-dymu-i-czadu",
         "typ": "url"
@@ -1139,63 +1077,102 @@
     ]
   },
   {
-    "id": "KARTA-OLIOC-LISTOPAD-04-BRAK_WODY",
-    "procedura": "OLiOC - listopad: funkcjonowanie podczas braku dostępu do wody.",
-    "miesiac_akademii": "listopad",
+    "id": "KARTA-OLIOC-BLACKOUT-PIERWSZE-DZIALANIA",
+    "procedura": "Długotrwały brak prądu (blackout) — co tracisz i co zrobić od razu.",
     "dokumenty_zrodlowe": [
       {
-        "dokument_id": "src-poradnik-blackout",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Długotrwały brak prądu (blackout)",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/dlugotrwaly-brak-pradu-blackout",
-        "typ": "url"
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 33,
+        "sekcja": "Długotrwały brak prądu (s. 33)",
+        "tytul": "Poradnik bezpieczeństwa",
+        "plik": "dokumenty/olioc/poradnik-bezpieczenstwa-2025.pdf",
+        "typ": "pdf"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-LACZNOSC-BEZ-PRADU",
+    "procedura": "Łączność bez prądu, telefonu i internetu.",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 33,
+        "sekcja": "Blackout (s. 33), plan (s. 47), otoczenie (s. 16), plecak (s. 26)",
+        "tytul": "Poradnik bezpieczeństwa",
+        "plik": "dokumenty/olioc/poradnik-bezpieczenstwa-2025.pdf",
+        "typ": "pdf"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-OGRZEWANIE-BEZ-PRADU-I-CZAD",
+    "procedura": "Ogrzewanie bez prądu i zagrożenie czadem.",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 33,
+        "sekcja": "Blackout (s. 33), zapasy (s. 22)",
+        "tytul": "Poradnik bezpieczeństwa",
+        "plik": "dokumenty/olioc/poradnik-bezpieczenstwa-2025.pdf",
+        "typ": "pdf"
       },
       {
-        "dokument_id": "src-poradnik-higiena",
+        "dokument_id": "src-kgpsp-czujki-2026",
         "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Higiena w kryzysie",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/higiena-w-kryzysie",
+        "sekcja": "Czujki dymu i czadu (KG PSP)",
+        "tytul": "KG PSP - Obowiązek instalowania autonomicznych czujek dymu i czadu",
+        "plik": "https://www.gov.pl/web/kgpsp/obowiazek-instalowania-autonomicznych-czujek-dymu-i-czadu",
         "typ": "url"
       }
     ]
   },
   {
-    "id": "KARTA-OLIOC-LISTOPAD-02-SWIATLO_ENERGIA",
-    "procedura": "OLiOC - listopad: oświetlenie, baterie i awaryjne źródła energii.",
-    "miesiac_akademii": "listopad",
+    "id": "KARTA-OLIOC-WODA-I-HIGIENA-BEZ-PRADU",
+    "procedura": "Woda i higiena, gdy brak prądu i bieżącej wody.",
     "dokumenty_zrodlowe": [
       {
-        "dokument_id": "src-poradnik-blackout",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Długotrwały brak prądu (blackout)",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/dlugotrwaly-brak-pradu-blackout",
-        "typ": "url"
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 45,
+        "sekcja": "Higiena w kryzysie (s. 45), zapasy (s. 21), plecak (s. 26)",
+        "tytul": "Poradnik bezpieczeństwa",
+        "plik": "dokumenty/olioc/poradnik-bezpieczenstwa-2025.pdf",
+        "typ": "pdf"
       }
     ]
   },
   {
-    "id": "KARTA-OLIOC-LISTOPAD-06-ZYWNOSC_BEZ_PRADU",
-    "procedura": "OLiOC - listopad: bezpieczeństwo żywności bez zasilania.",
-    "miesiac_akademii": "listopad",
+    "id": "KARTA-OLIOC-SWIATLO-I-ZASILANIE-AWARYJNE",
+    "procedura": "Światło i zasilanie awaryjne — latarki, baterie, powerbanki, radio.",
     "dokumenty_zrodlowe": [
       {
-        "dokument_id": "src-poradnik-blackout",
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 33,
+        "sekcja": "Blackout (s. 33), zapasy (s. 22)",
+        "tytul": "Poradnik bezpieczeństwa",
+        "plik": "dokumenty/olioc/poradnik-bezpieczenstwa-2025.pdf",
+        "typ": "pdf"
+      }
+    ]
+  },
+  {
+    "id": "KARTA-OLIOC-ZYWNOSC-BEZ-PRADU",
+    "procedura": "Żywność podczas przerwy w dostawie prądu — lodówka, zamrażarka, co wyrzucić.",
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-efsa-zywnosc-blackout-2026",
         "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "Poradnik bezpieczeństwa - Długotrwały brak prądu (blackout)",
-        "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/dlugotrwaly-brak-pradu-blackout",
-        "typ": "url"
+        "sekcja": "Infografika EFSA/GIS (s. 1)",
+        "tytul": "Wskazówki dotyczące bezpieczeństwa żywności podczas przerwy w dostawie prądu (EFSA, wersja PL)",
+        "plik": "dokumenty/olioc/efsa-bezpieczenstwo-zywnosci-przerwa-pradu-2026.pdf",
+        "typ": "pdf"
       },
       {
-        "dokument_id": "src-gis-zywnosc-blackout-2026",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe",
-        "tytul": "GIS - Bezpieczeństwo żywności podczas przerwy w dostawie prądu",
-        "plik": "https://www.gov.pl/web/gis/przerwa-w-dostawie-pradu-pamietaj-o-bezpieczenstwie-zywnosci",
-        "typ": "url"
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 33,
+        "sekcja": "Blackout (s. 33)",
+        "tytul": "Poradnik bezpieczeństwa",
+        "plik": "dokumenty/olioc/poradnik-bezpieczenstwa-2025.pdf",
+        "typ": "pdf"
       }
     ]
   },

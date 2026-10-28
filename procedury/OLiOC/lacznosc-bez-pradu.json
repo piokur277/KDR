@@ -1,0 +1,67 @@
+{
+  "id": "KARTA-OLIOC-LACZNOSC-BEZ-PRADU",
+  "wzorzec": 2,
+  "kategoria": "olioc",
+  "grupa": "olioc",
+  "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+  "data_aktualizacji": "2026-10-28",
+  "slowo_kluczowe": "olioc brak telefonu i internetu",
+  "keywords": [
+    "łączność podczas blackoutu",
+    "radio bateryjne brak internetu",
+    "kontakt z rodziną gdy nie działa sieć"
+  ],
+  "aliasy": [
+    "łączność podczas blackoutu",
+    "radio bateryjne brak internetu",
+    "kontakt z rodziną gdy nie działa sieć"
+  ],
+  "prefix": "Łączność bez prądu, telefonu i internetu.",
+  "najpierw": [
+    {
+      "t": "Przejdź na rodzinny plan: ustalone miejsca i terminy spotkań na wypadek braku łączności.",
+      "zr": "Poradnik 2025",
+      "str": 47
+    },
+    {
+      "t": "Radio na baterie lub korbkę; krótkofalówki, CB radio.",
+      "zr": "Poradnik 2025",
+      "str": 33
+    },
+    {
+      "t": "Tryb oszczędzania energii w telefonie, naładowane powerbanki.",
+      "zr": "Poradnik 2025",
+      "str": 33
+    }
+  ],
+  "parametry": [],
+  "sekcje": [
+    {
+      "etykieta": "Przygotuj",
+      "punkty": [
+        {
+          "t": "Papierowa mapa lub atlas, mapy offline — GPS może nie działać.",
+          "zr": "Poradnik 2025",
+          "str": 16
+        }
+      ]
+    }
+  ],
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "brak łączności",
+    "radio",
+    "kontakty awaryjne"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+      "strona": 33,
+      "sekcja": "Blackout (s. 33), plan (s. 47), otoczenie (s. 16), plecak (s. 26)"
+    }
+  ],
+  "data_przegladu": "2026-10-28",
+  "content": "1. NAJPIERW: Przejdź na rodzinny plan: ustalone miejsca i terminy spotkań na wypadek braku łączności. Radio na baterie lub korbkę; krótkofalówki, CB radio. Tryb oszczędzania energii w telefonie, naładowane powerbanki.\n2. PRZYGOTUJ: Papierowa mapa lub atlas, mapy offline — GPS może nie działać."
+}

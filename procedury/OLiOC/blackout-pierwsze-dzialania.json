@@ -1,0 +1,88 @@
+{
+  "id": "KARTA-OLIOC-BLACKOUT-PIERWSZE-DZIALANIA",
+  "wzorzec": 2,
+  "kategoria": "olioc",
+  "grupa": "olioc",
+  "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+  "data_aktualizacji": "2026-10-28",
+  "slowo_kluczowe": "olioc blackout pierwsze działania",
+  "keywords": [
+    "co robić gdy długo nie ma prądu",
+    "awaria zasilania w domu kroki",
+    "przerwa w dostawie energii przygotowanie"
+  ],
+  "aliasy": [
+    "co robić gdy długo nie ma prądu",
+    "awaria zasilania w domu kroki",
+    "przerwa w dostawie energii przygotowanie"
+  ],
+  "prefix": "Długotrwały brak prądu (blackout) — co tracisz i co zrobić od razu.",
+  "najpierw": [
+    {
+      "t": "Oszczędzaj ciepło — zbierz domowników w jednym pokoju.",
+      "zr": "Poradnik 2025",
+      "str": 33
+    },
+    {
+      "t": "Ogranicz otwieranie lodówki i zamrażarki — dłużej utrzymają niską temperaturę.",
+      "zr": "Poradnik 2025",
+      "str": 33
+    },
+    {
+      "t": "Odłącz wszystkie urządzenia elektryczne od zasilania.",
+      "zr": "Poradnik 2025",
+      "str": 33
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "Czas trwania",
+      "wartosc": "nawet kilka dni",
+      "zr": "Poradnik 2025",
+      "str": 33
+    },
+    {
+      "nazwa": "Skutki",
+      "wartosc": "brak wody, ogrzewania, internetu, telefonu i płatności kartą",
+      "zr": "Poradnik 2025",
+      "str": 33
+    }
+  ],
+  "sekcje": [
+    {
+      "etykieta": "Przygotuj wcześniej",
+      "punkty": [
+        {
+          "t": "Alternatywne źródła światła, ogrzewania i łączności; naładowane powerbanki; tryb oszczędzania energii w telefonie.",
+          "zr": "Poradnik 2025",
+          "str": 33
+        },
+        {
+          "t": "Zapasy żywności gotowej do spożycia i wody (min. 3 l dziennie na osobę); gotówka w różnych nominałach.",
+          "zr": "Poradnik 2025",
+          "str": 33
+        },
+        {
+          "t": "Rozważ zakup agregatu prądotwórczego.",
+          "zr": "Poradnik 2025",
+          "str": 33
+        }
+      ]
+    }
+  ],
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "blackout",
+    "brak prądu"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+      "strona": 33,
+      "sekcja": "Długotrwały brak prądu (s. 33)"
+    }
+  ],
+  "data_przegladu": "2026-10-28"
+}

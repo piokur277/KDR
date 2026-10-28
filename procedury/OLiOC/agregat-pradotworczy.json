@@ -1,0 +1,82 @@
+{
+  "id": "KARTA-OLIOC-AGREGAT-PRADOTWORCZY",
+  "wzorzec": 2,
+  "kategoria": "olioc",
+  "grupa": "olioc",
+  "zrodlo": "KP PSP Giżycko: komunikat o bezpiecznym użyciu agregatów (16.12.2024); MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025; KG PSP: Obowiązek instalowania autonomicznych czujek dymu i czadu (30.06.2026).",
+  "data_aktualizacji": "2026-10-28",
+  "slowo_kluczowe": "olioc agregat prądotwórczy bezpieczeństwo",
+  "keywords": [
+    "agregat musi pracować na zewnątrz",
+    "spaliny z agregatu czad",
+    "awaryjne zasilanie domu agregat"
+  ],
+  "aliasy": [
+    "agregat musi pracować na zewnątrz",
+    "spaliny z agregatu czad",
+    "awaryjne zasilanie domu agregat"
+  ],
+  "prefix": "Agregat prądotwórczy — bezpieczne użycie, spaliny i czad.",
+  "najpierw": [
+    {
+      "t": "Agregat musi pracować na zewnątrz pomieszczeń; spaliny nie mogą narażać użytkowników.",
+      "zr": "KP PSP Giżycko",
+      "str": 1
+    },
+    {
+      "t": "Przykład z interwencji: agregat w piwnicy bez wentylacji — spaliny dotarły na wyższe piętra; ostrzegła czujka tlenku węgla.",
+      "zr": "KP PSP Giżycko",
+      "str": 1
+    }
+  ],
+  "parametry": [],
+  "sekcje": [
+    {
+      "etykieta": "Przygotowanie",
+      "punkty": [
+        {
+          "t": "Rozważ zakup agregatu prądotwórczego jako alternatywnego źródła zasilania.",
+          "zr": "Poradnik 2025",
+          "str": 33
+        },
+        {
+          "t": "Zamontuj czujkę czadu; przy alarmie wyjdź z budynku i wezwij pomoc.",
+          "zr": "KG PSP czujki",
+          "str": 1
+        }
+      ]
+    }
+  ],
+  "nie_rob": [
+    {
+      "t": "Nie uruchamiaj agregatu w piwnicy ani innym pomieszczeniu bez wentylacji.",
+      "zr": "KP PSP Giżycko",
+      "str": 1
+    }
+  ],
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "agregat prądotwórczy",
+    "awaryjne zasilanie"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "src-psp-agregat-na-zewnatrz",
+      "strona": 1,
+      "sekcja": "Komunikat KP PSP Giżycko"
+    },
+    {
+      "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+      "strona": 33,
+      "sekcja": "Blackout (s. 33)"
+    },
+    {
+      "dokument_id": "src-kgpsp-czujki-2026",
+      "strona": 1,
+      "sekcja": "Czujki (KG PSP)"
+    }
+  ],
+  "data_przegladu": "2026-10-28"
+}
