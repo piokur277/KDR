@@ -6842,6 +6842,319 @@
     "content": "1. NAJPIERW: 1 — CZUJNOŚĆ: atak w Ukrainie blisko granicy; możesz usłyszeć samoloty wojskowe i sygnał alarmowy — przygotuj się na kolejne informacje. 2 — GOTOWOŚĆ: większe ryzyko wtargnięcia obiektu — przygotuj się, by znaleźć się w bezpiecznym miejscu. 3 — ALARM: „Zagrożenie atakiem z powietrza. Znajdź bezpieczne miejsce” — działaj teraz.\n2. PARAMETRY: RSO — bezpłatna aplikacja — informuje o zagrożeniach na terenie Polski\n3. PRZED ALERTEM: Zapoznaj się z Poradnikiem bezpieczeństwa, ustal z rodziną sposób reagowania, sprawdź najbliższe miejsce ukrycia. Najbliższy punkt schronienia sprawdzisz na gdziesieukryc.pl.\n4. PO ALERCIE: Stosuj się do poleceń służb, treści Alertu RCB i oficjalnych komunikatów."
   },
   {
+    "id": "KARTA-OLIOC-BEZPIECZENSTWO-DOM-SZKOLA-PRACA",
+    "wzorzec": 2,
+    "kategoria": "olioc",
+    "grupa": "olioc",
+    "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+    "data_aktualizacji": "2026-10-28",
+    "slowo_kluczowe": "olioc bezpieczeństwo domu szkoły pracy",
+    "keywords": [
+      "przygotowanie otoczenia do kryzysu",
+      "bezpieczne miejsce pracy olioc",
+      "bezpieczna szkoła i dom"
+    ],
+    "aliasy": [
+      "przygotowanie otoczenia do kryzysu",
+      "bezpieczne miejsce pracy olioc",
+      "bezpieczna szkoła i dom"
+    ],
+    "prefix": "Bezpieczeństwo w domu, szkole i pracy — przygotowanie otoczenia.",
+    "najpierw": [
+      {
+        "t": "W pracy sprawdź wyjścia ewakuacyjne, miejsca zbiórki, gaśnice, defibrylatory (AED) i apteczki.",
+        "zr": "Poradnik 2025",
+        "str": 19
+      },
+      {
+        "t": "Usuń niepotrzebne przedmioty z korytarzy i klatek schodowych.",
+        "zr": "Poradnik 2025",
+        "str": 17
+      },
+      {
+        "t": "Najbezpieczniejsze miejsce w domu: z dala od okien, przy ścianach nośnych, w centralnych pomieszczeniach.",
+        "zr": "Poradnik 2025",
+        "str": 18
+      }
+    ],
+    "parametry": [],
+    "sekcje": [
+      {
+        "etykieta": "Dom",
+        "punkty": [
+          {
+            "t": "Przygotuj koce, ręczniki i taśmy do uszczelniania okien i drzwi.",
+            "zr": "Poradnik 2025",
+            "str": 17
+          },
+          {
+            "t": "Przygotuj się na przerwy w dostawach wody, prądu, gazu i brak telefonu oraz internetu.",
+            "zr": "Poradnik 2025",
+            "str": 17
+          },
+          {
+            "t": "Gaśnica i koc gaśniczy; przeglądy instalacji kominowej, wentylacyjnej, gazowej, elektrycznej; ubezpieczenie.",
+            "zr": "Poradnik 2025",
+            "str": 18
+          }
+        ]
+      },
+      {
+        "etykieta": "Szkoła",
+        "punkty": [
+          {
+            "t": "Uczniowie biorą udział w próbnych alarmach i zgłaszają podejrzane zachowania lub przedmioty.",
+            "zr": "Poradnik 2025",
+            "str": 19
+          },
+          {
+            "t": "Rodzice zapisują kontakt do osoby wyznaczonej przez szkołę do odbioru dzieci w zagrożeniu.",
+            "zr": "Poradnik 2025",
+            "str": 19
+          }
+        ]
+      },
+      {
+        "etykieta": "Praca",
+        "punkty": [
+          {
+            "t": "Zgłaszaj usterki: uszkodzoną instalację, zablokowane drogi ewakuacyjne, niesprawne windy.",
+            "zr": "Poradnik 2025",
+            "str": 19
+          },
+          {
+            "t": "Przećwiczcie plan awaryjny i ewakuację; możliwa mobilizacja — poinformuj pracodawcę.",
+            "zr": "Poradnik 2025",
+            "str": 19
+          }
+        ]
+      },
+      {
+        "etykieta": "Samochód",
+        "punkty": [
+          {
+            "t": "Sprawny, zatankowany; apteczka, gaśnica, trójkąt, koło zapasowe, karta ratownicza; papierowa mapa.",
+            "zr": "Poradnik 2025",
+            "str": 16
+          },
+          {
+            "t": "W kryzysie ogranicz jazdę — drogi muszą być przejezdne dla służb i transportów wojskowych.",
+            "zr": "Poradnik 2025",
+            "str": 16
+          }
+        ]
+      }
+    ],
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "bezpieczne otoczenie",
+      "dom szkoła praca"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 16,
+        "sekcja": "Przygotuj swoje otoczenie (s. 16–19)"
+      }
+    ],
+    "data_przegladu": "2026-10-28",
+    "content": "1. NAJPIERW: W pracy sprawdź wyjścia ewakuacyjne, miejsca zbiórki, gaśnice, defibrylatory (AED) i apteczki. Usuń niepotrzebne przedmioty z korytarzy i klatek schodowych. Najbezpieczniejsze miejsce w domu: z dala od okien, przy ścianach nośnych, w centralnych pomieszczeniach.\n2. DOM: Przygotuj koce, ręczniki i taśmy do uszczelniania okien i drzwi. Przygotuj się na przerwy w dostawach wody, prądu, gazu i brak telefonu oraz internetu. Gaśnica i koc gaśniczy; przeglądy instalacji kominowej, wentylacyjnej, gazowej, elektrycznej; ubezpieczenie.\n3. SZKOŁA: Uczniowie biorą udział w próbnych alarmach i zgłaszają podejrzane zachowania lub przedmioty. Rodzice zapisują kontakt do osoby wyznaczonej przez szkołę do odbioru dzieci w zagrożeniu.\n4. PRACA: Zgłaszaj usterki: uszkodzoną instalację, zablokowane drogi ewakuacyjne, niesprawne windy. Przećwiczcie plan awaryjny i ewakuację; możliwa mobilizacja — poinformuj pracodawcę.\n5. SAMOCHÓD: Sprawny, zatankowany; apteczka, gaśnica, trójkąt, koło zapasowe, karta ratownicza; papierowa mapa. W kryzysie ogranicz jazdę — drogi muszą być przejezdne dla służb i transportów wojskowych."
+  },
+  {
+    "id": "KARTA-OLIOC-CZUJKI-DYMU-I-CZADU",
+    "wzorzec": 2,
+    "kategoria": "olioc",
+    "grupa": "olioc",
+    "zrodlo": "KG PSP: Obowiązek instalowania autonomicznych czujek dymu i czadu (30.06.2026); MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+    "data_aktualizacji": "2026-10-28",
+    "slowo_kluczowe": "olioc czujki dymu i czadu",
+    "keywords": [
+      "czujka tlenku węgla w domu",
+      "czujka dymu test baterii",
+      "alarm czujki co zrobić"
+    ],
+    "aliasy": [
+      "czujka tlenku węgla w domu",
+      "czujka dymu test baterii",
+      "alarm czujki co zrobić"
+    ],
+    "prefix": "Czujki dymu i czadu — obowiązek montażu, objawy zatrucia CO, reakcja na alarm.",
+    "najpierw": [
+      {
+        "t": "W razie alarmu opuść pomieszczenie, wyjdź z budynku i wezwij pomoc (112).",
+        "zr": "KG PSP czujki",
+        "str": 1
+      },
+      {
+        "t": "Podejrzenie zatrucia CO — przewietrz, ewakuuj siebie i domowników, dzwoń 112.",
+        "zr": "KG PSP czujki",
+        "str": 1
+      },
+      {
+        "t": "Zamontuj czujki dymu, czadu i gazu; regularnie sprawdzaj ich stan i umiejscowienie.",
+        "zr": "Poradnik 2025",
+        "str": 18
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Obowiązek — mieszkania użytkowane przed 23.12.2024",
+        "wartosc": "od 1 stycznia 2030 r.",
+        "zr": "KG PSP czujki",
+        "str": 1
+      },
+      {
+        "nazwa": "Obowiązek — obiekty hotelarskie użytkowane przed 23.12.2024",
+        "wartosc": "do 30 czerwca 2026 r.",
+        "zr": "KG PSP czujki",
+        "str": 1
+      },
+      {
+        "nazwa": "Nowe budynki",
+        "wartosc": "od chwili przystąpienia do użytkowania",
+        "zr": "KG PSP czujki",
+        "str": 1
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Czad (CO)",
+        "punkty": [
+          {
+            "t": "Bezbarwny i bezwonny — nie wykryjesz go zmysłami.",
+            "zr": "KG PSP czujki",
+            "str": 1
+          },
+          {
+            "t": "Objawy: ból i zawroty głowy, duszność, senność, osłabienie, szybkie tętno, utrata świadomości.",
+            "zr": "KG PSP czujki",
+            "str": 1
+          }
+        ]
+      },
+      {
+        "etykieta": "Zapobieganie",
+        "punkty": [
+          {
+            "t": "Przegląd komina, wentylacji i instalacji gazowej; nie zasłaniaj kratek, zapewnij dopływ powietrza.",
+            "zr": "KG PSP czujki",
+            "str": 1
+          }
+        ]
+      }
+    ],
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "czujki bezpieczeństwa",
+      "temat tlenek węgla",
+      "dym"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "src-kgpsp-czujki-2026",
+        "strona": 1,
+        "sekcja": "Obowiązek instalowania czujek (KG PSP, 30.06.2026)"
+      },
+      {
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 18,
+        "sekcja": "Dom (s. 18)"
+      }
+    ],
+    "data_przegladu": "2026-10-28",
+    "content": "1. NAJPIERW: W razie alarmu opuść pomieszczenie, wyjdź z budynku i wezwij pomoc (112). Podejrzenie zatrucia CO — przewietrz, ewakuuj siebie i domowników, dzwoń 112. Zamontuj czujki dymu, czadu i gazu; regularnie sprawdzaj ich stan i umiejscowienie.\n2. PARAMETRY: Obowiązek — mieszkania użytkowane przed 23.12.2024 — od 1 stycznia 2030 r.; Obowiązek — obiekty hotelarskie użytkowane przed 23.12.2024 — do 30 czerwca 2026 r.; Nowe budynki — od chwili przystąpienia do użytkowania\n3. CZAD (CO): Bezbarwny i bezwonny — nie wykryjesz go zmysłami. Objawy: ból i zawroty głowy, duszność, senność, osłabienie, szybkie tętno, utrata świadomości.\n4. ZAPOBIEGANIE: Przegląd komina, wentylacji i instalacji gazowej; nie zasłaniaj kratek, zapewnij dopływ powietrza."
+  },
+  {
+    "id": "KARTA-OLIOC-DROGI-EWAKUACYJNE",
+    "wzorzec": 2,
+    "kategoria": "olioc",
+    "grupa": "olioc",
+    "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+    "data_aktualizacji": "2026-10-28",
+    "slowo_kluczowe": "olioc drogi ewakuacyjne",
+    "keywords": [
+      "wyjście ewakuacyjne i miejsce zbiórki",
+      "jak ewakuować się z budynku",
+      "nie używaj windy podczas pożaru"
+    ],
+    "aliasy": [
+      "wyjście ewakuacyjne i miejsce zbiórki",
+      "jak ewakuować się z budynku",
+      "nie używaj windy podczas pożaru"
+    ],
+    "prefix": "Drogi ewakuacyjne — wyjścia, miejsca zbiórki, zakaz używania windy.",
+    "najpierw": [
+      {
+        "t": "Sprawdź, gdzie są wyjścia ewakuacyjne i miejsca zbiórki w pracy i szkole.",
+        "zr": "Poradnik 2025",
+        "str": 19
+      },
+      {
+        "t": "W czasie pożaru nie używaj windy — korzystaj ze schodów.",
+        "zr": "Poradnik 2025",
+        "str": 31
+      },
+      {
+        "t": "Usuń niepotrzebne przedmioty z korytarzy i klatek schodowych.",
+        "zr": "Poradnik 2025",
+        "str": 17
+      }
+    ],
+    "parametry": [],
+    "sekcje": [
+      {
+        "etykieta": "Ćwicz",
+        "punkty": [
+          {
+            "t": "Bierz udział w próbnych alarmach; przećwiczcie plan awaryjny i ewakuację w pracy.",
+            "zr": "Poradnik 2025",
+            "str": 19
+          },
+          {
+            "t": "Zgłaszaj zablokowane drogi ewakuacyjne.",
+            "zr": "Poradnik 2025",
+            "str": 19
+          }
+        ]
+      },
+      {
+        "etykieta": "Ewakuacja z płonącego budynku",
+        "punkty": [
+          {
+            "t": "Chroń drogi oddechowe — osłaniaj usta i nos, najlepiej mokrym materiałem.",
+            "zr": "Poradnik 2025",
+            "str": 31
+          },
+          {
+            "t": "Poinformuj służby, jeśli ktoś został w budynku, i podaj dokładne miejsce.",
+            "zr": "Poradnik 2025",
+            "str": 31
+          }
+        ]
+      }
+    ],
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "drogi ewakuacyjne",
+      "miejsce zbiórki"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 19,
+        "sekcja": "Otoczenie (s. 17, 19), pożar (s. 31)"
+      }
+    ],
+    "data_przegladu": "2026-10-28",
+    "content": "1. NAJPIERW: Sprawdź, gdzie są wyjścia ewakuacyjne i miejsca zbiórki w pracy i szkole. W czasie pożaru nie używaj windy — korzystaj ze schodów. Usuń niepotrzebne przedmioty z korytarzy i klatek schodowych.\n2. ĆWICZ: Bierz udział w próbnych alarmach; przećwiczcie plan awaryjny i ewakuację w pracy. Zgłaszaj zablokowane drogi ewakuacyjne.\n3. EWAKUACJA Z PŁONĄCEGO BUDYNKU: Chroń drogi oddechowe — osłaniaj usta i nos, najlepiej mokrym materiałem. Poinformuj służby, jeśli ktoś został w budynku, i podaj dokładne miejsce."
+  },
+  {
     "id": "KARTA-OLIOC-EWAKUACJA-KROK-PO-KROKU",
     "wzorzec": 2,
     "kategoria": "olioc",
@@ -7730,6 +8043,87 @@
     ]
   },
   {
+    "id": "KARTA-OLIOC-MIEJSCE-SPOTKANIA-I-KONTAKT",
+    "wzorzec": 2,
+    "kategoria": "olioc",
+    "grupa": "olioc",
+    "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+    "data_aktualizacji": "2026-10-28",
+    "slowo_kluczowe": "olioc kontakt awaryjny rodziny",
+    "keywords": [
+      "miejsce spotkania po rozdzieleniu rodziny",
+      "kontakt poza miejscowością kryzys",
+      "karta kontaktowa dla dziecka seniora"
+    ],
+    "aliasy": [
+      "miejsce spotkania po rozdzieleniu rodziny",
+      "kontakt poza miejscowością kryzys",
+      "karta kontaktowa dla dziecka seniora"
+    ],
+    "prefix": "Miejsce spotkania i kontakt rodziny po rozdzieleniu.",
+    "najpierw": [
+      {
+        "t": "Ustal miejsca i terminy spotkań — w okolicy i poza miejscowością — na wypadek rozdzielenia i braku łączności.",
+        "zr": "Poradnik 2025",
+        "str": 47
+      },
+      {
+        "t": "Dzieciom i seniorom przygotuj identyfikatory z imieniem, nazwiskiem i telefonem.",
+        "zr": "Poradnik 2025",
+        "str": 52
+      }
+    ],
+    "parametry": [],
+    "sekcje": [
+      {
+        "etykieta": "Przygotuj",
+        "punkty": [
+          {
+            "t": "Notatnik z numerami do najbliższych w plecaku ewakuacyjnym.",
+            "zr": "Poradnik 2025",
+            "str": 26
+          },
+          {
+            "t": "Dzieci mają przy sobie kontakt do opiekuna i informacje medyczne.",
+            "zr": "Poradnik 2025",
+            "str": 25
+          },
+          {
+            "t": "Rubryki: do 3 miejsc w okolicy i do 3 poza miejscowością, z adresem i osobą kontaktową.",
+            "zr": "Poradnik 2025",
+            "str": 49
+          }
+        ]
+      },
+      {
+        "etykieta": "Łączność",
+        "punkty": [
+          {
+            "t": "Przygotuj dodatkowe środki łączności, np. CB radio, walkie-talkie.",
+            "zr": "Poradnik 2025",
+            "str": 16
+          }
+        ]
+      }
+    ],
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "kontakt awaryjny",
+      "miejsce spotkania"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 47,
+        "sekcja": "Plan na kryzys (s. 47–49), ewakuacja (s. 25–26), Dekalog (s. 52)"
+      }
+    ],
+    "data_przegladu": "2026-10-28",
+    "content": "1. NAJPIERW: Ustal miejsca i terminy spotkań — w okolicy i poza miejscowością — na wypadek rozdzielenia i braku łączności. Dzieciom i seniorom przygotuj identyfikatory z imieniem, nazwiskiem i telefonem.\n2. PRZYGOTUJ: Notatnik z numerami do najbliższych w plecaku ewakuacyjnym. Dzieci mają przy sobie kontakt do opiekuna i informacje medyczne. Rubryki: do 3 miejsc w okolicy i do 3 poza miejscowością, z adresem i osobą kontaktową.\n3. ŁĄCZNOŚĆ: Przygotuj dodatkowe środki łączności, np. CB radio, walkie-talkie."
+  },
+  {
     "id": "KARTA-OLIOC-OCHRONA-LUDNOSCI-I-OBRONA-CYWILNA",
     "wzorzec": 2,
     "kategoria": "olioc",
@@ -7799,6 +8193,87 @@
     ],
     "data_przegladu": "2026-10-27",
     "content": "1. NAJPIERW: W czasie pokoju działa system ochrony ludności: chroni ludzi, zdrowie, mienie, infrastrukturę, środowisko, zwierzęta i dobra kultury. Po ogłoszeniu stanu wojennego lub wybuchu wojny system automatycznie przekształca się w obronę cywilną. Obrona cywilna nie jest częścią Sił Zbrojnych — chroni wszystkich przed skutkami działań wojennych.\n2. DO ZAPAMIĘTANIA: Odpowiedzialność za przetrwanie i ograniczenie skutków kryzysu to wspólne zadanie, nie tylko władz. Pomoc humanitarna jest zawsze bezpłatna — nikt nie może żądać za nią pieniędzy ani przysług."
+  },
+  {
+    "id": "KARTA-OLIOC-ODCIECIE-MEDIOW",
+    "wzorzec": 2,
+    "kategoria": "olioc",
+    "grupa": "olioc",
+    "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+    "data_aktualizacji": "2026-10-28",
+    "slowo_kluczowe": "olioc odcięcie mediów w domu",
+    "keywords": [
+      "jak wyłączyć prąd gaz wodę awaryjnie",
+      "główny zawór gazu i wody",
+      "oznaczenie miejsc odcięcia mediów"
+    ],
+    "aliasy": [
+      "jak wyłączyć prąd gaz wodę awaryjnie",
+      "główny zawór gazu i wody",
+      "oznaczenie miejsc odcięcia mediów"
+    ],
+    "prefix": "Odcięcie gazu, prądu i wody w domu.",
+    "najpierw": [
+      {
+        "t": "Oznacz w widoczny sposób (np. kolorowymi taśmami) miejsca odcięcia gazu, prądu i wody.",
+        "zr": "Poradnik 2025",
+        "str": 18
+      },
+      {
+        "t": "Przećwicz z najbliższymi ich wyłączanie.",
+        "zr": "Poradnik 2025",
+        "str": 18
+      }
+    ],
+    "parametry": [],
+    "sekcje": [
+      {
+        "etykieta": "Kiedy odciąć",
+        "punkty": [
+          {
+            "t": "Ewakuacja — zamknij dopływ wody, wyłącz urządzenia elektryczne i gazowe, wygaś źródła ognia.",
+            "zr": "Poradnik 2025",
+            "str": 25
+          },
+          {
+            "t": "Pożar — o ile bezpieczne, zakręć główny zawór gazu i wyłącz główne wyłączniki prądu.",
+            "zr": "Poradnik 2025",
+            "str": 31
+          },
+          {
+            "t": "Pożar gazu — odetnij dopływ, zakręcając zawór.",
+            "zr": "Poradnik 2025",
+            "str": 30
+          }
+        ]
+      },
+      {
+        "etykieta": "Instalacje",
+        "punkty": [
+          {
+            "t": "Regularnie przeglądaj instalację gazową, elektryczną, kominową i wentylacyjną.",
+            "zr": "Poradnik 2025",
+            "str": 18
+          }
+        ]
+      }
+    ],
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "media",
+      "prąd gaz woda"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 18,
+        "sekcja": "Dom (s. 18), ewakuacja (s. 25), pożar (s. 30–31)"
+      }
+    ],
+    "data_przegladu": "2026-10-28",
+    "content": "1. NAJPIERW: Oznacz w widoczny sposób (np. kolorowymi taśmami) miejsca odcięcia gazu, prądu i wody. Przećwicz z najbliższymi ich wyłączanie.\n2. KIEDY ODCIĄĆ: Ewakuacja — zamknij dopływ wody, wyłącz urządzenia elektryczne i gazowe, wygaś źródła ognia. Pożar — o ile bezpieczne, zakręć główny zawór gazu i wyłącz główne wyłączniki prądu. Pożar gazu — odetnij dopływ, zakręcając zawór.\n3. INSTALACJE: Regularnie przeglądaj instalację gazową, elektryczną, kominową i wentylacyjną."
   },
   {
     "id": "KARTA-OLIOC-OFICJALNE-ZRODLA-INFORMACJI",
@@ -8094,6 +8569,137 @@
     ]
   },
   {
+    "id": "KARTA-OLIOC-PIERWSZA-POMOC-RKO-I-AED",
+    "wzorzec": 2,
+    "kategoria": "olioc",
+    "grupa": "olioc",
+    "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+    "data_aktualizacji": "2026-10-28",
+    "slowo_kluczowe": "olioc użycie aed",
+    "keywords": [
+      "jak użyć defibrylatora aed",
+      "aed w miejscu publicznym",
+      "pierwsza pomoc defibrylator obywatel"
+    ],
+    "aliasy": [
+      "jak użyć defibrylatora aed",
+      "aed w miejscu publicznym",
+      "pierwsza pomoc defibrylator obywatel"
+    ],
+    "prefix": "Pierwsza pomoc dla obywatela — ocena, RKO, AED, krwotok.",
+    "najpierw": [
+      {
+        "t": "Zadbaj o bezpieczeństwo; sprawdź reakcję: potrząśnij za ramię, zapytaj „Słyszysz mnie?”.",
+        "zr": "Poradnik 2025",
+        "str": 41
+      },
+      {
+        "t": "Zadzwoń 112 lub wskaż konkretną osobę, która zadzwoni; poproś konkretną osobę o AED.",
+        "zr": "Poradnik 2025",
+        "str": 42
+      },
+      {
+        "t": "Nie oddycha — RKO: 30 uciśnięć, 2 wdechy (albo same uciśnięcia); gdy przyniosą AED, użyj go — urządzenie podpowie, co robić.",
+        "zr": "Poradnik 2025",
+        "str": 43
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Uciśnięcia",
+        "wartosc": "środek klatki piersiowej · głębokość 5–6 cm · 2 na sekundę",
+        "zr": "Poradnik 2025",
+        "str": 43
+      },
+      {
+        "nazwa": "Ocena oddechu",
+        "wartosc": "do 10 sekund: patrz, słuchaj, poczuj wydech",
+        "zr": "Poradnik 2025",
+        "str": 43
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Brak kontaktu, oddycha",
+        "punkty": [
+          {
+            "t": "Pozycja boczna ustalona; obserwuj oddech do przybycia ratowników.",
+            "zr": "Poradnik 2025",
+            "str": 42
+          }
+        ]
+      },
+      {
+        "etykieta": "RKO do chwili",
+        "punkty": [
+          {
+            "t": "Przybycia ratowników, oznak powrotu krążenia (oddech, ruch, kaszel) lub gdy pomoc staje się niebezpieczna; zmęczony — wyznacz zmiennika.",
+            "zr": "Poradnik 2025",
+            "str": 43
+          }
+        ]
+      },
+      {
+        "etykieta": "Obfity krwotok",
+        "punkty": [
+          {
+            "t": "Opatrunek uciskowy; z kończyny nie ustaje — opaska powyżej rany na ramieniu lub udzie, zapisz godzinę.",
+            "zr": "Poradnik 2025",
+            "str": 44
+          },
+          {
+            "t": "Nie da się założyć opaski ani opatrunku — uciskaj ranę dłonią lub tkaniną.",
+            "zr": "Poradnik 2025",
+            "str": 44
+          },
+          {
+            "t": "Blady i spocony — unieś nogi ok. 30 cm; okryj poszkodowanego.",
+            "zr": "Poradnik 2025",
+            "str": 44
+          }
+        ]
+      },
+      {
+        "etykieta": "Ważne",
+        "punkty": [
+          {
+            "t": "Udzielenie pierwszej pomocy to obowiązek; nie odpowiadasz za nieumyślne błędy.",
+            "zr": "Poradnik 2025",
+            "str": 41
+          },
+          {
+            "t": "AED są w urzędach, galeriach, na dworcach, lotniskach, stacjach metra; zainstaluj aplikację z mapą AED.",
+            "zr": "Poradnik 2025",
+            "str": 43
+          }
+        ]
+      }
+    ],
+    "nie_rob": [
+      {
+        "t": "Nie przemieszczaj poszkodowanego, jeśli nie jest to konieczne.",
+        "zr": "Poradnik 2025",
+        "str": 41
+      }
+    ],
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "AED",
+      "pierwsza pomoc"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 41,
+        "sekcja": "Pierwsza pomoc (s. 41–44)"
+      }
+    ],
+    "data_przegladu": "2026-10-28",
+    "content": "1. NAJPIERW: Zadbaj o bezpieczeństwo; sprawdź reakcję: potrząśnij za ramię, zapytaj „Słyszysz mnie?”. Zadzwoń 112 lub wskaż konkretną osobę, która zadzwoni; poproś konkretną osobę o AED. Nie oddycha — RKO: 30 uciśnięć, 2 wdechy (albo same uciśnięcia); gdy przyniosą AED, użyj go — urządzenie podpowie, co robić.\n2. PARAMETRY: Uciśnięcia — środek klatki piersiowej · głębokość 5–6 cm · 2 na sekundę; Ocena oddechu — do 10 sekund: patrz, słuchaj, poczuj wydech\n3. BRAK KONTAKTU, ODDYCHA: Pozycja boczna ustalona; obserwuj oddech do przybycia ratowników.\n4. RKO DO CHWILI: Przybycia ratowników, oznak powrotu krążenia (oddech, ruch, kaszel) lub gdy pomoc staje się niebezpieczna; zmęczony — wyznacz zmiennika.\n5. OBFITY KRWOTOK: Opatrunek uciskowy; z kończyny nie ustaje — opaska powyżej rany na ramieniu lub udzie, zapisz godzinę. Nie da się założyć opaski ani opatrunku — uciskaj ranę dłonią lub tkaniną. Blady i spocony — unieś nogi ok. 30 cm; okryj poszkodowanego.\n6. WAŻNE: Udzielenie pierwszej pomocy to obowiązek; nie odpowiadasz za nieumyślne błędy. AED są w urzędach, galeriach, na dworcach, lotniskach, stacjach metra; zainstaluj aplikację z mapą AED.\n7. NIE RÓB: Nie przemieszczaj poszkodowanego, jeśli nie jest to konieczne."
+  },
+  {
     "id": "KARTA-OLIOC-PLECAK-EWAKUACYJNY",
     "wzorzec": 2,
     "kategoria": "olioc",
@@ -8281,6 +8887,117 @@
     "content": "1. NAJPIERW: Pomóż osobom starszym, chorym i z niepełnosprawnościami — przekaż im najważniejsze informacje i wyjaśnij, co trzeba zrobić. W razie nagłego zagrożenia poinformuj służby o osobie wymagającej szczególnej pomocy przy ewakuacji.\n2. PRZYGOTOWANIE: Ustal z osobą wspieraną sposób działania w kryzysie; pomóż spakować plecak ewakuacyjny. Sprawdź zapas leków i baterii do urządzeń wspomagających (aparat słuchowy, sensor cukru). Zaangażuj się w inicjatywy sąsiedzkie i listy kontaktowe.\n3. DZIECI: Rozmawiaj z dziećmi o zagrożeniach stosownie do wieku: szczerze, bez drastycznych szczegółów. Wytłumacz dziecku jego zadania w kryzysie i przećwiczcie je razem."
   },
   {
+    "id": "KARTA-OLIOC-POZAR-GASNICA-I-KOC",
+    "wzorzec": 2,
+    "kategoria": "olioc",
+    "grupa": "olioc",
+    "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+    "data_aktualizacji": "2026-10-28",
+    "slowo_kluczowe": "olioc jak użyć gaśnicy",
+    "keywords": [
+      "gaszenie małego pożaru przez obywatela",
+      "koc gaśniczy użycie",
+      "rodzaje pożarów oznaczenia gaśnicy"
+    ],
+    "aliasy": [
+      "gaszenie małego pożaru przez obywatela",
+      "koc gaśniczy użycie",
+      "rodzaje pożarów oznaczenia gaśnicy"
+    ],
+    "prefix": "Pożar w domu — gaśnica, koc gaśniczy, czego nie gasić wodą.",
+    "najpierw": [
+      {
+        "t": "Zauważysz pożar lub dym — wezwij straż pożarną: 112.",
+        "zr": "Poradnik 2025",
+        "str": 31
+      },
+      {
+        "t": "Próbuj gasić ogień tylko, gdy jest nieduży.",
+        "zr": "Poradnik 2025",
+        "str": 31
+      },
+      {
+        "t": "Nie otwieraj okien ani drzwi — mniej powietrza spowalnia ogień.",
+        "zr": "Poradnik 2025",
+        "str": 31
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Klasy gaśnic",
+        "wartosc": "A — ciała stałe · B — ciecze · C — gazy · D — metale · F — tłuszcze i oleje",
+        "zr": "Poradnik 2025",
+        "str": 31
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Czym gasić",
+        "punkty": [
+          {
+            "t": "Materiały stałe (drewno, papier, tkanina) — gaśnica A, koc lub woda.",
+            "zr": "Poradnik 2025",
+            "str": 30
+          },
+          {
+            "t": "Ciecze (benzyna, alkohol, farby) — gaśnica B; nie koc ani woda.",
+            "zr": "Poradnik 2025",
+            "str": 30
+          },
+          {
+            "t": "Gazy — odetnij dopływ, zakręcając zawór; nie koc ani woda.",
+            "zr": "Poradnik 2025",
+            "str": 30
+          },
+          {
+            "t": "Olej na patelni — szczelnie przykryj pokrywką, kocem lub mokrą ścierką.",
+            "zr": "Poradnik 2025",
+            "str": 30
+          }
+        ]
+      },
+      {
+        "etykieta": "Dalej",
+        "punkty": [
+          {
+            "t": "Jeśli bezpieczne — zakręć główny zawór gazu i wyłącz główne wyłączniki prądu.",
+            "zr": "Poradnik 2025",
+            "str": 31
+          },
+          {
+            "t": "Chroń drogi oddechowe; nie używaj windy; zgłoś służbom osoby pozostałe w budynku.",
+            "zr": "Poradnik 2025",
+            "str": 31
+          }
+        ]
+      }
+    ],
+    "nie_rob": [
+      {
+        "t": "Nie gaś wodą urządzeń elektrycznych, palących się olejów ani tłuszczu.",
+        "zr": "Poradnik 2025",
+        "str": 31
+      }
+    ],
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "gaśnica",
+      "koc gaśniczy",
+      "pożar"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 30,
+        "sekcja": "Pożar (s. 30–31)"
+      }
+    ],
+    "data_przegladu": "2026-10-28",
+    "content": "1. NAJPIERW: Zauważysz pożar lub dym — wezwij straż pożarną: 112. Próbuj gasić ogień tylko, gdy jest nieduży. Nie otwieraj okien ani drzwi — mniej powietrza spowalnia ogień.\n2. PARAMETRY: Klasy gaśnic — A — ciała stałe · B — ciecze · C — gazy · D — metale · F — tłuszcze i oleje\n3. CZYM GASIĆ: Materiały stałe (drewno, papier, tkanina) — gaśnica A, koc lub woda. Ciecze (benzyna, alkohol, farby) — gaśnica B; nie koc ani woda. Gazy — odetnij dopływ, zakręcając zawór; nie koc ani woda. Olej na patelni — szczelnie przykryj pokrywką, kocem lub mokrą ścierką.\n4. DALEJ: Jeśli bezpieczne — zakręć główny zawór gazu i wyłącz główne wyłączniki prądu. Chroń drogi oddechowe; nie używaj windy; zgłoś służbom osoby pozostałe w budynku.\n5. NIE RÓB: Nie gaś wodą urządzeń elektrycznych, palących się olejów ani tłuszczu."
+  },
+  {
     "id": "KARTA-OLIOC-PRZYGOTOWANIE-DOMU-I-RODZINY",
     "wzorzec": 2,
     "kategoria": "olioc",
@@ -8380,6 +9097,92 @@
     ],
     "data_przegladu": "2026-10-27",
     "content": "1. NAJPIERW: Przygotuj domowe zapasy na minimum 3 dni i regularnie je przeglądaj. Opracuj i przećwicz rodzinny plan kryzysowy: kontakty, miejsca i terminy spotkań na wypadek rozdzielenia. Skompletuj plecak ewakuacyjny; sprawdź najbliższe miejsce schronienia.\n2. ZDROWIE: Miej niezbędne leki i urządzenia wspomagające; poinformuj bliskich o chorobach i alergiach; dokumentacja medyczna w jednym miejscu. Postaraj się o kartę grupy krwi i noś ją przy sobie.\n3. DOM: Oznacz miejsca odcięcia gazu, prądu i wody; przećwicz ich wyłączanie. Czujki dymu, czadu i gazu; gaśnica i koc gaśniczy; regularne przeglądy instalacji. Najbezpieczniejsze miejsce w domu: z dala od okien, przy ścianach nośnych, w centralnych pomieszczeniach.\n4. RODZINA: Dzieciom i seniorom przygotuj identyfikatory z imieniem, nazwiskiem i telefonem; zwierzęta zaczipuj."
+  },
+  {
+    "id": "KARTA-OLIOC-RODZINNY-PLAN-KRYZYSOWY",
+    "wzorzec": 2,
+    "kategoria": "olioc",
+    "grupa": "olioc",
+    "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+    "data_aktualizacji": "2026-10-28",
+    "slowo_kluczowe": "olioc rodzinny plan kryzysowy",
+    "keywords": [
+      "plan awaryjny rodziny",
+      "rodzinny plan na sytuację kryzysową",
+      "ćwiczenie planu rodzinnego"
+    ],
+    "aliasy": [
+      "plan awaryjny rodziny",
+      "rodzinny plan na sytuację kryzysową",
+      "ćwiczenie planu rodzinnego"
+    ],
+    "prefix": "Rodzinny plan na kryzys — co zapisać i jak go ćwiczyć.",
+    "najpierw": [
+      {
+        "t": "Opracuj rodzinny plan: dane kontaktowe, miejsca i terminy spotkań — w okolicy i poza miejscowością.",
+        "zr": "Poradnik 2025",
+        "str": 47
+      },
+      {
+        "t": "Regularnie aktualizuj plan i ćwicz go z domownikami.",
+        "zr": "Poradnik 2025",
+        "str": 47
+      }
+    ],
+    "parametry": [],
+    "sekcje": [
+      {
+        "etykieta": "Co zapisać (rubryki poradnika)",
+        "punkty": [
+          {
+            "t": "Dane kontaktowe domowników na wypadek kryzysu.",
+            "zr": "Poradnik 2025",
+            "str": 48
+          },
+          {
+            "t": "Miejsca spotkania: do 3 w okolicy i do 3 poza miejscowością, z adresem i osobą kontaktową.",
+            "zr": "Poradnik 2025",
+            "str": 49
+          },
+          {
+            "t": "Choroby, alergie, stale przyjmowane leki; lista niezbędnych rzeczy i gdzie są.",
+            "zr": "Poradnik 2025",
+            "str": 50
+          },
+          {
+            "t": "Ważne telefony: lekarz, opiekunowie dzieci i seniorów, sąsiedzi, szkoła, praca, przychodnia.",
+            "zr": "Poradnik 2025",
+            "str": 51
+          }
+        ]
+      },
+      {
+        "etykieta": "Uzupełnij",
+        "punkty": [
+          {
+            "t": "Plan na różne zagrożenia, ewakuację i rozdzielenie rodziny.",
+            "zr": "Poradnik 2025",
+            "str": 52
+          }
+        ]
+      }
+    ],
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "plan kryzysowy",
+      "rodzina"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 46,
+        "sekcja": "Plan na kryzys (s. 46–52)"
+      }
+    ],
+    "data_przegladu": "2026-10-28",
+    "content": "1. NAJPIERW: Opracuj rodzinny plan: dane kontaktowe, miejsca i terminy spotkań — w okolicy i poza miejscowością. Regularnie aktualizuj plan i ćwicz go z domownikami.\n2. CO ZAPISAĆ (RUBRYKI PORADNIKA): Dane kontaktowe domowników na wypadek kryzysu. Miejsca spotkania: do 3 w okolicy i do 3 poza miejscowością, z adresem i osobą kontaktową. Choroby, alergie, stale przyjmowane leki; lista niezbędnych rzeczy i gdzie są. Ważne telefony: lekarz, opiekunowie dzieci i seniorów, sąsiedzi, szkoła, praca, przychodnia.\n3. UZUPEŁNIJ: Plan na różne zagrożenia, ewakuację i rozdzielenie rodziny."
   },
   {
     "id": "KARTA-OLIOC-ROLA-OBYWATELA",
@@ -8646,357 +9449,6 @@
     ],
     "data_przegladu": "2026-10-27",
     "content": "1. NAJPIERW: Ogłoszenie alarmu: ciągły, modulowany dźwięk syreny przez 3 minuty. Odwołanie alarmu: ciągły, jednostajny dźwięk syreny przez 3 minuty. Po usłyszeniu sygnału włącz radio lub telewizor i stosuj się do komunikatów.\n2. PARAMETRY: Rodzaje sygnałów — w Polsce obecnie tylko dwa; Ćwiczenia — zapowiadane odpowiednio wcześniej\n3. KANAŁY OSTRZEGANIA: Syreny, megafony, radio, telewizja, internet, aplikacja RSO, Alerty RCB, bezpośredni kontakt. Znaczenie sygnałów sprawdzisz m.in. w aplikacji mObywatel i na stronie gov.pl/web/rcb/sygnaly-alarmowe3."
-  },
-  {
-    "id": "KARTA-OLIOC-WRZESIEŃ-04-AED_OBYWATEL",
-    "kategoria": "olioc",
-    "miesiac_akademii": "wrzesień",
-    "grupa_docelowa": "obywatel",
-    "status_zrodla": "oficjalne",
-    "data_aktualizacji": "2026-07-17",
-    "data_weryfikacji_zrodel": "2026-07-17",
-    "zrodlo": "Poradnik bezpieczeństwa - Pierwsza pomoc i AED; Poradnik bezpieczeństwa - Przygotuj swoje otoczenie",
-    "slowo_kluczowe": "olioc użycie aed",
-    "keywords": [
-      "jak użyć defibrylatora aed",
-      "aed w miejscu publicznym",
-      "pierwsza pomoc defibrylator obywatel"
-    ],
-    "prefix": "OLiOC - wrzesień: AED - użycie defibrylatora przez obywatela.",
-    "content": "1. Gdy poszkodowany nie reaguje i nie oddycha prawidłowo, wezwij 112, rozpocznij uciski i poleć konkretnej osobie przynieść AED.\n2. Włącz urządzenie i wykonuj dokładnie polecenia głosowe lub graficzne.\n3. Odsłoń i osusz klatkę piersiową, naklej elektrody zgodnie z rysunkami.\n4. Podczas analizy rytmu i wyładowania nikt nie może dotykać poszkodowanego.\n5. Po wyładowaniu lub komunikacie o braku wyładowania natychmiast kontynuuj RKO.\n6. Nie bój się AED - urządzenie samo ocenia możliwość wykonania wyładowania.",
-    "tagi_wspolne": [
-      "OLiOC",
-      "ochrona ludności",
-      "edukacja obywatelska",
-      "Akademia OLiOC wrzesień",
-      "AED",
-      "pierwsza pomoc"
-    ],
-    "aliasy": [
-      "jak użyć defibrylatora aed",
-      "aed w miejscu publicznym",
-      "pierwsza pomoc defibrylator obywatel"
-    ],
-    "dokumenty_zrodlowe": [
-      {
-        "dokument_id": "src-poradnik-pierwsza-pomoc",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      },
-      {
-        "dokument_id": "src-poradnik-otoczenie",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      }
-    ]
-  },
-  {
-    "id": "KARTA-OLIOC-WRZESIEŃ-06-CZUJKI",
-    "kategoria": "olioc",
-    "miesiac_akademii": "wrzesień",
-    "grupa_docelowa": "obywatel",
-    "status_zrodla": "oficjalne",
-    "data_aktualizacji": "2026-07-17",
-    "data_weryfikacji_zrodel": "2026-07-17",
-    "zrodlo": "Poradnik bezpieczeństwa - Przygotuj swoje otoczenie; KG PSP - Obowiązek instalowania autonomicznych czujek dymu i czadu",
-    "slowo_kluczowe": "olioc czujki dymu i czadu",
-    "keywords": [
-      "czujka tlenku węgla w domu",
-      "czujka dymu test baterii",
-      "alarm czujki co zrobić"
-    ],
-    "prefix": "OLiOC - wrzesień: czujki dymu, tlenku węgla i gazu.",
-    "content": "1. Zamontuj czujkę dymu, a w pomieszczeniach z procesem spalania także czujkę tlenku węgla.\n2. Wybierz urządzenie spełniające właściwą normę i zamontuj je zgodnie z instrukcją producenta.\n3. Regularnie naciskaj przycisk TEST i reaguj na sygnał niskiego poziomu baterii lub usterki.\n4. Czujka nie zastępuje przeglądu komina, wentylacji, instalacji gazowej ani prawidłowego użytkowania urządzeń.\n5. Po alarmie czujki opuść zagrożone pomieszczenie, ostrzeż innych i zadzwoń pod 112.\n6. Nie wracaj do budynku, dopóki służby nie potwierdzą bezpieczeństwa.",
-    "tagi_wspolne": [
-      "OLiOC",
-      "ochrona ludności",
-      "edukacja obywatelska",
-      "Akademia OLiOC wrzesień",
-      "czujki bezpieczeństwa",
-      "temat tlenek węgla",
-      "dym"
-    ],
-    "aliasy": [
-      "czujka tlenku węgla w domu",
-      "czujka dymu test baterii",
-      "alarm czujki co zrobić"
-    ],
-    "dokumenty_zrodlowe": [
-      {
-        "dokument_id": "src-poradnik-otoczenie",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      },
-      {
-        "dokument_id": "src-kgpsp-czujki-2026",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      }
-    ]
-  },
-  {
-    "id": "KARTA-OLIOC-WRZESIEŃ-01-DOM_SZKOLA_PRACA",
-    "kategoria": "olioc",
-    "miesiac_akademii": "wrzesień",
-    "grupa_docelowa": "obywatel",
-    "status_zrodla": "oficjalne",
-    "data_aktualizacji": "2026-07-17",
-    "data_weryfikacji_zrodel": "2026-07-17",
-    "zrodlo": "Akademia OLiOC - program „jeden miesiąc - jeden temat”; Poradnik bezpieczeństwa - Przygotuj swoje otoczenie",
-    "slowo_kluczowe": "olioc bezpieczeństwo domu szkoły pracy",
-    "keywords": [
-      "przygotowanie otoczenia do kryzysu",
-      "bezpieczne miejsce pracy olioc",
-      "bezpieczna szkoła i dom"
-    ],
-    "prefix": "OLiOC - wrzesień: bezpieczeństwo domu, szkoły i miejsca pracy.",
-    "content": "1. Poznaj wyjścia, drogi ewakuacyjne, miejsca zbiórki, apteczki, gaśnice i AED.\n2. Usuń przedmioty z korytarzy, klatek schodowych i dojść do wyjść.\n3. Zgłaszaj uszkodzone instalacje, zablokowane drogi i niesprawne urządzenia bezpieczeństwa.\n4. Bierz udział w próbnych alarmach i ćwicz działanie bez windy oraz przy braku oświetlenia.\n5. W domu oznacz zawory mediów i przygotuj bezpieczne pomieszczenie z dala od okien.\n6. W szkole i pracy stosuj się do instrukcji administratora, nauczyciela lub kierującego ewakuacją.",
-    "tagi_wspolne": [
-      "OLiOC",
-      "ochrona ludności",
-      "edukacja obywatelska",
-      "Akademia OLiOC wrzesień",
-      "bezpieczne otoczenie",
-      "dom szkoła praca"
-    ],
-    "aliasy": [
-      "przygotowanie otoczenia do kryzysu",
-      "bezpieczne miejsce pracy olioc",
-      "bezpieczna szkoła i dom"
-    ],
-    "dokumenty_zrodlowe": [
-      {
-        "dokument_id": "src-olioc-akademia",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      },
-      {
-        "dokument_id": "src-poradnik-otoczenie",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      }
-    ]
-  },
-  {
-    "id": "KARTA-OLIOC-WRZESIEŃ-02-DROGI_EWAKUACYJNE",
-    "kategoria": "olioc",
-    "miesiac_akademii": "wrzesień",
-    "grupa_docelowa": "obywatel",
-    "status_zrodla": "oficjalne",
-    "data_aktualizacji": "2026-07-17",
-    "data_weryfikacji_zrodel": "2026-07-17",
-    "zrodlo": "Poradnik bezpieczeństwa - Przygotuj swoje otoczenie; Poradnik bezpieczeństwa - Pożar",
-    "slowo_kluczowe": "olioc drogi ewakuacyjne",
-    "keywords": [
-      "wyjście ewakuacyjne i miejsce zbiórki",
-      "jak ewakuować się z budynku",
-      "nie używaj windy podczas pożaru"
-    ],
-    "prefix": "OLiOC - wrzesień: drogi ewakuacyjne, wyjścia i miejsce zbiórki.",
-    "content": "1. Znajdź co najmniej dwie możliwe drogi wyjścia z domu, szkoły i miejsca pracy.\n2. Nie zastawiaj korytarzy, schodów, drzwi przeciwpożarowych ani wyjść.\n3. Podczas pożaru nie używaj windy - korzystaj ze schodów.\n4. Poruszaj się zgodnie z oznakowaniem i poleceniami; nie idź pod prąd ewakuacji.\n5. Po wyjściu przejdź do miejsca zbiórki i zgłoś swoją obecność.\n6. Nie wracaj do budynku po rzeczy ani po inne osoby - informację o pozostających osobach przekaż służbom.",
-    "tagi_wspolne": [
-      "OLiOC",
-      "ochrona ludności",
-      "edukacja obywatelska",
-      "Akademia OLiOC wrzesień",
-      "drogi ewakuacyjne",
-      "miejsce zbiórki"
-    ],
-    "aliasy": [
-      "wyjście ewakuacyjne i miejsce zbiórki",
-      "jak ewakuować się z budynku",
-      "nie używaj windy podczas pożaru"
-    ],
-    "dokumenty_zrodlowe": [
-      {
-        "dokument_id": "src-poradnik-otoczenie",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      },
-      {
-        "dokument_id": "src-poradnik-pozar",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      }
-    ]
-  },
-  {
-    "id": "KARTA-OLIOC-WRZESIEŃ-03-GASNICA_KOC",
-    "kategoria": "olioc",
-    "miesiac_akademii": "wrzesień",
-    "grupa_docelowa": "obywatel",
-    "status_zrodla": "oficjalne",
-    "data_aktualizacji": "2026-07-17",
-    "data_weryfikacji_zrodel": "2026-07-17",
-    "zrodlo": "Poradnik bezpieczeństwa - Pożar; Poradnik bezpieczeństwa - Przygotuj swoje otoczenie",
-    "slowo_kluczowe": "olioc jak użyć gaśnicy",
-    "keywords": [
-      "gaszenie małego pożaru przez obywatela",
-      "koc gaśniczy użycie",
-      "rodzaje pożarów oznaczenia gaśnicy"
-    ],
-    "prefix": "OLiOC - wrzesień: bezpieczne użycie gaśnicy i koca gaśniczego.",
-    "content": "1. Najpierw zaalarmuj osoby zagrożone i zadzwoń pod 112.\n2. Gaś tylko mały pożar, gdy masz drogę odwrotu i nie występuje intensywne zadymienie.\n3. Sprawdź oznaczenie gaśnicy i używaj jej wyłącznie do pożarów, do których jest przeznaczona.\n4. Skieruj środek gaśniczy u podstawy płomieni, stojąc od strony umożliwiającej wycofanie.\n5. Nie gaś wodą urządzeń pod napięciem, oleju ani tłuszczu; palące się naczynie przykryj kocem gaśniczym lub pokrywką.\n6. Jeśli ogień rośnie albo jedna gaśnica nie wystarcza - natychmiast wycofaj się, zamknij drzwi i czekaj na straż.",
-    "tagi_wspolne": [
-      "OLiOC",
-      "ochrona ludności",
-      "edukacja obywatelska",
-      "Akademia OLiOC wrzesień",
-      "gaśnica",
-      "koc gaśniczy",
-      "pożar"
-    ],
-    "aliasy": [
-      "gaszenie małego pożaru przez obywatela",
-      "koc gaśniczy użycie",
-      "rodzaje pożarów oznaczenia gaśnicy"
-    ],
-    "dokumenty_zrodlowe": [
-      {
-        "dokument_id": "src-poradnik-pozar",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      },
-      {
-        "dokument_id": "src-poradnik-otoczenie",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      }
-    ]
-  },
-  {
-    "id": "KARTA-OLIOC-WRZESIEŃ-08-KONTAKT_I_ZBIORKA",
-    "kategoria": "olioc",
-    "miesiac_akademii": "wrzesień",
-    "grupa_docelowa": "obywatel",
-    "status_zrodla": "oficjalne",
-    "data_aktualizacji": "2026-07-17",
-    "data_weryfikacji_zrodel": "2026-07-17",
-    "zrodlo": "Poradnik bezpieczeństwa - Plan na kryzys; Poradnik bezpieczeństwa - Osoby potrzebujące szczególnej pomocy",
-    "slowo_kluczowe": "olioc kontakt awaryjny rodziny",
-    "keywords": [
-      "miejsce spotkania po rozdzieleniu rodziny",
-      "kontakt poza miejscowością kryzys",
-      "karta kontaktowa dla dziecka seniora"
-    ],
-    "prefix": "OLiOC - wrzesień: kontakt awaryjny i miejsca spotkania rodziny.",
-    "content": "1. Wybierz jedną osobę spoza miejscowości jako wspólny punkt kontaktowy dla całej rodziny.\n2. Zapisz numery na papierze - nie polegaj wyłącznie na pamięci telefonu.\n3. Ustal miejsce spotkania w okolicy oraz zapasowe miejsce poza obszarem zagrożenia.\n4. Dzieci i seniorzy powinni mieć identyfikator z imieniem oraz numerem opiekuna, bez zbędnych danych.\n5. Gdy sieć jest przeciążona, wyślij krótki SMS z miejscem i stanem bezpieczeństwa zamiast wielokrotnych połączeń.\n6. Nie zmieniaj ustalonego miejsca bez przekazania informacji pozostałym domownikom.",
-    "tagi_wspolne": [
-      "OLiOC",
-      "ochrona ludności",
-      "edukacja obywatelska",
-      "Akademia OLiOC wrzesień",
-      "kontakt awaryjny",
-      "miejsce spotkania"
-    ],
-    "aliasy": [
-      "miejsce spotkania po rozdzieleniu rodziny",
-      "kontakt poza miejscowością kryzys",
-      "karta kontaktowa dla dziecka seniora"
-    ],
-    "dokumenty_zrodlowe": [
-      {
-        "dokument_id": "src-poradnik-plan",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      },
-      {
-        "dokument_id": "src-poradnik-szczegolna-pomoc",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      }
-    ]
-  },
-  {
-    "id": "KARTA-OLIOC-WRZESIEŃ-05-ODCIECIE_MEDIOW",
-    "kategoria": "olioc",
-    "miesiac_akademii": "wrzesień",
-    "grupa_docelowa": "obywatel",
-    "status_zrodla": "oficjalne",
-    "data_aktualizacji": "2026-07-17",
-    "data_weryfikacji_zrodel": "2026-07-17",
-    "zrodlo": "Poradnik bezpieczeństwa - Przygotuj swoje otoczenie; Poradnik bezpieczeństwa - Ewakuacja; Poradnik bezpieczeństwa - Pożar",
-    "slowo_kluczowe": "olioc odcięcie mediów w domu",
-    "keywords": [
-      "jak wyłączyć prąd gaz wodę awaryjnie",
-      "główny zawór gazu i wody",
-      "oznaczenie miejsc odcięcia mediów"
-    ],
-    "prefix": "OLiOC - wrzesień: bezpieczne odcięcie prądu, gazu i wody.",
-    "content": "1. Znajdź i oznacz główny wyłącznik prądu oraz zawory gazu i wody.\n2. Pokaż wszystkim dorosłym domownikom ich lokalizację i sposób bezpiecznego użycia.\n3. Odcinaj media tylko wtedy, gdy możesz to zrobić bez wchodzenia w wodę, dym, ogień lub strefę uszkodzonej instalacji.\n4. Nie dotykaj mokrych urządzeń elektrycznych ani zerwanych przewodów.\n5. Po zakręceniu gazu nie uruchamiaj ponownie instalacji samodzielnie - poczekaj na osobę uprawnioną.\n6. Podczas ewakuacji wykonaj odcięcie tylko wtedy, gdy nie opóźnia ono bezpiecznego opuszczenia budynku.",
-    "tagi_wspolne": [
-      "OLiOC",
-      "ochrona ludności",
-      "edukacja obywatelska",
-      "Akademia OLiOC wrzesień",
-      "media",
-      "prąd gaz woda"
-    ],
-    "aliasy": [
-      "jak wyłączyć prąd gaz wodę awaryjnie",
-      "główny zawór gazu i wody",
-      "oznaczenie miejsc odcięcia mediów"
-    ],
-    "dokumenty_zrodlowe": [
-      {
-        "dokument_id": "src-poradnik-otoczenie",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      },
-      {
-        "dokument_id": "src-poradnik-ewakuacja",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      },
-      {
-        "dokument_id": "src-poradnik-pozar",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      }
-    ]
-  },
-  {
-    "id": "KARTA-OLIOC-WRZESIEŃ-07-RODZINNY_PLAN",
-    "kategoria": "olioc",
-    "miesiac_akademii": "wrzesień",
-    "grupa_docelowa": "obywatel",
-    "status_zrodla": "oficjalne",
-    "data_aktualizacji": "2026-07-17",
-    "data_weryfikacji_zrodel": "2026-07-17",
-    "zrodlo": "Poradnik bezpieczeństwa - Plan na kryzys; Poradnik bezpieczeństwa - Osoby potrzebujące szczególnej pomocy",
-    "slowo_kluczowe": "olioc rodzinny plan kryzysowy",
-    "keywords": [
-      "plan awaryjny rodziny",
-      "rodzinny plan na sytuację kryzysową",
-      "ćwiczenie planu rodzinnego"
-    ],
-    "prefix": "OLiOC - wrzesień: rodzinny plan kryzysowy.",
-    "content": "1. Wypisz numery domowników, kontakt poza miejscowością oraz ważne numery służb i instytucji.\n2. Ustal dwa miejsca spotkania: blisko domu i poza miejscowością.\n3. Określ sposób odbioru dzieci, pomocy osobom zależnym i transportu zwierząt.\n4. Wskaż, kto zabiera leki, dokumenty, plecaki oraz wyłącza media.\n5. Przygotuj wariant na brak internetu, rozładowany telefon i rozdzielenie domowników.\n6. Przeglądaj plan i ćwicz go po zmianie miejsca zamieszkania, szkoły, pracy lub stanu zdrowia.",
-    "tagi_wspolne": [
-      "OLiOC",
-      "ochrona ludności",
-      "edukacja obywatelska",
-      "Akademia OLiOC wrzesień",
-      "plan kryzysowy",
-      "rodzina"
-    ],
-    "aliasy": [
-      "plan awaryjny rodziny",
-      "rodzinny plan na sytuację kryzysową",
-      "ćwiczenie planu rodzinnego"
-    ],
-    "dokumenty_zrodlowe": [
-      {
-        "dokument_id": "src-poradnik-plan",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      },
-      {
-        "dokument_id": "src-poradnik-szczegolna-pomoc",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      }
-    ]
   },
   {
     "id": "KARTA-OLIOC-ZWIERZETA-W-KRYZYSIE",

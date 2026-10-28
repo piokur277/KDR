@@ -1,0 +1,85 @@
+{
+  "id": "KARTA-OLIOC-RODZINNY-PLAN-KRYZYSOWY",
+  "wzorzec": 2,
+  "kategoria": "olioc",
+  "grupa": "olioc",
+  "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+  "data_aktualizacji": "2026-10-28",
+  "slowo_kluczowe": "olioc rodzinny plan kryzysowy",
+  "keywords": [
+    "plan awaryjny rodziny",
+    "rodzinny plan na sytuację kryzysową",
+    "ćwiczenie planu rodzinnego"
+  ],
+  "aliasy": [
+    "plan awaryjny rodziny",
+    "rodzinny plan na sytuację kryzysową",
+    "ćwiczenie planu rodzinnego"
+  ],
+  "prefix": "Rodzinny plan na kryzys — co zapisać i jak go ćwiczyć.",
+  "najpierw": [
+    {
+      "t": "Opracuj rodzinny plan: dane kontaktowe, miejsca i terminy spotkań — w okolicy i poza miejscowością.",
+      "zr": "Poradnik 2025",
+      "str": 47
+    },
+    {
+      "t": "Regularnie aktualizuj plan i ćwicz go z domownikami.",
+      "zr": "Poradnik 2025",
+      "str": 47
+    }
+  ],
+  "parametry": [],
+  "sekcje": [
+    {
+      "etykieta": "Co zapisać (rubryki poradnika)",
+      "punkty": [
+        {
+          "t": "Dane kontaktowe domowników na wypadek kryzysu.",
+          "zr": "Poradnik 2025",
+          "str": 48
+        },
+        {
+          "t": "Miejsca spotkania: do 3 w okolicy i do 3 poza miejscowością, z adresem i osobą kontaktową.",
+          "zr": "Poradnik 2025",
+          "str": 49
+        },
+        {
+          "t": "Choroby, alergie, stale przyjmowane leki; lista niezbędnych rzeczy i gdzie są.",
+          "zr": "Poradnik 2025",
+          "str": 50
+        },
+        {
+          "t": "Ważne telefony: lekarz, opiekunowie dzieci i seniorów, sąsiedzi, szkoła, praca, przychodnia.",
+          "zr": "Poradnik 2025",
+          "str": 51
+        }
+      ]
+    },
+    {
+      "etykieta": "Uzupełnij",
+      "punkty": [
+        {
+          "t": "Plan na różne zagrożenia, ewakuację i rozdzielenie rodziny.",
+          "zr": "Poradnik 2025",
+          "str": 52
+        }
+      ]
+    }
+  ],
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "plan kryzysowy",
+    "rodzina"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+      "strona": 46,
+      "sekcja": "Plan na kryzys (s. 46–52)"
+    }
+  ],
+  "data_przegladu": "2026-10-28"
+}

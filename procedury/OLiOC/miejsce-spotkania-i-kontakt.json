@@ -1,0 +1,80 @@
+{
+  "id": "KARTA-OLIOC-MIEJSCE-SPOTKANIA-I-KONTAKT",
+  "wzorzec": 2,
+  "kategoria": "olioc",
+  "grupa": "olioc",
+  "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+  "data_aktualizacji": "2026-10-28",
+  "slowo_kluczowe": "olioc kontakt awaryjny rodziny",
+  "keywords": [
+    "miejsce spotkania po rozdzieleniu rodziny",
+    "kontakt poza miejscowością kryzys",
+    "karta kontaktowa dla dziecka seniora"
+  ],
+  "aliasy": [
+    "miejsce spotkania po rozdzieleniu rodziny",
+    "kontakt poza miejscowością kryzys",
+    "karta kontaktowa dla dziecka seniora"
+  ],
+  "prefix": "Miejsce spotkania i kontakt rodziny po rozdzieleniu.",
+  "najpierw": [
+    {
+      "t": "Ustal miejsca i terminy spotkań — w okolicy i poza miejscowością — na wypadek rozdzielenia i braku łączności.",
+      "zr": "Poradnik 2025",
+      "str": 47
+    },
+    {
+      "t": "Dzieciom i seniorom przygotuj identyfikatory z imieniem, nazwiskiem i telefonem.",
+      "zr": "Poradnik 2025",
+      "str": 52
+    }
+  ],
+  "parametry": [],
+  "sekcje": [
+    {
+      "etykieta": "Przygotuj",
+      "punkty": [
+        {
+          "t": "Notatnik z numerami do najbliższych w plecaku ewakuacyjnym.",
+          "zr": "Poradnik 2025",
+          "str": 26
+        },
+        {
+          "t": "Dzieci mają przy sobie kontakt do opiekuna i informacje medyczne.",
+          "zr": "Poradnik 2025",
+          "str": 25
+        },
+        {
+          "t": "Rubryki: do 3 miejsc w okolicy i do 3 poza miejscowością, z adresem i osobą kontaktową.",
+          "zr": "Poradnik 2025",
+          "str": 49
+        }
+      ]
+    },
+    {
+      "etykieta": "Łączność",
+      "punkty": [
+        {
+          "t": "Przygotuj dodatkowe środki łączności, np. CB radio, walkie-talkie.",
+          "zr": "Poradnik 2025",
+          "str": 16
+        }
+      ]
+    }
+  ],
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "kontakt awaryjny",
+    "miejsce spotkania"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+      "strona": 47,
+      "sekcja": "Plan na kryzys (s. 47–49), ewakuacja (s. 25–26), Dekalog (s. 52)"
+    }
+  ],
+  "data_przegladu": "2026-10-28"
+}

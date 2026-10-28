@@ -1,0 +1,130 @@
+{
+  "id": "KARTA-OLIOC-PIERWSZA-POMOC-RKO-I-AED",
+  "wzorzec": 2,
+  "kategoria": "olioc",
+  "grupa": "olioc",
+  "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+  "data_aktualizacji": "2026-10-28",
+  "slowo_kluczowe": "olioc użycie aed",
+  "keywords": [
+    "jak użyć defibrylatora aed",
+    "aed w miejscu publicznym",
+    "pierwsza pomoc defibrylator obywatel"
+  ],
+  "aliasy": [
+    "jak użyć defibrylatora aed",
+    "aed w miejscu publicznym",
+    "pierwsza pomoc defibrylator obywatel"
+  ],
+  "prefix": "Pierwsza pomoc dla obywatela — ocena, RKO, AED, krwotok.",
+  "najpierw": [
+    {
+      "t": "Zadbaj o bezpieczeństwo; sprawdź reakcję: potrząśnij za ramię, zapytaj „Słyszysz mnie?”.",
+      "zr": "Poradnik 2025",
+      "str": 41
+    },
+    {
+      "t": "Zadzwoń 112 lub wskaż konkretną osobę, która zadzwoni; poproś konkretną osobę o AED.",
+      "zr": "Poradnik 2025",
+      "str": 42
+    },
+    {
+      "t": "Nie oddycha — RKO: 30 uciśnięć, 2 wdechy (albo same uciśnięcia); gdy przyniosą AED, użyj go — urządzenie podpowie, co robić.",
+      "zr": "Poradnik 2025",
+      "str": 43
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "Uciśnięcia",
+      "wartosc": "środek klatki piersiowej · głębokość 5–6 cm · 2 na sekundę",
+      "zr": "Poradnik 2025",
+      "str": 43
+    },
+    {
+      "nazwa": "Ocena oddechu",
+      "wartosc": "do 10 sekund: patrz, słuchaj, poczuj wydech",
+      "zr": "Poradnik 2025",
+      "str": 43
+    }
+  ],
+  "sekcje": [
+    {
+      "etykieta": "Brak kontaktu, oddycha",
+      "punkty": [
+        {
+          "t": "Pozycja boczna ustalona; obserwuj oddech do przybycia ratowników.",
+          "zr": "Poradnik 2025",
+          "str": 42
+        }
+      ]
+    },
+    {
+      "etykieta": "RKO do chwili",
+      "punkty": [
+        {
+          "t": "Przybycia ratowników, oznak powrotu krążenia (oddech, ruch, kaszel) lub gdy pomoc staje się niebezpieczna; zmęczony — wyznacz zmiennika.",
+          "zr": "Poradnik 2025",
+          "str": 43
+        }
+      ]
+    },
+    {
+      "etykieta": "Obfity krwotok",
+      "punkty": [
+        {
+          "t": "Opatrunek uciskowy; z kończyny nie ustaje — opaska powyżej rany na ramieniu lub udzie, zapisz godzinę.",
+          "zr": "Poradnik 2025",
+          "str": 44
+        },
+        {
+          "t": "Nie da się założyć opaski ani opatrunku — uciskaj ranę dłonią lub tkaniną.",
+          "zr": "Poradnik 2025",
+          "str": 44
+        },
+        {
+          "t": "Blady i spocony — unieś nogi ok. 30 cm; okryj poszkodowanego.",
+          "zr": "Poradnik 2025",
+          "str": 44
+        }
+      ]
+    },
+    {
+      "etykieta": "Ważne",
+      "punkty": [
+        {
+          "t": "Udzielenie pierwszej pomocy to obowiązek; nie odpowiadasz za nieumyślne błędy.",
+          "zr": "Poradnik 2025",
+          "str": 41
+        },
+        {
+          "t": "AED są w urzędach, galeriach, na dworcach, lotniskach, stacjach metra; zainstaluj aplikację z mapą AED.",
+          "zr": "Poradnik 2025",
+          "str": 43
+        }
+      ]
+    }
+  ],
+  "nie_rob": [
+    {
+      "t": "Nie przemieszczaj poszkodowanego, jeśli nie jest to konieczne.",
+      "zr": "Poradnik 2025",
+      "str": 41
+    }
+  ],
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "AED",
+    "pierwsza pomoc"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+      "strona": 41,
+      "sekcja": "Pierwsza pomoc (s. 41–44)"
+    }
+  ],
+  "data_przegladu": "2026-10-28"
+}

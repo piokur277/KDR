@@ -1,0 +1,120 @@
+{
+  "id": "KARTA-OLIOC-BEZPIECZENSTWO-DOM-SZKOLA-PRACA",
+  "wzorzec": 2,
+  "kategoria": "olioc",
+  "grupa": "olioc",
+  "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+  "data_aktualizacji": "2026-10-28",
+  "slowo_kluczowe": "olioc bezpieczeństwo domu szkoły pracy",
+  "keywords": [
+    "przygotowanie otoczenia do kryzysu",
+    "bezpieczne miejsce pracy olioc",
+    "bezpieczna szkoła i dom"
+  ],
+  "aliasy": [
+    "przygotowanie otoczenia do kryzysu",
+    "bezpieczne miejsce pracy olioc",
+    "bezpieczna szkoła i dom"
+  ],
+  "prefix": "Bezpieczeństwo w domu, szkole i pracy — przygotowanie otoczenia.",
+  "najpierw": [
+    {
+      "t": "W pracy sprawdź wyjścia ewakuacyjne, miejsca zbiórki, gaśnice, defibrylatory (AED) i apteczki.",
+      "zr": "Poradnik 2025",
+      "str": 19
+    },
+    {
+      "t": "Usuń niepotrzebne przedmioty z korytarzy i klatek schodowych.",
+      "zr": "Poradnik 2025",
+      "str": 17
+    },
+    {
+      "t": "Najbezpieczniejsze miejsce w domu: z dala od okien, przy ścianach nośnych, w centralnych pomieszczeniach.",
+      "zr": "Poradnik 2025",
+      "str": 18
+    }
+  ],
+  "parametry": [],
+  "sekcje": [
+    {
+      "etykieta": "Dom",
+      "punkty": [
+        {
+          "t": "Przygotuj koce, ręczniki i taśmy do uszczelniania okien i drzwi.",
+          "zr": "Poradnik 2025",
+          "str": 17
+        },
+        {
+          "t": "Przygotuj się na przerwy w dostawach wody, prądu, gazu i brak telefonu oraz internetu.",
+          "zr": "Poradnik 2025",
+          "str": 17
+        },
+        {
+          "t": "Gaśnica i koc gaśniczy; przeglądy instalacji kominowej, wentylacyjnej, gazowej, elektrycznej; ubezpieczenie.",
+          "zr": "Poradnik 2025",
+          "str": 18
+        }
+      ]
+    },
+    {
+      "etykieta": "Szkoła",
+      "punkty": [
+        {
+          "t": "Uczniowie biorą udział w próbnych alarmach i zgłaszają podejrzane zachowania lub przedmioty.",
+          "zr": "Poradnik 2025",
+          "str": 19
+        },
+        {
+          "t": "Rodzice zapisują kontakt do osoby wyznaczonej przez szkołę do odbioru dzieci w zagrożeniu.",
+          "zr": "Poradnik 2025",
+          "str": 19
+        }
+      ]
+    },
+    {
+      "etykieta": "Praca",
+      "punkty": [
+        {
+          "t": "Zgłaszaj usterki: uszkodzoną instalację, zablokowane drogi ewakuacyjne, niesprawne windy.",
+          "zr": "Poradnik 2025",
+          "str": 19
+        },
+        {
+          "t": "Przećwiczcie plan awaryjny i ewakuację; możliwa mobilizacja — poinformuj pracodawcę.",
+          "zr": "Poradnik 2025",
+          "str": 19
+        }
+      ]
+    },
+    {
+      "etykieta": "Samochód",
+      "punkty": [
+        {
+          "t": "Sprawny, zatankowany; apteczka, gaśnica, trójkąt, koło zapasowe, karta ratownicza; papierowa mapa.",
+          "zr": "Poradnik 2025",
+          "str": 16
+        },
+        {
+          "t": "W kryzysie ogranicz jazdę — drogi muszą być przejezdne dla służb i transportów wojskowych.",
+          "zr": "Poradnik 2025",
+          "str": 16
+        }
+      ]
+    }
+  ],
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "bezpieczne otoczenie",
+    "dom szkoła praca"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+      "strona": 16,
+      "sekcja": "Przygotuj swoje otoczenie (s. 16–19)"
+    }
+  ],
+  "data_przegladu": "2026-10-28"
+}

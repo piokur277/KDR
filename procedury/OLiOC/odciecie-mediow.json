@@ -1,0 +1,80 @@
+{
+  "id": "KARTA-OLIOC-ODCIECIE-MEDIOW",
+  "wzorzec": 2,
+  "kategoria": "olioc",
+  "grupa": "olioc",
+  "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+  "data_aktualizacji": "2026-10-28",
+  "slowo_kluczowe": "olioc odcięcie mediów w domu",
+  "keywords": [
+    "jak wyłączyć prąd gaz wodę awaryjnie",
+    "główny zawór gazu i wody",
+    "oznaczenie miejsc odcięcia mediów"
+  ],
+  "aliasy": [
+    "jak wyłączyć prąd gaz wodę awaryjnie",
+    "główny zawór gazu i wody",
+    "oznaczenie miejsc odcięcia mediów"
+  ],
+  "prefix": "Odcięcie gazu, prądu i wody w domu.",
+  "najpierw": [
+    {
+      "t": "Oznacz w widoczny sposób (np. kolorowymi taśmami) miejsca odcięcia gazu, prądu i wody.",
+      "zr": "Poradnik 2025",
+      "str": 18
+    },
+    {
+      "t": "Przećwicz z najbliższymi ich wyłączanie.",
+      "zr": "Poradnik 2025",
+      "str": 18
+    }
+  ],
+  "parametry": [],
+  "sekcje": [
+    {
+      "etykieta": "Kiedy odciąć",
+      "punkty": [
+        {
+          "t": "Ewakuacja — zamknij dopływ wody, wyłącz urządzenia elektryczne i gazowe, wygaś źródła ognia.",
+          "zr": "Poradnik 2025",
+          "str": 25
+        },
+        {
+          "t": "Pożar — o ile bezpieczne, zakręć główny zawór gazu i wyłącz główne wyłączniki prądu.",
+          "zr": "Poradnik 2025",
+          "str": 31
+        },
+        {
+          "t": "Pożar gazu — odetnij dopływ, zakręcając zawór.",
+          "zr": "Poradnik 2025",
+          "str": 30
+        }
+      ]
+    },
+    {
+      "etykieta": "Instalacje",
+      "punkty": [
+        {
+          "t": "Regularnie przeglądaj instalację gazową, elektryczną, kominową i wentylacyjną.",
+          "zr": "Poradnik 2025",
+          "str": 18
+        }
+      ]
+    }
+  ],
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "media",
+    "prąd gaz woda"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+      "strona": 18,
+      "sekcja": "Dom (s. 18), ewakuacja (s. 25), pożar (s. 30–31)"
+    }
+  ],
+  "data_przegladu": "2026-10-28"
+}
