@@ -808,7 +808,7 @@
         <header class="header">
             <div class="header-row">
                 <h1 class="title">KDR AI SYSTEM</h1>
-                <span class="version">v19.27.0 ENERGETYKA PSE</span>
+                <span class="version">v19.27.1 ENERGETYKA PSE</span>
             </div>
 
             <div class="toolbar">
@@ -1793,7 +1793,7 @@
         // ===== Ulubione i ostatnio otwierane =====
         const FAVORITES_KEY = "kdr_ai_favorites_v1";
         const RECENT_KEY = "kdr_ai_recent_v1";
-        const RECENT_MAX = 6;
+        const RECENT_MAX = 2;
 
         // Zmienione identyfikatory kart (np. OLiOC bez nazw miesięcy) — ulubione
         // i ostatnio otwierane zapisane pod starym ID przechodzą na nowe.
@@ -1916,7 +1916,7 @@
             }
 
             const favorites = idsToProcedures(readIdList(FAVORITES_KEY));
-            const recent = idsToProcedures(readIdList(RECENT_KEY))
+            const recent = idsToProcedures(readIdList(RECENT_KEY).slice(0, RECENT_MAX))
                 .filter(procedure => !favorites.some(fav => fav.id === procedure.id));
 
             const tiles = [...PROCEDURE_GROUPS, OTHER_GROUP]
