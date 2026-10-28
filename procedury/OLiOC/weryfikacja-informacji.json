@@ -1,0 +1,77 @@
+{
+  "id": "KARTA-OLIOC-WERYFIKACJA-INFORMACJI",
+  "wzorzec": 2,
+  "kategoria": "olioc",
+  "grupa": "olioc",
+  "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+  "data_aktualizacji": "2026-10-28",
+  "slowo_kluczowe": "olioc weryfikacja informacji w kryzysie",
+  "keywords": [
+    "jak sprawdzić prawdziwość komunikatu",
+    "sprawdzanie źródła informacji kryzys",
+    "wiarygodna informacja oficjalne źródła"
+  ],
+  "aliasy": [
+    "jak sprawdzić prawdziwość komunikatu",
+    "sprawdzanie źródła informacji kryzys",
+    "wiarygodna informacja oficjalne źródła"
+  ],
+  "prefix": "Weryfikacja informacji w kryzysie — gdzie sprawdzać komunikaty.",
+  "najpierw": [
+    {
+      "t": "Sprawdzaj informacje w kilku niezależnych źródłach.",
+      "zr": "Poradnik 2025",
+      "str": 39
+    },
+    {
+      "t": "Komunikaty w kryzysie: strony rządowe, Alerty RCB, RSO, media.",
+      "zr": "Poradnik 2025",
+      "str": 25
+    },
+    {
+      "t": "Korzystaj z wiarygodnych źródeł informacji, przede wszystkim rządowych.",
+      "zr": "Poradnik 2025",
+      "str": 52
+    }
+  ],
+  "parametry": [],
+  "sekcje": [
+    {
+      "etykieta": "Kanały ostrzegania",
+      "punkty": [
+        {
+          "t": "Syreny, megafony, radio, telewizja, internet, RSO, Alerty RCB, bezpośredni kontakt.",
+          "zr": "Poradnik 2025",
+          "str": 24
+        },
+        {
+          "t": "RSO — bezpłatna aplikacja informująca o zagrożeniach w Polsce.",
+          "zr": "Poradnik 2025",
+          "str": 53
+        }
+      ]
+    }
+  ],
+  "nie_rob": [
+    {
+      "t": "Nie rozpowszechniaj niesprawdzonych informacji.",
+      "zr": "Poradnik 2025",
+      "str": 39
+    }
+  ],
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "weryfikacja informacji",
+    "oficjalne komunikaty"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+      "strona": 39,
+      "sekcja": "Zagrożenia cyfrowe (s. 39), sygnały i komunikaty (s. 24–25, 53), Dekalog (s. 52)"
+    }
+  ],
+  "data_przegladu": "2026-10-28"
+}

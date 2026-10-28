@@ -1,0 +1,82 @@
+{
+  "id": "KARTA-OLIOC-DEZINFORMACJA",
+  "wzorzec": 2,
+  "kategoria": "olioc",
+  "grupa": "olioc",
+  "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+  "data_aktualizacji": "2026-10-28",
+  "slowo_kluczowe": "olioc jak rozpoznać dezinformację",
+  "keywords": [
+    "fałszywe informacje podczas kryzysu",
+    "dezinformacja obywatel zasady",
+    "nie rozpowszechniaj niesprawdzonych wiadomości"
+  ],
+  "aliasy": [
+    "fałszywe informacje podczas kryzysu",
+    "dezinformacja obywatel zasady",
+    "nie rozpowszechniaj niesprawdzonych wiadomości"
+  ],
+  "prefix": "Dezinformacja — czym jest i jak się przed nią chronić.",
+  "najpierw": [
+    {
+      "t": "Dezinformacja to celowe rozpowszechnianie fałszywych lub zmanipulowanych treści.",
+      "zr": "Poradnik 2025",
+      "str": 39
+    },
+    {
+      "t": "Nie rozpowszechniaj niesprawdzonych informacji.",
+      "zr": "Poradnik 2025",
+      "str": 39
+    },
+    {
+      "t": "Nie wierz w doniesienia o upadku państwa i kapitulacji.",
+      "zr": "Poradnik 2025",
+      "str": 39
+    }
+  ],
+  "parametry": [],
+  "sekcje": [
+    {
+      "etykieta": "Sprawdzaj",
+      "punkty": [
+        {
+          "t": "Informacje, które wydają się wiarygodne, sprawdzaj w kilku niezależnych źródłach.",
+          "zr": "Poradnik 2025",
+          "str": 39
+        },
+        {
+          "t": "Pewne źródła: Polskie Radio, Telewizja Polska, rządowe strony internetowe, służby państwowe.",
+          "zr": "Poradnik 2025",
+          "str": 39
+        },
+        {
+          "t": "Na emocje wpływają docierające wiadomości — analizuj krytycznie ich treść.",
+          "zr": "Poradnik 2025",
+          "str": 11
+        }
+      ]
+    }
+  ],
+  "nie_rob": [
+    {
+      "t": "Nie publikuj informacji o lokalizacji i ruchu Wojska Polskiego i wojsk sojuszniczych; nie fotografuj ani nie nagrywaj wojska i ważnych obiektów (mosty, stacje, magazyny).",
+      "zr": "Poradnik 2025",
+      "str": 39
+    }
+  ],
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "dezinformacja",
+    "bezpieczeństwo informacyjne"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+      "strona": 39,
+      "sekcja": "Zagrożenia cyfrowe (s. 39–40)"
+    }
+  ],
+  "data_przegladu": "2026-10-28"
+}
