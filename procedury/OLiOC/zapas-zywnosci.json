@@ -1,0 +1,80 @@
+{
+  "id": "KARTA-OLIOC-ZAPAS-ZYWNOSCI",
+  "wzorzec": 2,
+  "kategoria": "olioc",
+  "grupa": "olioc",
+  "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025; EFSA/GIS: Wskazówki dotyczące bezpieczeństwa żywności podczas przerwy w dostawie prądu (2026).",
+  "data_aktualizacji": "2026-10-28",
+  "slowo_kluczowe": "olioc żywność na 72 godziny",
+  "keywords": [
+    "jedzenie na trzy dni bez gotowania",
+    "produkty do zapasu kryzysowego",
+    "żywność gotowa do spożycia blackout"
+  ],
+  "aliasy": [
+    "jedzenie na trzy dni bez gotowania",
+    "produkty do zapasu kryzysowego",
+    "żywność gotowa do spożycia blackout"
+  ],
+  "prefix": "Zapas żywności na minimum 3 dni.",
+  "najpierw": [
+    {
+      "t": "Żywność gotowa do spożycia, np. konserwy, suchary, batony.",
+      "zr": "Poradnik 2025",
+      "str": 33
+    },
+    {
+      "t": "Produkty, które nie wymagają lodówki, wody ani gotowania; ręczny otwieracz do puszek.",
+      "zr": "EFSA/GIS 2026",
+      "str": 1
+    },
+    {
+      "t": "Część zapasów zużywaj na bieżąco i regularnie uzupełniaj; sprawdzaj terminy przydatności.",
+      "zr": "Poradnik 2025",
+      "str": 20
+    }
+  ],
+  "parametry": [],
+  "sekcje": [
+    {
+      "etykieta": "Do plecaka ewakuacyjnego",
+      "punkty": [
+        {
+          "t": "Żywność wysokoodżywcza gotowa do spożycia: batony energetyczne, suszone owoce, bakalie.",
+          "zr": "Poradnik 2025",
+          "str": 26
+        }
+      ]
+    },
+    {
+      "etykieta": "Przerwa w dostawie prądu",
+      "punkty": [
+        {
+          "t": "Zamknięta lodówka utrzymuje bezpieczną temperaturę ok. 4 godziny; łatwo psującą się żywność powyżej 5°C dłużej niż 2 godziny wyrzuć.",
+          "zr": "EFSA/GIS 2026",
+          "str": 1
+        }
+      ]
+    }
+  ],
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "zapas żywności",
+    "żywność bez gotowania"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+      "strona": 20,
+      "sekcja": "Zapasy (s. 20–21), plecak (s. 26), blackout (s. 33)"
+    },
+    {
+      "dokument_id": "doc-efsa-zywnosc-blackout-2026",
+      "strona": 1,
+      "sekcja": "Infografika EFSA/GIS"
+    }
+  ],
+  "data_przegladu": "2026-10-28"
+}

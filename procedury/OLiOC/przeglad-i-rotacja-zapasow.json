@@ -1,0 +1,77 @@
+{
+  "id": "KARTA-OLIOC-PRZEGLAD-I-ROTACJA-ZAPASOW",
+  "wzorzec": 2,
+  "kategoria": "olioc",
+  "grupa": "olioc",
+  "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+  "data_aktualizacji": "2026-10-28",
+  "slowo_kluczowe": "olioc kontrola i rotacja zapasów",
+  "keywords": [
+    "jak sprawdzać domowe zapasy kryzysowe",
+    "terminy ważności zapasów 72 godziny",
+    "lista kontrolna zestawu awaryjnego"
+  ],
+  "aliasy": [
+    "jak sprawdzać domowe zapasy kryzysowe",
+    "terminy ważności zapasów 72 godziny",
+    "lista kontrolna zestawu awaryjnego"
+  ],
+  "prefix": "Przegląd i rotacja domowych zapasów.",
+  "najpierw": [
+    {
+      "t": "Przeglądaj zapasy raz na kilka miesięcy i sprawdzaj terminy przydatności.",
+      "zr": "Poradnik 2025",
+      "str": 20
+    },
+    {
+      "t": "Produkty, które częściowo zużywasz, regularnie uzupełniaj.",
+      "zr": "Poradnik 2025",
+      "str": 20
+    }
+  ],
+  "parametry": [
+    {
+      "nazwa": "Przegląd zapasów",
+      "wartosc": "raz na kilka miesięcy",
+      "zr": "Poradnik 2025",
+      "str": 20
+    }
+  ],
+  "sekcje": [
+    {
+      "etykieta": "Sprawdzaj także",
+      "punkty": [
+        {
+          "t": "Stan techniczny czujek dymu, czadu i gazu.",
+          "zr": "Poradnik 2025",
+          "str": 18
+        },
+        {
+          "t": "Przeglądy instalacji: kominowej, wentylacyjnej, gazowej i elektrycznej.",
+          "zr": "Poradnik 2025",
+          "str": 18
+        },
+        {
+          "t": "Naładowane powerbanki.",
+          "zr": "Poradnik 2025",
+          "str": 33
+        }
+      ]
+    }
+  ],
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "rotacja zapasów",
+    "lista kontrolna"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+      "strona": 20,
+      "sekcja": "Zapasy (s. 20), otoczenie (s. 18), blackout (s. 33)"
+    }
+  ],
+  "data_przegladu": "2026-10-28"
+}

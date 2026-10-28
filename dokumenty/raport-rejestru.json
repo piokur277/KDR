@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-28T08:05:28.686Z",
+  "generated_at": "2026-10-28T08:08:48.810Z",
   "registry_version": "2.7",
-  "document_count": 80,
-  "active_document_count": 80,
-  "linked_document_count": 80,
+  "document_count": 73,
+  "active_document_count": 73,
+  "linked_document_count": 73,
   "unlinked_documents": [],
   "documents": [
     {
@@ -357,139 +357,6 @@
           "procedure_id": "KARTA-KPP-SCHEMAT-BADANIA-ABCDE",
           "strona": 1,
           "sekcja": "Schemat badania ABCDE (s. 1–2)"
-        }
-      ]
-    },
-    {
-      "id": "src-olioc-akademia",
-      "tytul": "Akademia OLiOC - program „jeden miesiąc - jeden temat”",
-      "status_techniczny": "aktywny",
-      "liczba_stron": 1,
-      "liczba_powiazan": 1,
-      "powiazania": [
-        {
-          "procedure_id": "KARTA-OLIOC-GRUDZIEŃ-01-ZAPASY_72H",
-          "strona": 1,
-          "sekcja": "Oficjalne źródło internetowe"
-        }
-      ]
-    },
-    {
-      "id": "src-poradnik-przygotuj-siebie",
-      "tytul": "Poradnik bezpieczeństwa - Przygotuj siebie i najbliższych",
-      "status_techniczny": "aktywny",
-      "liczba_stron": 1,
-      "liczba_powiazan": 1,
-      "powiazania": [
-        {
-          "procedure_id": "KARTA-OLIOC-GRUDZIEŃ-04-LEKI_HIGIENA",
-          "strona": 1,
-          "sekcja": "Oficjalne źródło internetowe"
-        }
-      ]
-    },
-    {
-      "id": "src-poradnik-szczegolna-pomoc",
-      "tytul": "Poradnik bezpieczeństwa - Osoby potrzebujące szczególnej pomocy",
-      "status_techniczny": "aktywny",
-      "liczba_stron": 1,
-      "liczba_powiazan": 1,
-      "powiazania": [
-        {
-          "procedure_id": "KARTA-OLIOC-GRUDZIEŃ-05-SZCZEGOLNE_POTRZEBY_ZAPASY",
-          "strona": 1,
-          "sekcja": "Oficjalne źródło internetowe"
-        }
-      ]
-    },
-    {
-      "id": "src-poradnik-zwierzeta",
-      "tytul": "Poradnik bezpieczeństwa - Zadbaj o zwierzęta",
-      "status_techniczny": "aktywny",
-      "liczba_stron": 1,
-      "liczba_powiazan": 1,
-      "powiazania": [
-        {
-          "procedure_id": "KARTA-OLIOC-GRUDZIEŃ-05-SZCZEGOLNE_POTRZEBY_ZAPASY",
-          "strona": 1,
-          "sekcja": "Oficjalne źródło internetowe"
-        }
-      ]
-    },
-    {
-      "id": "src-poradnik-blackout",
-      "tytul": "Poradnik bezpieczeństwa - Długotrwały brak prądu (blackout)",
-      "status_techniczny": "aktywny",
-      "liczba_stron": 1,
-      "liczba_powiazan": 4,
-      "powiazania": [
-        {
-          "procedure_id": "KARTA-OLIOC-GRUDZIEŃ-06-ROTACJA_ZAPASOW",
-          "strona": 1,
-          "sekcja": "Oficjalne źródło internetowe"
-        },
-        {
-          "procedure_id": "KARTA-OLIOC-GRUDZIEŃ-02-ZAPAS_WODY",
-          "strona": 1,
-          "sekcja": "Oficjalne źródło internetowe"
-        },
-        {
-          "procedure_id": "KARTA-OLIOC-GRUDZIEŃ-03-ZAPAS_ZYWNOSCI",
-          "strona": 1,
-          "sekcja": "Oficjalne źródło internetowe"
-        },
-        {
-          "procedure_id": "KARTA-OLIOC-GRUDZIEŃ-01-ZAPASY_72H",
-          "strona": 1,
-          "sekcja": "Oficjalne źródło internetowe"
-        }
-      ]
-    },
-    {
-      "id": "src-poradnik-higiena",
-      "tytul": "Poradnik bezpieczeństwa - Higiena w kryzysie",
-      "status_techniczny": "aktywny",
-      "liczba_stron": 1,
-      "liczba_powiazan": 1,
-      "powiazania": [
-        {
-          "procedure_id": "KARTA-OLIOC-GRUDZIEŃ-04-LEKI_HIGIENA",
-          "strona": 1,
-          "sekcja": "Oficjalne źródło internetowe"
-        }
-      ]
-    },
-    {
-      "id": "src-poradnik-plan",
-      "tytul": "Poradnik bezpieczeństwa - Plan na kryzys",
-      "status_techniczny": "aktywny",
-      "liczba_stron": 1,
-      "liczba_powiazan": 5,
-      "powiazania": [
-        {
-          "procedure_id": "KARTA-OLIOC-GRUDZIEŃ-04-LEKI_HIGIENA",
-          "strona": 1,
-          "sekcja": "Oficjalne źródło internetowe"
-        },
-        {
-          "procedure_id": "KARTA-OLIOC-GRUDZIEŃ-06-ROTACJA_ZAPASOW",
-          "strona": 1,
-          "sekcja": "Oficjalne źródło internetowe"
-        },
-        {
-          "procedure_id": "KARTA-OLIOC-GRUDZIEŃ-02-ZAPAS_WODY",
-          "strona": 1,
-          "sekcja": "Oficjalne źródło internetowe"
-        },
-        {
-          "procedure_id": "KARTA-OLIOC-GRUDZIEŃ-03-ZAPAS_ZYWNOSCI",
-          "strona": 1,
-          "sekcja": "Oficjalne źródło internetowe"
-        },
-        {
-          "procedure_id": "KARTA-OLIOC-GRUDZIEŃ-01-ZAPASY_72H",
-          "strona": 1,
-          "sekcja": "Oficjalne źródło internetowe"
         }
       ]
     },
@@ -1291,7 +1158,7 @@
       "tytul": "Poradnik bezpieczeństwa",
       "status_techniczny": "aktywny",
       "liczba_stron": 54,
-      "liczba_powiazan": 34,
+      "liczba_powiazan": 40,
       "powiazania": [
         {
           "procedure_id": "KARTA-OLIOC-AGREGAT-PRADOTWORCZY",
@@ -1302,6 +1169,11 @@
           "procedure_id": "KARTA-OLIOC-ALERTY-RCB-I-RSO",
           "strona": 53,
           "sekcja": "RSO (s. 53)"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-APTECZKA-LEKI-I-HIGIENA",
+          "strona": 21,
+          "sekcja": "Apteczka i higiena (s. 21), przygotuj siebie (s. 11), dekalog (s. 52)"
         },
         {
           "procedure_id": "KARTA-OLIOC-BEZPIECZENSTWO-DOM-SZKOLA-PRACA",
@@ -1414,6 +1286,11 @@
           "sekcja": "Pożar (s. 30–31)"
         },
         {
+          "procedure_id": "KARTA-OLIOC-PRZEGLAD-I-ROTACJA-ZAPASOW",
+          "strona": 20,
+          "sekcja": "Zapasy (s. 20), otoczenie (s. 18), blackout (s. 33)"
+        },
+        {
           "procedure_id": "KARTA-OLIOC-PRZYGOTOWANIE-DOMU-I-RODZINY",
           "strona": 11,
           "sekcja": "Przygotowanie (s. 11–22), Plan na kryzys (s. 46–47), Dekalog (s. 52)"
@@ -1452,6 +1329,26 @@
           "procedure_id": "KARTA-OLIOC-WODA-I-HIGIENA-BEZ-PRADU",
           "strona": 45,
           "sekcja": "Higiena w kryzysie (s. 45), zapasy (s. 21), plecak (s. 26)"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-ZAPAS-WODY",
+          "strona": 21,
+          "sekcja": "Zapasy (s. 21), plecak (s. 26), zwierzęta (s. 14–15), higiena (s. 45)"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-ZAPAS-ZYWNOSCI",
+          "strona": 20,
+          "sekcja": "Zapasy (s. 20–21), plecak (s. 26), blackout (s. 33)"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-ZAPASY-DOMOWE-NA-3-DNI",
+          "strona": 20,
+          "sekcja": "Zapasy domowe na minimum 3 dni (s. 20–22), dekalog (s. 52)"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-ZAPASY-OSOB-WSPIERANYCH-I-ZWIERZAT",
+          "strona": 12,
+          "sekcja": "Osoby potrzebujące szczególnej pomocy (s. 12), zwierzęta (s. 14–15), dekalog (s. 52)"
         },
         {
           "procedure_id": "KARTA-OLIOC-ZWIERZETA-W-KRYZYSIE",
@@ -1532,8 +1429,18 @@
       "tytul": "Wskazówki dotyczące bezpieczeństwa żywności podczas przerwy w dostawie prądu (EFSA, wersja PL)",
       "status_techniczny": "aktywny",
       "liczba_stron": 1,
-      "liczba_powiazan": 1,
+      "liczba_powiazan": 3,
       "powiazania": [
+        {
+          "procedure_id": "KARTA-OLIOC-ZAPAS-WODY",
+          "strona": 1,
+          "sekcja": "Infografika EFSA/GIS"
+        },
+        {
+          "procedure_id": "KARTA-OLIOC-ZAPAS-ZYWNOSCI",
+          "strona": 1,
+          "sekcja": "Infografika EFSA/GIS"
+        },
         {
           "procedure_id": "KARTA-OLIOC-ZYWNOSC-BEZ-PRADU",
           "strona": 1,

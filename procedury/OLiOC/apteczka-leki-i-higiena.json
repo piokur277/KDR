@@ -1,0 +1,96 @@
+{
+  "id": "KARTA-OLIOC-APTECZKA-LEKI-I-HIGIENA",
+  "wzorzec": 2,
+  "kategoria": "olioc",
+  "grupa": "olioc",
+  "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+  "data_aktualizacji": "2026-10-28",
+  "slowo_kluczowe": "olioc leki i higiena na kryzys",
+  "keywords": [
+    "apteczka i leki na 72 godziny",
+    "środki higieny podczas kryzysu",
+    "dokumentacja medyczna i alergie kryzys"
+  ],
+  "aliasy": [
+    "apteczka i leki na 72 godziny",
+    "środki higieny podczas kryzysu",
+    "dokumentacja medyczna i alergie kryzys"
+  ],
+  "prefix": "Domowa apteczka, leki i środki higieny w zapasach.",
+  "najpierw": [
+    {
+      "t": "Miej przy sobie niezbędne leki i urządzenia wspomagające.",
+      "zr": "Poradnik 2025",
+      "str": 11
+    },
+    {
+      "t": "Poinformuj najbliższych o chorobach i alergiach; dokumentację medyczną trzymaj w jednym miejscu.",
+      "zr": "Poradnik 2025",
+      "str": 11
+    },
+    {
+      "t": "Skompletuj apteczkę z lekami i naucz się udzielać pierwszej pomocy.",
+      "zr": "Poradnik 2025",
+      "str": 52
+    }
+  ],
+  "parametry": [],
+  "sekcje": [
+    {
+      "etykieta": "Apteczka",
+      "punkty": [
+        {
+          "t": "Leki przyjmowane na stałe, przeciwbólowe, przeciwzapalne, przeciwwymiotne, przeciwbiegunkowe.",
+          "zr": "Poradnik 2025",
+          "str": 21
+        },
+        {
+          "t": "Gaza, bandaże, opatrunki na oparzenia, rękawiczki jednorazowe, środki antyseptyczne.",
+          "zr": "Poradnik 2025",
+          "str": 21
+        },
+        {
+          "t": "Opaska do tamowania krwotoków, termometr, nożyczki, maseczki FFP3, folia termiczna.",
+          "zr": "Poradnik 2025",
+          "str": 21
+        }
+      ]
+    },
+    {
+      "etykieta": "Higiena",
+      "punkty": [
+        {
+          "t": "Papier toaletowy, chusteczki nawilżane, podpaski, pieluchy, środki dezynfekujące, worki na śmieci, wiadro z pokrywą.",
+          "zr": "Poradnik 2025",
+          "str": 21
+        }
+      ]
+    },
+    {
+      "etykieta": "Zdrowie",
+      "punkty": [
+        {
+          "t": "Postaraj się o kartę grupy krwi i noś ją przy sobie.",
+          "zr": "Poradnik 2025",
+          "str": 11
+        }
+      ]
+    }
+  ],
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "leki",
+    "higiena",
+    "zdrowie"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+      "strona": 21,
+      "sekcja": "Apteczka i higiena (s. 21), przygotuj siebie (s. 11), dekalog (s. 52)"
+    }
+  ],
+  "data_przegladu": "2026-10-28"
+}
