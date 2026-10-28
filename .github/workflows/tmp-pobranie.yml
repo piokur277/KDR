@@ -11,11 +11,28 @@ jobs:
       - uses: actions/checkout@v4
       - name: Pobierz
         run: |
-          mkdir -p tmp-olioc3 && cd tmp-olioc3 && rm -f log.txt
-          get(){ curl -sSL --retry 3 -A "Mozilla/5.0" -o "$1" "$2" && echo "$1 $(stat -c%s "$1") $(file -b "$1" | cut -c1-40)" >> log.txt; }
-          get efsa-blackout.pdf "https://www.gov.pl/attachment/39db4a4b-e8fd-4875-939c-d5a6b6bf0afe"
-          cat log.txt
+          sudo apt-get install -y -qq poppler-utils >/dev/null
+          mkdir -p tmp-adr && cd tmp-adr && rm -f log.txt
+          curl -sSL -A "Mozilla/5.0" -o meta-642.json "https://api.sejm.gov.pl/eli/acts/DU/2025/642" || true
+          curl -sSL -A "Mozilla/5.0" -o meta-593.json "https://api.sejm.gov.pl/eli/acts/DU/2025/593" || true
+          mkdir -p all
+          for act in 642 593; do
+            for n in $(seq -w 1 70); do
+              f=all/D2025${act}-$n.pdf; f=all/D20250${act}-$n.pdf
+              code=$(curl -sSL --retry 2 -A "Mozilla/5.0" -o "$f" -w '%{http_code}' "https://eli.gov.pl/api/acts/DU/2025/${act}/text/I/D20250${act}-$n.pdf")
+              if [ "$code" != "200" ] || ! file -b "$f" | grep -q PDF; then rm -f "$f"; echo "$act-$n brak ($code)" >> log.txt; continue; fi
+              pdftotext -layout "$f" "${f%.pdf}.txt"
+              pages=$(pdfinfo "$f" | awk '/Pages/{print $2}')
+              first=$(grep -m3 -E "DZIAŁ|CZĘŚĆ|Rozdział|ROZDZIAŁ" "${f%.pdf}.txt" | tr -s ' ' | tr '\n' '|' | cut -c1-200)
+              hit=$(grep -c -E "5\.3\.2\.3|5\.3\.2\.1|numer rozpoznawczy zagrożenia|Numer rozpoznawczy zagrożenia|5\.2\.2\.2|5\.3\.1\.7|1\.4\.3\.|1\.2\.1" "${f%.pdf}.txt")
+              echo "$act-$n str=$pages traf=$hit $first" >> log.txt
+            done
+          done
+          mkdir -p keep
+          for t in all/*.txt; do if grep -q -E "5\.3\.2\.3|Numer rozpoznawczy zagrożenia" "$t"; then cp "${t%.txt}.pdf" "$t" keep/; fi; done
+          rm -rf all
+          cat log.txt; ls -la keep
       - name: Zapisz
         run: |
           git config user.name tmp && git config user.email tmp@users.noreply.github.com
-          git add tmp-olioc3 && git commit -m "Tymczasowe: olioc3" && git push
+          git add tmp-adr && git commit -m "Tymczasowe: adr" && git push
