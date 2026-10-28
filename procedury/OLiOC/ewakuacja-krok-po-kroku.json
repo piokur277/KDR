@@ -1,0 +1,75 @@
+{
+  "id": "KARTA-OLIOC-EWAKUACJA-KROK-PO-KROKU",
+  "wzorzec": 2,
+  "kategoria": "olioc",
+  "grupa": "olioc",
+  "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+  "data_aktualizacji": "2026-10-28",
+  "slowo_kluczowe": "olioc przygotowanie do ewakuacji",
+  "keywords": [
+    "kiedy rozpocząć ewakuację",
+    "co zrobić przed opuszczeniem domu",
+    "przygotowanie mieszkania do ewakuacji"
+  ],
+  "aliasy": [
+    "kiedy rozpocząć ewakuację",
+    "co zrobić przed opuszczeniem domu",
+    "przygotowanie mieszkania do ewakuacji"
+  ],
+  "prefix": "Ewakuacja — co zrobić przed wyjściem z domu.",
+  "najpierw": [
+    {
+      "t": "Bezpośrednie zagrożenie życia lub zdrowia — nie zwlekaj z ewakuacją.",
+      "zr": "Poradnik 2025",
+      "str": 25
+    },
+    {
+      "t": "Ewakuację zarządzoną przez władze lub służby wykonaj bezwzględnie; informacje: strony rządowe, Alert RCB, RSO, media.",
+      "zr": "Poradnik 2025",
+      "str": 25
+    }
+  ],
+  "parametry": [],
+  "sekcje": [
+    {
+      "etykieta": "Przed wyjściem",
+      "punkty": [
+        {
+          "t": "Zamknij okna i dopływ wody, wyłącz urządzenia elektryczne i gazowe, wygaś źródła ognia (piec, kominek, kuchenka).",
+          "zr": "Poradnik 2025",
+          "str": 25
+        },
+        {
+          "t": "Ubierz się do pogody, zabierz plecak ewakuacyjny.",
+          "zr": "Poradnik 2025",
+          "str": 25
+        },
+        {
+          "t": "Sprawdź, czy sąsiedzi wiedzą o alarmie; w miarę możliwości pomóż osobom ze szczególnymi potrzebami.",
+          "zr": "Poradnik 2025",
+          "str": 25
+        },
+        {
+          "t": "Pamiętaj o zwierzętach; gdy nie możesz ich zabrać — zabezpiecz je, zostaw jedzenie i wodę.",
+          "zr": "Poradnik 2025",
+          "str": 25
+        }
+      ]
+    }
+  ],
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "ewakuacja ludności",
+    "zabezpieczenie domu"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+      "strona": 25,
+      "sekcja": "Ewakuacja (s. 25)"
+    }
+  ],
+  "data_przegladu": "2026-10-28"
+}

@@ -6842,6 +6842,247 @@
     "content": "1. NAJPIERW: 1 — CZUJNOŚĆ: atak w Ukrainie blisko granicy; możesz usłyszeć samoloty wojskowe i sygnał alarmowy — przygotuj się na kolejne informacje. 2 — GOTOWOŚĆ: większe ryzyko wtargnięcia obiektu — przygotuj się, by znaleźć się w bezpiecznym miejscu. 3 — ALARM: „Zagrożenie atakiem z powietrza. Znajdź bezpieczne miejsce” — działaj teraz.\n2. PARAMETRY: RSO — bezpłatna aplikacja — informuje o zagrożeniach na terenie Polski\n3. PRZED ALERTEM: Zapoznaj się z Poradnikiem bezpieczeństwa, ustal z rodziną sposób reagowania, sprawdź najbliższe miejsce ukrycia. Najbliższy punkt schronienia sprawdzisz na gdziesieukryc.pl.\n4. PO ALERCIE: Stosuj się do poleceń służb, treści Alertu RCB i oficjalnych komunikatów."
   },
   {
+    "id": "KARTA-OLIOC-EWAKUACJA-KROK-PO-KROKU",
+    "wzorzec": 2,
+    "kategoria": "olioc",
+    "grupa": "olioc",
+    "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+    "data_aktualizacji": "2026-10-28",
+    "slowo_kluczowe": "olioc przygotowanie do ewakuacji",
+    "keywords": [
+      "kiedy rozpocząć ewakuację",
+      "co zrobić przed opuszczeniem domu",
+      "przygotowanie mieszkania do ewakuacji"
+    ],
+    "aliasy": [
+      "kiedy rozpocząć ewakuację",
+      "co zrobić przed opuszczeniem domu",
+      "przygotowanie mieszkania do ewakuacji"
+    ],
+    "prefix": "Ewakuacja — co zrobić przed wyjściem z domu.",
+    "najpierw": [
+      {
+        "t": "Bezpośrednie zagrożenie życia lub zdrowia — nie zwlekaj z ewakuacją.",
+        "zr": "Poradnik 2025",
+        "str": 25
+      },
+      {
+        "t": "Ewakuację zarządzoną przez władze lub służby wykonaj bezwzględnie; informacje: strony rządowe, Alert RCB, RSO, media.",
+        "zr": "Poradnik 2025",
+        "str": 25
+      }
+    ],
+    "parametry": [],
+    "sekcje": [
+      {
+        "etykieta": "Przed wyjściem",
+        "punkty": [
+          {
+            "t": "Zamknij okna i dopływ wody, wyłącz urządzenia elektryczne i gazowe, wygaś źródła ognia (piec, kominek, kuchenka).",
+            "zr": "Poradnik 2025",
+            "str": 25
+          },
+          {
+            "t": "Ubierz się do pogody, zabierz plecak ewakuacyjny.",
+            "zr": "Poradnik 2025",
+            "str": 25
+          },
+          {
+            "t": "Sprawdź, czy sąsiedzi wiedzą o alarmie; w miarę możliwości pomóż osobom ze szczególnymi potrzebami.",
+            "zr": "Poradnik 2025",
+            "str": 25
+          },
+          {
+            "t": "Pamiętaj o zwierzętach; gdy nie możesz ich zabrać — zabezpiecz je, zostaw jedzenie i wodę.",
+            "zr": "Poradnik 2025",
+            "str": 25
+          }
+        ]
+      }
+    ],
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "ewakuacja ludności",
+      "zabezpieczenie domu"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 25,
+        "sekcja": "Ewakuacja (s. 25)"
+      }
+    ],
+    "data_przegladu": "2026-10-28",
+    "content": "1. NAJPIERW: Bezpośrednie zagrożenie życia lub zdrowia — nie zwlekaj z ewakuacją. Ewakuację zarządzoną przez władze lub służby wykonaj bezwzględnie; informacje: strony rządowe, Alert RCB, RSO, media.\n2. PRZED WYJŚCIEM: Zamknij okna i dopływ wody, wyłącz urządzenia elektryczne i gazowe, wygaś źródła ognia (piec, kominek, kuchenka). Ubierz się do pogody, zabierz plecak ewakuacyjny. Sprawdź, czy sąsiedzi wiedzą o alarmie; w miarę możliwości pomóż osobom ze szczególnymi potrzebami. Pamiętaj o zwierzętach; gdy nie możesz ich zabrać — zabezpiecz je, zostaw jedzenie i wodę."
+  },
+  {
+    "id": "KARTA-OLIOC-EWAKUACJA-OSOB-ZE-SZCZEGOLNYMI-POTRZEBAMI",
+    "wzorzec": 2,
+    "kategoria": "olioc",
+    "grupa": "olioc",
+    "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+    "data_aktualizacji": "2026-10-28",
+    "slowo_kluczowe": "olioc ewakuacja osób ze szczególnymi potrzebami",
+    "keywords": [
+      "ewakuacja seniora i osoby niepełnosprawnej",
+      "dziecko podczas ewakuacji",
+      "leki i urządzenia wspomagające ewakuacja"
+    ],
+    "aliasy": [
+      "ewakuacja seniora i osoby niepełnosprawnej",
+      "dziecko podczas ewakuacji",
+      "leki i urządzenia wspomagające ewakuacja"
+    ],
+    "prefix": "Ewakuacja osób starszych, chorych, z niepełnosprawnościami i dzieci.",
+    "najpierw": [
+      {
+        "t": "W razie nagłego zagrożenia poinformuj służby o osobie wymagającej szczególnej pomocy przy ewakuacji.",
+        "zr": "Poradnik 2025",
+        "str": 12
+      },
+      {
+        "t": "Ustal z osobą wspieraną sposób działania w kryzysie.",
+        "zr": "Poradnik 2025",
+        "str": 12
+      }
+    ],
+    "parametry": [],
+    "sekcje": [
+      {
+        "etykieta": "Przygotowanie",
+        "punkty": [
+          {
+            "t": "Pomóż spakować plecak ewakuacyjny; sprawdź zapas leków i baterii do urządzeń wspomagających.",
+            "zr": "Poradnik 2025",
+            "str": 12
+          },
+          {
+            "t": "Przekaż najważniejsze informacje i wyjaśnij, co trzeba zrobić — nie każdy jest świadomy zagrożenia.",
+            "zr": "Poradnik 2025",
+            "str": 12
+          },
+          {
+            "t": "Dzieciom i seniorom przygotuj identyfikatory z imieniem, nazwiskiem i telefonem.",
+            "zr": "Poradnik 2025",
+            "str": 52
+          }
+        ]
+      },
+      {
+        "etykieta": "Dzieci",
+        "punkty": [
+          {
+            "t": "Wytłumacz dziecku jego zadania i przećwiczcie je; bądź blisko i spokojny.",
+            "zr": "Poradnik 2025",
+            "str": 13
+          }
+        ]
+      }
+    ],
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "szczególne potrzeby",
+      "seniorzy",
+      "osoby z niepełnosprawnościami"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 12,
+        "sekcja": "Osoby potrzebujące szczególnej pomocy (s. 12–13), Dekalog (s. 52)"
+      }
+    ],
+    "data_przegladu": "2026-10-28",
+    "content": "1. NAJPIERW: W razie nagłego zagrożenia poinformuj służby o osobie wymagającej szczególnej pomocy przy ewakuacji. Ustal z osobą wspieraną sposób działania w kryzysie.\n2. PRZYGOTOWANIE: Pomóż spakować plecak ewakuacyjny; sprawdź zapas leków i baterii do urządzeń wspomagających. Przekaż najważniejsze informacje i wyjaśnij, co trzeba zrobić — nie każdy jest świadomy zagrożenia. Dzieciom i seniorom przygotuj identyfikatory z imieniem, nazwiskiem i telefonem.\n3. DZIECI: Wytłumacz dziecku jego zadania i przećwiczcie je; bądź blisko i spokojny."
+  },
+  {
+    "id": "KARTA-OLIOC-EWAKUACJA-RODZINY-I-TRANSPORT",
+    "wzorzec": 2,
+    "kategoria": "olioc",
+    "grupa": "olioc",
+    "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+    "data_aktualizacji": "2026-10-28",
+    "slowo_kluczowe": "olioc ewakuacja rodziny",
+    "keywords": [
+      "rodzina podczas ewakuacji",
+      "transport ewakuacyjny bezpieczeństwo",
+      "dokumenty podczas ewakuacji"
+    ],
+    "aliasy": [
+      "rodzina podczas ewakuacji",
+      "transport ewakuacyjny bezpieczeństwo",
+      "dokumenty podczas ewakuacji"
+    ],
+    "prefix": "Ewakuacja rodziny — dzieci, transport, kontakt z bliskimi.",
+    "najpierw": [
+      {
+        "t": "Dzieci mają przy sobie dane kontaktowe opiekuna i informacje medyczne.",
+        "zr": "Poradnik 2025",
+        "str": 25
+      },
+      {
+        "t": "Skorzystaj ze zorganizowanego transportu albo idź pieszo do wyznaczonego miejsca; samochodem nie blokuj dróg ewakuacyjnych.",
+        "zr": "Poradnik 2025",
+        "str": 25
+      },
+      {
+        "t": "Powiadom bliskich, że się ewakuujesz, w jaki sposób i dokąd.",
+        "zr": "Poradnik 2025",
+        "str": 25
+      }
+    ],
+    "parametry": [],
+    "sekcje": [
+      {
+        "etykieta": "Transport od innych osób",
+        "punkty": [
+          {
+            "t": "Prześlij bliskim numer rejestracyjny pojazdu i aktualny adres, w którym jesteś.",
+            "zr": "Poradnik 2025",
+            "str": 25
+          }
+        ]
+      },
+      {
+        "etykieta": "Plan rodzinny",
+        "punkty": [
+          {
+            "t": "Ustalcie miejsca i terminy spotkań — w okolicy i poza miejscowością — na wypadek rozdzielenia i braku łączności.",
+            "zr": "Poradnik 2025",
+            "str": 47
+          }
+        ]
+      }
+    ],
+    "nie_rob": [
+      {
+        "t": "Nie oddawaj dokumentów osobom oferującym pomoc lub transport.",
+        "zr": "Poradnik 2025",
+        "str": 25
+      }
+    ],
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "rodzina",
+      "transport ewakuacyjny"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 25,
+        "sekcja": "Ewakuacja (s. 25), plan na kryzys (s. 47)"
+      }
+    ],
+    "data_przegladu": "2026-10-28",
+    "content": "1. NAJPIERW: Dzieci mają przy sobie dane kontaktowe opiekuna i informacje medyczne. Skorzystaj ze zorganizowanego transportu albo idź pieszo do wyznaczonego miejsca; samochodem nie blokuj dróg ewakuacyjnych. Powiadom bliskich, że się ewakuujesz, w jaki sposób i dokąd.\n2. TRANSPORT OD INNYCH OSÓB: Prześlij bliskim numer rejestracyjny pojazdu i aktualny adres, w którym jesteś.\n3. PLAN RODZINNY: Ustalcie miejsca i terminy spotkań — w okolicy i poza miejscowością — na wypadek rozdzielenia i braku łączności.\n4. NIE RÓB: Nie oddawaj dokumentów osobom oferującym pomoc lub transport."
+  },
+  {
     "id": "KARTA-OLIOC-GRUDZIEŃ-04-LEKI_HIGIENA",
     "kategoria": "olioc",
     "miesiac_akademii": "grudzień",
@@ -7853,6 +8094,107 @@
     ]
   },
   {
+    "id": "KARTA-OLIOC-PLECAK-EWAKUACYJNY",
+    "wzorzec": 2,
+    "kategoria": "olioc",
+    "grupa": "olioc",
+    "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025; Akademia OLiOC: Instrukcja reagowania — zagrożenie atakiem z powietrza.",
+    "data_aktualizacji": "2026-10-28",
+    "slowo_kluczowe": "olioc plecak ewakuacyjny",
+    "keywords": [
+      "co spakować do plecaka ratunkowego",
+      "wyposażenie plecaka ewakuacyjnego olioc",
+      "torba ewakuacyjna dla rodziny"
+    ],
+    "aliasy": [
+      "co spakować do plecaka ratunkowego",
+      "wyposażenie plecaka ewakuacyjnego olioc",
+      "torba ewakuacyjna dla rodziny"
+    ],
+    "prefix": "Plecak ewakuacyjny — co spakować.",
+    "najpierw": [
+      {
+        "t": "Plecak ewakuacyjny powinien mieć każdy domownik, nawet dzieci; dopasuj listę do swoich potrzeb.",
+        "zr": "Poradnik 2025",
+        "str": 26
+      },
+      {
+        "t": "Przygotuj go wcześniej — w zagrożeniu nie trać czasu na kompletowanie rzeczy.",
+        "zr": "Instr. reagowania",
+        "str": 11
+      }
+    ],
+    "parametry": [],
+    "sekcje": [
+      {
+        "etykieta": "Zawartość",
+        "punkty": [
+          {
+            "t": "Woda butelkowana, filtry lub tabletki do uzdatniania wody; żywność wysokoodżywcza gotowa do spożycia.",
+            "zr": "Poradnik 2025",
+            "str": 26
+          },
+          {
+            "t": "Dokumenty, kopie na pendrivie, gotówka w różnych nominałach.",
+            "zr": "Poradnik 2025",
+            "str": 26
+          },
+          {
+            "t": "Apteczka i leki osobiste, środki higieniczne i do dezynfekcji.",
+            "zr": "Poradnik 2025",
+            "str": 26
+          },
+          {
+            "t": "Latarka, radio na baterie lub korbkę, naładowany telefon, powerbank, ładowarka, kable, baterie.",
+            "zr": "Poradnik 2025",
+            "str": 26
+          },
+          {
+            "t": "Scyzoryk lub multitool, zapalniczka, worki na śmieci, mapy drukowane, alternatywna łączność (np. walkie-talkie).",
+            "zr": "Poradnik 2025",
+            "str": 27
+          },
+          {
+            "t": "Ubranie do pory roku, odzież przeciwdeszczowa, śpiwór, karimata, folia termiczna; ważna rzecz osobista.",
+            "zr": "Poradnik 2025",
+            "str": 27
+          }
+        ]
+      },
+      {
+        "etykieta": "Indywidualne potrzeby",
+        "punkty": [
+          {
+            "t": "Uwzględnij wiek, stan zdrowia, dzieci, osoby starsze, osoby ze szczególnymi potrzebami i zwierzęta — np. niezbędne leki, zatyczki do uszu dla dzieci.",
+            "zr": "Instr. reagowania",
+            "str": 12
+          }
+        ]
+      }
+    ],
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "plecak ratunkowy",
+      "ewakuacja"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 26,
+        "sekcja": "Plecak ewakuacyjny (s. 26–27)"
+      },
+      {
+        "dokument_id": "doc-olioc-instrukcja-reagowania",
+        "strona": 11,
+        "sekcja": "Plecak ewakuacyjny na czas schronienia (s. 11–12)"
+      }
+    ],
+    "data_przegladu": "2026-10-28",
+    "content": "1. NAJPIERW: Plecak ewakuacyjny powinien mieć każdy domownik, nawet dzieci; dopasuj listę do swoich potrzeb. Przygotuj go wcześniej — w zagrożeniu nie trać czasu na kompletowanie rzeczy.\n2. ZAWARTOŚĆ: Woda butelkowana, filtry lub tabletki do uzdatniania wody; żywność wysokoodżywcza gotowa do spożycia. Dokumenty, kopie na pendrivie, gotówka w różnych nominałach. Apteczka i leki osobiste, środki higieniczne i do dezynfekcji. Latarka, radio na baterie lub korbkę, naładowany telefon, powerbank, ładowarka, kable, baterie. Scyzoryk lub multitool, zapalniczka, worki na śmieci, mapy drukowane, alternatywna łączność (np. walkie-talkie). Ubranie do pory roku, odzież przeciwdeszczowa, śpiwór, karimata, folia termiczna; ważna rzecz osobista.\n3. INDYWIDUALNE POTRZEBY: Uwzględnij wiek, stan zdrowia, dzieci, osoby starsze, osoby ze szczególnymi potrzebami i zwierzęta — np. niezbędne leki, zatyczki do uszu dla dzieci."
+  },
+  {
     "id": "KARTA-OLIOC-POMOC-SASIEDZKA",
     "wzorzec": 2,
     "kategoria": "olioc",
@@ -8136,263 +8478,85 @@
     "content": "1. NAJPIERW: Nawiąż kontakt z sąsiadami — warto wiedzieć, kto może potrzebować wsparcia, a kto może je zaoferować. Opracuj i przećwicz rodzinny plan kryzysowy; przygotuj zapasy na minimum 3 dni.\n2. FORMY ZAANGAŻOWANIA: Inicjatywy sąsiedzkie, grupy informacyjne, listy kontaktowe. Szkolenia, ćwiczenia, budżet obywatelski; działalność w OSP, organizacji humanitarnej, stowarzyszeniu; wolontariat.\n3. W CZASIE KONFLIKTU ZBROJNEGO: Nadal pracujesz w swoim zawodzie, chyba że otrzymasz inne zadania. Przydział mobilizacyjny do obrony cywilnej = zadania ochrony ludzi, mienia, infrastruktury, dóbr kultury; można zgłosić się na ochotnika (urząd wojewódzki).\n4. DEKALOG BEZPIECZEŃSTWA (WYBÓR): Korzystaj z wiarygodnych, przede wszystkim rządowych źródeł informacji. Słuchaj poleceń służb i współdziałaj z innymi."
   },
   {
-    "id": "KARTA-OLIOC-SIERPIEŃ-03-EWAKUACJA_RODZINY",
+    "id": "KARTA-OLIOC-SCHRONIENIA",
+    "wzorzec": 2,
     "kategoria": "olioc",
-    "miesiac_akademii": "sierpień",
-    "grupa_docelowa": "obywatel",
-    "status_zrodla": "oficjalne",
-    "data_aktualizacji": "2026-07-17",
-    "data_weryfikacji_zrodel": "2026-07-17",
-    "zrodlo": "Poradnik bezpieczeństwa - Ewakuacja",
-    "slowo_kluczowe": "olioc ewakuacja rodziny",
-    "keywords": [
-      "rodzina podczas ewakuacji",
-      "transport ewakuacyjny bezpieczeństwo",
-      "dokumenty podczas ewakuacji"
-    ],
-    "prefix": "OLiOC - sierpień: ewakuacja rodziny, transport i bezpieczeństwo dokumentów.",
-    "content": "1. Ustal kolejność wyjścia i osobę odpowiedzialną za dzieci, leki, dokumenty i zwierzęta.\n2. Dzieci powinny mieć przy sobie kontakt do opiekuna i podstawowe informacje medyczne.\n3. Korzystaj ze zorganizowanego transportu lub idź do wskazanego miejsca; samochodem nie blokuj dróg.\n4. Nie oddawaj dokumentów osobom oferującym niezweryfikowaną pomoc lub przewóz.\n5. Prześlij bliskim miejsce pobytu i numer rejestracyjny pojazdu, którym podróżujesz.\n6. Po dotarciu do miejsca zbiórki zgłoś obecność i nie oddalaj się bez poinformowania organizatorów.",
-    "tagi_wspolne": [
-      "OLiOC",
-      "ochrona ludności",
-      "edukacja obywatelska",
-      "Akademia OLiOC sierpień",
-      "rodzina",
-      "transport ewakuacyjny"
-    ],
-    "aliasy": [
-      "rodzina podczas ewakuacji",
-      "transport ewakuacyjny bezpieczeństwo",
-      "dokumenty podczas ewakuacji"
-    ],
-    "dokumenty_zrodlowe": [
-      {
-        "dokument_id": "src-poradnik-ewakuacja",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      }
-    ]
-  },
-  {
-    "id": "KARTA-OLIOC-SIERPIEŃ-04-EWAKUACJA_SZCZEGOLNE_POTRZEBY",
-    "kategoria": "olioc",
-    "miesiac_akademii": "sierpień",
-    "grupa_docelowa": "obywatel",
-    "status_zrodla": "oficjalne",
-    "data_aktualizacji": "2026-07-17",
-    "data_weryfikacji_zrodel": "2026-07-17",
-    "zrodlo": "Poradnik bezpieczeństwa - Osoby potrzebujące szczególnej pomocy; Poradnik bezpieczeństwa - Ewakuacja",
-    "slowo_kluczowe": "olioc ewakuacja osób ze szczególnymi potrzebami",
-    "keywords": [
-      "ewakuacja seniora i osoby niepełnosprawnej",
-      "dziecko podczas ewakuacji",
-      "leki i urządzenia wspomagające ewakuacja"
-    ],
-    "prefix": "OLiOC - sierpień: ewakuacja dzieci, seniorów i osób z niepełnosprawnościami.",
-    "content": "1. Ustal wcześniej indywidualny plan pomocy i sposób komunikacji z osobą wspieraną.\n2. Przygotuj leki, dokumentację medyczną, baterie i ładowanie urządzeń wspomagających.\n3. Zapisz informacje o sposobie przemieszczania, komunikacji i niezbędnej pomocy.\n4. Poinformuj służby o osobie, która nie może samodzielnie opuścić budynku.\n5. Dziecku przekaż spokojne, krótkie polecenia i zapewnij identyfikator z kontaktem do opiekuna.\n6. Nie rozdzielaj osoby zależnej od opiekuna ani od niezbędnego sprzętu bez uzgodnienia ze służbami.",
-    "tagi_wspolne": [
-      "OLiOC",
-      "ochrona ludności",
-      "edukacja obywatelska",
-      "Akademia OLiOC sierpień",
-      "szczególne potrzeby",
-      "seniorzy",
-      "osoby z niepełnosprawnościami"
-    ],
-    "aliasy": [
-      "ewakuacja seniora i osoby niepełnosprawnej",
-      "dziecko podczas ewakuacji",
-      "leki i urządzenia wspomagające ewakuacja"
-    ],
-    "dokumenty_zrodlowe": [
-      {
-        "dokument_id": "src-poradnik-szczegolna-pomoc",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      },
-      {
-        "dokument_id": "src-poradnik-ewakuacja",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      }
-    ]
-  },
-  {
-    "id": "KARTA-OLIOC-SIERPIEŃ-01-PLECAK_EWAKUACYJNY",
-    "kategoria": "olioc",
-    "miesiac_akademii": "sierpień",
-    "grupa_docelowa": "obywatel",
-    "status_zrodla": "oficjalne",
-    "data_aktualizacji": "2026-07-17",
-    "data_weryfikacji_zrodel": "2026-07-17",
-    "zrodlo": "Akademia OLiOC - program „jeden miesiąc - jeden temat”; Poradnik bezpieczeństwa - Ewakuacja; Poradnik bezpieczeństwa - Plan na kryzys",
-    "slowo_kluczowe": "olioc plecak ewakuacyjny",
-    "keywords": [
-      "co spakować do plecaka ratunkowego",
-      "wyposażenie plecaka ewakuacyjnego olioc",
-      "torba ewakuacyjna dla rodziny"
-    ],
-    "prefix": "OLiOC - sierpień: plecak ewakuacyjny dla każdego domownika.",
-    "content": "1. Każdy domownik powinien mieć własny lekki plecak dostosowany do wieku, zdrowia i pory roku.\n2. Spakuj wodę, żywność gotową do spożycia, leki, apteczkę, latarkę, radio, baterie i powerbank.\n3. Dodaj kopie dokumentów, listę kontaktów, gotówkę, mapę papierową, środki higieny i ubranie ochronne.\n4. Przygotuj rzeczy dla dzieci, seniorów, osób z niepełnosprawnościami oraz zwierząt.\n5. Przechowuj plecak w łatwo dostępnym miejscu i nie wkładaj do niego przedmiotów zbędnych.\n6. Kontroluj zawartość co najmniej dwa razy w roku: terminy żywności, leków, baterie i zmianę rozmiaru ubrań.",
-    "tagi_wspolne": [
-      "OLiOC",
-      "ochrona ludności",
-      "edukacja obywatelska",
-      "Akademia OLiOC sierpień",
-      "plecak ratunkowy",
-      "ewakuacja"
-    ],
-    "aliasy": [
-      "co spakować do plecaka ratunkowego",
-      "wyposażenie plecaka ewakuacyjnego olioc",
-      "torba ewakuacyjna dla rodziny"
-    ],
-    "dokumenty_zrodlowe": [
-      {
-        "dokument_id": "src-olioc-akademia",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      },
-      {
-        "dokument_id": "src-poradnik-ewakuacja",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      },
-      {
-        "dokument_id": "src-poradnik-plan",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      }
-    ]
-  },
-  {
-    "id": "KARTA-OLIOC-SIERPIEŃ-02-PRZYGOTOWANIE_EWAKUACJI",
-    "kategoria": "olioc",
-    "miesiac_akademii": "sierpień",
-    "grupa_docelowa": "obywatel",
-    "status_zrodla": "oficjalne",
-    "data_aktualizacji": "2026-07-17",
-    "data_weryfikacji_zrodel": "2026-07-17",
-    "zrodlo": "Poradnik bezpieczeństwa - Ewakuacja; Poradnik bezpieczeństwa - Plan na kryzys",
-    "slowo_kluczowe": "olioc przygotowanie do ewakuacji",
-    "keywords": [
-      "kiedy rozpocząć ewakuację",
-      "co zrobić przed opuszczeniem domu",
-      "przygotowanie mieszkania do ewakuacji"
-    ],
-    "prefix": "OLiOC - sierpień: przygotowanie do ewakuacji i decyzja o wyjściu.",
-    "content": "1. Jeśli występuje bezpośrednie zagrożenie życia, nie czekaj na utratę drogi wyjścia.\n2. Jeżeli ewakuację zarządzą władze lub służby, zastosuj się do poleceń i wyznaczonej trasy.\n3. O ile jest to bezpieczne: zamknij okna, zakręć wodę i gaz, wyłącz urządzenia oraz źródła ognia.\n4. Ubierz się do pogody, zabierz plecak, dokumenty, telefon i potrzebne leki.\n5. Powiadom bliskich, dokąd się udajesz; sprawdź sąsiadów wymagających pomocy.\n6. Nie wracaj po rzeczy, jeśli powrót naraża życie lub utrudnia działania ratownicze.",
-    "tagi_wspolne": [
-      "OLiOC",
-      "ochrona ludności",
-      "edukacja obywatelska",
-      "Akademia OLiOC sierpień",
-      "ewakuacja ludności",
-      "zabezpieczenie domu"
-    ],
-    "aliasy": [
-      "kiedy rozpocząć ewakuację",
-      "co zrobić przed opuszczeniem domu",
-      "przygotowanie mieszkania do ewakuacji"
-    ],
-    "dokumenty_zrodlowe": [
-      {
-        "dokument_id": "src-poradnik-ewakuacja",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      },
-      {
-        "dokument_id": "src-poradnik-plan",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
-      }
-    ]
-  },
-  {
-    "id": "KARTA-OLIOC-SIERPIEŃ-06-SCHRONIENIA",
-    "kategoria": "olioc",
-    "miesiac_akademii": "sierpień",
-    "grupa_docelowa": "obywatel",
-    "status_zrodla": "oficjalne",
-    "data_aktualizacji": "2026-07-17",
-    "data_weryfikacji_zrodel": "2026-07-17",
-    "zrodlo": "Poradnik bezpieczeństwa - Schronienia; Poradnik bezpieczeństwa - Plan na kryzys",
+    "grupa": "olioc",
+    "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025; Akademia OLiOC: Instrukcja reagowania — zagrożenie atakiem z powietrza.",
+    "data_aktualizacji": "2026-10-28",
     "slowo_kluczowe": "olioc gdzie się schronić",
     "keywords": [
       "schronienie podczas alarmu",
       "bezpieczne miejsce z dala od okien",
       "piwnica garaż podziemny schronienie"
     ],
-    "prefix": "OLiOC - sierpień: schron, ukrycie i miejsce doraźnego schronienia.",
-    "content": "1. Sprawdź wcześniej w gminie lub lokalnej jednostce PSP i OSP, gdzie znajdują się miejsca schronienia.\n2. Po otrzymaniu polecenia udaj się do wskazanego obiektu i stosuj do poleceń obsługi.\n3. Jeśli nie możesz dotrzeć do oznaczonego miejsca, wybierz centralne pomieszczenie z dala od okien, przy ścianach nośnych.\n4. Na zewnątrz szukaj najniższych kondygnacji, piwnic, garaży podziemnych, tuneli lub zagłębień terenu.\n5. Zabierz dokumenty, leki, telefon, radio, wodę i podstawowe wyposażenie, ale nie przeciążaj się.\n6. Nie opuszczaj schronienia samodzielnie, dopóki nie zostanie przekazane odwołanie zagrożenia lub polecenie wyjścia.",
-    "tagi_wspolne": [
-      "OLiOC",
-      "ochrona ludności",
-      "edukacja obywatelska",
-      "Akademia OLiOC sierpień",
-      "schronienia",
-      "bezpieczne miejsce"
-    ],
     "aliasy": [
       "schronienie podczas alarmu",
       "bezpieczne miejsce z dala od okien",
       "piwnica garaż podziemny schronienie"
     ],
-    "dokumenty_zrodlowe": [
+    "prefix": "Schronienia — gdzie je znaleźć i gdzie się ukryć, gdy schronu nie ma.",
+    "najpierw": [
       {
-        "dokument_id": "src-poradnik-schronienia",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
+        "t": "Lokalizację schronień sprawdzisz w urzędzie gminy, jednostce PSP lub OSP i na gov.pl/kgpsp; schronienia mają specjalny znak.",
+        "zr": "Poradnik 2025",
+        "str": 29
       },
       {
-        "dokument_id": "src-poradnik-plan",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
+        "t": "Nie możesz dotrzeć do oznaczonego schronienia — zostań w domu: z dala od okien, przy ścianach nośnych, w centralnych pomieszczeniach.",
+        "zr": "Poradnik 2025",
+        "str": 29
+      },
+      {
+        "t": "Poza domem — najniższe kondygnacje, piwnice, garaże podziemne, tunele, przejścia podziemne; nawet zagłębienie terenu jest lepsze niż otwarta przestrzeń.",
+        "zr": "Poradnik 2025",
+        "str": 29
       }
-    ]
-  },
-  {
-    "id": "KARTA-OLIOC-SIERPIEŃ-05-ZWIERZETA_EWAKUACJA",
-    "kategoria": "olioc",
-    "miesiac_akademii": "sierpień",
-    "grupa_docelowa": "obywatel",
-    "status_zrodla": "oficjalne",
-    "data_aktualizacji": "2026-07-17",
-    "data_weryfikacji_zrodel": "2026-07-17",
-    "zrodlo": "Poradnik bezpieczeństwa - Zadbaj o zwierzęta; Poradnik bezpieczeństwa - Ewakuacja",
-    "slowo_kluczowe": "olioc ewakuacja zwierząt",
-    "keywords": [
-      "zwierzęta podczas sytuacji kryzysowej",
-      "plecak dla psa kota ewakuacja",
-      "transport zwierząt podczas alarmu"
     ],
-    "prefix": "OLiOC - sierpień: zwierzęta domowe i gospodarskie podczas ewakuacji.",
-    "content": "1. Przygotuj dokumentację zdrowotną, informacje o lekach, dane właściciela i aktualne oznakowanie zwierzęcia.\n2. Miej transporter lub klatkę, smycz, szelki, obrożę i kaganiec odpowiedni do zwierzęcia.\n3. Zabierz karmę, wodę, leki, miski, środki higieny i woreczki.\n4. Zwierzęta gospodarskie przygotuj do transportu natychmiast po ogłoszeniu ewakuacji.\n5. Jeśli ewakuacja zwierzęcia nie jest możliwa, zabezpiecz wodę i pokarm oraz poinformuj służby o jego lokalizacji.\n6. Za przygotowanie zwierząt odpowiada właściciel; lokalne zasady sprawdź w urzędzie gminy.",
+    "parametry": [],
+    "sekcje": [
+      {
+        "etykieta": "Przygotuj wcześniej",
+        "punkty": [
+          {
+            "t": "Sprawdź najbliższy punkt schronienia (gdziesieukryc.pl), drogę do niego i sposób wejścia.",
+            "zr": "Instr. reagowania",
+            "str": 2
+          },
+          {
+            "t": "Wybierz co najmniej jeden punkt; jeśli nie ma go w pobliżu — zaplanuj inne miejsce.",
+            "zr": "Instr. reagowania",
+            "str": 2
+          },
+          {
+            "t": "Z miejsca schronienia usuń paliwa, farby, butle gazowe, pirotechnikę i przedmioty mogące spaść; drogi i wyjścia muszą być drożne.",
+            "zr": "Instr. reagowania",
+            "str": 10
+          }
+        ]
+      }
+    ],
     "tagi_wspolne": [
       "OLiOC",
       "ochrona ludności",
       "edukacja obywatelska",
-      "Akademia OLiOC sierpień",
-      "zwierzęta",
-      "opieka nad zwierzętami"
-    ],
-    "aliasy": [
-      "zwierzęta podczas sytuacji kryzysowej",
-      "plecak dla psa kota ewakuacja",
-      "transport zwierząt podczas alarmu"
+      "schronienia",
+      "bezpieczne miejsce"
     ],
     "dokumenty_zrodlowe": [
       {
-        "dokument_id": "src-poradnik-zwierzeta",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 29,
+        "sekcja": "Schronienia (s. 29)"
       },
       {
-        "dokument_id": "src-poradnik-ewakuacja",
-        "strona": 1,
-        "sekcja": "Oficjalne źródło internetowe"
+        "dokument_id": "doc-olioc-instrukcja-reagowania",
+        "strona": 2,
+        "sekcja": "Przygotuj się, ograniczenie zagrożenia pożarowego (s. 2, 10)"
       }
-    ]
+    ],
+    "data_przegladu": "2026-10-28",
+    "content": "1. NAJPIERW: Lokalizację schronień sprawdzisz w urzędzie gminy, jednostce PSP lub OSP i na gov.pl/kgpsp; schronienia mają specjalny znak. Nie możesz dotrzeć do oznaczonego schronienia — zostań w domu: z dala od okien, przy ścianach nośnych, w centralnych pomieszczeniach. Poza domem — najniższe kondygnacje, piwnice, garaże podziemne, tunele, przejścia podziemne; nawet zagłębienie terenu jest lepsze niż otwarta przestrzeń.\n2. PRZYGOTUJ WCZEŚNIEJ: Sprawdź najbliższy punkt schronienia (gdziesieukryc.pl), drogę do niego i sposób wejścia. Wybierz co najmniej jeden punkt; jeśli nie ma go w pobliżu — zaplanuj inne miejsce. Z miejsca schronienia usuń paliwa, farby, butle gazowe, pirotechnikę i przedmioty mogące spaść; drogi i wyjścia muszą być drożne."
   },
   {
     "id": "KARTA-OLIOC-SYGNALY-ALARMOWE",
@@ -8833,6 +8997,110 @@
         "sekcja": "Oficjalne źródło internetowe"
       }
     ]
+  },
+  {
+    "id": "KARTA-OLIOC-ZWIERZETA-W-KRYZYSIE",
+    "wzorzec": 2,
+    "kategoria": "olioc",
+    "grupa": "olioc",
+    "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+    "data_aktualizacji": "2026-10-28",
+    "slowo_kluczowe": "olioc ewakuacja zwierząt",
+    "keywords": [
+      "zwierzęta podczas sytuacji kryzysowej",
+      "plecak dla psa kota ewakuacja",
+      "transport zwierząt podczas alarmu"
+    ],
+    "aliasy": [
+      "zwierzęta podczas sytuacji kryzysowej",
+      "plecak dla psa kota ewakuacja",
+      "transport zwierząt podczas alarmu"
+    ],
+    "prefix": "Zwierzęta domowe i gospodarskie w kryzysie i podczas ewakuacji.",
+    "najpierw": [
+      {
+        "t": "Zwierzęta gospodarskie przygotuj do transportu natychmiast po ogłoszeniu nakazu ewakuacji.",
+        "zr": "Poradnik 2025",
+        "str": 15
+      },
+      {
+        "t": "Ewakuacja niemożliwa — poinformuj służby o pozostawionych zwierzętach.",
+        "zr": "Poradnik 2025",
+        "str": 15
+      }
+    ],
+    "parametry": [
+      {
+        "nazwa": "Zapas dla zwierząt domowych",
+        "wartosc": "karma, woda pitna i leki na kilka dni",
+        "zr": "Poradnik 2025",
+        "str": 14
+      },
+      {
+        "nazwa": "Zapas dla zwierząt gospodarskich",
+        "wartosc": "pasza i woda na 14 dni",
+        "zr": "Poradnik 2025",
+        "str": 15
+      }
+    ],
+    "sekcje": [
+      {
+        "etykieta": "Zwierzęta domowe",
+        "punkty": [
+          {
+            "t": "Dokumentacja zdrowotna, szczepienia i leki w jednym miejscu.",
+            "zr": "Poradnik 2025",
+            "str": 14
+          },
+          {
+            "t": "Kaganiec, obroża, szelki, smycz, transporter lub klatka; dane właściciela przy obroży.",
+            "zr": "Poradnik 2025",
+            "str": 14
+          },
+          {
+            "t": "Zaczipuj i zarejestruj zwierzę w ogólnodostępnej bazie.",
+            "zr": "Poradnik 2025",
+            "str": 14
+          }
+        ]
+      },
+      {
+        "etykieta": "Zwierzęta gospodarskie",
+        "punkty": [
+          {
+            "t": "Sprawdź budynki i ogrodzenia; zgromadź materiały do napraw; zbiorniki na deszczówkę.",
+            "zr": "Poradnik 2025",
+            "str": 15
+          },
+          {
+            "t": "Oznakuj zwierzęta (kolczyki); w sytuacji awaryjnej — znak farbą.",
+            "zr": "Poradnik 2025",
+            "str": 15
+          },
+          {
+            "t": "Za ewakuację odpowiada właściciel; koordynuje ją centrum zarządzania kryzysowego — szczegóły w urzędzie gminy.",
+            "zr": "Poradnik 2025",
+            "str": 15
+          }
+        ]
+      }
+    ],
+    "tagi_wspolne": [
+      "OLiOC",
+      "ochrona ludności",
+      "edukacja obywatelska",
+      "zwierzęta",
+      "opieka nad zwierzętami"
+    ],
+    "dokumenty_zrodlowe": [
+      {
+        "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+        "strona": 14,
+        "sekcja": "Zadbaj o zwierzęta (s. 14–15)"
+      }
+    ],
+    "data_przegladu": "2026-10-28",
+    "content": "1. NAJPIERW: Zwierzęta gospodarskie przygotuj do transportu natychmiast po ogłoszeniu nakazu ewakuacji. Ewakuacja niemożliwa — poinformuj służby o pozostawionych zwierzętach.\n2. PARAMETRY: Zapas dla zwierząt domowych — karma, woda pitna i leki na kilka dni; Zapas dla zwierząt gospodarskich — pasza i woda na 14 dni\n3. ZWIERZĘTA DOMOWE: Dokumentacja zdrowotna, szczepienia i leki w jednym miejscu. Kaganiec, obroża, szelki, smycz, transporter lub klatka; dane właściciela przy obroży. Zaczipuj i zarejestruj zwierzę w ogólnodostępnej bazie.\n4. ZWIERZĘTA GOSPODARSKIE: Sprawdź budynki i ogrodzenia; zgromadź materiały do napraw; zbiorniki na deszczówkę. Oznakuj zwierzęta (kolczyki); w sytuacji awaryjnej — znak farbą. Za ewakuację odpowiada właściciel; koordynuje ją centrum zarządzania kryzysowego — szczegóły w urzędzie gminy."
   },
   {
     "id": "KARTA-ORG-AMONIAK-NH3-WARTOSCI-GRANICZNE",

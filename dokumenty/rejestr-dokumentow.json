@@ -290,19 +290,6 @@
       "liczba_stron": 1,
       "uwagi": "Oficjalne źródło internetowe. Wymaga okresowej kontroli aktualności adresu i treści."
     },
-    "src-poradnik-schronienia": {
-      "tytul": "Poradnik bezpieczeństwa - Schronienia",
-      "wersja": "Źródło internetowe, zweryfikowane 2026-07-17",
-      "data_wydania": null,
-      "rodzaj": "Poradnik MSWiA, MON i RCB",
-      "plik": "https://www.gov.pl/web/poradnikbezpieczenstwa/schronienia",
-      "typ": "url",
-      "id": "src-poradnik-schronienia",
-      "status_techniczny": "aktywny",
-      "aktualnosc_merytoryczna": "zweryfikowano_2026-07-17",
-      "liczba_stron": 1,
-      "uwagi": "Oficjalne źródło internetowe. Wymaga okresowej kontroli aktualności adresu i treści."
-    },
     "src-poradnik-pozar": {
       "tytul": "Poradnik bezpieczeństwa - Pożar",
       "wersja": "Źródło internetowe, zweryfikowane 2026-07-17",

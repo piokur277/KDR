@@ -1,0 +1,82 @@
+{
+  "id": "KARTA-OLIOC-EWAKUACJA-RODZINY-I-TRANSPORT",
+  "wzorzec": 2,
+  "kategoria": "olioc",
+  "grupa": "olioc",
+  "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+  "data_aktualizacji": "2026-10-28",
+  "slowo_kluczowe": "olioc ewakuacja rodziny",
+  "keywords": [
+    "rodzina podczas ewakuacji",
+    "transport ewakuacyjny bezpieczeństwo",
+    "dokumenty podczas ewakuacji"
+  ],
+  "aliasy": [
+    "rodzina podczas ewakuacji",
+    "transport ewakuacyjny bezpieczeństwo",
+    "dokumenty podczas ewakuacji"
+  ],
+  "prefix": "Ewakuacja rodziny — dzieci, transport, kontakt z bliskimi.",
+  "najpierw": [
+    {
+      "t": "Dzieci mają przy sobie dane kontaktowe opiekuna i informacje medyczne.",
+      "zr": "Poradnik 2025",
+      "str": 25
+    },
+    {
+      "t": "Skorzystaj ze zorganizowanego transportu albo idź pieszo do wyznaczonego miejsca; samochodem nie blokuj dróg ewakuacyjnych.",
+      "zr": "Poradnik 2025",
+      "str": 25
+    },
+    {
+      "t": "Powiadom bliskich, że się ewakuujesz, w jaki sposób i dokąd.",
+      "zr": "Poradnik 2025",
+      "str": 25
+    }
+  ],
+  "parametry": [],
+  "sekcje": [
+    {
+      "etykieta": "Transport od innych osób",
+      "punkty": [
+        {
+          "t": "Prześlij bliskim numer rejestracyjny pojazdu i aktualny adres, w którym jesteś.",
+          "zr": "Poradnik 2025",
+          "str": 25
+        }
+      ]
+    },
+    {
+      "etykieta": "Plan rodzinny",
+      "punkty": [
+        {
+          "t": "Ustalcie miejsca i terminy spotkań — w okolicy i poza miejscowością — na wypadek rozdzielenia i braku łączności.",
+          "zr": "Poradnik 2025",
+          "str": 47
+        }
+      ]
+    }
+  ],
+  "nie_rob": [
+    {
+      "t": "Nie oddawaj dokumentów osobom oferującym pomoc lub transport.",
+      "zr": "Poradnik 2025",
+      "str": 25
+    }
+  ],
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "rodzina",
+    "transport ewakuacyjny"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+      "strona": 25,
+      "sekcja": "Ewakuacja (s. 25), plan na kryzys (s. 47)"
+    }
+  ],
+  "data_przegladu": "2026-10-28"
+}

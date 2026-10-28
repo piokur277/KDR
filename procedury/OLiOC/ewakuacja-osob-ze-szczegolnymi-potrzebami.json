@@ -1,0 +1,81 @@
+{
+  "id": "KARTA-OLIOC-EWAKUACJA-OSOB-ZE-SZCZEGOLNYMI-POTRZEBAMI",
+  "wzorzec": 2,
+  "kategoria": "olioc",
+  "grupa": "olioc",
+  "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025.",
+  "data_aktualizacji": "2026-10-28",
+  "slowo_kluczowe": "olioc ewakuacja osób ze szczególnymi potrzebami",
+  "keywords": [
+    "ewakuacja seniora i osoby niepełnosprawnej",
+    "dziecko podczas ewakuacji",
+    "leki i urządzenia wspomagające ewakuacja"
+  ],
+  "aliasy": [
+    "ewakuacja seniora i osoby niepełnosprawnej",
+    "dziecko podczas ewakuacji",
+    "leki i urządzenia wspomagające ewakuacja"
+  ],
+  "prefix": "Ewakuacja osób starszych, chorych, z niepełnosprawnościami i dzieci.",
+  "najpierw": [
+    {
+      "t": "W razie nagłego zagrożenia poinformuj służby o osobie wymagającej szczególnej pomocy przy ewakuacji.",
+      "zr": "Poradnik 2025",
+      "str": 12
+    },
+    {
+      "t": "Ustal z osobą wspieraną sposób działania w kryzysie.",
+      "zr": "Poradnik 2025",
+      "str": 12
+    }
+  ],
+  "parametry": [],
+  "sekcje": [
+    {
+      "etykieta": "Przygotowanie",
+      "punkty": [
+        {
+          "t": "Pomóż spakować plecak ewakuacyjny; sprawdź zapas leków i baterii do urządzeń wspomagających.",
+          "zr": "Poradnik 2025",
+          "str": 12
+        },
+        {
+          "t": "Przekaż najważniejsze informacje i wyjaśnij, co trzeba zrobić — nie każdy jest świadomy zagrożenia.",
+          "zr": "Poradnik 2025",
+          "str": 12
+        },
+        {
+          "t": "Dzieciom i seniorom przygotuj identyfikatory z imieniem, nazwiskiem i telefonem.",
+          "zr": "Poradnik 2025",
+          "str": 52
+        }
+      ]
+    },
+    {
+      "etykieta": "Dzieci",
+      "punkty": [
+        {
+          "t": "Wytłumacz dziecku jego zadania i przećwiczcie je; bądź blisko i spokojny.",
+          "zr": "Poradnik 2025",
+          "str": 13
+        }
+      ]
+    }
+  ],
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "szczególne potrzeby",
+    "seniorzy",
+    "osoby z niepełnosprawnościami"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+      "strona": 12,
+      "sekcja": "Osoby potrzebujące szczególnej pomocy (s. 12–13), Dekalog (s. 52)"
+    }
+  ],
+  "data_przegladu": "2026-10-28"
+}

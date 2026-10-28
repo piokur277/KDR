@@ -1,0 +1,80 @@
+{
+  "id": "KARTA-OLIOC-SCHRONIENIA",
+  "wzorzec": 2,
+  "kategoria": "olioc",
+  "grupa": "olioc",
+  "zrodlo": "MSWiA: Poradnik bezpieczeństwa, nr publikacji 1/2025; Akademia OLiOC: Instrukcja reagowania — zagrożenie atakiem z powietrza.",
+  "data_aktualizacji": "2026-10-28",
+  "slowo_kluczowe": "olioc gdzie się schronić",
+  "keywords": [
+    "schronienie podczas alarmu",
+    "bezpieczne miejsce z dala od okien",
+    "piwnica garaż podziemny schronienie"
+  ],
+  "aliasy": [
+    "schronienie podczas alarmu",
+    "bezpieczne miejsce z dala od okien",
+    "piwnica garaż podziemny schronienie"
+  ],
+  "prefix": "Schronienia — gdzie je znaleźć i gdzie się ukryć, gdy schronu nie ma.",
+  "najpierw": [
+    {
+      "t": "Lokalizację schronień sprawdzisz w urzędzie gminy, jednostce PSP lub OSP i na gov.pl/kgpsp; schronienia mają specjalny znak.",
+      "zr": "Poradnik 2025",
+      "str": 29
+    },
+    {
+      "t": "Nie możesz dotrzeć do oznaczonego schronienia — zostań w domu: z dala od okien, przy ścianach nośnych, w centralnych pomieszczeniach.",
+      "zr": "Poradnik 2025",
+      "str": 29
+    },
+    {
+      "t": "Poza domem — najniższe kondygnacje, piwnice, garaże podziemne, tunele, przejścia podziemne; nawet zagłębienie terenu jest lepsze niż otwarta przestrzeń.",
+      "zr": "Poradnik 2025",
+      "str": 29
+    }
+  ],
+  "parametry": [],
+  "sekcje": [
+    {
+      "etykieta": "Przygotuj wcześniej",
+      "punkty": [
+        {
+          "t": "Sprawdź najbliższy punkt schronienia (gdziesieukryc.pl), drogę do niego i sposób wejścia.",
+          "zr": "Instr. reagowania",
+          "str": 2
+        },
+        {
+          "t": "Wybierz co najmniej jeden punkt; jeśli nie ma go w pobliżu — zaplanuj inne miejsce.",
+          "zr": "Instr. reagowania",
+          "str": 2
+        },
+        {
+          "t": "Z miejsca schronienia usuń paliwa, farby, butle gazowe, pirotechnikę i przedmioty mogące spaść; drogi i wyjścia muszą być drożne.",
+          "zr": "Instr. reagowania",
+          "str": 10
+        }
+      ]
+    }
+  ],
+  "tagi_wspolne": [
+    "OLiOC",
+    "ochrona ludności",
+    "edukacja obywatelska",
+    "schronienia",
+    "bezpieczne miejsce"
+  ],
+  "dokumenty_zrodlowe": [
+    {
+      "dokument_id": "doc-poradnik-bezpieczenstwa-2025",
+      "strona": 29,
+      "sekcja": "Schronienia (s. 29)"
+    },
+    {
+      "dokument_id": "doc-olioc-instrukcja-reagowania",
+      "strona": 2,
+      "sekcja": "Przygotuj się, ograniczenie zagrożenia pożarowego (s. 2, 10)"
+    }
+  ],
+  "data_przegladu": "2026-10-28"
+}
